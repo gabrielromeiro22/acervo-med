@@ -1,54 +1,49 @@
-# React + TypeScript + Vite
+# Acervo Med
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+App de estudo (questões, flashcards e materiais) feito com React + TypeScript + Vite.
 
-Currently, two official plugins are available:
+## Rodando no localhost
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pré-requisitos: [Node.js](https://nodejs.org/) 20 ou superior (vem com o npm) e Git.
 
-## Expanding the ESLint configuration
+```bash
+# 1. Clonar o repositório
+git clone https://github.com/pcarvalhor/acervo-med.git
+cd acervo-med
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+# 2. Instalar as dependências
+npm install
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
+# 3. Subir o servidor de desenvolvimento
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Depois abra **http://localhost:5173** no navegador. As alterações no código recarregam a página automaticamente. Para parar o servidor, use `Ctrl + C` no terminal.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Os dados que o app usa (`public/acervo/*.json`) já estão no repositório, então não precisa rodar mais nada para ver as questões e os flashcards.
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
+### Versão de produção (opcional)
+
+```bash
+npm run build     # gera a pasta dist/
+npm run preview   # serve o build em http://localhost:4173
 ```
+
+## Regerando o acervo (opcional)
+
+Os PDFs e textos baixados (`data/acervo/pdf` e `data/acervo/txt`) não vão para o Git. Para baixar e processar tudo de novo:
+
+```bash
+npm run acervo                        # crawl → catalog → fetch → parse
+node scripts/acervo/build-app.mjs     # atualiza public/acervo/*.json
+```
+
+## Scripts
+
+| Comando | O que faz |
+| --- | --- |
+| `npm run dev` | Servidor de desenvolvimento em http://localhost:5173 |
+| `npm run build` | Checa os tipos e gera o build em `dist/` |
+| `npm run preview` | Serve o build em http://localhost:4173 |
+| `npm run lint` | Roda o ESLint |
+| `npm run acervo` | Pipeline completo de coleta e parsing do acervo |
