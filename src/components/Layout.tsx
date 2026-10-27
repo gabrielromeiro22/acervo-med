@@ -62,7 +62,7 @@ export default function Layout() {
               </>
             )}
           </div>
-          <Link to="/" className="absolute left-1/2 -translate-x-1/2"><Logo className="text-xl" /></Link>
+          <Link to="/" className="absolute left-1/2 hidden -translate-x-1/2 min-[440px]:block"><Logo className="text-xl" /></Link>
           <div className="flex items-center gap-2">
             <Link to="/app/busca" className={`${pill} px-2.5`} aria-label="Busca"><Search className="size-4" /></Link>
             <button className={`${pill} px-2.5`} onClick={toggleFull} aria-label={full ? 'Sair da tela cheia' : 'Tela cheia'}>

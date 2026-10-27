@@ -8,6 +8,18 @@ import { arvore, etiquetas, limpa, pastaDaDisciplina, pastaEm, semestreDe } from
 import { pct, periodoLabel } from '../lib/format'
 import { acertou, useArquivos, useQuestions, useStore, type Arquivo, type Simulado } from '../lib/store'
 
+const complemento = (nome: string, disc: string, rotulo: string) => {
+  const sem = nome.match(/\(?\s*20\d\d\.[12]\s*(?:-\s*([^)]+))?\)?\s*(?:-\s*(.+))?$/)
+  if (sem) {
+    // o que já aparece em outra etiqueta sai: "S_alt" (Só gabarito), "ROT. 1 - A" e "N2" (rótulo da prova)
+    const t = [sem[1], sem[2]].filter(Boolean).join(' · ').replace(/\s+/g, ' ').trim()
+      .replace(/^(?:local_)?s_?\s?alt\s*\d*$|^alt$/i, '').replace(/^ROT\.?\s*\d\s*-\s*[AB]\s*-?\s*/i, '')
+    return t && !rotulo.toLowerCase().includes(t.toLowerCase()) ? t : ''
+  }
+  // sem semestre: o nome todo, menos a disciplina ("Questões Repetidas - TPIs" → "Questões Repetidas")
+  return nome.replace(new RegExp(`\\b${disc}s?\\b`, 'i'), '').replace(/^[\s\-–]+|[\s\-–]+$/g, '').trim()
+}
+
 // nota de uma tentativa: acertos sobre o total de questões (em branco conta como erro)
 const notaDe = (s: Simulado, correta: (id: string) => number | undefined) =>
   pct(s.questionIds.filter((id) => acertou(s, id, correta(id))).length, s.questionIds.length)
@@ -44,6 +56,8 @@ export default function ProvasAnteriores() {
     return {
       id, a, n: xs.length, sem: (a && semestreDe(a)) || xs[0].prova?.match(/20\d\d\.[12]/)?.[0] || '—',
       rotulo: xs[0].prova?.replace(/\s*·?\s*20\d\d\.[12]\s*·?\s*/, ' · ').replace(/^ · | · $/g, '') ?? '',
+      // o que o nome do PDF diz além da disciplina e do semestre: "(2025.1 - PROUNIFIES)", "- Irregular", "Repetidas"
+      extra: a ? complemento(limpa(a.nome), xs[0].disciplina, xs[0].prova ?? '') : '',
       melhor: feitas.length ? Math.max(...feitas.map((s) => notaDe(s, correta))) : undefined,
       aberta: tentativas.find((s) => !s.finishedAt && !s.papel),
     }
@@ -75,9 +89,10 @@ export default function ProvasAnteriores() {
                 <div key={c.id} className="relative flex min-h-44 flex-col gap-1.5 rounded-2xl bg-white p-3.5 text-[#0d0d12] shadow-[inset_0_-5px_0_rgba(0,0,0,0.12)]">
                   {c.melhor !== undefined && <span className="absolute top-2.5 right-2.5 rounded-full bg-green-600 px-2 py-0.5 text-[11px] font-extrabold text-white">✓ {c.melhor}%</span>}
                   <span className="text-[11px] font-semibold uppercase tracking-wider text-zinc-500">{c.n} questões</span>
-                  <span className="font-display text-3xl font-bold tracking-tight">{c.sem}</span>
+                  <span className="font-display text-3xl font-bold tracking-tight">{c.sem === '—' ? (c.extra || 'Prova') : c.sem}</span>
                   <span className="flex min-h-5 flex-wrap gap-1">
                     {c.rotulo && <span className="rounded-full bg-zinc-200 px-2 py-0.5 text-[10px] font-extrabold uppercase">{c.rotulo}</span>}
+                    {c.extra && c.sem !== '—' && <span className="rounded-full bg-violet-200 px-2 py-0.5 text-[10px] font-extrabold uppercase text-violet-900">{c.extra}</span>}
                     {c.a && etiquetas(c.a).map(([t]) => <span key={t} className="rounded-full bg-zinc-200 px-2 py-0.5 text-[10px] font-extrabold uppercase">{t}</span>)}
                     {rec.length > 0 && <span className="rounded-full bg-yellow-400 px-2 py-0.5 text-[10px] font-extrabold uppercase text-yellow-950">Com recurso</span>}
                   </span>

@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import { ArrowRight, BarChart3, ClipboardList, FileText, Layers, MessageSquareText, Timer } from 'lucide-react'
 import { Logo } from '../components/Logo'
-import { useQuestions, useFlashcards, useMaterials } from '../lib/store'
+import { useArquivos, useQuestions, useFlashcards } from '../lib/store'
 
 const FEATURES = [
   { icon: ClipboardList, t: 'Banco de questões', d: 'Filtre por período, disciplina, tema, dificuldade e status.' },
@@ -13,7 +13,7 @@ const FEATURES = [
 ]
 
 export default function Landing() {
-  const q = useQuestions().length, f = useFlashcards().length, m = useMaterials().length
+  const q = useQuestions().length, f = useFlashcards().length, arquivos = useArquivos()
   return (
     <div className="min-h-dvh bg-[radial-gradient(circle_at_50%_0%,rgba(45,234,150,0.14),transparent_34rem)]">
       <header className="mx-auto flex max-w-6xl items-center justify-between px-4 py-5">
@@ -37,7 +37,7 @@ export default function Landing() {
         <div className="mt-14 flex flex-wrap gap-8 text-sm text-mute">
           <span><b className="font-display text-2xl text-ink">{q}</b> questões</span>
           <span><b className="font-display text-2xl text-ink">{f}</b> flashcards</span>
-          <span><b className="font-display text-2xl text-ink">{m}</b> materiais</span>
+          <span><b className="font-display text-2xl text-ink">{arquivos.length}</b> PDFs de provas e resumos</span>
         </div>
       </section>
 

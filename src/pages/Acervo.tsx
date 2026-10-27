@@ -7,6 +7,7 @@ import { Empty } from '../components/ui'
 import { arvore, limpa, pastaEm, semestreDe, todos, type Pasta } from '../lib/acervo'
 import { normalize, pct } from '../lib/format'
 import { useAcervoPronto, useArquivos, useStore, type Arquivo } from '../lib/store'
+import { useTermo } from '../lib/useTermo'
 
 const MAX = 300
 const ABAS = [
@@ -25,7 +26,8 @@ export default function Acervo() {
   const favs = useStore((s) => s.favArquivos)
   const recentes = useStore((s) => s.recentes)
   const [open, setOpen] = useState<Arquivo>()
-  const path = params.get('pasta') ?? '', term = params.get('q') ?? '', aba = params.get('aba') ?? ''
+  const path = params.get('pasta') ?? '', aba = params.get('aba') ?? ''
+  const [campo, setCampo, term] = useTermo()
   const set = (p: Record<string, string>) => setParams((cur) => {
     for (const [k, v] of Object.entries(p)) { if (v) cur.set(k, v); else cur.delete(k) }
     return cur
@@ -52,7 +54,8 @@ export default function Acervo() {
     const k = semestreDe(a).slice(0, 4) || 'Outros'
     grupos.set(k, [...(grupos.get(k) ?? []), a])
   }
-  const filhas = [...pasta.filhas.values()].sort((a, b) => a.nome.localeCompare(b.nome, 'pt', { numeric: true }))
+  const ordem = (n: string) => { const l = limpa(n); return /PER[ÍI]ODO/.test(l) ? parseInt(l) : /INTERNATO/.test(l) ? 20 : /TPI/.test(l) ? 21 : /ENAMED/.test(l) ? 22 : 30 }
+  const filhas = [...pasta.filhas.values()].sort((a, b) => (path ? 0 : ordem(a.nome) - ordem(b.nome)) || a.nome.localeCompare(b.nome, 'pt', { numeric: true }))
 
   return (
     <>
@@ -72,7 +75,7 @@ export default function Acervo() {
         </div>
         <label className="relative w-full sm:w-96">
           <Search className="pointer-events-none absolute top-1/2 left-3.5 size-4 -translate-y-1/2 text-mute" />
-          <input className="input h-12 rounded-2xl pl-10 text-base" value={term} onChange={(e) => set({ q: e.target.value, aba: '' })}
+          <input className="input h-12 rounded-2xl pl-10 text-base" value={campo} onChange={(e) => { setCampo(e.target.value); if (aba) set({ aba: '' }) }}
             placeholder={path ? `Buscar em ${limpa(pasta.nome)}…` : 'Ex.: HAM 4 2025, pré-natal, gabarito…'} />
         </label>
       </div>

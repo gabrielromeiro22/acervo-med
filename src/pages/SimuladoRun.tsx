@@ -109,19 +109,19 @@ function Run({ id }: { id: string }) {
 
   return (
     <div className="mx-auto max-w-4xl">
-      <div className="mb-6 grid grid-cols-[1fr_auto_1fr] items-center gap-3">
-        <div className="flex gap-2">
-          <button className={pill} onClick={() => navigate('/app')}><Home className="size-4" /> Início</button>
-          <button className={pill} onClick={() => setAviso('reiniciar')}><RotateCcw className="size-4" /> Reiniciar</button>
+      <div className="mb-6 grid grid-cols-[1fr_auto_1fr] items-center gap-2 sm:gap-3">
+        <div className="flex gap-1.5 sm:gap-2">
+          <button className={pill} onClick={() => navigate('/app')} aria-label="Início"><Home className="size-4" /> <span className="hidden sm:inline">Início</span></button>
+          <button className={pill} onClick={() => setAviso('reiniciar')} aria-label="Reiniciar"><RotateCcw className="size-4" /> <span className="hidden sm:inline">Reiniciar</span></button>
         </div>
         <span className="rounded-full bg-[#c80e58] px-4 py-1 font-extrabold tabular-nums">{pos + 1}/{ids.length}</span>
-        <div className="flex items-center justify-end gap-3">
-          <span className={`inline-flex items-center gap-2 font-mono text-lg font-bold tabular-nums ${pausado ? 'text-warn' : ''}`}>
-            <Clock className="size-5 text-red-500" /> {hms(sim.durationSec ? left : elapsed)}
+        <div className="flex items-center justify-end gap-2 sm:gap-3">
+          <span className={`inline-flex items-center gap-1.5 font-mono text-sm font-bold tabular-nums sm:text-lg ${pausado ? 'text-warn' : ''}`}>
+            <Clock className="hidden size-5 text-red-500 sm:block" /> {hms(sim.durationSec ? left : elapsed)}
           </span>
           <button role="switch" aria-checked={!pausado} aria-label={pausado ? 'Retomar' : 'Pausar'} onClick={() => setPausado(!pausado)}
-            className={`relative h-7 w-14 rounded-full border-2 border-white/70 transition ${pausado ? 'bg-zinc-700' : 'bg-zinc-900'}`}>
-            <i className={`absolute top-0.5 size-5 rounded-full bg-white transition-all ${pausado ? 'left-0.5' : 'left-7'}`} />
+            className={`relative h-7 w-12 shrink-0 rounded-full border-2 border-white/70 transition sm:w-14 ${pausado ? 'bg-zinc-700' : 'bg-zinc-900'}`}>
+            <i className={`absolute top-0.5 size-5 rounded-full bg-white transition-all ${pausado ? 'left-0.5' : 'left-5 sm:left-7'}`} />
           </button>
         </div>
       </div>

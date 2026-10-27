@@ -7,7 +7,7 @@ export interface Pasta { nome: string; path: string; filhas: Map<string, Pasta>;
 
 // "✅[5º PERÍODO]" → "5º PERÍODO"; "📄 RESUMOS 5" → "RESUMOS 5"; "🎯🆕 ASSUNTOS…" → "ASSUNTOS…"
 export const limpa = (s: string) =>
-  s.replace(/^[✅🔍📄🎯🆕\s]+/u, '').replace(/[✅🔍📄🎯🆕]/gu, '').replace(/\[\s*|\s*\]/g, '').replace(/\.pdf$/i, '').trim()
+  s.replace(/\s*\((?:https?:\/\/)?www\.[^)]*\)/gi, '').replace(/^[✅🔍📄🎯🆕\s]+/u, '').replace(/[✅🔍📄🎯🆕]/gu, '').replace(/\[\s*|\s*\]/g, '').replace(/\.pdf$/i, '').trim()
 
 let memo: { de?: Arquivo[]; raiz?: Pasta } = {}
 export function arvore(arquivos: Arquivo[]): Pasta {

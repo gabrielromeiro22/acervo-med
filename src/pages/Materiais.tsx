@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import { Link, useParams, useSearchParams } from 'react-router-dom'
+import { Link, Navigate, useParams, useSearchParams } from 'react-router-dom'
 import { ArrowLeft } from 'lucide-react'
 import { Markdown } from '../components/Markdown'
 import { Empty, PageHeader, Select } from '../components/ui'
 import { normalize, sortDisc, uniq } from '../lib/format'
-import { useMaterials } from '../lib/store'
+import { useMaterials, useStore } from '../lib/store'
 
 const TIPO = { resumo: 'Resumo', checklist: 'Checklist', mapa: 'Mapa' } as const
 
@@ -14,6 +14,10 @@ export default function Materiais() {
   const [params] = useSearchParams()
   const [disc, setDisc] = useState(() => params.get('disciplina') ?? '')
   const [term, setTerm] = useState('')
+  const periodo = useStore((s) => s.periodo)
+
+  // os resumos do acervo são PDFs por autora; esta página só lista material importado
+  if (!id && !materials.length) return <Navigate to={`/app/resumos?periodo=${periodo && periodo <= 8 ? periodo : 1}`} replace />
 
   if (id) {
     const m = materials.find((x) => x.id === id)

@@ -1,5 +1,6 @@
 import { useMemo } from 'react'
-import { Link, useSearchParams } from 'react-router-dom'
+import { Link } from 'react-router-dom'
+import { useTermo } from '../lib/useTermo'
 import { Search } from 'lucide-react'
 import { QuestionCard } from '../components/QuestionCard'
 import { Empty, PageHeader } from '../components/ui'
@@ -10,8 +11,8 @@ import { semFiguras } from '../lib/format'
 const LIMIT = 20
 
 export default function Busca() {
-  const [params, setParams] = useSearchParams()
-  const q = params.get('q') ?? ''
+  // campo responde na hora; a busca roda com o termo já gravado na URL
+  const [campo, setCampo, q] = useTermo()
   const questions = useQuestions()
   const cards = useFlashcards()
   const materials = useMaterials()
@@ -38,7 +39,7 @@ export default function Busca() {
       <label className="relative mb-8 block">
         <Search className="pointer-events-none absolute top-1/2 left-3 size-4 -translate-y-1/2 text-mute" />
         <input className="input py-3 pl-10 text-base" placeholder="Ex.: hipercalemia, Parkland, sensibilidade…" autoFocus
-          value={q} onChange={(e) => setParams(e.target.value ? { q: e.target.value } : {}, { replace: true })} />
+          value={campo} onChange={(e) => setCampo(e.target.value)} />
       </label>
 
       {terms.length > 0 && !total && <Empty>Nada encontrado para “{q}”.</Empty>}

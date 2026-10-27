@@ -6,7 +6,7 @@ import { Icon3D } from '../components/Icon3D'
 import { PdfViewer } from '../components/PdfViewer'
 import { SubjectModal } from '../components/SubjectModal'
 import { arvore, caminhoDe, limpa, pastaDaArea, pastaDoPeriodo, todos } from '../lib/acervo'
-import { pct, periodoLabel, sortDisc, uniq } from '../lib/format'
+import { INTERNATO, pct, periodoLabel, sortDisc, uniq } from '../lib/format'
 import { setState, useAcervoPronto, useArquivos, useFlashcards, useMaterials, useQuestions, useStore, type Arquivo } from '../lib/store'
 
 function greeting() {
@@ -15,6 +15,9 @@ function greeting() {
   if (h < 18 && h >= 12) return { text: 'Boa tarde', Icon: Sun }
   return { text: 'Boa noite', Icon: Moon }
 }
+
+// Internato: sigla da área ('Internato · Clínica Médica' → 'CM')
+const sigla = (d: string) => Object.keys(INTERNATO).find((k) => d === `Internato · ${INTERNATO[k]}`)
 
 const FUNDOS = [['escuro', 'Escuro'], ['claro', 'Claro'], ['animado', 'Animado']] as const
 const white = 'rounded-2xl border-2 border-black bg-gradient-to-b from-white to-zinc-200 text-bg shadow-[inset_0_-24px_32px_-20px_rgba(0,0,0,0.25)]'
@@ -32,7 +35,7 @@ export default function Dashboard() {
   const saved = useStore((s) => s.periodo)
   const fundo = useStore((s) => s.fundo)
   const driveUrl = useStore((s) => s.driveUrl)
-  const [modal, setModal] = useState<string>()
+  const [modal, setModal] = useState<{ d: string; p?: number }>()
   const [dicas, setDicas] = useState(false)
   const [config, setConfig] = useState(false)
   const [editDrive, setEditDrive] = useState(false)
@@ -159,7 +162,12 @@ export default function Dashboard() {
 
       <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
         {AREAS.map(({ nome: n, icon: I, bg, pasta }) => pasta && (
-          <Link key={n} to={`/app/acervo?pasta=${encodeURIComponent(pasta.path)}`}
+          // TPI e ENAMED abrem o menu (provas, materiais, questões); o Internato abre as áreas na grade de períodos
+          <Link key={n} to={n === 'INTERNATO' ? '#periodo' : `/app/acervo?pasta=${encodeURIComponent(pasta.path)}`}
+            onClick={(e) => {
+              if (n === 'INTERNATO') { e.preventDefault(); setState((s) => ({ ...s, periodo: 9 })); document.getElementById('periodo')?.scrollIntoView({ behavior: 'smooth' }) }
+              else { e.preventDefault(); setModal({ d: n === 'TPI' ? 'TPI' : 'ENAMED', p: 0 }) }
+            }}
             className={`group flex items-center gap-3 rounded-2xl bg-gradient-to-r ${bg} p-4 text-white transition hover:-translate-y-0.5 hover:brightness-105`}>
             <span className="grid size-11 shrink-0 place-items-center rounded-full bg-white/20"><I className="size-5" /></span>
             <span className="min-w-0 flex-1">
@@ -236,7 +244,7 @@ export default function Dashboard() {
           })}
         </div>
 
-        <section className="overflow-hidden rounded-2xl border-2 border-ink bg-black">
+        <section id="periodo" className="scroll-mt-4 overflow-hidden rounded-2xl border-2 border-ink bg-black">
           <div className="relative flex flex-wrap items-center gap-2 bg-ink px-4 py-2.5 text-bg">
             <p className="mr-auto flex items-center gap-2 text-xs font-bold uppercase tracking-[0.14em]">
               <Syringe className="size-4" /> {periodo !== undefined ? periodoLabel(periodo) : 'Período'}
@@ -283,12 +291,15 @@ export default function Dashboard() {
                 const off = !qs.length && !materials.some((m) => m.disciplina === d)
                 const lone = tiles.length % 2 === 1 && i === tiles.length - 1
                 return (
-                  <button key={d} onClick={() => setModal(d)}
+                  <button key={d} onClick={() => setModal({ d, p: periodo })}
                     className={`group flex min-h-32 items-center justify-between gap-3 p-5 text-left transition hover:-translate-y-0.5 ${
                       off ? 'rounded-2xl border-2 border-black bg-gradient-to-b from-zinc-500 to-zinc-600 text-zinc-900' : white
                     } ${lone ? 'sm:col-span-2 sm:mx-auto sm:w-[calc(50%-0.375rem)]' : ''}`}>
                     <span className="min-w-0">
-                      <span className="block font-display text-3xl font-bold leading-tight">{d.replace(/^Internato · /, '')}</span>
+                      {sigla(d) ? (
+                        <><span className="block font-display text-3xl font-bold leading-tight">{sigla(d)}</span>
+                          <span className="block text-sm font-semibold leading-tight opacity-80">{d.replace(/^Internato · /, '')}</span></>
+                      ) : <span className="block font-display text-3xl font-bold leading-tight">{d}</span>}
                       <span className="mt-1 block text-xs font-medium opacity-70">{off ? 'Indisponível' : `${nProvas} provas · ${seen}/${qs.length} questões vistas`}</span>
                       {!off && <span className="mt-2 block h-1.5 w-40 max-w-full overflow-hidden rounded-full bg-black/10"><span className="block h-full rounded-full bg-[#b83fd6]" style={{ width: `${pct(seen, qs.length)}%` }} /></span>}
                     </span>
@@ -301,7 +312,7 @@ export default function Dashboard() {
         </section>
       </div>
       {pdf && <PdfViewer arquivo={pdf} onClose={() => setPdf(undefined)} />}
-      {modal && <SubjectModal disciplina={modal} periodo={periodo} onClose={() => setModal(undefined)} />}
+      {modal && <SubjectModal disciplina={modal.d} periodo={modal.p} onClose={() => setModal(undefined)} />}
     </div>
   )
 }

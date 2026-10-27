@@ -7,6 +7,7 @@ import { Empty } from '../components/ui'
 import { arvore, limpa, pastaDoPeriodo, pastaEm, todos, type Pasta } from '../lib/acervo'
 import { normalize, periodoLabel } from '../lib/format'
 import { useAcervoPronto, useArquivos, type Arquivo } from '../lib/store'
+import { useTermo } from '../lib/useTermo'
 
 // Cor de cada autora (as demais caem no tom neutro)
 const TOM: Record<string, { tab: string; card: string; nome: string; avatar: string }> = {
@@ -27,7 +28,8 @@ export default function Resumos() {
   const pronto = useAcervoPronto()
   const [open, setOpen] = useState<Arquivo>()
   const periodo = Number(params.get('periodo')), modulo = params.get('modulo') ?? '', disc = params.get('disciplina') ?? ''
-  const autor = params.get('autor') ?? '', sub = params.get('pasta') ?? '', term = params.get('q') ?? ''
+  const autor = params.get('autor') ?? '', sub = params.get('pasta') ?? ''
+  const [campo, setCampo, term] = useTermo()
   const set = (p: Record<string, string>) => setParams((cur) => {
     for (const [k, v] of Object.entries(p)) { if (v) cur.set(k, v); else cur.delete(k) }
     return cur
@@ -45,10 +47,18 @@ export default function Resumos() {
   const nomeTela = disc || (modulo ? `${modulo} ${periodo}` : periodoLabel(periodo))
 
   const cab = (
-    <div className="mb-8 flex justify-center">
+    <div className="mb-8 flex flex-col items-center gap-3">
       <h1 className="rounded-2xl bg-[#c80e58] px-6 py-3 text-center font-display text-2xl font-bold uppercase shadow-[0_6px_0_#000] sm:text-3xl">
         {nomeTela} : Materiais
       </h1>
+      {!modulo && (
+        <div className="flex flex-wrap justify-center gap-1.5">
+          {[1, 2, 3, 4, 5, 6, 7, 8].map((p) => (
+            <button key={p} onClick={() => set({ periodo: String(p), autor: '', pasta: '', q: '' })}
+              className={`rounded-full border px-3 py-1 text-xs font-bold ${p === periodo ? 'border-white bg-white text-black' : 'border-white/20 text-zinc-400 hover:text-white'}`}>{p}º</button>
+          ))}
+        </div>
+      )}
     </div>
   )
   if (!autoras.length) return <>{cab}<Empty>Nenhum resumo encontrado para {nomeTela}.</Empty></>
@@ -58,7 +68,7 @@ export default function Resumos() {
     return (
       <section className="rounded-[1.75rem] border-2 border-ink bg-[#0b0b12] p-5 sm:p-8">
         {cab}
-        <div className="grid gap-x-8 gap-y-10 md:grid-cols-2">
+        <div className={`grid gap-x-8 gap-y-10 ${autoras.length > 1 ? 'md:grid-cols-2' : 'mx-auto max-w-lg'}`}>
           {autoras.map((a) => {
             const t = TOM[a.nome] ?? NEUTRO
             return (
@@ -120,7 +130,7 @@ export default function Resumos() {
       </div>
       <label className="relative mb-6 block">
         <Search className="pointer-events-none absolute top-1/2 left-3.5 size-4 -translate-y-1/2 text-mute" />
-        <input className="input h-11 rounded-xl pl-10" placeholder="Buscar nos materiais…" value={term} onChange={(e) => set({ q: e.target.value })} />
+        <input className="input h-11 rounded-xl pl-10" placeholder="Buscar nos materiais…" value={campo} onChange={(e) => setCampo(e.target.value)} />
       </label>
 
       {words.length ? (
