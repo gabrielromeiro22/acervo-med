@@ -10,7 +10,7 @@ loadAcervo()
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '') || '/'}>
       <App />
       <Toaster theme="dark" position="bottom-right" richColors />
     </BrowserRouter>
