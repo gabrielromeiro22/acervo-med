@@ -13,7 +13,7 @@ import type { Question } from '../data/types'
 import { LETTERS, fmtTime, textoParaIA } from '../lib/format'
 import { baixarTexto, relatorioTxt } from '../lib/relatorio'
 import { lerCaderno } from '../lib/correcao'
-import { recordAttempt, redoSimulado, setState, useQuestions, useStore, type Simulado } from '../lib/store'
+import { recordAttempt, redoSimulado, setState, useQuestoesProva, useStore, type Simulado } from '../lib/store'
 
 export default function SimuladoRun() {
   const { id = '' } = useParams()
@@ -22,7 +22,7 @@ export default function SimuladoRun() {
 
 function Run({ id }: { id: string }) {
   const sim = useStore((s) => s.simulados.find((x) => x.id === id))
-  const questions = useQuestions()
+  const questions = useQuestoesProva()
   const navigate = useNavigate()
   const byId = useMemo(() => new Map(questions.map((q) => [q.id, q])), [questions])
   const [elapsed, setElapsed] = useState(sim?.elapsedSec ?? 0)
@@ -32,6 +32,8 @@ function Run({ id }: { id: string }) {
   const [aviso, setAviso] = useState<'anular' | 'reiniciar' | 'finalizar'>()
   // alternativa escolhida e ainda não confirmada (gabarito "depois de responder")
   const [sel, setSel] = useState<{ qid: string; i: number }>()
+  // questão aberta (só gabarito / discursiva) com a resposta já revelada
+  const [mostrar, setMostrar] = useState<string>()
   const finished = !!sim?.finishedAt
   const modo = sim?.gabarito ?? 'final'
   const qid = sim?.questionIds[pos]
@@ -148,7 +150,7 @@ function Run({ id }: { id: string }) {
           <div className="mb-4 flex flex-wrap items-center gap-3">
             <h2 className="font-display text-2xl font-bold">Questão {pos + 1}</h2>
             {sim.mostrarAssunto !== false && (
-              <span className="max-w-xs truncate rounded-full border-2 border-white/60 px-3 py-0.5 text-xs font-extrabold tracking-wider uppercase" title={`${q.materia ?? ''} · ${q.tema}`}>{q.tema}</span>
+              <span className="max-w-xs truncate rounded-full border-2 border-white/60 px-3 py-0.5 text-xs font-extrabold tracking-wider uppercase" title={`${q.materia ?? ''} · ${q.tema}`}>{q.tema === 'Geral' && q.roteiro ? q.roteiro : q.tema}</span>
             )}
             <span className="ml-auto flex flex-wrap gap-2">
               <button className={`${pill} ${anulada ? 'border-zinc-400 bg-zinc-600' : ''}`} onClick={() => anulada ? patch({ anuladas: sim.anuladas!.filter((x) => x !== q.id) }) : setAviso('anular')}>
@@ -175,6 +177,54 @@ function Run({ id }: { id: string }) {
 
           {anulada && <p className="mt-5 rounded-xl border border-zinc-500 bg-zinc-800 px-4 py-2 text-sm text-zinc-300">Questão anulada: conta como acerto na nota. Toque em "Anulada" para desfazer.</p>}
 
+          {q.aberta ? (() => {
+            const ve = modo === 'agora' || respondida || mostrar === q.id
+            const acertei = sim.answers[q.id] === 0
+            return (
+              <div className="mt-6 space-y-4">
+                {!ve ? (
+                  <div className="flex flex-col items-start gap-3 rounded-2xl border-2 border-dashed border-[#2b3170] bg-[#11153a] p-5">
+                    <p className="text-sm text-zinc-300">{q.aberta === 'gabarito'
+                      ? 'Esta questão veio só com a resposta correta no material. Pense na sua resposta e depois revele.'
+                      : 'Questão discursiva: escreva sua resposta (se quiser) e depois veja a resposta esperada.'}</p>
+                    {q.aberta === 'discursiva' && (
+                      <textarea className="input min-h-32 w-full bg-[#0b0e2a] text-[15px]" placeholder="Sua resposta…" value={sim.textos?.[q.id] ?? ''}
+                        onChange={(e) => patch({ textos: { ...sim.textos, [q.id]: e.target.value } })} />
+                    )}
+                    <button className="btn bg-[#c80e58] text-white shadow-[0_3px_0_#7a0836]" onClick={() => setMostrar(q.id)}>
+                      {q.aberta === 'gabarito' ? 'Revelar resposta' : 'Ver resposta esperada'} <ArrowRight className="size-4" />
+                    </button>
+                  </div>
+                ) : (
+                  <>
+                    {q.aberta === 'discursiva' && sim.textos?.[q.id] && (
+                      <div className="rounded-2xl border border-[#2b3170] bg-[#11153a] p-4 text-[15px]"><p className="mb-1 text-xs font-bold text-zinc-400 uppercase">Sua resposta</p><p className="whitespace-pre-line">{sim.textos[q.id]}</p></div>
+                    )}
+                    <div className="flex items-start gap-3 rounded-2xl border-2 border-green-500 bg-gradient-to-b from-[#1b2052] to-[#11153a] px-4 py-3.5 ring-2 ring-green-500/50">
+                      <span className="grid size-9 shrink-0 place-items-center rounded-full bg-green-500 text-white"><Check className="size-5" /></span>
+                      <span className="flex-1"><b className="mb-1 block text-xs tracking-wider text-green-400 uppercase">{q.aberta === 'gabarito' ? 'Resposta correta' : 'Resposta esperada'}</b>
+                        <span className="text-[15.5px] leading-relaxed"><RichText text={q.alternativas[0]} /></span></span>
+                    </div>
+                    {!respondida && !anulada ? (
+                      <div className="flex flex-wrap items-center justify-end gap-3">
+                        <span className="text-sm text-zinc-300">Como você foi?</span>
+                        <button className="btn bg-red-600 text-white" onClick={() => answer(1)}><X className="size-4" /> Errei</button>
+                        <button className="btn bg-green-600 text-white" onClick={() => answer(0)}><Check className="size-4" /> Acertei</button>
+                      </div>
+                    ) : respondida && !anulada && (
+                      <div className={`flex flex-wrap items-center gap-3 rounded-2xl p-4 ${acertei ? 'bg-green-100 text-green-900' : 'bg-rose-100 text-rose-900'}`}>
+                        <span className="min-w-0 flex-1"><b className="block text-lg">{acertei ? 'Boa, doutor(a)!' : 'Cuidado, doutor(a)…'}</b><small className="font-semibold">Você marcou: {acertei ? 'acertei' : 'errei'}</small></span>
+                        <button className="btn bg-[#c80e58] text-white shadow-[0_3px_0_#7a0836]" onClick={() => ultima ? setAviso('finalizar') : ir(pos + 1)}>
+                          {ultima ? 'Ver resultado' : 'Próxima questão'} <ArrowRight className="size-4" />
+                        </button>
+                      </div>
+                    )}
+                    {q.comentario && <Comentario q={q} onCopiar={copiar} onReportar={() => navigate(`/app/notas?qid=${q.id}`)} />}
+                  </>
+                )}
+              </div>
+            )
+          })() : <>
           <ol className="mt-6 space-y-3">
             {q.alternativas.map((alt, i) => {
               const riscada = riscadas.includes(i) && !reveal
@@ -218,6 +268,7 @@ function Run({ id }: { id: string }) {
             </div>
           )}
           {reveal && <Comentario q={q} acertou={modo === 'depois' ? !!certa : undefined} onCopiar={copiar} onReportar={() => navigate(`/app/notas?qid=${q.id}`)} />}
+          </>}
         </Rabiscos>
       )}
 

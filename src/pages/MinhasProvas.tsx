@@ -4,7 +4,7 @@ import { BookOpen, CalendarDays, Clock, ClipboardCheck, Eye, Play, Plus, RotateC
 import { TreinoModal } from '../components/TreinoModal'
 import { Empty } from '../components/ui'
 import { normalize, pct, uniq } from '../lib/format'
-import { acertou, redoSimulado, setState, useQuestions, useStore, type Simulado } from '../lib/store'
+import { acertou, redoSimulado, setState, useQuestoesProva, useStore, type Simulado } from '../lib/store'
 
 const tone = (p: number) =>
   p >= 85 ? 'bg-accent text-bg' : p >= 70 ? 'bg-lime-300 text-bg' : p >= 50 ? 'bg-warn text-bg' : 'bg-danger text-bg'
@@ -12,7 +12,7 @@ const tone = (p: number) =>
 const fmtMin = (sec: number) => (sec < 60 ? `${sec}s` : `${Math.round(sec / 60)}min`)
 
 export default function MinhasProvas() {
-  const questions = useQuestions()
+  const questions = useQuestoesProva()
   const simulados = useStore((s) => s.simulados)
   const navigate = useNavigate()
   const [term, setTerm] = useState('')

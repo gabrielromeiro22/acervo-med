@@ -130,6 +130,22 @@ const flashcards = [...cards.values()].map(c => {
   const verso = c.comentario && c.tipo === 'so-correta' ? `${c.verso}\n\n${c.comentario}` : c.verso
   return drop({ id: c.id, disciplina: disciplina(o), tema: c.tema || 'Geral', frente: limpaEnunciado(c.frente), verso: limpaTexto(verso), arquivo: o.arquivo })
 })
+// questões abertas das provas: "só gabarito" (S_alt: o material traz só a alternativa certa) e discursivas.
+// Entram no modo prova (o aluno revela a resposta e marca se acertou), com uma única "alternativa" = a resposta.
+const abertas = [...cards.values()].filter(c => c.origem?.arquivo && (c.tipo === 'so-correta' || c.tipo === 'discursiva')).map(c => {
+  const o = meta(c.origem), p = prova(o, byId.get(o.arquivo))
+  const resposta = limpaTexto(c.verso)
+  if (!resposta || !c.frente?.trim()) return null
+  return drop({
+    id: `ab-${c.id.replace(/^fc-/, '')}`, aberta: c.tipo === 'discursiva' ? 'discursiva' : 'gabarito', disciplina: disciplina(o), tema: c.tema || 'Geral',
+    periodo: periodo(o), dificuldade: 'media', enunciado: limpaEnunciado(c.frente), alternativas: [resposta], correta: 0,
+    comentario: c.tipo === 'discursiva' ? undefined : limpaTexto(c.comentario), prova: p.label, numero: o.numero ?? p.numero,
+    roteiro: c.roteiro, arquivo: o.arquivo,
+  })
+}).filter(Boolean)
+questoes.push(...abertas)
+console.error(`questões abertas (só gabarito / discursivas) nas provas: ${abertas.length}`)
+
 // catálogo navegável (sem os atalhos "SITE: WWW.ACERVO.VIP")
 const arquivos = catalog.filter(r => r.tipo !== 'atalho').map(r => drop({
   id: r.id, path: r.path, nome: r.nome, area: r.area, periodo: r.periodo, tipo: r.tipo, semestre: r.semestre,

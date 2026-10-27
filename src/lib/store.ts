@@ -26,6 +26,7 @@ export interface Simulado {
   formato?: 'tablet' | 'impresso' // caderno em PDF (Monte · imprima · corrija)
   layout?: Posicao[] // posição das bolinhas de cada questão no caderno do tablet
   paginas?: number // páginas do caderno gerado
+  textos?: Record<string, string> // respostas escritas nas questões discursivas
 }
 
 // acertos de uma prova: alternativa certa ou questão anulada
@@ -110,12 +111,14 @@ export const useAcervoPronto = () => useStore(() => acervo.pronto)
 export const useArquivos = () => useStore(() => acervo.arquivos)
 
 // Os seletores abaixo devolvem arrays novos; memorize pela referência do estado.
-let cache: { s?: State; q?: Question[]; f?: Flashcard[]; m?: Material[] } = {}
+let cache: { s?: State; q?: Question[]; qa?: Question[]; f?: Flashcard[]; m?: Material[] } = {}
 function catalog(s: State) {
   if (cache.s !== s) {
     cache = {
       s,
-      q: [...acervo.questions, ...s.imported.questions],
+      // q: banco de questões (múltipla escolha); qa: tudo, com as abertas das provas (só gabarito e discursivas)
+      q: [...acervo.questions.filter((x) => !x.aberta), ...s.imported.questions],
+      qa: [...acervo.questions, ...s.imported.questions],
       f: [
         ...acervo.flashcards, ...s.imported.flashcards,
         ...s.decks.flatMap((d) => d.cards.map((c) => ({ ...c, disciplina: d.nome, tema: 'Meu baralho', deck: d.id }))),
@@ -126,6 +129,7 @@ function catalog(s: State) {
   return cache as Required<typeof cache>
 }
 export const useQuestions = () => useStore((s) => catalog(s).q)
+export const useQuestoesProva = () => useStore((s) => catalog(s).qa)
 export const useFlashcards = () => useStore((s) => catalog(s).f)
 export const useMaterials = () => useStore((s) => catalog(s).m)
 export const allQuestions = () => catalog(state).q

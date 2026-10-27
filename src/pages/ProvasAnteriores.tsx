@@ -6,7 +6,7 @@ import { PdfViewer } from '../components/PdfViewer'
 import { Empty } from '../components/ui'
 import { arvore, etiquetas, limpa, pastaDaDisciplina, pastaEm, semestreDe } from '../lib/acervo'
 import { pct, periodoLabel } from '../lib/format'
-import { acertou, useArquivos, useQuestions, useStore, type Arquivo, type Simulado } from '../lib/store'
+import { acertou, useArquivos, useQuestoesProva, useStore, type Arquivo, type Simulado } from '../lib/store'
 
 const complemento = (nome: string, disc: string, rotulo: string) => {
   const sem = nome.match(/\(?\s*20\d\d\.[12]\s*(?:-\s*([^)]+))?\)?\s*(?:-\s*(.+))?$/)
@@ -29,7 +29,7 @@ export default function ProvasAnteriores() {
   const [params] = useSearchParams()
   const disciplina = params.get('disciplina') ?? ''
   const periodo = params.has('periodo') ? Number(params.get('periodo')) : undefined
-  const questions = useQuestions()
+  const questions = useQuestoesProva()
   const arquivos = useArquivos()
   const simulados = useStore((s) => s.simulados)
   const [open, setOpen] = useState<Arquivo>()

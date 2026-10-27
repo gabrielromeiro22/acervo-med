@@ -3,7 +3,7 @@ import { Link, useNavigate, useParams } from 'react-router-dom'
 import { ArrowRight, BookOpen, Check, Clock, Pause, Play, Settings, Shuffle, Tag, Target, Trash2 } from 'lucide-react'
 import { Empty } from '../components/ui'
 import { pct, shuffle } from '../lib/format'
-import { createSimulado, setState, useQuestions, useStore, type Gabarito } from '../lib/store'
+import { createSimulado, setState, useQuestoesProva, useStore, type Gabarito } from '../lib/store'
 
 const GABARITO: { v: Gabarito; t: string; d: string; icon: typeof Check }[] = [
   { v: 'depois', t: 'Depois de responder', d: 'Gabarito e comentário aparecem assim que você confirma a alternativa.', icon: Check },
@@ -15,7 +15,7 @@ const GABARITO: { v: Gabarito; t: string; d: string; icon: typeof Check }[] = [
 export default function ProvaConfig() {
   const { arquivo = '' } = useParams()
   const navigate = useNavigate()
-  const qs = useQuestions().filter((q) => q.arquivo === arquivo).sort((a, b) => (a.numero ?? 0) - (b.numero ?? 0))
+  const qs = useQuestoesProva().filter((q) => q.arquivo === arquivo).sort((a, b) => (a.numero ?? 0) - (b.numero ?? 0))
   const abertas = useStore((s) => s.simulados).filter((x) => x.arquivo === arquivo && !x.finishedAt && !x.papel)
   const [gab, setGab] = useState<Gabarito>('depois')
   const [timer, setTimer] = useState(true)

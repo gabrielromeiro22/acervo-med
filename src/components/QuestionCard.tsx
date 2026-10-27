@@ -54,6 +54,19 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge, riscad
         </a>
       )}
 
+      {q.aberta ? (
+        <div className={`mt-5 rounded-xl border px-3 py-2.5 text-sm ${reveal ? 'border-accent bg-accent/10' : 'border-line text-mute'}`}>
+          {reveal ? (
+            <>
+              <span className="mb-1 flex flex-wrap gap-1.5 text-[11px] font-semibold">
+                <span className="rounded-full bg-accent px-1.5 text-bg">{q.aberta === 'gabarito' ? 'Resposta correta' : 'Resposta esperada'}</span>
+                {chosen !== undefined && <span className={chosen === 0 ? 'text-accent' : 'text-danger'}>Você marcou: {chosen === 0 ? 'acertei' : 'errei'}</span>}
+              </span>
+              <RichText text={q.alternativas[0]} />
+            </>
+          ) : 'Questão sem alternativas no material: faça pelo modo prova para revelar a resposta.'}
+        </div>
+      ) : (
       <ol className="mt-5 space-y-2">
         {q.alternativas.map((alt, i) => {
           const right = reveal && i === q.correta
@@ -97,6 +110,7 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge, riscad
           )
         })}
       </ol>
+      )}
 
       {aviso}
       {reveal && (

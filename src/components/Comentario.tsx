@@ -26,7 +26,7 @@ export function Comentario({ q, acertou, onCopiar, onReportar }: { q: Question; 
   const corpo = ref < 0 ? pars : pars.slice(0, ref), refs = ref < 0 ? [] : pars.slice(ref + 1)
   return (
     <div className={`mt-5 rounded-2xl p-5 text-[15px] text-zinc-900 ${acertou === false ? 'bg-rose-50' : 'bg-green-50'}`}>
-      <p className="mb-3 text-xs font-extrabold tracking-[0.14em] text-zinc-500 uppercase">Resposta comentada · gabarito {certa}</p>
+      <p className="mb-3 text-xs font-extrabold tracking-[0.14em] text-zinc-500 uppercase">{q.aberta ? 'Comentário' : `Resposta comentada · gabarito ${certa}`}</p>
       <div className="space-y-3">{corpo.map((t, i) => <Paragrafo key={i} texto={t} certa={certa} />)}</div>
       {(refs.length > 0 || q.referencia) && (
         <div className="mt-4 border-t border-black/10 pt-3 text-xs text-zinc-500">

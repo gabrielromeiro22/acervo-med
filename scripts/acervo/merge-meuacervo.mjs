@@ -79,7 +79,7 @@ for (const [arquivo, p] of Object.entries(PV)) {
       if (!verso) return
       flashcards.push({
         id: `fc-${id}`, tipo: q.t === 'one' ? 'so-correta' : 'discursiva', disciplina, tema: '', frente: q.e.trim(), verso,
-        ...(q.t === 'one' && comentario && { comentario }), origem: { ...origem, numero: i + 1 },
+        ...(q.t === 'one' && comentario && { comentario }), roteiro, origem: { ...origem, numero: i + 1 },
       })
       novosF += novo
     }
