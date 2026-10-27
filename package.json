@@ -16,7 +16,8 @@
     "acervo:ocr": "node scripts/acervo/ocr.mjs",
     "acervo:build": "node scripts/acervo/build-app.mjs",
     "acervo:classificar": "node --env-file=.env.local scripts/acervo/classify.mjs --lote",
-    "acervo:coletar": "node --env-file=.env.local scripts/acervo/classify.mjs --coletar && npm run acervo:build"
+    "acervo:coletar": "node --env-file=.env.local scripts/acervo/classify.mjs --coletar && npm run acervo:build",
+    "acervo:consolidar": "node --env-file=.env.local scripts/acervo/consolidate.mjs && npm run acervo:build"
   },
   "dependencies": {
     "lucide-react": "^0.511.0",

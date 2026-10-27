@@ -47,6 +47,13 @@ function prova(o, rec) {
 
 // matéria, assunto e palavras-chave da classificação pela API (scripts/acervo/classify.mjs), quando já houver
 const classes = await readFile(new URL('classificacao.json', DATA), 'utf8').then(JSON.parse, () => ({}))
+// assunto canônico por matéria (scripts/acervo/consolidate.mjs); o nome fino original vira palavra-chave
+const canon = await readFile(new URL('assuntos-canonicos.json', DATA), 'utf8').then(JSON.parse, () => ({}))
+function assunto(c) {
+  if (!c) return {}
+  const tema = canon[c.materia]?.[c.assunto] || c.assunto
+  return { tema, palavras: tema === c.assunto ? c.palavras : [c.assunto, ...c.palavras] }
+}
 
 const catalog = await read('catalog.json')
 const byId = new Map(catalog.map(r => [r.id, r]))
@@ -70,11 +77,11 @@ for (const q of await load('questoes')) {
   ids.add(q.id); unique.set(k, { ...q })
 }
 const questoes = [...unique.values()].map(q => {
-  const o = meta(q.origem), c = classes[q.id], p = prova(o, byId.get(o.arquivo))
+  const o = meta(q.origem), c = classes[q.id], a = assunto(c), p = prova(o, byId.get(o.arquivo))
   return drop({
-    id: q.id, disciplina: disciplina(o), materia: c?.materia, tema: c?.assunto || q.tema || 'Geral', periodo: periodo(o), dificuldade: q.dificuldade,
+    id: q.id, disciplina: disciplina(o), materia: c?.materia, tema: a.tema || q.tema || 'Geral', periodo: periodo(o), dificuldade: q.dificuldade,
     enunciado: q.enunciado, alternativas: q.alternativas, correta: q.correta, comentario: q.comentario,
-    referencia: q.referencia, fonte: q.fonte, prova: p.label, numero: p.numero, palavras: c?.palavras,
+    referencia: q.referencia, fonte: q.fonte, prova: p.label, numero: p.numero, palavras: a.palavras,
     arquivo: o.arquivo, imagem: o.possivelImagem || o.alternativaVazia ? 1 : undefined,
   })
 })
