@@ -41,7 +41,7 @@ export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: str
   const PASSO2: Tile[] = [
     { to: `/app/provas?disciplina=${enc}${periodo !== undefined ? `&periodo=${periodo}` : ''}`, t: 'Provas anteriores', d: `${nProvas} prova(s) por semestre`, img: 'clipboard', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: nProvas > 0 },
     { to: `/app/questoes?disciplina=${enc}${periodo ? `&periodo=${periodo}` : ''}`, t: 'Por assunto', d: `${qs.length} questões com filtros`, img: 'bullseye', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: qs.length > 0 },
-    { to: `/imprimir/${enc}${periodo !== undefined ? `?periodo=${periodo}` : ''}`, t: 'Gerar PDF', d: 'Questões com gabarito para imprimir', img: 'memo', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: qs.length > 0 },
+    { to: `/app/montar?disciplina=${enc}${periodo !== undefined ? `&periodo=${periodo}` : ''}`, t: 'Gerar PDF', d: 'Papel, tablet ou com respostas', img: 'memo', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: qs.length > 0 },
   ]
   const cls = 'group relative flex aspect-[4/3] flex-col items-center justify-end gap-1 rounded-2xl p-4 text-center shadow-[inset_0_-6px_0_rgba(0,0,0,0.2)] transition'
 

@@ -11,6 +11,8 @@ import { TreinoModal } from '../components/TreinoModal'
 import { Empty } from '../components/ui'
 import type { Question } from '../data/types'
 import { LETTERS, fmtTime, textoParaIA } from '../lib/format'
+import { baixarTexto, relatorioTxt } from '../lib/relatorio'
+import { lerCaderno } from '../lib/correcao'
 import { recordAttempt, redoSimulado, setState, useQuestions, useStore, type Simulado } from '../lib/store'
 
 export default function SimuladoRun() {
@@ -302,17 +304,7 @@ function Resultado({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }
   const [treino, setTreino] = useState(false)
   const redo = (ids: string[], suffix: string, isTreino = false) => navigate(`/app/simulados/${redoSimulado(sim, ids, suffix, isTreino)}`)
 
-  const report = () => {
-    const lines = [
-      sim.nome, `Concluída em ${new Date(sim.finishedAt!).toLocaleString('pt-BR')}`,
-      `Nota: ${nota.toFixed(1)}% · ${count('certa')} acertos · ${count('errada')} erros · ${count('branco')} em branco · ${count('anulada')} anuladas · tempo ${fmtTime(sim.elapsedSec)}`, '',
-      ...rows.map((r) => `Questão ${r.n}: ${{ certa: 'Correta', errada: 'Errada', branco: 'Em branco', anulada: 'Anulada' }[r.status]}` +
-        (r.q ? ` · sua resposta: ${r.a === undefined ? '—' : LETTERS[r.a]} · gabarito: ${LETTERS[r.q.correta]} · ${r.q.disciplina} / ${r.q.tema}` : '')),
-    ]
-    const url = URL.createObjectURL(new Blob([lines.join('\n')], { type: 'text/plain' }))
-    Object.assign(document.createElement('a'), { href: url, download: `${sim.nome.replace(/[^\w\- ]+/g, '').trim() || 'prova'}.txt` }).click()
-    URL.revokeObjectURL(url)
-  }
+  const report = () => baixarTexto(`Relatorio_${sim.nome}`, relatorioTxt(sim, byId))
 
   const TILES = [
     { label: 'Acertos', value: count('certa'), icon: Target, bg: 'from-[#2f9e6e] to-[#1f7a55]' },
@@ -391,6 +383,29 @@ function Resultado({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }
 function Correcao({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }) {
   const [answers, setAnswers] = useState<Record<string, number>>(sim.answers)
   const [min, setMin] = useState('')
+  // caderno do tablet: lê as bolinhas pintadas do PDF respondido; as duvidosas ficam em destaque para conferir
+  const [duvidas, setDuvidas] = useState<Set<string>>(new Set())
+  const [lendo, setLendo] = useState(false)
+  const enviar = async (f?: File) => {
+    if (!f || !sim.layout) return
+    setLendo(true)
+    try {
+      const { leituras, aviso } = await lerCaderno(f, sim.layout, sim.paginas)
+      const novas: Record<string, number> = {}, d = new Set<string>(), rever: string[] = []
+      leituras.forEach((l, i) => {
+        const qid = sim.questionIds[i]
+        if (l.resposta !== undefined) novas[qid] = l.resposta
+        if (l.duvida || l.resposta === undefined) d.add(qid)
+        if (l.rever) rever.push(qid)
+      })
+      setAnswers(novas); setDuvidas(d)
+      setState((s) => ({ ...s, simulados: s.simulados.map((x) => (x.id === sim.id ? { ...x, marcadas: rever } : x)) }))
+      if (aviso) toast.warning(aviso)
+      toast.success(`${Object.keys(novas).length} de ${sim.questionIds.length} respostas lidas. Confira as destacadas.`)
+    } catch (e) {
+      console.error(e); toast.error('Não consegui ler esse PDF.')
+    } finally { setLendo(false) }
+  }
   const filled = sim.questionIds.filter((qid) => answers[qid] !== undefined).length
 
   const corrigir = () => {
@@ -408,13 +423,19 @@ function Correcao({ sim, byId }: { sim: Simulado; byId: Map<string, Question> })
     <>
       <Link to="/app/minhas-provas" className="text-xs text-mute hover:text-ink">← Minhas provas</Link>
       <h1 className="mt-1 font-display text-2xl font-bold">{sim.nome}</h1>
-      <p className="mb-6 text-sm text-mute">Lance as respostas da sua folha. Questões sem marcação contam como em branco.</p>
+      <p className="mb-6 text-sm text-mute">{sim.formato === 'tablet' ? 'Envie o caderno respondido no tablet: as bolinhas pintadas viram as respostas. Depois confira e corrija.' : 'Lance as respostas da sua folha. Questões sem marcação contam como em branco.'}</p>
+      {sim.formato === 'tablet' && sim.layout && (
+        <label className={`mb-6 flex cursor-pointer items-center justify-center gap-2 rounded-2xl border-2 border-dashed border-cyan-300/60 bg-cyan-300/5 p-6 font-semibold text-cyan-200 hover:bg-cyan-300/10 ${lendo ? 'pointer-events-none opacity-60' : ''}`}>
+          <ScanLine className="size-5" /> {lendo ? 'Lendo o PDF…' : 'Enviar o PDF respondido'}
+          <input type="file" accept="application/pdf" className="hidden" onChange={(e) => enviar(e.target.files?.[0])} />
+        </label>
+      )}
 
       <div className="card divide-y divide-line">
         {sim.questionIds.map((qid, i) => {
           const q = byId.get(qid)
           return (
-            <div key={qid} className="flex flex-wrap items-center gap-2 px-4 py-2.5">
+            <div key={qid} className={`flex flex-wrap items-center gap-2 px-4 py-2.5 ${duvidas.has(qid) ? 'bg-warn/10' : ''}`}>
               <span className="w-10 font-display font-bold tabular-nums">{i + 1}</span>
               {q ? q.alternativas.map((_, k) => (
                 <button key={k} onClick={() => setAnswers((a) => (a[qid] === k ? Object.fromEntries(Object.entries(a).filter(([x]) => x !== qid)) : { ...a, [qid]: k }))}

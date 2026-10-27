@@ -1,5 +1,6 @@
 import { useSyncExternalStore } from 'react'
 import type { Flashcard, Material, Question } from '../data/types'
+import type { Posicao } from './caderno'
 
 export interface Attempt { chosen: number; correct: boolean; at: number; ms: number }
 // Como a prova mostra o gabarito: depois de cada resposta, só no final ou desde o início (estudo).
@@ -22,6 +23,9 @@ export interface Simulado {
   anuladas?: string[] // anuladas pelo aluno: contam como acerto na nota
   mostrarAssunto?: boolean // ausente = mostra o assunto de cada questão
   pausaComentario?: boolean // pausa o cronômetro enquanto a resposta comentada está aberta
+  formato?: 'tablet' | 'impresso' // caderno em PDF (Monte · imprima · corrija)
+  layout?: Posicao[] // posição das bolinhas de cada questão no caderno do tablet
+  paginas?: number // páginas do caderno gerado
 }
 
 // acertos de uma prova: alternativa certa ou questão anulada
@@ -135,7 +139,7 @@ export function recordAttempt(q: Question, chosen: number, ms: number) {
 }
 
 export function createSimulado(nome: string, questionIds: string[], durationSec: number, treino = false, papel = false,
-  extra: Pick<Simulado, 'arquivo' | 'gabarito' | 'mostrarAssunto' | 'pausaComentario'> = {}) {
+  extra: Pick<Simulado, 'arquivo' | 'gabarito' | 'mostrarAssunto' | 'pausaComentario' | 'formato' | 'layout' | 'paginas'> = {}) {
   const sim: Simulado = { id: uid(), nome, createdAt: Date.now(), questionIds, answers: {}, durationSec, elapsedSec: 0, ...(treino && { treino }), ...(papel && { papel }), ...extra }
   setState((s) => ({ ...s, simulados: [sim, ...s.simulados] }))
   return sim.id
