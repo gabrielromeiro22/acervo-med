@@ -86,6 +86,8 @@ function Run({ id }: { id: string }) {
   const left = sim.durationSec ? sim.durationSec - elapsed : 0
   const answer = (i: number) => patch({ answers: { ...sim.answers, [ids[pos]]: i }, elapsedSec: elapsed })
   const anulada = !!q && !!sim.anuladas?.includes(q.id)
+  // prova por assunto: em qual assunto está a questão atual (os assuntos vêm em blocos, na ordem escolhida)
+  const assuntoAtual = (() => { let ini = 0; for (const [k, a] of (sim.assuntos ?? []).entries()) { if (pos < ini + a.n) return { ...a, k }; ini += a.n } })()
   const reveal = modo === 'agora' || (modo === 'depois' && respondida)
   const travada = reveal || anulada
   const escolhida = q ? (sel?.qid === q.id ? sel.i : sim.answers[q.id]) : undefined
@@ -149,9 +151,11 @@ function Run({ id }: { id: string }) {
         <Rabiscos key={q.id} prova={sim.id} questao={q.id} ativo={rabiscando} onSair={() => setRabiscando(false)}>
           <div className="mb-4 flex flex-wrap items-center gap-3">
             <h2 className="font-display text-2xl font-bold">Questão {pos + 1}</h2>
-            {sim.mostrarAssunto !== false && (
+            {sim.mostrarAssunto !== false && (sim.assuntos ? (
+              <span className="rounded-full border-2 border-white/60 px-3 py-0.5 text-xs font-extrabold tracking-wider uppercase">Assunto {assuntoAtual!.k + 1}</span>
+            ) : (
               <span className="max-w-xs truncate rounded-full border-2 border-white/60 px-3 py-0.5 text-xs font-extrabold tracking-wider uppercase" title={`${q.materia ?? ''} · ${q.tema}`}>{q.tema === 'Geral' && q.roteiro ? q.roteiro : q.tema}</span>
-            )}
+            ))}
             <span className="ml-auto flex flex-wrap gap-2">
               <button className={`${pill} ${anulada ? 'border-zinc-400 bg-zinc-600' : ''}`} onClick={() => anulada ? patch({ anuladas: sim.anuladas!.filter((x) => x !== q.id) }) : setAviso('anular')}>
                 <CircleX className="size-4" /> {anulada ? 'Anulada' : 'Anular'}
@@ -167,6 +171,14 @@ function Run({ id }: { id: string }) {
             </span>
           </div>
 
+          {sim.mostrarAssunto !== false && assuntoAtual && (
+            <div className="-mt-1 mb-4 inline-grid max-w-full grid-cols-[auto_1fr] items-center gap-x-2.5 gap-y-1 rounded-xl border-2 border-white/25 px-3 py-2 text-sm">
+              <span className="rounded-full border border-white/30 px-2 py-0.5 text-center text-[10px] font-bold tracking-wider text-zinc-400 uppercase">{assuntoAtual.n} {assuntoAtual.n === 1 ? 'questão' : 'questões'}</span>
+              <b className="leading-snug">{assuntoAtual.nome}</b>
+              {q.prova && <><span className="rounded-full border border-white/30 px-2 py-0.5 text-center text-[10px] font-bold tracking-wider text-zinc-400 uppercase">Prova</span>
+                <span className="text-xs font-semibold text-zinc-300">{q.disciplina} ({q.prova}{q.numero ? ` · Q${q.numero}` : ''})</span></>}
+            </div>
+          )}
           <div className="text-[17px] leading-relaxed"><RichText text={q.enunciado} /></div>
           {q.arquivo && (
             <a href={`https://drive.google.com/file/d/${q.arquivo}/view`} target="_blank" rel="noopener"

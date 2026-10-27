@@ -3,11 +3,9 @@ import { Link, useSearchParams } from 'react-router-dom'
 import { ChevronDown, Flame, Play } from 'lucide-react'
 import { Empty } from '../components/ui'
 import type { Question } from '../data/types'
-import { periodoLabel, sortDisc } from '../lib/format'
+import { assuntoDe, periodoLabel, sortDisc } from '../lib/format'
 import { useAcervoPronto, useQuestoesProva, useStore } from '../lib/store'
 
-// assunto de cada questão: o do roteiro oficial do período quando houver, senão o da classificação
-const assuntoDe = (q: Question) => q.roteiro || (q.tema && q.tema !== 'Geral' ? q.tema : '')
 const semestre = (q: Question) => q.prova?.match(/20\d\d\.[12]/)?.[0] ?? '—'
 
 interface Assunto { nome: string; n: number; provas: Map<string, { rotulo: string; disc: string; n: number }>; roteiro: boolean }

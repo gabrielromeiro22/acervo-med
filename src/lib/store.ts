@@ -27,6 +27,7 @@ export interface Simulado {
   layout?: Posicao[] // posição das bolinhas de cada questão no caderno do tablet
   paginas?: number // páginas do caderno gerado
   textos?: Record<string, string> // respostas escritas nas questões discursivas
+  assuntos?: { nome: string; n: number }[] // prova por assunto: os assuntos na ordem escolhida
 }
 
 // acertos de uma prova: alternativa certa ou questão anulada
@@ -143,7 +144,7 @@ export function recordAttempt(q: Question, chosen: number, ms: number) {
 }
 
 export function createSimulado(nome: string, questionIds: string[], durationSec: number, treino = false, papel = false,
-  extra: Pick<Simulado, 'arquivo' | 'gabarito' | 'mostrarAssunto' | 'pausaComentario' | 'formato' | 'layout' | 'paginas'> = {}) {
+  extra: Pick<Simulado, 'arquivo' | 'gabarito' | 'mostrarAssunto' | 'pausaComentario' | 'formato' | 'layout' | 'paginas' | 'assuntos'> = {}) {
   const sim: Simulado = { id: uid(), nome, createdAt: Date.now(), questionIds, answers: {}, durationSec, elapsedSec: 0, ...(treino && { treino }), ...(papel && { papel }), ...extra }
   setState((s) => ({ ...s, simulados: [sim, ...s.simulados] }))
   return sim.id

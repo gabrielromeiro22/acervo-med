@@ -70,6 +70,9 @@ export function moduloDe(disciplina: string): { modulo?: string } {
 }
 
 // texto sem as figuras [[IMG:…]] do Meu Acervo (para copiar ou resumir)
+// assunto de uma questão: o do roteiro oficial do período quando houver, senão o da classificação
+export const assuntoDe = (q: Question) => q.roteiro || (q.tema && q.tema !== 'Geral' ? q.tema : '')
+
 export const semFiguras = (t: string) => t.replace(/\[\[IMG:[\w.-]+\]\]/g, '[imagem no PDF original]')
 
 // Texto da questão para colar num assistente de IA (com gabarito só quando já foi revelado)

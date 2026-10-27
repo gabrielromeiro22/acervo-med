@@ -2,11 +2,12 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { ArrowLeft, ArrowUpRight, X } from 'lucide-react'
 import { arvore, pastaDaDisciplina, pastaDoPeriodo, pastaEm, todos } from '../lib/acervo'
-import { moduloDe } from '../lib/format'
+import { assuntoDe, moduloDe } from '../lib/format'
 import { useArquivos, useQuestions } from '../lib/store'
+import { AssuntosModal } from './AssuntosModal'
 import { Icon3D } from './Icon3D'
 
-interface Tile { to: string; t: string; d: string; img: string; bg: string; text: string; ok: boolean }
+interface Tile { to: string; acao?: () => void; t: string; d: string; img: string; bg: string; text: string; ok: boolean }
 
 // Menu da disciplina em dois passos, como no Meu Acervo:
 // 1) PDFs da disciplina · materiais de estudo · fazer questões; 2) provas anteriores · por assunto · gerar PDF.
@@ -14,6 +15,7 @@ export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: str
   const questions = useQuestions()
   const arquivos = useArquivos()
   const [passo, setPasso] = useState<1 | 2>(1)
+  const [assuntos, setAssuntos] = useState(false)
   const qs = questions.filter((q) => q.disciplina === disciplina && (periodo === undefined || q.periodo === periodo))
   const nProvas = new Set(qs.map((q) => q.arquivo).filter(Boolean)).size
 
@@ -28,10 +30,10 @@ export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: str
   const enc = encodeURIComponent(disciplina)
 
   useEffect(() => {
-    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose()
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && !assuntos && onClose()
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
-  }, [onClose])
+  }, [onClose, assuntos])
 
   const PASSO1: (Tile & { passo?: boolean })[] = [
     { to: `/app/acervo?pasta=${encodeURIComponent(dir)}`, t: 'Provas em PDF', d: `${nPdf} arquivo(s) no Drive`, img: 'printer', bg: 'from-[#3b6cf0] to-[#2442b8]', text: 'text-white', ok: nPdf > 0 },
@@ -40,10 +42,12 @@ export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: str
   ]
   const PASSO2: Tile[] = [
     { to: `/app/provas?disciplina=${enc}${periodo !== undefined ? `&periodo=${periodo}` : ''}`, t: 'Provas anteriores', d: `${nProvas} prova(s) por semestre`, img: 'clipboard', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: nProvas > 0 },
-    { to: `/app/questoes?disciplina=${enc}${periodo ? `&periodo=${periodo}` : ''}`, t: 'Por assunto', d: `${qs.length} questões com filtros`, img: 'bullseye', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: qs.length > 0 },
+    { to: '', acao: () => setAssuntos(true), t: 'Por assunto', d: `${new Set(qs.map(assuntoDe).filter(Boolean)).size} assuntos · ${qs.length} questões`, img: 'bullseye', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: qs.length > 0 },
     { to: `/app/montar?disciplina=${enc}${periodo !== undefined ? `&periodo=${periodo}` : ''}`, t: 'Gerar PDF', d: 'Papel, tablet ou com respostas', img: 'memo', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: qs.length > 0 },
   ]
   const cls = 'group relative flex aspect-[4/3] flex-col items-center justify-end gap-1 rounded-2xl p-4 text-center shadow-[inset_0_-6px_0_rgba(0,0,0,0.2)] transition'
+
+  if (assuntos) return <AssuntosModal disciplina={disciplina} periodo={periodo} qs={qs} onClose={() => setAssuntos(false)} />
 
   return (
     <div className="fixed inset-0 z-50 grid place-items-center bg-black/60 p-4 backdrop-blur-md" onClick={onClose} role="dialog" aria-modal aria-label={disciplina}>
@@ -69,6 +73,7 @@ export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: str
               </>
             )
             if (!x.ok) return <div key={x.t} className={`${cls} bg-gradient-to-b ${x.bg} ${x.text} cursor-not-allowed opacity-40`}>{corpo}</div>
+            if (x.acao) return <button key={x.t} onClick={x.acao} className={`${cls} bg-gradient-to-b ${x.bg} ${x.text} hover:-translate-y-1`}>{corpo}</button>
             if ('passo' in x && x.passo) return <button key={x.t} onClick={() => setPasso(2)} className={`${cls} bg-gradient-to-b ${x.bg} ${x.text} hover:-translate-y-1`}>{corpo}</button>
             return (
               <Link key={x.t} to={x.to} onClick={onClose} className={`${cls} bg-gradient-to-b ${x.bg} ${x.text} hover:-translate-y-1`}>
