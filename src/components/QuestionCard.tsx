@@ -1,0 +1,93 @@
+import type { ReactNode } from 'react'
+import { Link } from 'react-router-dom'
+import { Check, MessageSquareText, NotebookPen, Star, X } from 'lucide-react'
+import type { Question } from '../data/types'
+import { DIF_LABEL, LETTERS } from '../lib/format'
+import { toggleFavorite, useStore } from '../lib/store'
+
+export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
+  q: Question
+  chosen?: number
+  reveal: boolean
+  onChoose?: (i: number) => void
+  index?: string
+  badge?: ReactNode
+}) {
+  const fav = useStore((s) => s.favorites.includes(q.id))
+
+  return (
+    <article className="card p-5 sm:p-6">
+      <div className="mb-4 flex flex-wrap items-center gap-2">
+        {index && <span className="chip border-accent/40 font-semibold text-accent">{index}</span>}
+        <span className="chip">{q.disciplina}</span>
+        <span className="chip">{q.tema}</span>
+        <span className="chip">{q.periodo}º período</span>
+        <span className="chip">{DIF_LABEL[q.dificuldade]}</span>
+        {q.fonte && <span className="chip">{q.fonte}</span>}
+        <span className="ml-auto" />
+        {badge}
+        <button
+          className=" rounded-full p-1.5 text-mute transition hover:bg-white/5 hover:text-warn"
+          onClick={() => toggleFavorite(q.id)}
+          aria-label={fav ? 'Remover dos favoritos' : 'Favoritar'}
+        >
+          <Star className={`size-4 ${fav ? 'fill-warn text-warn' : ''}`} />
+        </button>
+      </div>
+
+      <p className="whitespace-pre-line leading-relaxed">{q.enunciado}</p>
+
+      <ol className="mt-5 space-y-2">
+        {q.alternativas.map((alt, i) => {
+          const right = reveal && i === q.correta
+          const wrong = reveal && i === chosen && i !== q.correta
+          const picked = !reveal && i === chosen
+          return (
+            <li key={i}>
+              <button
+                disabled={!onChoose}
+                onClick={() => onChoose?.(i)}
+                className={`flex w-full items-start gap-3 rounded-xl border px-3 py-2.5 text-left text-sm transition disabled:cursor-default ${
+                  right ? 'border-accent bg-accent/10'
+                    : wrong ? 'border-danger bg-danger/10'
+                      : picked ? 'border-accent/60 bg-white/5'
+                        : 'border-line enabled:hover:bg-white/5'
+                }`}
+              >
+                <span className={`grid size-6 shrink-0 place-items-center rounded-full border text-xs font-bold ${
+                  right ? 'border-accent bg-accent text-bg' : wrong ? 'border-danger bg-danger text-bg' : picked ? 'border-accent text-accent' : 'border-line text-mute'
+                }`}>
+                  {right ? <Check className="size-3.5" /> : wrong ? <X className="size-3.5" /> : LETTERS[i]}
+                </span>
+                <span className="pt-0.5">
+                  {reveal && (i === chosen || right) && (
+                    <span className="mb-1 flex flex-wrap gap-1.5 text-[11px] font-semibold">
+                      {i === chosen && <span className={right ? 'text-accent' : 'text-danger'}>Sua resposta</span>}
+                      {right && <span className="rounded-full bg-accent px-1.5 text-bg">Gabarito</span>}
+                    </span>
+                  )}
+                  {alt}
+                </span>
+              </button>
+            </li>
+          )
+        })}
+      </ol>
+
+      {reveal && (
+        <div className="mt-5 rounded-xl border border-line bg-panel-2 p-4">
+          <p className="mb-2 flex items-center gap-2 text-sm font-semibold"><MessageSquareText className="size-4 text-accent" /> Resposta comentada · gabarito {LETTERS[q.correta]}</p>
+          <p className="whitespace-pre-line text-sm leading-relaxed text-mute">{q.comentario}</p>
+          {q.referencia && (
+            <p className="mt-3 border-t border-line pt-3 text-xs text-mute/80">
+              <span className="label mb-0.5">Referência</span>{q.referencia}
+            </p>
+          )}
+          <Link to={`/app/notas?qid=${q.id}`} className="mt-3 inline-flex items-center gap-1.5 text-xs font-semibold text-accent hover:underline">
+            <NotebookPen className="size-3.5" /> Anotar sobre esta questão
+          </Link>
+        </div>
+      )}
+    </article>
+  )
+}

@@ -1,0 +1,2723 @@
+{
+ "arquivos": 334,
+ "semFormato": 170,
+ "questoesBrutas": 7481,
+ "rejeitadas": [
+  {
+   "arquivo": "18GmsKnouGkBM5wKoADqqXSb1X8VP00Et",
+   "numero": 13,
+   "motivo": "sem enunciado",
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2022.2).pdf"
+  },
+  {
+   "arquivo": "18GmsKnouGkBM5wKoADqqXSb1X8VP00Et",
+   "numero": 20,
+   "motivo": "sem enunciado",
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2022.2).pdf"
+  },
+  {
+   "arquivo": "1hs1lWg2o_tz0Sk1xvdw7_ovHE8tfQKrI",
+   "numero": 28,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Provas-Recursos/(off) Integradora I - (2022.1).pdf"
+  },
+  {
+   "arquivo": "1YFWAouaH_7fAUNI-m69tYHoSAV2Oaabg",
+   "numero": 9,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2023.1).pdf"
+  },
+  {
+   "arquivo": "18eH1Af0Qbhd6Uuyxvl2tD-kNVkEMwQHZ",
+   "numero": 6,
+   "motivo": "corretas: 0",
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2023.2).pdf"
+  },
+  {
+   "arquivo": "1rZiS6Rtt1CtZSz9ClNr6q1IEPRHMirKi",
+   "numero": 9,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - (2025.2).pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 37,
+   "motivo": "sem enunciado",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 37,
+   "motivo": "sem enunciado",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 25,
+   "motivo": "sem enunciado",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 43,
+   "motivo": "sem enunciado",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 21,
+   "motivo": "sem enunciado",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 17,
+   "motivo": "sem enunciado",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 49,
+   "motivo": "sem enunciado",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 10,
+   "motivo": "sem enunciado",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 1,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 2,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 3,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 4,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 5,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 6,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 7,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 8,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 9,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 10,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 11,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 12,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 13,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 14,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 15,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 16,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 17,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 18,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 19,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 20,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 21,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 22,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 23,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 24,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 25,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 26,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 27,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 28,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 29,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 30,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 31,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 32,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 33,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 34,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 35,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 36,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 37,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 38,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 39,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 40,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 41,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 42,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 43,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 44,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 45,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 46,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 47,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 48,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 49,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 50,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 1,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 2,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 3,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 4,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 5,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 6,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 7,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 8,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 9,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 10,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 11,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 12,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 13,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 14,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 15,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 16,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 17,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 18,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 19,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 20,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 21,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 22,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 23,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 24,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 25,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 26,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 27,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 28,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 29,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 30,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 31,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 32,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 33,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 34,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 35,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 36,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 37,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 38,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 39,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 40,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 41,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 42,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 43,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 44,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 45,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 46,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 47,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 48,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 49,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  },
+  {
+   "arquivo": "1J6ACyndmMujnWrkSt0bpIdTcfUp9gJ9W",
+   "numero": 50,
+   "motivo": "corretas: 0",
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf"
+  }
+ ],
+ "porArquivo": [
+  {
+   "caminho": "✅ [TPI] ✅/TPI 2023.1 (www.acervo.top).pdf",
+   "cabecalhos": 120,
+   "ok": 120,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2024.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2025.1 - PROUNIFIES).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2026.1) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/HAM 1 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/HAM 1/Provas/HAM 1 Substitutiva 25.1.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/IESC 1/IESC 1 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/IESC 1/IESC 1 - (2025.1 - PROUNIFIES).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/IESC 1/IESC 1 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/IESC 1/IESC 1 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/IESC 1/IESC 1 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/IESC 1/IESC I - (2023.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/IESC 1/IESC I - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora 1 - (2026.1).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2022.2).pdf",
+   "cabecalhos": 50,
+   "ok": 48,
+   "rejeitadas": 2
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2023.2) - S_alt.pdf",
+   "cabecalhos": 49,
+   "ok": 49,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2024.1) - S_alt.pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2024.1) - SOI Irregular.pdf",
+   "cabecalhos": 28,
+   "ok": 28,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2024.2).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2025.1).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Integradora I - (2025.2).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/N2/HAM 1 - (2025.2) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/N2/IESC 1 - (2025.2) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/N2/SOI 1 - (2025.1) - N2 - Irregular.pdf",
+   "cabecalhos": 20,
+   "ok": 20,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/N2/SOI 1 - (2025.2) - N2.pdf",
+   "cabecalhos": 20,
+   "ok": 20,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Provas-Recursos/(off) Integradora I - (2022.1).pdf",
+   "cabecalhos": 50,
+   "ok": 49,
+   "rejeitadas": 1
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Provas-Recursos/susbtitutiva integradora(ham 1) 25.1.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/Integradora 1/Provas-Recursos/susbtitutiva integradora(soi 1) 25.1.pdf",
+   "cabecalhos": 20,
+   "ok": 20,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2024.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2024.2) - Prova.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2024.2) - Prova2.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2024.2) - Prova3.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2025.1 - PROUNIFIES).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2025.1) - Reposição_Prova Local.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2025.2 - PROUNIFIES).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MCM 1 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/MEP 1 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/MCM 1/N2/MCM 1 - (2025.2) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/SOI 1/SOI 1 - (2023.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/SOI 1/SOI 1 - (2024.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/SOI 1/SOI 1 - (2025.1 - PROUNIFIES).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/SOI 1/SOI 1 - (2025.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/SOI 1/SOI 1 - (2025.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[1º PERÍODO]/SOI 1/SOI 1 - (2026.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/HAM 2/HAM 2 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/HAM 2/HAM 2 - (2024.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/HAM 2/HAM 2 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/HAM 2/HAM 2 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/HAM 2/HAM 2 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/HAM 2/HAM 2 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/IESC 2/IESC 2 - (2023.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/IESC 2/IESC 2 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/IESC 2/IESC 2 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/IESC 2/IESC 2 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/IESC 2/IESC 2 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/IESC 2/IESC 2 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/INTEGRADORA 2 - (2023.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/INTEGRADORA 2 - (2024.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/INTEGRADORA 2 - (2024.2).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/INTEGRADORA 2 - (2025.1).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/INTEGRADORA 2 - (2025.2).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/Integradora 2 - (2026.1).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/N2/HAM 2 - (2025.1) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/N2/HAM 2 - (2025.2) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/N2/IESC 2 - (2025.1) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/N2/IESC 2 - (2025.2) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/N2/SOI 2 - (2025.1) - N2.pdf",
+   "cabecalhos": 20,
+   "ok": 20,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/Integradora 2/N2/SOI 2 - (2025.2) - N2.pdf",
+   "cabecalhos": 20,
+   "ok": 20,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/MCM 2/MCM 2 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/MCM 2/MCM 2 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/MCM 2/MCM 2 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/MCM 2/MCM 2 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/MCM 2/MEP 2 - (2021.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/MCM 2/N2/MCM 2 - (2024.2) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/MCM 2/N2/MCM 2 - (2025.1) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/MCM 2/N2/MCM 2 - (2025.2) - N2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/SOI 2/SOI 2 - (2022.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/SOI 2/SOI 2 - (2023.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/SOI 2/SOI 2 - (2024.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/SOI 2/SOI 2 - (2025.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/SOI 2/SOI 2 - (2025.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[2º PERÍODO]/SOI 2/SOI 2 - (2026.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2022.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2022.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2023.1).pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2024.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/HAM 3/HAM 3 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/IESC 3/IESC 3 - (2022.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/IESC 3/IESC 3 - (2022.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/IESC 3/IESC 3 - (2023.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/IESC 3/IESC 3 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/IESC 3/IESC 3 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/IESC 3/IESC 3 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/IESC 3/IESC 3 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/IESC 3/IESC 3 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/Integradora 3/Integradora 3 - (2023.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/Integradora 3/Integradora 3 - (2024.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/Integradora 3/Integradora 3 - (2024.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/Integradora 3/Integradora 3 - (2025.1).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/Integradora 3/Integradora 3 - (2025.2).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/Integradora 3/Integradora 3 - (2026.1).pdf",
+   "cabecalhos": 40,
+   "ok": 40,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/MCM 3/MCM 3 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/MCM 3/MCM 3 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/MCM 3/MCM 3 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/SOI 3/SOI 3 - (2022.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/SOI 3/SOI 3 - (2022.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/SOI 3/SOI 3 - (2023.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/SOI 3/SOI 3 - (2024.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/SOI 3/SOI 3 - (2025.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/SOI 3/SOI 3 - (2025.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[3º PERÍODO]/SOI 3/SOI 3 - (2026.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/HAM 4/HAM 4 - (2022.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/HAM 4/HAM 4 - (2023.1) - S_alt.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/HAM 4/HAM 4 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/HAM 4/HAM 4 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/HAM 4/HAM 4 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/HAM 4/HAM 4 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/HAM 4/HAM 4 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/HAM 4/HAM 4 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/IESC 4/IESC 4 - (2022.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/IESC 4/IESC 4 - (2023.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/IESC 4/IESC 4 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/IESC 4/IESC 4 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/IESC 4/IESC 4 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/IESC 4/IESC 4 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/IESC 4/IESC 4 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Integradora 4/Integradora 4 - (2022.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Integradora 4/Integradora 4 - (2023.2) - S_alt.pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Integradora 4/Integradora 4 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Integradora 4/Integradora 4 - (2024.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Integradora 4/Integradora 4 - (2025.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Integradora 4/Integradora 4 - (2025.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Integradora 4/Integradora 4 - (2026.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Provas Locais/Integradora IV (2025.1) - Substitutiva Local.pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Provas Locais/Multiestações IV.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Provas Locais/N1 HAM IV (2025.1) - Reposição.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/Provas Locais/N1 IESC (2025.1) - Substitutiva Local.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2022.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2023.1).pdf",
+   "cabecalhos": 14,
+   "ok": 13,
+   "rejeitadas": 1
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2023.2).pdf",
+   "cabecalhos": 15,
+   "ok": 14,
+   "rejeitadas": 1
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2024.1) - S_ alt.pdf",
+   "cabecalhos": 0,
+   "ok": 0,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2024.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2025.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2025.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[4º PERÍODO]/SOI 4/SOI 4 - (2026.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/CC 1/CC 1 - (2023.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/CC 1/CC 1 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/CC 1/CC 1 - (2024.2) - Irregular.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/CC 1/CC 1 - (2025.1) - Irregular.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/CC 1/CC 1 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/CC 1/CC 1 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - (2023.2) - Anulada.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/IESC 5/IESC 5 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/IESC 5/IESC 5 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/IESC 5/IESC 5 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/IESC 5/IESC 5 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/IESC 5/IESC 5 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/IESC 5/IESC 5 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/Integradora 5/Integradora 5 - (2023.2) - S_alt.pdf",
+   "cabecalhos": 52,
+   "ok": 52,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/Integradora 5/Integradora 5 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 49,
+   "ok": 49,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/Integradora 5/Integradora 5 - (2024.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/Integradora 5/Integradora 5 - (2025.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/Integradora 5/Integradora 5 - (2025.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/Integradora 5/Integradora 5 - (2026.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/SOI 5/SOI 5 - (2023.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/SOI 5/SOI 5 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/SOI 5/SOI 5 - (2024.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/SOI 5/SOI 5 - (2025.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/SOI 5/SOI 5 - (2025.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[5º PERÍODO]/SOI 5/SOI 5 - (2026.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CC 2/CC 2 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CC 2/CC 2 - (2023.2)(1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CC 2/CC 2 - (2023.2)(2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CC 2/CC 2 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CC 2/CC 2 - (2024.2) - Irregulares.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CC 2/CC 2 - (2025.1) - Irregulares.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CC 2/CC 2 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CC 2/CC 2 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2023.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2024.1) - S_alt 1.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2024.1) - S_alt 2.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2024.2) - Irregulares.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2024.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2025.1) - Irregulares.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2025.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2025.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/CI 1/CI 1 - (2026.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 9,
+   "rejeitadas": 1
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/IESC 6/IESC 6 - (2023.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/IESC 6/IESC 6 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/IESC 6/IESC 6 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/IESC 6/IESC 6 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/IESC 6/IESC 6 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/IESC 6/IESC 6 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Checklist [2023.2 a 2025.1] - INTEGRADORAS VI.pdf",
+   "cabecalhos": 406,
+   "ok": 102,
+   "rejeitadas": 108
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Integradora 6 - (2023.1) - Local_S_alt.pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Integradora 6 - (2023.2) - Recursos.pdf",
+   "cabecalhos": 0,
+   "ok": 0,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Integradora 6 - (2023.2) - S_alt.pdf",
+   "cabecalhos": 52,
+   "ok": 52,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Integradora 6 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Integradora 6 - (2024.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Integradora 6 - (2025.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Integradora 6 - (2025.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Integradora 6/Integradora 6 - (2026.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Provas Locais/CI 1 - (2025.1) - Reposição.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Provas Locais/HAM 6 - (2025.1) - Substitutiva.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Provas Locais/IESV 6 - (2025.1) - Substitutiva.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[6º PERÍODO]/Provas Locais/Integradora 6 - (2025.1) - Substitutiva.pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CC 3/CC 3 - (2024.2) - Irregulares.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CC 3/CC 3 - (2025.1) - Irregulares.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CC 3/CC 3 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CC 3/CC 3 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CI 2/CI 2 - (2024.2) - Irregular.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CI 2/CI 2 - (2024.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CI 2/CI 2 - (2025.1) - Irregular.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CI 2/CI 2 - (2025.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CI 2/CI 2 - (2025.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/CI 2/CI 2 - (2026.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - (2024.1) - S_alt.pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/IESC 7/IESC 7 - (2024.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/IESC 7/IESC 7 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/IESC 7/IESC 7 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/IESC 7/IESC 7 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/IESC 7/IESC 7 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/Integradora 7/Integradora 7 - (2023.2).pdf",
+   "cabecalhos": 52,
+   "ok": 52,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/Integradora 7/Integradora 7 - (2024.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/Integradora 7/Integradora 7 - (2024.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/Integradora 7/Integradora 7 - (2025.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/Integradora 7/Integradora 7 - (2025.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[7º PERÍODO]/Integradora 7/Integradora 7 - (2026.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CC 4/CC 4 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CC 4/CC 4 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CC 4/CC 4 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CC 4/CC 4 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CI 3/CI 3 - (2024.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CI 3/CI 3 - (2025.1) - Irregulares.pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CI 3/CI 3 - (2025.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CI 3/CI 3 - (2025.2).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/CI 3/CI 3 - (2026.1).pdf",
+   "cabecalhos": 15,
+   "ok": 15,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/IESC 8/IESC 8 - (2024.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/IESC 8/IESC 8 - (2025.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/IESC 8/IESC 8 - (2025.2).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/IESC 8/IESC 8 - (2026.1).pdf",
+   "cabecalhos": 10,
+   "ok": 10,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/Integradora 8/Integradora 8 - (2024.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/Integradora 8/Integradora 8 - (2025.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/Integradora 8/Integradora 8 - (2025.2).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "✅[8º PERÍODO]/Integradora 8/Integradora 8 - (2026.1).pdf",
+   "cabecalhos": 50,
+   "ok": 50,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2024.2) - ROT. 1 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2025.1) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2025.1) - ROT. 2 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2025.1) - ROT. 3 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2025.2) - ROT. 1 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2025.2) - ROT. 2 - B - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2025.2) - ROT. 2 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2025.2) - ROT. 3 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/APS (2025.2) - ROT. 3 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/REINTEGRADORAS (não tem no site ainda)/APS - 2025.1 - REINTEGRADORA 23-06.pdf",
+   "cabecalhos": 20,
+   "ok": 20,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/APS/REINTEGRADORAS (não tem no site ainda)/APS - 2025.2 - REINTEGRADORA 11-12.pdf",
+   "cabecalhos": 20,
+   "ok": 20,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2024.2) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2025.1) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2025.1) - ROT. 2 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2025.1) - ROT. 3 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2025.2) - ROT. 1 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2025.2) - ROT. 2 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2025.2) - ROT. 2 - B - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2025.2) - ROT. 3 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CC/CC (2025.2) - ROT. 3 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2024.2) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2025.1) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2025.1) - ROT. 2 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2025.1) - ROT. 3 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2025.2) - ROT. 1 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2025.2) - ROT. 2 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2025.2) - ROT. 2 - B - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2025.2) - ROT. 3 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/CM/CM (2025.2) - ROT. 3 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2024.2) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2025.1) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2025.1) - ROT. 2 - B - 14T.pdf",
+   "cabecalhos": 29,
+   "ok": 29,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2025.1) - ROT. 3 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2025.2) - ROT. 1 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2025.2) - ROT. 2 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2025.2) - ROT. 2 - B - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2025.2) - ROT. 3 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/GO/GO (2025.2) - ROT. 3 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2024.2) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2025.1) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2025.1) - ROT. 2 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2025.1) - ROT. 3 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2025.2) - ROT. 1 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2025.2) - ROT. 2 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2025.2) - ROT. 2 - B - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2025.2) - ROT. 3 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/PED/PED (2025.2) - ROT. 3 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2024.2) - ROT. 1 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2025.1) - ROT. 1 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2025.1) - ROT. 2 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2025.1) - ROT. 3 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2025.2) - ROT. 1 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2025.2) - ROT. 2 - B - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2025.2) - ROT. 2 - B - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2025.2) - ROT. 3 - A - 12T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "🔍[INTERNATO]/UESM/UESM (2025.2) - ROT. 3 - A - 14T.pdf",
+   "cabecalhos": 30,
+   "ok": 30,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "ENAMED/2026.1 Simulado Enamed 02.pdf",
+   "cabecalhos": 100,
+   "ok": 100,
+   "rejeitadas": 0
+  },
+  {
+   "caminho": "ENAMED/2026.1 Simulado Seriado 02.pdf",
+   "cabecalhos": 100,
+   "ok": 100,
+   "rejeitadas": 0
+  }
+ ],
+ "validas": 7171,
+ "unicas": 5311,
+ "flashcards": 1257,
+ "duplicadas": 603,
+ "motivos": {
+  "sem enunciado": 10,
+  "alternativas: 0": 3,
+  "corretas: 0": 101
+ },
+ "comComentario": 5207,
+ "comDificuldade": 1595,
+ "comArea": 1504,
+ "possivelImagem": 515,
+ "alternativaVazia": 4,
+ "porPeriodo": {
+  "0": 320,
+  "1": 572,
+  "2": 448,
+  "3": 415,
+  "4": 519,
+  "5": 387,
+  "6": 464,
+  "7": 414,
+  "8": 344,
+  "9": 1428
+ }
+}
