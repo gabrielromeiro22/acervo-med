@@ -1,19 +1,34 @@
 import type { ReactNode } from 'react'
 import { Link } from 'react-router-dom'
-import { Check, FileText, MessageSquareText, NotebookPen, Star, X } from 'lucide-react'
+import { toast } from 'sonner'
+import { Check, Copy, FileText, MessageSquareText, NotebookPen, Star, X } from 'lucide-react'
 import type { Question } from '../data/types'
 import { DIF_LABEL, LETTERS, periodoLabel } from '../lib/format'
 import { toggleFavorite, useStore } from '../lib/store'
+import { RichText } from './RichText'
+import { semFiguras } from '../lib/format'
 
-export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
+// Texto da questão para colar num assistente de IA (com gabarito só quando já foi revelado)
+function paraIA(q: Question, reveal: boolean) {
+  let t = `Questão de prova de Medicina (${[q.disciplina, q.prova].filter(Boolean).join(' · ')}).\n\n${semFiguras(q.enunciado)}\n\n`
+  t += q.alternativas.map((a, i) => `${LETTERS[i]}) ${semFiguras(a)}`).join('\n')
+  if (reveal) t += `\n\nGabarito oficial: ${LETTERS[q.correta]}\n\nComentário oficial:\n${semFiguras(q.comentario)}`
+  return t + '\n\nExplique a questão, o raciocínio clínico e por que cada alternativa está certa ou errada.'
+}
+
+export function QuestionCard({ q, chosen, reveal, onChoose, index, badge, riscadas = [], onRiscar, aviso }: {
   q: Question
   chosen?: number
   reveal: boolean
   onChoose?: (i: number) => void
   index?: string
   badge?: ReactNode
+  riscadas?: number[] // alternativas riscadas pelo aluno
+  onRiscar?: (i: number) => void
+  aviso?: ReactNode // retorno logo acima da resposta comentada (modo prova)
 }) {
   const fav = useStore((s) => s.favorites.includes(q.id))
+  const copiar = () => navigator.clipboard?.writeText(paraIA(q, reveal)).then(() => toast.success('Questão copiada'), () => toast.error('Não foi possível copiar'))
 
   return (
     <article className="card p-5 sm:p-6">
@@ -27,6 +42,9 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
         {q.prova ? <span className="chip" title={q.fonte}>{q.prova}{q.numero ? ` · Q${q.numero}` : ''}</span> : q.fonte && <span className="chip">{q.fonte}</span>}
         <span className="ml-auto" />
         {badge}
+        <button className="rounded-full p-1.5 text-mute transition hover:bg-white/5 hover:text-ink" onClick={copiar} aria-label="Copiar questão para uma IA" title="Copiar para uma IA">
+          <Copy className="size-4" />
+        </button>
         <button
           className=" rounded-full p-1.5 text-mute transition hover:bg-white/5 hover:text-warn"
           onClick={() => toggleFavorite(q.id)}
@@ -36,7 +54,7 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
         </button>
       </div>
 
-      <p className="whitespace-pre-line leading-relaxed">{q.enunciado}</p>
+      <p className="leading-relaxed"><RichText text={q.enunciado} /></p>
       {q.arquivo && (
         <a href={`https://drive.google.com/file/d/${q.arquivo}/view`} target="_blank" rel="noopener"
           className={`mt-3 inline-flex items-center gap-1.5 text-xs font-semibold hover:underline ${q.imagem ? 'text-warn' : 'text-mute'}`}>
@@ -49,12 +67,13 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
           const right = reveal && i === q.correta
           const wrong = reveal && i === chosen && i !== q.correta
           const picked = !reveal && i === chosen
+          const riscada = !reveal && riscadas.includes(i)
           return (
-            <li key={i}>
+            <li key={i} className="flex items-start gap-2">
               <button
-                disabled={!onChoose}
+                disabled={!onChoose || riscada}
                 onClick={() => onChoose?.(i)}
-                className={`flex w-full items-start gap-3 rounded-xl border px-3 py-2.5 text-left text-sm transition disabled:cursor-default ${
+                className={`flex min-w-0 flex-1 items-start gap-3 rounded-xl border px-3 py-2.5 text-left text-sm transition disabled:cursor-default ${
                   right ? 'border-accent bg-accent/10'
                     : wrong ? 'border-danger bg-danger/10'
                       : picked ? 'border-accent/60 bg-white/5'
@@ -73,18 +92,25 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
                       {right && <span className="rounded-full bg-accent px-1.5 text-bg">Gabarito</span>}
                     </span>
                   )}
-                  {alt}
+                  <RichText text={alt} className={riscada ? 'line-through opacity-40' : ''} />
                 </span>
               </button>
+              {onRiscar && (
+                <button onClick={() => onRiscar(i)} aria-label={riscada ? 'Desfazer risco' : 'Riscar alternativa'} title={riscada ? 'Desfazer risco' : 'Riscar alternativa'}
+                  className={`mt-1.5 grid size-7 shrink-0 place-items-center rounded-full transition ${riscada ? 'bg-white/15 text-ink' : 'bg-white/5 text-mute hover:text-ink'}`}>
+                  <X className="size-3.5" />
+                </button>
+              )}
             </li>
           )
         })}
       </ol>
 
+      {aviso}
       {reveal && (
         <div className="mt-5 rounded-xl border border-line bg-panel-2 p-4">
           <p className="mb-2 flex items-center gap-2 text-sm font-semibold"><MessageSquareText className="size-4 text-accent" /> Resposta comentada · gabarito {LETTERS[q.correta]}</p>
-          <p className="whitespace-pre-line text-sm leading-relaxed text-mute">{q.comentario}</p>
+          <p className="text-sm leading-relaxed text-mute"><RichText text={q.comentario} /></p>
           {q.referencia && (
             <p className="mt-3 border-t border-line pt-3 text-xs text-mute/80">
               <span className="label mb-0.5">Referência</span>{q.referencia}

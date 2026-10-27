@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from 'react-router-dom'
 import { ArrowLeft, CheckCircle2, FileCheck2, Printer, Shuffle } from 'lucide-react'
 import { DIF_LABEL, LETTERS, shuffle } from '../lib/format'
 import { createSimulado, useQuestions } from '../lib/store'
+import { RichText } from '../components/RichText'
 
 type Modo = 'imprimir' | 'respostas'
 
@@ -92,9 +93,9 @@ export default function Imprimir() {
               <p className="mb-1 text-xs font-bold uppercase tracking-wider text-zinc-500">
                 Questão {i + 1} · {q.tema} · {DIF_LABEL[q.dificuldade]}{q.fonte ? ` · ${q.fonte}` : ''}
               </p>
-              <p className="whitespace-pre-line leading-relaxed">{q.enunciado}</p>
+              <p className="leading-relaxed"><RichText text={q.enunciado} /></p>
               <ol className="mt-2 space-y-1">
-                {q.alternativas.map((a, k) => <li key={k} className="flex gap-2 text-sm"><b>{LETTERS[k]})</b> <span>{a}</span></li>)}
+                {q.alternativas.map((a, k) => <li key={k} className="flex gap-2 text-sm"><b>{LETTERS[k]})</b> <RichText text={a} /></li>)}
               </ol>
             </li>
           ))}
@@ -125,7 +126,7 @@ export default function Imprimir() {
                 {qs.map((q, i) => (
                   <li key={q.id} className="break-inside-avoid text-sm">
                     <p className="font-bold">{i + 1}. {LETTERS[q.correta]}</p>
-                    <p className="whitespace-pre-line leading-relaxed text-zinc-700">{q.comentario}</p>
+                    <p className="leading-relaxed text-zinc-700"><RichText text={q.comentario} /></p>
                     {q.referencia && <p className="mt-1 text-xs text-zinc-500">Referência: {q.referencia}</p>}
                   </li>
                 ))}

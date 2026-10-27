@@ -1,106 +1,145 @@
-import { useEffect, useMemo, useState } from 'react'
-import { useSearchParams } from 'react-router-dom'
-import { ExternalLink, FileText, Folder, X } from 'lucide-react'
-import { Empty, PageHeader, Select } from '../components/ui'
-import { normalize, uniq } from '../lib/format'
-import { useAcervoPronto, useArquivos, type Arquivo } from '../lib/store'
+import { useMemo, useState } from 'react'
+import { Link, useSearchParams } from 'react-router-dom'
+import { ChevronRight, Clock, Folder, Search, Star, CircleCheck } from 'lucide-react'
+import { ArquivoRow } from '../components/ArquivoRow'
+import { PdfViewer } from '../components/PdfViewer'
+import { Empty } from '../components/ui'
+import { arvore, limpa, pastaEm, semestreDe, todos, type Pasta } from '../lib/acervo'
+import { normalize, pct } from '../lib/format'
+import { useAcervoPronto, useArquivos, useStore, type Arquivo } from '../lib/store'
 
-const TIPO: Record<string, string> = {
-  prova: 'Prova', gabarito: 'Gabarito', comentada: 'Comentada', recurso: 'Recurso', resumo: 'Resumo',
-  assuntos: 'Assuntos', repetidas: 'Repetidas', imagem: 'Imagem',
-}
-const AREAS = [
-  { value: 'p1', label: '1º período' }, { value: 'p2', label: '2º período' }, { value: 'p3', label: '3º período' },
-  { value: 'p4', label: '4º período' }, { value: 'p5', label: '5º período' }, { value: 'p6', label: '6º período' },
-  { value: 'p7', label: '7º período' }, { value: 'p8', label: '8º período' },
-  { value: 'internato', label: 'Internato' }, { value: 'tpi', label: 'TPI' }, { value: 'enamed', label: 'ENAMED' },
-]
-const inArea = (a: Arquivo, v: string) => !v || (v.startsWith('p') ? a.area === 'periodo' && a.periodo === +v.slice(1) : a.area === v)
-// "✅[4º PERÍODO]/📄 RESUMOS 4/JÚLIA MORBECK/SOI" → "4º PERÍODO › RESUMOS 4 › JÚLIA MORBECK › SOI"
-const pasta = (p: string) => p.split('/').slice(0, -1).map((s) => s.replace(/[✅🔍📄🎯🆕[\]]/gu, '').trim()).join(' › ')
-const MAX = 400
+const MAX = 300
+const ABAS = [
+  { v: '', label: 'Pastas', icon: Folder },
+  { v: 'fav', label: 'Favoritos', icon: Star },
+  { v: 'feitos', label: 'Feitos', icon: CircleCheck },
+  { v: 'recentes', label: 'Recentes', icon: Clock },
+] as const
 
+// Navega o acervo do Drive pasta a pasta (?pasta=…), com busca (?q=…) e as listas pessoais (?aba=…).
 export default function Acervo() {
   const [params, setParams] = useSearchParams()
-  const files = useArquivos()
+  const arquivos = useArquivos()
   const pronto = useAcervoPronto()
+  const feitos = useStore((s) => s.feitos)
+  const favs = useStore((s) => s.favArquivos)
+  const recentes = useStore((s) => s.recentes)
   const [open, setOpen] = useState<Arquivo>()
-  const area = params.get('area') ?? '', tipo = params.get('tipo') ?? '', term = params.get('q') ?? ''
-  const set = (k: string, v: string) => setParams((p) => { if (v) p.set(k, v); else p.delete(k); return p }, { replace: true })
+  const path = params.get('pasta') ?? '', term = params.get('q') ?? '', aba = params.get('aba') ?? ''
+  const set = (p: Record<string, string>) => setParams((cur) => {
+    for (const [k, v] of Object.entries(p)) { if (v) cur.set(k, v); else cur.delete(k) }
+    return cur
+  }, { replace: 'q' in p })
 
-  useEffect(() => {
-    if (!open) return
-    const esc = (e: KeyboardEvent) => e.key === 'Escape' && setOpen(undefined)
-    window.addEventListener('keydown', esc)
-    return () => window.removeEventListener('keydown', esc)
-  }, [open])
+  const raiz = arvore(arquivos)
+  const pasta = pastaEm(raiz, path) ?? raiz
+  const feitoSet = useMemo(() => new Set(feitos), [feitos])
+  const prog = (n: Pasta) => { const fs = todos(n); const d = fs.filter((a) => feitoSet.has(a.id)).length; return { t: fs.length, d, p: pct(d, fs.length) } }
+  const byId = useMemo(() => new Map(arquivos.map((a) => [a.id, a])), [arquivos])
 
-  const scoped = useMemo(() => files.filter((a) => inArea(a, area)), [files, area])
-  const shown = useMemo(() => {
-    const words = normalize(term).split(/\s+/).filter(Boolean)
-    return scoped.filter((a) => (!tipo || a.tipo === tipo) && words.every((w) => normalize(a.path).includes(w)))
-  }, [scoped, tipo, term])
-  const groups = useMemo(() => {
-    const m = new Map<string, Arquivo[]>()
-    for (const a of shown.slice(0, MAX)) { const k = pasta(a.path); m.set(k, [...(m.get(k) ?? []), a]) }
-    return [...m]
-  }, [shown])
-  const tipos = uniq(scoped.map((a) => a.tipo))
+  if (!pronto) return <Empty>Carregando o acervo…</Empty>
+  if (!arquivos.length) return <Empty>Acervo vazio. Rode <code>npm run acervo</code> para baixar e processar os arquivos.</Empty>
 
-  if (!pronto) return <><PageHeader title="Acervo" /><Empty>Carregando o acervo…</Empty></>
-  if (!files.length) return <><PageHeader title="Acervo" /><Empty>Acervo vazio. Rode <code>npm run acervo</code> para baixar e processar os arquivos.</Empty></>
+  const words = normalize(term).split(/\s+/).filter(Boolean)
+  const lista = aba ? (aba === 'fav' ? favs : aba === 'feitos' ? feitos : recentes).map((id) => byId.get(id)).filter((a): a is Arquivo => !!a) : []
+  const achados = words.length ? todos(pasta).filter((a) => { const p = normalize(a.path); return words.every((w) => p.includes(w)) }) : []
+  const p = prog(pasta)
+  const segs = path.split('/').filter(Boolean)
+
+  // provas da pasta, das mais novas para as mais antigas, agrupadas por ano quando houver mais de um
+  const grupos = new Map<string, Arquivo[]>()
+  for (const a of [...pasta.arquivos].sort((a, b) => semestreDe(b).localeCompare(semestreDe(a)) || a.nome.localeCompare(b.nome, 'pt', { numeric: true }))) {
+    const k = semestreDe(a).slice(0, 4) || 'Outros'
+    grupos.set(k, [...(grupos.get(k) ?? []), a])
+  }
+  const filhas = [...pasta.filhas.values()].sort((a, b) => a.nome.localeCompare(b.nome, 'pt', { numeric: true }))
 
   return (
     <>
-      <PageHeader title="Acervo" sub={`${files.length} arquivos · provas, gabaritos e resumos por período`} />
+      <nav className="mb-2 flex flex-wrap items-center gap-1 text-sm text-mute">
+        <button className="hover:text-ink" onClick={() => set({ pasta: '', q: '', aba: '' })}>Acervo</button>
+        {segs.map((s, i) => (
+          <span key={i} className="flex items-center gap-1"><ChevronRight className="size-3.5" />
+            <button className="hover:text-ink" onClick={() => set({ pasta: segs.slice(0, i + 1).join('/'), q: '', aba: '' })}>{limpa(s)}</button>
+          </span>
+        ))}
+      </nav>
 
-      <div className="mb-4 grid gap-3 sm:grid-cols-[12rem_1fr]">
-        <Select label="Período / área" value={area} onChange={(v) => set('area', v)} options={[{ value: '', label: 'Tudo' }, ...AREAS]} />
-        <label className="block">
-          <span className="label">Buscar</span>
-          <input className="input" placeholder="Ex.: SOI 4 2025, pré-natal, gabarito…" value={term} onChange={(e) => set('q', e.target.value)} />
+      <div className="mb-5 flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <h1 className="font-display text-3xl font-bold tracking-tight sm:text-4xl">{path ? limpa(pasta.nome) : 'Acervo'}</h1>
+          <p className="mt-1 text-mute">{p.t} arquivos · {p.d} feitos ({p.p}%)</p>
+        </div>
+        <label className="relative w-full sm:w-96">
+          <Search className="pointer-events-none absolute top-1/2 left-3.5 size-4 -translate-y-1/2 text-mute" />
+          <input className="input h-12 rounded-2xl pl-10 text-base" value={term} onChange={(e) => set({ q: e.target.value, aba: '' })}
+            placeholder={path ? `Buscar em ${limpa(pasta.nome)}…` : 'Ex.: HAM 4 2025, pré-natal, gabarito…'} />
         </label>
       </div>
-      <div className="mb-6 flex flex-wrap gap-2">
-        {[['', 'Todos'] as const, ...tipos.map((t) => [t, TIPO[t] ?? t] as const)].map(([v, label]) => (
-          <button key={label} onClick={() => set('tipo', v)}
-            className={`rounded-full border px-3 py-1.5 text-xs font-bold uppercase tracking-wider transition ${
-              tipo === v ? 'border-ink bg-ink text-bg' : 'border-line text-mute hover:text-ink'
-            }`}>
-            {label} <span className="tabular-nums opacity-70">{(v ? scoped.filter((a) => a.tipo === v) : scoped).length}</span>
-          </button>
-        ))}
-      </div>
 
-      {!groups.length ? <Empty>Nada encontrado.</Empty> : groups.map(([dir, xs]) => (
-        <section key={dir} className="mb-6">
-          <h2 className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-wider text-mute"><Folder className="size-3.5" /> {dir || 'Raiz'}</h2>
-          <ul className="card divide-y divide-line overflow-hidden">
-            {xs.map((a) => (
-              <li key={a.id}>
-                <button onClick={() => setOpen(a)} className="flex w-full items-center gap-3 px-4 py-3 text-left text-sm hover:bg-white/5">
-                  <FileText className="size-4 shrink-0 text-mute" />
-                  <span className="min-w-0 flex-1 truncate">{a.nome}</span>
-                  {a.semestre && <span className="chip hidden sm:inline-flex">{a.semestre}</span>}
-                  <span className="chip">{TIPO[a.tipo] ?? a.tipo}</span>
-                </button>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
-      {shown.length > MAX && <p className="text-center text-sm text-mute">Mostrando {MAX} de {shown.length}. Refine a busca para ver o resto.</p>}
-
-      {open && (
-        <div className="fixed inset-0 z-50 flex flex-col bg-bg/95 p-3 backdrop-blur sm:p-5" role="dialog" aria-label={open.nome}>
-          <div className="mb-3 flex items-center gap-2">
-            <p className="min-w-0 flex-1 truncate font-semibold">{open.nome}</p>
-            <a className="btn-ghost" href={`https://drive.google.com/file/d/${open.id}/view`} target="_blank" rel="noopener"><ExternalLink className="size-4" /> <span className="hidden sm:inline">Abrir no Drive</span></a>
-            <button className="btn-ghost" onClick={() => setOpen(undefined)} aria-label="Fechar"><X className="size-4" /></button>
-          </div>
-          <iframe title={open.nome} src={`https://drive.google.com/file/d/${open.id}/preview`} className="w-full flex-1 rounded-xl border border-line bg-white" allow="autoplay" />
+      {!path && !words.length && (
+        <div className="mb-5 flex flex-wrap gap-2">
+          {ABAS.map(({ v, label, icon: I }) => {
+            const n = v === 'fav' ? favs.length : v === 'feitos' ? feitos.length : v === 'recentes' ? recentes.length : 0
+            return (
+              <button key={v} onClick={() => set({ aba: v })}
+                className={`inline-flex items-center gap-2 rounded-full border px-4 py-2 text-sm font-semibold transition ${aba === v ? 'border-ink bg-ink text-bg' : 'border-line bg-panel text-mute hover:text-ink'}`}>
+                <I className="size-4" /> {label}{v && <span className="tabular-nums opacity-70">{n}</span>}
+              </button>
+            )
+          })}
         </div>
       )}
+
+      {words.length ? (
+        <Lista arquivos={achados.slice(0, MAX)} onOpen={setOpen} caminho vazio="Nada encontrado." />
+      ) : aba ? (
+        <Lista arquivos={lista} onOpen={setOpen} caminho
+          vazio={aba === 'fav' ? 'Toque na estrela de um PDF para guardá-lo aqui.' : aba === 'feitos' ? 'Marque as provas que você já fez.' : 'Os PDFs que você abrir aparecem aqui.'} />
+      ) : (
+        <>
+          {filhas.length > 0 && (
+            <div className="mb-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+              {filhas.map((k) => {
+                const pk = prog(k)
+                return (
+                  <button key={k.path} onClick={() => set({ pasta: k.path })}
+                    className="group flex flex-col gap-2.5 rounded-2xl border border-line bg-panel p-4 text-left transition hover:border-accent/60">
+                    <Folder className="size-5 text-accent" />
+                    <span className="font-display text-lg font-bold leading-tight">{limpa(k.nome)}</span>
+                    <span className="text-xs text-mute">{pk.t} arquivos · {pk.d} feitos</span>
+                    <span className="h-1.5 overflow-hidden rounded-full bg-white/5"><span className="block h-full rounded-full bg-accent" style={{ width: `${pk.p}%` }} /></span>
+                  </button>
+                )
+              })}
+            </div>
+          )}
+          {grupos.size > 0 && (
+            <div className="overflow-hidden rounded-2xl border border-line bg-panel">
+              {[...grupos].map(([ano, fs]) => (
+                <div key={ano}>
+                  {grupos.size > 1 && <p className="border-t border-line bg-panel-2 px-4 py-2.5 text-xs font-semibold uppercase tracking-[0.12em] text-mute first:border-t-0">{ano}</p>}
+                  <ul className="divide-y divide-line border-t border-line first:border-t-0">{fs.map((a) => <ArquivoRow key={a.id} a={a} onOpen={setOpen} />)}</ul>
+                </div>
+              ))}
+            </div>
+          )}
+        </>
+      )}
+      {words.length > 0 && achados.length > MAX && <p className="mt-3 text-center text-sm text-mute">Mostrando {MAX} de {achados.length}. Refine a busca para ver o resto.</p>}
+      {!path && !words.length && !aba && (
+        <p className="mt-6 text-center text-xs text-mute">PDFs abertos direto do Drive. Seu progresso fica salvo neste navegador. <Link to="/app/minhas-provas" className="text-accent hover:underline">Minhas provas</Link></p>
+      )}
+      {open && <PdfViewer arquivo={open} onClose={() => setOpen(undefined)} />}
     </>
+  )
+}
+
+function Lista({ arquivos, onOpen, caminho, vazio }: { arquivos: Arquivo[]; onOpen: (a: Arquivo) => void; caminho?: boolean; vazio: string }) {
+  if (!arquivos.length) return <Empty>{vazio}</Empty>
+  return (
+    <ul className="divide-y divide-line overflow-hidden rounded-2xl border border-line bg-panel">
+      {arquivos.map((a) => <ArquivoRow key={a.id} a={a} onOpen={onOpen} caminho={caminho} />)}
+    </ul>
   )
 }

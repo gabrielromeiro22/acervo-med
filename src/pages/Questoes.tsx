@@ -14,11 +14,11 @@ const STATUS = [
   { value: 'favoritas', label: 'Favoritas' },
 ]
 
-type Filters = { periodo: string; disciplina: string; prova: string; materia: string; tema: string; dificuldade: string; status: string; busca: string }
-const NONE: Filters = { periodo: '', disciplina: '', prova: '', materia: '', tema: '', dificuldade: '', status: '', busca: '' }
+type Filters = { periodo: string; disciplina: string; prova: string; roteiro: string; materia: string; tema: string; dificuldade: string; status: string; busca: string }
+const NONE: Filters = { periodo: '', disciplina: '', prova: '', roteiro: '', materia: '', tema: '', dificuldade: '', status: '', busca: '' }
 // mudar um filtro limpa os que dependem dele
 const DEPENDE: Partial<Record<keyof Filters, (keyof Filters)[]>> = {
-  periodo: ['disciplina', 'prova'], disciplina: ['prova'], materia: ['tema'],
+  periodo: ['disciplina', 'prova', 'roteiro'], disciplina: ['prova', 'roteiro'], materia: ['tema'],
 }
 // "fazer a prova inteira": ordem original e ~3 min por questão
 const MIN_POR_QUESTAO = 3
@@ -28,7 +28,7 @@ export default function Questoes() {
   const attempts = useStore((s) => s.attempts)
   const [params] = useSearchParams()
   const navigate = useNavigate()
-  const [f, setF] = useState<Filters>(() => ({ ...NONE, periodo: params.get('periodo') ?? '', disciplina: params.get('disciplina') ?? '', materia: params.get('materia') ?? '' }))
+  const [f, setF] = useState<Filters>(() => ({ ...NONE, periodo: params.get('periodo') ?? '', disciplina: params.get('disciplina') ?? '', materia: params.get('materia') ?? '', roteiro: params.get('roteiro') ?? '' }))
   const [seed, setSeed] = useState(0)
   const [pos, setPos] = useState(0)
   const [chosen, setChosen] = useState<number>()
@@ -47,6 +47,7 @@ export default function Questoes() {
       if (f.periodo && q.periodo !== Number(f.periodo)) return false
       if (f.disciplina && q.disciplina !== f.disciplina) return false
       if (f.prova && q.prova !== f.prova) return false
+      if (f.roteiro && q.roteiro !== f.roteiro) return false
       if (f.materia && q.materia !== f.materia) return false
       if (f.tema && q.tema !== f.tema) return false
       if (words.length && !words.every((w) => idx.get(q.id)!.includes(w))) return false
@@ -84,13 +85,16 @@ export default function Questoes() {
   const periodos = uniq(questions.map((x) => x.periodo)).sort((a, b) => a - b)
   const disciplinas = uniq(doPeriodo.map((x) => x.disciplina)).sort(sortDisc)
   const provas = f.disciplina ? uniq(daDisc.map((x) => x.prova).filter((x): x is string => !!x)).sort((a, b) => b.localeCompare(a, 'pt', { numeric: true })) : []
+  // assuntos do roteiro oficial do período (vindos do Meu Acervo), só quando a disciplina tem
+  const roteiros = f.disciplina ? uniq(daDisc.map((x) => x.roteiro).filter((x): x is string => !!x)).sort((a, b) => a.localeCompare(b, 'pt')) : []
   const materias = uniq(daDisc.map((x) => x.materia).filter((x): x is string => !!x)).sort()
   const temas = uniq(daDisc.filter((x) => !f.materia || x.materia === f.materia).map((x) => x.tema)).sort()
   const opt = (xs: (string | number)[], all: string) => [{ value: '', label: all }, ...xs.map((x) => ({ value: String(x), label: String(x) }))]
 
   const fazerProva = () => {
     const ids = [...list].sort((a, b) => (a.numero ?? 999) - (b.numero ?? 999)).map((x) => x.id)
-    navigate(`/app/simulados/${createSimulado(`${f.disciplina} · ${f.prova}`, ids, ids.length * MIN_POR_QUESTAO * 60)}`)
+    const nome = [f.disciplina, f.prova || f.roteiro].filter(Boolean).join(' · ')
+    navigate(`/app/simulados/${createSimulado(nome, ids, ids.length * MIN_POR_QUESTAO * 60, false, false, f.roteiro ? { gabarito: 'depois' } : {})}`)
   }
 
   return (
@@ -112,6 +116,9 @@ export default function Questoes() {
         <Select label="Disciplina" value={f.disciplina} onChange={(v) => set('disciplina', v)} options={opt(disciplinas, 'Todas')} />
         <Select label="Prova" value={f.prova} onChange={(v) => set('prova', v)}
           options={f.disciplina ? opt(provas, 'Todas') : [{ value: '', label: 'Escolha a disciplina' }]} />
+        {roteiros.length > 0 && (
+          <Select label="Assunto do roteiro" value={f.roteiro} onChange={(v) => set('roteiro', v)} options={opt(roteiros, 'Todos')} />
+        )}
         <Select label="Matéria" value={f.materia} onChange={(v) => set('materia', v)} options={opt(materias, 'Todas')} />
         <Select label="Assunto" value={f.tema} onChange={(v) => set('tema', v)} options={opt(temas, 'Todos')} />
         <Select label="Dificuldade" value={f.dificuldade} onChange={(v) => set('dificuldade', v)}
@@ -119,9 +126,9 @@ export default function Questoes() {
         <Select label="Status" value={f.status} onChange={(v) => set('status', v)} options={STATUS} />
       </div>
 
-      {f.prova && list.length > 0 && (
+      {(f.prova || f.roteiro) && list.length > 0 && (
         <div className="mb-5 flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-accent/30 bg-accent/5 p-4">
-          <p className="text-sm"><b>{f.disciplina} · {f.prova}</b> <span className="text-mute">· {list.length} questões na ordem original</span></p>
+          <p className="text-sm"><b>{f.disciplina} · {f.prova || f.roteiro}</b> <span className="text-mute">· {list.length} questões{f.prova ? ' na ordem original' : ' deste assunto'}</span></p>
           <button className="btn-primary" onClick={fazerProva}><Play className="size-4" /> Fazer esta prova</button>
         </div>
       )}

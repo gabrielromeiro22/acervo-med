@@ -38,6 +38,27 @@ npm run acervo                        # crawl → catalog → fetch → parse
 node scripts/acervo/build-app.mjs     # atualiza public/acervo/*.json
 ```
 
+### Meu Acervo (`meu-acervo/`)
+
+O conversor de provas do Meu Acervo agora vive neste repositório. Ele baixa os PDFs do Drive, extrai as questões
+(com OCR quando o PDF não tem texto), recorta figuras e tabelas e marca o assunto do roteiro de cada questão.
+O `meu-acervo/index.html` é o app original em HTML, que continua funcionando sozinho.
+
+Requisitos: Python 3 com PyMuPDF (`fitz`) e Pillow, e `swiftc` (o `tools/ocr.swift` é compilado sozinho).
+
+```bash
+cd meu-acervo
+python3 atualizar_drive.py 1TQU9bdNlLGHEYGuIQkRbVCDSYmMO7bCI acervo_tree.json   # só para atualizar a árvore do Drive
+python3 converter_provas.py "1º PERÍODO" "2º PERÍODO" TPI ENAMED INTERNATO       # grupos parciais funcionam
+python3 assuntos.py                                                              # sempre depois do conversor
+cd ..
+node scripts/acervo/merge-meuacervo.mjs   # traz as questões e as figuras para data/acervo e public/acervo/img
+node scripts/acervo/build-app.mjs         # junta tudo, descarta repetidas e prefere o texto com parágrafos e figuras
+```
+
+O cache de PDFs (`meu-acervo/_cache`, ~740 MB), as provas geradas e as figuras brutas ficam fora do Git.
+Questões novas sem matéria precisam de classificação (`npm run acervo:classificar`, com a chave da API em `.env.local`).
+
 ## Scripts
 
 | Comando | O que faz |

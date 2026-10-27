@@ -3,6 +3,7 @@ import { ArrowUp, GraduationCap, Layers, Pencil, Play, Plus, RotateCcw, Trash2 }
 import type { Flashcard } from '../data/types'
 import { fmtDate, sortDisc, uniq } from '../lib/format'
 import { reviewCard, setState, uid, useFlashcards, useStore, type Deck } from '../lib/store'
+import { RichText } from '../components/RichText'
 
 const MAX_DECKS = 30
 
@@ -260,9 +261,9 @@ function Study({ title, sub, pool, back }: { title: string; sub: string; pool: F
           <button onClick={() => setFlip((f) => !f)}
             className="card flex min-h-64 w-full flex-col items-center justify-center p-8 text-center transition hover:border-accent/40">
             <span className="chip mb-5">{card.disciplina} · {card.tema}</span>
-            <p className="whitespace-pre-line font-display text-xl font-semibold leading-snug sm:text-2xl">{card.frente}</p>
+            <p className="font-display text-xl font-semibold leading-snug sm:text-2xl"><RichText text={card.frente} /></p>
             {flip ? (
-              <p className="mt-6 max-w-xl whitespace-pre-line border-t border-line pt-6 leading-relaxed text-mute">{card.verso}</p>
+              <p className="mt-6 max-w-xl border-t border-line pt-6 leading-relaxed text-mute"><RichText text={card.verso} /></p>
             ) : (
               <span className="mt-6 inline-flex items-center gap-1.5 text-xs text-mute"><RotateCcw className="size-3.5" /> Clique ou aperte espaço para virar</span>
             )}

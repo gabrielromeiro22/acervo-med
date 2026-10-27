@@ -2,6 +2,8 @@ import { useSyncExternalStore } from 'react'
 import type { Flashcard, Material, Question } from '../data/types'
 
 export interface Attempt { chosen: number; correct: boolean; at: number; ms: number }
+// Como a prova mostra o gabarito: depois de cada resposta, só no final ou desde o início (estudo).
+export type Gabarito = 'depois' | 'final' | 'agora'
 export interface Simulado {
   id: string
   nome: string
@@ -13,6 +15,10 @@ export interface Simulado {
   finishedAt?: number
   treino?: boolean
   papel?: boolean
+  arquivo?: string // prova anterior de origem (id do PDF no Drive)
+  gabarito?: Gabarito // ausente = 'final', o comportamento original
+  riscadas?: Record<string, number[]> // alternativas riscadas por questão
+  marcadas?: string[] // questões marcadas para revisar
 }
 export interface CardState { ease: number; interval: number; due: number; reps: number }
 export interface Note { id: string; title: string; body: string; qid?: string; updatedAt: number }
@@ -31,6 +37,10 @@ export interface State {
   grade: GradeModulo[]
   decks: Deck[]
   periodo?: number
+  nome?: string // como a saudação chama o usuário
+  feitos: string[] // PDFs do acervo marcados como feitos
+  favArquivos: string[] // PDFs do acervo favoritados
+  recentes: string[] // PDFs abertos por último (mais recente primeiro)
   driveUrl?: string
   fundo?: 'claro' | 'escuro' | 'animado' | 'liso' | 'pontos'
   imported: { questions: Question[]; flashcards: Flashcard[]; materials: Material[] }
@@ -39,6 +49,7 @@ export interface State {
 const KEY = 'acervo:v1'
 const empty: State = {
   attempts: {}, simulados: [], srs: {}, notes: [], favorites: [], agenda: [], grade: [], decks: [],
+  feitos: [], favArquivos: [], recentes: [],
   imported: { questions: [], flashcards: [], materials: [] },
 }
 
@@ -77,7 +88,8 @@ export interface Arquivo {
 let acervo: { questions: Question[]; flashcards: Flashcard[]; arquivos: Arquivo[]; pronto: boolean } =
   { questions: [], flashcards: [], arquivos: [], pronto: false }
 export async function loadAcervo() {
-  const get = (f: string) => fetch(`${import.meta.env.BASE_URL}acervo/${f}`).then((r) => (r.ok ? r.json() : []), () => [])
+  // um arquivo ausente ou corrompido vira lista vazia, sem derrubar os outros
+  const get = (f: string) => fetch(`${import.meta.env.BASE_URL}acervo/${f}`).then((r) => (r.ok ? r.json() : []), () => []).catch(() => [])
   const [questions, flashcards, arquivos] = await Promise.all([get('questoes.json'), get('flashcards.json'), get('arquivos.json')])
   acervo = { questions, flashcards, arquivos, pronto: true }
   cache = {}
@@ -115,8 +127,9 @@ export function recordAttempt(q: Question, chosen: number, ms: number) {
   return a
 }
 
-export function createSimulado(nome: string, questionIds: string[], durationSec: number, treino = false, papel = false) {
-  const sim: Simulado = { id: uid(), nome, createdAt: Date.now(), questionIds, answers: {}, durationSec, elapsedSec: 0, ...(treino && { treino }), ...(papel && { papel }) }
+export function createSimulado(nome: string, questionIds: string[], durationSec: number, treino = false, papel = false,
+  extra: Pick<Simulado, 'arquivo' | 'gabarito'> = {}) {
+  const sim: Simulado = { id: uid(), nome, createdAt: Date.now(), questionIds, answers: {}, durationSec, elapsedSec: 0, ...(treino && { treino }), ...(papel && { papel }), ...extra }
   setState((s) => ({ ...s, simulados: [sim, ...s.simulados] }))
   return sim.id
 }
@@ -124,8 +137,14 @@ export function createSimulado(nome: string, questionIds: string[], durationSec:
 // Nova prova a partir de outra, com tempo proporcional. Refazer só as erradas é treino.
 export function redoSimulado(s: Simulado, ids: string[], suffix: string, treino = false) {
   const dur = s.durationSec && Math.round((s.durationSec * ids.length) / s.questionIds.length)
-  return createSimulado(`${s.nome} · ${suffix}`, ids, dur, treino)
+  return createSimulado(`${s.nome} · ${suffix}`, ids, dur, treino, false, { arquivo: s.arquivo, gabarito: s.gabarito })
 }
+
+// PDFs do acervo: feito, favorito e a lista de recentes (até 12)
+const alterna = (xs: string[], id: string) => (xs.includes(id) ? xs.filter((x) => x !== id) : [...xs, id])
+export const toggleFeito = (id: string) => setState((s) => ({ ...s, feitos: alterna(s.feitos, id) }))
+export const toggleFavArquivo = (id: string) => setState((s) => ({ ...s, favArquivos: alterna(s.favArquivos, id) }))
+export const abriuArquivo = (id: string) => setState((s) => ({ ...s, recentes: [id, ...s.recentes.filter((x) => x !== id)].slice(0, 12) }))
 
 export function toggleFavorite(id: string) {
   setState((s) => ({

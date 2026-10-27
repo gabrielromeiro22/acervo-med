@@ -67,14 +67,32 @@ const load = async prefix => (await Promise.all(files.filter(f => f.startsWith(p
 
 // a mesma questão aparece na prova original (Afya) e nas compilações do Acervo: fica a primeira versão vista
 // (questoes.json da Afya vem antes de questoes-acervo.json), herdando o tópico da compilação quando faltar
-const norm = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/\W+/g, ' ').trim()
+// as figuras [[IMG:…]] do Meu Acervo não contam para reconhecer a mesma questão
+const norm = s => s.replace(/\[\[IMG:[^\]]+\]\]/g, ' ').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/\W+/g, ' ').trim()
+// o Meu Acervo mantém a instituição no começo do enunciado ("(AFYA IPATINGA) Homem, 62 anos…"); não conta para comparar
+// dentro do mesmo PDF. Entre PDFs diferentes não: uma questão repetida em outro semestre continua na prova dela.
+const normE = s => norm(s.replace(/^\s*\([^)]{2,60}\)\s*/, ''))
 const keyOf = q => createHash('sha1').update(norm(q.enunciado).slice(0, 300) + '|' + norm(q.alternativas.join('|')).slice(0, 200)).digest('hex')
-const unique = new Map(), ids = new Set()
+// dentro do mesmo PDF, enunciado inteiro + gabarito bastam: as alternativas podem vir mal lidas pelo OCR numa versão e
+// recortadas na outra. Inteiro, porque um caso clínico longo serve de base para várias questões e só a pergunta final muda.
+const keyArq = q => q.origem?.arquivo && `${q.origem.arquivo}|${q.correta}|${normE(q.enunciado)}`
+// o Meu Acervo (questoes-meuacervo.json) guarda as quebras de parágrafo ("I - …", "II - …"); o texto dele vence o achatado
+const rico = t => (t?.includes('\n') ? 1 : 0) + (t?.includes('[[IMG:') ? 2 : 0)
+const paragrafos = (prev, q, campos) => {
+  const igual = (c, a, b) => (c === 'enunciado' || c === 'frente' ? normE(a) === normE(b) : norm(a) === norm(b))
+  for (const c of campos) if (rico(q[c]) > rico(prev[c]) && igual(c, q[c], prev[c] || '')) prev[c] = q[c]
+  if (q.roteiro && !prev.roteiro) prev.roteiro = q.roteiro
+  // alternativas recortadas do PDF trocam as mal lidas, se o gabarito for o mesmo
+  if (q.alternativas?.some(a => a.includes('[[IMG:')) && q.alternativas.length === prev.alternativas?.length && q.correta === prev.correta) prev.alternativas = q.alternativas
+}
+const unique = new Map(), porArquivo = new Map(), ids = new Set()
 for (const q of await load('questoes')) {
-  const k = keyOf(q), prev = unique.get(k)
-  if (prev) { if (!prev.tema && q.tema) prev.tema = q.tema; continue }
+  const k = keyOf(q), ka = keyArq(q), prev = unique.get(k) || (ka && porArquivo.get(ka))
+  if (prev) { if (!prev.tema && q.tema) prev.tema = q.tema; paragrafos(prev, q, ['enunciado', 'comentario']); continue }
   if (ids.has(q.id)) continue
-  ids.add(q.id); unique.set(k, { ...q })
+  const novo = { ...q }
+  ids.add(q.id); unique.set(k, novo)
+  if (ka) porArquivo.set(ka, novo)
 }
 const questoes = [...unique.values()].map(q => {
   const o = meta(q.origem), c = classes[q.id], a = assunto(c), p = prova(o, byId.get(o.arquivo))
@@ -82,11 +100,18 @@ const questoes = [...unique.values()].map(q => {
     id: q.id, disciplina: disciplina(o), materia: c?.materia, tema: a.tema || q.tema || 'Geral', periodo: periodo(o), dificuldade: q.dificuldade,
     enunciado: q.enunciado, alternativas: q.alternativas, correta: q.correta, comentario: q.comentario,
     referencia: q.referencia, fonte: q.fonte, prova: p.label, numero: p.numero, palavras: a.palavras,
-    arquivo: o.arquivo, imagem: o.possivelImagem || o.alternativaVazia ? 1 : undefined,
+    roteiro: q.roteiro, arquivo: o.arquivo,
+    imagem: (o.possivelImagem || o.alternativaVazia) && !q.enunciado.includes('[[IMG:') ? 1 : undefined,
   })
 })
 console.error(`classificadas: ${questoes.filter(q => q.materia).length}/${questoes.length} · com prova: ${questoes.filter(q => q.prova).length}`)
-const flashcards = (await load('flashcards')).map(c => {
+const cards = new Map()
+for (const c of await load('flashcards')) {
+  const k = normE(c.frente).slice(0, 300), prev = cards.get(k)
+  if (prev) paragrafos(prev, c, ['frente', 'verso', 'comentario'])
+  else cards.set(k, { ...c })
+}
+const flashcards = [...cards.values()].map(c => {
   const o = meta(c.origem)
   const verso = c.comentario && c.tipo === 'so-correta' ? `${c.verso}\n\n${c.comentario}` : c.verso
   return drop({ id: c.id, disciplina: disciplina(o), tema: c.tema || 'Geral', frente: c.frente, verso, arquivo: o.arquivo })

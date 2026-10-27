@@ -1,11 +1,13 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { ArrowRight, CalendarClock, ChevronRight, CircleHelp, FolderOpen, Moon, ScanLine, Settings, Sun, Sunrise, Syringe, Timer, X } from 'lucide-react'
+import { ArrowRight, CalendarClock, ChevronRight, CircleHelp, FileText, Flame, FolderOpen, Hospital, Library, Moon, ScanLine, Settings, Stethoscope, Sun, Sunrise, Syringe, Timer, X } from 'lucide-react'
 import { Agenda } from '../components/Agenda'
 import { Icon3D } from '../components/Icon3D'
+import { PdfViewer } from '../components/PdfViewer'
 import { SubjectModal } from '../components/SubjectModal'
+import { arvore, caminhoDe, limpa, pastaDaArea, pastaDoPeriodo, todos } from '../lib/acervo'
 import { pct, periodoLabel, sortDisc, uniq } from '../lib/format'
-import { setState, useAcervoPronto, useFlashcards, useMaterials, useQuestions, useStore } from '../lib/store'
+import { setState, useAcervoPronto, useArquivos, useFlashcards, useMaterials, useQuestions, useStore, type Arquivo } from '../lib/store'
 
 function greeting() {
   const h = new Date().getHours()
@@ -34,6 +36,11 @@ export default function Dashboard() {
   const [dicas, setDicas] = useState(false)
   const [config, setConfig] = useState(false)
   const [editDrive, setEditDrive] = useState(false)
+  const arquivos = useArquivos()
+  const nome = useStore((s) => s.nome)
+  const recentes = useStore((s) => s.recentes)
+  const feitos = useStore((s) => s.feitos)
+  const [pdf, setPdf] = useState<Arquivo>()
 
   const { text, Icon } = greeting()
   const due = cards.filter((c) => !srs[c.id] || srs[c.id].due <= Date.now()).length
@@ -63,16 +70,33 @@ export default function Dashboard() {
     })),
   ]
 
+  // Acervo do Drive: áreas de primeiro nível, PDFs recentes e os atalhos do período escolhido
+  const byArq = new Map(arquivos.map((a) => [a.id, a]))
+  const raiz = arvore(arquivos)
+  const AREAS = [
+    { nome: 'TPI', icon: Flame, bg: 'from-[#f0702a] via-[#e2463f] to-[#d8433f]' },
+    { nome: 'ENAMED', icon: Stethoscope, bg: 'from-[#3c9a6c] via-[#46a07f] to-[#5aa38f]' },
+    { nome: 'INTERNATO', icon: Hospital, bg: 'from-[#3a64d8] via-[#3c7ce0] to-[#4a8fe0]' },
+  ].map((a) => ({ ...a, pasta: pastaDaArea(raiz, a.nome) }))
+  const recentesPdf = recentes.map((id) => byArq.get(id)).filter((a): a is Arquivo => !!a).slice(0, 6)
+  const perPasta = periodo !== undefined ? pastaDoPeriodo(raiz, periodo) : undefined
+  const resumos = perPasta && [...perPasta.filhas.values()].find((k) => /RESUMOS/.test(k.nome))
+  const assuntos = perPasta?.arquivos.find((a) => a.tipo === 'assuntos')
+
   const TRACKS = [
     { to: '/app/questoes', t: 'Banco de questões', d: `${questions.length} questões`, img: 'books', bg: 'from-[#ef4f23] to-[#e2761a]' },
     { to: '/app/simulados', t: 'Simulados', d: 'Monte sua prova por assunto', img: 'stopwatch', bg: 'from-[#1f8f68] to-[#3fa36f]' },
     { to: '/app/flashcards', t: 'Flashcards', d: `${due} para revisar hoje`, img: 'card_index', bg: 'from-[#2b55d9] to-[#3f8ae6]' },
   ]
-  const SHORTCUTS = [
-    { to: '/app/minhas-provas', t: 'Minhas provas', img: 'clipboard', d: `${simulados.filter((s) => s.finishedAt && !s.treino).length} finalizadas` },
+  const SHORTCUTS: { to?: string; open?: Arquivo; t: string; img: string; d: string }[] = [
+    { to: '/app/minhas-provas', t: 'Minhas provas', img: 'clipboard', d: `${simulados.filter((s) => s.finishedAt && !s.treino).length} finalizadas · ${feitos.length} PDFs feitos` },
+    resumos
+      ? { to: `/app/acervo?pasta=${encodeURIComponent(resumos.path)}`, t: `Resumos do ${periodoLabel(periodo!)}`, img: 'books', d: `${todos(resumos).length} arquivos` }
+      : { to: '/app/notas', t: 'Minhas notas', img: 'memo', d: 'Anotações por questão' },
+    assuntos
+      ? { open: assuntos, t: 'Assuntos do período', img: 'bullseye', d: 'O que cai em cada prova' }
+      : { to: '/app/acervo', t: 'Acervo', img: 'file_folder', d: 'Provas e resumos em PDF' },
     { to: '/app/grade', t: 'Minha grade', img: 'spiral_calendar', d: 'Tópicos e presença' },
-    { to: '/app/acervo', t: 'Acervo', img: 'file_folder', d: 'Provas e resumos em PDF' },
-    { to: '/app/notas', t: 'Minhas notas', img: 'memo', d: 'Anotações por questão' },
   ]
 
   return (
@@ -86,7 +110,13 @@ export default function Dashboard() {
           {config && (
             <div className="absolute top-14 right-4 z-20 w-72 rounded-2xl border border-line bg-panel-2 p-4 shadow-[0_16px_40px_-12px_rgba(0,0,0,0.8)]">
               <p className="text-sm font-bold">Configurações</p>
-              <p className="mb-3 text-xs text-mute">Personalize o fundo da tela.</p>
+              <p className="mb-3 text-xs text-mute">Personalize a saudação e o fundo da tela.</p>
+              <label className="mb-3 block">
+                <span className="label">Como te chamar</span>
+                <input className="input" placeholder="Ex.: Dr Gabriel" defaultValue={nome}
+                  onBlur={(e) => { const v = e.target.value.trim(); setState((s) => ({ ...s, nome: v || undefined })) }}
+                  onKeyDown={(e) => e.key === 'Enter' && e.currentTarget.blur()} />
+              </label>
               <p className="label">Tema do fundo</p>
               <div className="grid grid-cols-3 gap-1.5">
                 {FUNDOS.map(([v, label]) => (
@@ -99,7 +129,7 @@ export default function Dashboard() {
             </div>
           )}
           <h1 className="mb-5 flex items-center justify-center gap-2 font-display text-2xl font-bold sm:text-3xl">
-            <Icon className="size-7 fill-warn text-warn" /> {text}!
+            <Icon className="size-7 fill-warn text-warn" /> {text}{nome ? `, ${nome}` : ''}!
           </h1>
           <Agenda />
         </section>
@@ -127,16 +157,50 @@ export default function Dashboard() {
         </Link>
       </div>
 
+      <div className="grid grid-cols-2 gap-3 lg:grid-cols-4">
+        {AREAS.map(({ nome: n, icon: I, bg, pasta }) => pasta && (
+          <Link key={n} to={`/app/acervo?pasta=${encodeURIComponent(pasta.path)}`}
+            className={`group flex items-center gap-3 rounded-2xl bg-gradient-to-r ${bg} p-4 text-white transition hover:-translate-y-0.5 hover:brightness-105`}>
+            <span className="grid size-11 shrink-0 place-items-center rounded-full bg-white/20"><I className="size-5" /></span>
+            <span className="min-w-0 flex-1">
+              <span className="block font-display text-xl font-extrabold leading-tight sm:text-2xl">{n}</span>
+              <span className="block text-xs font-semibold opacity-85">{todos(pasta).length} arquivos</span>
+            </span>
+            <ChevronRight className="size-5 shrink-0 transition group-hover:translate-x-0.5" />
+          </Link>
+        ))}
+        <Link to="/app/acervo" className="group flex items-center gap-3 rounded-2xl border border-[#3a2a20] bg-gradient-to-br from-[#3a2216] via-[#0b0b10] to-[#0d1530] p-4 transition hover:-translate-y-0.5">
+          <span className="grid size-11 shrink-0 place-items-center rounded-full bg-white/10"><Library className="size-5" /></span>
+          <span className="min-w-0 flex-1">
+            <span className="block font-display text-xl font-extrabold leading-tight sm:text-2xl">Acervo</span>
+            <span className="block text-xs font-semibold text-mute">{arquivos.length} arquivos · {feitos.length} feitos</span>
+          </span>
+          <ChevronRight className="size-5 shrink-0 transition group-hover:translate-x-0.5" />
+        </Link>
+      </div>
+
       <div className="grid gap-5 lg:grid-cols-[0.95fr_0.95fr_1.75fr]">
         <section className="flex min-h-80 flex-col overflow-hidden rounded-2xl border-2 border-ink bg-black">
           <div className="flex items-center justify-between bg-ink px-4 py-2.5 text-bg">
-            <p className="text-xs font-bold uppercase tracking-[0.14em]">Pendências <span className="ml-1 font-semibold normal-case tracking-normal opacity-60">{pendencias.length}</span></p>
+            <p className="text-xs font-bold uppercase tracking-[0.14em]">Continuar <span className="ml-1 font-semibold normal-case tracking-normal opacity-60">{pendencias.length + recentesPdf.length}</span></p>
             <Link to="/app/minhas-provas" aria-label="Ver provas"><ArrowRight className="size-4" /></Link>
           </div>
-          {!pendencias.length ? (
-            <p className="m-auto px-6 text-center text-sm text-mute">Nada pendente. Provas em andamento, provas para corrigir e eventos da agenda aparecem aqui.</p>
+          {!pendencias.length && !recentesPdf.length ? (
+            <p className="m-auto px-6 text-center text-sm text-mute">Nada pendente. Provas em andamento, eventos da agenda e os últimos PDFs abertos aparecem aqui.</p>
           ) : (
             <ul className="divide-y divide-line overflow-y-auto">
+              {recentesPdf.map((a) => (
+                <li key={a.id}>
+                  <button onClick={() => setPdf(a)} className="flex w-full items-center gap-3 px-4 py-3 text-left hover:bg-white/5">
+                    <span className="grid size-8 shrink-0 place-items-center rounded-full bg-ink text-bg"><FileText className="size-4" /></span>
+                    <span className="min-w-0 flex-1">
+                      <span className="block truncate text-sm font-semibold">{limpa(a.nome)}</span>
+                      <span className="block truncate text-[11px] uppercase text-mute">{caminhoDe(a)}</span>
+                    </span>
+                    <span className={`shrink-0 rounded-full px-2 py-0.5 text-[10px] font-bold uppercase ${feitos.includes(a.id) ? 'bg-accent text-bg' : 'bg-ink text-bg'}`}>{feitos.includes(a.id) ? 'Feita' : 'PDF'}</span>
+                  </button>
+                </li>
+              ))}
               {pendencias.map(({ key, to, t, sub, tag, tone, icon: I }) => (
                 <li key={key}>
                   <Link to={to} className="flex items-center gap-3 px-4 py-3 hover:bg-white/5">
@@ -154,16 +218,22 @@ export default function Dashboard() {
         </section>
 
         <div className="grid grid-cols-2 gap-3 lg:grid-cols-1">
-          {SHORTCUTS.map(({ to, t, d, img }) => (
-            <Link key={t} to={to} className={`group flex items-center gap-3 p-4 transition hover:-translate-y-0.5 ${white}`}>
-              <span className="grid size-11 shrink-0 place-items-center rounded-full bg-zinc-300/70"><Icon3D name={img} className="size-8" /></span>
-              <span className="min-w-0">
-                <span className="block font-bold">{t}</span>
-                <span className="block truncate text-xs text-zinc-600">{d}</span>
-              </span>
-              <ArrowRight className="ml-auto hidden size-4 shrink-0 text-zinc-500 transition group-hover:translate-x-0.5 sm:block" />
-            </Link>
-          ))}
+          {SHORTCUTS.map(({ to, open, t, d, img }) => {
+            const corpo = (
+              <>
+                <span className="grid size-11 shrink-0 place-items-center rounded-full bg-zinc-300/70"><Icon3D name={img} className="size-8" /></span>
+                <span className="min-w-0">
+                  <span className="block font-bold">{t}</span>
+                  <span className="block truncate text-xs text-zinc-600">{d}</span>
+                </span>
+                <ArrowRight className="ml-auto hidden size-4 shrink-0 text-zinc-500 transition group-hover:translate-x-0.5 sm:block" />
+              </>
+            )
+            const cls = `group flex items-center gap-3 p-4 text-left transition hover:-translate-y-0.5 ${white}`
+            return open
+              ? <button key={t} onClick={() => setPdf(open)} className={cls}>{corpo}</button>
+              : <Link key={t} to={to!} className={cls}>{corpo}</Link>
+          })}
         </div>
 
         <section className="overflow-hidden rounded-2xl border-2 border-ink bg-black">
@@ -209,6 +279,7 @@ export default function Dashboard() {
               {tiles.map((d, i) => {
                 const qs = doPeriodo.filter((q) => q.disciplina === d)
                 const seen = qs.filter((q) => attempts[q.id]?.length).length
+                const nProvas = new Set(qs.map((q) => q.arquivo).filter(Boolean)).size
                 const off = !qs.length && !materials.some((m) => m.disciplina === d)
                 const lone = tiles.length % 2 === 1 && i === tiles.length - 1
                 return (
@@ -218,7 +289,8 @@ export default function Dashboard() {
                     } ${lone ? 'sm:col-span-2 sm:mx-auto sm:w-[calc(50%-0.375rem)]' : ''}`}>
                     <span className="min-w-0">
                       <span className="block font-display text-3xl font-bold leading-tight">{d.replace(/^Internato · /, '')}</span>
-                      <span className="mt-1 block text-xs font-medium opacity-70">{off ? 'Indisponível' : `${seen}/${qs.length} questões vistas`}</span>
+                      <span className="mt-1 block text-xs font-medium opacity-70">{off ? 'Indisponível' : `${nProvas} provas · ${seen}/${qs.length} questões vistas`}</span>
+                      {!off && <span className="mt-2 block h-1.5 w-40 max-w-full overflow-hidden rounded-full bg-black/10"><span className="block h-full rounded-full bg-[#b83fd6]" style={{ width: `${pct(seen, qs.length)}%` }} /></span>}
                     </span>
                     <ChevronRight className="size-6 shrink-0 transition group-hover:translate-x-0.5" />
                   </button>
@@ -228,6 +300,7 @@ export default function Dashboard() {
           )}
         </section>
       </div>
+      {pdf && <PdfViewer arquivo={pdf} onClose={() => setPdf(undefined)} />}
       {modal && <SubjectModal disciplina={modal} periodo={periodo} onClose={() => setModal(undefined)} />}
     </div>
   )

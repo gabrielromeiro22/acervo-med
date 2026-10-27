@@ -18,6 +18,7 @@ export interface Question {
   palavras?: string[] // palavras-chave para busca
   arquivo?: string // id do PDF de origem no Drive (questões do acervo)
   imagem?: 1 // o enunciado cita imagem/figura que não veio no texto
+  roteiro?: string // assunto do roteiro oficial do período (Meu Acervo), ex. "Segurança do paciente"
 }
 
 export interface Flashcard {

@@ -68,3 +68,6 @@ export function moduloDe(disciplina: string): { modulo?: string } {
   const interno = Object.keys(INTERNATO).find((k) => disciplina === `Internato · ${INTERNATO[k]}`)
   return { modulo: interno ?? disciplina.split(' ')[0] }
 }
+
+// texto sem as figuras [[IMG:…]] do Meu Acervo (para copiar ou resumir)
+export const semFiguras = (t: string) => t.replace(/\[\[IMG:[\w.-]+\]\]/g, '[imagem no PDF original]')

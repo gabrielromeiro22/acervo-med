@@ -26,3 +26,13 @@ dist-ssr
 # acervo: PDFs baixados e cache do OCR (regeráveis via scripts/acervo)
 data/acervo/pdf
 scripts/acervo/.ocr
+
+# Meu Acervo (meu-acervo/): código e app ficam no git; cache de PDFs, provas geradas e figuras brutas não
+# (as figuras usadas pelas questões vão para public/acervo/img pelo merge-meuacervo.mjs)
+meu-acervo/_cache/
+meu-acervo/img/
+meu-acervo/provas/
+meu-acervo/provas.js
+meu-acervo/tools/ocr
+__pycache__/
+meu-acervo/provas_completo.js

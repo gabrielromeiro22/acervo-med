@@ -5,6 +5,7 @@ import { QuestionCard } from '../components/QuestionCard'
 import { Empty, PageHeader } from '../components/ui'
 import { normalize } from '../lib/format'
 import { useArquivos, useFlashcards, useMaterials, useQuestions, useStore } from '../lib/store'
+import { semFiguras } from '../lib/format'
 
 const LIMIT = 20
 
@@ -50,7 +51,7 @@ export default function Busca() {
               <details key={x.id} className="group">
                 <summary className="card cursor-pointer list-none p-4 text-sm group-open:border-accent/40">
                   <span className="chip mr-2">{x.disciplina}</span>
-                  <span className="text-mute">{x.enunciado.slice(0, 180)}{x.enunciado.length > 180 ? '…' : ''}</span>
+                  <span className="text-mute">{semFiguras(x.enunciado).slice(0, 180)}{x.enunciado.length > 180 ? '…' : ''}</span>
                 </summary>
                 <div className="mt-2"><QuestionCard q={x} reveal /></div>
               </details>
