@@ -19,6 +19,7 @@ export interface Question {
   arquivo?: string // id do PDF de origem no Drive (questões do acervo)
   imagem?: 1 // o enunciado cita imagem/figura que não veio no texto
   aberta?: 'gabarito' | 'discursiva' // prova sem alternativas: a única "alternativa" é a resposta esperada
+  repetida?: 1 // cópia de uma questão que caiu igual em outra prova: só aparece na prova, não no banco
   roteiro?: string // assunto do roteiro oficial do período (Meu Acervo), ex. "Segurança do paciente"
 }
 

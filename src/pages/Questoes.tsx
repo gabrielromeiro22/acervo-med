@@ -28,7 +28,7 @@ export default function Questoes() {
   const attempts = useStore((s) => s.attempts)
   const [params] = useSearchParams()
   const navigate = useNavigate()
-  const [f, setF] = useState<Filters>(() => ({ ...NONE, periodo: params.get('periodo') ?? '', disciplina: params.get('disciplina') ?? '', materia: params.get('materia') ?? '', roteiro: params.get('roteiro') ?? '' }))
+  const [f, setF] = useState<Filters>(() => ({ ...NONE, periodo: params.get('periodo') ?? '', disciplina: params.get('disciplina') ?? '', materia: params.get('materia') ?? '', roteiro: params.get('roteiro') ?? '', tema: params.get('tema') ?? '' }))
   const [seed, setSeed] = useState(0)
   const [pos, setPos] = useState(0)
   const [chosen, setChosen] = useState<number>()
@@ -128,7 +128,7 @@ export default function Questoes() {
 
       {(f.prova || f.roteiro) && list.length > 0 && (
         <div className="mb-5 flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-accent/30 bg-accent/5 p-4">
-          <p className="text-sm"><b>{f.disciplina} · {f.prova || f.roteiro}</b> <span className="text-mute">· {list.length} questões{f.prova ? ' na ordem original' : ' deste assunto'}</span></p>
+          <p className="text-sm"><b>{[f.disciplina, f.prova || f.roteiro].filter(Boolean).join(' · ')}</b> <span className="text-mute">· {list.length} questões{f.prova ? ' na ordem original' : ' deste assunto'}</span></p>
           <button className="btn-primary" onClick={fazerProva}><Play className="size-4" /> Fazer esta prova</button>
         </div>
       )}

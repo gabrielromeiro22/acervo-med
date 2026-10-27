@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom'
 import {
-  ArrowLeft, BarChart3, BookOpen, CalendarRange, ChevronDown, ClipboardCheck, ClipboardList, FileText, Home, Layers, Library, Maximize2, Minimize2,
+  ArrowLeft, BarChart3, Flame, BookOpen, CalendarRange, ChevronDown, ClipboardCheck, ClipboardList, FileText, Home, Layers, Library, Maximize2, Minimize2,
   NotebookPen, Search, Upload, UserRound,
 } from 'lucide-react'
 import { Logo } from './Logo'
@@ -11,6 +11,7 @@ const NAV = [
   { to: '/app', label: 'Início', icon: Home, end: true },
   { to: '/app/questoes', label: 'Banco de questões', icon: ClipboardList },
   { to: '/app/acervo', label: 'Acervo (PDFs)', icon: Library },
+  { to: '/app/cobrados', label: 'Assuntos mais cobrados', icon: Flame },
   { to: '/app/simulados', label: 'Simulados', icon: FileText },
   { to: '/app/minhas-provas', label: 'Minhas provas', icon: ClipboardCheck },
   { to: '/app/grade', label: 'Grade acadêmica', icon: CalendarRange },

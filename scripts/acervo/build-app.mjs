@@ -85,15 +85,53 @@ const paragrafos = (prev, q, campos) => {
   // alternativas recortadas do PDF trocam as mal lidas, se o gabarito for o mesmo
   if (q.alternativas?.some(a => a.includes('[[IMG:')) && q.alternativas.length === prev.alternativas?.length && q.correta === prev.correta) prev.alternativas = q.alternativas
 }
-const unique = new Map(), porArquivo = new Map(), ids = new Set()
+// mesma questão pelo número dentro do mesmo PDF: as duas leituras (parser da Afya e Meu Acervo) às vezes diferem
+// em detalhes de OCR, então basta o mesmo gabarito, o mesmo número de alternativas e enunciado parecido
+const palavras = t => new Set(normE(t).split(' ').filter(w => w.length > 3))
+const parecido = (a, b) => {
+  const A = palavras(a), B = palavras(b)
+  let comum = 0
+  for (const w of A) if (B.has(w)) comum++
+  return comum / Math.max(1, Math.min(A.size, B.size)) > 0.7
+}
+const keyNum = q => q.origem?.arquivo && q.origem?.numero && `${q.origem.arquivo}#${q.origem.numero}`
+// funde a segunda leitura na primeira (que guarda o id e a classificação): fica o texto mais rico
+const funde = (prev, q) => {
+  for (const c of ['enunciado', 'comentario']) if (rico(q[c]) > rico(prev[c])) prev[c] = q[c]
+  if (rico(q.alternativas?.join('\n')) > rico(prev.alternativas?.join('\n'))) prev.alternativas = q.alternativas
+  if (q.roteiro && !prev.roteiro) prev.roteiro = q.roteiro
+  if (!prev.tema && q.tema) prev.tema = q.tema
+}
+const unique = new Map(), porArquivo = new Map(), porNumero = new Map(), ids = new Set()
+// questão repetida em outra prova (outro PDF): fica também na prova dela, marcada como repetida,
+// para a prova continuar completa sem duplicar o banco de questões
+const repetidas = []
+let fundidas = 0
 for (const q of await load('questoes')) {
-  const k = keyOf(q), ka = keyArq(q), prev = unique.get(k) || (ka && porArquivo.get(ka))
-  if (prev) { if (!prev.tema && q.tema) prev.tema = q.tema; paragrafos(prev, q, ['enunciado', 'comentario']); continue }
+  const k = keyOf(q), ka = keyArq(q), kn = keyNum(q), prev = unique.get(k) || (ka && porArquivo.get(ka))
+  if (prev) {
+    if (!prev.tema && q.tema) prev.tema = q.tema
+    paragrafos(prev, q, ['enunciado', 'comentario'])
+    const outroPdf = q.origem?.arquivo && prev.origem?.arquivo !== q.origem.arquivo
+    if (outroPdf && !ids.has(q.id) && !(ka && porArquivo.has(ka)) && !(kn && porNumero.has(kn))) {
+      const copia = { ...q, repetida: prev.id }
+      ids.add(q.id); repetidas.push(copia)
+      if (ka) porArquivo.set(ka, copia)
+      if (kn) porNumero.set(kn, copia)
+    }
+    continue
+  }
+  const mesma = kn && porNumero.get(kn)
+  if (mesma && mesma.correta === q.correta && mesma.alternativas.length === q.alternativas.length && parecido(mesma.enunciado, q.enunciado)) {
+    funde(mesma, q); fundidas++; continue
+  }
   if (ids.has(q.id)) continue
   const novo = { ...q }
   ids.add(q.id); unique.set(k, novo)
   if (ka) porArquivo.set(ka, novo)
+  if (kn && !porNumero.has(kn)) porNumero.set(kn, novo)
 }
+console.error(`questões fundidas pelo número no mesmo PDF: ${fundidas}`)
 // limpeza do OCR: código de rastreio da Afya ("000072.53001a.280ed7… Pgina 6 de 17") grudado no texto e
 // romanos mal lidos ("Il" = II, "Ill" = III, "N" = IV: "I, II e N.", "N. O hiperparatireoidismo…")
 const rastreio = /\s*\d{6}\.\w{5,6}\.[\w.,]{8,}(\s*P[áa]?gina\s*\d+\s*de\s*\d+)?|\s*\bP[áa]?gina\s*\d+\s*de\s*\d+\b/g
@@ -108,22 +146,31 @@ const limpaEnunciado = t => {
   return t && /\bIII[.)\-–]/.test(t) ? t.replace(/(^|\s)N([.)\-–])\s/g, '$1IV$2 ') : t
 }
 
-const questoes = [...unique.values()].map(q => {
-  const o = meta(q.origem), c = classes[q.id], a = assunto(c), p = prova(o, byId.get(o.arquivo))
+const questoes = [...unique.values(), ...repetidas].map(q => {
+  const o = meta(q.origem), c = classes[q.id] ?? classes[q.repetida], a = assunto(c), p = prova(o, byId.get(o.arquivo))
   return drop({
     id: q.id, disciplina: disciplina(o), materia: c?.materia, tema: a.tema || q.tema || 'Geral', periodo: periodo(o), dificuldade: q.dificuldade,
     enunciado: limpaEnunciado(q.enunciado), alternativas: q.alternativas.map(limpaTexto), correta: q.correta, comentario: limpaTexto(q.comentario),
     referencia: q.referencia, fonte: q.fonte, prova: p.label, numero: p.numero, palavras: a.palavras,
-    roteiro: q.roteiro, arquivo: o.arquivo,
+    roteiro: q.roteiro, arquivo: o.arquivo, repetida: q.repetida ? 1 : undefined,
     imagem: (o.possivelImagem || o.alternativaVazia) && !q.enunciado.includes('[[IMG:') ? 1 : undefined,
   })
 })
 console.error(`classificadas: ${questoes.filter(q => q.materia).length}/${questoes.length} · com prova: ${questoes.filter(q => q.prova).length}`)
-const cards = new Map()
-for (const c of await load('flashcards')) {
+const cards = new Map(), cardsNum = new Map()
+const rawCards = await load('flashcards')
+for (const c of rawCards) {
   const k = normE(c.frente).slice(0, 300), prev = cards.get(k)
-  if (prev) paragrafos(prev, c, ['frente', 'verso', 'comentario'])
-  else cards.set(k, { ...c })
+  if (prev) { paragrafos(prev, c, ['frente', 'verso', 'comentario']); continue }
+  const kn = keyNum(c), mesma = kn && cardsNum.get(kn)
+  if (mesma && mesma.tipo === c.tipo && parecido(mesma.frente, c.frente)) {
+    for (const f of ['frente', 'verso', 'comentario']) if (rico(c[f]) > rico(mesma[f])) mesma[f] = c[f]
+    if (c.roteiro && !mesma.roteiro) mesma.roteiro = c.roteiro
+    continue
+  }
+  const novo = { ...c }
+  cards.set(k, novo)
+  if (kn && !cardsNum.has(kn)) cardsNum.set(kn, novo)
 }
 const flashcards = [...cards.values()].map(c => {
   const o = meta(c.origem)
@@ -132,12 +179,30 @@ const flashcards = [...cards.values()].map(c => {
 })
 // questões abertas das provas: "só gabarito" (S_alt: o material traz só a alternativa certa) e discursivas.
 // Entram no modo prova (o aluno revela a resposta e marca se acertou), com uma única "alternativa" = a resposta.
-const abertas = [...cards.values()].filter(c => c.origem?.arquivo && (c.tipo === 'so-correta' || c.tipo === 'discursiva')).map(c => {
+// uma por PDF e número: duas leituras parecidas se fundem; se a mesma questão já tem alternativas (múltipla escolha) no
+// mesmo número, a aberta sai. A mesma aberta em outra prova fica nas duas (repetida).
+const abertasPorPdf = new Map(), abertasNum = new Map()
+for (const c of rawCards) {
+  if (!c.origem?.arquivo || !(c.tipo === 'so-correta' || c.tipo === 'discursiva')) continue
+  const k = `${c.origem.arquivo}|${normE(c.frente).slice(0, 300)}`, kn = keyNum(c)
+  const mc = kn && porNumero.get(kn)
+  if (mc && parecido(mc.enunciado, c.frente)) continue
+  const prev = abertasPorPdf.get(k) || (kn && abertasNum.get(kn))
+  if (prev && (abertasPorPdf.get(k) === prev || parecido(prev.frente, c.frente))) {
+    for (const f of ['frente', 'verso', 'comentario']) if (rico(c[f]) > rico(prev[f])) prev[f] = c[f]
+    if (c.roteiro && !prev.roteiro) prev.roteiro = c.roteiro
+    continue
+  }
+  const novo = { ...c }
+  abertasPorPdf.set(k, novo)
+  if (kn && !abertasNum.has(kn)) abertasNum.set(kn, novo)
+}
+const abertas = [...abertasPorPdf.values()].map(c => {
   const o = meta(c.origem), p = prova(o, byId.get(o.arquivo))
   const resposta = limpaTexto(c.verso)
   if (!resposta || !c.frente?.trim()) return null
   return drop({
-    id: `ab-${c.id.replace(/^fc-/, '')}`, aberta: c.tipo === 'discursiva' ? 'discursiva' : 'gabarito', disciplina: disciplina(o), tema: c.tema || 'Geral',
+    id: `ab-${c.id.replace(/^fc-/, '')}-${c.origem.arquivo.slice(0, 6)}`, aberta: c.tipo === 'discursiva' ? 'discursiva' : 'gabarito', disciplina: disciplina(o), tema: c.tema || 'Geral',
     periodo: periodo(o), dificuldade: 'media', enunciado: limpaEnunciado(c.frente), alternativas: [resposta], correta: 0,
     comentario: c.tipo === 'discursiva' ? undefined : limpaTexto(c.comentario), prova: p.label, numero: o.numero ?? p.numero,
     roteiro: c.roteiro, arquivo: o.arquivo,

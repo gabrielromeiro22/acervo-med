@@ -19,6 +19,7 @@ import ProvasAnteriores from './pages/ProvasAnteriores'
 import ProvaConfig from './pages/ProvaConfig'
 import Resumos from './pages/Resumos'
 import Montar from './pages/Montar'
+import Cobrados from './pages/Cobrados'
 
 export default function App() {
   return (
@@ -43,6 +44,7 @@ export default function App() {
         <Route path="provas" element={<ProvasAnteriores />} />
         <Route path="resumos" element={<Resumos />} />
         <Route path="montar" element={<Montar />} />
+        <Route path="cobrados" element={<Cobrados />} />
         <Route path="provas/:arquivo" element={<ProvaConfig />} />
       </Route>
       <Route path="*" element={<Navigate to="/" replace />} />

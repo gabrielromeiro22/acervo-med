@@ -117,7 +117,7 @@ function catalog(s: State) {
     cache = {
       s,
       // q: banco de questões (múltipla escolha); qa: tudo, com as abertas das provas (só gabarito e discursivas)
-      q: [...acervo.questions.filter((x) => !x.aberta), ...s.imported.questions],
+      q: [...acervo.questions.filter((x) => !x.aberta && !x.repetida), ...s.imported.questions],
       qa: [...acervo.questions, ...s.imported.questions],
       f: [
         ...acervo.flashcards, ...s.imported.flashcards,

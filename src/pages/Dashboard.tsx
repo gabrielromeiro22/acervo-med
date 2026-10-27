@@ -99,7 +99,7 @@ export default function Dashboard() {
     assuntos
       ? { open: assuntos, t: 'Assuntos do período', img: 'bullseye', d: 'O que cai em cada prova' }
       : { to: '/app/acervo', t: 'Acervo', img: 'file_folder', d: 'Provas e resumos em PDF' },
-    { to: '/app/grade', t: 'Minha grade', img: 'spiral_calendar', d: 'Tópicos e presença' },
+    { to: `/app/cobrados${periodo !== undefined ? `?periodo=${periodo}` : ''}`, t: 'Mais cobrados', img: 'bar_chart', d: 'Assuntos que mais caem nas provas' },
   ]
 
   return (
