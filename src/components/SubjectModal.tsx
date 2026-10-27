@@ -35,7 +35,7 @@ export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: str
 
   const PASSO1: (Tile & { passo?: boolean })[] = [
     { to: `/app/acervo?pasta=${encodeURIComponent(dir)}`, t: 'Provas em PDF', d: `${nPdf} arquivo(s) no Drive`, img: 'printer', bg: 'from-[#3b6cf0] to-[#2442b8]', text: 'text-white', ok: nPdf > 0 },
-    { to: `/app/acervo?pasta=${encodeURIComponent(resumos?.path ?? '')}${modulo ? `&q=${encodeURIComponent(modulo)}` : ''}`, t: 'Materiais de estudo', d: `${nRes} resumo(s) do período`, img: 'books', bg: 'from-[#f6d43a] to-[#e2ae14]', text: 'text-[#3a2a00]', ok: nRes > 0 },
+    { to: `/app/resumos?periodo=${periodo}&disciplina=${enc}${modulo ? `&modulo=${encodeURIComponent(modulo)}` : ''}`, t: 'Materiais de estudo', d: `${nRes} resumo(s) do período`, img: 'books', bg: 'from-[#f6d43a] to-[#e2ae14]', text: 'text-[#3a2a00]', ok: nRes > 0 },
     { to: '', t: 'Fazer questões', d: `${qs.length} no banco`, img: 'laptop', bg: 'from-[#ef3b3b] to-[#c51d2a]', text: 'text-white', ok: qs.length > 0, passo: true },
   ]
   const PASSO2: Tile[] = [

@@ -19,7 +19,14 @@ export interface Simulado {
   gabarito?: Gabarito // ausente = 'final', o comportamento original
   riscadas?: Record<string, number[]> // alternativas riscadas por questão
   marcadas?: string[] // questões marcadas para revisar
+  anuladas?: string[] // anuladas pelo aluno: contam como acerto na nota
+  mostrarAssunto?: boolean // ausente = mostra o assunto de cada questão
+  pausaComentario?: boolean // pausa o cronômetro enquanto a resposta comentada está aberta
 }
+
+// acertos de uma prova: alternativa certa ou questão anulada
+export const acertou = (s: Simulado, id: string, correta: number | undefined) =>
+  !!s.anuladas?.includes(id) || (s.answers[id] !== undefined && s.answers[id] === correta)
 export interface CardState { ease: number; interval: number; due: number; reps: number }
 export interface Note { id: string; title: string; body: string; qid?: string; updatedAt: number }
 export interface AgendaItem { id: string; date: string; start?: string; end?: string; title: string; done: boolean }
@@ -128,7 +135,7 @@ export function recordAttempt(q: Question, chosen: number, ms: number) {
 }
 
 export function createSimulado(nome: string, questionIds: string[], durationSec: number, treino = false, papel = false,
-  extra: Pick<Simulado, 'arquivo' | 'gabarito'> = {}) {
+  extra: Pick<Simulado, 'arquivo' | 'gabarito' | 'mostrarAssunto' | 'pausaComentario'> = {}) {
   const sim: Simulado = { id: uid(), nome, createdAt: Date.now(), questionIds, answers: {}, durationSec, elapsedSec: 0, ...(treino && { treino }), ...(papel && { papel }), ...extra }
   setState((s) => ({ ...s, simulados: [sim, ...s.simulados] }))
   return sim.id
@@ -137,7 +144,8 @@ export function createSimulado(nome: string, questionIds: string[], durationSec:
 // Nova prova a partir de outra, com tempo proporcional. Refazer só as erradas é treino.
 export function redoSimulado(s: Simulado, ids: string[], suffix: string, treino = false) {
   const dur = s.durationSec && Math.round((s.durationSec * ids.length) / s.questionIds.length)
-  return createSimulado(`${s.nome} · ${suffix}`, ids, dur, treino, false, { arquivo: s.arquivo, gabarito: s.gabarito })
+  return createSimulado(`${s.nome} · ${suffix}`, ids, dur, treino, false,
+    { arquivo: s.arquivo, gabarito: s.gabarito, mostrarAssunto: s.mostrarAssunto, pausaComentario: s.pausaComentario })
 }
 
 // PDFs do acervo: feito, favorito e a lista de recentes (até 12)

@@ -1,6 +1,6 @@
 import { useState, type ReactNode } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { ArrowRight, BookOpen, Check, Clock, Play, Settings, Shuffle, Target, Trash2 } from 'lucide-react'
+import { ArrowRight, BookOpen, Check, Clock, Pause, Play, Settings, Shuffle, Tag, Target, Trash2 } from 'lucide-react'
 import { Empty } from '../components/ui'
 import { pct, shuffle } from '../lib/format'
 import { createSimulado, setState, useQuestions, useStore, type Gabarito } from '../lib/store'
@@ -21,6 +21,8 @@ export default function ProvaConfig() {
   const [timer, setTimer] = useState(true)
   const [dur, setDur] = useState<number>()
   const [aleatoria, setAleatoria] = useState(false)
+  const [assunto, setAssunto] = useState(true)
+  const [pausaComentario, setPausaComentario] = useState(true)
 
   if (!qs.length) return <Empty>Prova não encontrada. <Link to="/app" className="text-accent hover:underline">Voltar ao início</Link></Empty>
   const q0 = qs[0]
@@ -30,7 +32,7 @@ export default function ProvaConfig() {
 
   const iniciar = () => {
     const ids = qs.map((q) => q.id)
-    navigate(`/app/simulados/${createSimulado(nome, aleatoria ? shuffle(ids) : ids, timer ? min * 60 : 0, false, false, { arquivo, gabarito: gab })}`)
+    navigate(`/app/simulados/${createSimulado(nome, aleatoria ? shuffle(ids) : ids, timer ? min * 60 : 0, false, false, { arquivo, gabarito: gab, mostrarAssunto: assunto, pausaComentario })}`)
   }
 
   return (
@@ -93,6 +95,8 @@ export default function ProvaConfig() {
                 </span>
               </div>
             )}
+            {gab === 'depois' && <Linha icon={<Pause className="size-5" />} t="Pausar o timer na resposta comentada"><Chave on={pausaComentario} onClick={() => setPausaComentario(!pausaComentario)} /></Linha>}
+            <Linha icon={<Tag className="size-5" />} t="Mostrar assunto de cada questão"><Chave on={assunto} onClick={() => setAssunto(!assunto)} /></Linha>
             <Linha icon={<Shuffle className="size-5" />} t="Aleatorizar a ordem das questões"><Chave on={aleatoria} onClick={() => setAleatoria(!aleatoria)} /></Linha>
           </div>
         </Secao>

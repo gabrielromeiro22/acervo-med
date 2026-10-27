@@ -17,6 +17,7 @@ import Importar from './pages/Importar'
 import Acervo from './pages/Acervo'
 import ProvasAnteriores from './pages/ProvasAnteriores'
 import ProvaConfig from './pages/ProvaConfig'
+import Resumos from './pages/Resumos'
 
 export default function App() {
   return (
@@ -39,6 +40,7 @@ export default function App() {
         <Route path="importar" element={<Importar />} />
         <Route path="acervo" element={<Acervo />} />
         <Route path="provas" element={<ProvasAnteriores />} />
+        <Route path="resumos" element={<Resumos />} />
         <Route path="provas/:arquivo" element={<ProvaConfig />} />
       </Route>
       <Route path="*" element={<Navigate to="/" replace />} />

@@ -1,11 +1,16 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { ArrowLeft, ArrowRight, Bookmark, Check, CircleCheck, CircleMinus, CircleX, Clock, Download, Flag, ListChecks, Minus, Pause, Play, RotateCcw, ScanLine, Target, Timer, X } from 'lucide-react'
+import { toast } from 'sonner'
+import { ArrowLeft, ArrowRight, Check, CircleCheck, CircleMinus, CircleX, Clock, Download, FileText, Flag, Home, ListChecks, Pencil, RotateCcw, ScanLine, Target, TriangleAlert, X } from 'lucide-react'
+import { Aviso } from '../components/Aviso'
+import { Comentario } from '../components/Comentario'
+import { Rabiscos } from '../components/Rabiscos'
+import { RichText } from '../components/RichText'
 import { QuestionCard } from '../components/QuestionCard'
 import { TreinoModal } from '../components/TreinoModal'
 import { Empty } from '../components/ui'
 import type { Question } from '../data/types'
-import { LETTERS, fmtTime } from '../lib/format'
+import { LETTERS, fmtTime, textoParaIA } from '../lib/format'
 import { recordAttempt, redoSimulado, setState, useQuestions, useStore, type Simulado } from '../lib/store'
 
 export default function SimuladoRun() {
@@ -16,16 +21,22 @@ export default function SimuladoRun() {
 function Run({ id }: { id: string }) {
   const sim = useStore((s) => s.simulados.find((x) => x.id === id))
   const questions = useQuestions()
+  const navigate = useNavigate()
   const byId = useMemo(() => new Map(questions.map((q) => [q.id, q])), [questions])
   const [elapsed, setElapsed] = useState(sim?.elapsedSec ?? 0)
   const [pos, setPos] = useState(0)
-  const [confirming, setConfirming] = useState(false)
   const [pausado, setPausado] = useState(false)
+  const [rabiscando, setRabiscando] = useState(false)
+  const [aviso, setAviso] = useState<'anular' | 'reiniciar' | 'finalizar'>()
   // alternativa escolhida e ainda não confirmada (gabarito "depois de responder")
   const [sel, setSel] = useState<{ qid: string; i: number }>()
   const finished = !!sim?.finishedAt
+  const modo = sim?.gabarito ?? 'final'
+  const qid = sim?.questionIds[pos]
+  const respondida = !!sim && !!qid && (sim.answers[qid] !== undefined || !!sim.anuladas?.includes(qid))
   // Prova feita no papel: sem cronômetro, só o lançamento das respostas.
-  const paused = finished || !!sim?.papel || pausado
+  // "Pausar o timer na resposta comentada": parado enquanto o comentário da questão respondida está aberto.
+  const paused = finished || !!sim?.papel || pausado || (modo === 'depois' && respondida && sim?.pausaComentario !== false)
 
   const patch = useCallback((p: Partial<Simulado>) => {
     setState((s) => ({ ...s, simulados: s.simulados.map((x) => (x.id === id ? { ...x, ...p } : x)) }))
@@ -33,13 +44,13 @@ function Run({ id }: { id: string }) {
 
   const finish = useCallback((total: number) => {
     if (!sim || sim.finishedAt) return
-    const answered = sim.questionIds.filter((qid) => sim.answers[qid] !== undefined)
+    const answered = sim.questionIds.filter((x) => sim.answers[x] !== undefined && !sim.anuladas?.includes(x))
     const ms = answered.length ? (total * 1000) / answered.length : 0
-    // Treino não entra nas estatísticas.
+    // Treino não entra nas estatísticas; questão anulada também não.
     if (!sim.treino) {
-      for (const qid of answered) {
-        const q = byId.get(qid)
-        if (q) recordAttempt(q, sim.answers[qid], ms)
+      for (const x of answered) {
+        const q = byId.get(x)
+        if (q) recordAttempt(q, sim.answers[x], ms)
       }
     }
     patch({ finishedAt: Date.now(), elapsedSec: total })
@@ -67,114 +78,190 @@ function Run({ id }: { id: string }) {
 
   const ids = sim.questionIds
   const q = byId.get(ids[pos])
-  const answeredCount = ids.filter((qid) => sim.answers[qid] !== undefined).length
+  const faltam = ids.filter((x) => sim.answers[x] === undefined && !sim.anuladas?.includes(x)).length
   const left = sim.durationSec ? sim.durationSec - elapsed : 0
   const answer = (i: number) => patch({ answers: { ...sim.answers, [ids[pos]]: i }, elapsedSec: elapsed })
-  // gabarito: 'final' (padrão) só no resultado; 'depois' a cada resposta confirmada; 'agora' sempre visível
-  const modo = sim.gabarito ?? 'final'
-  const respondida = q ? sim.answers[q.id] !== undefined : false
+  const anulada = !!q && !!sim.anuladas?.includes(q.id)
   const reveal = modo === 'agora' || (modo === 'depois' && respondida)
-  const pendente = q && sel?.qid === q.id ? sel.i : undefined
+  const travada = reveal || anulada
+  const escolhida = q ? (sel?.qid === q.id ? sel.i : sim.answers[q.id]) : undefined
   const riscadas = (q && sim.riscadas?.[q.id]) || []
   const marcada = !!q && !!sim.marcadas?.includes(q.id)
-  const ir = (i: number) => { setPos(i); setSel(undefined); window.scrollTo({ top: 0 }) }
-  const escolher = modo === 'depois'
-    ? (respondida ? undefined : (i: number) => setSel(pendente === i ? undefined : { qid: q!.id, i }))
-    : answer
+  const ultima = pos >= ids.length - 1
+  const ir = (i: number) => { setPos(i); setSel(undefined); setRabiscando(false); window.scrollTo({ top: 0 }) }
+  const escolher = (i: number) => {
+    if (!q || travada || riscadas.includes(i)) return
+    if (modo === 'depois') setSel(escolhida === i && sel ? undefined : { qid: q.id, i })
+    else answer(i)
+  }
   const riscar = (i: number) => {
-    if (!q || reveal) return
+    if (!q || travada) return
     const r = riscadas.includes(i) ? riscadas.filter((x) => x !== i) : [...riscadas, i]
     patch({ riscadas: { ...sim.riscadas, [q.id]: r } })
-    if (pendente === i) setSel(undefined)
+    if (sel?.i === i) setSel(undefined)
   }
-  const certa = q && respondida && sim.answers[q.id] === q.correta
+  const certa = q && sim.answers[q.id] === q.correta
+  const copiar = () => q && navigator.clipboard?.writeText(textoParaIA(q, reveal)).then(() => toast.success('Questão copiada'), () => toast.error('Não foi possível copiar'))
+  const pill = 'inline-flex items-center gap-1.5 rounded-full border-2 border-white/80 px-3 py-1.5 text-sm font-semibold transition hover:bg-white/10'
+  const hms = (t: number) => { const v = Math.max(0, t); return [Math.floor(v / 3600), Math.floor((v % 3600) / 60), v % 60].map((n) => String(n).padStart(2, '0')).join(':') }
 
   return (
-    <>
-      <div className="mb-6 flex flex-wrap items-center justify-between gap-3">
-        <div className="min-w-0">
-          <Link to="/app/minhas-provas" className="text-xs text-mute hover:text-ink">← Minhas provas</Link>
-          <h1 className="truncate font-display text-2xl font-bold">{sim.nome}</h1>
+    <div className="mx-auto max-w-4xl">
+      <div className="mb-6 grid grid-cols-[1fr_auto_1fr] items-center gap-3">
+        <div className="flex gap-2">
+          <button className={pill} onClick={() => navigate('/app')}><Home className="size-4" /> Início</button>
+          <button className={pill} onClick={() => setAviso('reiniciar')}><RotateCcw className="size-4" /> Reiniciar</button>
         </div>
-        <div className="flex items-center gap-2">
-          <span className={`chip px-3 py-1 text-sm tabular-nums ${sim.durationSec && left < 300 ? 'border-danger/50 text-danger' : ''} ${pausado ? 'border-warn/50 text-warn' : ''}`}>
-            <Timer className="size-4" /> {sim.durationSec ? fmtTime(left) : fmtTime(elapsed)}{pausado && ' · pausado'}
+        <span className="rounded-full bg-[#c80e58] px-4 py-1 font-extrabold tabular-nums">{pos + 1}/{ids.length}</span>
+        <div className="flex items-center justify-end gap-3">
+          <span className={`inline-flex items-center gap-2 font-mono text-lg font-bold tabular-nums ${pausado ? 'text-warn' : ''}`}>
+            <Clock className="size-5 text-red-500" /> {hms(sim.durationSec ? left : elapsed)}
           </span>
-          <button className="btn-ghost px-2.5" onClick={() => setPausado(!pausado)} aria-label={pausado ? 'Retomar' : 'Pausar'}>
-            {pausado ? <Play className="size-4" /> : <Pause className="size-4" />}
+          <button role="switch" aria-checked={!pausado} aria-label={pausado ? 'Retomar' : 'Pausar'} onClick={() => setPausado(!pausado)}
+            className={`relative h-7 w-14 rounded-full border-2 border-white/70 transition ${pausado ? 'bg-zinc-700' : 'bg-zinc-900'}`}>
+            <i className={`absolute top-0.5 size-5 rounded-full bg-white transition-all ${pausado ? 'left-0.5' : 'left-7'}`} />
           </button>
-          {confirming ? (
-            <>
-              <button className="btn-ghost" onClick={() => setConfirming(false)}>Cancelar</button>
-              <button className="btn-primary" onClick={() => finish(elapsed)}>Confirmar entrega</button>
-            </>
-          ) : (
-            <button className="btn-primary" onClick={() => setConfirming(true)}><Flag className="size-4" /> Finalizar</button>
-          )}
         </div>
       </div>
 
-      {confirming && answeredCount < ids.length && (
-        <p className="mb-4 rounded-xl border border-warn/40 bg-warn/5 p-3 text-sm text-warn">
-          {ids.length - answeredCount} questão(ões) em branco serão contadas como erro.
-        </p>
-      )}
-
-      <div className="mb-5 flex flex-wrap gap-1.5">
-        {ids.map((qid, i) => {
-          const a = sim.answers[qid], c = byId.get(qid)?.correta
-          const tom = a === undefined ? 'border-line text-mute'
-            : modo === 'final' ? 'border-accent/50 bg-white/5 text-ink'
-              : a === c ? 'border-green-600 bg-green-600 text-white' : 'border-red-600 bg-red-600 text-white'
+      <div className="mb-8 flex flex-wrap justify-center gap-2">
+        {ids.map((x, i) => {
+          const a = sim.answers[x], c = byId.get(x)?.correta, an = sim.anuladas?.includes(x)
+          const tom = i === pos ? 'border-[#c80e58] bg-[#c80e58] text-white'
+            : an ? 'border-zinc-500 bg-zinc-600 text-white'
+              : a === undefined ? 'border-white/50 text-ink'
+                : modo === 'final' ? 'border-indigo-500 bg-indigo-600 text-white'
+                  : a === c ? 'border-green-600 bg-green-600 text-white' : 'border-red-600 bg-red-600 text-white'
           return (
-            <button key={qid} onClick={() => ir(i)}
-              className={`relative size-8 rounded-full border text-xs font-semibold tabular-nums transition ${tom} ${i === pos ? 'ring-2 ring-[#c80e58] ring-offset-2 ring-offset-bg' : ''}`}>
+            <button key={x} onClick={() => ir(i)} className={`relative grid size-9 place-items-center rounded-full border-2 text-sm font-bold tabular-nums transition ${tom}`}>
               {i + 1}
-              {sim.marcadas?.includes(qid) && <span className="absolute -top-0.5 -right-0.5 size-2.5 rounded-full bg-warn" />}
+              {sim.marcadas?.includes(x) && <span className="absolute -top-0.5 -right-0.5 size-3 rounded-full border-2 border-bg bg-warn" />}
             </button>
           )
         })}
       </div>
 
-      {q ? (
-        <QuestionCard q={q} chosen={modo === 'depois' && !respondida ? pendente : sim.answers[q.id]} reveal={reveal} onChoose={escolher}
-          index={`${pos + 1}/${ids.length}`} riscadas={riscadas} onRiscar={reveal ? undefined : riscar}
-          badge={
-            <button onClick={() => patch({ marcadas: marcada ? sim.marcadas!.filter((x) => x !== q.id) : [...(sim.marcadas ?? []), q.id] })}
-              className={`chip font-semibold ${marcada ? 'border-warn bg-warn text-bg' : 'hover:text-ink'}`}><Bookmark className="size-3.5" /> Marcar</button>
-          }
-          aviso={modo === 'depois' && respondida && (
-            <div className={`mt-5 flex flex-wrap items-center gap-3 rounded-2xl p-4 ${certa ? 'bg-green-100 text-green-900' : 'bg-rose-100 text-rose-900'}`}>
-              <span className="grid size-9 place-items-center rounded-full border-2 border-current">{certa ? <Check className="size-5" /> : <X className="size-5" />}</span>
+      {!q ? <Empty>Esta questão não está mais no acervo (talvez tenha sido removida da importação).</Empty> : (
+        <Rabiscos key={q.id} prova={sim.id} questao={q.id} ativo={rabiscando} onSair={() => setRabiscando(false)}>
+          <div className="mb-4 flex flex-wrap items-center gap-3">
+            <h2 className="font-display text-2xl font-bold">Questão {pos + 1}</h2>
+            {sim.mostrarAssunto !== false && (
+              <span className="max-w-xs truncate rounded-full border-2 border-white/60 px-3 py-0.5 text-xs font-extrabold tracking-wider uppercase" title={`${q.materia ?? ''} · ${q.tema}`}>{q.tema}</span>
+            )}
+            <span className="ml-auto flex flex-wrap gap-2">
+              <button className={`${pill} ${anulada ? 'border-zinc-400 bg-zinc-600' : ''}`} onClick={() => anulada ? patch({ anuladas: sim.anuladas!.filter((x) => x !== q.id) }) : setAviso('anular')}>
+                <CircleX className="size-4" /> {anulada ? 'Anulada' : 'Anular'}
+              </button>
+              <button className={`${pill} ${marcada ? 'border-warn bg-warn text-bg' : ''}`}
+                onClick={() => patch({ marcadas: marcada ? sim.marcadas!.filter((x) => x !== q.id) : [...(sim.marcadas ?? []), q.id] })}>
+                <Flag className={`size-4 ${marcada ? 'fill-bg' : ''}`} /> Marcar
+              </button>
+              <button className={`${pill} ${rabiscando ? 'border-lime-300 bg-lime-300 text-bg' : ''}`} onClick={() => setRabiscando(!rabiscando)}>
+                <Pencil className="size-4" /> {rabiscando ? 'Sair' : 'Rabiscar'}
+              </button>
+              <Link to={`/app/notas?qid=${q.id}`} className={`${pill} px-2`} title="Reportar problema ou anotar" aria-label="Reportar problema"><TriangleAlert className="size-4" /></Link>
+            </span>
+          </div>
+
+          <div className="text-[17px] leading-relaxed"><RichText text={q.enunciado} /></div>
+          {q.arquivo && (
+            <a href={`https://drive.google.com/file/d/${q.arquivo}/view`} target="_blank" rel="noopener"
+              className={`mt-3 inline-flex items-center gap-1.5 text-xs font-semibold hover:underline ${q.imagem ? 'text-warn' : 'text-mute'}`}>
+              <FileText className="size-3.5" /> {q.imagem ? 'Esta questão tem imagem: ver no PDF original' : 'Ver PDF original'}
+            </a>
+          )}
+
+          {anulada && <p className="mt-5 rounded-xl border border-zinc-500 bg-zinc-800 px-4 py-2 text-sm text-zinc-300">Questão anulada: conta como acerto na nota. Toque em "Anulada" para desfazer.</p>}
+
+          <ol className="mt-6 space-y-3">
+            {q.alternativas.map((alt, i) => {
+              const riscada = riscadas.includes(i) && !reveal
+              const ok = reveal && i === q.correta, errada = reveal && i === escolhida && i !== q.correta
+              const tom = ok ? 'border-green-500 ring-2 ring-green-500/60'
+                : errada ? 'border-red-500 ring-2 ring-red-500/60'
+                  : !reveal && escolhida === i ? 'border-violet-400 ring-2 ring-violet-400/50'
+                    : 'border-[#2b3170]'
+              return (
+                <li key={i}>
+                  <div onClick={() => escolher(i)} role="button" aria-pressed={escolhida === i}
+                    className={`flex items-start gap-3 rounded-2xl border-2 bg-gradient-to-b from-[#1b2052] to-[#11153a] px-4 py-3.5 shadow-[inset_0_1px_0_rgba(255,255,255,0.08)] transition ${tom} ${travada || riscada ? 'cursor-default' : 'cursor-pointer hover:border-[#4a52a8]'} ${reveal && !ok && !errada ? 'opacity-45' : ''}`}>
+                    <span className="pt-0.5 font-extrabold text-[#e0156b]">{LETTERS[i]})</span>
+                    <span className={`flex-1 pt-0.5 text-[15.5px] leading-relaxed ${riscada ? 'line-through opacity-40' : ''}`}><RichText text={alt} /></span>
+                    {modo === 'depois' && !travada && sel?.qid === q.id && sel.i === i && (
+                      <button onClick={(e) => { e.stopPropagation(); answer(i); setSel(undefined) }} aria-label="Confirmar resposta" title="Confirmar resposta"
+                        className="grid size-10 shrink-0 place-items-center rounded-full bg-green-500 text-white shadow-[0_3px_0_#14532d] transition hover:brightness-110"><Check className="size-5" /></button>
+                    )}
+                    {!travada && (
+                      <button onClick={(e) => { e.stopPropagation(); riscar(i) }} aria-label={riscada ? 'Desfazer risco' : 'Riscar alternativa'}
+                        className={`grid size-10 shrink-0 place-items-center rounded-full transition ${riscada ? 'bg-zinc-500 text-white' : 'bg-zinc-300 text-zinc-800 hover:bg-white'}`}><X className="size-5" /></button>
+                    )}
+                    {ok && <span className="grid size-10 shrink-0 place-items-center rounded-full bg-green-500 text-white"><Check className="size-5" /></span>}
+                    {errada && <span className="grid size-10 shrink-0 place-items-center rounded-full bg-red-500 text-white"><X className="size-5" /></span>}
+                  </div>
+                </li>
+              )
+            })}
+          </ol>
+
+          {modo === 'depois' && respondida && !anulada && (
+            <div className={`mt-6 flex flex-wrap items-center gap-3 rounded-2xl p-4 ${certa ? 'bg-green-100 text-green-900' : 'bg-rose-100 text-rose-900'}`}>
+              <span className="grid size-10 place-items-center rounded-full border-2 border-current">{certa ? <Check className="size-5" /> : <X className="size-5" />}</span>
               <span className="min-w-0 flex-1">
                 <b className="block text-lg">{certa ? 'Boa, doutor(a)!' : 'Cuidado, doutor(a)…'}</b>
                 <small className="font-semibold">A resposta correta é a {LETTERS[q.correta]}</small>
               </span>
-              {pos < ids.length - 1 ? (
-                <button className="btn bg-[#c80e58] text-white shadow-[0_3px_0_#7a0836]" onClick={() => ir(pos + 1)}>Próxima questão <ArrowRight className="size-4" /></button>
-              ) : (
-                <button className="btn bg-[#c80e58] text-white shadow-[0_3px_0_#7a0836]" onClick={() => finish(elapsed)}>Ver resultado <ArrowRight className="size-4" /></button>
-              )}
+              <button className="btn bg-[#c80e58] text-white shadow-[0_3px_0_#7a0836]" onClick={() => ultima ? setAviso('finalizar') : ir(pos + 1)}>
+                {ultima ? 'Ver resultado' : 'Próxima questão'} <ArrowRight className="size-4" />
+              </button>
             </div>
-          )} />
-      ) : (
-        <Empty>Esta questão não está mais no acervo (talvez tenha sido removida da importação).</Empty>
+          )}
+          {reveal && <Comentario q={q} acertou={modo === 'depois' ? !!certa : undefined} onCopiar={copiar} onReportar={() => navigate(`/app/notas?qid=${q.id}`)} />}
+        </Rabiscos>
       )}
 
-      <div className="mt-5 flex items-center justify-between gap-3">
-        <button className="btn-ghost" disabled={pos === 0} onClick={() => ir(pos - 1)}><ArrowLeft className="size-4" /> Anterior</button>
-        {pendente !== undefined && (
-          <button className="btn bg-[#c80e58] text-white shadow-[0_3px_0_#7a0836] hover:brightness-110" onClick={() => { answer(pendente); setSel(undefined) }}>
-            <Check className="size-4" /> Confirmar resposta
+      <div className="mt-8 flex items-center justify-between gap-3">
+        <button className="inline-flex items-center gap-1.5 rounded-full bg-[#141a3a] px-4 py-2 text-sm font-semibold text-zinc-300 disabled:opacity-40" disabled={pos === 0} onClick={() => ir(pos - 1)}>
+          <ArrowLeft className="size-4" /> Anterior
+        </button>
+        {ultima ? (
+          <button className="rounded-xl bg-green-500 px-8 py-3 font-bold text-bg shadow-[0_3px_0_#14532d] transition hover:brightness-110" onClick={() => setAviso('finalizar')}>Finalizar Exame</button>
+        ) : (
+          <button className="inline-flex items-center gap-1.5 rounded-full bg-[#141a3a] px-4 py-2 text-sm font-semibold text-zinc-300" onClick={() => ir(pos + 1)}>
+            Próxima <ArrowRight className="size-4" />
           </button>
         )}
-        <button className="btn-primary" disabled={pos >= ids.length - 1} onClick={() => ir(pos + 1)}>Próxima <ArrowRight className="size-4" /></button>
       </div>
-    </>
+
+      {aviso === 'anular' && q && (
+        <Aviso titulo="Anular esta questão?" acao="Anular questão" onFechar={() => setAviso(undefined)}
+          onConfirmar={() => { patch({ anuladas: [...(sim.anuladas ?? []), q.id] }); setSel(undefined); setAviso(undefined) }}>
+          <div className="rounded-xl border-[3px] border-black bg-amber-50 p-4 shadow-[4px_4px_0_#000]">
+            <p className="mb-2 text-sm font-extrabold tracking-[0.18em] uppercase">Quando faz sentido anular?</p>
+            <ul className="list-disc space-y-1 pl-5 text-[15px]">
+              <li>O assunto não vai cair na sua prova</li>
+              <li>O gabarito oficial está errado</li>
+              <li>A questão veio com problema (texto ou imagem faltando)</li>
+            </ul>
+          </div>
+          <p className="mt-3 text-sm text-zinc-600 italic">A questão anulada conta como acerto na nota final da prova e não entra nas suas estatísticas. Dá para desfazer depois.</p>
+        </Aviso>
+      )}
+      {aviso === 'reiniciar' && (
+        <Aviso titulo="Reiniciar prova?" acao="Reiniciar" onFechar={() => setAviso(undefined)}
+          onConfirmar={() => { patch({ answers: {}, riscadas: {}, marcadas: [], anuladas: [], elapsedSec: 0 }); setElapsed(0); setSel(undefined); setAviso(undefined); ir(0) }}>
+          <p className="text-[15px] text-zinc-700">Você vai recomeçar do zero. Respostas, marcações, riscos e anulações atuais serão apagados.</p>
+        </Aviso>
+      )}
+      {aviso === 'finalizar' && (
+        <Aviso titulo="Finalizar prova?" acao="Finalizar" onFechar={() => setAviso(undefined)} onConfirmar={() => { setAviso(undefined); finish(elapsed) }}>
+          <p className="text-[15px] text-zinc-700">{faltam ? `Ainda há ${faltam} questão(ões) sem resposta. Elas contam como erro.` : 'Todas as questões foram respondidas.'}</p>
+        </Aviso>
+      )}
+    </div>
   )
 }
 
-type Status = 'certa' | 'errada' | 'branco'
+type Status = 'certa' | 'errada' | 'branco' | 'anulada'
 
 const verdict = (p: number) =>
   p >= 90 ? 'Excelente!' : p >= 75 ? 'Muito bom!' : p >= 60 ? 'Bom, continue assim.' : p >= 40 ? 'Dá para melhorar.' : 'Hora de revisar o tema.'
@@ -203,21 +290,23 @@ function Resultado({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }
   const rows = sim.questionIds.map((qid, i) => {
     const q = byId.get(qid)
     const a = sim.answers[qid]
-    const status: Status = a === undefined ? 'branco' : a === q?.correta ? 'certa' : 'errada'
+    const status: Status = sim.anuladas?.includes(qid) ? 'anulada' : a === undefined ? 'branco' : a === q?.correta ? 'certa' : 'errada'
     return { qid, n: i + 1, q, a, status }
   })
   const count = (s: Status) => rows.filter((r) => r.status === s).length
   const total = rows.length
-  const nota = total ? (count('certa') / total) * 100 : 0
-  const notRight = rows.filter((r) => r.status !== 'certa').map((r) => r.qid)
+  // anulada conta como acerto; em branco conta como erro
+  const nota = total ? ((count('certa') + count('anulada')) / total) * 100 : 0
+  const erros = count('errada') + count('branco')
+  const notRight = rows.filter((r) => r.status === 'errada' || r.status === 'branco').map((r) => r.qid)
   const [treino, setTreino] = useState(false)
   const redo = (ids: string[], suffix: string, isTreino = false) => navigate(`/app/simulados/${redoSimulado(sim, ids, suffix, isTreino)}`)
 
   const report = () => {
     const lines = [
       sim.nome, `Concluída em ${new Date(sim.finishedAt!).toLocaleString('pt-BR')}`,
-      `Nota: ${nota.toFixed(1)}% · ${count('certa')} acertos · ${count('errada')} erros · ${count('branco')} em branco · tempo ${fmtTime(sim.elapsedSec)}`, '',
-      ...rows.map((r) => `Questão ${r.n} — ${r.status === 'certa' ? 'Correta' : r.status === 'errada' ? 'Errada' : 'Em branco'}` +
+      `Nota: ${nota.toFixed(1)}% · ${count('certa')} acertos · ${count('errada')} erros · ${count('branco')} em branco · ${count('anulada')} anuladas · tempo ${fmtTime(sim.elapsedSec)}`, '',
+      ...rows.map((r) => `Questão ${r.n}: ${{ certa: 'Correta', errada: 'Errada', branco: 'Em branco', anulada: 'Anulada' }[r.status]}` +
         (r.q ? ` · sua resposta: ${r.a === undefined ? '—' : LETTERS[r.a]} · gabarito: ${LETTERS[r.q.correta]} · ${r.q.disciplina} / ${r.q.tema}` : '')),
     ]
     const url = URL.createObjectURL(new Blob([lines.join('\n')], { type: 'text/plain' }))
@@ -227,20 +316,21 @@ function Resultado({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }
 
   const TILES = [
     { label: 'Acertos', value: count('certa'), icon: Target, bg: 'from-[#2f9e6e] to-[#1f7a55]' },
-    { label: 'Erros', value: count('errada'), icon: CircleX, bg: 'from-[#e0475b] to-[#b8283f]' },
+    { label: 'Erros', value: erros, icon: CircleX, bg: 'from-[#e0475b] to-[#b8283f]' },
     { label: 'Tempo', value: fmtTime(sim.elapsedSec), icon: Clock, bg: 'from-[#3f74f0] to-[#2a4fd0]' },
-    { label: 'Em branco', value: count('branco'), icon: CircleMinus, bg: 'from-[#5b6475] to-[#3b4250]' },
+    { label: 'Anuladas', value: count('anulada'), icon: CircleMinus, bg: 'from-[#5b6475] to-[#3b4250]' },
   ]
   const TABS = [
     { v: '' as const, label: 'Todas', n: total, icon: ListChecks },
     { v: 'certa' as const, label: 'Acertos', n: count('certa'), icon: Check },
-    { v: 'errada' as const, label: 'Erros', n: count('errada'), icon: X },
-    { v: 'branco' as const, label: 'Em branco', n: count('branco'), icon: Minus },
+    { v: 'errada' as const, label: 'Erros', n: erros, icon: X },
+    { v: 'anulada' as const, label: 'Anuladas', n: count('anulada'), icon: CircleMinus },
   ]
   const BADGE = {
     certa: <span className="chip border-accent/40 bg-accent/15 font-semibold text-accent"><CircleCheck className="size-3.5" /> Correta</span>,
     errada: <span className="chip border-danger/40 bg-danger/15 font-semibold text-danger"><CircleX className="size-3.5" /> Errada</span>,
     branco: <span className="chip font-semibold"><CircleMinus className="size-3.5" /> Em branco</span>,
+    anulada: <span className="chip border-zinc-500 bg-zinc-700 font-semibold text-zinc-200"><CircleMinus className="size-3.5" /> Anulada</span>,
   }
 
   return (
@@ -287,7 +377,7 @@ function Resultado({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }
       </div>
 
       <div className="space-y-4">
-        {rows.filter((r) => !filter || r.status === filter).map((r) => r.q ? (
+        {rows.filter((r) => !filter || r.status === filter || (filter === 'errada' && r.status === 'branco')).map((r) => r.q ? (
           <QuestionCard key={r.qid} q={r.q} chosen={r.a} reveal index={`Questão ${r.n}`} badge={BADGE[r.status]} />
         ) : (
           <Empty key={r.qid}>Questão {r.n} não está mais no acervo.</Empty>

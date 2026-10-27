@@ -91,7 +91,7 @@ export default function Dashboard() {
   const SHORTCUTS: { to?: string; open?: Arquivo; t: string; img: string; d: string }[] = [
     { to: '/app/minhas-provas', t: 'Minhas provas', img: 'clipboard', d: `${simulados.filter((s) => s.finishedAt && !s.treino).length} finalizadas · ${feitos.length} PDFs feitos` },
     resumos
-      ? { to: `/app/acervo?pasta=${encodeURIComponent(resumos.path)}`, t: `Resumos do ${periodoLabel(periodo!)}`, img: 'books', d: `${todos(resumos).length} arquivos` }
+      ? { to: `/app/resumos?periodo=${periodo}`, t: `Resumos do ${periodoLabel(periodo!)}`, img: 'books', d: `${todos(resumos).length} arquivos` }
       : { to: '/app/notas', t: 'Minhas notas', img: 'memo', d: 'Anotações por questão' },
     assuntos
       ? { open: assuntos, t: 'Assuntos do período', img: 'bullseye', d: 'O que cai em cada prova' }

@@ -6,11 +6,11 @@ import { PdfViewer } from '../components/PdfViewer'
 import { Empty } from '../components/ui'
 import { arvore, etiquetas, limpa, pastaDaDisciplina, pastaEm, semestreDe } from '../lib/acervo'
 import { pct, periodoLabel } from '../lib/format'
-import { useArquivos, useQuestions, useStore, type Arquivo, type Simulado } from '../lib/store'
+import { acertou, useArquivos, useQuestions, useStore, type Arquivo, type Simulado } from '../lib/store'
 
 // nota de uma tentativa: acertos sobre o total de questões (em branco conta como erro)
 const notaDe = (s: Simulado, correta: (id: string) => number | undefined) =>
-  pct(s.questionIds.filter((id) => s.answers[id] !== undefined && s.answers[id] === correta(id)).length, s.questionIds.length)
+  pct(s.questionIds.filter((id) => acertou(s, id, correta(id))).length, s.questionIds.length)
 
 // Provas anteriores de uma disciplina, uma por PDF de origem, como a grade de semestres do Meu Acervo.
 export default function ProvasAnteriores() {

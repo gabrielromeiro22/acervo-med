@@ -4,7 +4,7 @@ import { BookOpen, CalendarDays, Clock, ClipboardCheck, Eye, Play, Plus, RotateC
 import { TreinoModal } from '../components/TreinoModal'
 import { Empty } from '../components/ui'
 import { normalize, pct, uniq } from '../lib/format'
-import { redoSimulado, setState, useQuestions, useStore, type Simulado } from '../lib/store'
+import { acertou, redoSimulado, setState, useQuestions, useStore, type Simulado } from '../lib/store'
 
 const tone = (p: number) =>
   p >= 85 ? 'bg-accent text-bg' : p >= 70 ? 'bg-lime-300 text-bg' : p >= 50 ? 'bg-warn text-bg' : 'bg-danger text-bg'
@@ -21,7 +21,7 @@ export default function MinhasProvas() {
   const byId = useMemo(() => new Map(questions.map((q) => [q.id, q])), [questions])
   const rows = simulados.map((s) => {
     const discs = uniq(s.questionIds.map((id) => byId.get(id)?.disciplina).filter((d): d is string => !!d))
-    const wrong = s.questionIds.filter((id) => s.answers[id] !== byId.get(id)?.correta)
+    const wrong = s.questionIds.filter((id) => !acertou(s, id, byId.get(id)?.correta))
     return { s, materia: discs.length === 1 ? discs[0] : 'Misto', discs, right: s.questionIds.length - wrong.length, wrong }
   })
   const tags = uniq(rows.map((r) => r.materia)).sort()

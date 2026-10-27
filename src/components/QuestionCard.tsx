@@ -6,15 +6,7 @@ import type { Question } from '../data/types'
 import { DIF_LABEL, LETTERS, periodoLabel } from '../lib/format'
 import { toggleFavorite, useStore } from '../lib/store'
 import { RichText } from './RichText'
-import { semFiguras } from '../lib/format'
-
-// Texto da questão para colar num assistente de IA (com gabarito só quando já foi revelado)
-function paraIA(q: Question, reveal: boolean) {
-  let t = `Questão de prova de Medicina (${[q.disciplina, q.prova].filter(Boolean).join(' · ')}).\n\n${semFiguras(q.enunciado)}\n\n`
-  t += q.alternativas.map((a, i) => `${LETTERS[i]}) ${semFiguras(a)}`).join('\n')
-  if (reveal) t += `\n\nGabarito oficial: ${LETTERS[q.correta]}\n\nComentário oficial:\n${semFiguras(q.comentario)}`
-  return t + '\n\nExplique a questão, o raciocínio clínico e por que cada alternativa está certa ou errada.'
-}
+import { textoParaIA } from '../lib/format'
 
 export function QuestionCard({ q, chosen, reveal, onChoose, index, badge, riscadas = [], onRiscar, aviso }: {
   q: Question
@@ -28,7 +20,7 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge, riscad
   aviso?: ReactNode // retorno logo acima da resposta comentada (modo prova)
 }) {
   const fav = useStore((s) => s.favorites.includes(q.id))
-  const copiar = () => navigator.clipboard?.writeText(paraIA(q, reveal)).then(() => toast.success('Questão copiada'), () => toast.error('Não foi possível copiar'))
+  const copiar = () => navigator.clipboard?.writeText(textoParaIA(q, reveal)).then(() => toast.success('Questão copiada'), () => toast.error('Não foi possível copiar'))
 
   return (
     <article className="card p-5 sm:p-6">

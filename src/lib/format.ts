@@ -71,3 +71,11 @@ export function moduloDe(disciplina: string): { modulo?: string } {
 
 // texto sem as figuras [[IMG:…]] do Meu Acervo (para copiar ou resumir)
 export const semFiguras = (t: string) => t.replace(/\[\[IMG:[\w.-]+\]\]/g, '[imagem no PDF original]')
+
+// Texto da questão para colar num assistente de IA (com gabarito só quando já foi revelado)
+export function textoParaIA(q: Question, reveal: boolean) {
+  let t = `Questão de prova de Medicina (${[q.disciplina, q.prova].filter(Boolean).join(' · ')}).\n\n${semFiguras(q.enunciado)}\n\n`
+  t += q.alternativas.map((a, i) => `${LETTERS[i]}) ${semFiguras(a)}`).join('\n')
+  if (reveal) t += `\n\nGabarito oficial: ${LETTERS[q.correta]}\n\nComentário oficial:\n${semFiguras(q.comentario)}`
+  return t + '\n\nExplique a questão, o raciocínio clínico e por que cada alternativa está certa ou errada.'
+}

@@ -94,11 +94,25 @@ for (const q of await load('questoes')) {
   ids.add(q.id); unique.set(k, novo)
   if (ka) porArquivo.set(ka, novo)
 }
+// limpeza do OCR: código de rastreio da Afya ("000072.53001a.280ed7… Pgina 6 de 17") grudado no texto e
+// romanos mal lidos ("Il" = II, "Ill" = III, "N" = IV: "I, II e N.", "N. O hiperparatireoidismo…")
+const rastreio = /\s*\d{6}\.\w{5,6}\.[\w.,]{8,}(\s*P[áa]?gina\s*\d+\s*de\s*\d+)?|\s*\bP[áa]?gina\s*\d+\s*de\s*\d+\b/g
+const ROM = '(?:I{1,3}|IV|V|VI)'
+const romanos = t => t
+  .replace(/\b(Il|lI|ll)\b/g, 'II').replace(/\b(Ill|IIl|lll)\b/g, 'III')
+  .replace(new RegExp(`\\b(${ROM}(?:,\\s*${ROM})*)(,\\s*|\\s+e\\s+)N\\b`, 'g'), '$1$2IV')
+  .replace(new RegExp(`\\bN(,\\s*|\\s+e\\s+)(${ROM})\\b`, 'g'), 'IV$1$2')
+const limpaTexto = t => t && romanos(t.replace(rastreio, '').trim())
+const limpaEnunciado = t => {
+  t = limpaTexto(t)
+  return t && /\bIII[.)\-–]/.test(t) ? t.replace(/(^|\s)N([.)\-–])\s/g, '$1IV$2 ') : t
+}
+
 const questoes = [...unique.values()].map(q => {
   const o = meta(q.origem), c = classes[q.id], a = assunto(c), p = prova(o, byId.get(o.arquivo))
   return drop({
     id: q.id, disciplina: disciplina(o), materia: c?.materia, tema: a.tema || q.tema || 'Geral', periodo: periodo(o), dificuldade: q.dificuldade,
-    enunciado: q.enunciado, alternativas: q.alternativas, correta: q.correta, comentario: q.comentario,
+    enunciado: limpaEnunciado(q.enunciado), alternativas: q.alternativas.map(limpaTexto), correta: q.correta, comentario: limpaTexto(q.comentario),
     referencia: q.referencia, fonte: q.fonte, prova: p.label, numero: p.numero, palavras: a.palavras,
     roteiro: q.roteiro, arquivo: o.arquivo,
     imagem: (o.possivelImagem || o.alternativaVazia) && !q.enunciado.includes('[[IMG:') ? 1 : undefined,
@@ -114,7 +128,7 @@ for (const c of await load('flashcards')) {
 const flashcards = [...cards.values()].map(c => {
   const o = meta(c.origem)
   const verso = c.comentario && c.tipo === 'so-correta' ? `${c.verso}\n\n${c.comentario}` : c.verso
-  return drop({ id: c.id, disciplina: disciplina(o), tema: c.tema || 'Geral', frente: c.frente, verso, arquivo: o.arquivo })
+  return drop({ id: c.id, disciplina: disciplina(o), tema: c.tema || 'Geral', frente: limpaEnunciado(c.frente), verso: limpaTexto(verso), arquivo: o.arquivo })
 })
 // catálogo navegável (sem os atalhos "SITE: WWW.ACERVO.VIP")
 const arquivos = catalog.filter(r => r.tipo !== 'atalho').map(r => drop({
