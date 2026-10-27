@@ -1,0 +1,435 @@
+{
+ "1qkCXlofpR-9": {
+  "materia": "Pediatria",
+  "assunto": "Sepse e choque séptico pediátrico",
+  "palavras": [
+   "choque séptico",
+   "reposição volêmica",
+   "cristaloide",
+   "vasopressores",
+   "perfusão tecidual"
+  ]
+ },
+ "1qkCXlofpR-10": {
+  "materia": "Pediatria",
+  "assunto": "Febre reumática",
+  "palavras": [
+   "cardite",
+   "poliartrite",
+   "penicilina benzatina",
+   "corticoide",
+   "estreptococo beta-hemolítico"
+  ]
+ },
+ "1qkCXlofpR-11": {
+  "materia": "Pediatria",
+  "assunto": "Puberdade precoce",
+  "palavras": [
+   "telarca",
+   "LH",
+   "teste do GnRH",
+   "análogos de GnRH",
+   "puberdade precoce central"
+  ]
+ },
+ "1qkCXlofpR-12": {
+  "materia": "Pediatria",
+  "assunto": "Anemia ferropriva",
+  "palavras": [
+   "ferro oral",
+   "anemia microcítica",
+   "leite de vaca",
+   "suplementação de ferro",
+   "hipocromia"
+  ]
+ },
+ "1qkCXlofpR-13": {
+  "materia": "Pediatria",
+  "assunto": "Febre sem sinais localizatórios",
+  "palavras": [
+   "urocultura",
+   "EAS",
+   "infecção urinária",
+   "vírus respiratório",
+   "lactente febril"
+  ]
+ },
+ "1qkCXlofpR-14": {
+  "materia": "Pediatria",
+  "assunto": "Convulsão febril",
+  "palavras": [
+   "crise tônico-clônica",
+   "febre",
+   "convulsão na criança",
+   "epilepsia",
+   "encefalite"
+  ]
+ },
+ "1qkCXlofpR-15": {
+  "materia": "Pediatria",
+  "assunto": "Eventos adversos pós-vacinação",
+  "palavras": [
+   "tríplice viral",
+   "varicela",
+   "febre pós-vacinal",
+   "imunizações",
+   "reação local"
+  ]
+ },
+ "1qkCXlofpR-16": {
+  "materia": "Pediatria",
+  "assunto": "Eventos adversos pós-vacinação",
+  "palavras": [
+   "pentavalente",
+   "episódio hipotônico-hiporresponsivo",
+   "coqueluche",
+   "DTP acelular",
+   "convulsão"
+  ]
+ },
+ "1qkCXlofpR-17": {
+  "materia": "Pediatria",
+  "assunto": "Primeira crise convulsiva afebril",
+  "palavras": [
+   "eletroencefalograma",
+   "ressonância magnética",
+   "eletrólitos",
+   "epilepsia",
+   "convulsão na criança"
+  ]
+ },
+ "1qkCXlofpR-18": {
+  "materia": "Pediatria",
+  "assunto": "Meningite bacteriana",
+  "palavras": [
+   "Neisseria meningitidis",
+   "líquor",
+   "ceftriaxona",
+   "petéquias",
+   "rigidez de nuca"
+  ]
+ },
+ "1ccRmotXac-3": {
+  "materia": "Pediatria",
+  "assunto": "Reanimação neonatal",
+  "palavras": [
+   "adrenalina",
+   "veia umbilical",
+   "bradicardia neonatal",
+   "massagem cardíaca",
+   "recém-nascido"
+  ]
+ },
+ "1ccRmotXac-4": {
+  "materia": "Nefrologia",
+  "assunto": "Distúrbios hidroeletrolíticos",
+  "palavras": [
+   "hiponatremia",
+   "hipocalemia",
+   "soro fisiológico",
+   "reposição de potássio",
+   "pós-operatório"
+  ]
+ },
+ "1ccRmotXac-5": {
+  "materia": "Nefrologia",
+  "assunto": "Doença renal crônica",
+  "palavras": [
+   "estadiamento KDIGO",
+   "taxa de filtração glomerular",
+   "proteinúria",
+   "hipertensão arterial"
+  ]
+ },
+ "1ccRmotXac-6": {
+  "materia": "Cirurgia Geral",
+  "assunto": "Apendicite aguda",
+  "palavras": [
+   "abdome agudo",
+   "sinal de Blumberg",
+   "dor em fossa ilíaca direita",
+   "encaminhamento"
+  ]
+ },
+ "1ccRmotXac-7": {
+  "materia": "Psiquiatria",
+  "assunto": "Transtorno do espectro autista",
+  "palavras": [
+   "TEA",
+   "DSM-5",
+   "comportamentos repetitivos",
+   "interação social",
+   "psiquiatria infantil"
+  ]
+ },
+ "1ccRmotXac-8": {
+  "materia": "Hematologia",
+  "assunto": "Púrpura trombocitopênica imune",
+  "palavras": [
+   "PTI",
+   "plaquetopenia",
+   "glicocorticoides",
+   "prednisona",
+   "petéquias"
+  ]
+ },
+ "1ccRmotXac-9": {
+  "materia": "Obstetrícia",
+  "assunto": "Abortamento",
+  "palavras": [
+   "aborto infectado",
+   "curetagem uterina",
+   "AMIU",
+   "antibioticoterapia",
+   "primeiro trimestre"
+  ]
+ },
+ "1ccRmotXac-10": {
+  "materia": "Psiquiatria",
+  "assunto": "Transtornos somatoformes e factícios",
+  "palavras": [
+   "transtorno factício",
+   "síndrome de Munchausen",
+   "transtorno de somatização",
+   "transtorno conversivo"
+  ]
+ },
+ "1ccRmotXac-11": {
+  "materia": "Infectologia",
+  "assunto": "Dengue",
+  "palavras": [
+   "NS1",
+   "arboviroses",
+   "diagnóstico laboratorial",
+   "sorologia IgM"
+  ]
+ },
+ "1ccRmotXac-12": {
+  "materia": "Hematologia",
+  "assunto": "Avaliação da coagulação",
+  "palavras": [
+   "TP",
+   "TTPa",
+   "avaliação pré-operatória",
+   "colecistectomia",
+   "coagulograma"
+  ]
+ },
+ "1vWttZmk2M-8": {
+  "materia": "Cardiologia",
+  "assunto": "Tratamento da hipertensão arterial",
+  "palavras": [
+   "anti-hipertensivos",
+   "terapia dupla",
+   "bloqueador de canal de cálcio",
+   "IECA",
+   "betabloqueador e hipoglicemia"
+  ]
+ },
+ "1vWttZmk2M-9": {
+  "materia": "Cardiologia",
+  "assunto": "Pericardite aguda",
+  "palavras": [
+   "lúpus eritematoso sistêmico",
+   "atrito pericárdico",
+   "supradesnivelamento difuso de ST",
+   "dor torácica pleurítica"
+  ]
+ },
+ "1vWttZmk2M-10": {
+  "materia": "Farmacologia",
+  "assunto": "Fibrinolíticos e anticoagulantes",
+  "palavras": [
+   "alteplase",
+   "enoxaparina",
+   "IAM com supra de ST",
+   "antitrombina",
+   "fator Xa"
+  ]
+ },
+ "1vWttZmk2M-11": {
+  "materia": "Fisiologia",
+  "assunto": "Fisiopatologia da hipertensão arterial",
+  "palavras": [
+   "sistema renina-angiotensina-aldosterona",
+   "disfunção endotelial",
+   "angiotensina II",
+   "aldosterona"
+  ]
+ },
+ "1vWttZmk2M-12": {
+  "materia": "Pneumologia",
+  "assunto": "Tromboembolismo pulmonar",
+  "palavras": [
+   "trombose venosa profunda",
+   "tríade de Virchow",
+   "ultrassonografia Doppler",
+   "angiotomografia de tórax"
+  ]
+ },
+ "1vWttZmk2M-13": {
+  "materia": "Cardiologia",
+  "assunto": "Cardiopatia hipertensiva",
+  "palavras": [
+   "hipertrofia concêntrica",
+   "ventrículo esquerdo",
+   "disfunção diastólica",
+   "ecocardiograma"
+  ]
+ },
+ "1vWttZmk2M-14": {
+  "materia": "Farmacologia",
+  "assunto": "Antiagregantes plaquetários",
+  "palavras": [
+   "AAS",
+   "clopidogrel",
+   "P2Y12",
+   "tromboxano A2",
+   "infarto agudo do miocárdio"
+  ]
+ },
+ "1B03E6lxtY-1": {
+  "materia": "Cardiologia",
+  "assunto": "Febre reumática",
+  "palavras": [
+   "critérios de Jones",
+   "cardite",
+   "Streptococcus pyogenes",
+   "mimetismo molecular",
+   "eritema marginado"
+  ]
+ },
+ "1B03E6lxtY-2": {
+  "materia": "Patologia",
+  "assunto": "Aterosclerose",
+  "palavras": [
+   "LDL oxidado",
+   "células espumosas",
+   "disfunção endotelial",
+   "placa aterosclerótica",
+   "moléculas de adesão"
+  ]
+ },
+ "1B03E6lxtY-3": {
+  "materia": "Farmacologia",
+  "assunto": "Anti-hipertensivos",
+  "palavras": [
+   "IECA",
+   "nefropatia diabética",
+   "propranolol",
+   "asma",
+   "anlodipino"
+  ]
+ },
+ "1yS4aDvVAC-1": {
+  "materia": "Pediatria",
+  "assunto": "Constipação intestinal na infância",
+  "palavras": [
+   "polietilenoglicol",
+   "constipação funcional",
+   "laxantes",
+   "fecaloma",
+   "escolar"
+  ]
+ },
+ "1yS4aDvVAC-2": {
+  "materia": "Cirurgia Geral",
+  "assunto": "Obstrução intestinal",
+  "palavras": [
+   "íleo biliar",
+   "aerobilia",
+   "fístula bilioentérica",
+   "colelitíase",
+   "idoso"
+  ]
+ },
+ "1yS4aDvVAC-3": {
+  "materia": "Saúde Coletiva e Epidemiologia",
+  "assunto": "Saúde do trabalhador",
+  "palavras": [
+   "CAT",
+   "acidente de trabalho",
+   "vigilância em saúde",
+   "INSS",
+   "notificação"
+  ]
+ },
+ "1yS4aDvVAC-4": {
+  "materia": "Urgência e Emergência",
+  "assunto": "Hemorragia digestiva baixa",
+  "palavras": [
+   "choque hipovolêmico",
+   "doença diverticular",
+   "reposição volêmica",
+   "hemotransfusão",
+   "instabilidade hemodinâmica"
+  ]
+ },
+ "1yS4aDvVAC-5": {
+  "materia": "Farmacologia",
+  "assunto": "Diuréticos",
+  "palavras": [
+   "clortalidona",
+   "tiazídicos",
+   "hipercalcemia",
+   "hipocalemia",
+   "hipertensão arterial"
+  ]
+ },
+ "1yS4aDvVAC-6": {
+  "materia": "Saúde Coletiva e Epidemiologia",
+  "assunto": "Vigilância de doenças crônicas",
+  "palavras": [
+   "Vigitel",
+   "obesidade",
+   "IMC",
+   "escolaridade",
+   "inquérito telefônico"
+  ]
+ },
+ "1yS4aDvVAC-7": {
+  "materia": "Obstetrícia",
+  "assunto": "Hiperêmese gravídica",
+  "palavras": [
+   "escore PUQE",
+   "náuseas e vômitos",
+   "hidratação venosa",
+   "desidratação",
+   "primeiro trimestre"
+  ]
+ },
+ "1yS4aDvVAC-8": {
+  "materia": "Ginecologia",
+  "assunto": "Nódulo mamário",
+  "palavras": [
+   "BI-RADS 3",
+   "fibroadenoma",
+   "ultrassonografia mamária",
+   "seguimento",
+   "mulher jovem"
+  ]
+ },
+ "1yS4aDvVAC-9": {
+  "materia": "Saúde Coletiva e Epidemiologia",
+  "assunto": "Controle social no SUS",
+  "palavras": [
+   "Conselhos de Saúde",
+   "Lei 8.142/90",
+   "participação popular",
+   "Conselho Nacional de Saúde",
+   "fiscalização"
+  ]
+ },
+ "1yS4aDvVAC-10": {
+  "materia": "Obstetrícia",
+  "assunto": "Descolamento prematuro de placenta",
+  "palavras": [
+   "DPP",
+   "crack",
+   "hipertonia uterina",
+   "amniotomia",
+   "cesárea",
+   "sangramento terceiro trimestre"
+  ]
+ }
+}

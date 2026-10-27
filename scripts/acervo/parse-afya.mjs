@@ -24,7 +24,8 @@ const NOISE = [
 // desfaz ligaduras do PDF (ﬁ, ﬀ…), que quebram as regex de ruído e o texto (NFKC no texto todo trocaria ª/º)
 const clean = txt => txt.replace(/[\uFB00-\uFB06]/g, c => c.normalize('NFKC')).replace(/\f/g, '\n')
   .replace(/^-+(?=(Resposta comentada|Justificativa|Grau de dificuldade|Refer[êe]ncia|Feedback|\d{6}\.))/gm, '') // "-" vazio de alternativas grudado no próximo rótulo
-  .split('\n').map(l => l.trimEnd()).filter(l => !NOISE.some(re => re.test(l.trim()))).join('\n')
+  // tira o hash do rodapé que o OCR cola no fim da linha
+  .split('\n').map(l => l.trimEnd().replace(/\s+0{3}\d{3}\.[0-9a-f.]*$/i, '')).filter(l => !NOISE.some(re => re.test(l.trim()))).join('\n')
 
 // junta linhas quebradas pelo PDF em parágrafos, preservando listas/marcadores
 const para = s => s.trim()
@@ -97,6 +98,8 @@ const norm = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase
 
 function parseFile(rec, raw) {
   const txt = clean(raw)
+  // nome da avaliação no topo da devolutiva, ex. "N2 INTERNATO - MEDICINA - CM - 2025.1 - ROT 2 - 30/ABRIL"
+  const cabecalho = (txt.match(/Data:[^\n]*\n+([\s\S]{0,200}?)\n+RELAT[ÓO]RIO DE DEVOLUTIVA/) || [])[1]?.replace(/\s+/g, ' ').trim() || null
   const heads = [...txt.matchAll(Q_HEAD)]
   const qs = [], rejects = []
   heads.forEach((h, i) => {
@@ -136,7 +139,8 @@ function parseFile(rec, raw) {
       referencia: s.referencias ? para(s.referencias) : undefined,
       fonte: [[rec.modulo, rec.moduloNum].filter(Boolean).join(' '), rec.semestre, ies].filter(Boolean).join(' · '),
       origem: {
-        arquivo: rec.id, caminho: rec.path, numero: num, codigo, area: rec.area, modulo: rec.modulo, moduloNum: rec.moduloNum,
+        arquivo: rec.id, caminho: rec.path, numero: num, codigo, area: rec.area, modulo: rec.modulo, moduloNum: rec.moduloNum, cabecalho,
+        areaAfya: f['Áreas de Conhecimento'] || undefined, subareaAfya: f['Subáreas de Conhecimento'] || undefined,
         semestre: rec.semestre, ies, unidade: s.unidade?.split('\n')[0] || null, dificuldadeOriginal: dif ? undefined : 'ausente',
         competencia: f['Competências (Objetivos)'] || undefined, semana: f['Semanas'] || undefined,
         // enunciado curto que cita imagem/figura: o PDF provavelmente tinha uma imagem que não veio no texto

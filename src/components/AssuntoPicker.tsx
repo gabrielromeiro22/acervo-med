@@ -5,7 +5,11 @@ import { SEP, matchesAssuntos, sortDisc, uniq } from '../lib/format'
 
 export function AssuntoPicker({ questions, value, onChange }: { questions: Question[]; value: string[]; onChange: (v: string[]) => void }) {
   const [open, setOpen] = useState<string>()
-  const disciplinas = uniq(questions.map((q) => q.disciplina)).sort(sortDisc)
+  // agrupa por matéria (Cardiologia, Pediatria…) quando o acervo já foi classificado; senão pelo módulo da prova
+  const temMateria = questions.some((q) => q.materia)
+  const [por, setPor] = useState<'materia' | 'disciplina'>(temMateria ? 'materia' : 'disciplina')
+  const grupo = (q: Question) => (por === 'materia' ? q.materia ?? 'Sem matéria' : q.disciplina)
+  const disciplinas = uniq(questions.map(grupo)).sort(por === 'materia' ? undefined : sortDisc)
   const count = (key: string) => questions.filter((q) => matchesAssuntos(q, [key])).length
   const max = Math.max(1, ...disciplinas.map(count))
 
@@ -23,9 +27,17 @@ export function AssuntoPicker({ questions, value, onChange }: { questions: Quest
         <p className="flex items-center justify-between px-2 py-1.5 text-[11px] font-bold uppercase tracking-[0.14em] text-mute">
           Assuntos <span className="tabular-nums">{disciplinas.length} áreas · {questions.length} questões</span>
         </p>
+        {temMateria && (
+          <div className="mb-2 flex gap-1 px-2">
+            {([['materia', 'Por matéria'], ['disciplina', 'Por módulo']] as const).map(([v, t]) => (
+              <button key={v} onClick={() => { setPor(v); setOpen(undefined) }}
+                className={`rounded-full px-3 py-1 text-[11px] font-bold uppercase transition ${por === v ? 'bg-ink text-bg' : 'text-mute hover:text-ink'}`}>{t}</button>
+            ))}
+          </div>
+        )}
         <ul className="max-h-80 space-y-1 overflow-y-auto pr-1">
           {disciplinas.map((d) => {
-            const temas = uniq(questions.filter((q) => q.disciplina === d).map((q) => q.tema)).sort()
+            const temas = uniq(questions.filter((q) => grupo(q) === d).map((q) => q.tema)).sort()
             const n = count(d)
             return (
               <li key={d}>

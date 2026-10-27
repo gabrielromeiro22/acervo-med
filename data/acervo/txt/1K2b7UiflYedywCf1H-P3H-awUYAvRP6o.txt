@@ -1,0 +1,497 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas VII
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_7 PERIODO_11ABRIL_2025.1_HAM
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15583 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(IESVAP) Uma criança de 6 anos é levada ao Pronto Socorro Infantil com quadro de desconforto
+respiratório intenso após uma crise de asma. Ao exame, apresenta respiração rápida e difícil, uso
+de musculatura acessória, tiragem intercostal e cianose de extremidades. Os sinais vitais são:
+Frequência respiratória (FR): 48 irpm (VR: até 30 irpm)
+Frequência cardíaca (FC): 135 bpm (VR: até 120 bpm)
+Saturação de oxigênio (SpO₂): 88% (VR: ≥ 95%)
+Pressão arterial (PA): 90/58 mmHg (VR: PAS ≥ 90 mmHg; PAD ≥ 50 mmHg)
+Diante do quadro, o médico inicia a oxigenoterapia com máscara não reinalante, visando
+estabilização da criança.
+Qual é a principal justificativa para o uso desse modo ventilatório nesse contexto?
+Alternativas:
+(alternativa A)
+A máscara não reinalante deve ser substituída imediatamente por intubação orotraqueal, pois não
+há benefício clínico em oxigenar antes de ventilar.
+(alternativa B)
+A máscara não reinalante é indicada em quadros leves, pois fornece cerca de 50% de oxigênio, o
+que mantém a criança dentro de parâmetros aceitáveis.
+(alternativa C) (CORRETA)
+A máscara não reinalante fornece a mais alta concentração de oxigênio disponível, sendo
+indicada em casos de hipoxemia grave e desconforto respiratório significativo.
+(alternativa D)
+O uso da máscara não reinalante deve ser evitado na asma grave, pois pode causar retenção de
+CO₂ e piora respiratória.
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 1 de 14
+
+Resposta comentada:
+A máscara não reinalante fornece a mais alta concentração de oxigênio disponível, sendo
+indicada em casos de hipoxemia grave e desconforto respiratório significativo.
+Comentário: Correta. Permite oferta de FiO₂ entre 85–95%, sendo apropriada em quadros com
+saturação abaixo de 90%, como no caso apresentado, auxiliando na reversão rápida da
+hipoxemia.
+A máscara não reinalante é indicada em quadros leves, pois fornece cerca de 50% de
+oxigênio, o que mantém a criança dentro de parâmetros aceitáveis.
+Comentário: Incorreta. A FiO₂ fornecida é bem maior que 50% e sua indicação é para quadros
+graves, como este, com sinais de insuficiência respiratória.
+O uso da máscara não reinalante deve ser evitado na asma grave, pois pode causar
+retenção de CO₂ e piora respiratória.
+Comentário: Incorreta. A máscara não reinalante não prejudica a eliminação de CO₂. É
+indicada como suporte inicial de oxigenação enquanto se avalia a resposta clínica.
+A máscara não reinalante deve ser substituída imediatamente por intubação orotraqueal,
+pois não há benefício clínico em oxigenar antes de ventilar.
+Comentário: Incorreta. A intubação é medida extrema, indicada somente após falha nas
+intervenções não invasivas. O uso da máscara é etapa essencial no suporte inicial.
+Referências bibliográficas:
+Silva, L. R. et al. (Eds.). Tratado de Pediatria (5ª ed.). São Paulo: Manole, 2022.
+SBP. (2021). Abordagem do desconforto respiratório agudo em crianças. Departamento
+de Pneumologia.
+American Heart Association. (2020). Pediatric Advanced Life Support Manual (PALS).
+2ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Uma criança de 6 anos é levada ao Pronto Socorro Infantil, com quadro de febre
+de 37.7-37.8º C, associado a vômitos e diarreia nos últimos 2 dias. A mãe relata que hoje
+apresentou 6 episódios de diarreia líquida sem sangue ou muco, vários episódios de vômito e
+redução significativa do volume urinário. Na escola, outros colegas encontram-se com os
+mesmos sintomas. Criança na admissão apresentava-se: prostrada, pálida, olhos fundos, boca
+seca, extremidades frias e tempo de enchimento capilar de 4 segundos. Frequência cardíaca de
+160 bpm, pressão arterial de 85/50 mmHg e frequência respiratória de 38 irpm.
+Qual é o tipo mais provável de choque apresentado pela criança?
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 2 de 14
+
+Alternativas:
+(alternativa A)
+Choque séptico.
+(alternativa B) (CORRETA)
+Choque hipovolêmico.
+(alternativa C)
+Choque obstrutivo.
+(alternativa D)
+Choque cardiogênico.
+
+Resposta comentada:
+Alternativa correta: Choque hipovolêmico. A criança apresenta sinais de hipoperfusão, como
+taquicardia, palidez, extremidades frias e tempo de enchimento capilar prolongado, além do
+contexto clínico de perdas gastrointestinais (vômitos e diarreia), que frequentemente levam a
+choque hipovolêmico. Essa é a causa mais comum de choque em pediatria.
+Alternativa: Choque distributivo – Incorreta, pois nesse tipo de choque, como na sepse, há
+vasodilatação, o que resulta em extremidades quentes e pulsos amplos, diferentemente do caso
+apresentado.
+Alternativa: Choque cardiogênico – Incorreta, pois o choque cardiogênico costuma estar
+associado a sinais de insuficiência cardíaca, como estertores pulmonares, hepatomegalia e
+dificuldade respiratória importante, o que não foi descrito no caso.
+Alternativa: Choque obstrutivo – Incorreta, pois esse tipo de choque ocorre em situações como
+pneumotórax hipertensivo ou tamponamento cardíaco, geralmente acompanhados de sinais
+como turgência jugular e pulso paradoxal, que não são observados na criança do caso.
+Referência:
+American Heart Association. Pediatric Advanced Life Support (PALS) Provider Manual.
+Dallas, TX: American Heart Association; 2020.
+3ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Um paciente do sexo masculino, 3 anos de idade, foi levado à Unidade de
+Pronto Atendimento, com histórico de tosse intensa, dificuldade respiratória e cianose. Ao ser
+examinado, apresenta retrações intercostais, gemência, uso de musculatura acessória e
+batimento das asas do nariz. Oximetria de pulso = 89%. Durante a avaliação, a criança
+demonstra sinais de agitação, fadiga e ausculta respiratória com sibilos e estertores crepitantes
+bilateralmente. Considerando os critérios do PALS analise as questões e responda o que se pede.
+a) O paciente encontra-se em desconforto respiratório ou insuficiência respiratória? Justifique.
+b) Classifique o distúrbio respiratório quanto à localização.
+c) Descreva a sequência das intervenções iniciais para o tratamento adequado desse quadro.
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 3 de 14
+
+Alternativas:
+-Resposta comentada:
+a) Insuficiência respiratória, pois apresenta:
+- Cianose.
+- Taquipneia.
+- Sinais de agitação, compatível com hipóxia cerebral.
+- Hipoxemia. Saturação 89%.
+b) - Obstrução de via aérea inferior.
+- Doença do tecido ou parênquima pulmonar.
+c) Fornecer oxigênio suplementar com o objetivo de melhorar o quadro de cianose e hipoxemia,
+monitorar a respiração, avaliando o padrão e frequência respiratória, além da observação do uso
+da musculatura acessória e o batimento das asas do nariz. Havendo insuficiência, deve-se iniciar
+a ventilação com pressão positiva.
+- Iniciar B2 de ação curta. Salbutamol (100 mcg) spray. Para melhora do quadro de
+broncoespasmo.
+- Iniciar metilprednisolona 2 a 4 mg/kg - ação anti-inflamatória.
+Referências:
+DISQUE, K. PALS Pediatric life support. Provider Handbook. Satori Continuum Publishing, 2021.
+MACONOCHIE, I.K. et al. Pediatric Life Support: 2020 International Consensus on
+Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment
+Recommendations. Ressucitation, v. 156, 2020.
+4ª QUESTÃO
+Enunciado:
+(UNIVAÇO) Menino de 6 anos de idade é admitido na emergência com febre alta, taquicardia,
+hipotensão, extremidades frias e perfusão periférica comprometida. Ao avaliar o histórico, os
+sinais e sintomas, o profissional de saúde iniciou a abordagem assertiva da criança.
+Assinale a alternativa que representa o tratamento inicial adequado dessa criança.
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 4 de 14
+
+Alternativas:
+(alternativa A)
+Proceder com a intubação traqueal e iniciar reposição volêmica com solução glicosada.
+(alternativa B) (CORRETA)
+Fornecer oxigênio e administrar precocemente fluidos intravenosos isotônicos.
+(alternativa C)
+Iniciar vasopressores como primeira linha de tratamento.
+(alternativa D)
+Realizar uma transfusão sanguínea imediata para melhorar a oxigenação tecidual.
+
+Resposta comentada:
+A administração precoce de fluidos intravenosos isotônicos em bolus é uma abordagem
+fundamental no tratamento do choque distributivo, incluindo o choque séptico em crianças. Essa
+medida busca restaurar o volume intravascular, melhorar a perfusão tecidual e corrigir a
+hipotensão. O suporte com fluidos deve ser iniciado rapidamente, sendo uma intervenção crucial
+nas primeiras horas do choque séptico, antes mesmo da confirmação microbiológica.
+Referência bibliográfica:
+American Heart Association. Suporte Avançado de Vida em Pediatria. Livro do profissional de
+saúde. 2021.
+5ª QUESTÃO
+Enunciado:
+(BANCO AFYA) Um menino de 5 anos, previamente saudável, chega ao pronto atendimento após
+12 horas de febre alta, vômitos e dor abdominal difusa. Os pais relatam que ele está mais
+sonolento, recusando líquidos e urinando pouco. Ao exame, apresenta: FC: 158 bpm, FR: 30 irpm,
+pressão arterial média (PAM): 66 mmHg, temperatura: 38,4 ºC, pulsos periféricos finos e de
+enchimento lento, tempo de enchimento capilar de 3 segundos, extremidades frias, mas sem
+cianose. Apresenta turgor diminuído, mucosas secas e sinais de desidratação.
+Qual hipótese é mais compatível com o estado atual da criança?
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 5 de 14
+
+Alternativas:
+(alternativa A)
+Sepse sem instabilidade hemodinâmica, considerando a ausência de hipotensão e de alteração
+respiratória.
+(alternativa B)
+Quadro de desidratação sem repercussão hemodinâmica, com perfusão periférica preservada e
+estabilidade clínica.
+(alternativa C) (CORRETA)
+Choque hipovolêmico compensado, com manutenção da pressão arterial e sinais periféricos de
+má perfusão.
+(alternativa D)
+Quadro infeccioso viral com febre, taquicardia fisiológica e resposta circulatória dentro dos limites
+esperados.
+
+Resposta comentada:
+Quadro de desidratação sem repercussão hemodinâmica, com perfusão periférica
+preservada e estabilidade clínica.
+Comentário: Incorreta. A criança apresenta sinais evidentes de hipoperfusão, como pulsos finos,
+TEC aumentado e sonolência. Portanto, há repercussão circulatória incompatível com essa
+descrição.
+Choque hipovolêmico compensado, com manutenção da pressão arterial e sinais
+periféricos de má perfusão.
+Comentário: Correta. A PAM está preservada, mas os sinais de má perfusão são claros. Tratase de um quadro clássico de choque compensado, que exige intervenção rápida.
+Sepse sem instabilidade hemodinâmica, considerando a ausência de hipotensão e de
+alteração respiratória.
+Comentário: Incorreta. Há sinais clínicos inequívocos de instabilidade, ainda que sem
+hipotensão. A presença de hipoperfusão caracteriza uma fase inicial do choque séptico.
+Quadro infeccioso viral com febre, taquicardia fisiológica e resposta circulatória dentro dos
+limites esperados.
+Comentário: Incorreta. A taquicardia acompanhada de sinais de hipoperfusão não é fisiológica. O
+quadro é compatível com instabilidade hemodinâmica e risco de evolução para choque
+descompensado.
+Referências bibliográficas:
+Silva, L. R. et al. (Eds.). Tratado de Pediatria (5ª ed.). São Paulo: Manole, 2022.
+Sociedade Brasileira de Pediatria. (2020). Reconhecimento e tratamento do choque em
+pediatria. Departamento de Terapia Intensiva.
+PALS – American Heart Association. (2020). Pediatric Advanced Life Support Provider
+Manual.
+6ª QUESTÃO
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 6 de 14
+
+Enunciado:
+(BANCO AFYA) Um lactente de 4 meses é levado à emergência com quadro de esforço
+respiratório progressivo há dois dias, associado a alimentação prejudicada e irritabilidade. Ao
+exame, apresenta gemência, tiragem subcostal, batimento de asa de nariz e cianose periférica.
+Mantém o pescoço estendido e o tronco levemente inclinado para frente, em tentativa de aliviar o
+esforço respiratório. SpO₂ de 88% em ar ambiente e frequência respiratória de 72 irpm. A ausculta
+revela sibilos e crepitações difusas. A equipe médica inicia as intervenções de estabilização.
+Qual deve ser a sequência correta das intervenções iniciais?
+Alternativas:
+(alternativa A)
+Administração de antibiótico empírico, acesso venoso periférico e hidratação endovenosa.
+(alternativa B) (CORRETA)
+Garantia de via aérea pérvia, oferta imediata de oxigênio suplementar e monitorização contínua.
+(alternativa C)
+Aspiração de secreções, administração de antitérmico e avaliação neurológica detalhada.
+(alternativa D)
+Solicitação de exames laboratoriais e radiografia de tórax, administração de broncodilatadores.
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 7 de 14
+
+Resposta comentada:
+Garantia de via aérea pérvia, oferta imediata de oxigênio suplementar e monitorização
+contínua.
+Comentário: Correta. O texto evidencia sinais de desconforto respiratório grave. As medidas
+prioritárias incluem: abrir e manter a via aérea, oferecer oxigênio suplementar para corrigir a
+hipoxemia e monitorar continuamente os sinais vitais, seguindo a abordagem sistemática ABC
+(via aérea, respiração, circulação).
+Solicitação de exames laboratoriais e radiografia de tórax, seguida da administração de
+broncodilatadores.
+Comentário: Incorreta. Embora exames e broncodilatadores possam ser necessários, as
+medidas iniciais devem priorizar a estabilização clínica imediata, antes da investigação
+etiológica.
+Administração de antibiótico empírico, acesso venoso periférico e hidratação endovenosa.
+Comentário: Incorreta. A antibioticoterapia pode ser indicada dependendo da causa, mas não faz
+parte da abordagem inicial do desconforto respiratório. O acesso venoso e a hidratação são
+secundários à estabilização respiratória.
+Aspiração de secreções, administração de antitérmico e avaliação neurológica detalhada.
+Comentário: Incorreta. Essas ações podem ser necessárias em contextos específicos, mas
+não compõem a prioridade na sequência de manejo inicial do desconforto respiratório grave.
+Referência Bibliográfica:
+1. Silva, L. R., Solé, D., Silva, C. A. A., Constantino, C. F., Liberal, E. F., & Lopez, F. A.
+(Eds.). (2022). Tratado de Pediatria (5ª ed.). São Paulo: Editora Manole. .​
+2. Simon Junior, H., Abramovici, S., Reis, A. G. A. C., Oldenburg Neto, C. F., Nogueira, K.
+T., Reis, M. C., & Amantéa, S. L. (2017). Crupe Viral e Bacteriano. Departamento de
+Emergências, Sociedade Brasileira de Pediatria.
+3. Departamento Científico de Pneumologia, Sociedade Brasileira de Pediatria. (2017).
+Sibilância Recorrente do Lactente e Pré-escolar.
+
+7ª QUESTÃO
+Enunciado:
+(UNIREDENTOR) Um recém-nascido com 36 semanas recebeu os passos iniciais da
+estabilização neonatal e a avaliação a seguir mostrou frequência cardíaca de 85 bpm e respiração
+irregular.
+A conduta imediata a ser adotada deverá ser:
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 8 de 14
+
+Alternativas:
+(alternativa A)
+iniciar ventilação com pressão positiva (VPP) com O2 a 30%.
+(alternativa B)
+repetir os passos iniciais de reanimação e monitorar a frequência cardíaca.
+(alternativa C)
+realizar intubação orotraqueal e fornecer O2 a 100%.
+(alternativa D) (CORRETA)
+iniciar ventilação com pressão positiva com O2 a 21% - ar ambiente
+
+Resposta comentada:
+Repetir os passos iniciais de reanimação e monitorar a frequência cardíaca. Incorreta. Não deve
+se perder mais tempo para iniciar a VPP. RN que recebeu os passos iniciais da estabilização e a
+avaliação a seguir mostrou FC <100 bpm ou respiração ausente ou irregular, iniciar a VPP nos
+primeiros 60 segundos após o nascimento e acompanhar a FC pelo monitor cardíaco e a SatO2
+pelo oxímetro de pulso.
+Iniciar ventilação com pressão positiva com O2 a 21% - ar ambiente. Correta. RN que recebeu os
+passos iniciais da estabilização e a avaliação a seguir mostrou FC <100 bpm ou respiração
+ausente ou irregular. Iniciar a VPP nos primeiros 60 segundos. Como trata-se de RN acima de 34
+semanas, a VPP deve ser iniciada em ar ambiente (O2 a 21%).
+Iniciar ventilação com pressão positiva (VPP) com O2 a 30%. Incorreta. No RN ≥34 semanas, a
+VPP deve ser iniciada com ar ambiente (O2 a 21%).
+Realizar intubação orotraqueal e fornecer O2 a 100%. Incorreta. A VPP é a conduta imediata
+correta, a massagem cardíaca é iniciada se a FC estiver <60 bpm após 30 segundos de VPP
+com cânula traqueal e técnica adequada.
+Referências:
+Almeida MFB, Guinsburg R; Coordenadores Estaduais e Grupo Executivo PRN-SBP; Conselho
+Científico do Departamento de Neonatologia da SBP. Reanimação do recém-nascido ≥34
+semanas em sala de parto: diretrizes 2022 da Sociedade Brasileira de Pediatria. Rio de Janeiro:
+Sociedade Brasileira de Pediatria; 2022.
+AMERICAN HEART ASSOCIATION. PALS – Pediatric Advanced Life Support – Provider Manual,
+2020.
+8ª QUESTÃO
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 9 de 14
+
+Enunciado:
+(UNITPAC) Na sala de parto, um recém-nascido a termo de 39 semanas, sem intercorrências na
+gestação, nasce por parto cesáreo eletivo. Após um minuto de vida, apresenta os seguintes
+achados na avaliação inicial: frequência cardíaca de 80 bpm, respiração irregular com gemência,
+tônus reduzido e sem movimentos ativos. O recém-nascido está corado e não apresenta cianose
+central. A equipe já realizou os passos iniciais da reanimação, incluindo aquecer, posicionar,
+aspirar vias aéreas conforme necessário e estimular, mas a frequência cardíaca continua abaixo
+de 100 bpm.
+Diante dessa situação, qual é a próxima conduta mais indicada?
+Alternativas:
+(alternativa A)
+Administrar O2 a 50% e, em seguida, administrar adrenalina intratraqueal, pois a bradicardia
+neonatal é um sinal de falência cardiovascular iminente.
+(alternativa B)
+Realizar compressões torácicas, pois a frequência cardíaca abaixo de 100 bpm indica
+necessidade imediata de suporte hemodinâmico. Em seguida, ofertar O2 a 30%.
+(alternativa C)
+Administrar oxigênio suplementar a 100% por cateter nasal para melhorar a oxigenação antes de
+iniciar a VPP.
+(alternativa D) (CORRETA)
+Iniciar ventilação com pressão positiva (VPP) com ar ambiente - O2 a 21%, avaliando resposta
+clínica em 30 segundos.
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 10 de 14
+
+Resposta comentada:
+Alternativa Correta: "Iniciar ventilação com pressão positiva (VPP) com ar ambiente - O2 a 21%,
+avaliando resposta clínica em 30 segundos" - Após a realização de todos os passos iniciais, se o
+neonato não respira ou o faz de maneira irregular, a ventilação pulmonar deve ser priorizada
+(dentro do primeiro minuto de vida), ou seja, nos recém-nascidos a termo, a recomendação é
+iniciar a ventilação com ar ambiente (21%) por um período de 30 segundos.
+A ventilação com pressão positiva (VPP) na reanimação neonatal está indicada quando a
+frequência cardíaca está abaixo de 100 bpm após os passos iniciais da reanimação. O objetivo
+principal da VPP é corrigir a hipoventilação, uma vez que a principal causa de bradicardia neonatal
+é a hipoxemia secundária à insuficiência respiratória. O uso de ar ambiente (21% de O₂) é
+recomendado para recém-nascidos a termo, sendo que oxigênio suplementar só deve ser
+considerado se não houver melhora após ventilação eficaz.
+As demais alternativas estão incorretas porque a administração de oxigênio suplementar
+isoladamente não é suficiente para corrigir a hipoventilação e pode atrasar a intervenção
+necessária. As compressões torácicas só são indicadas quando a frequência cardíaca está
+abaixo de 60 bpm após 30 segundos de VPP eficaz. A adrenalina é uma medida de resgate para
+casos de bradicardia persistente abaixo de 60 bpm, mesmo após VPP e compressões torácicas,
+o que ainda não é necessário neste momento.
+Referências:
+Sociedade Brasileira de Pediatria.Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p.Capa.
+ISBN
+9788520458679.
+Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 28 fev. 2025.
+BUNIK, Maya; LEVIN, Myron J.; JR., William W. H.; et al. CURRENT Pediatria: Diagnóstico e
+Tratamento. 26. ed. Porto Alegre: AMGH, 2024. E-book. p. 1105. ISBN 9786558040279.
+Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040279/. Acesso
+em: 28 fev. 2025.
+9ª QUESTÃO
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 11 de 14
+
+Enunciado:
+(UNIGRANRIO BARRA) Escolar de 8 anos, há 3 dias, feriu a coxa direita durante uma partida de
+futebol na areia. Há 48 horas, surgiu febre de 39º C associada a hiperemia e calor local intenso no
+local da ferida. Há 12h, criança tornou-se sonolenta, recusando dieta e líquidos ofertados. Mãe
+relata redução do volume urinário nas últimas 8h. Hemograma demonstrou: 17.000 leucócitos
+com aumento de bastões.
+No exame, paciente apresentava-se: torporoso, hipohidratado, taquicárdico (FC=140bpm),
+taquipneico (FR= 34 inc/min), extremidades frias, pulsos finos, perfusão periférica de 4 segundos.
+Sat=91%. PA dentro do limite da normalidade para idade, sexo e altura.
+Ausculta pulmonar sem ruídos adventícios. Ausculta cardíaca sem sopros, apenas taquicardia.
+Coxa direita com celulite extensa e ferida com saída de secreção purulenta abundante.
+Baseado no quadro clínico, responda às questões a seguir.
+a) Qual é a principal hipótese diagnóstica? Justifique citando pelo menos 3 dados clínicos. (1,0
+ponto/sendo 0,25 para diagnóstico e 0,25 para cada uma das justificativas, considerar no máximo
+3)
+b) Qual é a fisiopatologia do quadro clínico apresentado pelo escolar? (0,25 ponto)
+c) Descreva sucintamente a sequência de atendimento a ser realizada. (0,75 ponto)
+d) Como deverá ser realizada a etapa de expansão volumétrica? (0,5 ponto)
+Alternativas:
+-Resposta comentada:
+a) Qual é a principal hipótese diagnóstica? Justifique citando pelo menos 3 dados clínicos. (1,0
+ponto, sendo 0,25 para diagnóstico e 0,25 para cada uma das justificativas, considerar no máximo
+3) choque séptico (0,25). Justificativa: (0,25 Pulsos finos, extremidades frias, perfusão periférica
+de 4 segundos, alteração do nível de sensório).
+b) Qual é a fisiopatologia do quadro clínico apresentado pelo escolar? Choque distributivo,
+liberação de citocinas inflamatórias e aumento da permeabilidade vascular, com possível
+vasodilatação. As citocinas inflamatórias também podem levar à alteração da contratilidade
+miocárdica.
+c) Descreva sucintamente a sequência de atendimento a ser realizada. (1,0 ponto)
+Posicionamento e manutenção de via aérea.
+- Oxigenação.
+- Administração de fluidos.
+- Monitorização, coleta de exames.
+- Reavaliação, incluindo avaliar indicação de aminas vasoativas na primeira hora.
+d) Como deve ser realizada a etapa de expansão volumétrica? (0,5 ponto)
+Infundir solução cristalóide (soro fisiológico a 0,9% ou ringer lactato) 20ml/kg em 20 min. Reavaliar
+a necessidade de repetir até 3 x (60ml/kg em 1h).
+Referência:
+American Heart Association. (2022). Pediatric Advanced Life Support (PALS) Provider Manual.
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 12 de 14
+
+10ª QUESTÃO
+Enunciado:
+(BANCO AFYA) Lactente de 6 meses, previamente saudável, é levado à unidade de pronto
+atendimento com histórico de taquipneia, tosse e recusa alimentar há dois dias. Ao exame,
+apresenta gemência, tiragem subcostal, batimento de asa do nariz, FR: 72 irpm, FC: 180 bpm,
+SatO₂: 88% em ar ambiente, e temperatura axilar de 37,8 ºC. Está letárgico e hiporresponsivo aos
+estímulos. A ausculta pulmonar revela estertores difusos e sibilância bilateral. Após
+posicionamento, aspiração de vias aéreas e monitorização, a equipe decide iniciar oxigenoterapia.
+Qual é a forma de oxigenoterapia mais indicada neste momento para esse paciente?
+Alternativas:
+(alternativa A)
+Máscara facial com reservatório, permitindo alta oferta de oxigênio em curto espaço de tempo.
+(alternativa B)
+Ventilação com CPAP contínuo, utilizando pressão fixa por meio de interface nasal adequada.
+(alternativa C)
+Cateter nasal de baixo fluxo, com ajuste de volume conforme tolerância e melhora progressiva.
+(alternativa D) (CORRETA)
+Cânula nasal de alto fluxo, com mistura aquecida e pressão positiva contínua nas vias aéreas.
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 13 de 14
+
+Resposta comentada:
+Cateter nasal de baixo fluxo, com ajuste de volume conforme tolerância e melhora
+progressiva.
+Comentário: Incorreta. Apesar de ser utilizado em quadros leves, não é suficiente em pacientes
+com sinais de desconforto grave e hipoxemia persistente.
+Máscara facial com reservatório, permitindo alta oferta de oxigênio em curto espaço de
+tempo.
+Comentário: Incorreta. Essa modalidade não é bem tolerada por lactentes e não oferece suporte
+ventilatório adicional, o que limita sua eficácia neste cenário.
+Cânula nasal de alto fluxo, com mistura aquecida e pressão positiva contínua nas vias
+aéreas.
+Comentário: Correta. Essa é a estratégia preferida em desconforto moderado a grave,
+associando oxigenoterapia e suporte não invasivo de forma eficaz e bem tolerada.
+Ventilação com CPAP contínuo, utilizando pressão fixa por meio de interface nasal
+adequada.
+Comentário: Incorreta. Apesar de eficaz em casos específicos, o uso imediato de CPAP não é a
+primeira escolha em pacientes com esforço respiratório mantido.
+Referências bibliográficas:
+Silva, L. R. et al. (Eds.). Tratado de Pediatria (5ª ed.). São Paulo: Manole, 2022.
+SBP – Departamento de Pneumologia. (2021). Abordagem do lactente com desconforto
+respiratório agudo nas primeiras horas de atendimento.
+www.sbp.com.br
+
+000155.83001e.51561d.617899.16ce98.bf18dc.f3d068.0d09f
+
+Pgina 14 de 14
+
+

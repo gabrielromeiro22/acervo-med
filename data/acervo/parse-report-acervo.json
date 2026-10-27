@@ -1,0 +1,611 @@
+{
+ "arquivos": 17,
+ "rejeitadas": [
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 1,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 2,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 15,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 20,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 22,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 24,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 25,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 26,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 51,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 54,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 55,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "18UIDBekjStU45vedhTkzDvPHXl0fyoAK",
+   "numero": 58,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[5º PERÍODO]/HAM 5/HAM 5 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 1,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 3,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 5,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 21,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 26,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 32,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 41,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 45,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 46,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1a60WDKR7YIYO8kpXmrRvivPsGu2B2485",
+   "numero": 50,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[6º PERÍODO]/HAM 6/HAM 6 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1w8sOxKI-agw72mt1rEMZy-VcWjks5b-k",
+   "numero": 3,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1w8sOxKI-agw72mt1rEMZy-VcWjks5b-k",
+   "numero": 4,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1w8sOxKI-agw72mt1rEMZy-VcWjks5b-k",
+   "numero": 5,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1w8sOxKI-agw72mt1rEMZy-VcWjks5b-k",
+   "numero": 14,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1w8sOxKI-agw72mt1rEMZy-VcWjks5b-k",
+   "numero": 21,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1w8sOxKI-agw72mt1rEMZy-VcWjks5b-k",
+   "numero": 26,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[7º PERÍODO]/HAM 7/HAM 7 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "17m_rdLy5fmdWkrAE-S9yXEruMDasUf54",
+   "numero": 7,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "17m_rdLy5fmdWkrAE-S9yXEruMDasUf54",
+   "numero": 9,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "17m_rdLy5fmdWkrAE-S9yXEruMDasUf54",
+   "numero": 10,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "17m_rdLy5fmdWkrAE-S9yXEruMDasUf54",
+   "numero": 16,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "17m_rdLy5fmdWkrAE-S9yXEruMDasUf54",
+   "numero": 22,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "17m_rdLy5fmdWkrAE-S9yXEruMDasUf54",
+   "numero": 28,
+   "motivo": "alternativas: 0",
+   "caminho": "✅[8º PERÍODO]/HAM 8/HAM 8 - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 1,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 6,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 8,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 9,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 12,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 13,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 14,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 15,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 16,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 17,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 18,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 21,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 22,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 23,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 25,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 29,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 31,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 32,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 33,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 34,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 35,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 36,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 37,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 41,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 44,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 45,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 49,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 50,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 51,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 55,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 58,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 60,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 61,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 62,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 63,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 64,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 66,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 67,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 69,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 70,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 72,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 73,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 74,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 75,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 76,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 77,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 78,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 81,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 82,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 83,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 85,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 86,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 87,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 88,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 89,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 94,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 98,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 104,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 105,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 111,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 112,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 113,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 114,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 115,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 118,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  },
+  {
+   "arquivo": "1P62U-XbiLedxLI2V5PI7AimY0KZzO-qq",
+   "numero": 119,
+   "motivo": "sem gabarito",
+   "caminho": "🔍[INTERNATO]/UESM/UESM - Topicos A - Comentada Seguida.pdf"
+  }
+ ],
+ "validas": 1770,
+ "unicas": 1770,
+ "motivos": {
+  "alternativas: 0": 34,
+  "sem gabarito": 66
+ }
+}

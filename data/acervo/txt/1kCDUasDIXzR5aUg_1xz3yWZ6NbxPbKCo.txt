@@ -1,0 +1,1105 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integradora 2º Período e Métodos Científicos em Medicina II
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 28/11/2025
+
+N2 ESPECÍFICA - MCM II - MEDICINA - 2º PERÍODO - 2025.2 - 1ª CHAMADA 28/NOVEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17999 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(IESVAP) Pesquisadores conduziram um estudo caso-controle multicêntrico para explorar
+fatores maternos associados a uma condição congênita específica. Foram incluídos casos
+incidentes confirmados em serviços de referência e controles sem a condição, recrutados
+na mesma rede hospitalar, com pareamento por idade materna e local de atendimento.
+Informações sobre exposições durante a gestação foram obtidas por entrevistas
+padronizadas e consulta a registros clínicos; as associações foram estimadas com
+modelos multivariáveis.
+Com base nesse cenário, qual alternativa descreve características compatíveis com
+um estudo caso-controle?
+Alternativas:
+(alternativa A)
+Classifica participantes por exposição e acompanha ao longo do tempo a ocorrência de
+novos casos, analisando o desfecho no futuro, permitindo calcular incidência e medidas
+de risco.
+(alternativa B)
+Observa exposição e desfecho em um mesmo ponto no tempo para estimar prevalência e
+explorar associações sem estabelecer sequência temporal; estabelece uma “foto” da
+população.
+(alternativa C) (CORRETA)
+Parte de grupos definidos pelo desfecho, compara a frequência de exposições prévias
+entre eles no passado e estima associação; costuma ser eficiente para condições raras ou
+com longa latência.
+(alternativa D)
+Analisa dados agregados de populações ou territórios, relacionando indicadores coletivos
+de exposição e desfecho no presente, com inferência limitada ao nível individual.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 1 de 24
+
+Resposta comentada:
+Resposta correta:
+Parte de grupos definidos pelo desfecho, compara a frequência de exposições prévias
+entre eles no passado e estima associação; costuma ser eficiente para condições raras ou
+com longa latência. No desenho em questão, o ponto de partida é a condição de
+interesse (desfecho), e as exposições são investigadas retrospectivamente nos grupos
+formados. Essa lógica favorece a investigação de fenômenos pouco frequentes ou com
+latência prolongada. Um exemplo disso foi o estudo que mostrou a associação entre o
+Zika vírus e a microcefalia.
+Distratores:
+Em contraste, estudos transversais descrevem uma fotografia simultânea de exposição e
+desfecho; coortes acompanham indivíduos a partir da exposição para medir ocorrência ao
+longo do tempo; e estudos ecológicos operam com unidades agregadas, o que restringe
+inferências individuais.
+Referências:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 14 nov.
+2025.
+
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(UNIREDENTOR) A Secretaria de Saúde comparou dois municípios brasileiros em 2023:
+
+Indicador
+
+Município A
+
+Município
+B
+
+Nascidos vivos (NV)
+
+2.000
+
+1.200
+
+Óbitos de menores de 1 ano
+
+36
+
+12
+
+Cobertura vacinal (penta, 3ª dose) 84%
+
+95%
+
+Esperança de vida ao nascer
+
+76,1 anos
+
+73,4 anos
+
+Com base exclusivamente nos dados da tabela e nos conceitos de cobertura vacinal,
+mortalidade infantil (óbitos <1 ano por 1.000 NV) e esperança de vida ao nascer,
+assinale a alternativa correta.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 2 de 24
+
+Alternativas:
+(alternativa A)
+O Município A apresenta menor mortalidade infantil (MI) porque tem maior número
+absoluto de nascidos vivos, o que dilui proporcionalmente os óbitos.
+(alternativa B)
+Como o Município A tem mais nascidos vivos, sua esperança de vida ao nascer deveria
+ser maior que a do Município B.
+(alternativa C) (CORRETA)
+O Município B tem menor mortalidade infantil e maior esperança de vida; isso é
+compatível com a cobertura vacinal mais alta observada.
+(alternativa D)
+A comparação de mortalidade infantil é inválida sem padronização por idade materna;
+portanto, não é possível concluir nada a partir da tabela.
+
+Resposta comentada:
+Gabarito: O Município B tem menor mortalidade infantil e maior esperança de vida; isso é
+compatível com a cobertura vacinal mais alta observada.
+Cálculo da MI:
+A: 36/2.000 × 1.000 = 18,0/1.000 NV
+B: 12/1.200 × 1.000 = 10,0/1.000 NV
+O B tem MI menor e EV maior (76,1 vs. 73,4). Uma cobertura vacinal mais alta costuma
+se associar a melhores desfechos populacionais, o que é coerente com os indicadores do
+B (sem afirmar causalidade individual). Isso atende aos conceitos e interpretação de
+indicadores (cobertura vacinal, esperança de vida, razão/taxas) previstos na Semana 10.
+Incorreta: O Município A apresenta menor mortalidade infantil (MI) porque tem maior
+número absoluto de nascidos vivos, o que dilui proporcionalmente os óbitos.
+Porque o número absoluto de NV não “dilui” MI; usa-se taxa por 1.000 NV, já calculada
+acima.
+Incorreta: A comparação de mortalidade infantil é inválida sem padronização por idade
+materna; portanto, não é possível concluir nada a partir da tabela.
+Porque A MI por 1.000 NV é comparável entre populações como medida sintética;
+padronizações adicionais podem refinar análises, mas não inviabilizam a comparação
+básica mostrada.
+Incorreta: Como o Município A tem mais nascidos vivos, sua esperança de vida ao nascer
+deveria ser maior que a do Município B.
+Porque a esperança de vida não depende do número absoluto de nascimentos; é um
+indicador demográfico/sanitário resultante de vários fatores (perfil de mortalidade,
+transição demográfica/epidemiológica etc.).
+Referências:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 10 out.
+2024. Cap. 6
+Feedback:
+-3ª QUESTÃO
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 3 de 24
+
+Enunciado:
+(FASA VIC) Uma paciente de 24 anos, no primeiro trimestre gestacional, procura
+atendimento em uma Unidade Básica de Saúde com febre baixa, manchas avermelhadas
+pelo corpo, dor articular e aumento de gânglios na região atrás das orelhas. Relata
+trabalhar como cuidadora em uma creche, onde várias crianças apresentaram sintomas
+semelhantes nos últimos dias. Após avaliação clínica, o profissional de saúde orienta
+sobre os possíveis riscos da infecção para a gestação e decide notificar o caso como
+suspeita de doença exantemática viral de transmissão respiratória.
+Com base no cenário descrito e nos conceitos básicos de epidemiologia, analise as
+afirmativas a seguir:
+I. O contato próximo entre a paciente e as crianças da creche é compatível com um
+mecanismo de contágio horizontal.
+II. A mucosa das vias aéreas superiores é a porta de entrada mais provável para o
+agente infeccioso nesse caso.
+III. A eliminação do agente ocorre principalmente por meio oral-fecal.
+IV. Caso o agente infeccioso atravesse a placenta e atinja o feto, isso caracteriza um
+mecanismo de contágio vertical.
+Está correto o que se afirma em
+Alternativas:
+(alternativa A)
+I e II, apenas.
+(alternativa B)
+I e III, apenas.
+(alternativa C)
+II, III e IV, apenas.
+(alternativa D) (CORRETA)
+I, II e IV, apenas.
+
+Resposta comentada:
+I. Correta – A transmissão entre crianças e a paciente, por convívio direto, caracteriza
+transmissão horizontal.
+II. Correta – A porta de entrada habitual em infecções respiratórias é a mucosa nasal e
+oral.
+III. Incorreta – A via de eliminação predominante nesse caso é respiratória, e não oralfecal. A via oral-fecal é comum em vírus entéricos, como rotavírus.
+IV. Correta – A passagem transplacentária do vírus da mãe para o feto é um exemplo
+clássico de transmissão vertical.
+Alternativa correta: I, II e IV, apenas.
+Referências:
+FRANCO, Laércio J.; PASSOS, Afonso D. C. Fundamentos de Epidemiologia. 3. ed. Barueri:
+Manole, 2022.
+GORDIS, Leon. Epidemiologia. 5. ed. Rio de Janeiro: Elsevier, 2017.
+Feedback:
+-4ª QUESTÃO
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 4 de 24
+
+Enunciado:
+(AFYA PARAÍBA) Um grupo de pesquisadores realizou um estudo com pacientes atendidos
+em uma unidade de pronto atendimento (UPA) para avaliar o tempo de espera (em
+minutos) entre a chegada e o primeiro atendimento médico. Os dados coletados
+mostraram que a maioria dos pacientes aguardou entre 20 e 40 minutos, mas houve
+alguns casos isolados em que o tempo ultrapassou 200 minutos, em decorrência de
+situações emergenciais que alteraram o fluxo de atendimento.
+Considerando os dados apresentados acima, identifique a medida de tendência central
+que seria mais adequada para resumir o tempo de espera típico dos pacientes dessa UPA.
+Alternativas:
+(alternativa A)
+A média aritmética, pois considera todos os valores do conjunto de dados, incluindo os
+casos de espera muito elevados.
+(alternativa B)
+A média ponderada, pois atribui pesos diferenciados aos tempos de espera, resumindo
+melhor a distribuição dos dados.
+(alternativa C) (CORRETA)
+A mediana, pois não sofre influência dos valores extremos, refletindo de forma mais fiel o
+tempo de espera da maioria.
+(alternativa D)
+A moda, pois permite identificar o tempo que ocorreu com maior frequência,
+representando o valor central dos atendimentos.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 5 de 24
+
+Resposta comentada:
+"A mediana, pois não sofre influência dos valores extremos, refletindo de forma mais fiel
+o tempo de espera da maioria" - Correta - A mediana é a medida mais apropriada quando
+a distribuição apresenta assimetria ou valores muito discrepantes. Nesse estudo, a
+mediana expressaria de forma mais fidedigna o tempo típico de espera, sem ser afetada
+pelos casos isolados de longas demoras.
+"A média aritmética, pois considera todos os valores do conjunto de dados, incluindo os
+casos de espera muito elevados" - Incorreta - Embora a média seja uma medida que
+utiliza todos os valores do conjunto, ela é muito sensível a valores extremos (outliers).
+Como alguns pacientes apresentaram tempos de espera superiores a 200 minutos, a
+média ficaria distorcida para cima (maior), não representando o tempo típico da maioria.
+"A moda, pois permite identificar o tempo que ocorreu com maior frequência,
+representando o valor central dos atendimentos" - Incorreta - A moda mostra apenas o
+valor que mais se repete, mas não reflete necessariamente a posição central da
+distribuição. No caso, pode haver mais de uma moda ou ela pode não ser representativa
+do comportamento geral dos tempos de espera.
+"A média ponderada, pois atribui pesos diferenciados aos tempos de espera, resumindo
+melhor a distribuição dos dados" - Incorreta - no contexto de valores extremos, a média
+ponderada, assim como a aritmética, é distorcida para cima. Além disso, não há qualquer
+indicação de que certos tempos de espera tenham pesos distintos. Pela natureza do caso
+apresentado, todos os pacientes tiveram o mesmo grau de importância no cálculo do
+tempo típico de espera. Assim, aplicar a média ponderada seria incorreto, porque não
+existe justificativa para atribuir pesos aos dados coletados.
+Referências:
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática para as
+ciências da saúde. Porto Alegre: Penso, 2017. E-book. ISBN 9788584291007. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9788584291007/recent.
+DUQUIA, R. P.; BASTOS, J. L. D. Medidas de tendência central: onde a maior parte dos
+indivíduos se encontra? Scientia Medica, v. 16, n. 4, p. 190–194, 2006. Disponível em:
+https://revistaseletronicas.pucrs.br/scientiamedica/article/view/2287. Acesso em: 13 nov.
+2025.
+MOORE, D.; NOTZ, W. I.; FLIGNER, M. A. A Estatística Básica e sua Prática. 9. ed. Rio de
+Janeiro: LTC, 2023. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788521638612/recent. Acesso em: 13
+nov. 2025.
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Um pesquisador deseja investigar se o tabagismo durante a
+gravidez está associado a um maior risco de asma na infância. Para isso, ele identifica,
+em 2020, um banco de dados nacional de saúde que contém registros completos de
+todas as gestantes de uma cidade entre os anos de 2010 e 2012. A partir desses
+registros, ele forma dois grupos: um de filhos de mulheres que fumaram durante a
+gravidez (expostas) e outro de filhos de mulheres que não fumaram (não expostas). Ele
+então consulta os prontuários eletrônicos dessas crianças, cobrindo o período de 2010 a
+2020, para verificar quais delas foram diagnosticadas com asma.
+Considerando o desenho do estudo descrito, trata-se de um
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 6 de 24
+
+Alternativas:
+(alternativa A)
+estudo do tipo caso-controle.
+(alternativa B)
+estudo de coorte prospectiva.
+(alternativa C)
+estudo transversal.
+(alternativa D) (CORRETA)
+estudo de coorte retrospectiva.
+
+Resposta comentada:
+A alternativa "Estudo de coorte retrospectiva" está correta. O estudo se caracteriza como
+uma coorte retrospectiva porque o pesquisador "volta no tempo" utilizando dados
+históricos para formar os grupos com base na exposição passada (2010-2012) e, então,
+avança no tempo (até 2020) nos registros para verificar a ocorrência do desfecho. A
+lógica é de exposição -> desfecho, mas com dados preexistentes.
+A alternativa "Estudo de coorte prospectiva" está incorreta. Em uma coorte prospectiva,
+os participantes são recrutados no presente e acompanhados para o futuro para observar
+a ocorrência do desfecho. Neste estudo, tanto a exposição (tabagismo na gravidez, 20102012) quanto o desfecho (asma, verificado até 2020) já haviam ocorrido no momento em
+que a pesquisa foi iniciada (2020).
+A alternativa "Estudo do tipo caso-controle" está incorreta. No estudo caso-controle, a
+seleção dos participantes é feita com base no desfecho (ex.: um grupo com asma e outro
+sem asma), e então se busca retrospectivamente a história de exposição. Neste estudo,
+a seleção foi claramente baseada na exposição (tabagismo materno), caracterizando a
+direcionalidade de uma coorte.
+A alternativa "Estudo transversal." está incorreta. Um estudo transversal avalia a
+exposição e o desfecho no mesmo momento. Aqui, houve um seguimento temporal claro:
+a exposição ocorreu entre 2010 e 2012, e o desfecho foi procurado em um período
+subsequente, até 2020.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 14 nov.
+2025.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Em uma comunidade ribeirinha da região amazônica, uma mulher de 32
+anos procura atendimento com quadro de febre diária, perda de peso, astenia e aumento
+progressivo do volume abdominal. Ao exame físico, observa-se hepatoesplenomegalia. O
+diagnóstico laboratorial confirma leishmaniose visceral. A região apresenta precárias
+condições sanitárias, alta infestação por vetores e acesso limitado a serviços de saúde.
+Com base na situação apresentada, analise o quadro e identifique a alternativa que
+corretamente descreve o conceito epidemiológico relacionado à condição da paciente.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 7 de 24
+
+Alternativas:
+(alternativa A)
+Agravo – qualquer dano à saúde relacionado exclusivamente a fatores ambientais, sem
+associação com agentes infecciosos ou crônicos.
+(alternativa B)
+Doença transmissível – condição clínica de longa duração, progressiva, sem agente
+etiológico específico.
+(alternativa C) (CORRETA)
+Doença negligenciada – enfermidade infecciosa prevalente em populações vulneráveis,
+com baixa visibilidade nas políticas públicas, associada à pobreza e ao baixo
+investimento em pesquisa.
+(alternativa D)
+Doença crônica – condição provocada por agentes infecciosos que podem ser
+transmitidos de pessoa a pessoa ou por vetores.
+
+Resposta comentada:
+Correta:
+Doença negligenciada – enfermidade infecciosa prevalente em populações vulneráveis,
+com baixa visibilidade nas políticas públicas, associada à pobreza e ao baixo
+investimento em pesquisa.
+A leishmaniose visceral é classificada como doença tropical negligenciada, típica de áreas
+pobres, com infraestrutura precária e baixo investimento em pesquisa e inovação
+terapêutica. A definição apresentada condiz plenamente com o quadro descrito no
+enunciado.
+Incorretas:
+Doença transmissível – condição clínica de longa duração, progressiva, sem agente
+etiológico específico.
+Essa descrição refere-se incorretamente a uma doença transmissível, pois caracteriza, na
+verdade, uma doença crônica, como a hipertensão arterial sistêmica. Doenças
+transmissíveis são aquelas causadas por agentes infecciosos, com possibilidade de
+transmissão direta ou indireta entre indivíduos ou via vetores.
+Doença crônica – condição provocada por agentes infecciosos que podem ser
+transmitidos de pessoa a pessoa ou por vetores.
+Essa alternativa confunde os conceitos: a definição apresentada corresponde a doenças
+transmissíveis, e não a doenças crônicas. Doenças crônicas não são, em geral, causadas
+por agentes infecciosos, e sim por múltiplos fatores, incluindo genéticos,
+comportamentais e ambientais.
+Agravo – qualquer dano à saúde relacionado exclusivamente a fatores ambientais, sem
+associação com agentes infecciosos ou crônicos.
+A definição está incorreta. Agravos podem estar relacionados a fatores ambientais,
+sociais, comportamentais ou biológicos. São quaisquer danos à integridade física ou
+mental de um indivíduo, provocados por circunstâncias externas e nocivas. Não se
+limitam a causas ambientais. Ex. Acidentes de carro, de trabalho, envenenamento,
+intoxicação, violências em geral...
+Referências:
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Doenças Tropicais
+Negligenciadas: estratégias do Ministério da Saúde. Brasília: MS; 2021.
+Rouquayrol MZ, Almeida Filho N. Epidemiologia & Saúde. 9. ed. Rio de Janeiro: MedBook;
+2018.
+World Health Organization (WHO). Ending the neglect to attain the Sustainable
+Development Goals: a road map for neglected tropical diseases 2021–2030. Geneva:
+WHO; 2020.
+Feedback:
+-000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 8 de 24
+
+7ª QUESTÃO
+Enunciado:
+(FACIMPA) Um certo município tem vivenciado mudanças significativas no perfil de sua
+população. Nas últimas décadas, observou-se uma redução da taxa de fecundidade e um
+aumento da expectativa de vida, resultando em envelhecimento populacional.
+Paralelamente, a prevalência de obesidade e doenças cardiovasculares tem aumentado,
+enquanto os casos de desnutrição infantil e doenças parasitárias diminuíram. Houve
+também surtos de dengue e tuberculose em comunidades com condições precárias de
+saneamento. Diante desse contexto, a Secretaria Municipal de Saúde está revisando suas
+políticas públicas, buscando compreender as transformações nos indicadores
+sociodemográficos e de saúde.
+Com base nas informações apresentadas, identifique características das transições
+demográfica, nutricional e epidemiológica descritas no município acima.
+Alternativas:
+(alternativa A)
+Transição demográfica: Redução da expectativa de vida. Transição nutricional: Aumento
+da desnutrição e carências nutricionais. Transição epidemiológica: Predomínio de doenças
+infecciosas e parasitárias.
+(alternativa B)
+Transição demográfica: Aumento da natalidade. Transição nutricional: Manutenção de
+padrões alimentares tradicionais. Transição epidemiológica: Substituição das doenças
+crônicas pelas infecciosas.
+(alternativa C)
+Transição demográfica: Envelhecimento populacional. Transição nutricional: Retorno das
+carências nutricionais em idosos. Transição epidemiológica: Redução das doenças
+crônicas não transmissíveis na população.
+(alternativa D) (CORRETA)
+Transição demográfica: Envelhecimento populacional. Transição nutricional: Redução da
+desnutrição e aumento da obesidade. Transição epidemiológica: Predomínio de doenças
+crônicas e diminuição de parasitárias.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 9 de 24
+
+Resposta comentada:
+Resposta correta
+
+"Transição demográfica: Envelhecimento populacional. Transição nutricional: Redução da
+desnutrição e aumento da obesidade. Transição epidemiológica: Predomínio de doenças
+crônicas e diminuição de parasitárias."
+Transição demográfica: Redução da fecundidade e aumento da expectativa de
+vida → envelhecimento populacional.
+Transição nutricional: Queda da desnutrição infantil e aumento da obesidade →
+mudança para padrões alimentares hipercalóricos e industrializados.
+Transição epidemiológica: Aumento das doenças crônicas não transmissíveis
+(DCNT) em substituição das infecciosas e parasitárias, segundo a teoria.
+Entretanto, o município está em fase de transição epidemiológica e ainda
+apresenta dupla carga de doenças (crônicas e infecciosas).
+Respostas incorretas
+
+"Transição demográfica: Redução da expectativa de vida. Transição nutricional: Aumento
+da desnutrição e carências nutricionais. Transição epidemiológica: Predomínio de doenças
+infecciosas e parasitárias."
+Incorreta, pois o texto indica aumento da expectativa de vida e redução da desnutrição,
+além de predomínio de doenças crônicas, não de infecciosas.
+O município está em fase de envelhecimento populacional, o que implica aumento, e não
+redução, da expectativa de vida. A desnutrição diminuiu, enquanto a obesidade
+aumentou, refletindo o padrão da transição nutricional moderna. Embora o aumento da
+obesidade possa coexistir com carências nutricionais específicas (como ferro, cálcio e
+vitaminas), isso não caracteriza desnutrição generalizada.
+Erro conceitual geral: descreve uma população em fase pré-transicional, enquanto o texto
+retrata uma fase avançada de transição.
+
+"Transição demográfica: Aumento da natalidade. Transição nutricional: Manutenção de
+padrões alimentares tradicionais. Transição epidemiológica: Substituição das doenças
+crônicas pelas infecciosas."
+Incorreta, o texto indica redução da taxa de fecundidade, não aumento da natalidade.
+Não há “manutenção de padrões tradicionais”: houve mudança alimentar, com maior
+consumo de alimentos industrializados e aumento da obesidade. A “substituição das
+doenças crônicas pelas infecciosas” é inversão do processo real — na transição
+epidemiológica, as doenças crônicas substituem as infecciosas como principais causas de
+adoecimento e óbito.
+Erro conceitual geral: inverte o sentido das três transições, descrevendo um retrocesso
+demográfico e epidemiológico inexistente no texto.
+
+"Transição demográfica: Envelhecimento populacional. Transição nutricional: Retorno das
+carências nutricionais em idosos. Transição epidemiológica: Redução das doenças
+crônicas não transmissíveis na população."
+Incorreta, a transição demográfica está correta (envelhecimento). Porém, o texto não
+menciona retorno de carências nutricionais — pelo contrário, destaca aumento da
+obesidade. Também não há redução de doenças crônicas; elas estão aumentando.
+Erro conceitual geral: mistura parcialmente uma transição correta (demográfica) com
+outras incompatíveis com o cenário descrito.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 14 nov.
+2025.
+Feedback:
+-8ª QUESTÃO
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 10 de 24
+
+Enunciado:
+(ITPAC PORTO NACIONAL) Uma universidade pública brasileira propõe um estudo clínico
+para avaliar a eficácia de um novo fármaco no controle da hipertensão arterial. O
+protocolo prevê a administração do medicamento experimental em pacientes
+acompanhados no ambulatório de cardiologia, comparando-os a um grupo que receberá
+o tratamento padrão. O Comitê de Ética em Pesquisa (CEP) solicita complementação do
+protocolo, pois o documento apresentado descreve apenas os potenciais benefícios
+esperados, sem detalhar os riscos e sem apresentar o Termo de Consentimento Livre e
+Esclarecido (TCLE).
+Com base nos princípios éticos estabelecidos pela Resolução CNS 466/2012, qual deve
+ser a conduta ética do pesquisador diante da situação descrita?
+Alternativas:
+(alternativa A)
+Prosseguir com a pesquisa, pois os benefícios potenciais superam eventuais riscos
+teóricos. Somado a isso, o medicamento foi previamente testado em animais, não
+havendo risco significativo aos participantes humanos.
+(alternativa B) (CORRETA)
+Submeter o protocolo ao CEP, incluindo o TCLE e análise dos riscos e benefícios. Como
+riscos podem ser descritos: cefaleia, tontura e desconforto emocional pela frequência das
+coletas de sangue. E como benefícios: redução efetiva da pressão arterial e melhora da
+qualidade de vida.
+(alternativa C)
+Iniciar o estudo após obtenção de consentimento verbal dos voluntários e registro em
+prontuário clínico, pois o benefício do avanço científico no tratamento da hipertensão,
+doença que aflige milhões de pessoas, justifica a pesquisa.
+(alternativa D)
+Realizar o estudo apenas com pacientes internados, evitando assim a necessidade de
+submissão ao CEP, e também para facilitar o monitoramento dos efeitos adversos. Nesse
+caso, como risco, tem-se a exposição de dados pessoais e, como benefício, a redução
+efetiva da pressão arterial.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 11 de 24
+
+Resposta comentada:
+Alternativa correta: Submeter o protocolo ao CEP, incluindo o TCLE e análise dos riscos e
+benefícios. Como riscos podem ser descritos: cefaleia, tontura e desconforto emocional
+pela frequência das coletas de sangue. E como benefícios: redução efetiva da pressão
+arterial e melhora da qualidade de vida. A Resolução CNS 466/2012 determina que toda
+pesquisa envolvendo seres humanos deve ser submetida previamente à apreciação e
+aprovação de um CEP, contendo a descrição detalhada dos riscos e benefícios e o Termo
+de Consentimento Livre e Esclarecido (TCLE). O pesquisador é eticamente responsável
+por garantir a autonomia dos participantes, o direito à informação, o sigilo dos dados, e a
+liberdade de desistência a qualquer momento, sem prejuízo ao atendimento.
+Alternativa incorreta: Prosseguir com a pesquisa, pois os benefícios potenciais superam
+eventuais riscos teóricos. Somado a isso, o medicamento foi previamente testado em
+animais, não havendo risco significativo aos participantes humanos. A predominância dos
+benefícios não exime o pesquisador da análise e mitigação dos riscos, nem da aprovação
+ética prévia. Supor risco mínimo sem comprovação documental viola o princípio da não
+maleficência.
+Alternativa incorreta: Iniciar o estudo após obtenção de consentimento verbal dos
+voluntários e registro em prontuário clínico, pois o benefício do avanço científico no
+tratamento da hipertensão, doença que aflige milhões de pessoas, justifica a pesquisa.
+O consentimento verbal é insuficiente. O TCLE deve ser claro e compreensível, contendo
+todas as informações sobre o estudo, conforme exigência normativa.
+Alternativa incorreta: Realizar o estudo apenas com pacientes internados, evitando assim
+a necessidade de submissão ao CEP e também para facilitar o monitoramento dos efeitos
+adversos. Nesse caso, como risco, tem-se a exposição de dados pessoais e, como
+benefício, a redução efetiva da pressão arterial. Restringir o estudo a pacientes
+internados não substitui a necessidade de aprovação ética formal nem do TCLE. Além
+disso, tal decisão configuraria injustiça, ao limitar indevidamente a seleção de
+participantes.
+Referência:
+BRASIL. Conselho Nacional de Saúde. Resolução nº 466, de 12 de dezembro de 2012.
+Dispõe sobre as diretrizes e normas regulamentadoras de pesquisas envolvendo seres
+humanos. Diário Oficial da União, Brasília, 13 jun. 2013.
+Feedback:
+-9ª QUESTÃO
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 12 de 24
+
+Enunciado:
+(UNIMA) Um estudo descritivo analisou notificações de febre amarela em Mato Grosso do
+Sul entre 2007 e 2022, utilizando fichas do SINAN (Sistema de Informação de Agravos de
+Notificação). O artigo incluiu variáveis clínicas, laboratoriais e epidemiológicas. Na tabela
+estão as variáveis apresentadas no artigo, o valor reportado no estudo e como estas
+variáveis foram mensuradas ou registradas. Entre elas, foi registrada a presença do Sinal
+de Faget, que consiste na elevação da temperatura corporal (febre) sem o aumento
+proporcional da frequência cardíaca, que seria esperado pela fisiologia normal. Este
+fenômeno é observado em doenças como a febre amarela.
+
+Com base nos dados apresentados na tabela acima, assinale a alternativa que classifica
+corretamente o tipo de cada variável quanto à sua natureza.
+
+Alternativas:
+(alternativa A)
+Faixa etária – qualitativa nominal; Cor/raça – qualitativa ordinal; Situação vacinal –
+quantitativa discreta; Percentual com Sinal de Faget – qualitativa ordinal; Número de
+casos notificados em 2018 – quantitativa contínua.
+(alternativa B)
+Faixa etária – qualitativa ordinal; Cor/raça – qualitativa nominal; Situação vacinal –
+qualitativa nominal; Percentual com Sinal de Faget – quantitativa discreta; Número de
+casos notificados em 2018 – quantitativa contínua.
+(alternativa C)
+Faixa etária – quantitativa discreta; Cor/raça – qualitativa nominal; Situação vacinal –
+qualitativa ordinal; Percentual com Sinal de Faget – quantitativa contínua; Número de
+casos notificados em 2018 – quantitativa discreta.
+(alternativa D) (CORRETA)
+Faixa etária – qualitativa ordinal; Cor/raça – qualitativa nominal; Situação vacinal –
+qualitativa nominal; Percentual com Sinal de Faget – quantitativa contínua; Número de
+casos notificados em 2018 – quantitativa discreta.
+
+Resposta comentada:
+Alternativa correta:
+Faixa etária – qualitativa ordinal; Cor/raça – qualitativa nominal; Situação vacinal –
+qualitativa nominal; Percentual com Sinal de Faget – quantitativa contínua; Número de
+casos notificados em 2018 – quantitativa discreta.
+Faixa etária – qualitativa ordinal (correta): na tabela, a idade foi apresentada em classes
+ordenadas (p.ex., 14–17; 18–28; 29–38; 39–48; …; ≥69). Como tais classes possuem
+ordem natural crescente (dos mais jovens aos mais velhos), trata-se de variável
+categórica com hierarquia, logo qualitativa ordinal (não contínua nem discreta, pois não
+se utilizam valores numéricos “em anos” Classificação global da alternativa: e sim
+categorias).
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 13 de 24
+
+Cor/raça – qualitativa nominal (correta): categorias como “Branco, Pardo, Preto, Indígena”
+não têm hierarquia intrínseca, apenas identificam grupos; portanto, qualitativa nominal.
+Situação vacinal – qualitativa nominal (correta): “Vacinado/Não vacinado” são categorias
+dicotômicas sem ordem; a natureza é nominal, mesmo que se possa codificar como 0/1
+para fins analíticos.
+Percentual com Sinal de Faget – quantitativa contínua (correta): percentagem (%) é
+medida numérica que pode assumir infinitas subdivisões (14,5%; 14,53%…) e, portanto,
+contínua. Não há categorias; há mensuração.
+Número de casos notificados em 2018 – quantitativa discreta (correta): trata-se de
+contagem (0, 1, 2, …, 15), valores inteiros sem frações; por definição, discreta.
+
+Alternativa incorreta:
+Faixa etária – qualitativa nominal; Cor/raça – qualitativa ordinal; Situação vacinal –
+quantitativa discreta; Percentual com Sinal de Faget – qualitativa ordinal; Número de
+casos notificados em 2018 – quantitativa contínua.
+Faixa etária – qualitativa nominal (incorreta): pela apresentação em classes ordenadas, a
+faixa etária não é nominal; é ordinal (há hierarquia etária explícita).
+Cor/raça – qualitativa ordinal (incorreta): não há ordenação natural entre as categorias de
+cor/raça; portanto, não é ordinal, e sim nominal.
+Situação vacinal – quantitativa discreta (incorreta): “Vacinado/Não vacinado” não é
+contagem de eventos; é categoria (dicotômica). A natureza é qualitativa nominal, não
+quantitativa.
+Percentual com Sinal de Faget – qualitativa ordinal (incorreta): percentual é medida
+numérica, não categoria; portanto, não é nominal/ordinal, e sim quantitativa contínua.
+Número de casos notificados em 2018 – quantitativa contínua (incorreta): trata-se de
+contagem inteira (discreta). Não há possibilidade de frações de caso, logo não é contínua.
+
+Alternativa incorreta:
+Faixa etária – quantitativa discreta; Cor/raça – qualitativa nominal; Situação vacinal –
+qualitativa ordinal; Percentual com Sinal de Faget – quantitativa contínua; Número de
+casos notificados em 2018 – quantitativa discreta.
+Faixa etária – quantitativa discreta (incorreta): se a idade fosse registrada em anos (ou
+meses), poder-se-ia discutir natureza discreta/contínua; porém, na tabela, ela aparece em
+classes (categorias) ordenadas. Logo, qualitativa ordinal, e não quantitativa discreta.
+Cor/raça – qualitativa nominal (correta): como discutido, categorias sem hierarquia.
+Situação vacinal – qualitativa ordinal (incorreta): “Vacinado/Não vacinado” não implica
+ordem (não há “mais” ou “menos” vacinado); é nominal dicotômica.
+Percentual com Sinal de Faget – quantitativa contínua (correta): percentagem é medida
+contínua.
+Número de casos notificados em 2018 – quantitativa discreta (correta): trata-se de
+contagem (0, 1, 2, …, 15)
+
+Alternativa incorreta:
+Faixa etária – qualitativa ordinal; Cor/raça – qualitativa nominal; Situação vacinal –
+qualitativa nominal; Percentual com Sinal de Faget – quantitativa discreta; Número de
+casos notificados em 2018 – quantitativa contínua.
+Faixa etária – qualitativa ordinal (correta): apresentada em classes ordenadas; há
+hierarquia etária.
+Cor/raça – qualitativa nominal (correta): categorias sem ordem.
+Situação vacinal – qualitativa nominal (correta): dicotomia sem hierarquia.
+Percentual com Sinal de Faget – quantitativa discreta (incorreta): percentual é medida
+contínua, não contagem inteira.
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 14 de 24
+
+Número de casos notificados em 2018 – quantitativa contínua (incorreta): é contagem
+inteira (discreta), sem frações.
+
+Referências:
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 10 out.
+2024.
+BASTOS, J. L. D.; DUQUIA, R. P. Types of data and data presentation in clinicalepidemiological research. Scientia Médica, v. 16, n. 3, p. 133–138, 2006. Disponível em:
+https://revistaseletronicas.pucrs.br/scientiamedica/article/view/1915. Acesso em: 10 out.
+2024.
+
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(UNIDOMPEDRO) Trata-se de um estudo descritivo, prospectivo, de corte transversal.
+Profissionais de saúde (médicos, enfermeiros, fonoaudiólogos, cirurgiões-dentistas,
+técnicos de enfermagem, fisioterapeutas, nutricionistas e psicólogos) de hospitais
+públicos e privados do Brasil foram convidados a responder um questionário on-line
+elaborado na plataforma Microsoft Forms® por meio de redes sociais, aplicativos de
+mensagem eletrônica e e-mail no período de junho a outubro de 2020. O instrumento foi
+respondido por 219 profissionais. (...) Foram incluídos profissionais de saúde com idade
+de 18 a 60 anos, de ambos os sexos, que trabalhavam em unidades hospitalares
+brasileiras, públicas ou privadas, e que atuavam no combate à COVID-19 na esfera
+assistencial ou administrativa.
+Pimentel RFW et al., 2021, p. 3.
+Com base no texto, identifique corretamente a população, a amostra e o tipo de
+amostragem empregados no estudo.
+Alternativas:
+(alternativa A)
+População: 219 profissionais que responderam ao questionário;
+Amostra: todos os profissionais de saúde de hospitais brasileiros, 18 a 60 anos;
+Tipo de amostragem: probabilística, aleatória simples.
+(alternativa B)
+População: profissionais de saúde de hospitais públicos e privados do Brasil, com idade
+de 18 a 60 anos, atuantes no enfrentamento da COVID-19;
+Amostra: 219 respondentes;
+Tipo de amostragem: probabilística, por conglomerados (divulgação on-line).
+(alternativa C) (CORRETA)
+População: profissionais de saúde de hospitais públicos e privados do Brasil, com idade
+de 18 a 60 anos, atuantes no enfrentamento da COVID-19;
+Amostra: 219 respondentes do questionário on-line;
+Tipo de amostragem: não probabilística, por conveniência.
+(alternativa D)
+População: profissionais de saúde de hospitais públicos e privados do Brasil, 18 a 60
+anos, atuantes no enfrentamento da COVID-19;
+Amostra: 219 respondentes;
+Tipo de amostragem: não probabilística, por “bola de neve” (indicações em cadeia).
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 15 de 24
+
+Resposta comentada:
+Correto - População: profissionais de saúde de hospitais públicos e privados do Brasil, 18–
+60 anos; Amostra: 219 respondentes; Tipo: não probabilística, por conveniência.
+O texto descreve convite amplo por mídias digitais e registro de “… respondido por 219
+profissionais.”, o que corresponde a amostragem de conveniência não probabilística (sem
+sorteio).
+Incorreta - População: 219 profissionais que responderam ao questionário; Amostra: todos
+os profissionais de saúde de hospitais brasileiros, 18–60 anos; Tipo de amostragem:
+probabilística, aleatória simples.
+A alternativa inverte população e amostra e presume sorteio aleatório, o que não foi
+realizado.
+Incorreto - População: profissionais de saúde de hospitais públicos e privados do Brasil,
+com idade de 18 a 60 anos, atuantes no enfrentamento da COVID-19; Amostra: 219
+respondentes; Tipo de amostragem: probabilística, por conglomerados (divulgação online).
+A divulgação on-line não caracteriza amostragem por conglomerados.
+Incorreto - População: profissionais de saúde de hospitais públicos e privados do Brasil,
+18–60 anos, atuantes no enfrentamento da COVID-19; Amostra: 219 respondentes; Tipo
+de amostragem: não probabilística, por “bola de neve” (indicações em cadeia).
+O método “bola de neve” exige indicações em cadeia entre participantes, o que não foi
+descrito; houve convite amplo por redes e e-mail.
+Referências:
+PIMENTEL, Rodrigo Fernandes Weyll et al. Relação entre a pandemia da COVID-19,
+compulsão alimentar e sofrimento mental em profissionais de saúde no Brasil: um estudo
+transversal. Revista Brasileira de Medicina do Trabalho, v. 19, n. 3, p. 283-289, 2021.
+DOI: 10.47626/1679-4435-2021-711.
+VIEIRA, Sonia. Introdução à Bioestatística. 6. ed. Rio de Janeiro: GEN Guanabara Koogan,
+2021. E-book. ISBN 9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595158566/. Acesso em: 07
+out. 2025.
+Feedback:
+-11ª QUESTÃO
+Enunciado:
+(FMIT) Durante uma atividade, estudantes de medicina investigaram a cobertura vacinal
+contra hepatite B em uma comunidade com 50 mil habitantes. Para isso, obtiveram
+acesso aos seguintes dois tipos distintos de dados públicos:
+Um conjunto de dados individuais anonimizados, contendo informações sobre idade, sexo
+e status vacinal de cerca de 2.000 moradores sorteados aleatoriamente, todos avaliados
+em um único momento.
+Um conjunto de dados percentuais médios de cobertura vacinal por bairro, calculados a
+partir de registros administrativos agregados de unidades básicas de saúde.
+Considerando os dois tipos de base de dados e os objetivos da investigação, analise qual
+alternativa descreve corretamente o delineamento mais apropriado para cada tipo de
+dado.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 16 de 24
+
+Alternativas:
+(alternativa A) (CORRETA)
+Os dados individuais permitem a realização de um estudo transversal, enquanto os dados
+por bairro são compatíveis com um estudo ecológico.
+(alternativa B)
+Os dados individuais são adequados para estudo ecológico, enquanto os dados
+agregados por bairro são compatíveis com estudo de incidência.
+(alternativa C)
+Os dados individuais são apropriados para um estudo de coorte prospectiva, e os dados
+por bairro para um estudo tipo caso-controle.
+(alternativa D)
+Ambos os conjuntos permitem a realização de estudos de coorte retrospectiva, desde
+que haja informação sobre tempo de vacinação.
+
+Resposta comentada:
+Alternativa correta: Os dados individuais permitem a realização de um estudo transversal,
+enquanto os dados por bairro são compatíveis com um estudo ecológico.
+Estudos transversais analisam indivíduos em um único ponto no tempo, muitas vezes
+coletando variáveis simultaneamente (ex.: vacinação e características
+sociodemográficas). Já os estudos ecológicos trabalham com dados agregados de grupos
+populacionais (ex.: bairros), não sendo possível identificar exposições ou desfechos em
+nível individual. Ambos são observacionais.
+Alternativas incorretas:
+"Os dados individuais são apropriados para um estudo de coorte prospectiva, e os dados
+por bairro para um estudo tipo caso-controle."
+Essa afirmação está incorreta por dois motivos centrais:
+1. Coorte prospectiva requer acompanhamento temporal dos indivíduos desde a
+exposição até o desfecho. No entanto, os dados individuais fornecidos no cenário
+são coletados em um único ponto no tempo, sem qualquer seguimento
+prospectivo. Portanto, não há como estabelecer uma linha temporal entre
+exposição (vacinação) e desfecho (por exemplo, infecção ou ausência dela), o
+que inviabiliza o desenho de coorte.
+2. O estudo caso-controle é centrado na comparação de dois grupos definidos com
+base no desfecho (ex.: com ou sem hepatite B) e busca-se retrospectivamente
+exposições associadas. No entanto, os dados por bairro não contêm informações
+individuais sobre casos ou controles, mas apenas percentuais médios agregados
+de cobertura vacinal, o que não permite essa classificação.
+"Os dados individuais são adequados para estudo ecológico, enquanto os dados
+agregados por bairro são compatíveis com estudo de incidência."
+Ambas as proposições estão incorretas:
+1. Estudos ecológicos têm como característica principal o uso de dados agregados
+por grupo, como bairros, municípios ou países. Portanto, dados individuais não
+são adequados para esse tipo de delineamento. Utilizar dados individuais e
+tratá-los como ecológicos implica erro de classificação da unidade de análise
+(falácia ecológica inversa).
+2. O termo “estudo de incidência” refere-se a uma medida epidemiológica, e não a
+um tipo específico de delineamento. A incidência pode ser estimada dentro de
+estudos de coorte, em que se observa o surgimento de novos casos ao longo do
+tempo. No entanto, os dados por bairro descritos no cenário são percentuais
+estáticos de cobertura vacinal, e não taxas de ocorrência de novos casos de
+doença. Portanto, não se trata de um estudo voltado à estimativa de incidência.
+"Ambos os conjuntos permitem a realização de estudos de coorte retrospectiva, desde
+que haja informação sobre tempo de vacinação."
+Este distrator tenta sugerir que a presença de uma variável temporal (data da vacinação)
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 17 de 24
+
+tornaria possível um estudo de coorte retrospectiva, mas a lógica está equivocada:
+1. Um coorte retrospectivo exige:
+Identificação de uma exposição passada (como vacinação),
+Acompanhamento retrospectivo até um desfecho (ex: desenvolvimento
+ou não da hepatite B),
+E, idealmente, que esses dados estejam registrados de forma
+temporalmente sequencial.
+No cenário descrito, embora seja mencionada a possibilidade de dados sobre
+vacinação, não há qualquer informação sobre desfechos clínicos subsequentes
+nem sobre a temporalidade do acompanhamento, elementos essenciais para um
+estudo de coorte.
+2. Além disso, os dados agregados por bairro não permitem vinculação temporal
+entre exposição e desfecho em indivíduos específicos, o que também inviabiliza
+um delineamento de coorte para esse conjunto.
+Referências:
+BONITA, R.; BEAGLEHOLE, R.; KJELLSTRÖM, T. Epidemiologia básica. 2. ed. São Paulo:
+Grupo Editorial Nacional, 2010. 230 p. Disponível em:
+https://edisciplinas.usp.br/mod/resource/view.php?id=3046312&forceview=1. Acesso em:
+10 out. 2025.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 10 out.
+2025. Cap. 6.
+Feedback:
+-12ª QUESTÃO
+Enunciado:
+(UNIGRANRIO BARRA) No início de 2025, após um período de chuvas intensas, o
+município do Rio de Janeiro registrou aumento de casos de dengue em uma comunidade
+da Zona Norte. Moradores relataram acúmulo de lixo nas ruas, enchentes que
+danificaram casas e interrupções no abastecimento de água. Com receio da falta d’água,
+muitas famílias passaram a armazenar água em baldes e tonéis descobertos. Campanhas
+de conscientização foram realizadas, mas parte dos moradores não conseguiu participar
+por motivos de trabalho.
+Com base no conceito de causalidade direta em epidemiologia, identifique o fator causal
+imediato responsável pela ocorrência dos casos de dengue descritos no texto acima.
+Alternativas:
+(alternativa A)
+Dificuldade de participação nas campanhas de conscientização sobre prevenção.
+(alternativa B) (CORRETA)
+Armazenamento de água em recipientes descobertos, permitindo o desenvolvimento do
+mosquito transmissor.
+(alternativa C)
+Interrupções no abastecimento de água, que aumentam a vulnerabilidade social da
+comunidade.
+(alternativa D)
+Enchentes e acúmulo de lixo nas ruas, que criam condições ambientais insalubres.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 18 de 24
+
+Resposta comentada:
+“Armazenamento de água em recipientes descobertos, permitindo o desenvolvimento do
+mosquito transmissor.” – Correta:
+A dengue é causada por um vírus transmitido pela picada do mosquito Aedes aegypti. O
+armazenamento de água em recipientes descobertos é o fator causal direto, pois permite
+a proliferação do vetor que transmite o vírus.
+“Enchentes e acúmulo de lixo nas ruas, que criam condições ambientais insalubres.” –
+Errada:
+As enchentes e o acúmulo de lixo podem estar associados a más condições de
+saneamento e a outros agravos, mas não causam diretamente a dengue. Servem,
+apenas, como contexto ambiental desfavorável.
+“Dificuldade de participação nas campanhas de conscientização sobre prevenção.” –
+Errada:
+A ausência nas campanhas de prevenção dificulta o controle e o conhecimento da
+população, mas não é a causa da doença, e sim um fator associado ao aumento do risco.
+“Interrupções no abastecimento de água, que aumentam a vulnerabilidade social da
+comunidade.” – Errada:
+A falta de água pode levar ao armazenamento inadequado, o que favorece a transmissão,
+mas não é o fator causal em si (é um fator indireto que contribui para a situação).
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre: Artmed,
+2021. E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 08 ago.
+2024.
+BARATA, R. B. Causalidade e epidemiologia. História, Ciências, Saúde-Manguinhos, v. 4, n.
+1, p. 31–49, mar. 1997. Disponível em:
+https://www.scielo.br/j/hcsm/a/68s9kjSKS8w8xZrRK4d8g7S/?format=pdf&lang=pt. Acesso
+em: 14 nov. 2025.
+Feedback:
+-13ª QUESTÃO
+Enunciado:
+(AFYA BRAGANÇA) José, 42 anos, mora em uma área periférica com condições precárias
+de saneamento. Ele procurou a unidade básica de saúde após notar manchas
+esbranquiçadas com perda de sensibilidade. Após investigação, foi diagnosticado com
+hanseníase. Considerando o processo saúde-doença e a história natural da hanseníase,
+assinale a alternativa que corresponde à fase e ao tipo de prevenção mais adequados ao
+caso descrito.
+Alternativas:
+(alternativa A)
+Fase pré-patogênica e prevenção terciária.
+(alternativa B)
+Fase pré-patogênica e prevenção primária.
+(alternativa C) (CORRETA)
+Fase patogênica e prevenção secundária.
+(alternativa D)
+Fase patogênica e prevenção primária.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 19 de 24
+
+Resposta comentada:
+A hanseníase já se manifesta clinicamente, o que indica que o paciente se encontra na
+fase patogênica da história natural da doença. Nesse estágio, a prevenção secundária é a
+mais indicada, pois busca o diagnóstico precoce e o tratamento imediato, evitando
+complicações e a transmissão a contatos próximos. Veja descrições abaixo:
+Fases e tipos de prevenção.
+Fase pré-patogênica:
+Período anterior ao adoecimento, em que há interação entre agente, hospedeiro e
+ambiente, mas ainda não há manifestação clínica. É o momento ideal para ações
+preventivas primárias, como vacinação, saneamento e educação em saúde.
+Fase patogênica:
+Inicia com a penetração do agente no organismo e segue até o aparecimento de sinais e
+sintomas clínicos. Envolve mudanças fisiológicas e estruturais decorrentes da infecção.
+Aqui predominam as ações de prevenção secundária, voltadas ao diagnóstico e
+tratamento precoces.
+Fase de convalescença:
+Corresponde ao período de recuperação ou cronificação. O indivíduo pode restabelecer-se
+totalmente, apresentar sequelas ou evoluir para óbito. Nessa fase, são aplicadas ações de
+prevenção terciária, visando reduzir incapacidades e promover reabilitação.
+Referências:
+FILHO, N. A.; BARRETO, M. L. Epidemiologia & Saúde - Fundamentos, Métodos e
+Aplicações. Rio de Janeiro: Grupo GEN, 2011. E-book. ISBN 978-85-277-2119-6.
+ROUQUAYROL, M. Z.; GURGEL, M. Rouquayrol - Epidemiologia e Saúde. Rio de Janeiro:
+MedBook Editora, 2017. E-book. 9786557830000.
+Feedback:
+-14ª QUESTÃO
+Enunciado:
+(FACIMPA) Acidentes ofídicos, ou ofidismo, referem-se a envenenamentos causados pela
+mordedura de serpentes. Em 2023, foram notificados 143 óbitos por ofidismo no Brasil. A
+figura a seguir apresenta a relação entre o número de acidentes, o tempo entre o
+acidente e o atendimento e a taxa de letalidade.
+
+Com base nas informações apresentadas no gráfico e nos conhecimentos de vigilância
+epidemiológica, identifique a interpretação correta sobre a relação entre o tempo de
+atendimento e a letalidade dos acidentes ofídicos e o tipo de gráfico utilizado para
+representar esses dados.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 20 de 24
+
+Alternativas:
+(alternativa A)
+A letalidade é maior nos casos atendidos nas primeiras horas após o acidente, sugerindo
+que o atendimento rápido pode aumentar o risco de complicações. O gráfico é do tipo
+misto.
+(alternativa B) (CORRETA)
+A letalidade aumenta à medida que o tempo entre o acidente e o atendimento cresce,
+indicando que o atendimento precoce reduz o risco de óbito. O gráfico é do tipo colunas e
+linhas combinadas.
+(alternativa C)
+O número de acidentes aumenta proporcionalmente à letalidade, o que indica que a
+maior incidência de casos é o principal determinante do aumento das mortes. O gráfico é
+do tipo histograma e área combinados.
+(alternativa D)
+A taxa de letalidade se mantém constante independentemente do tempo de
+atendimento, o que demonstra que o desfecho não é influenciado pelo acesso ao serviço
+de saúde. O gráfico é do tipo de setores.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 21 de 24
+
+Resposta comentada:
+Resposta correta
+A letalidade aumenta à medida que o tempo entre o acidente e o atendimento cresce,
+indicando que o atendimento precoce reduz o risco de óbito. O gráfico é do tipo colunas e
+linha combinadas.
+O gráfico demonstra que a taxa de letalidade cresce de forma acentuada conforme
+aumenta o tempo entre o acidente e o atendimento, passando de 0,28% em até 3 horas
+para 2,26% após 24 horas. Isso indica uma relação inversa entre tempo e sobrevida:
+quanto mais rápido o atendimento, menor o risco de óbito. Os dados reforçam a
+importância da assistência imediata e do acesso oportuno ao soro antiofídico,
+componentes fundamentais da vigilância e do cuidado integral nas urgências
+toxicológicas.
+Além disso, a representação gráfica utilizada é um gráfico combinado (colunas + linha),
+que permite comparar duas variáveis de natureza diferente:
+o número de acidentes - (representado pelas colunas, eixo da esquerda); e
+a taxa de letalidade (%) - (representada pela linha, eixo da direita).
+Incorretas
+A letalidade é maior nos casos atendidos nas primeiras horas após o acidente, sugerindo
+que o atendimento rápido pode aumentar o risco de complicações. O gráfico é do tipo
+misto. O gráfico mostra o oposto: a letalidade é menor nas primeiras horas e aumenta
+com o atraso no atendimento. O termo “misto” é, em parte, aceitável, pois o gráfico
+realmente combina dois tipos de representação (colunas e linha).
+A taxa de letalidade se mantém constante independentemente do tempo de
+atendimento, o que demonstra que o desfecho não é influenciado pelo acesso ao serviço
+de saúde. Há variação expressiva na taxa de letalidade conforme o tempo de
+atendimento; logo, o desfecho é influenciado pelo tempo de acesso ao serviço. E o gráfico
+não é de setores (pizza), pois não representa proporções de um todo, e sim séries
+temporais.
+O número de acidentes aumenta proporcionalmente à letalidade, o que indica que a
+maior incidência de casos é o principal determinante do aumento das mortes. O gráfico é
+do tipo histograma e área combinados. O número de acidentes é maior nas primeiras
+horas, mas com baixa letalidade; portanto, a quantidade de casos não explica o aumento
+das mortes, e sim o atraso no atendimento. Além disso, o gráfico não é histograma, pois
+esse modelo é usado para representar distribuições de frequência de variáveis contínuas,
+com colunas contíguas e sem espaçamento. Tampouco é um gráfico de área, já que não
+há representação de área preenchida sob a linha — apenas colunas verticais (número de
+acidentes) e uma linha com marcadores (taxa de letalidade).
+Referências:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Boletim
+Epidemiológico: Epidemiologia dos acidentes ofídicos no Brasil em 2023. Brasília:
+Ministério da Saúde, 2024. Disponível em: https://www.gov.br/saude/pt-br/centrais-deconteudo/publicacoes/boletins/epidemiologicos/edicoes/2024/boletim-epidemiologicovolume-55-no-15.pdf/view. Acesso em: 11 nov. 2025.
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. Rio de Janeiro:
+Grupo GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em: 10
+out. 2024.
+Feedback:
+-15ª QUESTÃO
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 22 de 24
+
+Enunciado:
+(AFYA ITACOATIARA) Um estudo realizado no Brasil avaliou a ocorrência de diabetes
+mellitus tipo 2 em adultos com 20 anos ou mais residentes em uma cidade de médio
+porte, durante o período de 2023.
+Os dados obtidos foram os seguintes:
+População total de adultos: 120.000 pessoas.
+Casos novos diagnosticados em 2023: 480 casos.
+Casos totais de diabetes registrados no sistema de saúde ao final de 2023: 6.000 casos.
+Com base nesses dados, qual das alternativas apresenta corretamente a medida
+epidemiológica e o cálculo utilizado?
+
+Alternativas:
+(alternativa A)
+Prevalência = (480 / 120.000) × 100 = 0,4% de pessoas com diabetes em 2023.
+(alternativa B)
+Taxa de incidência = (6.000 / 120.000) × 100.000 = 5.000 casos novos por 100.000
+habitantes.
+(alternativa C) (CORRETA)
+Prevalência = (6.000 / 120.000) × 100 = 5% de pessoas com diabetes em 2023.
+(alternativa D)
+Taxa de incidência = (480 / 120.000) × 1.000 = 4 casos novos por 1.000 habitantes.
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 23 de 24
+
+Resposta comentada:
+Taxa de incidência = (480 / 120.000) × 1.000 = 4 casos novos por 1.000 habitantes.
+Esta alternativa está incorreta. De acordo com a fórmula, está correta para calcular a
+taxa de incidência, pois usa casos novos e população sob risco durante o período. O
+enunciado pede a medida e o cálculo corretos, considerando os dados apresentados.
+Como o estudo mostra tanto casos novos quanto casos totais, o valor correto a ser
+identificado é a prevalência (casos existentes). Ou seja, a fórmula está certa, mas não
+corresponde à medida solicitada.
+Prevalência = (480 / 120.000) × 100 = 0,4% de pessoas com diabetes em 2023.
+Esta alternativa está incorreta. Neste cálculo, usa-se o número de casos novos (480), que
+serve para calcular incidência e não prevalência. Prevalência inclui todos os casos
+existentes (novos + antigos), e não apenas os novos. Portanto, a fórmula está incorreta
+para prevalência, mesmo que o cálculo matemático esteja certo.
+Prevalência = (6.000 / 120.000) × 100 = 5% de pessoas com diabetes em 2023.
+Esta alternativa está correta. Usa o número total de casos (6.000) e divide pela
+população total (120.000). Multiplica por 100 para obter o valor em porcentagem.
+Resultado: 5%, medida de prevalência pontual da doença .
+Taxa de incidência = (6.000 / 120.000) × 100.000 = 5.000 casos novos por 100.000
+habitantes.
+Esta alternativa está incorreta. Aqui está usando o número total de casos (6.000), mas a
+incidência deve usar apenas casos novos (480). Além disso, o fator multiplicador
+(100.000) é incomum para incidência em doenças crônicas não transmissíveis como
+diabetes; geralmente, usa-se por 1.000 ou por 10.000 habitantes, dependendo do
+contexto. Assim, tanto o numerador quanto a escala estão incorretos.
+Referência:
+FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3. ed.
+Santana de Parnaíba [SP]: Manole, 2022. E-book. ISBN 9786555767711. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767711/. Acesso em: 20 maio
+2025.
+Feedback:
+--
+
+000179.99001a.845070.1af114.2d9de9.3b67f8.0c3160.b1694
+
+Página 24 de 24
+
+

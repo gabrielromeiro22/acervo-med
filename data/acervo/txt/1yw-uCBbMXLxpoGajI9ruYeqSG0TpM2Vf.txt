@@ -1,0 +1,2689 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas I, Integração Ensino Serviço Comunidade I,
+Sistemas Orgânicos Integrados I e Integradora 1º Período
+Professor (es):
+Período: 202601
+
+Turma:
+
+Data: 03/06/2026
+
+INTEGRADORA - MEDICINA - 1º PERÍODO - 2026.1 - 1ª CHAMADA - 03/JUNHO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19645 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA MACEIÓ) Durante uma aula prática de Fisiologia Cardiovascular, estudantes
+analisam traçados de potenciais de ação obtidos de fibras musculares atriais e
+ventriculares e de células do nó sinoatrial, além de observarem diferenças na velocidade
+de despolarização e nos canais iônicos envolvidos. Com base nas características
+eletrofisiológicas dessas células, assinale a alternativa correta.
+
+acervo.vip
+
+Alternativas:
+(alternativa A)
+Quando os ventrículos estão completamente despolarizados e as células contráteis
+cardíacas passam pela fase de estabilidade de seu potencial de ação antes de
+repolarizar, é representado no eletrocardiograma pela onda P.
+(alternativa B) (CORRETA)
+A condução lenta pelo nó AV promove um atraso fisiológico entre a despolarização atrial e
+a ventricular, permitindo que os átrios completem sua contração e contribuam para o
+enchimento dos ventrículos antes da sístole ventricular.
+(alternativa C)
+As células cardíacas com maior taxa de iniciação do potencial de ação localizam-se no nó
+atrioventricular, e os impulsos propagam-se pelo miocárdio por meio de junções
+comunicantes.
+(alternativa D)
+A partir do nó sinoatrial (SA), o potencial de ação se propaga direta e lentamente para os
+ventrículos, por meio do feixe de His, levando as células contráteis a se contraírem e o
+coração a bater na frequência determinada pela autorritmicidade do nó SA.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 1 de 58
+
+Resposta comentada:
+A alternativa "A condução lenta pelo nó AV promove um atraso fisiológico entre a
+despolarização atrial e a ventricular, permitindo que os átrios completem sua contração e
+contribuam para o enchimento dos ventrículos antes da sístole ventricular". Correta, pois
+descreve adequadamente a condução entre os átrios e os ventrículos. O potencial de
+ação é conduzido de forma relativamente lenta através do nó AV. Esta lentidão é
+vantajosa porque dá tempo para o completo enchimento ventricular. O impulso é
+retardado em cerca de 100 ms (o atraso nodal AV), o que permite que átrios fiquem
+completamente despolarizados e se contraiam, esvaziando seu conteúdo nos ventrículos
+antes que a despolarização e a contração ventricular ocorram.
+A alternativa "A partir do nó sinoatrial (SA), o potencial de ação se propaga direto e
+lentamente para os ventrículos, por meio do feixe de His, levando as células contráteis a
+se contraírem e o coração a bater na frequência determinada pela autorritmicidade do nó
+SA". Incorreta, pois o nó atrioventricular (AV) é o único ponto no qual um potencial de
+ação pode se propagar dos átrios aos ventrículos. A partir do nó AV, o potencial de ação
+se propaga rapidamente pelos ventrículos, acelerado por um sistema de condução
+ventricular especializado que consiste no feixe de His e nas fibras de Purkinje.
+A alternativa "As células cardíacas com maior taxa de iniciação do potencial de ação
+localizam-se no nó atrioventricular, e os impulsos propagam-se pelo miocárdio por meio
+de junções comunicantes". Incorreta, pois as células cardíacas com taxa mais rápida de
+iniciação de potencial de ação estão localizadas no nó SA. Quando um potencial de ação
+ocorre em qualquer célula do músculo cardíaco, é propagado para todo o resto do
+miocárdio via junções comunicantes e pelo sistema de condução especializado.
+A alternativa "Quando os ventrículos estão completamente despolarizados e as células
+contráteis cardíacas passam pela fase de estabilidade de seu potencial de ação antes de
+repolarizar, é representado no eletrocardiograma pela onda P". Incorreta, pois a onda P
+representa a despolarização atrial.
+Referências:
+HALL, John E.; GUYTON, Arthur C. Tratado de fisiologia médica . 14. ed. Rio de Janeiro:
+Elsevier, 2021.
+SILVERTHORN, Dee Unglaub. Fisiologia humana: uma abordagem integrada . 8. ed. Porto
+Alegre: Artmed, 2023.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA MACEIÓ) Durante o preparo de alimentos, um indivíduo sofre um corte superficial
+no dedo. Observa-se sangramento imediato, seguido de redução progressiva do fluxo
+sanguíneo até cessar completamente em poucos minutos. Forma-se um coágulo aderido
+ao local da lesão e, após alguns dias, ocorre desprendimento espontâneo da crosta, sem
+novo sangramento.
+Esse processo envolve eventos sequenciais e interdependentes, incluindo vasoconstrição
+reflexa, adesão e ativação plaquetária, ativação da cascata de coagulação com formação
+de fibrina e, posteriormente, degradação controlada do coágulo. A adequada
+compreensão dessas etapas permite diferenciar os mecanismos envolvidos na formação
+inicial do tampão hemostático, na estabilização do coágulo e na fibrinólise.
+Com base na sequência temporal e nos principais componentes envolvidos na
+hemostasia, assinale a alternativa correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 2 de 58
+
+Alternativas:
+(alternativa A)
+A hemostasia primária envolve adesão plaquetária mediada por fibrina; a hemostasia
+secundária promove ativação do sistema complemento e estabilização do coágulo;
+posteriormente ocorre remoção do trombo por redução espontânea da atividade da
+trombina.
+(alternativa B)
+A hemostasia primária envolve ativação da cascata de coagulação com formação de
+fibrina; a hemostasia secundária promove agregação plaquetária e formação do tampão
+transitório; posteriormente ocorre fibrinólise mediada pela ativação plaquetária local.
+(alternativa C) (CORRETA)
+A hemostasia primária envolve adesão e agregação plaquetária com formação de tampão
+transitório; a hemostasia secundária promove geração de trombina e deposição de
+fibrina; posteriormente ocorre fibrinólise controlada do coágulo.
+(alternativa D)
+A hemostasia primária envolve vasodilatação local e aumento da permeabilidade
+vascular; a hemostasia secundária promove deposição de colágeno subendotelial;
+posteriormente ocorre degradação plaquetária mediada por neutrófilos.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 3 de 58
+
+Resposta comentada:
+Alternativa "A hemostasia primária envolve ativação da cascata de coagulação com
+formação de fibrina; a hemostasia secundária promove agregação plaquetária e formação
+do tampão transitório; posteriormente ocorre fibrinólise mediada pela ativação
+plaquetária local.": A alternativa apresenta inversão entre os mecanismos da hemostasia
+primária e secundária. A formação inicial do tampão hemostático transitório ocorre na
+hemostasia primária, por meio da adesão, ativação e agregação plaquetária. Já a
+formação de fibrina, decorrente da ativação da cascata de coagulação e geração de
+trombina, corresponde à hemostasia secundária. Além disso, a fibrinólise não depende
+predominantemente da ativação plaquetária local, mas da ativação do sistema
+fibrinolítico, especialmente pela conversão do plasminogênio em plasmina. Incorreta.
+Alternativa "A hemostasia primária envolve adesão e agregação plaquetária com
+formação de tampão transitório; a hemostasia secundária promove geração de trombina
+e deposição de fibrina; posteriormente ocorre fibrinólise controlada do coágulo.": A
+alternativa descreve adequadamente as etapas da hemostasia. A hemostasia primária
+envolve adesão e agregação plaquetária, formando um tampão hemostático inicial e
+transitório. A hemostasia secundária corresponde à ativação da cascata de coagulação,
+com geração de trombina e formação de fibrina, responsável pela estabilização do
+coágulo. Posteriormente, ocorre fibrinólise controlada, mecanismo fisiológico responsável
+pela degradação gradual do coágulo e restauração do fluxo vascular. Correta.
+Alternativa "A hemostasia primária envolve vasodilatação local e aumento da
+permeabilidade vascular; a hemostasia secundária promove deposição de colágeno
+subendotelial; posteriormente ocorre degradação plaquetária mediada por neutrófilos.": A
+alternativa atribui à hemostasia primária mecanismos típicos da resposta inflamatória
+aguda, como vasodilatação e aumento da permeabilidade vascular. Embora alterações
+vasculares possam ocorrer após lesão tecidual, a hemostasia primária é caracterizada
+principalmente pela participação plaquetária. Além disso, a deposição de colágeno
+subendotelial não corresponde à hemostasia secundária; o colágeno atua como superfície
+de adesão plaquetária após exposição vascular. A degradação do coágulo também não
+ocorre por ação predominante de neutrófilos, mas pelo sistema fibrinolítico mediado pela
+plasmina. Incorreta.
+Alternativa "A hemostasia primária envolve adesão plaquetária mediada por fibrina; a
+hemostasia secundária promove ativação do sistema complemento e estabilização do
+coágulo; posteriormente ocorre remoção do trombo por redução espontânea da atividade
+da trombina.": A alternativa apresenta erros conceituais importantes. A adesão
+plaquetária inicial ocorre principalmente por interação entre o fator de von Willebrand e o
+colágeno subendotelial exposto, e não é mediada pela fibrina. Além disso, a estabilização
+do coágulo durante a hemostasia secundária depende da cascata de coagulação e da
+deposição de fibrina, e não da ativação predominante do sistema complemento. Por fim,
+a remoção fisiológica do coágulo ocorre por fibrinólise controlada mediada pela plasmina,
+e não apenas por redução espontânea da atividade da trombina. Incorreta.
+
+Referência:
+HALL, John E.; HALL, Michael E. Guyton & Hall - Tratado de Fisiologia Médica . 14. ed. Rio
+de Janeiro: GEN Guanabara Koogan, 2021. E-book. p. 110. ISBN 9788595158696.
+Disponível em: Biblioteca Minha. Acesso em: 27 fev. 2026.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(AFYA VITÓRIA DA CONQUISTA) Durante estágio supervisionado em uma Unidade Básica
+de Saúde (UBS), uma estudante de medicina realiza o acolhimento de um paciente de 58
+anos, hipertenso em acompanhamento regular. Antes da consulta médica, ela decide
+aferir a pressão arterial, seguindo as recomendações assistenciais vigentes. Ao observar
+o paciente, percebe-se que ele acabou de chegar, caminhando rapidamente, encontra-se
+conversando ao celular e relata ter ingerido café poucos minutos antes.
+Qual conduta representa a prática mais adequada?
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 4 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+Solicitar que o paciente permaneça sentado em ambiente tranquilo por alguns minutos,
+com pés apoiados no chão, dorso sustentado e braço na altura do coração antes da
+aferição.
+(alternativa B)
+Realizar a aferição imediatamente após acomodar o paciente, utilizando o manguito
+disponível no consultório, registrando o valor obtido para agilizar o fluxo de atendimento.
+(alternativa C)
+Solicitar que o paciente permaneça em pé durante a aferição, mantendo conversa leve
+para reduzir ansiedade e facilitar a adaptação ao ambiente da unidade.
+(alternativa D)
+Aferir a pressão arterial logo após a chegada do paciente, priorizando o membro
+dominante, desde que o equipamento esteja calibrado e funcional.
+
+Resposta comentada:
+Embora a calibração do equipamento seja importante, a aferição logo após esforço físico
+ou estímulos recentes não atende às recomendações técnicas. Além disso, a escolha do
+membro dominante não constitui critério prioritário para a primeira medida. A aferição
+imediata após acomodação do paciente desconsidera o período recomendado de repouso
+e possíveis interferências recentes, como atividade física e ingestão de cafeína, podendo
+comprometer a confiabilidade da medida obtida. A posição em pé não corresponde à
+posição padrão recomendada para aferição rotineira na Atenção Primária. Conversas
+durante o procedimento também podem interferir nos níveis pressóricos e na acurácia da
+medida. A aferição adequada da pressão arterial exige preparo prévio do paciente,
+incluindo repouso por aproximadamente cinco minutos em ambiente tranquilo, postura
+correta, pés apoiados no chão, dorso sustentado e braço posicionado na altura do
+coração. Além disso, recomenda-se evitar medidas logo após exercício físico, ingestão
+recente de cafeína ou situações de agitação emocional, reduzindo o risco de valores
+falsamente elevados.
+Referências:
+BRASIL. Ministério da Saúde. Estratégias para o cuidado da pessoa com doença crônica:
+hipertensão arterial sistêmica. Brasília: Ministério da Saúde, 2013. (Cadernos de Atenção
+Básica, n. 37).
+SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Diretrizes Brasileiras de Hipertensão Arterial –
+2020. Arquivos Brasileiros de Cardiologia, Rio de Janeiro, v. 116, n. 3, supl. 1, 2021.
+WORLD HEALTH ORGANIZATION. Guideline for the pharmacological treatment of
+hypertension in adults. Geneva: WHO, 2021.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA ITAPERUNA) Durante o exame físico geral de um paciente hígido, em ambiente
+bem iluminado, um estudante observa que a pele da face e dos antebraços apresenta
+coloração mais influenciada pela exposição solar. Ao avaliar as pregas palmares e a
+conjuntiva palpebral inferior, percebe-se que essas áreas permitem uma apreciação mais
+uniforme da coloração corporal. O professor solicita que ele compare essas regiões,
+considerando a influência da melanina, da perfusão sanguínea e da espessura epidérmica
+na coloração observada.
+Considerando a semiologia clínica da pele e mucosas, analise os achados descritos e
+assinale a alternativa correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 5 de 58
+
+Alternativas:
+(alternativa A)
+A avaliação da coloração cutânea deve ser realizada exclusivamente em áreas expostas
+ao sol, pois nelas a vascularização superficial é mais evidente e permite melhor análise
+clínica.
+(alternativa B)
+A coloração normal da pele depende apenas da quantidade de melanina, não sofrendo
+influência da perfusão sanguínea ou da espessura da epiderme.
+(alternativa C) (CORRETA)
+A conjuntiva palpebral inferior e as pregas palmares são regiões úteis nessa avaliação,
+pois apresentam menor influência da melanina e melhor observação do leito vascular
+superficial.
+(alternativa D)
+As mucosas orais e a conjuntiva não fazem parte da avaliação rotineira da coloração
+corporal, pois sua coloração varia intensamente entre indivíduos saudáveis.
+
+Resposta comentada:
+Gabarito:
+A conjuntiva palpebral inferior e as pregas palmares são regiões úteis nessa avaliação,
+pois apresentam menor influência da melanina e melhor observação do leito vascular
+superficial.
+Justificativas
+A alternativa que diz “A conjuntiva palpebral inferior e as pregas palmares são regiões
+úteis nessa avaliação...” está correta, pois esses locais apresentam menor interferência
+da pigmentação melânica e permitem melhor observação da vascularização superficial,
+sendo úteis no exame físico rotineiro.
+A alternativa que diz “A avaliação da coloração cutânea deve ser realizada
+exclusivamente em áreas expostas ao sol...” está incorreta, pois áreas expostas ao sol
+sofrem influência da radiação ultravioleta, podendo apresentar maior pigmentação e
+alterações da espessura cutânea, o que dificulta a análise da coloração basal.
+A alternativa que diz “A coloração normal da pele depende apenas da quantidade de
+melanina...” está incorreta, pois a coloração cutânea resulta da interação entre melanina,
+hemoglobina, caroteno, perfusão sanguínea e espessura da epiderme.
+A alternativa que diz “As mucosas orais e a conjuntiva não fazem parte da avaliação
+rotineira...” está incorreta, pois mucosas oral e conjuntival são áreas classicamente
+examinadas na inspeção clínica da coloração corporal.
+Referência:
+PORTO, Celmo Celeno; PORTO, Arnaldo Lemos. Semiologia médica. 8. ed. Rio de Janeiro:
+Guanabara Koogan, 2019.
+Feedback:
+-5ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 6 de 58
+
+Enunciado:
+(AFYA PALMAS) Homem, 52 anos, trabalhador informal, recém-chegado de outro estado,
+procura Unidade Básica de Saúde com diagnóstico prévio de diabetes mellitus tipo 2, em
+uso irregular de insulina. Relata que foi informado por um funcionário administrativo que
+não poderia iniciar acompanhamento no município por não possuir comprovante de
+residência local.
+Durante o atendimento médico, constata-se glicemia capilar de 320 mg/dL e sinais de
+neuropatia periférica. O paciente demonstra desconhecer seus direitos e afirma que não
+tem condições de buscar atendimento privado.
+Diante dessa situação, considerando os fundamentos constitucionais e legais que
+estruturam o Sistema Único de Saúde, indique a alternativa que contenha a interpretação
+correta acerca do direito desse paciente ao atendimento e dos instrumentos jurídicos que
+o asseguram.
+
+Alternativas:
+(alternativa A)
+O atendimento pode ser condicionado à comprovação de residência local, pois a
+descentralização administrativa permite restrição territorial de acesso aos serviços de
+saúde.
+(alternativa B) (CORRETA)
+O atendimento deve ser assegurado pelo princípio da universalidade previsto na
+Constituição Federal de 1988 e regulamentado pela Lei n.º 8.080/1990,
+independentemente de domicílio ou situação cadastral.
+(alternativa C)
+O atendimento pode ser postergado até a regularização cadastral do paciente, visto que
+a regionalização da rede de saúde do município demanda cadastro do morador para o
+seu acesso.
+(alternativa D)
+O direito ao atendimento depende de deliberação do Conselho Municipal de Saúde,
+conforme previsto na Lei n.º 8.142/1990, antes da inclusão do paciente na rede
+assistencial.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 7 de 58
+
+Resposta comentada:
+Justificativas:
+O atendimento deve ser assegurado pelo princípio da universalidade previsto na
+Constituição Federal de 1988 e regulamentado pela Lei n.º 8.080/1990,
+independentemente de domicílio ou situação cadastral. Certa.
+A Constituição Federal de 1988 (art. 196) estabelece que a saúde é direito de todos e
+dever do Estado, garantindo acesso universal e igualitário às ações e serviços de saúde.
+A Lei n.º 8.080/1990 regulamenta o SUS, reafirmando universalidade, integralidade e
+equidade, sem exigir comprovação de residência como condição para atendimento.
+O paciente deve ser acolhido e incluído na rede de atenção conforme necessidade clínica.
+O atendimento pode ser condicionado à comprovação de residência local, pois a
+descentralização administrativa permite restrição territorial de acesso aos serviços de
+saúde. Errada.
+A descentralização administrativa não autoriza restrição do acesso universal. O SUS não
+pode condicionar atendimento à comprovação de residência.
+O atendimento pode ser postergado até a regularização cadastral do paciente, visto que
+a regionalização da rede de saúde do município demanda cadastro do morador para o
+seu acesso. Errada.
+Regionalização organiza fluxos assistenciais, mas não permite postergar atendimento
+essencial. O acesso é garantido independentemente de formalidades cadastrais.
+O direito ao atendimento depende de deliberação do Conselho Municipal de Saúde,
+conforme previsto na Lei n.º 8.142/1990, antes da inclusão do paciente na rede
+assistencial. Errada.
+A Lei n.º 8.142/1990 trata da participação social e do controle social (conselhos e
+conferências), não sendo requisito para autorização de atendimento individual.
+Referências:
+BRASIL. Constituição. Constituição da República Federativa do Brasil. Brasília: Senado
+Federal, 1988.
+BRASIL. Lei n.º 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para
+promoção, proteção e recuperação da saúde, a organização e o funcionamento dos
+serviços correspondentes.
+BRASIL. Lei n.º 8.142, de 28 de dezembro de 1990. Dispõe sobre a participação da
+comunidade na gestão do SUS e sobre transferências intergovernamentais de recursos
+financeiros na área da saúde.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Uma criança de 7 anos é levada à unidade básica de saúde por
+apresentar episódios frequentes de infecções respiratórias ao longo do último ano. A mãe
+relata acúmulo constante de secreção nasal, episódios recorrentes de tosse e dificuldade
+para eliminar o muco. Ao exame físico, observa-se aumento do volume das tonsilas
+palatinas e sinais de inflamação na região da faringe.
+Assinale a alternativa que apresente corretamente os principais mecanismos protetores
+envolvidos no quadro clínico da criança.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 8 de 58
+
+Alternativas:
+(alternativa A)
+A presença de secreção nas vias aéreas indica falha exclusiva dos macrófagos alveolares,
+que são os principais responsáveis pela eliminação de partículas nas vias aéreas
+superiores.
+(alternativa B)
+O reflexo da tosse é o principal mecanismo de defesa das vias aéreas superiores, sendo
+responsável pela eliminação mecânica de partículas e ativação de células fagocitárias
+residentes na mucosa.
+(alternativa C) (CORRETA)
+O epitélio respiratório ciliado e a produção de muco atuam no transporte mucociliar,
+promovendo a retenção e remoção de partículas, e as tonsilas participam da resposta
+imune local.
+(alternativa D)
+A filtração realizada exclusivamente pelos alvéolos pulmonares constitui a principal
+barreira contra microrganismos inalados, auxiliada pela ação dos linfócitos circulantes no
+sangue periférico.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 9 de 58
+
+Resposta comentada:
+Correta: o epitélio respiratório ciliado e a produção de muco atuam conjuntamente no
+transporte mucociliar, promovendo a retenção e a remoção de partículas; além disso, o
+tecido linfoide presente nas tonsilas participa da resposta imune local.
+O sistema respiratório possui mecanismos de defesa organizados em barreiras físicas,
+mecânicas e imunológicas.
+Incorreta: a filtração realizada exclusivamente pelos alvéolos pulmonares constitui a
+principal barreira contra microrganismos inalados, auxiliada pela ação dos linfócitos
+circulantes no sangue periférico.
+Os alvéolos pulmonares não são a principal barreira inicial contra agentes inalados. A
+defesa primária ocorre nas vias aéreas superiores e de condução (nariz, cavidade nasal,
+traqueia e brônquios), por meio do muco e do movimento ciliar. Os alvéolos contam com
+macrófagos alveolares, que atuam quando partículas ultrapassam as barreiras anteriores,
+mas essa é uma linha de defesa mais profunda, não a principal no contexto descrito.
+Incorreta: O reflexo da tosse constitui o principal mecanismo de defesa das vias aéreas
+superiores, sendo responsável pela eliminação mecânica de partículas e ativação de
+células fagocitárias residentes na mucosa.
+A tosse não é o principal mecanismo de defesa contínuo das vias aéreas superiores. O
+mecanismo primário e constante é o transporte mucociliar, que atua de forma
+ininterrupta, retendo partículas no muco e conduzindo-as em direção à faringe. A tosse
+não promove ativação direta de células fagocitárias residentes na mucosa. A fagocitose é
+realizada principalmente por macrófagos e outras células do sistema imune, e sua
+ativação depende de processos inflamatórios e sinalização imunológica, não do reflexo
+mecânico da tosse.
+Incorreta: A presença de secreção nas vias aéreas indica falha exclusiva dos macrófagos
+alveolares, que são os principais responsáveis pela eliminação de partículas nas vias
+aéreas superiores.
+Os macrófagos alveolares atuam principalmente nos alvéolos pulmonares, e não nas vias
+aéreas superiores. O quadro clínico descrito envolve secreção nasal, inflamação faríngea
+e aumento das tonsilas, estruturas relacionadas à defesa das vias aéreas superiores, nas
+quais predominam o transporte mucociliar e o tecido linfoide associado à mucosa.
+Referências:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. 16.ª ed.
+Rio de Janeiro: Guanabara Koogan, 2023. E-book, p. 769. ISBN 9788527739368.
+Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788527739368/.
+Acesso em: 03 mar. 2026.
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Básica - Funções e
+Distúrbios do Sistema Imunológico. 7. ed. Rio de Janeiro: GEN Guanabara Koogan, 2025.
+E-book. p. ISBN 9786561110204. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786561110204/. Acesso em: 03
+mar. 2026.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(AFYA REDENÇÃO) A imunidade inata constitui a primeira linha de defesa do organismo e
+envolve componentes celulares e humorais capazes de reconhecer rapidamente
+microorganismos. Entre esses mecanismos, destaca-se o sistema complemento, que
+pode ser ativado por diferentes vias e resulta em opsonização, inflamação e lise de
+patógenos.
+Nesse contexto, a ativação do sistema complemento por reconhecimento direto de
+carboidratos microbianos por proteínas séricas ocorre pela via
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 10 de 58
+
+Alternativas:
+(alternativa A)
+alternativa, ativada continuamente por hidrólise espontânea do componente C3 no
+plasma.
+(alternativa B)
+terminal, responsável pela formação do complexo de ataque à membrana após ativação
+prévia do complemento.
+(alternativa C) (CORRETA)
+lectina, iniciada pela ligação da lectina ligadora de manose a carboidratos da superfície
+microbiana.
+(alternativa D)
+clássica, dependente da ligação de anticorpos IgG ou IgM a antígenos microbianos.
+
+Resposta comentada:
+Incorreta: "clássica, dependente da ligação de anticorpos IgG ou IgM a antígenos
+microbianos."
+Justificativa: A via clássica é iniciada principalmente pela ligação de anticorpos IgM ou
+IgG ao antígeno, caracterizando um mecanismo dependente da resposta adaptativa, e
+não do reconhecimento direto de carboidratos microbianos pela imunidade inata.
+Incorreta. "alternativa, ativada continuamente por hidrólise espontânea do componente
+C3 no plasma."
+Justificativa: A via alternativa é ativada pela hidrólise espontânea do C3 e amplificação na
+superfície microbiana, sem necessidade de reconhecimento específico por lectinas
+ligadoras de carboidratos.
+Correta: "lectina, iniciada pela ligação da lectina ligadora de manose a carboidratos da
+superfície microbiana."
+Justificativa: A via da lectina é ativada quando a lectina ligadora de manose (MBL) ou
+ficolinas reconhecem carboidratos presentes na superfície de microrganismos,
+desencadeando a cascata do complemento de forma independente de anticorpos e
+caracterizando mecanismo típico da imunidade inata.
+Incorreta: "terminal, responsável pela formação do complexo de ataque à membrana
+após ativação prévia do complemento."
+Justificativa: A chamada via terminal corresponde à etapa final comum das vias de
+ativação do complemento, culminando na formação do complexo de ataque à membrana
+(C5b-C9), não sendo uma via de iniciação.
+Referências:
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia celular e molecular. 10.
+ed. Rio de Janeiro: GEN Guanabara Koogan, 2023. E-book. p. 344. ISBN 9788595158924.
+Afya. SOI I – Manual do Professor: Sistemas Orgânicos Integrados I . Versão 2026.1. Curso
+de Medicina. [S.l.]: Afya, 2026.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Ao analisar documentos históricos de uma cidade portuária brasileira no
+final do século XIX, observa-se que, durante surtos de febre e outras enfermidades, as
+autoridades sanitárias passaram a defender intervenções sobre o ambiente urbano, como
+drenagem de pântanos, ampliação da ventilação das moradias, controle de odores
+considerados nocivos e melhorias nas condições de higiene pública. Os registros apontam
+que a doença era compreendida como resultado de emanações provenientes da
+decomposição de matéria orgânica, as quais contaminariam o ar e afetariam
+coletivamente a população.
+Considerando o contexto descrito e as concepções históricas do processo saúde-doença,
+assinale a alternativa correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 11 de 58
+
+Alternativas:
+(alternativa A)
+Concepção ambientalista multicausal relaciona a doença à interação entre fatores
+biológicos e ambientais, com ênfase na suscetibilidade individual.
+(alternativa B)
+Concepção bacteriológica unicausal, que reconhece a existência de agentes específicos
+como causa necessária das doenças transmissíveis no meio ambiente.
+(alternativa C) (CORRETA)
+Concepção miasmática, que atribui a gênese das doenças a emanações insalubres do
+ambiente, orientando intervenções sanitárias sobre o meio físico.
+(alternativa D)
+Concepção ecológica da história natural da doença, que estrutura o adoecimento na
+tríade epidemiológica: agente-hospedeiro-ambiente.
+
+Resposta comentada:
+Resposta correta: Concepção miasmática, que atribui a gênese das doenças a emanações
+insalubres do ambiente, orientando intervenções sanitárias sobre o meio físico. (O
+enunciado descreve explicitamente a ideia de “emanações provenientes da
+decomposição de matéria orgânica” como causa das doenças, núcleo explicativo da
+teoria miasmática, predominante antes da consolidação da bacteriologia. A ênfase recai
+sobre a modificação do ambiente físico como principal estratégia de prevenção.)
+Concepção ambientalista multicausal – Incorreta (embora mencione ambiente, a
+concepção multicausal pressupõe interação entre fatores biológicos, ambientais e
+individuais. O enunciado não aborda suscetibilidade do hospedeiro nem interação causal
+complexa, mas causalidade centrada exclusivamente em emanações ambientais.)
+Concepção bacteriológica unicausal – Incorreta (A teoria unicausal fundamenta-se na
+identificação de um agente etiológico específico [pós-Pasteur e Koch]. O enunciado não
+menciona microrganismos, mas sim “emanações”, o que antecede a consolidação da
+microbiologia.)
+Concepção ecológica da história natural da doença – Incorreta (apesar de incluir o
+ambiente como elemento da tríade, essa concepção articula agente, hospedeiro e meio.
+O enunciado não contempla agente específico nem suscetibilidade individual, limitandose à causalidade ambiental difusa.)
+Referências:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. 8.ª ed.
+Rio de Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830000/pageid/0. Acesso
+em: 15 out. 2025.
+SOLHA, Raphaela Karla de T. Saúde coletiva para iniciantes. 2.ª ed. Rio de Janeiro: Érica,
+2014. E-book. p. 1 ISBN 9788536530574. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788536530574/. Cap. 1. Acesso
+em: 15 out. 2025.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Um recém-nascido (RN) pré-termo apresenta desconforto respiratório
+logo após o nascimento, com retrações intercostais e necessidade de suporte
+ventilatório. Com duas semanas de vida, também foi diagnosticado um quadro infeccioso.
+Exames indicam imaturidade pulmonar, com produção reduzida de surfactante pelas
+células do tipo II. Esse complexo lipoproteico possui importante participação na
+funcionalidade pulmonar.
+Com base no caso, avalie as funções do surfactante pulmonar no RN e assinale a
+alternativa correta.
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 12 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+O surfactante participa da estabilidade mecânica alveolar e da defesa inata pulmonar por
+meio de proteínas próprias que interagem com patógenos.
+(alternativa B)
+A presença de surfactante aumenta a tensão superficial alveolar, facilitando a expansão
+pulmonar e a fagocitose de microrganismos.
+(alternativa C)
+O surfactante atua na redução da tensão superficial alveolar; no entanto, não exerce
+papel na defesa imunológica pulmonar.
+(alternativa D)
+A principal função imunológica do surfactante é estimular a produção de anticorpos
+específicos pelos linfócitos B nos alvéolos.
+
+Resposta comentada:
+O surfactante atua na redução da tensão superficial alveolar, no entanto não exerce
+papel na defesa imunológica pulmonar. Incorreta: o surfactante também participa da
+imunidade inata pulmonar (por meio de proteínas próprias SP-A e SP-D).
+A principal função imunológica do surfactante é estimular a produção de anticorpos
+específicos pelos linfócitos B nos alvéolos. Incorreta: o surfactante não atua estimulando
+produção de anticorpos; isso pertence à imunidade adaptativa. Sua atuação está atrelada
+à imunidade inata por meio de proteínas que reconhecem e auxiliam na eliminação de
+patógenos.
+O surfactante participa da estabilidade mecânica alveolar e da defesa inata pulmonar por
+meio de proteínas próprias que interagem com patógenos. Correta: integra função
+mecânica (redução da tensão superficial/estabilidade alveolar) e função imunológica
+inata.
+A presença de surfactante aumenta a tensão superficial alveolar, facilitando a expansão
+pulmonar e a fagocitose de microrganismos. Incorreta: o surfactante reduz, não
+aumenta, a tensão superficial.
+Referência:
+MOORE, Keith M.; PERSAUDE, T. V. N. Embriologia Clínica. 11. ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2020. E-book, p. 167. ISBN 9788595157811. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595157811/. Acesso em: 25
+fev. 2026.
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(AFYA SANTA INÊS) Durante um atendimento em uma Unidade Básica de Saúde (UBS),
+um estudante de medicina realiza a ausculta cardíaca e o registro do eletrocardiograma
+(ECG) de um paciente adulto hígido em repouso. Curioso ao observar o exame, o
+paciente questiona o significado das ondas registradas no ECG. O estudante responde, de
+maneira simplificada, que “as linhas representam as batidas do coração”. O professor
+que acompanhava o atendimento reconhece a adequação da explicação para o paciente
+leigo, mas, durante a discussão dos casos, solicita que o estudante complemente sua
+resposta, explicando-a de forma fisiológica.
+Marque a alternativa que descreve melhor a resposta do aluno.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 13 de 58
+
+Alternativas:
+(alternativa A)
+A bulha B1 coincide com a onda T, representando o início da diástole ventricular; a bulha
+B2 ocorre logo após o complexo QRS, indicando o início da sístole com fechamento das
+valvas atrioventriculares.
+(alternativa B) (CORRETA)
+A bulha B1 ocorre após o QRS, indicando fechamento das valvas atrioventriculares no
+início da sístole; B2 ocorre após a onda T, indicando fechamento das valvas semilunares
+ao final da sístole.
+(alternativa C)
+A bulha B1 ocorre antes do complexo QRS, indicando o fechamento das valvas
+semilunares; a bulha B2 coincide com a onda P, representando o fechamento das valvas
+atrioventriculares ao final da diástole.
+(alternativa D)
+A bulha B1 ocorre após a onda P, refletindo a contração atrial e fechamento das valvas
+atrioventriculares; a B2 coincide com o complexo QRS, indicando o fechamento das
+valvas semilunares no início da sístole.
+
+Resposta comentada:
+Alternativa: A bulha B1 ocorre após o QRS, indicando fechamento das valvas
+atrioventriculares no início da sístole; B2 ocorre após a onda T, indicando fechamento das
+valvas semilunares ao final da sístole.
+Justificativa: Correta. O complexo QRS representa a despolarização ventricular, que
+desencadeia a contração e o fechamento das valvas mitral e tricúspide (B1). A onda T
+corresponde à repolarização ventricular, seguida do relaxamento e fechamento das
+valvas aórtica e pulmonar, originando B2.
+Alternativa: A bulha B1 ocorre antes do complexo QRS, indicando o fechamento das
+valvas semilunares; a bulha B2 coincide com a onda P, representando o fechamento das
+valvas atrioventriculares ao final da diástole.
+Justificativa: Incorreta. B1 não ocorre antes do QRS e está relacionada ao fechamento das
+valvas atrioventriculares, não das semilunares. A onda P representa despolarização atrial,
+sem relação com B2.
+Alternativa: A bulha B1 coincide com a onda T, representando o início da diástole
+ventricular; a bulha B2 ocorre logo após o complexo QRS, indicando o início da sístole
+com fechamento das valvas atrioventriculares.
+Justificativa: Incorreta. B1 não está associada à onda T nem ao início da diástole. B2
+também não ocorre após o QRS, mas após a onda T, ao final da sístole ventricular.
+Alternativa: A bulha B1 ocorre após a onda P, refletindo a contração atrial e fechamento
+das valvas atrioventriculares; a bulha B2 coincide com o complexo QRS, indicando o
+fechamento das valvas semilunares no início da sístole.
+Justificativa: Incorreta. B1 está relacionada à contração ventricular após o QRS, não à
+contração atrial. B2 ocorre após a onda T, não coincidindo com o complexo QRS.
+Referência:
+PORTO, Celmo Celeno. Semiologia Médica. 8. ed. Rio de Janeiro: Guanabara Koogan,
+2019.
+Feedback:
+-11ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 14 de 58
+
+Enunciado:
+(AFYA PORTO VELHO) Durante um acompanhamento de rotina de gestação, os exames
+de imagem mostram a evolução do desenvolvimento do embrião nas semanas iniciais.
+Observou-se nas imagens que o intestino primitivo cresce rapidamente, realizando alguns
+movimentos dentro da cavidade abdominal, permitindo que órgãos como estômago,
+fígado e pâncreas se organizem em suas posições definitivas.
+Com base nessa informação, avalie as alternativas e assinale a que descreve
+corretamente os eventos envolvidos na embriogênese do sistema digestivo.
+
+Alternativas:
+(alternativa A)
+A diferenciação do intestino primitivo ocorre em dois segmentos distintos: cranial e
+caudal, e se organizam de forma que um dos segmentos vai originar o trato
+gastrointestinal e o outro origina os órgãos anexos, como o fígado.
+(alternativa B)
+A rotação e fixação do intestino primitivo desempenham papel fundamental na formação
+do ângulo hepático, não provocando mudanças na posição de outros órgãos do trato
+digestivo, tais como os intestinos delgado e grosso.
+(alternativa C) (CORRETA)
+O broto pancreático ventral surge no ducto biliar, enquanto o broto pancreático dorsal
+surge na região cranial do duodeno, o qual, ao rotacionar à direita, permite o
+deslocamento e fusão desses brotos, originando o pâncreas.
+(alternativa D)
+O crescimento acelerado do intestino primitivo leva à sua diferenciação entre anterior,
+médio e posterior, e a região do intestino médio origina o estômago, enquanto a região
+do intestino posterior vai originar o duodeno e o jejuno.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 15 de 58
+
+Resposta comentada:
+Correta:
+O broto pancreático ventral surge no ducto biliar, enquanto o broto pancreático dorsal
+surge na região cranial do duodeno, o qual, ao rotacionar à direita, permite o
+deslocamento e fusão desses brotos, originando o pâncreas. Justificativa: O pâncreas
+desenvolve-se a partir de dois brotos endodérmicos, dorsal e ventral, que surgem da
+parte caudal do intestino anterior. O broto pancreático ventral desenvolve-se no ducto
+biliar próximo à entrada desse ducto no duodeno, enquanto o broto pancreático ventral
+surge no duodeno, mais especificamente em sua região cranial. À medida que o duodeno
+gira para a direita e assume o formato de C, o broto pancreático ventral é levado
+dorsalmente junto com o ducto biliar, posicionando-se atrás do broto pancreático dorsal
+para que ocorra a fusão de ambos.
+Incorretas:
+O crescimento acelerado do intestino primitivo leva à sua diferenciação entre anterior,
+médio e posterior, e a região do intestino médio origina o estômago, enquanto a região
+do intestino posterior vai originar o duodeno e o jejuno Justificativa: A rotação e fixação
+do intestino primitivo desempenham papel fundamental na formação do ângulo hepático,
+não provocando mudanças na posição de outros órgãos do trato digestivo, tais como os
+intestinos delgado e grosso.
+A diferenciação do intestino primitivo ocorre em dois segmentos distintos: cranial e
+caudal, que se organizam de forma que um dos segmentos vai originar o trato
+gastrointestinal e o outro origina os órgãos anexos, como o fígado. Justificativa: A
+afirmação falha em descrever o processo de diferenciação do intestino primitivo de forma
+precisa. Ou seja, a divisão do intestino primitivo não ocorre apenas em dois segmentos
+funcionais (um para o trato e outro para órgãos). Para fins descritivos e funcionais, o
+intestino primitivo é dividido em três partes: intestino anterior, médio e posterior. Tanto o
+revestimento do trato gastrointestinal quanto os órgãos anexos (fígado, pâncreas e
+aparelho biliar) originam-se dessas divisões, especificamente do intestino anterior.
+A rotação e fixação do intestino primitivo desempenham papel fundamental na formação
+do ângulo hepático, não provocando mudanças na posição de outros órgãos do trato
+digestivo, tais como os intestinos delgado e grosso. Justificativa: A afirmação de que a
+rotação não provoca mudanças na posição de outros órgãos está incorreta. A rotação e
+fixação do intestino primitivo são processos complexos que reorganizam quase todo o
+abdome. Por exemplo, a rotação de 270 graus da alça do intestino médio é o que define a
+posição final do intestino delgado na porção central e do intestino grosso em torno dele.
+Além disso, a rotação do estômago e do duodeno desloca o pâncreas e o duodeno para
+uma posição retroperitoneal.
+Referência:
+MOORE, Keith L.; PERSAUD, T. V. N.; TORCHIA, M. G. Embriologia Clínica. 10. ed. Rio de
+Janeiro: Elsevier, 2021.
+
+Feedback:
+-12ª QUESTÃO
+Enunciado:
+(AFYA JI-PARANÁ) Um paciente sofre uma lesão profunda na pele. Após o fechamento
+inicial da ferida, a região passa por semanas de remodelação tecidual. Em algumas
+áreas, observa-se recuperação mais próxima da estrutura original, com melhor
+preservação da função local; em outras, há aumento da rigidez e perda parcial da função.
+Considerando as funções da pele e o processo de reparo tecidual, analise os possíveis
+desfechos e a participação dos elementos do tecido conjuntivo.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 16 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+A cicatrização organizada ocorre com equilíbrio entre MMPs e TIMPs, remodelação
+progressiva da matriz e redução dos miofibroblastos; já a fibrose resulta de excesso de
+colágeno desorganizado, persistência miofibroblástica e baixa degradação da matriz.
+(alternativa B)
+A cicatrização organizada ocorre principalmente pela substituição direta dos tecidos por
+colágeno tipo III e reduzida atividade enzimática, enquanto a fibrose aparece pela
+deposição transitória de colágeno tipo I e pela regressão acelerada dos miofibroblastos.
+(alternativa C)
+A cicatrização organizada surge da deposição rápida de colágeno tipo I e redução intensa
+da atividade inflamatória, enquanto a fibrose resulta do acúmulo de proteoglicanos,
+manutenção de colágeno tipo III e hiperativação das metaloproteinases.
+(alternativa D)
+A cicatrização organizada depende da apoptose precoce de fibroblastos e predomínio de
+colágeno tipo II, enquanto a fibrose decorre de aumento de elastina, estímulo
+angiogênico contínuo e degradação aumentada de matriz extracelular.
+
+Resposta comentada:
+Resposta correta: A cicatrização organizada ocorre com equilíbrio entre MMPs e TIMPs,
+remodelação progressiva da matriz e redução dos miofibroblastos; já a fibrose resulta de
+excesso de colágeno desorganizado, persistência miofibroblástica e baixa degradação da
+matriz.
+Comentários para alternativas incorretas:
+Incorreta: A cicatrização organizada depende da apoptose precoce de fibroblastos e
+predomínio de colágeno tipo II, enquanto a fibrose decorre de aumento de elastina,
+estímulo angiogênico contínuo e degradação aumentada de matriz extracelular.
+Comentário: Colágeno tipo II não está envolvido no reparo cutâneo (é cartilaginoso).
+Apoptose precoce de fibroblastos prejudicaria o reparo, não o aperfeiçoaria. Fibrose não
+é causada por excesso de elastina ou hiperangiogênese.
+Incorreta: A cicatrização organizada surge da deposição rápida de colágeno tipo I e
+redução intensa da atividade inflamatória, enquanto a fibrose resulta do acúmulo de
+proteoglicanos, manutenção de colágeno tipo III e hiperativação das metaloproteinases.
+Comentário: Cicatrização organizada não ocorre por deposição “rápida” de colágeno tipo
+I. Fibrose não se caracteriza por “manutenção de colágeno tipo III”, mas sim por excesso
+de colágeno tipo I. Fibrose não envolve hiperativação de MMPs, mas sua redução.
+Incorreta: A cicatrização organizada ocorre principalmente pela substituição direta dos
+tecidos por colágeno tipo III e reduzida atividade enzimática, enquanto a fibrose aparece
+pela deposição transitória de colágeno tipo I e pela regressão acelerada dos
+miofibroblastos.
+Comentário: Cicatrização organizada não depende de colágeno tipo III sem substituição; é
+o tipo I que predomina ao final. Fibrose não envolve colágeno tipo I “transitório”, mas sim
+seu excesso crônico. Na fibrose, os miofibroblastos não regridem rapidamente — eles
+persistem.
+Referências:
+PAWLINA, Wojciech. Ross Histologia - Texto e Atlas. 8.ª ed. Rio de Janeiro: Grupo GEN,
+2021. E-book. ISBN 9788527737241. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737241/. Acesso em: 12
+out. 2025.
+JUNQUEIRA, L. C.; CARNEIRO, José. Biologia Celular e Molecular. 10.ª ed. Rio de Janeiro:
+Guanabara Koogan, 2023. E-book. ISBN 9788527739344. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527739344/. Acesso em: 12
+out. 2025.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 17 de 58
+
+Feedback:
+-13ª QUESTÃO
+Enunciado:
+(AFYA ITAPERUNA) Em uma situação do cotidiano, uma pessoa permanece longos
+períodos em pé e percebe inchaço progressivo nos membros inferiores ao final do dia. Ao
+discutir o caso em aula, o preceptor relembra que o acúmulo de líquido intersticial
+depende do equilíbrio das forças de Starling nos capilares e da capacidade de drenagem
+do sistema linfático, responsável por devolver a linfa à circulação venosa.
+Com base na fisiologia da formação da linfa e sua circulação, assinale a alternativa
+correta.
+Alternativas:
+(alternativa A)
+A progressão da linfa nos vasos linfáticos ocorre principalmente por gradiente contínuo
+de pressão gerado pelo átrio direito, semelhante à circulação venosa sistêmica.
+(alternativa B)
+A linfa é formada predominantemente por secreção ativa do endotélio linfático, sendo
+independente das pressões hidrostática e oncótica capilares.
+(alternativa C) (CORRETA)
+O aumento da pressão hidrostática capilar nos membros inferiores favorece a filtração de
+líquido para o interstício.
+(alternativa D)
+A obstrução linfática reduz a pressão oncótica intersticial, diminuindo a formação de
+edema.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 18 de 58
+
+Resposta comentada:
+- A linfa é formada predominantemente por secreção ativa do endotélio linfático, sendo
+independente das pressões hidrostática e oncótica capilares. Incorreta.
+A formação da linfa decorre principalmente do excesso de líquido filtrado nos capilares
+sanguíneos que não é reabsorvido na extremidade venosa. Esse processo depende das
+forças de Starling (pressão hidrostática e pressão oncótica plasmática). Não se trata de
+secreção ativa primária do endotélio linfático.
+- O aumento da pressão hidrostática capilar nos membros inferiores favorece a filtração
+de líquido para o interstício. Correta.
+Em ortostatismo prolongado, há aumento da pressão hidrostática capilar nos membros
+inferiores, favorecendo a filtração de líquido para o espaço intersticial. O excesso não
+reabsorvido é captado pelos capilares linfáticos, formando a linfa.
+A linfa percorre vasos linfáticos com válvulas unidirecionais, atravessa linfonodos e
+retorna à circulação venosa pelos grandes ductos linfáticos (principalmente o ducto
+torácico), desembocando nas veias subclávias. Esse mecanismo limita o edema
+fisiológico.
+- A progressão da linfa nos vasos linfáticos ocorre principalmente por gradiente contínuo
+de pressão gerado pelo átrio direito, semelhante à circulação venosa sistêmica. Incorreta.
+O sistema linfático não é sensível à bomba cardíaca. A propulsão da linfa ocorre por
+mecanismos como contração da musculatura esquelética, movimentos respiratórios,
+pulsações arteriais adjacentes e contrações rítmicas da musculatura lisa dos próprios
+vasos linfáticos.
+- A obstrução linfática reduz a pressão oncótica intersticial, diminuindo a formação de
+edema. Incorreta.
+A obstrução linfática dificulta a drenagem do líquido intersticial, levando ao acúmulo de
+proteínas no interstício, aumento da pressão oncótica intersticial e agravamento do
+edema (linfedema), não sua redução.
+Referência:
+HALL, John E. Guyton & Hall: tratado de fisiologia médica . 14. ed. Rio de Janeiro: Elsevier,
+2021.
+Feedback:
+-14ª QUESTÃO
+Enunciado:
+(AFYA BRAGANÇA) Durante atividade prática em uma Unidade Básica de Saúde (UBS),
+estudantes acompanham o atendimento de uma trabalhadora de 34 anos que sofreu
+pequena laceração superficial na mão ao manipular materiais perfurocortantes sem
+utilização adequada de equipamentos de proteção individual (EPI). Ao exame físico,
+observa-se sangramento discreto, contínuo e não pulsátil, facilmente controlado por
+compressão local. A paciente apresenta sinais vitais estáveis e ausência de sinais de
+comprometimento hemodinâmico.
+Considerando as características do sangramento, os aspectos anatômicos da
+vascularização periférica e os níveis de prevenção em saúde, assinale a alternativa
+correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 19 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+O padrão de sangramento sugere lesão de vasos capilares ou venosos superficiais, e a
+orientação sobre uso de EPI corresponde à prevenção primária.
+(alternativa B)
+O padrão de sangramento sugere lesão arterial superficial, e a orientação sobre uso de
+EPI corresponde à prevenção terciária.
+(alternativa C)
+O padrão de sangramento sugere lesão venosa profunda, e a orientação sobre uso de EPI
+corresponde à prevenção secundária.
+(alternativa D)
+O padrão de sangramento sugere lesão arterial profunda, e a orientação sobre uso de EPI
+corresponde à prevenção secundária.
+
+Resposta comentada:
+Alternativa " O padrão de sangramento sugere lesão arterial superficial, e a orientação
+sobre uso de EPI corresponde à prevenção terciária." : A alternativa está incorreta porque
+lesões arteriais geralmente produzem sangramento pulsátil, de maior intensidade e maior
+pressão, devido ao fluxo sanguíneo diretamente impulsionado pelo coração. No caso
+descrito, o sangramento é discreto, contínuo, não pulsátil e facilmente controlado,
+características compatíveis com lesão superficial de vasos capilares ou venosos. Além
+disso, a orientação sobre uso adequado de equipamentos de proteção individual (EPI)
+visa evitar novos acidentes e agravos, caracterizando medida de prevenção primária, e
+não terciária. A prevenção terciária está relacionada à reabilitação e redução de sequelas
+após doença ou agravo já estabelecido. Incorreta.
+Alternativa " O padrão de sangramento sugere lesão de vasos capilares ou venosos
+superficiais, e a orientação sobre uso de EPI corresponde à prevenção primária.": A
+alternativa está correta porque o padrão de sangramento descrito — discreto, contínuo,
+não pulsátil e facilmente controlado — é compatível com lesão de vasos capilares ou
+venosos superficiais. Lesões superficiais apresentam menor pressão sanguínea e menor
+risco de comprometimento hemodinâmico. Além disso, a orientação sobre uso adequado
+de EPI constitui medida de prevenção primária, uma vez que busca evitar a ocorrência de
+novos acidentes ocupacionais e reduzir riscos à saúde do trabalhador antes do
+aparecimento de novos agravos. Correta.
+Alternativa "O padrão de sangramento sugere lesão venosa profunda, e a orientação
+sobre uso de EPI corresponde à prevenção secundária.": A alternativa está incorreta
+porque lesões venosas profundas geralmente estão associadas a sangramentos mais
+importantes, podendo apresentar maior dificuldade de controle e maior repercussão
+clínica. O caso descreve uma laceração superficial com sangramento leve e estabilidade
+hemodinâmica, não compatível com acometimento venoso profundo. Além disso, a
+orientação sobre uso de EPI não corresponde à prevenção secundária. A prevenção
+secundária envolve diagnóstico precoce, rastreamento e identificação inicial de doenças
+ou agravos, enquanto o uso de EPI atua na prevenção primária. Incorreta.
+Alternativa "O padrão de sangramento sugere lesão arterial profunda, e a orientação
+sobre uso de EPI corresponde à prevenção secundária.": A alternativa está incorreta
+porque lesões arteriais profundas normalmente produzem sangramento pulsátil, intenso
+e potencialmente grave, frequentemente associado a instabilidade hemodinâmica. Essas
+características não estão presentes no caso clínico descrito. Além disso, a orientação para
+utilização de EPI constitui medida de prevenção primária, pois objetiva reduzir exposição
+ao risco ocupacional e prevenir acidentes antes que ocorram, e não prevenção
+secundária. Incorreta.
+Referências:
+COSTANZO, Linda S. Fisiologia. 7.ª ed. Rio de Janeiro: GEN Guanabara Koogan, 2024.
+BRASIL. Ministério da Saúde. Política Nacional de Promoção da Saúde. Brasília: MS, 2014.
+Feedback:
+-000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 20 de 58
+
+15ª QUESTÃO
+Enunciado:
+(AFYA ITAPERUNA) Durante atendimento ambulatorial em uma Unidade Básica de Saúde,
+um paciente adulto realiza consulta de rotina. Seus sinais vitais mostram: frequência
+cardíaca (FC) de 110 bpm, pressão arterial de 110/70 mmHg e ausência de sintomas. O
+médico utiliza a situação para discutir com os estudantes os conceitos de frequência
+cardíaca (FC), débito cardíaco (DC) e seus determinantes fisiológicos, incluindo volume
+sistólico (VS), retorno venoso e influência do sistema nervoso autônomo.
+Considerando os mecanismos fisiológicos envolvidos, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O débito cardíaco depende diretamente da frequência cardíaca; assim, qualquer aumento
+da FC leva necessariamente a aumento proporcional do DC.
+(alternativa B)
+O aumento da atividade parassimpática eleva simultaneamente a frequência cardíaca e o
+volume sistólico, aumentando o débito cardíaco.
+(alternativa C)
+Reduções do retorno venoso não alteram significativamente o débito cardíaco devido à
+autorregulação intrínseca do nó sinoatrial.
+(alternativa D) (CORRETA)
+O débito cardíaco é o produto da frequência cardíaca pelo volume sistólico, sendo este
+determinado principalmente por pré-carga, pós-carga e contratilidade miocárdica.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 21 de 58
+
+Resposta comentada:
+- O débito cardíaco depende diretamente da frequência cardíaca; assim, qualquer
+aumento da FC leva necessariamente a aumento proporcional do DC. Incorreta.
+O débito cardíaco (DC) é definido como DC = FC × VS. A elevação isolada da FC não
+garante aumento proporcional do DC, pois frequências muito elevadas reduzem o tempo
+de enchimento ventricular (diástole), diminuindo o volume sistólico e podendo manter ou
+até reduzir o DC.
+- O aumento da atividade parassimpática eleva simultaneamente a frequência cardíaca e
+o volume sistólico, aumentando o débito cardíaco. Incorreta.
+A atividade parassimpática (via nervo vago) reduz a frequência cardíaca por ação sobre o
+nó sinoatrial e o nó atrioventricular. Seu efeito sobre a contratilidade ventricular é
+limitado. Portanto, não eleva o DC; em geral, tende a reduzi-lo.
+- O débito cardíaco é o produto da frequência cardíaca pelo volume sistólico, sendo este
+determinado principalmente por pré-carga, pós-carga e contratilidade miocárdica.
+Correta.
+O débito cardíaco corresponde ao volume de sangue ejetado por minuto e é calculado
+como o produto da frequência cardíaca pelo volume sistólico. O volume sistólico é
+determinado por três fatores principais:
+Pré-carga (relacionada ao retorno venoso e ao mecanismo de Frank-Starling);
+Pós-carga (resistência contra a qual o ventrículo ejeta sangue);
+Contratilidade (inotropismo, influenciado principalmente pela atividade
+simpática).
+Assim, alterações no retorno venoso ou na atividade autonômica influenciam diretamente
+o débito cardíaco.
+- Reduções do retorno venoso não alteram significativamente o débito cardíaco devido à
+autorregulação intrínseca do nó sinoatrial. Incorreta.
+Reduções do retorno venoso diminuem a pré-carga, reduzindo o volume sistólico pelo
+mecanismo de Frank-Starling e, consequentemente, o débito cardíaco. O nó sinoatrial
+regula a frequência, mas não compensa isoladamente quedas importantes no volume
+sistólico.
+Referência:
+SILVERTHORN, Dee U. Fisiologia humana. 7. ed. Porto Alegre: ArtMed, 2017.
+Feedback:
+-16ª QUESTÃO
+Enunciado:
+(AFYA ABAETETUBA) Uma criança de 3 anos é levada à Unidade Básica de Saúde para
+acompanhamento de crescimento e desenvolvimento. A mãe refere baixa velocidade de
+crescimento e episódios frequentes de infecções. Durante a consulta, são realizadas
+medidas antropométricas, incluindo peso, estatura e IMC para idade, com registro nas
+curvas de crescimento infantil. Observa-se baixa estatura para idade e peso abaixo do
+esperado.
+Considerando a vigilância do crescimento infantil, a Atenção Primária à Saúde e o direito
+constitucional à saúde, assinale a alternativa correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 22 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+O acompanhamento antropométrico permite identificar agravos precocemente e integra
+o direito à saúde garantido constitucionalmente.
+(alternativa B)
+O uso de curvas de crescimento é restrito a ambientes hospitalares, não sendo
+necessário na atenção primária.
+(alternativa C)
+As medidas antropométricas têm valor apenas descritivo, não influenciando decisões
+clínicas ou políticas públicas.
+(alternativa D)
+A avaliação do crescimento é opcional na atenção básica, sendo indicada apenas em
+casos de doença evidente.
+
+Resposta comentada:
+A alternativa correta é a que indica: “O acompanhamento antropométrico permite
+identificar agravos precocemente e integra o direito à saúde garantido
+constitucionalmente”. As medidas antropométricas (peso, estatura, IMC e curvas de
+crescimento) são fundamentais para avaliação do estado nutricional e do
+desenvolvimento infantil, permitindo a identificação precoce de desnutrição, obesidade e
+outras condições. Além disso, sua aplicação na Atenção Primária está diretamente
+relacionada ao Artigo 196 da Constituição Federal de 1988, que estabelece a saúde como
+direito de todos e dever do Estado, sendo garantida por políticas que visem à redução de
+riscos e agravos.
+As demais alternativas estão incorretas:
+A alternativa que indica “As medidas antropométricas têm valor apenas descritivo” é
+incorreta. Essas medidas possuem grande impacto clínico e epidemiológico, orientando
+diagnóstico, acompanhamento e intervenções em saúde.
+A alternativa que indica “A avaliação do crescimento é opcional na atenção básica” é
+incorreta. O monitoramento do crescimento e desenvolvimento é uma das ações
+essenciais da Atenção Primária, sendo obrigatório no acompanhamento infantil.
+A alternativa que indica “O uso de curvas de crescimento é restrito a ambientes
+hospitalares” é incorreta. As curvas de crescimento são ferramentas fundamentais na
+Atenção Primária e devem ser utilizadas rotineiramente em consultas pediátricas.
+Referências:
+BASTOS, R. R. O Método Clínico . 1. ed. Juiz de Fora: Bartlebee, 2014.
+PORTO, C. C. Semiologia Médica. 8. ed. Rio de Janeiro: Guanabara Koogan, 2019.
+BRASIL. Constituição da República Federativa do Brasil de 1988. Art. 196.
+Brasil. Ministério da Saúde. Política Nacional de Atenção Integral à Saúde da Criança:
+orientações para implementação. Brasília: Ministério da Saúde, 2018.
+Feedback:
+-17ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Durante uma caminhada em ritmo acelerado, uma pessoa sobe uma
+ladeira extensa e, após alguns minutos, percebe aumento da frequência respiratória e
+dos batimentos cardíacos. Essas respostas ocorrem de forma automática e estão
+relacionadas à ação de receptores que monitoram alterações químicas no sangue.
+Considerando a atuação desses receptores, assinale a alternativa correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 23 de 58
+
+Alternativas:
+(alternativa A)
+Percebem estímulos locais, ativando controle direto da contração cardíaca independente
+da composição química do sangue.
+(alternativa B) (CORRETA)
+Detectam alterações nos níveis de O₂, CO₂ e pH sanguíneo, ativando reflexos que ajustam
+a ventilação e a atividade cardiovascular.
+(alternativa C)
+Identificam as alterações internas, ativando a liberação hormonal que promove a redução
+do volume sanguíneo de forma progressiva.
+(alternativa D)
+Respondem ao estiramento das paredes arteriais e promovem diminuição da frequência
+cardíaca para estabilizar a pressão arterial.
+
+Resposta comentada:
+Alternativa "Respondem ao estiramento das paredes arteriais e promovem diminuição da
+frequência cardíaca para estabilizar a pressão arterial." — Incorreta.
+A detecção do estiramento das paredes arteriais é função dos barorreceptores, e não dos
+quimiorreceptores. Além disso, durante o esforço físico ocorre aumento, e não redução,
+da frequência cardíaca.
+Alternativa "Detectam alterações nos níveis de O₂, CO₂ e pH sanguíneo, ativando reflexos
+que ajustam a ventilação e a atividade cardiovascular." — Correta.
+Os quimiorreceptores periféricos detectam variações nos níveis de oxigênio, dióxido de
+carbono e no pH do sangue arterial. Essas alterações ativam reflexos autonômicos que
+aumentam a ventilação e ajustam a atividade cardiovascular, contribuindo para a
+manutenção da pressão arterial e da homeostase.
+Alternativa "Identificam as alterações internas, ativando a liberação hormonal que
+promove a redução do volume sanguíneo de forma progressiva." — Incorreta.
+Os quimiorreceptores não promovem liberação hormonal nem regulam diretamente o
+volume sanguíneo; sua atuação ocorre por reflexos neurais rápidos que modulam a
+ventilação e a atividade cardiovascular.
+Alternativa "Percebem estímulos locais, ativando controle direto da contração cardíaca
+independente da composição química do sangue." — Incorreta.
+Os quimiorreceptores não controlam diretamente a contração cardíaca e sua ativação
+depende de alterações químicas no sangue, como variações de O₂, CO₂ e pH.
+Referência:
+GUYTON, A. C.; HALL, J. E. Tratado de fisiologia médica. 14. ed. Rio de Janeiro: Elsevier,
+2021.
+Feedback:
+-18ª QUESTÃO
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Um médico da Estratégia Saúde da Família constatou um
+aumento considerável de dengue na sua área adscrita. Para analisar a situação do
+agravo, ele faz uso do modelo de Determinantes Sociais em Saúde de Dahlgren e
+Whitehead, considerando a infecção como um fenômeno complexo e multicausal.
+Indique a alternativa que melhor representa a aplicação deste modelo ao contexto
+epidemiológico analisado pelo médico.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 24 de 58
+
+Alternativas:
+(alternativa A)
+A proliferação do Aedes aegypti está associada a hábitos individuais inadequados,
+cabendo às ações educativas nos domicílios a principal responsabilidade pelo controle da
+dengue.
+(alternativa B) (CORRETA)
+A epidemia de dengue resulta da interação entre condições climáticas, infraestrutura
+urbana inadequada e desigualdades sociais que favorecem a reprodução do vetor.
+(alternativa C)
+O avanço da dengue na área adscrita associa-se à circulação de novos sorotipos virais
+em populações suscetíveis, tornando a vacinação a estratégia prioritária de prevenção.
+(alternativa D)
+A ocorrência de casos de dengue no território tem como base os fatores biológicos dos
+indivíduos acometidos, como a imunidade e a predisposição genética à infecção pelo
+vírus.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 25 de 58
+
+Resposta comentada:
+Alternativa correta: "A epidemia de dengue resulta da interação entre condições
+climáticas, infraestrutura urbana inadequada e desigualdades sociais que favorecem a
+reprodução do vetor."
+Esta descreve corretamente a perspectiva multicausal e hierarquizada do modelo de
+Dahlgren e Whitehead, que organiza os determinantes em camadas que interagem entre
+si. Na ocorrência da dengue, fatores macroestruturais (clima, urbanização, políticas
+públicas) influenciam as condições de vida e trabalho (acesso a saneamento, coleta de
+lixo), que, por sua vez, moldam os comportamentos individuais e a exposição ao vetor.
+Essa visão está alinhada com a literatura de Saúde Coletiva, que aponta a dengue como
+um "subproduto da urbanização acelerada e da desigualdade social", exigindo ações
+intersetoriais para seu controle efetivo.
+Justificativas das alternativas incorretas:
+Alternativa "A ocorrência de casos de dengue no território tem como base os fatores
+biológicos dos indivíduos acometidos, como a imunidade e a predisposição genética à
+infecção pelo vírus.": Incorreta. Embora os fatores individuais (idade, sexo,
+suscetibilidade genética) constituam a camada mais proximal do modelo, eles não são a
+base explicativa principal da epidemia em escala populacional. A ocorrência da dengue é
+fortemente influenciada pelas condições ambientais e sociais que possibilitam a presença
+e a proliferação do vetor.
+Alternativa "A proliferação do Aedes aegypti está associada a hábitos individuais
+inadequados, cabendo às ações educativas nos domicílios a principal responsabilidade
+pelo controle da dengue.": Incorreta. Esta alternativa atribui a proliferação do vetor
+primordialmente a hábitos individuais e coloca nas ações educativas domiciliares a
+principal responsabilidade pelo controle da dengue. No modelo de Dahlgren e Whitehead,
+os estilos de vida e comportamentos individuais são influenciados pelas redes sociais e,
+sobretudo, pelas condições de vida e trabalho. Assim, desconsidera-se a necessidade de
+políticas públicas estruturantes (saneamento, abastecimento de água, coleta de lixo),
+que estão além da esfera de ação individual.
+Alternativa "O avanço da dengue na área adscrita associa-se à circulação de novos
+sorotipos virais em populações suscetíveis, tornando a vacinação a estratégia prioritária
+de prevenção.": Incorreta. A circulação de novos sorotipos é um fator epidemiológico
+relevante, mas representa uma dimensão biológica do problema. O modelo de Dahlgren
+e Whitehead propõe uma compreensão ampliada, na qual a disseminação viral é
+potencializada por determinantes sociais e ambientais. A vacinação, embora importante,
+não pode ser vista como estratégia prioritária isolada, pois o controle da doença requer
+ações contínuas sobre o ambiente e as condições de vida.
+Referências:
+BUSS P. M.; PELLEGRINI FILHO, A. A saúde e seus determinantes sociais. PHYSIS: Rev.
+Saúde Coletiva, Rio de Janeiro, 17(1):77-93, 2007.
+PAIM, Jairnilson S.; ALMEIDA-FILHO, Naomar de. Saúde Coletiva: Teoria e Prática . 2.ª ed.
+Rio de Janeiro: MedBook Editora, 2022. Cap. 23.
+MOREIRA, Taís C.; ARCARI, Janete M.; COUTINHO, Andreia O. R.; et al. Saúde coletiva .
+Porto Alegre: SAGAH, 2018. Páginas 63 a 73.
+ABRASCO. A dengue sob a ótica da Saúde Coletiva: uma doença endêmica num país
+desigual. Associação Brasileira de Saúde Coletiva , 2024.
+FERREIRA, L. C.; LISBOA, V. Populações periféricas são mais vulneráveis à
+dengue. Agência Brasil, 2024.
+Feedback:
+-19ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 26 de 58
+
+Enunciado:
+(AFYA MANACAPURU) Paciente de 35 anos apresenta lesão cutânea após trauma
+superﬁcial. Nos primeiros dias, a região evolui com rubor, calor, edema e dor. Após cerca
+de três semanas, a área mantém-se espessada, com discreta alteração da coloração e
+consistência aumentada, sem sinais exuberantes de exsudação.
+Considerando a evolução descrita e os mecanismos envolvidos na resposta inﬂamatória,
+assinale a alternativa correta.
+
+Alternativas:
+(alternativa A)
+A fase inicial caracteriza-se por vasoconstrição sustentada e predomínio de linfócitos,
+enquanto a fase prolongada envolve neutrófilos e exsudato rico em fibrina.
+(alternativa B)
+A resposta inicial depende exclusivamente da ativação de fibroblastos, e a fase
+prolongada é marcada apenas por redução do fluxo sanguíneo local.
+(alternativa C) (CORRETA)
+A inflamação aguda envolve vasodilatação, aumento da permeabilidade vascular e
+predomínio de neutrófilos; a inflamação crônica apresenta infiltrado mononuclear e
+remodelamento tecidual.
+(alternativa D)
+A inflamação crônica caracteriza-se por exsudação intensa, edema acentuado e
+predomínio de neutrófilos, mantendo os mesmos mecanismos da fase aguda.
+
+Resposta comentada:
+A fase inicial caracteriza-se por vasoconstrição sustentada e predomínio de linfócitos,
+enquanto a fase prolongada envolve neutrófilos e exsudato rico em fibrina. Incorreta. Na
+inflamação aguda predominam vasodilatação e aumento da permeabilidade vascular,
+com recrutamento de neutrófilos. Linfócitos e outras células mononucleares predominam
+na inflamação crônica. Além disso, a fase prolongada típica não é marcada por neutrófilos
+e exsudato fibrinoso como padrão principal.
+A inflamação aguda envolve vasodilatação, aumento da permeabilidade vascular e
+predomínio de neutrófilos; a inflamação crônica apresenta infiltrado mononuclear e
+remodelamento tecidual. Correta. A fase aguda se manifesta com rubor, calor, edema e
+dor por vasodilatação, extravasamento de plasma e mediadores inflamatórios, com
+predomínio de neutrófilos. A fase crônica caracteriza-se por infiltração persistente de
+macrófagos, linfócitos e plasmócitos, associada a destruição tecidual e tentativa de
+reparo com angiogênese e fibrose.
+A resposta inicial depende exclusivamente da ativação de fibroblastos, e a fase
+prolongada é marcada apenas por redução do fluxo sanguíneo local. Incorreta. A fase
+inicial depende principalmente de alterações vasculares e recrutamento leucocitário, não
+de fibroblastos de forma exclusiva. A inflamação crônica não se resume à redução do
+fluxo; envolve infiltrado mononuclear persistente e remodelamento com deposição de
+matriz extracelular.
+A inflamação crônica caracteriza-se por exsudação intensa, edema acentuado e
+predomínio de neutrófilos, mantendo os mesmos mecanismos da fase aguda. Incorreta. A
+inflamação crônica não mantém o padrão predominante de neutrófilos e exsudação
+intensa típicos da fase aguda; o que predomina é infiltrado mononuclear, com reparo
+tecidual, angiogênese e possível fibrose.
+Referência:
+FILHO, Geraldo B. Bogliolo - Patologia. 10. ed. Rio de Janeiro: Guanabara Koogan, 2021.
+E-book, p. 78. ISBN 9788527738378. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527738378/.
+Feedback:
+--
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 27 de 58
+
+20ª QUESTÃO
+Enunciado:
+(AFYA ARAGUAÍNA) Durante atendimento em uma Unidade Básica de Saúde, um paciente
+de 45 anos, sem diagnóstico prévio de hipertensão, chega à consulta relatando atraso e
+refere ter caminhado rapidamente por cerca de 10 minutos para não perder o horário. Ao
+ser encaminhado para a triagem, o estudante realiza imediatamente a aferição da
+pressão arterial (PA). O valor obtido foi de 150/95 mmHg. Ao revisar a técnica, o
+preceptor orienta que o paciente permaneça sentado, com dorso apoiado, pés no chão e
+em repouso por 5 minutos, realizando nova aferição, que resulta em 130/85 mmHg.
+Considerando os princípios da fisiologia cardiovascular e as recomendações técnicas para
+aferição da pressão arterial, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A elevação inicial da PA está relacionada à predominância do sistema parassimpático, que
+aumenta a frequência cardíaca e reduz a resistência vascular periférica.
+(alternativa B) (CORRETA)
+A ausência de repouso prévio levou à superestimação da PA, devido à ativação simpática
+transitória, com aumento do débito cardíaco e da resistência vascular periférica.
+(alternativa C)
+A redução da PA após o repouso ocorre principalmente pela diminuição aguda da volemia
+circulante, decorrente da redistribuição de líquidos.
+(alternativa D)
+A diferença entre as medidas é irrelevante clinicamente, pois a PA apresenta variações
+espontâneas que independem da técnica utilizada.
+
+Resposta comentada:
+“A elevação inicial da PA está relacionada à predominância do sistema parassimpático,
+que aumenta a frequência cardíaca e reduz a resistência vascular periférica.” – Incorreta.
+O sistema parassimpático não é responsável por elevar a pressão arterial nesse contexto.
+Pelo contrário, sua ativação tende a reduzir a frequência cardíaca. A elevação observada
+após esforço físico está associada predominantemente à ativação do sistema nervoso
+simpático, que aumenta frequência cardíaca, contratilidade e promove vasoconstrição
+periférica.
+“A ausência de repouso prévio levou à superestimação da PA, devido à ativação
+simpática transitória, com aumento do débito cardíaco e da resistência vascular
+periférica.” – Correta.
+A não realização do repouso prévio mantém o organismo sob efeito do esforço recente,
+com maior atividade simpática. Isso resulta em aumento do débito cardíaco e da
+resistência vascular periférica, elevando temporariamente a pressão arterial e
+comprometendo a acurácia da medida. A repetição após repouso permite uma avaliação
+mais fiel da PA basal.
+“A redução da PA após o repouso ocorre principalmente pela diminuição aguda da
+volemia circulante, decorrente da redistribuição de líquidos.” – Incorreta.
+Não há redução significativa da volemia em curto intervalo de tempo que justifique a
+queda da pressão arterial. A principal explicação fisiológica está na redução da atividade
+simpática e no restabelecimento do tônus vascular basal, e não em alterações
+volumétricas agudas.
+“A diferença entre as medidas é irrelevante clinicamente, pois a PA apresenta variações
+espontâneas que independem da técnica utilizada.” – Incorreta.
+Embora a pressão arterial apresente variabilidade fisiológica, a técnica de aferição tem
+impacto direto na sua acurácia. A ausência de repouso, posicionamento inadequado e
+outros erros técnicos podem gerar valores falsamente elevados ou reduzidos, sendo
+clinicamente relevantes e potencialmente levando a erros diagnósticos.
+Referência:
+SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Diretrizes Brasileiras de Hipertensão Arterial –
+2020. Arquivos Brasileiros de Cardiologia, v. 116, n. 3, p. 516-658, 2021.
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 28 de 58
+
+Feedback:
+-21ª QUESTÃO
+Enunciado:
+(AFYA MANACAPURU) Durante uma aula prática no laboratório de fisiologia respiratória,
+os estudantes analisam gráficos que relacionam a pressão aplicada aos pulmões com a
+variação do volume pulmonar. Em uma das situações experimentais, pequenas variações
+de pressão resultam em grandes variações de volume, enquanto em outra condição são
+necessárias grandes variações de pressão para produzir pequenas alterações
+volumétricas. Considerando os conceitos básicos da mecânica respiratória, identifique a
+alternativa que descreve corretamente a relação entre complacência, elastância e
+volumes pulmonares.
+Alternativas:
+(alternativa A)
+Pequenas variações de pressão com grandes variações de volume indicam aumento
+exclusivo do volume residual, enquanto grandes variações de pressão com pequenas
+variações de volume indicam aumento isolado da capacidade vital pulmonar.
+(alternativa B)
+Pequenas variações de pressão com grandes variações de volume indicam redução
+simultânea da complacência e da elastância, enquanto grandes variações de pressão
+com pequenas variações de volume indicam aumento proporcional de ambas.
+(alternativa C) (CORRETA)
+Pequenas variações de pressão com grandes variações de volume indicam alta
+complacência e baixa elastância, enquanto grandes variações de pressão com pequenas
+variações de volume indicam baixa complacência e alta elastância pulmonar.
+(alternativa D)
+Pequenas variações de pressão com grandes variações de volume indicam alta elastância
+e baixa complacência, enquanto grandes variações de pressão com pequenas variações
+de volume indicam alta complacência pulmonar.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 29 de 58
+
+Resposta comentada:
+Correta. Pequenas variações de pressão com grandes variações de volume indicam alta
+complacência e baixa elastância, enquanto grandes variações de pressão com pequenas
+variações de volume indicam baixa complacência e alta elastância pulmonar. A
+complacência pulmonar é definida como a relação entre variação de volume e variação
+de pressão (C = ΔV/ΔP). Assim, grandes variações de volume com pequenas variações de
+pressão indicam alta complacência. A elastância corresponde à tendência de retração
+elástica do pulmão e é inversamente proporcional à complacência. A alternativa integra
+corretamente os conceitos físicos e fisiológicos fundamentais.
+Incorreta. Pequenas variações de pressão com grandes variações de volume indicam alta
+elastância e baixa complacência, enquanto grandes variações de pressão com pequenas
+variações de volume indicam alta complacência pulmonar. A alternativa inverte os
+conceitos fundamentais. Grandes variações de volume com pequena variação de pressão
+indicam alta complacência, não alta elastância. Além disso, grandes variações de pressão
+com pequenas mudanças de volume indicam baixa complacência, e não alta.
+Incorreta. Pequenas variações de pressão com grandes variações de volume indicam
+redução simultânea da complacência e da elastância, enquanto grandes variações de
+pressão com pequenas variações de volume indicam aumento proporcional de ambas.
+Complacência e elastância são propriedades inversamente proporcionais. Quando a
+complacência aumenta, a elastância diminui, e vice-versa. Não há aumento ou redução
+simultânea proporcional das duas grandezas.
+Incorreta. Pequenas variações de pressão com grandes variações de volume indicam
+aumento exclusivo do volume residual, enquanto grandes variações de pressão com
+pequenas variações de volume indicam aumento isolado da capacidade vital pulmonar.
+Volume residual e capacidade vital são volumes e capacidades pulmonares definidos por
+medidas espirométricas, não sendo diretamente determinados pela inclinação da curva
+pressão-volume. A alternativa associa incorretamente conceitos de mecânica pulmonar
+com volumes estáticos.
+Referências:
+HALL, John E. Guyton & Hall, Tratado de Fisiologia Médica. Rio de Janeiro: Elsevier, 2011.
+TORTORA, Gerard J.; NIELSEN, Mark T. Princípios de anatomia humana. 12. ed. Rio de
+Janeiro: Guanabara Koogan, 2013. 1 recurso online. ISBN 978-85-277-2301-5. Disponível
+em: https://integrada.minhabiblioteca.com.br/books/978-85-277-2301-5. Acesso em: 27
+abr. 2022.
+Feedback:
+-22ª QUESTÃO
+Enunciado:
+(AFYA SALVADOR) Um homem de 20 anos, previamente hígido, apresenta febre, coriza,
+odinofagia e mal-estar após contato domiciliar com pessoa com síndrome gripal. Nos
+primeiros três dias de sintomas, observa-se quadro progressivo, com melhora clínica ao
+longo de cerca de duas semanas, sem uso de antibióticos. Quatro meses depois, após
+nova exposição ao mesmo vírus respiratório, volta a apresentar rinorreia, odinofagia leve
+e indisposição, porém com duração menor e resolução em poucos dias.
+Com base na evolução dos dois episódios, assinale a alternativa correta que relaciona a
+resposta imune predominante em cada momento e o mecanismo que explica a diferença
+clínica entre eles.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 30 de 58
+
+Alternativas:
+(alternativa A)
+Predomínio inicial da imunidade humoral de memória, com anticorpos específicos
+precoces; na reexposição, resposta baseada em barreiras e fagocitose, com menor
+participação de linfócitos efetores.
+(alternativa B)
+Predomínio inicial da imunidade inata específica ao vírus, com formação direta de
+memória; na reexposição, resposta adaptativa primária mais lenta, dependente de nova
+expansão clonal ampla.
+(alternativa C)
+Predomínio inicial da imunidade adaptativa secundária, com expansão clonal e memória
+específica; na reexposição, resposta inata predominante, sem influência relevante da
+exposição anterior ao vírus.
+(alternativa D) (CORRETA)
+Predomínio inicial da imunidade inata, com reconhecimento de padrões virais e liberação
+de mediadores; na reexposição, resposta adaptativa secundária mais rápida por memória
+linfocitária prévia.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 31 de 58
+
+Resposta comentada:
+Resposta correta:
+Predomínio inicial da imunidade inata, com reconhecimento de padrões virais e liberação
+de mediadores; na reexposição, resposta adaptativa secundária mais rápida por memória
+linfocitária prévia.
+Explicação da resposta correta:
+No primeiro contato com o vírus, a contenção inicial depende principalmente da
+imunidade inata, que atua por mecanismos pré-existentes, como reconhecimento de
+padrões moleculares de patógenos e liberação de citocinas e outros mediadores. Já na
+reexposição ao mesmo agente, linfócitos de memória formados na resposta adaptativa
+primária permitem resposta mais rápida e mais eficaz, o que justifica menor duração e
+menor intensidade do segundo quadro clínico.
+Por que as alternativas estão incorretas:
+Predomínio inicial da imunidade adaptativa secundária, com expansão clonal e memória
+específica; na reexposição, resposta inata predominante, sem influência relevante da
+exposição anterior ao vírus.
+No primeiro episódio não há resposta adaptativa secundária, pois ainda não ocorreu
+sensibilização prévia ao mesmo antígeno. Além disso, a imunidade inata não adquire
+especificidade progressiva típica da memória imunológica.
+Predomínio inicial da imunidade humoral de memória, com anticorpos específicos
+precoces; na reexposição, resposta baseada em barreiras e fagocitose, com menor
+participação de linfócitos efetores.
+A memória humoral não está presente no primeiro contato com o vírus. Na reexposição, a
+melhora mais rápida é explicada justamente pela participação relevante de linfócitos de
+memória e não pela predominância isolada de barreiras físicas e fagocitose.
+Predomínio inicial da imunidade inata específica ao vírus, com formação direta de
+memória; na reexposição, resposta adaptativa primária mais lenta, dependente de nova
+expansão clonal ampla.
+A imunidade inata não é antígeno-específica nos moldes da imunidade adaptativa e não é
+a principal responsável pela memória imunológica clássica cobrada nesse contexto. Na
+reexposição ao mesmo vírus, a resposta adaptativa tende a ser secundária, portanto
+mais rápida, e não primária e mais lenta.
+Referência:
+ABBAS, A. K.; LICHTMAN, A. H.; PILLAI, S. Imunologia Celular e Molecular. Tradução:
+Anderson de Sá Nunes. 10.ª ed. Rio de Janeiro: GEN Guanabara Koogan, 2023. E-book.
+ISBN 9788595158924. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788595158924/. Acesso em: 23 fev.
+2026.
+Feedback:
+-23ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) Homem, 28 anos, comparece à Unidade Básica de Saúde para avaliação
+de palpitações ocasionais. Está assintomático no momento do exame. Durante a ausculta
+sistematizada, o médico identifica sopro sistólico mais audível no 2º espaço intercostal
+direito, junto ao esterno. Para melhor caracterização, procede à ausculta comparativa dos
+demais focos cardíacos.
+Considerando a técnica adequada de ausculta cardíaca e a correlação anatômica dos
+focos, qual alternativa descreve corretamente o foco onde o sopro foi melhor auscultado
+e sua respectiva válvula?
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 32 de 58
+
+Alternativas:
+(alternativa A)
+Foco tricúspide; valva tricúspide no 2º espaço intercostal direito junto ao esterno.
+(alternativa B)
+Foco mitral; valva mitral no 2º espaço intercostal direito junto ao esterno.
+(alternativa C) (CORRETA)
+Foco aórtico; valva aórtica no 2º espaço intercostal direito junto ao esterno.
+(alternativa D)
+Foco pulmonar; valva pulmonar no 2º espaço intercostal direito junto ao esterno.
+
+Resposta comentada:
+Justificativas:
+Foco aórtico; valva aórtica no 2º espaço intercostal direito junto ao esterno. Certa
+O 2º espaço intercostal direito junto ao esterno corresponde ao foco aórtico, local clássico
+de melhor ausculta da valva aórtica.
+Foco pulmonar; valva pulmonar no 2º espaço intercostal direito junto ao esterno. Errada
+O foco pulmonar localiza-se no 2º espaço intercostal esquerdo.
+Foco tricúspide; valva tricúspide no 2º espaço intercostal direito junto ao esterno. Errada
+O foco tricúspide situa-se no bordo esternal inferior esquerdo.
+Foco mitral; valva mitral no 2º espaço intercostal direito junto ao esterno. Errada
+O foco mitral localiza-se no 5º espaço intercostal esquerdo na linha hemiclavicular.
+Referência:
+PORTO, Celmo Celeno. Semiologia Médica. 8. ed. Rio de Janeiro: Guanabara Koogan,
+2019.
+Feedback:
+-24ª QUESTÃO
+Enunciado:
+(AFYA UNIGRANRIO DUQUE DE CAXIAS) Dona Maria, 52 anos, comparece à consulta de
+rotina com o médico de família e comunidade em uma unidade de Atenção Primária à
+Saúde. Ela não apresenta queixas ou sintomas no momento. Durante a anamnese, o
+médico identifica que a paciente é sedentária e possui histórico familiar de câncer de
+mama.
+Como parte do plano de cuidados, o médico solicita uma mamografia de rastreamento,
+conforme protocolo recomendado para a faixa etária, e orienta a paciente sobre a
+importância da prática regular de atividades físicas e de uma alimentação equilibrada,
+visando reduzir fatores de risco metabólicos e prevenir o surgimento de doenças.
+Considerando o modelo explicativo da História Natural das Doenças de Leavell e Clark, as
+ações realizadas pelo médico correspondem, respectivamente, aos seguintes níveis de
+prevenção e períodos do processo saúde-doença:
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 33 de 58
+
+Alternativas:
+(alternativa A)
+Prevenção primária (período pré-patogênico) e prevenção secundária (período
+patogênico).
+(alternativa B) (CORRETA)
+Prevenção secundária (período patogênico) e prevenção primária (período prépatogênico).
+(alternativa C)
+Prevenção secundária (período pré-patogênico) e prevenção primária (período
+patogênico).
+(alternativa D)
+Prevenção terciária (período patogênico) e prevenção secundária (período patogênico).
+
+Resposta comentada:
+A resposta correta é: prevenção secundária (período patogênico) e prevenção primária
+(período pré-patogênico).
+De acordo com o modelo da História Natural das Doenças, proposto por Leavell e Clark, o
+processo saúde-doença é compreendido em dois momentos principais: o período prépatogênico e o período patogênico, os quais se relacionam aos diferentes níveis de
+prevenção em saúde.
+O período pré-patogênico corresponde à fase anterior ao surgimento da doença. Nesse
+estágio, ainda não há instalação do processo patológico no organismo, sendo priorizadas
+ações voltadas à promoção da saúde e à proteção específica, características da
+prevenção primária. No caso apresentado, a orientação médica para a prática regular de
+atividades físicas e para a adoção de uma alimentação equilibrada tem como finalidade
+reduzir fatores de risco e evitar o aparecimento de doenças no futuro. Dessa forma, essa
+intervenção caracteriza uma ação de prevenção primária no período pré-patogênico.
+Por sua vez, o período patogênico corresponde ao momento em que a doença pode já
+estar em desenvolvimento, mesmo que o indivíduo ainda não apresente sintomas. Nessa
+fase, são aplicadas estratégias voltadas ao diagnóstico precoce e ao tratamento
+oportuno, características da prevenção secundária. A mamografia de rastreamento
+solicitada para uma paciente assintomática, conforme o protocolo recomendado para a
+faixa etária, tem como objetivo identificar precocemente possíveis alterações
+relacionadas ao câncer de mama. Assim, essa medida configura uma ação de prevenção
+secundária no período patogênico.
+Portanto, no caso apresentado, a solicitação da mamografia de rastreamento
+corresponde a uma ação de prevenção secundária no período patogênico, enquanto a
+orientação sobre atividade física e alimentação saudável caracteriza uma intervenção de
+prevenção primária no período pré-patogênico, conforme o modelo explicativo da História
+Natural das Doenças.
+Referências:
+GUSSO, Gustavo; LOPES, José M. C.; DIAS, Lêda C. Tratado de Medicina de Família e
+Comunidade - 2 volumes: princípios, formação e prática. 2.ª ed. Porto Alegre: ArtMed,
+2019. E-book. p.i. ISBN 9788582715369. Cap. 31. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso em: 15
+out. 2025.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. 8.ª ed.
+Rio de Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830000/. Acesso em: 15
+out. 2025.
+Feedback:
+-25ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 34 de 58
+
+Enunciado:
+(AFYA ARAGUAÍNA) Uma criança de 6 anos é levada à UBS para avaliação por “mudança
+na cor da pele” após brincar no pátio em dia frio.
+Ao exame de ectoscopia: está ativa, corada, sem sinais de desconforto respiratório;
+apresenta extremidades frias com coloração levemente arroxeada em mãos e pés, tempo
+de enchimento capilar (TEC) de 2 segundos, mucosa oral úmida e rosada. Ausência de
+tonalidade amarelada em pele e escleras. Tronco quente, sem lesões cutâneas. Pulsos +
+fortes, presentes e palpáveis simetricamente.
+Com base na avaliação de cor e temperatura da pele e mucosas, qual interpretação é a
+mais adequada?
+Alternativas:
+(alternativa A)
+Trata-se de um achado patológico; a criança apresenta cianose central com risco
+imediato, pois coloração arroxeada em extremidades já indica hipóxia grave, apesar do
+TEC de 2 segundos considerado normal e do tronco aquecido.
+(alternativa B)
+Trata-se de um achado patológico, com icterícia provável, pois tempo de enchimento
+capilar limítrofe e extremidades frias com mudança de cor sugerem hiperbilirrubinemia,
+mesmo na ausência de tonalidade amarelada de pele e mucosas.
+(alternativa C)
+Trata-se de achado fisiológico relacionado à exposição ao frio, porém com indícios de
+comprometimento perfusional sistêmico, já que o TEC encontra-se no limite superior da
+normalidade, o que sugeriria redução inicial do fluxo periférico.
+(alternativa D) (CORRETA)
+Trata-se de achado fisiológico compatível com vasoconstrição ao frio, sem sinais atuais
+de hipoperfusão sistêmica, evidenciado pelo TEC normal, tronco aquecido e pulsos
+presentes, fortes, simétricos e palpáveis.
+
+Resposta comentada:
+A alternativa correta é: “Trata-se de achado ﬁsiológico compatível com vasoconstrição ao
+frio, sem sinais atuais de hipoperfusão sistêmica, evidenciado pelo TEC normal, tronco
+aquecido e pulsos presentes, fortes, simétricos e palpáveis.” Tal interpretação é coerente
+com os dados clínicos apresentados: criança ativa, em bom estado geral, sem
+desconforto respiratório, mucosa oral úmida e rosada, ausência de palidez e de coloração
+amarelada em pele e escleras, tronco aquecido e pulsos periféricos amplos e simétricos.
+O tempo de enchimento capilar (TEC) de 2 segundos encontra-se dentro do limite
+considerado normal na faixa etária pediátrica. Segundo diretrizes de suporte avançado
+de vida em pediatria, o TEC até 2 segundos é compatível com perfusão adequada,
+devendo sempre ser interpretado em conjunto com outros sinais clínicos (American Heart
+Association, 2020). A exposição ao frio desencadeia vasoconstrição periférica mediada
+pelo sistema nervoso simpático, reduzindo o ﬂuxo sanguíneo cutâneo acral e podendo
+produzir coloração arroxeada transitória em mãos e pés, fenômeno descrito como cianose
+periférica ou acrocianose ﬁsiológica (Brasil, 2017; Sociedade Brasileira de Pediatria,
+2018). A preservação da coloração das mucosas e do tronco afasta hipóxia central e
+sustenta a natureza benigna do achado.
+A alternativa “Trata-se de um achado patológico, a criança apresenta cianose central
+com risco imediato, pois coloração arroxeada em extremidades já indica hipóxia grave,
+apesar do TEC de 2 segundos considerado normal e do tronco aquecido.” está incorreta
+porque cianose central caracteriza-se por coloração azulada de lábios, língua e mucosas,
+reﬂetindo dessaturação arterial signiﬁcativa. No caso descrito, as mucosas estão rosadas
+e não há sinais de desconforto respiratório ou comprometimento sistêmico. A presença
+isolada de extremidades arroxeadas, especialmente após exposição ao frio, não deﬁne
+hipóxia grave. As diretrizes de avaliação pediátrica reforçam que a diferenciação entre
+cianose central e periférica depende da avaliação das mucosas e do contexto clínico
+global (American Heart Association, 2020; Sociedade Brasileira de Pediatria, 2018).
+A alternativa “Trata-se de um achado patológico, com icterícia provável, pois tempo de
+enchimento capilar limítrofe e extremidades frias com mudança de cor sugerem
+hiperbilirrubinemia, mesmo na ausência de tonalidade amarelada de pele e mucosas.”
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 35 de 58
+
+também está incorreta, pois hiperbilirrubinemia manifesta-se clinicamente por coloração
+amarelada da pele e, de forma mais sensível, das escleras. Não há relação ﬁsiopatológica
+entre extremidades frias com coloração arroxeada e aumento de bilirrubina sérica. Além
+disso, o enunciado explicita ausência de tonalidade amarelada em pele e escleras, o que
+afasta a hipótese clínica. Diretrizes do Ministério da Saúde descrevem a icterícia como
+coloração amarelada progressiva da pele e mucosas, não como alteração acral arroxeada
+(Brasil, 2014).
+A alternativa “Trata-se de achado ﬁsiológico relacionado à exposição ao frio, porém com
+indícios de comprometimento perfusional sistêmico, já que o TEC encontra-se no limite
+superior da normalidade, o que sugeriria redução inicial do ﬂuxo periférico.” está
+incorreta porque interpreta de forma inadequada um parâmetro considerado normal. O
+TEC de 2 segundos é aceito como normal em crianças e, isoladamente, não caracteriza
+hipoperfusão. O diagnóstico de comprometimento perfusional sistêmico ou choque
+requer avaliação integrada de múltiplos sinais, como alteração do nível de consciência,
+taquicardia desproporcional, pulsos ﬁliformes, hipotensão (tardia em pediatria), oligúria e
+piora progressiva do TEC (American Heart Association, 2020; Sociedade Brasileira de
+Pediatria, 2018). No cenário descrito, a criança encontra-se ativa, com pulsos fortes e
+tronco aquecido, o que afasta hipoperfusão sistêmica.
+Dessa forma, a interpretação correta fundamenta-se na integração semiológica adequada
+dos achados, distinguindo cianose periférica ﬁsiológica induzida pelo frio de condições
+patológicas como hipóxia central, choque ou hiperbilirrubinemia, em consonância com
+diretrizes pediátricas nacionais e internacionais.
+Referências:
+AMERICAN HEART ASSOCIATION. Pediatric Advanced Life Support (PALS) Provider Manual.
+Dallas: American Heart Association, 2020. Disponível em: https://cpr.heart.org.
+BRASIL. Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os
+proﬁssionais de saúde. Brasília: Ministério da Saúde, 2014. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/atencao_saude_recem_nascido_guia_profissio
+nais.pdf.
+BRASIL. Ministério da Saúde. Acolhimento à demanda espontânea: avaliação e
+classiﬁcação de risco. Brasília: Ministério da Saúde, 2017. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/acolhimento_demanda_espontanea.pdf.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Departamento Cientíﬁco de Terapia Intensiva.
+Reconhecimento e abordagem do choque na criança. Rio de Janeiro: SBP, 2018.
+Disponível
+em:
+https://www.sbp.com.br/fileadmin/user_upload/Consenso_Choque_Pediatrico.pdf.
+Feedback:
+A resolução da questão envolve a capacidade de diferenciar características de pele
+normal, especialmente em situações fisiológicas como a exposição ao frio, de alterações
+cutâneas que indicam patologia. Pressupõe reconhecimento de que extremidades frias e
+discretamente arroxeadas podem decorrer de vasoconstrição periférica transitória,
+mantendo-se preservados sinais de boa perfusão sistêmica, como mucosas rosadas,
+tronco aquecido, tempo de enchimento capilar dentro da normalidade e pulsos periféricos
+amplos e simétricos. Ao mesmo tempo, requer discernimento para identificar sinais que
+caracterizam pele patológica, como cianose central com acometimento de lábios e
+língua, palidez associada a hipoperfusão, coloração amarelada compatível com distúrbios
+bilirrubínicos ou alterações difusas acompanhadas de comprometimento do estado geral.
+Envolve, portanto, análise integrada da cor, temperatura, umidade, distribuição das
+alterações e correlação com o contexto clínico, distinguindo fenômenos fisiológicos
+adaptativos de manifestações cutâneas que sinalizam hipóxia, choque ou alterações
+metabólicas.
+26ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 36 de 58
+
+Enunciado:
+Durante uma aula prática de fisiologia cardiovascular, um grupo de estudantes analisa
+um experimento em que um voluntário passa rapidamente da posição deitada para a
+posição ortostática. Nos primeiros segundos após a mudança postural, observa-se
+redução transitória da pressão arterial, acompanhada de leve tontura. Em seguida,
+ocorre aumento da frequência cardíaca e da resistência vascular periférica, promovendo
+estabilização da pressão arterial e melhora dos sintomas. Durante a discussão, os alunos
+relacionam essas respostas aos mecanismos neurais responsáveis pela regulação rápida
+da pressão arterial.
+Com base nos mecanismos fisiológicos envolvidos nessa resposta compensatória,
+assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A redução transitória da pressão arterial aumenta os impulsos aferentes dos
+barorreceptores, promovendo diminuição da atividade simpática e vasodilatação
+periférica.
+
+(alternativa B)
+A diminuição momentânea da pressão arterial ativa mecanismos hormonais renais
+imediatos, aumentando a resistência vascular e estabilizando a pressão arterial.
+(alternativa C) (CORRETA)
+A diminuição da pressão arterial reduz os impulsos aferentes dos barorreceptores,
+favorecendo aumento da atividade simpática e vasoconstrição periférica.
+
+(alternativa D)
+A queda transitória da pressão arterial estimula os barorreceptores arteriais, promovendo
+aumento da atividade parassimpática e redução da frequência cardíaca.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 37 de 58
+
+Resposta comentada:
+Alternativa: [A redução transitória da pressão arterial aumenta os impulsos aferentes dos
+barorreceptores, promovendo diminuição da atividade simpática e vasodilatação
+periférica]. Incorreta. Os barorreceptores são mecanorreceptores sensíveis ao
+estiramento da parede arterial. Quando ocorre queda da pressão arterial, há redução do
+estiramento vascular e diminuição da frequência de impulsos aferentes enviados ao
+sistema nervoso central. Dessa forma, não ocorre diminuição da atividade simpática nem
+vasodilatação periférica.
+Alternativa [A diminuição da pressão arterial reduz os impulsos aferentes dos
+barorreceptores, favorecendo aumento da atividade simpática e vasoconstrição
+periférica]. Correta. A redução transitória da pressão arterial diminui o estiramento das
+paredes arteriais, reduzindo a frequência de disparos dos barorreceptores localizados
+principalmente no seio carotídeo e no arco aórtico. Essa resposta promove aumento da
+atividade simpática, com vasoconstrição periférica e aumento da frequência cardíaca,
+contribuindo para a restauração da pressão arterial.
+Alternativa [A queda transitória da pressão arterial estimula os barorreceptores arteriais,
+promovendo aumento da atividade parassimpática e redução da frequência cardíaca].
+Incorreta. A queda da pressão arterial não estimula os barorreceptores; ao contrário,
+reduz sua ativação devido à menor distensão da parede arterial. Consequentemente,
+ocorre redução da atividade parassimpática e aumento da atividade simpática,
+favorecendo elevação da frequência cardíaca.
+Alternativa [A diminuição momentânea da pressão arterial ativa mecanismos hormonais
+renais imediatos, aumentando a resistência vascular e estabilizando a pressão arterial].
+Incorreta. Mecanismos hormonais renais, como o sistema renina-angiotensinaaldosterona, participam da regulação da pressão arterial principalmente em médio e
+longo prazo. No contexto descrito, a compensação rápida da hipotensão postural ocorre
+predominantemente por mecanismos neurais reflexos mediados pelos barorreceptores.
+Referências:
+HALL, John E.; HALL, Michael E. Guyton & Hall - Tratado de Fisiologia Médica . 14. ed. Rio
+de Janeiro: GEN Guanabara Koogan, 2021.
+KOEPPEN, Bruce M.; STANTON, Bruce A. Berne e Levy Fisiologia. 8. ed. Rio de Janeiro:
+GEN Guanabara Koogan, 2025.
+SILVERTHORN, Dee U. Fisiologia humana. 7. ed. Porto Alegre: ArtMed.
+Feedback:
+-27ª QUESTÃO
+Enunciado:
+(AFYA VITÓRIA DA CONQUISTA) Durante estágio em uma Unidade Básica de Saúde (UBS),
+um estudante de medicina acompanha a consulta de um paciente de 42 anos com queixa
+de desconforto abdominal e sensação de peso no lado esquerdo do abdome. Durante o
+exame físico supervisionado, o discente observa discreta elevação do hipocôndrio
+esquerdo à inspeção, identifica macicez aumentada à percussão nessa região e percebe
+estrutura palpável abaixo do rebordo costal esquerdo durante inspiração profunda.
+Considerando a interpretação semiológica do exame do baço, qual alternativa descreve
+corretamente os achados observados pelo estudante?
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 38 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+Os achados sugerem aumento do baço, associado à alteração da inspeção abdominal,
+ampliação da macicez à percussão e palpação de estrutura compatível com
+esplenomegalia.
+(alternativa B)
+Os achados sugerem exame abdominal dentro dos padrões esperados, considerando que
+a palpação do baço pode ocorrer em indivíduos saudáveis durante inspiração profunda.
+(alternativa C)
+Os achados indicam alteração restrita à inspeção abdominal, sem relação direta entre a
+macicez identificada à percussão e a estrutura palpada durante o exame.
+(alternativa D)
+Os achados correspondem à alteração inespecífica da parede abdominal, não relacionada
+à avaliação do baço, já que a palpação depende exclusivamente da posição do paciente.
+
+Resposta comentada:
+A associação entre abaulamento discreto no hipocôndrio esquerdo à inspeção, aumento
+da área de macicez à percussão e palpação de estrutura abaixo do rebordo costal
+esquerdo durante inspiração profunda sugere aumento do baço (esplenomegalia). A
+interpretação correta do exame abdominal depende da integração das três etapas
+semiológicas: inspeção, percussão e palpação.
+Análise das demais alternativas:
+Alternativa incorreta: Os achados sugerem exame abdominal dentro dos padrões
+esperados, considerando que a palpação do baço pode ocorrer em indivíduos saudáveis
+durante inspiração profunda.
+Justificativa: Em adultos saudáveis, o baço normalmente não é palpável. Sua palpação
+sugere aumento volumétrico, salvo raras exceções em indivíduos muito magros.
+Alternativa incorreta: Os achados indicam alteração restrita à inspeção abdominal, sem
+relação direta entre a macicez identificada à percussão e a estrutura palpada durante o
+exame.
+Justificativa: Há relação direta entre os achados dos diferentes métodos semiológicos. A
+macicez aumentada e a estrutura palpável são coerentes com aumento do baço.
+Alternativa incorreta: Os achados correspondem a alteração inespecífica da parede
+abdominal, não relacionada à avaliação do baço, já que a palpação depende
+exclusivamente da posição do paciente.
+Justificativa: A palpação esplênica depende da técnica e da respiração do paciente, mas
+os achados descritos são compatíveis com aumento de órgão sólido intra-abdominal, e
+não alteração isolada da parede abdominal.
+Referências:
+PORTO, Celmo Celeno; PORTO, Arnaldo Lemos. Semiologia Médica. 8. ed. Rio de Janeiro:
+Guanabara Koogan, 2019.
+BICKLEY, Lynn S. Guia de exame físico e história clínica. 13. ed. Rio de Janeiro:
+Guanabara Koogan, 2021.
+BRASIL. Ministério da Saúde. Ministério da Saúde. Protocolos da Atenção Básica:
+acolhimento à demanda espontânea. Brasília: Ministério da Saúde, 2013.
+Feedback:
+-28ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 39 de 58
+
+Enunciado:
+(AFYA PALMAS) Durante atividade prática em uma Unidade Básica de Saúde, um
+estudante de medicina acompanha o exame físico de quatro crianças atendidas em
+consulta de demanda espontânea. O preceptor solicita que o estudante identifique qual
+delas apresenta padrão respiratório compatível com normalidade para a faixa etária,
+considerando frequência respiratória, uso da musculatura acessória e sinais clínicos de
+desconforto respiratório.
+Após avaliação clínica, foram observados os seguintes achados:
+
+Alternativas:
+(alternativa A) (CORRETA)
+pré-escolar de 4 anos, frequência respiratória de 26 irpm, expansibilidade torácica
+simétrica, ausência de retrações e respiração silenciosa em repouso.
+(alternativa B)
+escolar de 7 anos, frequência respiratória de 34 irpm, utilização intermitente de
+musculatura acessória cervical e gemência expiratória leve.
+(alternativa C)
+lactente de 8 meses, frequência respiratória de 58 irpm, presença de batimento de asa
+nasal, tiragem subcostal discreta e irritabilidade durante o exame físico.
+(alternativa D)
+adolescente de 12 anos, frequência respiratória de 30 irpm, respiração superficial,
+pausas respiratórias breves e esforço inspiratório perceptível em repouso.
+
+Resposta comentada:
+pré-escolar de 4 anos, frequência respiratória de 26 irpm, expansibilidade torácica
+simétrica, ausência de retrações e respiração silenciosa em repouso. Correta.
+A criança apresenta padrão respiratório compatível com normalidade para a idade,
+incluindo frequência respiratória dentro da faixa esperada, ausência de uso de
+musculatura acessória, respiração silenciosa e expansibilidade torácica preservada.
+lactente de 8 meses, frequência respiratória de 58 irpm, presença de batimento de asa
+nasal, tiragem subcostal discreta e irritabilidade durante o exame físico. Incorreta.
+O lactente apresenta taquipneia e sinais de aumento do trabalho respiratório, como
+batimento de asa nasal e tiragem subcostal, achados sugestivos de desconforto
+respiratório.
+escolar de 7 anos, frequência respiratória de 34 irpm, utilização intermitente de
+musculatura acessória cervical e gemência expiratória leve. Incorreta.
+A presença de taquipneia, uso de musculatura acessória e gemência expiratória indica
+esforço respiratório aumentado, incompatível com padrão respiratório normal.
+adolescente de 12 anos, frequência respiratória de 30 irpm, respiração superficial,
+pausas respiratórias breves e esforço inspiratório perceptível em repouso. Incorreta.
+Respiração superficial, pausas respiratórias e esforço inspiratório em repouso não
+correspondem a padrão respiratório fisiológico em adolescentes.
+Referência:
+PORTO, Celmo Celeno; PORTO, Arnaldo Lemos. Semiologia médica . 8. ed. Rio de Janeiro:
+Guanabara Koogan, 2019.
+Feedback:
+-29ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 40 de 58
+
+Enunciado:
+(AFYA ITACOATIARA) Durante uma consulta ambulatorial, um paciente procura
+atendimento apresentando febre, mal-estar e dor no corpo há três dias. O médico solicita
+um hemograma, que revela aumento do número de leucócitos. Aproveitando a situação,
+ele discute com os estudantes as diferentes células do sangue, sua origem na medula
+óssea e sua função na resposta às infecções bacterianas e parasitárias.
+Com base na estrutura, função das células sanguíneas e no processo de hematopoiese,
+assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Os eritrócitos são células nucleadas responsáveis pela defesa contra microrganismos,
+atuando principalmente na fagocitose de bactérias circulantes.
+(alternativa B) (CORRETA)
+Os neutrófilos são leucócitos granulócitos produzidos na medula óssea, atuando
+principalmente na fagocitose e sendo mais abundantes em infecções bacterianas.
+(alternativa C)
+Os linfócitos são fragmentos celulares anucleados que participam da coagulação
+sanguínea e aumentam principalmente em processos alérgicos.
+(alternativa D)
+Os eosinófilos são células responsáveis pelo transporte de oxigênio e aumentam
+principalmente em infecções bacterianas agudas e processos hemorrágicos.
+
+Resposta comentada:
+Os eritrócitos são células nucleadas responsáveis pela defesa contra microrganismos,
+atuando principalmente na fagocitose de bactérias circulantes. Incorreta. Eritrócitos
+(hemácias) são células anucleadas responsáveis pelo transporte de oxigênio e gás
+carbônico, não atuando na defesa imunológica.
+Os neutrófilos são leucócitos granulócitos produzidos na medula óssea, atuando
+principalmente na fagocitose e sendo mais abundantes em infecções bacterianas.
+Correta. Neutrófilos são leucócitos granulócitos produzidos na medula óssea por meio da
+hematopoiese. São as primeiras células a atuar em infecções bacterianas, realizando
+fagocitose.
+Os eosinófilos são células responsáveis pelo transporte de oxigênio e aumentam
+principalmente em infecções bacterianas agudas e processos hemorrágicos. Incorreta.
+Eosinófilos participam principalmente da defesa contra parasitas e em reações alérgicas,
+não sendo responsáveis pelo transporte de oxigênio.
+Os linfócitos são fragmentos celulares anucleados que participam da coagulação
+sanguínea e aumentam principalmente em processos alérgicos. Incorreta. Linfócitos são
+células nucleadas responsáveis pela imunidade específica (B e T), não sendo fragmentos
+celulares nem atuando diretamente na coagulação.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. 16. ed. Rio
+de Janeiro: Guanabara Koogan, 2023. E-book. p. ISBN 9788527739368. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527739368/.
+Feedback:
+-30ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 41 de 58
+
+Enunciado:
+(AFYA MANACAPURU) Considere a situação de saúde de uma comunidade localizada em
+uma zona ribeirinha no município de Manacapuru, no estado do Amazonas, caracterizada
+por ausência crônica de saneamento básico, consumo de água não tratada, insegurança
+alimentar e acesso irregular aos serviços de saúde. Os dados de vigilância em saúde local
+indicam altas taxas de parasitoses intestinais, associadas a quadros recorrentes de
+anemia, desnutrição e alterações hematológicas persistentes em diferentes faixas
+etárias. Durante ação de saúde no território, uma equipe da Estratégia Saúde da Família
+observa que grande parte dos indivíduos apresenta eosinofilia em hemogramas recentes.
+Considerando o modelo de Determinantes Sociais da Saúde de Dahlgren e Whitehead, os
+princípios da Promoção da Saúde e as respostas fisiológicas do sistema hemolinfopoético
+frente às parasitoses, assinale a alternativa que melhor integra os determinantes sociais
+envolvidos, o mecanismo de adoecimento coletivo e a resposta biológica predominante.
+Alternativas:
+(alternativa A)
+As dificuldades socioeconômicas e hábitos de higiene influenciam a ocorrência de
+parasitoses, sendo a resposta predominante caracterizada pelo aumento de monócitos,
+responsáveis pela fagocitose eficiente de parasitas intestinais.
+(alternativa B)
+A limitação de acesso à água potável e a serviços de saúde contribui para a persistência
+de infecções na comunidade, resultando em aumento de linfócitos, que atuam
+diretamente na eliminação de parasitas intestinais por meio de resposta citotóxica.
+(alternativa C)
+As condições precárias de moradia e saneamento favorecem a exposição a agentes
+infecciosos, levando a uma resposta inflamatória predominante com aumento de
+neutrófilos, células amplamente envolvidas na defesa do organismo contra diferentes
+tipos de infecção, inclusive parasitárias.
+(alternativa D) (CORRETA)
+A ausência de saneamento básico e a exposição contínua a ambientes contaminados
+favorecem a infecção por helmintos, desencadeando resposta imunológica específica
+com aumento de eosinófilos, células associadas à defesa contra parasitas multicelulares.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 42 de 58
+
+Resposta comentada:
+Incorreta. "As condições precárias de moradia e saneamento favorecem a exposição a
+agentes infecciosos, levando a uma resposta inﬂamatória predominante com aumento de
+neutróﬁlos, células amplamente envolvidas na defesa do organismo contra diferentes
+tipos de infecção, inclusive parasitárias". Justiﬁcativa: Relaciona corretamente condições
+sociais à exposição, mas erra ao indicar neutróﬁlos como principais células na resposta
+contra helmintos, sendo mais associados a infecções bacterianas.
+Incorreta. "A limitação de acesso à água potável e a serviços de saúde contribui para a
+persistência de infecções na comunidade, resultando em aumento de linfócitos, que
+atuam diretamente na eliminação de parasitas intestinais por meio de resposta
+citotóxica". Justiﬁcativa: A alternativa reconhece determinantes sociais importantes,
+como acesso limitado à água e serviços de saúde. Contudo, erra ao atribuir aos linfócitos
+ação citotóxica direta predominante contra parasitas intestinais. A resposta imune nesses
+casos é majoritariamente do tipo Th2, não citotóxica clássica.
+Correta. "A ausência de saneamento básico e a exposição contínua a ambientes
+contaminados favorecem a infecção por helmintos, desencadeando resposta imunológica
+especíﬁca com aumento de eosinóﬁlos, células associadas à defesa contra parasitas
+multicelulares". Justiﬁcativa: A alternativa integra adequadamente o contexto social
+(ausência de saneamento e exposição ambiental) com a resposta biológica especíﬁca,
+representada pelo aumento de eosinófilos em infecções por helmintos.
+Incorreta. "As diﬁculdades socioeconômicas e hábitos de higiene inﬂuenciam a ocorrência
+de parasitoses, sendo a resposta predominante caracterizada pelo aumento de
+monócitos, responsáveis pela fagocitose eﬁciente de parasitas intestinais". Justiﬁcativa: A
+alternativa inclui aspectos sociais, mas atribui aos monócitos papel principal na defesa
+contra parasitas, o que não corresponde à resposta imunológica predominante nesse
+contexto.
+
+Referências:
+BUSS P. M.; PELLEGRINI FILHO, A. A saúde e seus determinantes sociais. PHYSIS: Rev.
+Saúde Coletiva, Rio de Janeiro, 17(1):77-93, 2007. Disponível em:
+https://www.scielo.br/j/physis/a/ms NmfGf74RqZsbpKYXxNKhm/?for
+mat=pdf&amp;lang=pt. Acesso em: 15 fev. 2026.
+PAIM, Jairnilson S.; ALMEIDA-FILHO, Naomar de. Saúde Coletiva: Teoria e Prática. 2.ª ed.
+Rio de Janeiro: MedBook Editora, 2022. E-book. ISBN9786557830925. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830925/. Cap. 23. Acesso
+em: 15 fev. 2026.
+Feedback:
+-31ª QUESTÃO
+Enunciado:
+(AFYA SALVADOR) Uma mulher de 49 anos procura uma Unidade Básica de Saúde (UBS)
+para consulta de rotina e relata cansaço ao fim do dia, sem outros sintomas associados.
+Durante o atendimento, um estudante de medicina é orientado a aferir sua pressão
+arterial. Antes da medida, ele pergunta à paciente se ingeriu café ou bebida alcoólica, se
+fumou na última hora e se está com a bexiga cheia, orientando-a conforme necessário.
+Em seguida, solicita que permaneça sentada em ambiente calmo por alguns minutos,
+mantendo as pernas descruzadas e os pés apoiados no chão. Posiciona o braço na altura
+do coração, escolhe o manguito de acordo com a circunferência braquial e o posiciona
+cerca de 2 a 3 cm acima da fossa cubital. Por fim, realiza a medida com deflação lenta e
+registra o valor obtido no prontuário para discussão com o preceptor.
+Com base no caso, assinale a alternativa que analisa corretamente se a técnica de
+aferição da pressão arterial foi realizada de modo adequado e sua relação com princípios
+do SUS.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 43 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+A técnica foi realizada de modo adequado e expressa a integralidade da assistência, pois
+produz informação clínica confiável que qualifica a avaliação do usuário no contexto do
+cuidado.
+(alternativa B)
+A técnica foi realizada de modo inadequado e não expressa a universalidade, pois a
+aferição da pressão arterial depende de confirmação dos valores em serviços de maior
+complexidade.
+(alternativa C)
+A técnica foi realizada de modo inadequado e não expressa a equidade, porque a escolha
+do manguito conforme a circunferência braquial torna a avaliação excessivamente
+individualizada.
+(alternativa D)
+A técnica foi realizada de modo adequado e expressa a descentralização políticoadministrativa, porque a medida da pressão arterial transfere para a paciente a
+responsabilidade principal pelo diagnóstico.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 44 de 58
+
+Resposta comentada:
+Resposta correta: A técnica foi realizada de modo adequado e expressa a integralidade
+da assistência, pois produz informação clínica confiável que qualifica a avaliação do
+usuário no contexto do cuidado.
+Justificativa da resposta correta: O texto-base descreve etapas compatíveis com a
+técnica adequada de aferição da pressão arterial: repouso prévio, posição sentada com
+pernas descruzadas e pés apoiados, braço na altura do coração, escolha do manguito
+segundo a circunferência braquial, colocação adequada do manguito e deflação lenta. No
+plano conceitual, a obtenção de uma medida confiável contribui para uma avaliação
+clínica mais qualificada e, por isso, relaciona-se à integralidade da assistência, entendida
+como articulação de ações e informações necessárias ao cuidado.
+Porque as outras alternativas estão incorretas:
+A técnica foi realizada de modo inadequado e não expressa a universalidade, pois a
+aferição da pressão arterial depende de confirmação dos valores em serviços de maior
+complexidade.
+Está incorreta porque a técnica descrita no enunciado está adequada. Além disso, a
+aferição da pressão arterial compõe a avaliação clínica na atenção primária e não
+depende de realização em serviço de maior complexidade para ter utilidade no cuidado
+inicial.
+A técnica foi realizada de modo adequado e expressa a descentralização políticoadministrativa, porque a medida da pressão arterial transfere para a paciente a
+responsabilidade principal pelo diagnóstico.
+Está incorreta porque, embora a técnica esteja adequada, a justificativa associa
+indevidamente o procedimento à descentralização político-administrativa. Esse princípio
+se refere à organização da gestão do SUS entre as esferas de governo, e não à
+transferência da responsabilidade diagnóstica para a paciente.
+A técnica foi realizada de modo inadequado e não expressa a equidade, porque a escolha
+do manguito conforme a circunferência braquial torna a avaliação excessivamente
+individualizada.
+Está incorreta porque a técnica descrita está adequada, e a escolha do manguito
+conforme a circunferência braquial é parte da padronização necessária para obter medida
+confiável. Considerar características do paciente para aplicar corretamente um
+procedimento não descaracteriza o cuidado em saúde.
+Referências:
+BRASIL. Lei n.º 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a
+promoção, proteção e recuperação da saúde, a organização e o funcionamento dos
+serviços correspondentes e dá outras providências. Diário Oficial da União: seção 1,
+Brasília, DF, 20 set. 1990.
+PORTO, Celmo C.; PORTO, Arnaldo L. Semiologia Médica. 9. ed. Rio de Janeiro: Guanabara
+Koogan, 2025. E-book. p. 407. ISBN 9788527740692. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527740692/. Acesso em: 20
+abr. 2026.
+Feedback:
+-32ª QUESTÃO
+Enunciado:
+(AFYA JABOATÃO) Um homem de 28 anos procura atendimento após apresentar prurido
+intenso, eritema difuso e edema labial poucos minutos após ingerir determinado
+alimento. Refere ainda sensação leve de aperto na garganta, com melhora após uso de
+medicação sintomática. Alguns dias depois, relata que, após aplicar uma substância
+tópica na pele, desenvolveu, várias horas mais tarde, área localizada de vermelhidão e
+endurecimento no local de contato. Durante a consulta, o médico discute com os
+estudantes as diferenças entre reações imunológicas de instalação imediata e aquelas
+que se manifestam de forma tardia. Com base nas manifestações clínicas e no intervalo
+de tempo descrito acima, assinale a alternativa que melhor identifica os tipos de reações
+de hipersensibilidade envolvidos em cada situação.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 45 de 58
+
+Alternativas:
+(alternativa A)
+A primeira situação corresponde à hipersensibilidade do tipo IV, enquanto a segunda
+envolve formação de imunocomplexos.
+(alternativa B)
+A primeira situação caracteriza reação do tipo III, enquanto a segunda envolve
+mecanismo mediado por anticorpos citotóxicos.
+(alternativa C) (CORRETA)
+A primeira situação corresponde à hipersensibilidade do tipo I, enquanto a segunda
+caracteriza reação do tipo IV.
+(alternativa D)
+A primeira situação representa reação do tipo II, enquanto a segunda corresponde à
+hipersensibilidade do tipo I.
+
+Resposta comentada:
+A assertiva que identifica a reação imediata após ingestão alimentar como
+hipersensibilidade do tipo I e a reação tardia localizada como tipo IV corresponde à
+classificação clássica das reações imunológicas. A primeira é mediada por IgE e ativação
+de mastócitos, enquanto a segunda envolve resposta celular mediada por linfócitos T.
+A assertiva que classifica a reação imediata como tipo II não corresponde ao mecanismo
+típico das reações alérgicas alimentares.
+A assertiva que relaciona a primeira reação à formação de imunocomplexos não condiz
+com a fisiopatologia descrita no caso clínico.
+A assertiva que associa a reação imediata ao tipo IV não corresponde à temporalidade e
+aos mecanismos envolvidos na situação apresentada.
+Referências:
+ABBAS, A. K.; LICHTMAN, A. H.; PILLAI, S. Imunologia celular e molecular. 10. ed. Rio de
+Janeiro: Elsevier, 2022.
+KUMAR, V.; ABBAS, A. K.; ASTER, J. C. Robbins & Cotran: bases patológicas das doenças .
+10. ed. Rio de Janeiro: Elsevier, 2021.
+Feedback:
+-33ª QUESTÃO
+Enunciado:
+(AFYA ITAPERUNA) Em uma situação do cotidiano, um adulto sofre pequeno corte
+superficial ao preparar alimentos em sua casa. Inicialmente, observa discreto
+sangramento que cessa rapidamente; minutos depois, forma-se uma crosta sobre a
+ferida.
+Considerando a sequência temporal dos eventos da hemostasia e correlacionando com
+possíveis alterações clínicas, como aquelas observadas em doenças exantemáticas
+associadas a plaquetopenia, assinale a alternativa correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 46 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+O primeiro evento é a vasoconstrição local, seguida pela formação do tampão plaquetário
+e, posteriormente, pela estabilização com fibrina por meio da cascata de coagulação.
+(alternativa B)
+A ativação plaquetária depende primariamente da trombina, sendo a adesão ao colágeno
+subendotelial um evento tardio da hemostasia secundária.
+(alternativa C)
+A formação da crosta ocorre principalmente pela agregação plaquetária, sendo a fibrina
+dispensável na estabilização do coágulo.
+(alternativa D)
+A hemostasia inicia-se com a ativação da cascata de coagulação (via extrínseca), seguida
+pela formação do tampão plaquetário e, por fim, ocorre vasoconstrição reflexa.
+
+Resposta comentada:
+- A hemostasia inicia-se com a ativação da cascata de coagulação (via extrínseca),
+seguida pela formação do tampão plaquetário e, por fim, ocorre vasoconstrição reflexa.
+Incorreta.
+A sequência está invertida. O primeiro evento da hemostasia é a vasoconstrição reflexa
+mediada por mecanismos neurogênicos e endoteliais (ex.: endotelina). A ativação da
+cascata de coagulação ocorre posteriormente, consolidando o coágulo.
+- O primeiro evento é a vasoconstrição local, seguida pela formação do tampão
+plaquetário e, posteriormente, pela estabilização com fibrina por meio da cascata de
+coagulação. Correta.
+A hemostasia ocorre de forma ordenada:
+Vasoconstrição imediata – reduz o fluxo sanguíneo local.
+Hemostasia primária – adesão (via fator de von Willebrand), ativação e agregação
+plaquetária, formando o tampão plaquetário inicial.
+Hemostasia secundária – ativação da cascata de coagulação (vias extrínseca e
+intrínseca), culminando na geração de trombina e formação de fibrina, que estabiliza o
+tampão.
+Formação da crosta – resultado da retração do coágulo e desidratação superficial.
+Clinicamente, doenças exantemáticas como dengue podem cursar com plaquetopenia,
+comprometendo a hemostasia primária e favorecendo sangramentos cutâneos
+(petéquias).
+- A formação da crosta ocorre principalmente pela agregação plaquetária, sendo a fibrina
+dispensável na estabilização do coágulo. Incorreta.
+A agregação plaquetária, isoladamente, forma um tampão instável. A fibrina, formada a
+partir do fibrinogênio sob ação da trombina, é essencial para estabilizar o coágulo e
+permitir adequada cicatrização.
+- A ativação plaquetária depende primariamente da trombina, sendo a adesão ao
+colágeno subendotelial um evento tardio da hemostasia secundária. Incorreta.
+A adesão plaquetária ao colágeno subendotelial ocorre precocemente na hemostasia
+primária, mediada principalmente pelo fator de von Willebrand. A trombina participa mais
+intensamente da hemostasia secundária, potencializando a agregação e convertendo
+fibrinogênio em fibrina.
+Referência:
+SILVERTHORN, Dee U. Fisiologia humana. 7. ed. Porto Alegre: ArtMed, 2017.
+Feedback:
+-34ª QUESTÃO
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 47 de 58
+
+Enunciado:
+(AFYA ABAETETUBA) Homem, 25 anos, pardo, estudante universitário, apresenta dor
+torácica e dificuldade respiratória após um trauma no tórax, consequência de um
+acidente automobilístico. Durante a respiração, observa-se limitação da expansão
+torácica e alteração no padrão ventilatório. Exames de imagem evidenciam
+comprometimento das estruturas da parede torácica e alteração da relação entre pulmão
+e cavidade torácica.
+Assinale a alternativa que indica a estrutura anatômica mais provavelmente
+comprometida nesse caso.
+Alternativas:
+(alternativa A)
+Músculos intercostais internos.
+(alternativa B)
+Brônquios principais.
+(alternativa C)
+Pleura visceral.
+(alternativa D) (CORRETA)
+Pleura parietal.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 48 de 58
+
+Resposta comentada:
+Gabarito: Pleura parietal.
+A alternativa correta é Pleura parietal, pois a pleura parietal é a camada externa da
+pleura que reveste a cavidade torácica e está intimamente relacionada à parede torácica,
+e a dor pleurítica durante a ventilação é tipicamente decorrente do comprometimento da
+pleura parietal, que possui inervação somática, sendo altamente sensível à dor. Dessa
+forma, comprometimento da pleura parietal pode causar dor torácica, limitação da
+expansão torácica e alteração no padrão ventilatório.
+As demais alternativas estão incorretas porque:
+Pleura visceral: a pleura visceral é a camada interna da pleura que reveste o pulmão e é
+pouco sensível à dor (inervação autonômica), o que torna menos provável ser a principal
+origem da dor pleurítica no trauma. Um comprometimento desta estrutura geralmente
+causa dor, pneumotórax ou hemotórax, mas não necessariamente causa limitação da
+expansão torácica e alteração no padrão ventilatório de forma direta.
+Músculos intercostais internos: Os músculos intercostais internos são responsáveis pela
+expiração, mas a limitação da expansão torácica sugere um comprometimento mais
+relacionado à inspiração e à expansão da cavidade torácica.
+Brônquios principais: Os brônquios principais são parte da árvore traqueobrônquica e
+estão localizados na face mediastinal dos pulmões, segmentação extrapulmonar.
+Comprometimento dos brônquios pode causar dificuldade respiratória, limitação da
+expansão torácica e alteração no padrão ventilatório; entretanto, não está relacionado a
+comprometimento da parede torácica e da pleura.
+Referências:
+GRAAFF, Kent M. Van de. Anatomia Humana. 6. ed. Barueri: Manole, 2003. E-book, p. 612.
+ISBN 9788520452677. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788520452677/. Acesso em: 19 fev.
+2026.
+LYONS, V. T.; NETTER, F. H. Netter Anatomia Sistêmica Essencial. Rio de Janeiro:
+Guanabara Koogan, 2023. E-book, p. 288. ISBN 9788595159693. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788595159693/. Acesso em: 19 fev.
+2026.
+II, Arthur F. D.; AGUR, Anne M. R. Moore Anatomia Orientada Para a Clinica. 9. ed. Rio de
+Janeiro: Guanabara Koogan, 2024. E-book. ISBN 9788527740128. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527740128/. Acesso em: 27
+fev. 2026.
+Feedback:
+-35ª QUESTÃO
+Enunciado:
+(AFYA MACEIÓ) Durante uma visita domiciliar em uma comunidade periurbana, uma
+equipe da Estratégia Saúde da Família observa que a residência de uma criança de 6
+anos está localizada próxima a uma área com frequentes queimadas. No interior da casa,
+há acúmulo de poeira, presença visível de mofo nas paredes e ventilação inadequada. A
+mãe relata que a criança apresenta episódios recorrentes de espirros, coriza, congestão
+nasal e prurido nasal, principalmente à noite e em períodos de maior poluição do ar.
+Considerando o caso apresentado, os determinantes ambientais e o mecanismo
+imunológico envolvidos na hipersensibilidade das vias aéreas superiores, assinale a
+alternativa correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 49 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+Os agentes ambientais descritos favorecem uma resposta de hipersensibilidade do tipo I,
+mediada por IgE, com participação de linfócitos Th2, podendo comprometer a tolerância
+a antígenos ambientais.
+(alternativa B)
+A exposição a poluentes e mofo induz resposta imune predominantemente mediada por
+linfócitos T CD8+, promovendo tolerância imunológica e redução dos sintomas alérgicos.
+(alternativa C)
+A presença de mofo está associada apenas a infecções fúngicas, não tendo relação com
+mecanismos de hipersensibilidade nas vias aéreas superiores.
+(alternativa D)
+A poeira domiciliar estimula exclusivamente a imunidade inata, sem participação de
+linfócitos T auxiliares, não estando relacionada à hipersensibilidade.
+
+Resposta comentada:
+A exposição a poluentes e mofo induz resposta imune predominantemente mediada por
+linfócitos T CD8+, promovendo tolerância imunológica e redução dos sintomas alérgicos Incorreta.
+Linfócitos T CD8+ estão mais associados à resposta citotóxica contra células infectadas
+(especialmente por vírus), e não ao mecanismo principal das alergias. A
+hipersensibilidade do tipo I envolve predominantemente linfócitos Th2 e IgE. Além disso,
+poluentes e mofo tendem a aumentar a inflamação, e não promover tolerância
+imunológica.
+Os agentes ambientais descritos favorecem uma resposta de hipersensibilidade do tipo I,
+mediada por IgE, com participação de linfócitos Th2, podendo comprometer a tolerância
+a antígenos ambientais - Correta.
+Os fatores ambientais descritos (queimadas, poeira, mofo e poluição) atuam como
+gatilhos para uma resposta de hipersensibilidade imediata (tipo I). Nesse processo, há
+ativação de linfócitos Th2, produção de citocinas (IL-4, IL-5, IL-13) e estímulo à produção
+de IgE por linfócitos B. A IgE se liga a mastócitos, levando à liberação de mediadores
+inflamatórios (como histamina), responsáveis pelos sintomas. A exposição contínua pode
+prejudicar a tolerância imunológica a antígenos ambientais, especialmente quando há
+desequilíbrio entre Th2 e células T reguladoras (Treg).
+A poeira domiciliar estimula exclusivamente a imunidade inata, sem participação de
+linfócitos T auxiliares, não estando relacionada à hipersensibilidade - Incorreta.
+A poeira domiciliar contém diversos alérgenos (como ácaros) que ativam tanto a
+imunidade inata quanto a adaptativa. Há participação importante de linfócitos T
+auxiliares (principalmente Th2), sendo um dos principais fatores associados à rinite
+alérgica e outras doenças atópicas.
+A presença de mofo está associada apenas a infecções fúngicas, não tendo relação com
+mecanismos de hipersensibilidade nas vias aéreas superiores - Incorreta.
+O mofo não está relacionado apenas a infecções. Ele é um importante fator
+desencadeante de respostas alérgicas, especialmente em vias aéreas superiores,
+podendo induzir hipersensibilidade do tipo I e exacerbar quadros como rinite e asma.
+Referências:
+Abbas - Imunologia Celular e Molecular – Abbas AK, Lichtman AH, Pillai S. Imunologia
+Celular e Molecular. 10.ª ed. Elsevier.
+Organização Mundial da Saúde (WHO). Air pollution and child health: prescribing clean
+air . 2018.
+Tratado de Medicina de Família e Comunidade – Gusso G, Lopes JMC. Tratado de Medicina
+de Família e Comunidade. Artmed.
+Feedback:
+-36ª QUESTÃO
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 50 de 58
+
+Enunciado:
+(AFYA TERESINA) Durante aula prática de Morfofisiologia, os estudantes observam que
+indivíduos que permanecem longos períodos em ortostatismo podem apresentar
+sensação de peso e edema em membros inferiores. O professor explica que essa
+condição está relacionada às características anatômicas e hemodinâmicas do sistema
+venoso dos membros inferiores, especialmente à ação da gravidade, à presença de
+válvulas venosas e à contração muscular da panturrilha.
+Com base nessa discussão, os alunos são convidados a relacionar a organização
+anatômica vascular dos membros inferiores com o mecanismo de retorno venoso ao
+coração.
+Considerando a anatomia e a hemodinâmica dos vasos dos membros inferiores, qual
+alternativa melhor explica como sua organização influencia o retorno venoso?
+Alternativas:
+(alternativa A)
+A elevada pressão arterial nas veias dos membros inferiores impulsiona diretamente o
+sangue ao coração, independentemente da ação muscular.
+(alternativa B)
+A disposição paralela entre artérias e veias impede variações de volume e elimina a
+influência da gravidade sobre o fluxo venoso.
+(alternativa C)
+A espessura aumentada da parede venosa nos membros inferiores garante resistência
+elevada e facilita o retorno venoso contínuo.
+(alternativa D) (CORRETA)
+A presença de válvulas nas veias profundas e superficiais, associada à contração
+muscular, favorece o fluxo unidirecional do sangue em direção ao coração.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 51 de 58
+
+Resposta comentada:
+A presença de válvulas nas veias profundas e superficiais, associada à contração
+muscular, favorece o fluxo unidirecional do sangue em direção ao coração. – Correta. As
+veias dos membros inferiores possuem válvulas que impedem o refluxo sanguíneo. A
+contração da musculatura, especialmente da panturrilha, atua como bomba muscular,
+comprimindo as veias profundas e promovendo o deslocamento do sangue em direção ao
+coração, superando a ação da gravidade.
+A elevada pressão arterial nas veias dos membros inferiores impulsiona diretamente o
+sangue ao coração, independentemente da ação muscular. – Incorreta. O sistema venoso
+é caracterizado por baixa pressão. O retorno venoso depende principalmente da ação
+muscular, das válvulas venosas e de gradientes de pressão, não de alta pressão
+intravascular.
+A espessura aumentada da parede venosa nos membros inferiores garante resistência
+elevada e facilita o retorno venoso contínuo. – Incorreta. As veias apresentam paredes
+mais delgadas e menor resistência quando comparadas às artérias. Sua função principal
+é capacitância e condução de sangue de volta ao coração, não geração de alta
+resistência.
+A disposição paralela entre artérias e veias impede variações de volume e elimina a
+influência da gravidade sobre o fluxo venoso. – Incorreta. Embora artérias e veias possam
+estar anatomicamente associadas, a gravidade influencia significativamente o retorno
+venoso nos membros inferiores. As válvulas venosas e a bomba muscular são
+fundamentais para compensar esse efeito.
+Referências:
+MOORE, K. L.; DALLEY, A. F.; AGUR, A. M. R. Anatomia orientada para a clínica. 8. ed. Rio
+de Janeiro: Guanabara Koogan, 2019, p. 553–561.
+GUYTON, A. C.; HALL, J. E. Tratado de fisiologia médica. 14. ed. Rio de Janeiro: Elsevier,
+2021. p. 181–188.
+TORTORA, G. J.; DERRICKSON, B. Princípios de anatomia e fisiologia. 15. ed. Rio de
+Janeiro: Guanabara Koogan, 2017, p. 720–728.
+Feedback:
+-37ª QUESTÃO
+Enunciado:
+(AFYA ITACOATIARA) Dona Maria, de 65 anos, reside em uma comunidade rural localizada
+a 15 km da Unidade Básica de Saúde (UBS) de referência. Ela relata dificuldade em
+custear as passagens de ônibus para comparecer às consultas e exames, o que
+compromete a continuidade do acompanhamento. Durante atendimento médico, refere
+acreditar que suas dores de cabeça estejam relacionadas a “mau-olhado”, percepção que
+não foi explorada pela profissional durante a consulta.
+Considerando o caso apresentado e os conceitos relacionados às barreiras de acesso na
+Atenção Primária à Saúde (APS), assinale a alternativa correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 52 de 58
+
+Alternativas:
+(alternativa A) (CORRETA)
+Barreira socioeconômica, relacionada à dificuldade de custear o transporte, e barreira
+cultural, relacionada às crenças e percepções populares sobre o processo saúde-doença.
+(alternativa B)
+Barreira organizacional, relacionada à distância física entre a residência e a UBS, à
+ausência de atendimento especializado, e barreira geográfica, relacionada
+exclusivamente à localização rural da usuária.
+(alternativa C)
+Barreira geográfica, relacionada à distância física entre a residência e a UBS, e barreira
+organizacional, relacionada ao funcionamento administrativo da unidade
+(alternativa D)
+Barreira cultural, relacionada à distância física entre a residência e a UBS, às dificuldades
+financeiras para transporte, e barreira organizacional, relacionada à crença popular sobre
+“mau-olhado”.
+
+Resposta comentada:
+Alternativa — Incorreta: Barreira geográfica, relacionada à distância física entre a
+residência e a UBS, e barreira organizacional, relacionada ao funcionamento
+administrativo da unidade.
+Embora a distância física entre a residência e a UBS possa representar componente
+geográfico de dificuldade de acesso, o caso enfatiza principalmente a limitação financeira
+para custear o transporte, caracterizando barreira socioeconômica. Além disso, o
+enunciado não descreve problema relacionado ao funcionamento administrativo ou
+organizacional da unidade.
+Alternativa — Incorreta: Barreira cultural, relacionada à distância física entre a residência
+e a UBS, às dificuldades financeiras para transporte, e barreira organizacional,
+relacionada à crença popular sobre “mau-olhado”.
+Dificuldades financeiras relacionadas ao transporte não configuram barreira cultural, mas
+sim barreira socioeconômica. Já a crença em “mau-olhado” corresponde a dimensão
+cultural relacionada às interpretações populares do processo saúde-doença.
+Alternativa — Correta: Barreira socioeconômica, relacionada à dificuldade de custear o
+transporte, e barreira cultural, relacionada às crenças e percepções populares sobre o
+processo saúde-doença.
+A dificuldade em pagar transporte compromete o acesso e a continuidade do cuidado,
+caracterizando barreira socioeconômica. A associação dos sintomas ao “mau-olhado”
+representa barreira cultural, relacionada às crenças, valores e interpretações populares
+sobre saúde e doença, exigindo escuta qualificada e abordagem culturalmente sensível
+pela equipe da APS.
+Alternativa — Incorreta: Barreira organizacional, relacionada à distância física entre a
+residência e a UBS, à ausência de atendimento especializado, e barreira geográfica,
+relacionada exclusivamente à localização rural da usuária.
+O caso não descreve ausência de atendimento especializado nem dificuldades
+relacionadas à regulação assistencial. Além disso, a localização rural, isoladamente, não
+constitui o principal elemento do problema apresentado, já que o enunciado enfatiza
+especialmente a limitação financeira de transporte.
+REFERÊNCIAS:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Lêda Chaves (org.). Tratado de
+medicina de família e comunidade: princípios, formação e prática. 2. ed. Porto Alegre:
+ArtMed, 2019. Cap. 37.
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica. Brasília: Ministério da
+Saúde, 2017.
+Feedback:
+-000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 53 de 58
+
+38ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Durante um atendimento ambulatorial em uma Unidade Básica de
+Saúde, um paciente adulto relata fadiga aos esforços leves e episódios de palpitação. Ao
+longo da consulta, o médico revisa com os estudantes o funcionamento do coração como
+uma bomba, destacando o trajeto do sangue na circulação sistêmica, a importância da
+circulação coronária para a nutrição do miocárdio e a influência da inervação autonômica
+na atividade cardíaca.
+Analisando a circulação sistêmica, circulação coronária e a inervação cardíaca, assinale a
+alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+As artérias coronárias originam-se da aorta ascendente imediatamente acima da valva
+aórtica, percorrem os sulcos cardíacos irrigando o miocárdio, e a maior parte do retorno
+venoso do coração ocorre pelo seio coronário em direção ao átrio direito.
+(alternativa B)
+A inervação parassimpática cardíaca é realizada principalmente pelo nervo vago,
+exercendo ação predominante sobre os nós sinoatrial e atrioventricular, aumentando a
+frequência cardíaca e a velocidade de condução atrioventricular.
+(alternativa C)
+As artérias coronárias originam-se do tronco pulmonar, distribuem sangue arterial ao
+miocárdio e apresentam drenagem venosa predominante diretamente para o átrio
+esquerdo por meio das veias cardíacas anteriores.
+(alternativa D)
+O nó sinoatrial localiza-se na porção inferior do septo interatrial, próximo ao seio
+coronário, sendo responsável pela condução atrioventricular e sofrendo influência
+predominante de fibras simpáticas.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 54 de 58
+
+Resposta comentada:
+"As artérias coronárias originam-se da aorta ascendente imediatamente acima da valva
+aórtica, percorrem os sulcos cardíacos irrigando o miocárdio, e a maior parte do retorno
+venoso do coração ocorre pelo seio coronário em direção ao átrio direito". Correta. As
+artérias coronárias originam-se da aorta ascendente, imediatamente acima da valva
+aórtica, percorrem os sulcos cardíacos irrigando o miocárdio, e a maior parte do retorno
+venoso cardíaco ocorre pelo seio coronário em direção ao átrio direito.
+"As artérias coronárias originam-se do tronco pulmonar, distribuem sangue arterial ao
+miocárdio e apresentam drenagem venosa predominante diretamente para o átrio
+esquerdo por meio das veias cardíacas anteriores." Incorreta. As artérias coronárias não
+se originam do tronco pulmonar, mas da aorta ascendente. Além disso, a drenagem
+venosa cardíaca não ocorre predominantemente para o átrio esquerdo, mas
+principalmente para o átrio direito por meio do seio coronário.
+"O nó sinoatrial localiza-se na porção inferior do septo interatrial próximo ao seio
+coronário, sendo responsável pela condução atrioventricular e sofrendo influência
+predominante de fibras simpáticas". Incorreta. O nó sinoatrial localiza-se próximo à
+junção da veia cava superior com o átrio direito, e não na porção inferior do septo
+interatrial. Além disso, a condução atrioventricular é função predominantemente
+relacionada ao nó atrioventricular.
+"A inervação parassimpática cardíaca é realizada principalmente pelo nervo vago,
+exercendo ação predominante sobre os nós sinoatrial e atrioventricular, aumentando a
+frequência cardíaca e a velocidade de condução atrioventricular". Incorreta. A inervação
+parassimpática cardíaca é realizada principalmente pelo nervo vago e atua
+predominantemente sobre os nós sinoatrial e atrioventricular. Entretanto, sua ação reduz
+a frequência cardíaca e a velocidade de condução atrioventricular, e não as aumenta.
+Referências:
+II, Arthur F. D.; AGUR, Anne M. R. Moore Anatomia Orientada Para a Clínica. 9. ed. Rio de
+Janeiro: Guanabara Koogan, 2024. E-book, p. 377. ISBN 9788527740128. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527740128/. Acesso em: 16
+mar. 2026.
+MARTINI, Frederic H.; TIMMONS, Michael J.; TALLITSCH, Robert B. Anatomia humana. 6.
+ed. Porto Alegre: ArtMed, 2009. E-book. p. 1 ISBN 9788536320298. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788536320298/. Acesso em: 16
+mar. 2026.
+Feedback:
+-39ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Durante uma consulta de pré-natal, uma gestante pergunta ao
+médico como ocorre a formação do coração do embrião nas primeiras semanas de
+desenvolvimento. O médico explica que o coração é um dos primeiros órgãos a se formar
+e que seu desenvolvimento envolve etapas progressivas, desde a formação inicial do
+tubo cardíaco até os processos de divisão das cavidades cardíacas.
+Com base nas etapas do desenvolvimento embrionário do coração, assinale a alternativa
+correta.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 55 de 58
+
+Alternativas:
+(alternativa A)
+Os coxins endocárdicos desenvolvem-se após a separação completa das cavidades
+cardíacas e participam da organização final das valvas atrioventriculares.
+(alternativa B)
+A separação dos átrios direito e esquerdo ocorre inicialmente pela formação do septum
+secundum, que cresce em direção aos coxins endocárdicos e divide o átrio primitivo.
+(alternativa C) (CORRETA)
+As células progenitoras cardíacas organizam-se no mesoderma esplâncnico, onde se
+estabelece a área cardiogênica responsável pela formação inicial do tubo cardíaco
+primitivo.
+(alternativa D)
+A separação dos ventrículos ocorre inicialmente pela formação de um septo muscular
+derivado dos coxins endocárdicos, que cresce em direção ao ápice do coração.
+
+Resposta comentada:
+Alternativa: As células progenitoras cardíacas organizam-se no mesoderma esplânctico,
+onde se estabelece a área cardiogênica responsável pela formação inicial do tubo
+cardíaco primitivo. Correta.
+Justificativa: As células progenitoras cardíacas organizam-se no mesoderma esplâncnico,
+formando a área cardiogênica, região responsável pela formação inicial do tubo cardíaco
+primitivo, estrutura que representa o estágio inicial do desenvolvimento do coração
+embrionário.
+Alternativa: A separação dos átrios direito e esquerdo ocorre inicialmente pela formação
+do septum secundum, que cresce em direção aos coxins endocárdicos e divide o átrio
+primitivo. Incorreta.
+Justificativa: A separação dos átrios inicia-se com a formação do septum primum, que
+cresce em direção aos coxins endocárdicos. O septum secundum forma-se
+posteriormente.
+Alternativa: A separação dos ventrículos ocorre inicialmente pela formação de um septo
+muscular derivado dos coxins endocárdicos, que cresce em direção ao ápice do coração.
+Incorreta.
+Justificativa: A porção muscular do septo interventricular origina-se da parede do
+ventrículo primitivo. Os coxins endocárdicos participam principalmente da formação da
+porção membranosa do septo interventricular e das valvas atrioventriculares.
+Alternativa: Os coxins endocárdicos desenvolvem-se após a separação completa das
+cavidades cardíacas e participam da organização final das valvas atrioventriculares.
+Incorreta.
+Justificativa: Os coxins endocárdicos desenvolvem-se durante o processo de septação
+cardíaca e participam da formação de septos cardíacos e valvas atrioventriculares, não
+após a separação completa das cavidades cardíacas.
+Referências:
+MOORE, Keith M.; PERSAUDE, T. V. N. Embriologia Clínica. 11. ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2020. E-book, p. 241. ISBN 9788595157811. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595157811/. Acesso em: 16
+mar. 2026.
+SADLER, T. W. Langman, Embriologia Médica. 14. ed. Rio de Janeiro: Guanabara Koogan,
+2021. E-book, p. 138. ISBN 9788527737289. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737289/. Acesso em: 16
+mar. 2026.
+Feedback:
+-40ª QUESTÃO
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 56 de 58
+
+Enunciado:
+(AFYA SALVADOR) Um paciente apresenta obstrução nasal recorrente, ressecamento da
+mucosa e episódios de sangramento nasal. Ao exame clínico, observa-se mucosa nasal
+anterior com áreas de ressecamento e pequenas crostas, além de prejuízo na sensação
+de “ar bem umidificado” ao inspirar. O examinador comenta que, nas fossas nasais, há
+regiões com revestimentos epiteliais diferentes e que a filtração, umidificação e
+aquecimento do ar dependem da interação entre histologia da mucosa, vascularização da
+lâmina própria e estrutura anatômica das conchas nasais.
+Considerando a situação acima, qual alternativa relaciona mais adequadamente o quadro
+clínico com a região das fossas nasais mais envolvida e com seus aspectos de histologia,
+vascularização, inervação e função?
+*Epistaxe é o sangramento da cavidade nasal.
+Alternativas:
+(alternativa A)
+Mucosa olfatória; neuroepitélio especializado, lâmina própria com fibras nervosas
+olfatórias, vascularização discreta, inervação voltada ao olfato; alteração compromete
+filtração/umidificação e favorece epistaxe.
+(alternativa B) (CORRETA)
+Mucosa respiratória nasal; epitélio pseudoestratificado ciliado com células secretoras,
+lâmina própria rica em vasos e glândulas, inervação sensitiva local; alteração
+compromete filtração/umidificação e favorece epistaxe.
+(alternativa C)
+Vestíbulo nasal; epitélio estratificado pavimentoso, glândulas pouco expressivas,
+vascularização profunda, inervação predominantemente autonômica; alteração
+compromete filtração/umidificação e favorece epistaxe.
+(alternativa D)
+Orofaringe; epitélio estratificado pavimentoso, lâmina própria com tecido linfoide,
+vascularização relacionada à faringe, inervação faríngea; alteração explica obstrução
+nasal, ressecamento e epistaxe.
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 57 de 58
+
+Resposta comentada:
+Resposta correta:
+Mucosa respiratória nasal; epitélio pseudoestratificado ciliado com células secretoras,
+lâmina própria rica em vasos e glândulas, inervação sensitiva local; alteração
+compromete filtração/umidificação e favorece epistaxe.
+Explicação (resposta correta):
+A porção respiratória da cavidade nasal é a principal responsável por condicionar o ar
+inspirado: o epitélio respiratório e o sistema mucociliar participam da filtração, e a lâmina
+própria vascularizada e com glândulas contribui para aquecimento e umidificação.
+Quando há ressecamento e disfunção dessa mucosa, podem surgir crostas, irritação e
+maior propensão a sangramentos superficiais.
+Por que as alternativas estão incorretas:
+Alternativa: Mucosa olfatória; neuroepitélio especializado, lâmina própria com fibras
+nervosas olfatórias, vascularização discreta, inervação voltada ao olfato; alteração
+compromete filtração/umidificação e favorece epistaxe.
+Justificativa: A mucosa olfatória se relaciona principalmente com olfação; não é o
+componente mais associado ao condicionamento do ar inspirado no cotidiano, como a
+mucosa respiratória.
+Alternativa: Vestíbulo nasal; epitélio estratificado pavimentoso, glândulas pouco
+expressivas, vascularização profunda, inervação predominantemente autonômica;
+alteração compromete filtração/umidificação e favorece epistaxe.
+Justificativa: O vestíbulo participa, sobretudo, da retenção de partículas maiores e tem
+características mais próximas de pele; não concentra os elementos típicos do
+condicionamento do ar (mucociliar e vascularização funcional da mucosa respiratória).
+Alternativa: Orofaringe; epitélio estratificado pavimentoso, lâmina própria com tecido
+linfoide, vascularização relacionada à faringe, inervação faríngea; alteração explica
+obstrução nasal, ressecamento e epistaxe.
+Justificativa: A orofaringe não explica de forma direta a falha de filtração/umidificação do
+ar inspirado pela cavidade nasal nem a epistaxe descrita como origem nasal.
+Referências:
+GRAAFF, K. M. V. Anatomia Humana. Tradução: Nader Wafae. 6. ed. Barueri: Manole,
+2003. E-book. ISBN 9788520452677. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788520452677/. Acesso em: 24 fev.
+2026.
+JUNQUEIRA, L. C. U.; CARNEIRO, J.. Histologia Básica: Texto e Atlas. 14. ed. Rio de Janeiro:
+Guanabara Koogan, 2025. E-book. ISBN 9788527739283. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 24 fev.
+2026.
+Feedback:
+--
+
+000196.45001f.f14d0c.7f45c5.a7c011.8434c0.bde0c0.45fba
+
+Página 58 de 58
+
+

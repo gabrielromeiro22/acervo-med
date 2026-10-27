@@ -1,0 +1,481 @@
+NOTA FINAL
+
+CURSO DE MEDICINA - AFYA
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade II
+Professor (es):
+Período: 202302
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_IESC 2_26SET2023.2
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 09359 - CADERNO 002
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+
+Enunciado:
+José, 48 anos, chega a Unidade Básica de Saúde (UBS) relatando dor no peito ao esforço físico,
+menciona também que é hipertenso, mas que não faz uso regular do medicamento, pois gosta
+de beber cerveja aos finais de semana. O médico da UBS realiza o atendimento e o encaminha
+para um ambulatório especializado para uma avaliação com o cardiologista. Na ocasião, o
+médico também o orienta quanto aos seus hábitos e estilo de vida e informa que na UBS existe
+um programa de saúde voltado para desenvolvimento de hábitos saudáveis. Considerando o
+conceito da Rede de Atenção à Saúde (RAS), assinale a alternativa que apresenta os níveis de
+densidades tecnológicas evidenciados no caso acima.
+
+Alternativas:
+(alternativa A)
+A avaliação pelo médico realizada na UBS e a avaliação que será realizada pelo médico
+cardiologista no ambulatório estão dentro da atenção secundária à saúde, ou seja, são ações
+consideradas pertencentes ao nível de densidade tecnológica intermediária.
+(alternativa B)
+A orientação dada pelo médico da UBS quanto aos hábitos e estilo de vida são ações do nível de
+densidade tecnológica intermediária e, o programa de saúde voltado para desenvolvimento de
+hábitos saudáveis está dentro do menor nível de densidade tecnológica, oferecido pela UBS.
+(alternativa C) (CORRETA)
+O nível de menor densidade tecnológica é identificado quando José é atendido na UBS e recebe
+todas as orientações. A avaliação que será realizada pelo cardiologista no ambulatório indica o
+nível de densidade tecnológica intermediária, ou seja, atenção secundária.
+(alternativa D)
+A avaliação que será realizada pelo cardiologista no ambulatório indica o nível de atenção
+terciário ou seja, de maior densidade tecnológica. E o atendimento ao paciente na UBS indica o
+nível de menor densidade, caracterizado por serviços oferecidos na atenção primária.
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 1 de 12
+
+Resposta comentada:
+O nível de menor densidade tecnológica é identificado quando José é atendido na UBS e recebe
+todas as orientações. A avaliação que será realizada pelo cardiologista no ambulatório
+especializado indica o nível de densidade tecnológica intermediária, ou seja, atenção secundária.
+(CORRETA)
+A avaliação que será realizada pelo cardiologista no ambulatório especializado indica o nível de
+maior densidade tecnológica, pois se trata de um especialista. E o atendimento ao paciente na
+UBS indica o nível de menor densidade, aquele caracterizado pelos serviços oferecidos pela
+atenção primária. (ERRADA). O atendimento no ambulatório caracteriza nível intermediário).
+A orientação dada pelo médico quanto aos hábitos e estilo de vida caracteriza como ações do
+nível de densidade tecnológica intermediária e o programa de saúde voltado para
+desenvolvimento de hábitos saudáveis está dentro do menor nível de densidade tecnológica,
+pois é oferecido pela UBS. (ERRADA) Todo o atendimento realizado na UBS caracteriza nível de
+menor densidade tecnológica).
+Tanto a avaliação do clínico geral realizado na UBS quanto a avaliação que será realizada pelo
+cardiologista no ambulatório, estão dentro da atenção secundária à saúde, ou seja, são ações
+consideradas pertencentes ao nível de densidade tecnológica intermediária. (ERRADA). Todo o
+atendimento realizado na UBS caracteriza nível de menor densidade tecnológica)
+Fonte:
+http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/decreto/d7508.htm
+https://aps.saude.gov.br/smp/smpras
+2ª QUESTÃO
+Enunciado:
+João, um paciente de 45 anos, buscou atendimento de saúde devido a sintomas de febre, dor
+de garganta e tosse. Ele foi inicialmente atendido na Unidade Básica de Saúde (UBS) de sua
+comunidade, onde o médico realizou uma avaliação clínica, diagnosticou uma infecção
+respiratória aguda e prescreveu medicamentos para alívio dos sintomas. Entretanto, a condição
+de João se agravou nos dias seguintes, e ele desenvolveu dificuldade respiratória. Diante dessa
+situação, foi encaminhado pelo médico da UBS para um ambulatório especializado em doenças
+respiratórias da região, onde realizou exames de imagem. Posteriormente o quadro se agravou
+e João precisou ser internado no hospital onde permaneceu por quinze dias.
+Com base no caso hipotético apresentado identifique os serviços de saúde utilizados por João e
+os seus respectivos níveis de atenção à saúde, justifique sua resposta com trechos do caso,
+evidenciando as RAS utilizadas.
+Alternativas:
+--
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 2 de 12
+
+Resposta comentada:
+No caso de João, houve uma sequência de atendimentos nos três níveis de atenção à saúde da
+Rede. Inicialmente, João buscou atendimento na Unidade Básica de Saúde (UBS), onde foi
+realizada a avaliação clínica inicial e diagnosticada uma infecção respiratória aguda. Conforme
+descrito no caso, "João foi inicialmente atendido na Unidade Básica de Saúde (UBS) de sua
+comunidade", indicando o uso do nível de atenção primária (0,5).
+Entretanto, devido ao agravamento de sua condição, João foi encaminhado para um
+ambulatório especializado em doenças respiratórias da região, onde passou por exames, o que
+se refere ao nível de atenção secundária (0,5).
+Posteriormente João precisou ser internado no hospital onde permaneceu por sete dias (nível
+terciário) (0,5).
+Portanto, o paciente João utilizou os três níveis de atenção à saúde da Rede: primário (UBS),
+secundário (clinica especializada de diagnóstico) e terciário (clínica de fisioterapia), refletindo a
+abordagem integrada e hierárquica da Rede de Atenção à Saúde.
+MENDES, E.V. As redes de atenção à saúde: revisão bibliográfica, fundamentos, conceito e
+elementos constitutivos. In:
+MENDES, E.V. As redes de atenção à saúde. Organização Pan-Americana da Saúde, 2011,
+2010. Cap. 2 (Fundamentos e conceitos pag. 71 à 84)
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+3ª QUESTÃO
+Enunciado:
+Dona Maria Joana,76 anos, hipertensa e diabética, buscou a Unidade Básica de seu bairro, pois
+estava sentindo dores no peito e de cabeça, tonturas, fraqueza e visão embaçada, relatando
+também que estava muito estressada e nervosa. Dr. Leonardo a acolheu, questionando sobre o
+que poderia estar ocorrendo em seu domicilio. Em seguida, o médico utilizou o
+esfigmomanômetro para aferir a pressão arterial da paciente e também o glicosímetro para
+verificação da glicemia.
+Considerando o trecho acima, assinale a alternativa que corresponde os tipos de tecnologias
+utilizados pelo médico no atendimento a Dona Maria.
+Alternativas:
+(alternativa A)
+Tecnologia leve quando realizou o processo de escuta e leve-dura quando aferiu a pressão
+arterial e glicemia.
+(alternativa B) (CORRETA)
+Tecnologia leve quando realizou o processo de escuta e dura quando aferiu a pressão arterial e
+glicemia.
+(alternativa C)
+Tecnologia dura quando realizou o processo de escuta e leve-dura quando aferiu a pressão
+arterial e glicemia.
+(alternativa D)
+Tecnologia leve-dura quando realizou o processo de escuta e dura quando aferiu a pressão
+arterial e glicemia.
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 3 de 12
+
+Resposta comentada:
+O médico utilizou tecnologia leve pela e acolhida e escuta aos pedidos, demandas,
+necessidades e manifestações da usuária, bem como tecnologia dura quando utilizou
+equipamentos, como glicosímetro, aparelho de pressão para avaliação da mesma.
+FRANCO, T. B., & Elias MERHY, E. (2012). Cartografias do Trabalho e Cuidado em Saúde.
+Tempus – Actas De Saúde Coletiva, 6(2), Pág. 151-163.
+https://doi.org/10.18569/tempus.v6i2.1120
+Leitura complementar:BADUY, R. S. O trabalho em saúde. In: ANDRADE, SM. et al. (Org.)
+Bases da saúde coletiva. Londrina: Ed. UEL, 2001. Cap.9.
+4ª QUESTÃO
+Enunciado:
+O Programa Previne Brasil tem como objetivo fortalecer a atenção primária à saúde e melhorar
+indicadores importantes de saúde. Para o ano de 2022, foram estabelecidas metas para
+diversos indicadores. Considere o quadro abaixo que apresenta algumas metas:
+
+Fonte: Brasil. Ministério da Saúde. Portaria 2979 de 12 de novembro de 2019. (Programa
+Previne Brasil).
+Considerando essas metas, descreva três estratégias específicas que a equipe de saúde pode
+adotar para alcançar as metas de Hipertensão Arterial Sistêmica (HAS), de Exame Citológico
+entre mulheres de 25 a 64 anos, e da cobertura atual da Vacinação pentavalente e poliomielite.
+Indique uma estratégia para cada meta (1,5)
+Alternativas:
+--
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 4 de 12
+
+Resposta comentada:
+Exemplos de estratégias para Alcançar a Meta de Hipertensão Arterial Sistêmica (HAS)(0,5):
+Realizar campanhas de conscientização sobre a importância da medição regular da
+pressão arterial em unidades de saúde e comunidades.
+Oferecer capacitação para os profissionais de saúde em relação ao diagnóstico e
+manejo adequado da hipertensão.
+Implementar protocolos de monitoramento e acompanhamento de pacientes
+hipertensos, incluindo consultas regulares e orientações sobre mudanças de estilo de
+vida.
+
+Exemplos de estratégias para Alcançar a Meta de Exame Citológico (0,5):
+Realizar ações de educação em saúde direcionadas às mulheres sobre a importância
+do exame citológico para a detecção precoce do câncer de colo de útero.
+Realizar mutirões de saúde com oferta de exames citológicos em horários alternativos
+e locais de fácil acesso.
+Reforçar a capacitação dos profissionais de saúde para a realização do exame e
+interpretação dos resultados.
+
+Exemplos de estratégias para Alcançar a Meta de Vacinação pentavalente e poliomielite (0,5):
+Realizar campanhas de vacinação periódicas em locais de grande circulação, como
+escolas e creches.
+Identificar grupos populacionais com menor cobertura vacinal e realizar abordagens
+específicas para aumentar a adesão.
+Fortalecer a comunicação sobre os benefícios da vacinação por meio de material
+educativo e mídias sociais.
+
+Referência: Fonte: Brasil. Ministério da Saúde. Portaria 2979 de 12 de novembro de 2019.
+(Programa Previne Brasil).
+5ª QUESTÃO
+Enunciado:
+Homem, 78 anos, aposentado, procurou a UBS para retirar ficha de consulta para sua esposa.
+Na fila de espera começou a sentir mal-estar e tontura. Foi então para a triagem, na qual
+queixou que vem apresentando estes sintomas com piora há cerca de três meses. A
+enfermeira verificou a pressão arterial (150/100 mmHg) e a glicemia capilar (226 mg/dL) por
+hemoglicoteste (HGT) e, como os resultados estavam alterados o paciente foi encaminhado
+para consulta com médico de sua área, recebendo tratamento adequado e posteriormente
+acompanhado pela equipe no seu domicílio. Diante disso, assinale a alternativa que descreve as
+diretrizes da Política Nacional de Atenção Básica (PNAB) contempladas no caso acima.
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 5 de 12
+
+Alternativas:
+(alternativa A)
+Equidade e Cuidado Centrado na Pessoa.
+(alternativa B)
+Resolutividade e Cuidado Centrado na Pessoa.
+(alternativa C)
+Integralidade e Longitudinalidade do Cuidado.
+(alternativa D) (CORRETA)
+Resolutividade e Longitudinalidade do Cuidado.
+Resposta comentada:
+Confome a PORTARIA Nº 2.436/2017:
+Resolutividade: reforça a importância da Atenção Básica ser resolutiva, utilizando e articulando
+diferentes tecnologias de cuidado individual e coletivo, por meio de uma clínica ampliada capaz
+de construir vínculos positivos e intervenções clínica e sanitariamente efetivas, centrada na
+pessoa, na perspectiva de ampliação dos graus de autonomia dos indivíduos e grupos sociais.
+Deve ser capaz de resolver a grande maioria dos problemas de saúde da população,
+coordenando o cuidado do usuário em outros pontos da RAS, quando necessário.
+Longitudinalidade do cuidado: pressupõe a continuidade da relação de cuidado, com construção
+de vínculo e responsabilização entre profissionais e usuários ao longo do tempo e de modo
+permanente e consistente, acompanhando os efeitos das intervenções em saúde e de outros
+elementos na vida das pessoas, evitando a perda de referências e diminuindo os riscos de
+iatrogenia que são decorrentes do desconhecimento das histórias de vida e da falta de
+coordenação do cuidado.
+Portanto o caso englobou resolutividade no momento em que o problema o indivíduo foi
+resolvido e longitudinaliade ao ser acompanhado pela equipe.
+BRASIL. Ministério da Saúde. Gabinete do Ministro. PORTARIA Nº 2.436, DE 21 DE SETEMBRO
+DE 2017. Brasília, 2017.
+6ª QUESTÃO
+Enunciado:
+Um novo gestor responsavel pelo departamento de atenção básica está em treinamento sobre
+a Política Nacional de Atenção Básica (PNAB). Durante uma das sessões, o instrutor enfatiza a
+importância de compreender as particularidades e características de cada equipe proposta pela
+PNAB e suas atualizações. Com base nisso, analise as afirmativas abaixo:
+I. A Política Nacional de Atenção Básica tem no Programa Mais Médicos sua estratégia
+prioritária para expansão e consolidação da Atenção Básica.
+II. O funcionamento das Unidades Básicas de Saúde (UBS) deve ter carga horária mínima
+de 40 horas semanais mínimo de 5 dias por semana durante os 12 meses do ano.
+III. O Programa Saúde na Hora no âmbito, tem como objetivo de implementar o horário
+estendido de funcionamento das Unidades de Saúde da Família (USF) e Unidades
+Básicas de Saúde (UBS), no SUS.
+IV. A equipe de Atenção Primária (eAP) será composta minimamente por Médicos e
+enfermeiros, preferencialmente especialistas em medicina de família e comunidade.
+É correto o que se afirma em
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 6 de 12
+
+Alternativas:
+(alternativa A)
+II, III e IV apenas
+(alternativa B)
+I,II e IV apenas.
+(alternativa C)
+I e IV apenas.
+(alternativa D) (CORRETA)
+II, III e IV apenas.
+Resposta comentada:
+A Portaria nº 2.436, de 21 de setembro de 2017, é a que aprova a PNAB e estabelece a
+revisão de diretrizes para a organização da Atenção Básica no âmbito do Sistema Único de
+Saúde (SUS). Esta portaria detalha as características e composições das equipes de saúde da
+família, e é um documento-chave para a estruturação e organização dos serviços de saúde em
+nível primário. As outras alternativas não descrevem corretamente a equipe de saúde da
+família, e sim outras modalidades ou especialidades que podem existir dentro do sistema de
+saúde, mas que não se enquadram no que é estipulado pela PNAB para a atenção básica
+direcionada à família. É essencial que os estudantes de medicina e outros profissionais da saúde
+tenham clareza sobre a composição e funcionamento das equipes, para que possam atuar de
+forma eficiente e integrada dentro do sistema de saúde.
+Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Atenção Básica.
+Política Nacional de Atenção Básica / Ministério da Saúde. Secretaria de Atenção à Saúde.
+Departamento de Atenção Básica. – Brasília : Ministério da Saúde, 2012.
+110 p. : il. – (Série E. Legislação em Saúde)
+ISBN 978-85-334-1939-1
+1. Serviços Básicos de Saúde. 2. Política de Saúde. 3. Saúde Pública. I. Título. II. Série
+7ª QUESTÃO
+Enunciado:
+Uma paciente de 30 anos de idade, procura a Unidade Básica de Saúde com queixa de
+ansiedade e insônia. Ela relata estar passando por um momento de estresse intenso devido a
+problemas no trabalho e conflitos familiares. A paciente está se sentindo sobrecarregada
+emocionalmente e tem dificuldade em relaxar e dormir à noite. O médico de família e
+comunidade precisam aplicar tecnologias leves para resolver o problema clínico da paciente.
+Nesse sentido, assinale a alternativa que corresponde a tecnologias leves para o cuidado dessa
+paciente.
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 7 de 12
+
+Alternativas:
+(alternativa A)
+Prescrever medicamentos ansiolíticos para o controle imediato da ansiedade e auxílio no sono e
+encaminhar para o psicólogo.
+(alternativa B) (CORRETA)
+Promover escuta empática para compreender as necessidades e preocupações da paciente,
+estabelecendo um vínculo de confiança e apoio emocional.
+(alternativa C)
+Realizar exames laboratoriais para avaliar possíveis desequilíbrios hormonais relacionados à
+ansiedade e insônia.
+(alternativa D)
+Encaminhar a paciente para um psicólogo especializado em terapia cognitivo-comportamental,
+para que esse possa definir o melhor plano de cuidado.
+Resposta comentada:
+Justificativa: A paciente está enfrentando uma situação de estresse intenso e conflitos
+emocionais, que são problemas clínicos que podem ser melhor abordados por meio de
+tecnologias leves. O uso da escuta empática é uma ferramenta essencial para compreender as
+preocupações da paciente, permitindo ao médico criar um ambiente acolhedor e de confiança.
+Oferecer suporte emocional e estratégias de enfrentamento ajudará a paciente a lidar com o
+estresse e a ansiedade de maneira mais saudável. As tecnologias de relações estão incluídas no
+conceito de tecnologias leves e se referem especificamente às interações intersubjetivas e
+transpessoais entre profissionais de saúde e pacientes. Essas interações ocorrem por meio do
+diálogo, conversa, escuta ativa e empatia, sendo fundamentais para a identificação dos
+problemas e necessidades do paciente, bem como para estabelecer um ambiente terapêutico e
+de confiança.
+Referências
+FRANCO, T. B., & Elias MERHY, E. (2012). Cartografias do Trabalho e Cuidado em
+Saúde. Tempus – Actas De Saúde Coletiva, 6(2), Pág. 151-163.
+https://doi.org/10.18569/tempus.v6i2.1120
+8ª QUESTÃO
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 8 de 12
+
+Enunciado:
+Após as chuvas de verão, o número de casos de dengue aumentou consideravelmente na área
+de abrangência da Unidade de Saúde da Família – USF Samambaia. Em especial, na microárea
+da Agente Comunitária de Saúde –ACS Jucélia. Preocupada com a situação, ela sinaliza na
+reunião mensal de equipe que há alguns domicílios que requerem uma abordagem mais
+específica, dado o contexto favorável ao vetor. Ao final da colocação, ela propõe uma ação
+coletiva da equipe, numa estratégia de busca ativa de casos e de focos, articulado com os
+agentes de endemias. O médico, Dr. Sensivaldo, clínico geral há mais de 20 anos, rebate a
+proposta afirmando que: - “Esse tipo de ação é de responsabilidade dos agentes, minha função
+é só atender os casos que identificarem, estarei no consultório caso precisem”.
+Sobre o caso são feitas algumas afirmações:
+I- A contribuição em ações coletivas e programadas de vigilância é de responsabilidade do
+enfermeiro e dos agentes comunitários de saúde.
+II- Realizar busca ativa e notificar doenças e agravos de notificação compulsória, bem como
+outras doenças, agravos, surtos, acidentes, violências é uma das atribuições comuns a todos
+os membros das Equipes
+III- Como a incidência da doença cresceu, a realização da estratificação de risco de condições
+crônicas passa a ser de todos os membros da equipe.
+IV- Dr. Sensivaldo estaria com a razão, caso levantasse a questão da indicação de internação
+hospitalar, atribuição específica do médico.
+Está correto o que se afirma apenas em:
+
+Alternativas:
+(alternativa A) (CORRETA)
+II e IV.
+(alternativa B)
+I e II.
+(alternativa C)
+I e III.
+(alternativa D)
+III e IV.
+Resposta comentada:
+I. alternativa errada, pois se trata de uma atribuicao comum de todos os membros da equipe.
+II. Correta.
+III alternativa errada porque participar do acolhimento dos usuários, proporcionando
+atendimento humanizado, realizando classificação de risco, identificando as necessidades de
+intervenções de cuidado, responsabilizando-se pela continuidade da atenção e viabilizando o
+estabelecimento do vínculo é uma atribuicao de toda a equipe, independentemente de aumento
+de incidencia de uma enfermidade.
+IV. Correta
+Brasil, Ministério da Saúde. Gabinete Ministerial. Portaria 2436. Política Nacional de Atenção
+Básica 2022.
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 9 de 12
+
+9ª QUESTÃO
+Enunciado:
+Carlos, 21 anos, negro, não analfabetizado formalmente, mas sabe ler e escrever de forma
+funcional, atua como profissional do sexo, nome social Léia procura a UBS de seu bairro. Com
+dificuldade e constrangimento, Léia informa sobre uma rejeição do silicone que surgiu há alguns
+dias e que vem prejudicando seu trabalho. A recepcionista diz que o médico não poderá atendêla porque aquele período é designado para atendimento às pessoas com diabetes e
+hipertensão, que o horário da triagem já aconteceu. Na ocasião, a agente comunitária da
+microarea de Léia estava próxima à recepção e solicitou para a Léia atualizar alguns dados no
+e-SUS como orientação sexual e cirurgia de prótese de mama.
+Considerando o processo de trabalho das Equipes que atuam na Atenção Básica, analise as
+assertivas abaixo:
+I. A UBS como porta de entrada preferencial garantiu a atenção à saúde da usuária adscrita,
+preconizando o atendimento da demanda espontânea, da realização das ações programáticas,
+coletivas e de vigilância em saúde conforme o planejamento da equipe.
+II. A equipe garantiu o acolhimento da usuária, proporcionando atendimento humanizado,
+realizando classificação de risco, identificando as necessidades de intervenções de cuidado,
+responsabilizando-se pela continuidade da atenção e viabilizando o estabelecimento do vínculo.
+III. Foi atualizado o cadastramento e outros dados de saúde da usuária no sistema de
+informação da Atenção Básica, alimentando e garantindo a qualidade do registro no sistema de
+informação conforme normativa vigente.
+Sobre as proposições acima, é correto o que se afirma em:
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 10 de 12
+
+Alternativas:
+(alternativa A)
+I e II.
+(alternativa B)
+I.
+(alternativa C)
+II e III.
+(alternativa D) (CORRETA)
+III.
+Resposta comentada:
+Cadastrar e manter atualizado o cadastramento e outros dados de saúde das famílias e dos
+indivíduos no sistema de informação da Atenção Básica vigente, utilizando as informações
+sistematicamente para a análise da situação de saúde, considerando as características sociais,
+econômicas, culturais, demográficas e epidemiológicas do território, priorizando as situações a
+serem acompanhadas no planejamento local BRASIL. Ministério da Saúde.Portaria 2436 de 21
+de setembro de 2017
+10ª QUESTÃO
+Enunciado:
+Um médico da família, membro de uma equipe da Saúde da Família (eSF), está atendendo uma
+criança com suspeita de Transtorno do Espectro Autista (TEA). Ele percebe a necessidade de
+uma avaliação especializada para diagnóstico e, consequente, estabelecer melhores estratégias
+de cuidado. Nesse contexto, o profissional da eSF decide solicitar o matriciamento pelo eMULTI
+(equipes Multiprofissionais na Atenção Primária à Saúde).
+Indique qual das alternativas representa corretamente o conceito de matriciamento e sua
+aplicação nesta situação.
+Alternativas:
+(alternativa A) (CORRETA)
+O matriciamento é uma estratégia de apoio e suporte, em que a equipe eSF aciona a equipe de
+eMULTI com o objetivo de aprimorar o atendimento e a resolubilidade dos casos, como no caso
+do TEA.
+(alternativa B)
+O matriciamento é um processo em que se solicita para os especialistas do eMULTI capacitação
+dos profissionais da eSF sobre TEA, para estes poderem confirmar de maneira independente a
+suspeita clínica do caso.
+(alternativa C)
+O matriciamento é um processo em que o eMULTI assume integralmente o atendimento da
+criança, realizando todas as consultas e procedimentos necessários para o diagnóstico e
+tratamento do TEA.
+(alternativa D)
+O matriciamento é uma estratégia em que a equipe da eSF transfere o atendimento para o
+eMULTI, que fica encarregado de realizar as intervenções necessárias para o diagnóstico e
+tratamento do TEA.
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 11 de 12
+
+Resposta comentada:
+Justificativa:
+O matriciamento é uma estratégia de apoio e suporte entre diferentes equipes de saúde, onde
+o eMULTI atua como um núcleo de apoio para a eSF. Nesse contexto, os profissionais do
+eMULTI compartilham seus conhecimentos especializados com a equipe da ESF, contribuindo
+para a capacitação e aprimoramento dos profissionais da atenção básica.
+No caso da criança com suspeita de Transtorno do Espectro Autista (TEA), a equipe da eSF
+percebe a necessidade de uma avaliação mais especializada e, ao solicitar o matriciamento do
+eMULTI, busca o suporte e a orientação dos profissionais especializados em saúde mental, por
+exemplo, para auxiliar no atendimento dessa criança.
+O matriciamento não significa que o eMULTI assume integralmente o atendimento, nem que a
+equipe da ESF seja desvinculada do cuidado. Pelo contrário, a ideia é estabelecer uma parceria
+colaborativa entre as equipes, em que o eMULTI oferece suporte e compartilha seus
+conhecimentos, permitindo que a equipe da eSF continue a acompanhar e cuidar da criança,
+mas com maior capacitação e apoio para lidar com situações mais complexas, como o
+diagnóstico e tratamento de um transtorno como o TEA. Dessa forma, o matriciamento é uma
+estratégia que visa fortalecer a integralidade da atenção à saúde e aprimorar o cuidado
+oferecido à população.
+Referências:
+SARAIVA S. ZEPEDA J. Princípios do apoio matricial. In: GUSSO, G.; LOPES, J. M. C. (Org.).
+Tratado de medicina de família e comunidade: princípios, formação e prática. Porto Alegre:
+Artmed, 2018. 2 V. Cap. 43. Recurso eletrônico.
+PORTARIA GM/MS Nº 635, DE 22 DE MAIO DE 2023
+
+000093.590014.1d8e88.1845dc.b73616.8947da.be9131.30112
+
+Pgina 12 de 12
+
+

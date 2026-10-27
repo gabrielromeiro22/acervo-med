@@ -1,0 +1,2279 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Estágio Curricular em Urgências e Emergências e
+Saúde Mental
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data: 11/06/2025
+
+N2 INTERNATO - MEDICINA - UESM - 2025.1 - ROT 3 - 11/JUNHO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16112 - CADERNO 001
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+
+Enunciado:
+(Banco AFYA) Um paciente de 70 anos, com histórico de infarto agudo do miocárdio e
+insuficiência cardíaca, é admitido na emergência com palpitações, tontura e pressão arterial de
+85/55 mmHg. O monitor cardíaco revela taquicardia com QRS largo, regular, a 160 bpm. O
+paciente está consciente, mas com sinais de perfusão periférica diminuída.
+Qual é a conduta mais adequada para o manejo dessa arritmia nesse contexto clínico?
+Alternativas:
+(alternativa A)
+Iniciar amiodarona intravenosa lentamente, mantendo observação clínica e avaliando resposta em
+6 horas.
+(alternativa B) (CORRETA)
+Realizar cardioversão elétrica sincronizada imediata, devido à presença de instabilidade
+hemodinâmica.
+(alternativa C)
+Prescrever propranolol oral para reduzir a frequência cardíaca e melhorar a perfusão tecidual.
+(alternativa D)
+Iniciar adenosina em bolus intravenoso, pois é eficaz na reversão de taquiarritmias com QRS
+largo.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 1 de 59
+
+Resposta comentada:
+"Iniciar amiodarona intravenosa lentamente, mantendo observação clínica e avaliando resposta
+em 6 horas."
+Incorreta. A amiodarona IV é opção em pacientes estáveis com taquicardia ventricular (TV)
+sustentada. Neste caso, há instabilidade hemodinâmica, e o tratamento imediato é cardioversão
+elétrica sincronizada. A administração lenta de amiodarona não é segura nesse contexto.
+"Iniciar adenosina em bolus intravenoso, pois é eficaz na reversão de taquiarritmias com QRS
+largo."
+Incorreta. A adenosina pode ser considerada apenas se houver dúvida entre TSVP com
+aberrância e TV, e nunca deve retardar a cardioversão em casos instáveis. Além disso, é ineficaz
+em TV verdadeira e pode causar deterioração hemodinâmica.
+"Realizar cardioversão elétrica sincronizada imediata, devido à presença de instabilidade
+hemodinâmica."
+Correta. A presença de taquicardia com QRS largo, regular, associada à hipotensão e má
+perfusão, configura instabilidade, indicando cardioversão elétrica sincronizada como conduta
+prioritária, conforme protocolos internacionais e nacionais para emergências cardíacas.
+"Prescrever propranolol oral para reduzir a frequência cardíaca e melhorar a perfusão tecidual."
+Incorreta. O propranolol não é indicado em emergências com instabilidade hemodinâmica, devido
+ao risco de agravar o quadro por bloqueio beta-adrenérgico. O uso oral também não tem ação
+imediata adequada ao cenário de urgência.
+Referência:
+Perman SM, Elmer J, Maciel CB, et al. 2023 American Heart Association Focused Update on
+Adult Advanced Cardiovascular Life Support. Circulation. 2024; 149(5):e254-e273.
+
+2ª QUESTÃO
+Enunciado:
+(UNITPAC) Durante o plantão, um médico recebe o caso de Marcos Vinícius, 22 anos de idade,
+que está na área vermelha do pronto-socorro, sob protocolo de Cetoacidose Diabética (CAD),
+aguardando transferência para a Unidade de Terapia Intensiva (UTI). O paciente apresenta
+sintomas clássicos da condição, incluindo poliúria, polidipsia, dor abdominal e vômitos. No exame
+físico, observa-se desidratação, respiração de Kussmaul e hálito cetônico.
+Em relação ao atendimento e à assistência a esse paciente, assinale a alternativa que apresenta
+as alterações laboratoriais que seriam compatíveis com o diagnóstico da condição sofrida pelo
+paciente e o tratamento a ser instituído, sabendo que Marcos Vinícius acabara de receber um
+exame com K+ de 7,2 mEq/L.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 2 de 59
+
+Alternativas:
+(alternativa A) (CORRETA)
+Hiperglicemia ≥ 250 mg/dL, pH < 7,3 e cetonúria; após um bólus inicial de solução salina ou com
+solução de Ringer com lactato, a reposição do déficit de sódio e de água livre é realizada no
+transcorrer das 24 horas; em seguida, prossegue-se com a insulinoterapia, lembrando que o início
+do tratamento deve ser feito com baixa dose de insulina regular intravenosa em todos os
+pacientes com CAD que tenham potássio sérico ≥ 3,3 mEq/L; neste caso, como o potássio está
+acima de 5,2 mEq/L, não é preciso repor K+, devendo monitorizar a dosagem do íon a cada 2
+horas.
+(alternativa B)
+Glicosúria, ânion gap normal e bicarbonato < 26 mEq/L; na ausência de comprometimento das
+funções cardíaca e renal, é recomendado proceder à infusão de solução salina isotônica de
+cloreto de sódio (NaCl) 0,9%, em média 15 a 20 mL/kg na primeira hora, buscando-se
+restabelecer a perfusão periférica; em seguida, prosseguimos com a insulinoterapia, administrase imediatamente um bolus de insulina regular de ação rápida IV (0,1 unidade/kg) com posterior
+reposição de potássio - se níveis menores que 3,5 mE/L.
+(alternativa C)
+Bicarbonato > 15 mEq/L, ânion gap aumentado e glicemia > 200 mg/dL; proceder à infusão de
+solução salina isotônica de cloreto de sódio (NaCl) 0,9% (15 a 20 mL/kg na primeira hora),
+seguida da determinação dos níveis de K+ antes do início da insulina; prosseguimos com a
+reposição de K+ neste caso, mesmo tendo em face o valor apresentado, porque na cetoacidose
+diabética ocorre depleção muito rápida das reservas de potássio (déficit estimado de 3-5 mmol/kg
+[3-5 mEq/kg]). Em breve, o K+ do paciente despencará devido ao transporte do potássio para o
+interior da célula.
+(alternativa D)
+Hemoglobina glicada de 5,7%, hiperglicemia ≥ 200 mg/dL e glicosúria; é recomendada uma
+reposição de volume total de aproximadamente 100 mL/Kg de peso para o déficit de água
+estimado, para manter a pressão arterial, melhorar a perfusão tissular e renal e reduzir a glicemia;
+como o potássio está entre 4,5 e 7,5, vamos infundir 10-20 mEq/L de KCl 19,1% a cada 1 litro de
+NaCl 0,9%, diferentemente da quantidade que infundiríamos se o potássio estivesse entre 3,5 e
+4,5 (que seria 10-30 mEq/L); depois dessa etapa é que começaríamos a insulinoterapia.
+
+Resposta comentada:
+A CAD ocorre caracteristicamente em portadores de diabetes tipo 1 (DM1), como quadro inicial
+ou como consequência de situações de estresse, como infecções, grandes cirurgias, traumas
+graves etc. Vem sendo crescentemente descrita também em portadores de diabetes tipo 2 (DM2)
+em condições de estresse extremo ou como quadro de apresentação (10% a 30% dos casos de
+CAD). Entre as pessoas com DM2 de maior risco para CAD estão os afro-americanos e latinoamericanos, pacientes do sexo masculino, de meia-idade, obesos ou com sobrepeso, com
+história familiar de DM e com diabetes de início recente. Podemos definir pragmaticamente a
+CAD como um evento emergencial de descompensação aguda do DM com as seguintes
+alterações laboratoriais: acidose metabólica (pH < 7,3), bicarbonato plasmático < 15mmol/L,
+glicemia plasmática > 13,9mmol/L (> 250mg/dL) e cetonúria positiva ++ (cetonemia > +)
+(Bandeira; Mancini, 2015).
+A alternativa "Hiperglicemia ≥ 250 mg/dL, pH < 7,3 e cetonúria; após um bólus inicial de solução
+salina ou com solução de Ringer com lactato, a reposição do déficit de sódio e de água livre é
+realizada no transcorrer das 24 horas; em seguida, prossegue-se com a insulinoterapia,
+lembrando que o início do tratamento deve ser feito com baixa dose de insulina regular
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 3 de 59
+
+intravenosa em todos os pacientes com CAD que tenham potássio sérico ≥ 3,3 mEq/L; neste
+caso, como o potássio está acima de 5,2 mEq/L, não é preciso repor K+, devendo monitorizar a
+dosagem do íon a cada 2 horas." é a correta, pois, de fato a administração de um bólus inicial de
+solução salina (NaCl 0,9%) ou solução Ringer com lactato é recomendada para corrigir a
+desidratação e restabelecer a perfusão circulatória, conforme as orientações da Diretriz Oficial da
+Sociedade Brasileira de Diabetes (2023). Essa reposição deve ser feita de forma controlada, com
+monitoramento do volume de reposição e ajustes conforme a resposta clínica do paciente. A
+administração de uma baixa dose inicial é indicada realmente aos pacientes com CAD moderado
+a grave, desde que o potássio sérico seja ≥ 3,3 mEq/L (Santomauro et al., 2023). Isso é
+importante porque a insulina pode causar uma queda rápida do potássio sérico, e, se o potássio
+estiver baixo, o risco de arritmias e complicações graves aumenta. Quando o potássio sérico está
+> 5,2 mEq/L, como no caso do paciente da questão, de fato, não é necessário iniciar a reposição
+de potássio, mas a dosagem deve ser monitorada a cada 2 horas, pois o potássio pode cair
+rapidamente com o início da insulinoterapia. Isso é um ponto-chave para evitar hipocalemia em
+um paciente em risco.
+A alternativa "Glicosúria, ânion gap normal e bicarbonato < 26 mEq/L; na ausência de
+comprometimento das funções cardíaca e renal, é recomendado proceder à infusão de solução
+salina isotônica de cloreto de sódio (NaCl) 0,9%, em média 15 a 20 mL/kg na primeira hora,
+buscando-se restabelecer a perfusão periférica; em seguida, prosseguimos com a insulinoterapia,
+administra-se imediatamente um bolus de insulina regular de ação rápida IV (0,1 unidade/kg) com
+posterior reposição de potássio - se níveis menores que 3,5 mE/L." incorreta por vários motivos.
+Em um contexto de CAD, o ânion gap aumentado e o bicarbonato < 15 mEq/L são características
+típicas da acidose metabólica, típica da CAD (Bandeira; Mancini, 2015). Mas, um ânion gap
+normal e um bicarbonato ≥ 15 mEq/L, como sugere essa alternativa, são incomuns e podem
+sugerir outro diagnóstico. A administração de insulina deve ser cuidadosamente avaliada. Na
+presença de potássio abaixo de 3,3 mEq/L, não se deve iniciar a insulinoterapia antes da
+reposição de potássio, o que não é mencionado aqui, gerando risco para hipocalemia grave. A
+alternativa sugere que a insulinoterapia é iniciada sem antes avaliar completamente os níveis de
+potássio.
+A alternativa "Bicarbonato > 15 mEq/L, ânion gap aumentado e glicemia > 200 mg/dL; proceder à
+infusão de solução salina isotônica de cloreto de sódio (NaCl) 0,9% (15 a 20 mL/kg na primeira
+hora), seguida da determinação dos níveis de K+ antes do início da insulina; prosseguimos com a
+reposição de K+ neste caso, mesmo tendo em face o valor apresentado, porque na cetoacidose
+diabética ocorre depleção muito rápida das reservas de potássio (déficit estimado de 3-5 mmol/kg
+[3-5 mEq/kg]). Em breve, o K+ do paciente despencará devido ao transporte do potássio para o
+interior da célula." Apresenta falhas na abordagem do potássio: o paciente apresenta um valor
+inicial de potássio 7,2 mEq/L, o que já é alto. Repor potássio neste cenário pode ser perigoso e
+desnecessário, visto que o potássio deve ser monitorado e corrigido conforme a resposta ao
+tratamento. A alternativa sugerir reposição de potássio imediatamente é inadequada, pois não há
+uma indicação clara para isso com potássio já elevado. Ademais, mesmo que a reposição de
+potássio seja uma prioridade em casos de hipocalemia, a administração de insulina deve ser
+precedida de monitoramento rigoroso dos níveis de potássio, especialmente com valores
+elevados iniciais.
+A alternativa "Hemoglobina glicada de 5,7%, hiperglicemia ≥ 200 mg/dL e glicosúria; é
+recomendada uma reposição de volume total de aproximadamente 100 mL/Kg de peso para o
+déficit de água estimado, para manter a pressão arterial, melhorar a perfusão tissular e renal e
+reduzir a glicemia; como o potássio está entre 4,5 e 7,5, vamos infundir 10-20 mEq/L de KCl
+19,1% a cada 1 litro de NaCl 0,9%, diferentemente da quantidade que infundiríamos se o potássio
+estivesse entre 3,5 e 4,5 (que seria 10-30 mEq/L); depois dessa etapa é que começaríamos a
+insulinoterapia." também é incorreta, pois hiperglicemia não é indicativa de CAD apenas com
+glicemia ≥ 200 mg/dL. Para o diagnóstico de CAD, a glicemia geralmente é muito maior,
+frequentemente superior a 250 mg/dL. A glicemia de 200 mg/dL não é suficientemente alta para
+sugerir CAD. A reposição inicial deve ser de 15-20 mL/kg, com ajustes subsequentes
+dependendo da resposta clínica, especialmente em pacientes com desidratação grave. Além
+disso, não está indicada reposição de potássio. Valores acima de 5,2 mEq/L não pedem
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 4 de 59
+
+reposição de K+, apenas monitoramento.
+Referências:
+BANDEIRA, Francisco; MANCINI, Marcio; GRAF, Hans. Endocrinologia e Diabetes. 3. ed. Rio
+de Janeiro: MedBook Editora, 2015. E-book. p. 930. ISBN 9786557830369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830369/. Acesso em: 12 fev. 2025.
+SANTOMAURO, Ana Teresa et al. Diagnóstico e tratamento da cetoacidose diabética. Diretriz
+Oficial da Sociedade Brasileira de Diabetes, 2023.
+3ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um homem de 68 anos, com hipertensão e dislipidemia, histórico de AVC
+isquêmico prévio há 5 anos com sequela de hemiparesia direita, apresenta-se à sala de
+emergência com dor torácica típica há 50 minutos, irradiada para a mandíbula, associada a
+náusea e sudorese. ECG mostra supradesnível do segmento ST em DII, DIII e aVF, com
+infradesnível em V1–V3, além de supradesnível do segmento ST em derivações V3r, V4r, V7, V8,
+V9. A troponina ainda não está disponível.
+O hospital dispõe de centro de hemodinâmica com hemodinamicista de sobreaviso 24h. O
+paciente não apresenta contraindicações formais à antiagregação ou anticoagulação.
+Considerando as diretrizes atuais da ESC (2023) e da Sociedade Brasileira de Cardiologia (SBC),
+qual é a conduta terapêutica inicial mais apropriada?
+Alternativas:
+(alternativa A)
+Administrar AAS 300 mg VO, clopidogrel 300 mg VO, heparina não fracionada IV em bolus de 70
+U/kg e encaminhar para ICP primária, reservando uso de nitrato IV e IECA conforme resposta
+hemodinâmica inicial.
+(alternativa B) (CORRETA)
+Administrar AAS 300 mg VO, ticagrelor 180 mg VO e encaminhar imediatamente para ICP
+primária, onde será realizada heparina não fracionada IV em bolus de 70-100 U/kg, com
+possibilidade de inibidor de GP IIb/IIIa conforme achado angiográfico.
+(alternativa C)
+Administrar AAS 300 mg VO, prasugrel 60 mg VO, enoxaparina 1 mg/kg SC e encaminhar para
+ICP primária, considerando uso de IECA precoce e inibidor de GP IIb/IIIa se trombo intracoronário
+for identificado.
+(alternativa D)
+Administrar AAS 300 mg VO, ticagrelor 180 mg VO, enoxaparina 1 mg/kg SC e encaminhar para
+ICP primária, podendo-se associar nitrato sublingual e beta-bloqueador oral em pacientes
+hemodinamicamente estáveis.
+
+Resposta comentada:
+Resposta correta: Administrar AAS 300 mg VO, ticagrelor 180 mg VO e encaminhar
+imediatamente para ICP primária, onde será realizada heparina não fracionada IV em bolus de 70100 U/kg, com possibilidade de inibidor de GP IIb/IIIa conforme achado angiográfico.
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 5 de 59
+
+A alternativa acima, gabarito oficial da questão, reflete bem a conduta terapêutica inicial mais
+apropriada nos quadros de Síndrome Coronariana Aguda com Supra de ST (SCACSST):
+1. AAS 300 mg VO (ataque antiplaquetário): O ácido acetilsalicílico (AAS) é a base da terapia
+antiplaquetária em qualquer SCA. Deve ser administrado em dose de ataque de 150 a 300 mg VO
+(AHA: 162 - 325 mg), o mais precoce possível, pois inibe irreversivelmente a COX-1 → bloqueia
+agregação plaquetária mediada por tromboxano A₂. Reduz mortalidade mesmo antes da ICP.
+2. Ticagrelor 180 mg VO (inibidor de P2Y12): O ticagrelor é o inibidor de P2Y12 preferencial na
+SCACSSST, pelas diretrizes da ESC e SBC: Ação mais rápida e potente que o clopidogrel; Não
+depende de ativação hepática, como o clopidogrel; Reduz eventos isquêmicos e mortalidade em
+comparação ao clopidogrel (estudo PLATO); A dose de 180 mg VO em dose de ataque é a
+recomendada antes da ICP, salvo contraindicações.
+3. Heparina não fracionada (HNF) 70 - 100 U/kg IV: A heparina IV é o anticoagulante de escolha
+na ICP primária. Dose de ataque: 70 - 100 U/kg seguido de infusão contínua para manter PTTa
+60–80 segundos. Possui: Início imediato; Curta meia-vida; Facilidade de monitoramento e
+reversão (protamina); A heparina não fracionada foi estabelecida como o padrão de tratamento
+em pacientes com IAMCSSST submetidos à ICP devido ao seu perfil favorável de risco/benefício.
+Nesses pacientes, a anticoagulação deve ser administrada durante o procedimento invasivo.
+Faltam evidências de alta qualidade sobre o benefício da administração precoce de
+anticoagulação em pacientes submetidos à estratégia de ICP.
+4. Encaminhamento imediato para ICP primária: O paciente está dentro da janela ideal de
+reperfusão (<120 min) → ICP primária é o tratamento de escolha; Reperfusão rápida é o principal
+determinante de sobrevida; Tempo porta-balão ideal: ≤ 90 min (preferencialmente < 60 min).
+5. Inibidores de GP IIb/IIIa (ex: abciximab, eptifibatide): Não são indicados rotineiramente antes da
+ICP; Seu uso deve ser individualizado, sendo considerado quando, durante o procedimento, há:
+Trombo intracoronário volumoso; Fluxo TIMI ≤ 2; No-reflow. Não há evidências sólidas de
+qualquer benefício adicional com o uso rotineiro de inibidores da GP IIb/IIIa em pacientes com
+SCA agendados para angiografia coronária. No entanto, seu uso deve ser considerado para
+resgate se houver evidência de no-reflow ou complicação trombótica durante a ICP. Outro uso
+potencial para inibidores da GP IIb/IIIa é no contexto de ICP de alto risco em pacientes que não
+foram pré-tratados com inibidores do receptor P2Y12. Devemos lembrar as contraindicações:
+contraindicado em pacientes com AVCH prévio, acidente vascular cerebral isquêmico nos últimos
+30 dias, fibrinólise ou contagem de plaquetas < 100.000/mm3.
+Portanto, essa alternativa reflete a sequência ideal e mais atualizada de tratamento na SCACSST:
+antiplaquetários de alta potência e rápida ação + anticoagulação adequada + encaminhamento
+para ICP dentro da janela de reperfusão + flexibilidade clínica para uso de terapia adjunta (GP
+IIb/IIIa) conforme necessidade. Está alinhada às melhores evidências disponíveis, com
+aplicabilidade prática imediata em um cenário de IAM com supra.
+Agora vamos analisar as alternativas incorretas:
+Administrar AAS 300 mg VO, prasugrel 60 mg VO, enoxaparina 1 mg/kg SC e encaminhar para
+ICP primária, considerando uso de IECA precoce e inibidor de GP IIb/IIIa se trombo intracoronário
+for identificado: incorreta.
+Uso de prasugrel antes da coronariografia: Embora o prasugrel tenha superioridade em alguns
+estudos (TRITON-TIMI 38), sua administração pré-ICP primária não é recomendada
+rotineiramente. Segundo a ESC 2023, o prasugrel deve ser administrado apenas após a anatomia
+coronariana ser conhecida, pois está contraindicado em pacientes com AVC ou AIT prévios, pode
+ter pior risco-benefício se o paciente for a cirurgia de revascularização. Portanto, essa estratégia
+não é considerada padrão inicial.
+Uso de enoxaparina SC como anticoagulante pré-ICP primária: A heparina não fracionada IV é o
+anticoagulante preferido quando o paciente vai direto para a sala de hemodinâmica, por ser de
+início rápido e ação titulável, fácil de antagonizar com protamina, possível de monitorar durante o
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 6 de 59
+
+procedimento. Enoxaparina SC pode ser usada em locais sem sala de hemodinâmica ou na
+trombólise, mas não é a escolha ideal em ICP imediata.
+Citação de uso de IECA precoce: Embora IECA tenha benefício em pacientes com disfunção
+ventricular, não é prioridade na primeira hora de atendimento, e não influencia conduta de
+reperfusão imediata.
+Administrar AAS 300 mg VO, clopidogrel 300 mg VO, heparina não fracionada IV em bolus de 70
+U/kg e encaminhar para ICP primária, reservando uso de nitrato IV e IECA conforme resposta
+hemodinâmica inicial: incorreta.
+Uso de clopidogrel como antiagregante preferencial: embora seja uma opção aceitável, clopidogrel
+é inferior ao ticagrelor e ao prasugrel em rapidez de ação, potência antiplaquetária e redução de
+eventos isquêmicos. Ticagrelor é o inibidor de P2Y12 preferencial nas diretrizes ESC 2023 e SBC
+2021 para pacientes em ICP primária, desde que não haja contraindicação.
+Heparina não fracionada (70 U/kg): A anticoagulação deve ser administrada durante o
+procedimento invasivo. Faltam evidências de alta qualidade sobre o benefício da administração
+precoce de anticoagulação em pacientes submetidos à estratégia de ICP.
+Uso do nitrato IV e IECA: Esses medicamentos não são prioridades na primeira hora de um IAM
+com supra. Seu uso depende da pressão arterial, congestão pulmonar e função ventricular, mas
+não substitui ou impacta a decisão sobre o eixo da reperfusão. Além disso, por se tratar de um
+IAMCSST de parede inferior com acometimento de ventrículo direito (VD), o uso de nitrato é
+formalmente contraindicado.
+Administrar AAS 300 mg VO, ticagrelor 180 mg VO, enoxaparina 1 mg/kg SC e encaminhar para
+ICP primária, podendo-se associar nitrato sublingual e beta-bloqueador oral em pacientes
+hemodinamicamente estáveis: incorreta.
+Enoxaparina subcutânea como anticoagulação em ICP: O uso de enoxaparina SC não é a
+primeira escolha quando o paciente será submetido a ICP primária. A heparina IV é preferida por
+razões práticas e farmacológicas, como ação imediata, facilidade de ajuste intra-hemodinâmica.
+Associação precoce de beta-bloqueador oral: Beta-bloqueador oral precoce pode ser prejudicial,
+especialmente se o paciente estiver com congestão pulmonar, se houver risco de bradicardia ou
+disfunção do VE, infarto de VD. O uso de betabloqueador é avaliado após reperfusão, e não deve
+ser usado rotineiramente na fase hiperaguda em TODOS os pacientes.
+Nitrato sublingual: Pode ser usado para alívio sintomático em pacientes com dor, sem hipotensão
+e sem infarto de VD, mas não é parte do tratamento de reperfusão nem altera desfecho.
+Referências.
+Byrne RA, Rossello X, Coughlan JJ, Barbato E, Berry C, Chieffo A, Claeys MJ, Dan GA, Dweck
+MR, Galbraith M, Gilard M, Hinterbuchner L, Jankowska EA, Jüni P, Kimura T, Kunadian V,
+Leosdottir M, Lorusso R, Pedretti RFE, Rigopoulos AG, Rubini Gimenez M, Thiele H, Vranckx P,
+Wassmann S, Wenger NK, Ibanez B; ESC Scientific Document Group. 2023 ESC Guidelines for
+the management of acute coronary syndromes. Eur Heart J. 2023, 12 de outubro; 44(38):37203826. doi: 10.1093/eurheartj Erraum in: Eur Heart J. 2024 Apr 1;45(13):1145. doi:
+10.1093/eurheartj/ehad870. PMID: 37622654.
+Nicolau, José Carlos; Feitosa Filho, Gilson Soares; Petriz, João Luiz; Furtado, Remo Holanda de
+Mendonça; Précoma, Dalton Bertolim; Lemke, Walmor; Lopes, Renato
+Delascio; Timerman, Ari; Marin Neto, José A. ; Bezerra Neto, Luiz; Gomes, Bruno Ferraz de
+Oliveira; Santos, Eduardo Cavalcanti Lapa; Piegas, Leopoldo Soares; Soeiro, Alexandre de
+Matos; Negri, Alexandre Jorge de Andrade; Franci, Andre; Markman
+Filho, Brivaldo; Baccaro, Bruno Mendonça; Montenegro, Carlos Eduardo Lucena; Rochitte, Carlos
+Eduardo; Barbosa, Carlos José Dornas Gonçalves; Virgens, Cláudio Marcelo Bittencourt
+das; Stefanini, Edson; Manenti, Euler Roberto Fernandes; Lima, Felipe Gallego; Monteiro
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 7 de 59
+
+Júnior, Francisco das Chagas; Correa Filho, Harry; Pena, Henrique Patrus Mundim; Pinto, Ibraim
+Masciarelli Francisco; Falcão, João Luiz de Alencar Araripe; Sena, Joberto Pinheiro; Peixoto, José
+Maria; Souza, Juliana Ascenção de; Silva, Leonardo Sara da; Maia, Lilia Nigro; Ohe, Louis
+Nakayama; Baracioli, Luciano Moreira; Dallan, Luís Alberto de Oliveira; Dallan, Luis Augusto
+Palma; Mattos, Luiz Alberto Piva e; Bodanese, Luiz Carlos; Ritt, Luiz Eduardo
+Fonteles; Canesin, Manoel Fernandes; Rivas, Marcelo Bueno da
+Silva; Franken, Marcelo; Magalhães, Marcos José Gomes; Oliveira Júnior, Múcio Tavares
+de; Filgueiras Filho, Nivaldo Menezes; Dutra, Oscar Pereira; Coelho, Otávio Rizzi; Leães, Paulo
+Ernesto; Rossi, Paulo Roberto Ferreira; Soares, Paulo Rogério; Lemos Neto, Pedro
+Alves; Farsky, Pedro Silvio; Cavalcanti, Rafael Rebêlo C.Alves, Renato Jorge; Kalil, Renato
+Abdala Karam; Esporcatte, Roberto; Marino, Roberto Luiz; Giraldez, Roberto Rocha Corrêa
+Veiga; Meneghelo, Romeu Sérgio; Lima, Ronaldo de Souza Leão; Ramos, Rui
+Fernando; Falcão, Sandra Nivea dos Reis Saraiva; Dalçóquio, Talia Falcão; Lemke, Viviana de
+Mello Guzzo; Chalela, William Azem; Mathias Júnior, Wilson. Diretrizes da Sociedade Brasileira
+de Cardiologia sobre Angina Instável e Infarto Agudo do Miocárdio sem Supradesnível do
+Segmento ST – 2021. Arq. Bras. Cardiol., v. 117, n. 1, p. 181-264, jul. 2021.
+2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute
+Coronary Syndromes: A Report of the American College of Cardiology/American Heart
+Association Joint Committee on Clinical Practice Guidelines. Sunil V. Rao, MD, FACC, FFSCAI
+Chair, , Michelle L. O’Donoghue, MD, MPH, FACC, FAHA ViceC:hair, Marc Ruel, MD, MPH,
+FACC,FAHA Vice Chair, Tanveer Rab, MD, FACC, MSCAI JC Liaison, Jaqueline E. TamisHolland, MD, FACC, FAHA, FSCAIJC Liaison, John H. Alexander, MD, MHS, FACC,
+FAHA, Usman Baber, MD, MS, FACC, FSCAI, Heather Baker, EdD, Mauricio G. Cohen, MD,
+FACC, FSCAI, Mercedes Cruz-Ruiz, CHWI, Leslie L. Davis, PhD, RN, ANP-BC, FACC,
+FAHA, James A. de Lemos, MD, FACC, FAHA, Tracy A. DeWald, PharmD, MHS, BCPS-AQ
+Cardiology, Islam Y. Elgendy, MD, FACC, FAHA, FSCAI, Dmitriy N. Feldman, MD, FACC,
+FSCAI, Abhinav Goyal, MD, MHS, FACC, FAHA, Ijeoma Isiadinso, MD, MPH, FACC, Venu
+Menon, MD, FACC, FAHA, David A. Morrow, MD, MPH, FACC, FAHA, Debabrata
+Mukherjee, MD, MS, FACC, FAHA, MSCAI, Elke Platz, MD, MS, FACEP, Susan B. Promes, MD,
+MBA, FACEP, Sigrid Sandner, MD, MS, Yader Sandoval, MD, FACC, FSCAI, Rachel
+Schunder, MA, Binita Shah, MD, MS, Jason P. Stopyra, MD, MS, Amy W. Talbot, MPH, Pam R.
+Taub, MD, FACC, Marlene S. Williams, MD, FACC.
+4ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um agricultor de 42 anos é atendido na unidade de saúde após exposição
+acidental a inseticida organofosforado. Apresenta-se com sudorese intensa, sialorreia, vômitos,
+diarreia, bradicardia e fasciculações musculares. O exame físico revela miose, confusão e
+frequência respiratória de 8 irpm. Após garantir via aérea e suporte ventilatório, qual das condutas
+abaixo é considerada essencial e prioritária para o tratamento da intoxicação neste cenário?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 8 de 59
+
+Alternativas:
+(alternativa A)
+Realizar lavagem gástrica imediatamente, mesmo com nível de consciência rebaixado, para
+eliminar o agente tóxico.
+(alternativa B)
+Prescrever corticosteroides para reduzir a resposta inflamatória sistêmica desencadeada pelo
+organofosforado.
+(alternativa C) (CORRETA)
+Iniciar administração de atropina em doses progressivas até reversão de sintomas muscarínicos,
+associada à pralidoxima.
+(alternativa D)
+Administrar benzodiazepínicos e aguardar melhora espontânea, já que a substância possui meiavida curta.
+
+Resposta comentada:
+Iniciar administração de atropina em doses progressivas até reversão de sintomas muscarínicos,
+associada à pralidoxima.
+Correta. A atropina é essencial no tratamento da intoxicação por organofosforados, com
+administração em doses repetidas até melhora dos sintomas colinérgicos (principalmente
+broncorreia, bradicardia e miose). A pralidoxima deve ser associada para reativar a enzima
+acetilcolinesterase, especialmente se administrada precocemente.
+Realizar lavagem gástrica imediatamente, mesmo com nível de consciência rebaixado, para
+eliminar o agente tóxico.
+Incorreta. Lavagem gástrica não está indicada de forma rotineira, especialmente em pacientes
+com rebaixamento de consciência ou instabilidade, devido ao risco de aspiração. Deve ser feita
+apenas em casos selecionados e com via aérea protegida.
+Administrar benzodiazepínicos e aguardar melhora espontânea, já que a substância possui meiavida curta.
+Incorreta. A intoxicação por organofosforados é grave e pode ser fatal se não tratada de forma
+ativa. A administração de benzodiazepínicos pode ser indicada em caso de convulsões, mas não
+substitui a terapia específica com atropina e pralidoxima.
+Prescrever corticosteroides para reduzir a resposta inflamatória sistêmica desencadeada pelo
+organofosforado.
+Incorreta. Corticosteroides não fazem parte do tratamento padrão da intoxicação por
+anticolinesterásicos. Não há evidência robusta que justifique seu uso nesses casos.
+Referência:
+HAJJAR, Ludhmila Abrahão et al. (ed.). Medicina de emergência: abordagem prática. 18. ed., rev.
+e atual. Santana de Parnaíba, SP: Manole, 2024.
+5ª QUESTÃO
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 9 de 59
+
+Enunciado:
+(UNIDOMPEDRO) Você é o médico da emergência e está atendendo um paciente de 20 anos
+com diagnóstico prévio de diabetes tipo 1. Ele foi admitido com queixa de dor abdominal e
+vômitos. No exame físico, você observa:
+- Via aérea pérvia.
+- Taquipneico (frequência respiratória de 35 irpm), murmúrio vesicular simétrico bilateral e sem
+ruídos adventícios. Saturação de O₂ de 97% em ar ambiente.
+- Taquicárdico (frequência cardíaca de 135 bpm), pulsos radiais cheios e simétricos, enchimento
+capilar de 2 segundos e pressão arterial de 100 × 80 mmHg.
+- Sonolento, Escala de Glasgow 14 (Abertura ocular – 3 | Resposta verbal – 5 | Resposta motora
+– 6), pupilas médias e fotorreagentes, com força simétrica nos quatro membros. Glicemia capilar:
+350 mg/dL.
+- Ausência de ferimentos ou alterações à exposição do paciente.
+Diante desse quadro, você opta por monitorizar o paciente em sala vermelha e solicitar exames
+para investigação de complicações hiperglicêmicas, cujos resultados são descritos abaixo:
+Gasometria arterial: pH 6,98 | pCO₂ 14 | HCO₃⁻ 4 | Lactato 1,2
+Hemograma: Hemoglobina 14,5 | Leucócitos 10.500 | Bastões 0% | Plaquetas 350.000
+Função renal e eletrólitos: Creatinina 1,5 | Ureia 65 | Sódio 136 | Potássio 6,7
+Outros: Cetonemia positiva | Glicose 365 mg/dL
+Com relação ao caso clínico descrito, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O paciente apresenta cetoacidose diabética e necessita receber manejo inicial com reposição
+volêmica com cristaloides e infusão de solução de bicarbonato de sódio devido à acidose
+metabólica grave.
+(alternativa B)
+O paciente apresenta cetoacidose diabética euglicêmica e deve receber reposição volêmica com
+solução salina isotônica durante todo o tratamento, sem necessidade de aporte de potássio nessa
+solução.
+(alternativa C)
+O paciente apresenta cetoacidose diabética grave e tem indicação de iniciar reposição volêmica
+com cristaloides com aporte de potássio, associado à infusão contínua de insulina regular até
+atingir critérios de resolução.
+(alternativa D) (CORRETA)
+O paciente deve receber cristaloide e infusão contínua de insulina regular. Quando atingir glicemia
+abaixo de 250mg/dL, devemos iniciar aporte de glicose e manter insulinoterapia até atingir os
+critérios de resolução da cetoacidose.
+
+Resposta comentada:
+RESPOSTA CORRETA
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 10 de 59
+
+O paciente deve receber cristaloide e infusão contínua de insulina regular. Quando atingir glicemia
+abaixo de 250mg/dL, devemos iniciar aporte de glicose e manter insulinoterapia até atingir os
+critérios de resolução da cetoacidose.
+Justificativa:
+CORRETA :
+3ª alternativa - “O paciente deve receber cristaloide e infusão contínua de insulina regular.
+Quando atingir glicemia abaixo de 250mg/dL, devemos iniciar aporte de glicose e manter
+insulinoterapia até atingir os critérios de resolução da cetoacidose.
+”A cetoacidose diabética (CAD) é uma complicação aguda relacionada a hiperglicemia e que é
+definida pela tríade: Glicemia maior que 250 mg/dL, pH arterial < 7,3 e Cetonemia positiva.
+A hidratação é fundamental no manejo inicial e tem como alvo inicial a estabilização
+hemodinâmica. Iniciamos com solução isotônica (NaCl a 0,9% ou Ringer Lactato) na primeira
+hora (1 a 1,5 litros). Antes de indicar o início da infusão de insulina, é necessário realizar análise
+do potássio sérico - pacientes com K > 5 mEq/L não necessitam iniciar reposição nesse
+momento e podem já receber insulina contínua. Quando a glicemia chegar a 250-300 mg/dL a
+hidratação é mantida, mas associando glicose com a solução salina. A bomba de infusão pode
+ser desligada quando for atingido os critérios de resolução da CAD (pelo menos dois dos três
+critérios pH > 7,3; Ânion-gap ≤12; Bicarbonato ≥15).
+INCORRETAS:
+1ª alternativa - “O paciente apresenta cetoacidose diabética e necessita receber manejo inicial
+com reposição volêmica com cristaloides e infusão de solução de bicarbonato de sódio devido à
+acidose metabólica grave"
+A reposição de bicarbonato de sódio não demonstrou benefício em estudos e só é indicada em
+pacientes com pH < 6,9.
+
+2ª alternativa - “O paciente apresenta cetoacidose diabética grave e tem indicação de iniciar
+reposição volêmica com cristaloides com aporte de potássio, associado à infusão contínua de
+insulina regular até atingir critérios de resolução."
+Antes de indicar o início da infusão de insulina, é necessário realizar a análise do potássio sérico:
+se o paciente apresenta hipocalemia (com K < 3,3 mEq/L), deve ser realizada infusão de potássio
+e nova dosagem antes de iniciar insulinoterapia. Pacientes com K entre 3,3-5,0 mEq/L devem
+repor potássio juntamente com a solução de hidratação, mas já podem receber insulina; pacientes
+com K > 5 mEq/L não necessitam iniciar reposição nesse momento e também já podem iniciar
+infusão de insulina.
+
+4ª alternativa - “O paciente apresenta cetoacidose diabética euglicêmica e deve receber
+reposição volêmica com solução salina isotônica durante todo o tratamento, sem necessidade de
+aporte de potássio nessa solução.”
+Não se trata de cetoacidose diabética euglicêmica, afinal os níveis glicêmicos estão elevados
+(350 mg/dL). Além disso, a hidratação é fundamental no manejo inicial da CAD e tem como alvo
+inicial a estabilização hemodinâmica. Iniciamos com solução isotônica (NaCl a 0,9% ou Ringer
+Lactato) na primeira hora (1 a 1,5 litros). Na segunda fase da hidratação mantemos 250-500 mL (4
+mL/kg) por hora. Em pacientes com sódio corrigido < 135 mEq/L mantemos solução salina
+isotônica. Mas caso a natremia seja normal ou aumentada deve-se utilizar solução hipotônica
+(salina a 0,45%).
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 11 de 59
+
+Referências:
+VELASCO, Irineu Tadeu; BRANDÃO NETO, Rodrigo Antonio; SOUZA, Heraldo Possolo de;
+MARINO, Lucas Oliveira; MARCHINI, Julio Flávio Meirelles; ALENCAR, Júlio César Garcia.
+Medicina de emergência: abordagem prática. São Paulo: Manole, 2019.
+
+6ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um homem de 67 anos, com histórico de hipertensão e doença arterial
+coronariana, é admitido na emergência com palpitações. No monitoramento cardíaco, observa-se
+taquicardia com complexos QRS estreitos, regulares, a 180 bpm sem a presença de ondas P. O
+paciente está consciente, com PA de 110/70 mmHg e SpO₂ de 97% em ar ambiente.
+Após manobras vagais ineficazes, qual deve ser a próxima conduta farmacológica mais
+apropriada, e como o plano de tratamento deve ser ajustado conforme a resposta?
+Alternativas:
+(alternativa A)
+Administrar amiodarona intravenosa imediatamente, pois é o tratamento de primeira escolha para
+qualquer taquiarritmia supraventricular.
+(alternativa B) (CORRETA)
+Administrar adenosina intravenosa em bolus rápido e reavaliar o ritmo.
+(alternativa C)
+Realizar cardioversão elétrica imediata sincronizada, independente do estado hemodinâmico, pois
+toda taquicardia requer intervenção elétrica.
+(alternativa D)
+Iniciar propranolol oral de liberação prolongada para controle da frequência cardíaca nas primeiras
+6 horas.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 12 de 59
+
+Resposta comentada:
+"Administrar adenosina intravenosa em bolus rápido e reavaliar o ritmo."
+Correta. A adenosina IV é o fármaco de primeira escolha para taquicardias supraventriculares
+paroxísticas (TSVP) com QRS estreito e regular, quando manobras vagais não surtem efeito.
+Deve ser aplicada em bolus rápido (6 mg inicialmente, podendo ir até 12 mg), com reavaliação
+clínica e eletrocardiográfica após cada dose. A conduta deve ser ajustada conforme resposta:
+conversão para ritmo sinusal ou encaminhamento para outras terapias, como bloqueadores de
+canal de cálcio ou cardioversão, se refratário.
+"Iniciar propranolol oral de liberação prolongada para controle da frequência cardíaca nas
+primeiras 6 horas."
+Incorreta. O propranolol não é recomendado como primeira linha em situações agudas de
+emergência, especialmente por via oral. A ação lenta e o risco de hipotensão contraindicam seu
+uso imediato nesse contexto.
+"Administrar amiodarona intravenosa imediatamente, pois é o tratamento de primeira escolha para
+qualquer taquiarritmia supraventricular."
+Incorreta. A amiodarona IV é reservada para casos mais graves ou taquiarritmias complexas
+refratárias, como taquicardia ventricular ou fibrilação atrial com instabilidade. Para TSVP em
+paciente estável, adenosina é preferível por ação rápida e segurança.
+"Realizar cardioversão elétrica imediata sincronizada, independente do estado hemodinâmico,
+pois toda taquicardia requer intervenção elétrica."
+Incorreta. A cardioversão elétrica sincronizada está indicada apenas quando há sinais de
+instabilidade hemodinâmica (hipotensão grave, síncope, angina ou insuficiência cardíaca aguda).
+Em pacientes estáveis, a conduta inicial deve ser farmacológica.
+Referência:
+Perman SM, Elmer J, Maciel CB, et al. 2023 American Heart Association Focused Update on
+Adult Advanced Cardiovascular Life Support. Circulation. 2024; 149(5):e254-e273.
+
+7ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um homem de 26 anos comparece ao ambulatório com queixa de tristeza
+persistente, anedonia, insônia e fadiga há cerca de três semanas. Refere que, dois meses atrás,
+passou por um período de grande energia, necessidade reduzida de sono, aumento da
+produtividade e impulsividade nas finanças, sem prejuízos significativos. Afirma que, neste
+período, sentia-se “acima do normal”, mas que agora sente-se esgotado. Nega uso de
+substâncias ou psicose. O exame clínico atual confirma humor deprimido e lentificação
+psicomotora.
+Com base na entrevista clínica e nas diretrizes diagnósticas, dentre as alternativas abaixo, qual é
+o diagnóstico mais provável e o procedimento complementar mais útil para o manejo inicial?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 13 de 59
+
+Alternativas:
+(alternativa A)
+Distimia; solicitar exames laboratoriais hormonais e iniciar psicoterapia de grupo.
+(alternativa B) (CORRETA)
+Transtorno bipolar tipo II; solicitar avaliação psiquiátrica especializada e iniciar acompanhamento
+longitudinal.
+(alternativa C)
+Episódio depressivo maior; solicitar EEG e iniciar ISRS imediatamente, sem necessidade de
+seguimento psiquiátrico.
+(alternativa D)
+Transtorno ciclotímico; prescrever antipsicótico típico e reavaliar em 30 dias.
+
+Resposta comentada:
+"Transtorno bipolar tipo II; solicitar avaliação psiquiátrica especializada e iniciar acompanhamento
+longitudinal."
+Correta. O paciente apresenta quadro típico de episódio depressivo maior atual, com histórico
+anterior compatível com episódio hipomaníaco (euforia, redução da necessidade de sono,
+impulsividade sem prejuízo funcional grave). Esses dados só emergem por meio de entrevista
+clínica estruturada, reforçando a necessidade de cuidado longitudinal e cautela na introdução de
+antidepressivos isolados.
+"Episódio depressivo maior; solicitar EEG e iniciar ISRS imediatamente, sem necessidade de
+seguimento psiquiátrico."
+Incorreta. Embora o quadro atual seja depressivo, o histórico de hipomania contraindica o uso de
+antidepressivos isolados. O EEG não é indicado rotineiramente para diagnóstico de transtornos
+do humor.
+"Transtorno ciclotímico; prescrever antipsicótico típico e reavaliar em 30 dias."
+Incorreta. O ciclotímico envolve oscilações de humor mais sutis e crônicas, sem preenchimento
+de critérios para episódios maiores. O uso de antipsicótico típico não é indicado como primeira
+linha em quadros não psicóticos nem em hipomania leve.
+"Distimia; solicitar exames laboratoriais hormonais e iniciar psicoterapia de grupo."
+Incorreta. A distimia (transtorno depressivo persistente) é crônica, com sintomas leves mantidos
+por ≥2 anos, o que não corresponde ao quadro descrito, com sintomas intensos e curta duração.
+Referências:
+APA. DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais. Artmed, 2014. Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820949. Acesso em: 02 jun. 2025.
+SALLET, Paulo C. Manual do Residente de Psiquiatria. Manole, 2023. ISBN 9788520464649.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464649. Acesso em: 02 jun. 2025.
+NARDI, A. E. et al. Tratado de Psiquiatria da Sociedade Brasileira de Psiquiatria.
+8ª QUESTÃO
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 14 de 59
+
+Enunciado:
+(UNIFIPMOC) Um homem de 68 anos, previamente hipertenso e com doença coronariana, foi
+admitido na UTI com diagnóstico de choque séptico secundário a uma infecção urinária. Após
+reposição volêmica inicial e uso de norepinefrina para manter a pressão arterial média (PAM) ≥ 65
+mmHg, ele permanece com hipotensão leve e sinais de má perfusão tecidual (tempo de
+enchimento capilar prolongado e extremidades frias), apesar da normalização da PAM. O
+ecocardiograma à beira do leito revela disfunção ventricular com fração de ejeção reduzida (35%).
+O lactato sérico ainda está elevado, em 5 mmol/L.
+Com base nas diretrizes da Surviving Sepsis Campaign, qual é a indicação mais apropriada para
+o uso de dobutamina neste paciente?
+Alternativas:
+(alternativa A)
+Iniciar dobutamina após o desmame de norepinefrina, para evitar interações entre os dois
+vasopressores, objetivando PAM acima de 65 mmHg
+(alternativa B) (CORRETA)
+Associar dobutamina à norepinefrina se disfunção cardíaca com hipoperfusão persistente apesar
+do status volêmico e pressão arterial adequados
+(alternativa C)
+Usar dobutamina apenas se o lactato sérico permanecer elevado por mais de 24 horas.
+(alternativa D)
+Iniciar dobutamina apenas se houver falha da norepinefrina e da vasopressina em manter a PAM
+acima de 65 mmHg para melhor o débito cardíaco.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 15 de 59
+
+Resposta comentada:
+Resposta correta: Associar dobutamina à norepinefrina se disfunção cardíaca com hipoperfusão
+persistente apesar do status volêmico e pressão arterial adequados.
+A dobutamina é indicada em pacientes com disfunção cardíaca e sinais de hipoperfusão
+tecidual persistente, mesmo com a PAM controlada, como forma de melhorar o débito cardíaco e
+otimizar a perfusão. A adição de dobutamina à norepinefrina é apropriada para esse objetivo,
+como na situação descrita.
+Resposta: Iniciar dobutamina apenas se houver falha da norepinefrina e da vasopressina em
+manter a PAM acima de 65 mmHg para melhor o débito cardíaco.
+O uso da dobutamina é indicado nesta situação em que temos um paciente com sinais de baixo
+débito com necessidade de medidas para melhorar seu inotropismo.
+Resposta: Iniciar dobutamina após o desmame de norepinefrina, para evitar interações entre os
+dois vasopressores, objetivando PAM acima de 65 mmHg
+Não devemos aguardar o desmame da noradrenalina haja vista que a dobutamina irá atuar na
+melhora do inotropismo e débito cardíaco do paciente permitindo melhora de perfusão sendo,
+nesta situação, indicado o início concomitante com a noradrenalina.
+Resposta: Usar dobutamina apenas se o lactato sérico permanecer elevado por mais de 24
+horas.
+A demora em iniciar a medicação acarreta piora clínica e aumento da mortalidade do paciente.
+Quando bem indicada, deve ser iniciada imediatamente.
+Referência:
+EVANS, Laura et al. Surviving sepsis campaign: international guidelines for management of sepsis
+and septic shock 2021. Intensive Care Medicine, [S.l.], v. 47, p. 1181–1247, 2021. DOI:
+https://doi.org/10.1007/s00134-021-06506-y. Disponível em: https://doi.org/10.1007/s00134-02106506-y. Acesso em: 08 out. 2024.
+9ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um homem de 64 anos, hipertenso e tabagista, é levado à unidade de saúde após
+início súbito de dificuldade para falar e fraqueza em braço e perna direitos, iniciados há cerca de 1
+hora. Está consciente e orientado, com PA 170/95 mmHg, glicemia capilar de 102 mg/dL e sem
+sinais de trauma.
+Diante do quadro clínico e considerando o manejo inicial do AVE isquêmico, qual é a conduta
+prioritária mais adequada neste momento?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 16 de 59
+
+Alternativas:
+(alternativa A)
+Solicitar ressonância magnética e exames laboratoriais completos antes de qualquer medida
+terapêutica.
+(alternativa B)
+Administrar ácido acetilsalicílico oral e observar evolução clínica por 24 horas antes de definir
+conduta neurológica.
+(alternativa C) (CORRETA)
+Encaminhar imediatamente para tomografia de crânio sem contraste, iniciar avaliação para
+possível trombólise e manter suporte clínico.
+(alternativa D)
+Iniciar anticoagulação plena com heparina, visando recanalização rápida e prevenção de novos
+eventos tromboembólicos.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 17 de 59
+
+Resposta comentada:
+"Encaminhar imediatamente para tomografia de crânio sem contraste, iniciar avaliação para
+possível trombólise e manter suporte clínico."
+Correta. Essa é a conduta prioritária para suspeita de AVE isquêmico agudo em janela terapêutica
+(menos de 4,5 horas). A tomografia de crânio sem contraste deve ser realizada com urgência
+para excluir hemorragia, condição que contraindica trombólise. Com o diagnóstico confirmado, a
+equipe deve avaliar critérios clínicos e laboratoriais para trombólise endovenosa com alteplase,
+conforme protocolos da AHA/ASA e Canadian Stroke Guidelines.
+"Iniciar anticoagulação plena com heparina, visando recanalização rápida e prevenção de novos
+eventos tromboembólicos."
+Incorreta. Anticoagulação não está indicada nas primeiras horas de AVE isquêmico. Pode,
+inclusive, aumentar o risco de transformação hemorrágica. O foco inicial é avaliar para trombólise
+ou suporte neurológico adequado.
+"Administrar ácido acetilsalicílico oral e observar evolução clínica por 24 horas antes de definir
+conduta neurológica."
+Incorreta. O AAS pode ser indicado em casos fora da janela de trombólise, mas não deve atrasar
+a investigação por imagem. Em pacientes dentro da janela (<4,5 horas), o tratamento imediato
+visa reverter o déficit com trombólise, quando indicado.
+"Solicitar ressonância magnética e exames laboratoriais completos antes de qualquer medida
+terapêutica."
+Incorreta. A tomografia de crânio sem contraste é o exame de imagem de escolha inicial, pois é
+mais rápida e disponível. A ressonância pode ser útil, mas não deve atrasar a avaliação e
+tratamento imediato em casos agudos.
+Referências:
+POWERS, J. William, et al. Guidelines for the Early Management of Patients With Acute Ischemic
+Stroke: 2019 Update to the 2018 Guidelines. Stroke. 2019;50:e344–e418. Disponível em:
+https://doi.org/10.1161/STR.0000000000000211. Acesso em: 02 de junho. 2025.
+Greenberg SM et al. 2022 Guideline for the Management of Patients With Spontaneous
+Intracerebral Hemorrhage: AHA/ASA. Stroke. 2022;53:e282–e361. Disponível em:
+https://www.ahajournals.org/doi/full/10.1161/STR.0000000000000407. Acesso em: 02 de junho.
+2025.
+MANRAJ Heran, et al. CANADIAN STROKE BEST PRACTICE RECOMMENDATIONS – Acute
+Stroke Management, 7th Ed., 2022. Heart and Stroke Foundation of Canada.
+10ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Mulher de 65 anos de idade, portadora de hipertensão arterial sistêmica (HAS) e
+fibrilação atrial permanente, em uso de enalapril 20mg 2x/dia, anlodipino 5mg 2x/dia, metoprolol
+50mg 2x/dia, anticoagulada plena com apixabana 5mg 2x/dia. Procurou o departamento de
+emergência com quadro de febre, disúria, polaciúria e dor suprapúbica e lombar direita há 02 dias.
+Sem outras queixas. Ao exame físico encontrava-se consciente, orientada, glasgow 15, PA 75/40
+(PAM 52) mmHg, FC 162 bpm, FR 26 irpm, SpO2 92% ar ambiente, temperatura axilar 38,5ºC.
+Ausculta cardíaca com ritmo cardíaco irregular, bulhas taquicárdicas. Ausculta respiratória com
+murmúrio vesicular fisiológico bilateralmente. Abdome com dor à palpação suprapúbica e punhopercussão dolorosa em região lombar direita.
+Eletrocardiograma revelou FA (Fibrilação Atrial) de alta resposta ventricular (162 bpm).
+Diante do caso clínico descrito acima, qual deve ser o tratamento inicial dessa paciente?
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 18 de 59
+
+Alternativas:
+(alternativa A)
+Controle de ritmo cardíaco através de amiodarona ataque 150mg em 10 minutos seguido de
+amiodarona dose de manutenção
+(alternativa B)
+Cardioversão elétrica sincronizada com 120 a 200 joules de carga precedida de sedação leve
+com fentanil e etomidato.
+(alternativa C)
+Controle de frequência cardíaca com metoprolol 5mg endovenoso objetivando FC 80-110 bpm,
+podendo repetir essa dose até 3 vezes
+(alternativa D) (CORRETA)
+Ressuscitação volêmica com cristaloide 30 ml/kg em 3 horas, coleta de hemoculturas e
+urocultura e início de antibiótico em até 1 hora
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 19 de 59
+
+Resposta comentada:
+A resposta correta é a alternativa D: Ressuscitação volêmica com cristaloide 30 ml/kg em 3
+horas, coleta de hemoculturas e urocultura e início de antibiótico em até 1 hora.
+Justificativa:
+A paciente apresenta sepse de provável origem urinária (pielonefrite complicada), associada à
+fibrilação atrial (FA) de alta resposta ventricular e hipotensão importante (choque séptico).
+O manejo inicial deve focar na reversão do choque séptico, que é a prioridade nesse contexto.
+A conduta adequada inclui:
+Reposição volêmica com cristaloides para restaurar a perfusão tecidual (30 ml/kg em
+3 horas é uma medida padrão).
+Coleta de culturas (hemoculturas e urocultura) antes do início da antibióticoterapia.
+Início de antibióticos de amplo espectro o mais rápido possível (idealmente dentro
+da primeira hora).
+Essa abordagem segue as diretrizes de tratamento da sepse e do choque séptico, que
+recomendam a administração rápida de volume e antibióticos.
+Comentário sobre as alternativas:
+Alternativa A (Cardioversão elétrica sincronizada): A cardioversão elétrica está
+indicada na fibrilação atrial quando o paciente apresenta instabilidade hemodinâmica
+grave devido à FA, o que não é o caso aqui. A instabilidade hemodinâmica da paciente
+é causada pelo choque séptico, não pela FA, e a cardioversão poderia ser perigosa
+nesse contexto sem a correção da causa subjacente (sepse). Além disso, o controle
+da FA deve priorizar o controle da frequência, não o ritmo, nesse cenário.
+Alternativa B (Controle da frequência cardíaca com metoprolol endovenoso):
+Embora o controle da frequência cardíaca na FA seja uma parte importante do manejo,
+o uso de betabloqueadores intravenosos em uma paciente com choque séptico e
+hipotensão pode piorar ainda mais a perfusão tecidual e a hipotensão. O foco inicial
+deve ser a ressuscitação volêmica e tratamento da sepse.
+Alternativa C (Controle do ritmo com amiodarona): O controle de ritmo com
+amiodarona não é a prioridade neste momento. O foco inicial deve ser na estabilização
+hemodinâmica e tratamento da sepse. Além disso, a amiodarona é reservada para
+casos onde o controle do ritmo seja realmente necessário, o que não se aplica aqui de
+imediato.
+Conclusão:
+A paciente está em choque séptico secundário a uma infecção urinária, e a prioridade no
+tratamento deve ser a ressuscitação volêmica, coleta de culturas e início precoce de antibióticos
+(alternativa D). O controle da FA de alta resposta ventricular deve ser feito com cautela, e a
+cardioversão ou uso de medicamentos que possam comprometer a perfusão devem ser evitados
+até que a condição infecciosa e hemodinâmica esteja controlada.
+Fonte: SURVIVING SEPSIS CAMPAIGN. Surviving Sepsis Campaign: International Guidelines
+for Management of Sepsis and Septic Shock 2021. Intensive Care Medicine, v. 47, p. 1181-1247,
+2021.
+
+11ª QUESTÃO
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 20 de 59
+
+Enunciado:
+(UNIFIPMOC) Você está de plantão no Pronto Socorro do Hospital Municipal da sua cidade no
+interior e estava atendendo somente fichas de classificação "verde" (pouco urgente), como
+gastroenterites e síndromes gripais sem complicações. Após o almoço, você foi para o descanso
+médico assistir televisão, já que naquele momento não havia mais fichas pendentes de
+atendimento. Mas, após alguns minutos, a enfermeira de plantão lhe chama para atender um
+paciente grave que acabou de chegar acompanhado pela sua esposa desesperada.
+Trata-se do senhor JFK, sexo masculino, 63 anos, previamente hipertenso com uso irregular de
+Enalapril, tabagista de alta carga tabágica. Ao chegar à sala de emergência, você o encontra
+sonolento, mas responsivo a comandos. Sua esposa informa que ele havia apresentado um
+desmaio (síncope) há poucos minutos atrás, recobrando a consciência, mas permanece muito
+sonolento. Informa ainda que o paciente queixava-se desde cedo, após o café da manhã, de uma
+dor torácica em queimação, associada a sudorese e náuseas. Acreditaram se tratar de um
+quadro de má digestão e se automedicaram com um antiácido e um omeprazol. Mas, após essa
+síncope, resolveu levá-lo ao hospital, pois ficou com medo dele estar "infartando".
+A equipe de enfermagem realizou ECG prontamente ainda na sala de triagem (vide imagem
+abaixo).
+
+Fonte da imagem: https://litfl.com
+Ao exame, paciente encontra-se sonolento, Glasgow 14, PA 80x50 mmHg, FC 38 bpm, FR 12
+irpm, SpO₂ 94% em ar ambiente. Ritmo cardíaco regular, bulhas normofonéticas. Ausculta
+pulmonar sem alterações. Abdome livre, indolor, com ruídos fisiológicos.
+Durante sua avaliação, paciente apresenta nova síncope, com rápida recuperação da
+consciência.
+Obs.: Este hospital não dispõe de avaliação de especialistas (cardiologistas, cirurgiões
+cardiovasculares) nem mesmo de centro de hemodinâmica próximo. O centro de referência
+cardiológico mais próximo está a uma distância de 350 km (aproximadamente 4 horas para
+transferências).
+Diante do quadro relatado acima, qual das alternativas abaixo está correta?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 21 de 59
+
+Alternativas:
+(alternativa A)
+Iniciar trombólise com tenecteplase imediatamente, seguida de AAS, clopidogrel e anticoagulante,
+reservando marca-passo apenas se houver assistolia.
+(alternativa B) (CORRETA)
+Iniciar marca-passo transcutâneo de imediato, administrar AAS, clopidogrel e anticoagulante, e
+proceder com trombólise com tenecteplase, se não houver contraindicações absolutas.
+(alternativa C)
+Iniciar marca-passo transcutâneo, considerar atropina após estabilização hemodinâmica, e
+contraindicar trombólise devido ao BAVT com instabilidade.
+(alternativa D)
+Iniciar atropina IV 1 mg, repetir em 5 minutos se necessário, e se não houver resposta, associar
+dobutamina enquanto prepara trombólise.
+
+Resposta comentada:
+Gabarito: Iniciar marca-passo transcutâneo de imediato, administrar AAS, clopidogrel e
+anticoagulante, e proceder com trombólise com tenecteplase, se não houver contraindicações
+absolutas.
+Resumo do caso:
+Paciente: homem, 63 anos.
+Comorbidades: HAS, tabagismo, sem uso regular de medicações.
+Sintomas: dor torácica típica + sudorese + náusea pela manhã, seguido de síncope.
+Sinais vitais: FC: 38 bpm | PA: 80x50 mmHg | Glasgow: 14, mas com episódios de
+síncope recorrente.
+Hospital SEM hemodinâmica disponível.
+ECG mostra: Supradesnível do ST em DII, DIII, aVF → IAM inferior | Bloqueio
+atrioventricular total (BAVT) → dissociação AV e ritmo de escape ventricular com QRS
+largo e bradicardia.
+Esse padrão é altamente associado ao IAM inferior com extensão para o ventrículo direito (a
+artéria coronária direita frequentemente irriga o nó AV).
+Diagnóstico: IAM com supradesnível do ST (IAMCSST) inferior complicado por bloqueio AV total
+com instabilidade hemodinâmica.
+Conduta inicial — com base no ACLS e ESC/SBC:
+Prioridades imediatas:
+1. Oxigênio se SpO2 < 90% (não é o caso), acesso venoso calibroso, monitor cardíaco.
+2. Iniciar marca-passo transcutâneo imediatamente, haja vista BAVT com instabilidade
+hemodinâmica + FC < 40 bpm.
+3. Atropina IV 1 mg poderia até ser tentada, mas a chance de sucesso é baixa (escape
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 22 de 59
+
+infranodal - BAVT).
+4. Iniciar ataque de AAS 300 mg VO + Clopidogrel 300 mg VO + Enoxaparina SC 30mg
+em bolus + 1 mg/kg 12/12hs, haja vista paciente < 75 anos.
+5. Iniciar trombólise com tenecteplase ou alteplase deve ser considerado se não houver
+contraindicação, enquanto o marca-passo transcutâneo é instalado (haja vista que
+o paciente apresenta dor torácica típica sugestiva de IAMCSST em curso + ECG
+diagnóstico). Trombólise pode ser indicada se não houver contraindicações absolutas,
+já que o tempo total até ICP > 120 minutos e o paciente não tem contraindicação
+formal, além de que a presença de bloqueio AV total em IAM inferior agrava o
+prognóstico.
+Por que as outras alternativas estão erradas?
+Iniciar atropina IV 1 mg, repetir em 5 minutos se necessário, e se não houver resposta, associar
+dobutamina enquanto prepara trombólise.
+Parece plausível, mas atropina tem eficácia limitada no BAV com QRS largo, e a
+dobutamina não deve preceder a estimulação elétrica quando disponível.
+Além disso, não se deve atrasar o marca-passo nem a trombólise para esperar
+resposta à atropina ou inotrópico.
+Iniciar marca-passo transcutâneo, considerar atropina após estabilização hemodinâmica, e
+contraindicar trombólise devido ao BAVT com instabilidade.
+Correto iniciar marca-passo, mas a trombólise não é contraindicada em BAVT.
+Pelo contrário, a presença de BAV em IAM inferior é indicação reforçada de reperfusão
+precoce.
+Iniciar trombólise com tenecteplase imediatamente, seguida de AAS, clopidogrel e anticoagulante,
+reservando marca-passo apenas se houver assistolia.
+Trombólise não deve preceder correção da instabilidade elétrica grave, como um BAVT
+com escape lento.
+O paciente pode parar em assistolia durante a infusão.
+Portanto, a prioridade inicial em qualquer atendimento de paciente grave é a
+estabilização inicial, baseando-se no famoso ABCDE primário. Nesse caso,
+(circulation) está comprometida devido à bradiarritmia grave (BAVT), levando ao quadro
+de choque e sintomas de baixo débito (síncope recorrente). Assim, devemos proceder
+com estabilização conforme a ACLS recomenda: instalação de marca-passo
+transcutâneo e/ou dopamina ou adrenalina.
+Referências:
+ACLS (Advanced Cardiac Life Support) 2020 - AHA (American Heart Association).
+Robert A Byrne, Xavier Rossello, J J Coughlan, Emanuele Barbato, Colin Berry, Alaide Chieffo,
+Marc J Claeys, Gheorghe-Andrei Dan, Marc R Dweck, Mary Galbraith, Martine Gilard, Lynne
+Hinterbuchner, Ewa A Jankowska, Peter Jüni, Takeshi Kimura, Vijay Kunadian, Margret
+Leosdottir, Roberto Lorusso, Roberto F E Pedretti, Angelos G Rigopoulos, Maria Rubini Gimenez,
+Holger Thiele, Pascal Vranckx, Sven Wassmann, Nanette Kass Wenger, Borja Ibanez, ESC
+Scientific Document Group, 2023 ESC Guidelines for the management of acute coronary
+syndromes: Developed by the task force on the management of acute coronary syndromes of the
+European Society of Cardiology (ESC), European Heart Journal, Volume 44, Issue 38, 7 October
+2023, Pages 3720–3826, https://doi.org/10.1093/eurheartj/ehad191.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 23 de 59
+
+Bloqueio AV: 3º grau (bloqueio cardíaco completo) - John Larkin e Robert Buttner - 15 de
+novembro de 2023. Disponível em: https://litfl.com/av-block-3rd-degree-complete-heart-block/.
+Acesso em: 30 maio 2025.
+12ª QUESTÃO
+Enunciado:
+(UNISL Porto Velho) Você está no ambulatório avaliando um paciente idoso que apresenta
+alterações de comportamento e confusão mental. Você sabe que é fundamental identificar se ele
+tem delirium ou demência, porém está em dúvida sobre qual dessas condições o paciente é
+portador.
+Nesse contexto, assinale a alternativa que descreve corretamente um sinal ou sintoma que
+diferencia essas duas condições.
+Alternativas:
+(alternativa A) (CORRETA)
+Alteração súbita do estado mental.
+(alternativa B)
+Apresenta mudanças de humor.
+(alternativa C)
+Apresenta desorientação temporária.
+(alternativa D)
+Apresenta perda de memória.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 24 de 59
+
+Resposta comentada:
+Correta: Alteração súbita do estado mental.
+Comentário: Esta alternativa está correta. O delirium é caracterizado por uma alteração aguda e
+flutuante do estado mental, muitas vezes desencadeada por fatores como infecções ou
+desidratação, enquanto a demência apresenta um início mais insidioso e progressivo.
+Incorreta: Apresenta perda de memória.
+Comentário: A perda de memória pode ocorrer tanto em delirium quanto em demência, portanto,
+esta alternativa não diferencia claramente as condições.
+Incorreta: Apresenta desorientação temporária.
+Comentário: Esta descrição ocorre nas duas patologias, de forma que no delirium, a
+desorientação ocorre em um período de tempo curto. Enquanto na demência, a desorientação
+pode se desenvolver ao longo de meses ou anos, sendo um processo mais gradual.
+Incorreta: Apresenta mudanças de humor.
+Comentário: Mudanças de humor podem ocorrer em ambas as condições, de forma que na
+demência que tem um curso crônico e gradual. Já o delirium, por outro lado, causa flutuações
+abruptas de humor.
+Referências:
+AMERICAN PSYCHIATRIC ASSOCIATION - APA. Manual diagnóstico e estatístico de
+transtornos mentais: DSM-5. Porto Alegre: Artmed, 2014.
+BALDAÇARA, Leonardo; TUNG, Teng Chei. Condutas em psiquiatria. São Paulo: Manole, 2020.
+13ª QUESTÃO
+Enunciado:
+(Banco AFYA) Em uma unidade de saúde, um adolescente de 14 anos apresenta quadro súbito
+de urticária difusa, edema de lábios e língua, dispneia e hipotensão, cerca de 15 minutos após
+ingestão de amendoim. Os sintomas se instalaram rapidamente e evoluíram com taquicardia e
+dificuldade respiratória progressiva. A equipe suspeita de reação anafilática.
+Considerando o diagnóstico de choque anafilático, qual é a conduta imediata mais apropriada para
+essa situação?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 25 de 59
+
+Alternativas:
+(alternativa A) (CORRETA)
+Aplicar adrenalina intramuscular, monitorar sinais vitais e iniciar suporte com oxigênio com
+avaliação de necessidade de via aérea invasiva e expansão volêmica, se necessário.
+(alternativa B)
+Administrar corticoide e broncodilatador inalatório, pois a adrenalina é contraindicada em
+pacientes com taquicardia.
+(alternativa C)
+Iniciar hidratação venosa com solução salina e observar evolução por pelo menos 2 horas antes
+de qualquer intervenção farmacológica.
+(alternativa D)
+Iniciar administração intravenosa de hidrocortisona, seguida de anti-histamínico oral e repouso
+absoluto.
+
+Resposta comentada:
+"Iniciar administração intravenosa de hidrocortisona, seguida de anti-histamínico oral e repouso
+absoluto."
+Incorreta. Apesar de úteis como medicações auxiliares, os corticoides e anti-histamínicos não
+têm ação imediata sobre os sintomas mais graves da anafilaxia, como broncoespasmo e
+hipotensão. A adrenalina intramuscular é a primeira e mais importante medida, segundo todas as
+diretrizes clínicas.
+"Aplicar adrenalina intramuscular, monitorar sinais vitais e iniciar suporte com oxigênio com
+avaliação de necessidade de via aérea invasiva e expansão volêmica, se necessário."
+Correta. Essa é a conduta padrão ouro para choque anafilático. A adrenalina intramuscular (0,01
+mg/kg até o máximo de 0,5 mg) é a primeira linha de tratamento, seguida de oxigenoterapia,
+hidratação venosa e vigilância clínica. Em pacientes evoluindo com sinais de insuficiência
+respiratória, devemos promover uma via aérea invasiva precoce para evitar deteriorização do
+quadro e necessidade de abordagem cirúrgica, conforme preconizado pelo Ministério da Saúde,
+SBP e resoluções da World Allergy Organization.
+"Administrar corticoide e broncodilatador inalatório, pois a adrenalina é contraindicada em
+pacientes com taquicardia."
+Incorreta. A adrenalina não é contraindicada em taquicardia durante anafilaxia — ao contrário, é
+absolutamente indicada, pois reverte broncoconstrição, vasodilatação e edema de glote. A não
+administração pode levar à morte.
+"Iniciar hidratação venosa com solução salina e observar evolução por pelo menos 2 horas antes
+de qualquer intervenção farmacológica."
+Incorreta. A observação isolada é uma conduta inapropriada em choque anafilático, que requer
+tratamento imediato com adrenalina. A hidratação é parte do suporte, mas não substitui a
+intervenção farmacológica prioritária.
+Referência:
+Golden DBK, Wang J, Waserman S, et al. Anaphylaxis: a 2023 practice parameter update. Ann
+Allergy Asthma Immunol. 2024; 132(2):124-76.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 26 de 59
+
+14ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um paciente de 58 anos, previamente hipertenso, é admitido no pronto-socorro
+com palpitações e tontura iniciadas há cerca de 2 horas. Está hemodinamicamente estável. Ao
+exame físico, nota-se frequência cardíaca irregular e ausência de pulso regular. O
+eletrocardiograma mostra ritmo irregular, sem ondas P visíveis e com intervalos RR variáveis,
+além de complexos QRS estreitos.
+Com base nos achados clínicos e eletrocardiográficos, qual é a arritmia mais provável?
+Alternativas:
+(alternativa A)
+Extrassístoles ventriculares frequentes.
+(alternativa B) (CORRETA)
+Fibrilação atrial.
+(alternativa C)
+Flutter atrial com condução 2:1.
+(alternativa D)
+Taquicardia ventricular sustentada.
+
+Resposta comentada:
+"Fibrilação atrial"
+Correta. A fibrilação atrial (FA) se caracteriza por um ritmo completamente irregular, ausência de
+ondas P no eletrocardiograma e intervalos RR variáveis com QRS estreito (se não houver
+distúrbio de condução). A frequência pode estar aumentada (taquiarritmia), e clinicamente o
+paciente pode apresentar palpitações, tontura ou até síncope leve, permanecendo
+hemodinamicamente estável em muitos casos.
+"Taquicardia ventricular sustentada"
+Incorreta. A TV sustentada costuma apresentar QRS largos, ritmo regular, e em geral se associa
+a instabilidade hemodinâmica. O quadro descrito de ritmo irregular com QRS estreito não é
+compatível.
+"Flutter atrial com condução 2:1"
+Incorreta. O flutter atrial apresenta ritmo regular, geralmente com frequência ventricular em torno
+de 150 bpm, e ondas F em "dente de serra" visíveis no ECG, o que não está presente no caso
+descrito.
+"Extrassístoles ventriculares frequentes"
+Incorreta. As extrassístoles ventriculares aparecem como batimentos isolados, prematuros e
+com QRS alargado, geralmente em meio a um ritmo sinusal de base. Não geram ritmo
+completamente irregular como na FA.
+Referência:
+Perman SM, Elmer J, Maciel CB, et al. 2023 American Heart Association Focused Update on
+Adult Advanced Cardiovascular Life Support. Circulation. 2024; 149(5):e254-e273.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 27 de 59
+
+15ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Um homem de 68 anos, hipertenso e com fração de ejeção do ventrículo esquerdo
+(FEVE) de 25%, dá entrada na sala de emergência com dispneia intensa aos mínimos esforços,
+ortopneia e edema de membros inferiores. Encontra-se acianótico, consciente, PA 95x60 mmHg,
+FC 108 bpm, SatO₂ 86% em ar ambiente. No exame físico: turgência jugular, estertores bibasais,
+extremidades frias e tempo de enchimento capilar lento.
+Gasometria arterial revela: pH 7,33, lactato 6,8 mmol/L, pCO₂ 36 mmHg. Troponina discretamente
+elevada. O ECG mostra ritmo sinusal com sobrecarga ventricular esquerda, sem sinais de
+isquemia miocárdica.
+A ecocardiografia à beira do leito confirma hipocontratilidade global do VE.
+Com base na classificação hemodinâmica e nos atuais consensos internacionais, qual é o perfil
+clínico hemodinâmico predominante e qual a conduta inicial mais apropriada?
+Alternativas:
+(alternativa A)
+Perfil frio e úmido – iniciar diurético de alça, suporte com vasodilatador e betabloqueador para
+reduzir pós-carga.
+(alternativa B) (CORRETA)
+Perfil frio e úmido – iniciar suporte com inotrópico (ex: dobutamina) e avaliar necessidade de
+diurético com monitorização invasiva.
+(alternativa C)
+Perfil quente e úmido – otimizar diuréticos de alça em bolus e iniciar betabloqueador
+precocemente para controle neuro-hormonal.
+(alternativa D)
+Perfil frio e seco – iniciar inotrópico e realizar desafio volêmico com cautela, visando aumentar
+pré-carga.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 28 de 59
+
+Resposta comentada:
+Gabarito: Perfil frio e úmido – iniciar suporte com inotrópico (ex: dobutamina) e avaliar
+necessidade de diurético com monitorização invasiva.
+Este é um caso clássico de perfil "frio e úmido":
+"Frio" = má perfusão sistêmica: extremidades frias, TEC lento, PA baixa, lactato alto.
+"Úmido" = congestão pulmonar/sistêmica: estertores, edema, turgência jugular.
+Esse é o pior perfil prognóstico da insuficiência cardíaca aguda e demanda intervenções rápidas e
+específicas:
+Dobutamina (ou milrinona, com cautela): aumenta a contratilidade.
+Diurético de alça EV: se a perfusão renal permitir.
+Monitorização hemodinâmica invasiva (PAM, débito urinário, SvO₂) é útil para evitar erro
+terapêutico.
+Betabloqueador é contraindicado na fase aguda com instabilidade hemodinâmica.
+Por que as outras estão erradas?
+"Quente e úmido" é o perfil mais comum, mas o paciente tem sinais de má perfusão (frio).
+"Frio e seco": sem congestão? Falso, o paciente tem estertores bibasais, turgência jugular e
+edema.
+Vasodilatador e betabloqueador estão contraindicados com hipotensão e má perfusão periférica
+(sinais de choque cardiogênico).
+Referências:
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+Rohde, Luis Eduardo Paim; Montera, Marcelo Westerlund; Bocchi, Edimar
+Alcides; Clausell, Nadine Oliveira; Albuquerque, Denilson Campos
+de; Rassi, Salvador; Colafranceschi, Alexandre Siciliano; Freitas Junior, Aguinaldo Figueiredo
+de; Ferraz, Almir Sergio; Biolo, Andreia; Barretto, Antonio C. Pereira; Ribeiro, Antonio Luiz
+Pinho; Polanczyk, Carisi Anne; Gualandro, Danielle Menosi; Almeida, Dirceu
+Rodrigues; Silva, Eneida Rejane Rabelo da; Figueiredo, Estêvão Lanna; Mesquita, Evandro
+Tinoco; Marcondes-Braga, Fabiana G. ; Cruz, Fátima das Dores da; Ramires, Felix José
+Alvarez; Atik, Fernando Antibas; Bacal, Fernando; Souza, Germano Emilio Conceição; Almeida
+Junior, Gustavo Luiz Gouvêa de; Ribeiro, Gustavo Calado de Aguiar; Villacorta
+Junior, Humberto; Vieira, Jefferson Luís; Souza Neto, João David de; Rossi Neto, João
+Manoel; Figueiredo Neto, Jose Albuquerque de; Moura, Lidia Ana Zytynsky; Goldraich, Livia
+Adams; Beck-da-Silva, Luis; Danzmann, Luiz Claudio; Canesin, Manoel
+Fernandes; Bittencourt, Marcelo Imbroinise; Garcia, Marcelo Iorio; Bonatto, Marcely
+Gimenes; Simões, Marcus Vinícius; Moreira, Maria da Consolação Vieira; Silva, Miguel Morita
+Fernandes da; Olivera Junior, Mucio Tavares de; Silvestre, Odilson
+Marcos; Schwartzmann, Pedro Vellosa; Bestetti, Reinaldo Bulgarelli; Rocha, Ricardo
+Mourilhe; Simões, Ricardo; Pereira, Sabrina Bernardez; Mangini, Sandrigo; Alves, Sílvia Marinho
+Martins; Ferreira, Silvia Moreira Ayub; Issa, Victor Sarli; Barzilai, Vitor Salvatore; Martins, Wolney
+de Andrade. Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda. Arq. Bras. Cardiol.,
+v. 111, n. 3, p. 436-539, set. 2018.
+
+16ª QUESTÃO
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 29 de 59
+
+Enunciado:
+(Banco AFYA) Paciente masculino, 72 anos, com histórico de ICC com fração de ejeção reduzida
+(FEVE 35%), em uso domiciliar apenas de betabloqueador carvedilol e IECA Enalapril, apresentase à emergência com dispneia intensa, ortopneia, estertores difusos, estase jugular, edema de
+membros inferiores, refluxo hepatojugular, Glasgow 15, PA 150/95 mmHg e SpO₂ 85% em ar
+ambiente. ECG mostra ritmo sinusal e oximetria arterial revela hipoxemia leve. A ausculta
+pulmonar evidencia crepitações bibasais.
+Diante da descompensação aguda da insuficiência cardíaca e do quadro compatível com edema
+agudo de pulmão hipertensivo, qual das condutas abaixo está mais adequada à prescrição inicial,
+considerando doses corretas de medicamentos?
+Alternativas:
+(alternativa A) (CORRETA)
+Furosemida 40 mg IV + nitroglicerina 5 a 200 mcg/min IV em bomba de infusão contínua +
+suporte ventilatório não invasivo.
+(alternativa B)
+Hidroclorotiazida 50 mg VO + enalapril 10 mg VO; monitorar resposta clínica nas primeiras 6
+horas.
+(alternativa C)
+Furosemida 1,5 mg/kg IV + nitroprussiato de sódio 0,30 a 20 mcg/kg/min IV + intubação
+orotraqueal.
+(alternativa D)
+Dobutamina em dose plena (10 mcg/kg/min), sem diurético, pois a causa mais provável é falência
+miocárdica.
+
+Resposta comentada:
+Resposta correta: Furosemida 40 mg IV + nitroglicerina 5 a 200 mcg/min IV em bomba de infusão
+contínua + suporte ventilatório não invasivo.
+Análise das alternativas incorretas:
+Furosemida 1,5 mg/kg IV + nitroprussiato de sódio 0,30 a 20 mcg/kg/min IV + intubação
+orotraqueal: incorreta.
+A dose de furosemida IV para pacientes que não faziam uso do diurético em casa é de 1 mg/kg,
+conforme o gabarito oficial indica.
+Nitroprussiato de sódio: potente vasodilatador arterial e venoso, poderia ser sim uma opção para
+controle pressórico (desde que descartada suspeita de evento coronariano isquêmico agudo, pela
+teoria do roubo de fluxo coronariano), porém a dose recomendada de nitroprussiato não é essa
+descrita na alternativa, mas sim 0,30 a 10 mcg/kg/min.
+Intubação orotraqueal: por se tratar de um edema agudo de pulmão hipertensivo, a VNI
+(ventilação não-invasiva) está muito bem indicada e, no caso acima descrito, o paciente não
+apresenta contraindicações para fazê-la. Portanto, partir para intubação orotraqueal diretamente
+não é a conduta correta.
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 30 de 59
+
+Hidroclorotiazida 50 mg VO + enalapril 10 mg VO; monitorar resposta clínica nas primeiras 6
+horas: incorreta.
+O tratamento antihipertensivo deve ser com vasodilatador endovenoso contínuo na bomba de
+infusão, idealmente Nitroglicerina 5 - 200 mcg/min e não com antihipertensivos orais como
+diurético hidroclorotiazida e IECA enalapril descrito acima.
+Apenas monitorar resposta clínica nas primeiras 06 horas sem suporte ventilatório e sem
+vasodilatador endovenoso não é a conduta apropriada para casos de EAP hipertensivo.
+Dobutamina em dose plena (10 mcg/kg/min), sem diurético, pois a causa mais provável é falência
+miocárdica: incorreta.
+Dobutamina é um inotrópico, indicado para IC com baixo débito e hipotensão.
+Este paciente está hipertenso, e o quadro é de congestão, não de hipoperfusão.
+Dobutamina pode aumentar o consumo miocárdico de O₂ e causar taquiarritmias.
+Portanto, o gabarito correto que descreve adequadamente o manejo do EAP hipertensivo é a
+alternativa que cita os pilares abaixo:
+Furosemida 20 - 40 mg IV em bolus → diurético de alça indicado nos casos de pacientes que não
+fazem uso prévio de diurético em casa.
+Nitroglicerina EV 5 – 200 mcg/min → vasodilatador venoso e coronariano.
+VNI → suporte ventilatório ideal em EAP
+Referências:
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Editora Manole, 2024.
+SOCIEDADE BRASILEIRA DE CARDIOLOGIA. SAVIC - Suporte avançado de vida em
+insuficiência cardíaca. 5ª edição, Editora Manole, 2021.
+Rohde, Luis Eduardo Paim; Montera, Marcelo Westerlund; Bocchi, Edimar
+Alcides; Clausell, Nadine Oliveira; Albuquerque, Denilson Campos
+de; Rassi, Salvador; Colafranceschi, Alexandre Siciliano; Freitas Junior, Aguinaldo Figueiredo
+de; Ferraz, Almir Sergio; Biolo, Andreia; Barretto, Antonio C. Pereira; Ribeiro, Antonio Luiz
+Pinho; Polanczyk, Carisi Anne; Gualandro, Danielle Menosi; Almeida, Dirceu
+Rodrigues; Silva, Eneida Rejane Rabelo da; Figueiredo, Estêvão Lanna; Mesquita, Evandro
+Tinoco; Marcondes-Braga, Fabiana G. ; Cruz, Fátima das Dores da; Ramires, Felix José
+Alvarez; Atik, Fernando Antibas; Bacal, Fernando; Souza, Germano Emilio Conceição; Almeida
+Junior, Gustavo Luiz Gouvêa de; Ribeiro, Gustavo Calado de Aguiar; Villacorta
+Junior, Humberto; Vieira, Jefferson Luís; Souza Neto, João David de; Rossi Neto, João
+Manoel; Figueiredo Neto, Jose Albuquerque de; Moura, Lidia Ana Zytynsky; Goldraich, Livia
+Adams; Beck-da-Silva, Luis; Danzmann, Luiz Claudio; Canesin, Manoel
+Fernandes; Bittencourt, Marcelo Imbroinise; Garcia, Marcelo Iorio; Bonatto, Marcely
+Gimenes; Simões, Marcus Vinícius; Moreira, Maria da Consolação Vieira; Silva, Miguel Morita
+Fernandes da; Olivera Junior, Mucio Tavares de; Silvestre, Odilson
+Marcos; Schwartzmann, Pedro Vellosa; Bestetti, Reinaldo Bulgarelli; Rocha, Ricardo
+Mourilhe; Simões, Ricardo; Pereira, Sabrina Bernardez; Mangini, Sandrigo; Alves, Sílvia Marinho
+Martins; Ferreira, Silvia Moreira Ayub; Issa, Victor Sarli; Barzilai, Vitor Salvatore; Martins, Wolney
+de Andrade. Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda. Arq. Bras. Cardiol.,
+v. 111, n. 3, p. 436-539, set. 2018.
+17ª QUESTÃO
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 31 de 59
+
+Enunciado:
+(Banco AFYA) Uma mulher de 56 anos, com histórico de diabetes tipo 2, é admitida na unidade de
+saúde com febre alta, calafrios, hipotensão (PA 85/50 mmHg), frequência cardíaca de 120 bpm e
+confusão mental. O exame físico revela dor e edema na panturrilha esquerda. Os exames
+laboratoriais mostram leucócitos: 18.000/mm³, lactato: 4,8 mmol/L, PCR elevada e creatinina de
+2,1 mg/dL (basal 1,0). Saturação de oxigênio: 93% em ar ambiente.
+Com base nas evidências atuais sobre o manejo do choque séptico, qual deve ser a sequência de
+condutas iniciais mais apropriada neste cenário?
+Alternativas:
+(alternativa A)
+Iniciar antibiótico oral, oxigenoterapia, observação clínica e repetir exames laboratoriais em 6
+horas.
+(alternativa B) (CORRETA)
+Solicitar hemoculturas, iniciar antibioticoterapia endovenosa de amplo espectro e reposição
+volêmica com cristaloides.
+(alternativa C)
+Administrar antitérmico, hidratação oral e esperar estabilização antes de qualquer medida
+invasiva.
+(alternativa D)
+Iniciar corticoide intravenoso e noradrenalina, pois o lactato elevado indica necessidade de
+vasopressor imediato.
+
+Resposta comentada:
+Resposta correta: Solicitar hemoculturas, iniciar antibioticoterapia endovenosa de amplo espectro
+e reposição volêmica com cristaloides.
+Análise do caso clínico:
+Mulher de 56 anos com sinais claros de SEPSE (provável foco: cutâneo).
+Hipotensão: PA 85/50 mmHg. Se má resposta à ressuscitação volêmica de 30 ml/kg,
+associado ao lactato elevado: chamaremos de choque séptico.
+120 bpm → sinal de SRIS
+Confusão mental → disfunção orgânica (neurológica), pontuando no escore SOFA.
+Lactato: 4,8 mmol/L → hipoperfusão tecidual e sinal de disfunção orgânica segundo o
+ILAS.
+Leucocitose, febre → sinais de SRIS.
+PCR elevada → endossa a suspeita inflamatória/infecciosa.
+Creatinina aumentada (agudamente) → injúria renal aguda (disfunção orgânica)
+Foco infeccioso provável: panturrilha com dor e edema (celulite/TVP com infecção
+sobreposta?)
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 32 de 59
+
+Diagnóstico provável: Sepse / Choque séptico (a depender da resposta à ressuscitação
+volêmica).
+Segundo a definição da Sepsis-3:
+Choque séptico = Sepse com hipotensão persistente apesar da reposição volêmica
++ hipoperfusão tecidual (ex: lactato > 2)
+Condutas iniciais no choque séptico (bundles da primeira hora):
+1. Culturas antes dos antibióticos.
+2. Iniciar antibiótico EV de amplo espectro o mais rápido possível.
+3. Reposição volêmica com cristaloide (30 mL/kg).
+4. Medir lactato sérico e reavaliar.
+5. Iniciar vasopressor (noradrenalina) se hipotensão persistir após volume.
+Análise das alternativas incorretas:
+Iniciar antibiótico oral, oxigenoterapia, observação clínica e repetir exames laboratoriais em 6
+horas: incorreta.
+Inadequado para um quadro grave com disfunção orgânica e choque.
+Antibiótico deve ser EV, o mais rápido possível (idealmente em até 1 hora).
+Iniciar corticoide intravenoso e noradrenalina, pois o lactato elevado indica necessidade de
+vasopressor imediato: incorreta.
+Noradrenalina (vasopressor) pode ser iniciada após ou durante a reposição volêmica
+inicial, a depender da resposta clínica do paciente, mas o motivo de sua indicação não
+é o lactato elevado, mas sim a resposta inadequada à ressuscitação volêmica.
+Corticoide IV (hidrocortisona) só é indicado se:
+Choque refratário a vasopressor.
+Necessidade de doses crescentes de noradrenalina.
+Administrar antitérmico, hidratação oral e esperar estabilização antes de qualquer medida
+invasiva: incorreta.
+Inadequado em um paciente com sinais de hipoperfusão e disfunção orgânica.
+Não citação dos pilares do bundle da 1ª hora do manejo da sepse e choque séptico
+(coleta de hemoculturas, hidratação endovenosa, antibioticoterapia na 1ª hora).
+Solicitar hemoculturas, iniciar antibioticoterapia endovenosa de amplo espectro e reposição
+volêmica com cristaloides: correta, pois cumpre os pilares da abordagem precoce da sepse /
+choque séptico.
+Coleta de culturas.
+Antibiótico EV de amplo espectro na primeira hora.
+Reposição volêmica inicial com cristaloides.
+Referências:
+Surviving Sepsis Campaign. International Guidelines for Management of Sepsis and Septic Shock
+– 2021. Disponível em: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8486643/. Acesso em: 02
+jun. 2025.
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 33 de 59
+
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+18ª QUESTÃO
+Enunciado:
+(Banco AFYA) Uma mulher de 40 anos procura atendimento em uma unidade de saúde após ser
+picada por uma aranha marrom (Loxosceles) há aproximadamente 6 horas. No local da picada
+(região da coxa), apresenta lesão com centro pálido, halo eritematoso e dor progressiva. Refere
+mal-estar e mialgia leve. Exame físico revela lesão de 5 cm com presença de placa marmórea,
+sem necrose evidente ou bolhas. Aos exames laboratoriais, sugere-se hemólise sistêmica.
+Com base nas evidências clínicas e nos protocolos para acidentes por aranha Loxosceles, qual é
+a conduta mais apropriada nesta situação?
+Alternativas:
+(alternativa A)
+Iniciar antitoxina escorpiônica, pois há risco de neurotoxicidade cruzada com picada de
+Loxosceles.
+(alternativa B)
+Classificar como acidente moderado, indicar tratamento sintomático com analgesia, limpeza local
+e observação clínica.
+(alternativa C) (CORRETA)
+Classificar como acidente grave e iniciar tratamento com soro antiaracnídeo IV e prednisona.
+(alternativa D)
+Classificar como acidente leve, indicar tratamento sintomático com analgesia, limpeza local e
+observação clínica.
+
+Resposta comentada:
+Gabarito: Classificar como acidente grave e iniciar tratamento com soro antiaracnídeo IV e
+prednisona.
+A aranha-marrom (Loxosceles) pode causar loxoscelismo cutâneo ou loxoscelismo cutâneovisceral (sistêmico). A presença de sinais laboratoriais de hemólise indica que a toxina da aranha
+(esfingomielinase-D) causou lesão sistêmica, e, segundo o Manual do Ministério da Saúde (MS) e
+protocolos estaduais de vigilância epidemiológica, isso configura acidente grave.
+Com base nas alterações clínico-laboratoriais e identificação do agente causal, o acidente
+loxoscélico pode ser classificado em:
+Leve: observa-se lesão incaracterística sem alterações clínicas ou laboratoriais e com
+a identificação da aranha causadora do acidente. O paciente deve ser acompanhado
+durante pelo menos 72 horas, uma vez que mudanças nas características da lesão ou
+presença de manifestações sistêmicas exigem reclassificação de gravidade.
+Moderado: o critério fundamental baseia-se na presença de lesão sugestiva ou
+característica, mesmo sem a identificação do agente causal, podendo ou não haver
+alterações sistêmicas do tipo rash cutâneo, cefaleia e mal-estar.
+Grave: caracteriza-se pela presença de lesão característica e alterações clínicolaboratoriais de hemólise intravascular.
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 34 de 59
+
+O Livro de Medicina de Emergências Clínicas da USP 2024 traz a seguinte classificação de
+gravidade:
+
+Conduta na forma grave:
+Soro antiaracnídico IV até 10 horas do acidente (idealmente até 48h).
+Prednisona (anti-inflamatório sistêmico): usada em alguns protocolos hospitalares para
+reduzir edema e reações inflamatórias severas.
+Analgesia, suporte clínico, controle de função renal e hemograma.
+Alternativas incorretas:
+Classificar como acidente leve, indicar tratamento sintomático com analgesia, limpeza
+local e observação clínica: Incorreta, pois há sinais sistêmicos.
+Classificar como acidente moderado, indicar tratamento sintomático com analgesia,
+limpeza local e observação clínica: Incorreta, pois hemólise já caracteriza gravidade.
+Iniciar antitoxina escorpiônica, pois há risco de neurotoxicidade cruzada com picada de
+Loxosceles: Incorreta, não há neurotoxicidade cruzada entre Loxosceles e escorpião.
+Antiveneno escorpiônico não tem nenhuma utilidade aqui.
+Referências:
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos - Ministério da
+Saúde e Fundação Nacional de Saúde - Brasília, outubro de 2001.
+19ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um paciente de 32 anos, previamente diagnosticado com transtorno bipolar tipo I,
+comparece ao ambulatório em quadro de agitação, fala acelerada, autoestima inflada,
+comportamento desinibido e ideias de grandiosidade, iniciados há cinco dias. Relata redução da
+necessidade de sono para menos de três horas por noite e nega sintomas depressivos ou uso de
+substâncias. Está orientado, porém com juízo crítico comprometido e recusando medicação
+anterior. A avaliação clínica confirma episódio maníaco sem sintomas psicóticos.
+Com base nas diretrizes terapêuticas atuais, qual é a prescrição mais adequada no manejo
+ambulatorial inicial, considerando dose eficaz e segurança medicamentosa?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 35 de 59
+
+Alternativas:
+(alternativa A)
+Iniciar sertralina 100 mg/dia associada a clonazepam 2 mg, visando estabilizar o humor e induzir
+sono.
+(alternativa B)
+Iniciar fluoxetina 40 mg/dia e monitorar resposta clínica nas primeiras duas semanas.
+(alternativa C)
+Prescrever lamotrigina 25 mg/dia em monoterapia para controle imediato dos sintomas maníacos.
+(alternativa D) (CORRETA)
+Iniciar carbonato de lítio 600–900 mg/dia, com titulação progressiva e monitoramento de níveis
+séricos.
+
+Resposta comentada:
+"Iniciar carbonato de lítio 600–900 mg/dia, com titulação progressiva e monitoramento de níveis
+séricos."
+Correta. O carbonato de lítio é um estabilizador de humor clássico e uma das primeiras escolhas
+no tratamento da mania aguda em pacientes com transtorno bipolar tipo I. A dose inicial varia de
+600 a 900 mg/dia, com ajuste conforme níveis plasmáticos (ideal: 0,6–1,2 mEq/L para fase
+aguda). O lítio requer controle laboratorial (função renal, tireoide, eletrólitos e litemia).
+"Iniciar sertralina 100 mg/dia associada a clonazepam 2 mg, visando estabilizar o humor e induzir
+sono."
+Incorreta. A sertralina (ISRS) é contraindicada na fase maníaca, pois pode piorar os sintomas.
+Clonazepam pode ser utilizado pontualmente para agitação, mas não é tratamento de primeira
+linha.
+"Prescrever lamotrigina 25 mg/dia em monoterapia para controle imediato dos sintomas
+maníacos."
+Incorreta. A lamotrigina não tem eficácia comprovada para a fase maníaca; é usada na fase
+depressiva do transtorno bipolar tanto para tratamento agudo quanto para manutenção. Além
+disso, sua titulação é lenta devido ao risco de síndrome de Stevens-Johnson.
+"Iniciar fluoxetina 40 mg/dia e monitorar resposta clínica nas primeiras duas semanas."
+Incorreta. A fluoxetina, assim como outros antidepressivos, pode induzir ou agravar a mania em
+pacientes bipolares, especialmente sem a proteção de um estabilizador de humor.
+Referências:
+APA. DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais. Artmed, 2014. Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820949. Acesso em: 02 jun. 2025.
+SALLET, Paulo C. Manual do Residente de Psiquiatria. Manole, 2023. ISBN 9788520464649.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464649. Acesso em: 02 jun. 2025.
+NARDI, A. E. et al. Tratado de Psiquiatria da Sociedade Brasileira de Psiquiatria. Grupo A, 2021.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820345. Acesso em: 02 jun. 2025.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 36 de 59
+
+20ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um homem de 78 anos, hipertenso e tabagista, dá entrada na emergência com dor
+torácica típica iniciada há 2 horas, irradiada para o braço esquerdo, acompanhada de sudorese e
+náuseas. ECG mostra supradesnível do segmento ST em derivações V2-V4. Os exames
+laboratoriais confirmam elevação de troponina. O hospital dispõe de serviço de hemodinâmica
+disponível 24h, com tempo estimado de 60 minutos para início da intervenção.
+Com base nas diretrizes atuais para tratamento da síndrome coronariana aguda com
+supradesnível do segmento ST (SCACSSST), qual é a conduta terapêutica inicial mais apropriada
+e baseada em evidência?
+Alternativas:
+(alternativa A)
+Administrar ataque de AAS 300mg, Clopidogrel 600mg, Enoxaparina 1mg/kg subcutânea e iniciar
+trombólise endovenosa com tenecteplase em bolus em até 10 minutos.
+(alternativa B)
+Administrar ataque de AAS 300mg, Clopidogrel 75mg, Enoxaparina 1mg/kg subcutânea e
+encaminhar imediatamente para o centro de hemodinâmica para angioplastia primária.
+(alternativa C) (CORRETA)
+Administrar ataque de AAS 300mg, Clopidogrel 600mg e encaminhar imediatamente para o centro
+de hemodinâmica para angioplastia primária.
+(alternativa D)
+Administrar ataque de AAS 300mg e encaminhar imediatamente para o centro de hemodinâmica
+para angioplastia primária. A realização do clopidogrel ficará a cargo da decisão do
+hemodinamicista.
+
+Resposta comentada:
+Análise clínica e decisão baseada nas diretrizes para SCA com supradesnivelamento do
+segmento.
+ST:
+Resumo do caso:
+Homem, 78 anos, com fatores de risco: hipertenso e tabagista.
+Dor torácica típica com 2 horas de evolução.
+ECG com supradesnível de ST em V2–V4 → IAM com supra de parede anterior.
+Troponina elevada.
+Serviço de hemodinâmica disponível 24h, com tempo estimado para angioplastia
+primária de 60 minutos.
+A angioplastia primária (ICP) é o tratamento de escolha para pacientes com IAM com supra de
+ST quando pode ser realizada em até 120 minutos a partir do diagnóstico (transferência interhospitalar) ou em até 90 minutos (transferência intra-hospitalar da sala de emergência para sala
+de hemodinâmica - tempo porta-balão).
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 37 de 59
+
+Conduta medicamentosa antes da ICP primária:
+1. AAS (ácido acetilsalicílico):
+Ataque: 162 - 325 mg VO.
+2. P2Y12 inibidor (clopidogrel, prasugrel ou ticagrelor):
+Clopidogrel: 600 mg VO como dose de ataque.
+3. Anticoagulante:
+A heparina não fracionada (HNF) foi estabelecida como o padrão de
+tratamento em pacientes com IAMCSSST submetidos à ICP devido ao seu
+perfil favorável de risco/benefício. Nesses pacientes, a anticoagulação deve
+ser administrada durante o procedimento invasivo. Faltam evidências de alta
+qualidade sobre o benefício da administração precoce de anticoagulação em
+pacientes submetidos à estratégia de ICP. (Diretriz da Sociedade Europeia
+de Cardiologia ESC - 2023)
+Análise das alternativas incorretas:
+Administrar ataque de AAS 300mg, Clopidogrel 600mg, Enoxaparina 1mg/kg subcutânea e iniciar
+trombólise endovenosa com tenecteplase em bolus em até 10 minutos: incorreta.
+Trombólise só é indicada quando angioplastia não pode ser feita em até 120 minutos de
+transferência inter-hospitalar ou em até 90 minutos (tempo porta-balão - referente à
+transferência intra-hospitalar entre a sala de emergência até o centro de
+hemodinâmica).
+Aqui, o tempo estimado é 60 minutos → ICP primária é preferencial.
+Além disso, trombólise em paciente com hemodinâmica disponível é erro grave.
+Administrar ataque de AAS 300mg e encaminhar imediatamente para o centro de hemodinâmica
+para angioplastia primária. A realização do clopidogrel ficará a cargo da decisão do
+hemodinamicista: incorreta.
+Clopidogrel 600 mg deve ser administrado precocemente, ainda na sala de emergência,
+durante o ataque da dupla antiagregação plaquetária, antes da angioplastia.
+Retardar pode aumentar o risco de trombose do stent.
+Atenção: Não se confunda! A opção de retardar o segundo antiagregante plaquetário
+acontece nos casos de SCA sem supra de ST em que o cateterismo
+cardíaco/coronariano será realizado em até 24 horas. Nesses casos específicos, podese deixar para decisão do hemodinamicista após conhecida a anatomia coronariana.
+Administrar ataque de AAS 300mg, Clopidogrel 75mg, Enoxaparina 1mg/kg subcutânea e
+encaminhar imediatamente para o centro de hemodinâmica para angioplastia primária: incorreta.
+Essa é a dose de manutenção, não a de ataque.
+Dose de ataque correta: 600 mg.
+Atenção: Não se confunda! A opção de reduzir a dose de ataque do clopidogrel para
+75mg só acontece nos casos de SCA com supra de ST nos pacientes que serão
+submetidos a trombólise endovenosa e que têm mais de 75 anos de idade.
+Administrar ataque de AAS 300mg, Clopidogrel 600mg e encaminhar imediatamente para o centro
+de hemodinâmica para angioplastia primária: correto, pois:
+AAS 300 mg VO.
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 38 de 59
+
+Clopidogrel 600 mg VO.
+Encaminhamento imediato para angioplastia primária dentro do tempo ideal.
+Referências:
+2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute
+Coronary Syndromes: A Report of the American College of Cardiology/American Heart
+Association Joint Committee on Clinical Practice Guidelines. Sunil V. Rao, MD, FACC, FSCAI
+Chair, Michelle L. O’Donoghue, MD, MPH, FACC, FAHA Vice Chair, Marc Ruel, MD, MPH,
+FACC, FAHA Vice Chair, Tanveer Rab, MD, FACC, MSCAI JC Liaison, Jaqueline E. TamisHolland, MD, FACC, FAHA, FSCAIJC Liaison, John H. Alexander, MD, MHS, FACC,
+FAHA, Usman Baber, MD, MS, FACC, FSCAI, Heather Baker, EdD, Mauricio G. Cohen, MD,
+FACC, FSCAI, Mercedes Cruz-Ruiz, CHWI, Leslie L. Davis, PhD, RN, ANP-BC, FACC,
+FAHA, James A. de Lemos, MD, FACC, FAHA, Tracy A. DeWald, PharmD, MHS, BCPS-AQ
+Cardiology, Islam Y. Elgendy, MD, FACC, FAHA, FSCAI, Dmitriy N. Feldman, MD, FACC,
+FSCAI, Abhinav Goyal, MD, MHS, FACC, FAHA, Ijeoma Isiadinso, MD, MPH, FACC, Venu
+Menon, MD, FACC, FAHA, David A. Morrow, MD, MPH, FACC, FAHA, Debabrata
+Mukherjee, MD, MS, FACC, FAHA, MSCAI, Elke Platz, MD, MS, FACEP, Susan B. Promes, MD,
+MBA, FACEP, Sigrid Sandner, MD, MS, Yader Sandoval, MD, FACC, FSCAI, Rachel
+Schunder, MA, Binita Shah, MD, MS, Jason P. Stopyra, MD, MS, Amy W. Talbot, MPH, Pam R.
+Taub, MD, FACC, Marlene S. Williams, MD, FACC
+Byrne RA, Rossello X, Coughlan JJ, Barbato E, Berry C, Chieffo A, Claeys MJ, Dan GA, Dweck
+MR, Galbraith M, Gilard M, Hinterbuchner L, Jankowska EA, Jüni P, Kimura T, Kunadian V,
+Leosdottir M, Lorusso R, Pedretti RFE, Rigopoulos AG, Rubini Gimenez M, Thiele H, Vranckx P,
+Wassmann S, Wenger NK, Ibanez B; ESC Scientific Document Group. 2023 ESC Guidelines for
+the management of acute coronary syndromes. Eur Heart J. 2023, 12 de outubro; 44(38):37203826. doi: 10.1093/eurheartj Erratum in: Eur Heart J. 2024 Apr 1;45(13):1145. doi:
+10.1093/eurheartj/ehad870. PMID: 37622654.
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+21ª QUESTÃO
+Enunciado:
+(Banco AFYA) Uma mulher de 24 anos procura atendimento na unidade de saúde relatando
+episódios frequentes de instabilidade emocional, impulsividade, sentimentos crônicos de vazio e
+medo intenso de abandono, mesmo em relações recentes. Relata histórico de automutilações e
+dificuldade em manter vínculos afetivos estáveis. Em alguns momentos, diz sentir raiva intensa
+ou episódios de dissociação.
+Com base nos critérios diagnósticos do DSM-5, qual é o diagnóstico mais provável e a conduta
+terapêutica mais indicada no cenário ambulatorial?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 39 de 59
+
+Alternativas:
+(alternativa A)
+Transtorno de personalidade narcisista; iniciar antipsicótico atípico e suspender vínculos
+interpessoais disfuncionais.
+(alternativa B) (CORRETA)
+Transtorno da personalidade borderline; iniciar acompanhamento com psicoterapia estruturada,
+preferencialmente dialética-comportamental (DBT).
+(alternativa C)
+Transtorno esquizotípico de personalidade; encaminhar para internação psiquiátrica devido ao
+risco iminente de psicose.
+(alternativa D)
+Transtorno obsessivo-compulsivo de personalidade; prescrever ISRS e encaminhar para
+avaliação neuropsicológica.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 40 de 59
+
+Resposta comentada:
+"Transtorno da personalidade borderline; iniciar acompanhamento com psicoterapia estruturada,
+preferencialmente dialética-comportamental (DBT)."
+Correta. O caso clínico descreve múltiplos critérios do transtorno da personalidade borderline
+segundo o DSM-5, incluindo:
+Instabilidade emocional.
+Medo de abandono.
+Impulsividade
+Automutilação
+Raiva intensa e dissociação.
+A DBT é a abordagem psicoterapêutica com maior evidência de eficácia para esse transtorno,
+podendo ser realizada em ambulatório.
+"Transtorno obsessivo-compulsivo de personalidade; prescrever ISRS e encaminhar para
+avaliação neuropsicológica."
+Incorreta. O TOCP se caracteriza por perfeccionismo, rigidez cognitiva e controle excessivo, não
+por impulsividade, instabilidade emocional ou automutilação.
+"Transtorno de personalidade narcisista; iniciar antipsicótico atípico e suspender vínculos
+interpessoais disfuncionais."
+Incorreta. O transtorno narcisista envolve grandiosidade, necessidade de admiração e baixa
+empatia, não se associa com medo de abandono ou automutilação. Antipsicóticos não são
+tratamento de primeira linha nesse transtorno.
+"Transtorno esquizotípico de personalidade; encaminhar para internação psiquiátrica devido ao
+risco iminente de psicose."
+Incorreta. O transtorno esquizotípico envolve comportamentos excêntricos e crenças bizarras,
+não condizentes com o quadro descrito. Além disso, não há indício de psicose ou necessidade de
+internação nesse caso.
+Referências:
+APA. DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais. Artmed, 2014. Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820949. Acesso em: 02 jun. 2025.
+SALLET, Paulo C. Manual do Residente de Psiquiatria. Manole, 2023. ISBN 9788520464649.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464649. Acesso em: 02 jun. 2025.
+NARDI, A. E. et al. Tratado de Psiquiatria da Sociedade Brasileira de Psiquiatria. Grupo A, 2021.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820345. Acesso em: 02 jun. 2025.
+22ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Um paciente diabético tipo 1 de 25 anos dá entrada no pronto-socorro com quadro
+de náuseas, vômitos e polidipsia há 24 horas. No exame físico, apresenta-se taquicárdico (FC
+110 bpm), com respiração de Kussmaul e desidratado. Os exames laboratoriais revelam glicemia
+de 420 mg/dL, pH arterial de 7,12, HCO₃⁻ de 8 mEq/L, ânion gap de 22 e cetonemia positiva.
+A conduta inicial mais apropriada para o manejo dessa condição seria:
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 41 de 59
+
+Alternativas:
+(alternativa A) (CORRETA)
+expansão volêmica inicial com solução salina isotônica, aguardar resultado do potássio sérico
+para definir início da insulinoterapia regular endovenosa contínua.
+(alternativa B)
+correção do distúrbio ácido-básico com infusão de bicarbonato de sódio e insulina regular venosa,
+mantendo hidratação oral e suplementação de potássio apenas se hipocalemia estiver presente.
+(alternativa C)
+administração de insulina subcutânea em doses escalonadas, acompanhada de hidratação oral e
+suplementação de bicarbonato de sódio.
+(alternativa D)
+administração imediata de insulina em bolus seguida de infusão contínua, com hidratação restrita
+para evitar edema cerebral.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 42 de 59
+
+Resposta comentada:
+A cetoacidose diabética (CAD) é uma emergência metabólica caracterizada por hiperglicemia,
+acidose metabólica e cetonemia/cetonúria. O tratamento envolve três pilares fundamentais:
+hidratação adequada, reposição de insulina e correção de distúrbios hidroeletrolíticos.
+Análise das alternativas:
+Expansão volêmica inicial com solução salina isotônica, correção cuidadosa de distúrbios
+hidroeletrolíticos seguida de reposição de insulina regular intravenosa: a primeira etapa no manejo
+da CAD é a expansão volêmica com solução salina isotônica (NaCl 0,9%), pois a hiperglicemia
+intensa gera diurese osmótica e desidratação grave. Após a reposição inicial, deve-se checar o
+valor do K sérico para definir o início da infusão intravenosa de insulina regular, com o objetivo de
+reduzir a cetogênese e restaurar a homeostase metabólica. Além disso, é fundamental monitorar
+e corrigir distúrbios eletrolíticos, como a hipocalemia, que pode ser agravada pela administração
+de insulina.
+Administração imediata de insulina em bolus seguida de infusão contínua, com hidratação restrita
+para evitar edema cerebral: incorreta, pois, embora a insulina seja essencial no tratamento da
+CAD, a administração em bolus não é obrigatória antes da infusão contínua. As diretrizes
+recomendam infusão contínua de 0,1 U/kg/h sem a necessidade de bolus inicial na maioria dos
+casos. Além disso, a hidratação não deve ser restrita, pois a reposição volêmica é fundamental
+para a correção da hipovolemia e melhora da perfusão renal, ajudando a eliminar corpos
+cetônicos e reduzir a acidose.
+Administração de insulina subcutânea em doses escalonadas, acompanhada de hidratação oral e
+suplementação de bicarbonato de sódio: incorreta, pois a insulina subcutânea não é recomendada
+no tratamento da CAD moderada a grave, pois não permite controle adequado da glicemia e da
+cetogênese. A hidratação oral é insuficiente para corrigir o déficit volêmico significativo, e o uso
+rotineiro de bicarbonato de sódio não é indicado, exceto em casos de acidose grave com pH <
+6,9.
+Correção do distúrbio ácido-básico com infusão de bicarbonato de sódio e insulina regular venosa,
+mantendo hidratação oral e suplementação de potássio apenas se hipocalemia estiver presente:
+incorreta, pois a correção da acidose com bicarbonato de sódio não é recomendada
+rotineiramente na CAD, pois pode piorar a hipocalemia, reduzir a captação de oxigênio pelos
+tecidos e retardar a resolução da cetonemia. Além disso, a insulina deve ser administrada de
+forma contínua e não apenas em bolus. A hidratação oral não é suficiente e a reposição de
+potássio deve ser iniciada precocemente, pois a insulina pode precipitar hipocalemia grave.
+Conclusão:
+A CAD deve ser tratada com hidratação agressiva, insulina intravenosa e correção de distúrbios
+eletrolíticos, priorizando a hipocalemia. O uso de bicarbonato deve ser reservado para casos
+extremos, e a insulina deve ser administrada de forma contínua, não em bolus ou via subcutânea.
+Referência:
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+
+23ª QUESTÃO
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 43 de 59
+
+Enunciado:
+(Banco AFYA) Um paciente de 28 anos procura atendimento na unidade de saúde relatando
+intenso medo de falar em público, comer em frente a outras pessoas e participar de reuniões
+sociais, mesmo com conhecidos. Evita situações sociais importantes por receio de ser julgado
+negativamente. Reconhece que seu medo é excessivo, mas sente sintomas físicos como
+sudorese, taquicardia e rubor facial nessas situações. O quadro está presente há mais de um ano
+e causa prejuízo funcional.
+Dentre as alternativas abaixo, qual a conduta terapêutica inicial mais adequada para o manejo
+desse paciente com fobia social?
+Alternativas:
+(alternativa A)
+Indicação de eletroconvulsoterapia, por tratar-se de um quadro ansioso crônico e resistente.
+(alternativa B)
+Uso de benzodiazepínico de longa duração por tempo indeterminado, sem necessidade de
+acompanhamento especializado.
+(alternativa C)
+Encaminhamento direto para internação psiquiátrica por risco de evolução para transtorno
+psicótico.
+(alternativa D) (CORRETA)
+Início de psicoterapia cognitivo-comportamental e ISRS, como sertralina, de forma ambulatorial.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 44 de 59
+
+Resposta comentada:
+"Início de psicoterapia cognitivo-comportamental e ISRS, como sertralina, de forma ambulatorial."
+Correta. A terapia cognitivo-comportamental (TCC) é considerada tratamento de primeira linha
+para fobia social, podendo ser associada ao uso de inibidores seletivos da recaptação de
+serotonina (ISRS), como sertralina ou paroxetina. A combinação é eficaz em casos moderados a
+graves, e pode ser realizada no nível ambulatorial, sem necessidade de internação.
+"Encaminhamento direto para internação psiquiátrica por risco de evolução para transtorno
+psicótico."
+Incorreta. A fobia social não representa risco imediato à integridade física nem tem associação
+direta com psicose. A internação não é indicada nesse cenário.
+"Uso de benzodiazepínico de longa duração por tempo indeterminado, sem necessidade de
+acompanhamento especializado."
+Incorreta. Benzodiazepínicos não são a primeira escolha para transtornos de ansiedade crônicos
+como fobia social. Além disso, o uso contínuo é contraindicado devido ao risco de dependência e
+tolerância. O tratamento deve ser supervisionado.
+"Indicação de eletroconvulsoterapia, por tratar-se de um quadro ansioso crônico e resistente."
+Incorreta. A ECT não é indicada para transtornos de ansiedade social. Trata-se de uma opção
+excepcional, reservada para quadros graves de depressão resistente ou catatonia.
+Referências:
+APA. DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais. Artmed, 2014. Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820949. Acesso em: 02 jun. 2025.
+SALLET, Paulo C. Manual do Residente de Psiquiatria. Manole, 2023. ISBN 9788520464649
+https://integrada.minhabiblioteca.com.br/#/books/978852046464. Acesso em: 02 jun. 2025.
+NARDI, A. E. et al. Tratado de Psiquiatria da Sociedade Brasileira de Psiquiatria. Grupo A, 2021.
+https://integrada.minhabiblioteca.com.br/#/books/978655882034. Acesso em: 02 jun. 2025.
+24ª QUESTÃO
+Enunciado:
+(Banco AFYA) Durante avaliação ambulatorial, uma paciente de 29 anos relata dor abdominal
+crônica, fadiga intensa e diversos sintomas físicos sem correlação clara com exames clínicos ou
+laboratoriais. Em outro caso, uma mulher de 35 anos apresenta episódios recorrentes de amnésia
+e relata sentir-se como se observasse seu corpo de fora, especialmente em situações de
+estresse.
+Com base nos critérios do DSM-5, qual é a afirmação correta sobre a diferenciação clínica entre
+transtornos de sintomas somáticos e transtornos dissociativos?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 45 de 59
+
+Alternativas:
+(alternativa A)
+Os transtornos de sintomas somáticos não causam sofrimento significativo e estão geralmente
+relacionados a quadros infecciosos prévios.
+(alternativa B)
+Os transtornos dissociativos são sempre acompanhados de queixas físicas intensas e exames
+laboratoriais alterados, ao contrário dos transtornos somáticos.
+(alternativa C) (CORRETA)
+Os transtornos de sintomas somáticos envolvem foco persistente em sintomas físicos e
+sofrimento psicológico, enquanto os transtornos dissociativos apresentam alterações na
+consciência, memória ou identidade.
+(alternativa D)
+Ambos os grupos de transtornos compartilham origem neurológica e são confirmados
+exclusivamente por exames de imagem.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 46 de 59
+
+Resposta comentada:
+"Os transtornos de sintomas somáticos envolvem foco persistente em sintomas físicos e
+sofrimento psicológico, enquanto os transtornos dissociativos apresentam alterações na
+consciência, memória ou identidade."
+Correta. Segundo o DSM-5, os transtornos somáticos são caracterizados por sintomas físicos
+persistentes sem causa médica clara, com sofrimento psicológico significativo. Já os transtornos
+dissociativos envolvem desconexão ou interrupção na consciência, identidade, memória ou
+percepção, como na despersonalização, amnésia dissociativa e transtorno dissociativo de
+identidade.
+"Os transtornos dissociativos são sempre acompanhados de queixas físicas intensas e exames
+laboratoriais alterados, ao contrário dos transtornos somáticos."
+Incorreta. Os transtornos dissociativos não são definidos por sintomas físicos nem por alterações
+laboratoriais. São quadros psiquiátricos funcionais, e exames físicos costumam ser normais.
+"Ambos os grupos de transtornos compartilham origem neurológica e são confirmados
+exclusivamente por exames de imagem."
+Incorreta. Nenhum desses transtornos é confirmado por exames de imagem. São diagnósticos
+clínicos, com base em entrevista estruturada e critérios do DSM-5.
+"Os transtornos de sintomas somáticos não causam sofrimento significativo e estão geralmente
+relacionados a quadros infecciosos prévios."
+Incorreta. O sofrimento psicológico e funcional significativo é parte dos critérios diagnósticos dos
+transtornos somáticos. A relação com infecção não é determinante para o diagnóstico.
+Referência:
+APA. DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais. Artmed, 2014. Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820949. Acesso em: 02 jun. 2025.
+SALLET, Paulo C. Manual do Residente de Psiquiatria. Manole, 2023. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464649. Acesso em: 02 jun. 2025.
+NARDI, A. E. et al. Tratado de Psiquiatria da Sociedade Brasileira de Psiquiatria. Grupo A, 2021.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820345. Acesso em: 02 jun. 2025.
+25ª QUESTÃO
+Enunciado:
+(Banco AFYA) Uma mulher de 70 anos com histórico de hipertensão e fibrilação atrial permanente
+comparece à emergência com dispneia súbita, ortopneia e sibilância. Apresenta pressão arterial
+de 180/90 mmHg, frequência cardíaca de 120 bpm e saturação de O₂ em 87% em ar ambiente. A
+ausculta revela estertores crepitantes em bases e ritmo cardíaco irregular. Radiografia de tórax
+mostra aumento da área cardíaca, congestão hilar e linhas B de Kerley.
+Com base nos dados clínicos e complementares, qual é o diagnóstico mais provável e o
+raciocínio que melhor diferencia esse quadro de outras causas de desconforto respiratório
+agudo?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 47 de 59
+
+Alternativas:
+(alternativa A)
+Doença pulmonar obstrutiva crônica (DPOC) exacerbada; sugerida por sibilância e aumento da
+área cardíaca.
+(alternativa B)
+Tromboembolismo pulmonar; confirmado pela presença de ritmo irregular e radiografia com
+congestão pulmonar bilateral.
+(alternativa C) (CORRETA)
+Edema agudo de pulmão secundário à descompensação de IC; sugerido pelo quadro clínico e
+imagem sugestiva de congestão pulmonar.
+(alternativa D)
+Asma cardíaca secundária a infecção respiratória; indicada por sibilância, taquicardia e febre
+persistente.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 48 de 59
+
+Resposta comentada:
+"Edema agudo de pulmão secundário à descompensação de IC; sugerido pelo quadro clínico e
+imagem sugestiva de congestão pulmonar." Correta. Os achados de dispneia súbita, ortopneia,
+crepitações, congestão hilar, cardiomegalia e presença de fibrilação atrial são clássicos de EAP
+em contexto de insuficiência cardíaca descompensada, e diferenciam-se por:
+Início agudo.
+Evidência de sobrecarga de volume.
+Achados radiológicos compatíveis (linhas B, aumento da área cardíaca)
+"Asma cardíaca secundária a infecção respiratória; indicada por sibilância, taquicardia e febre
+persistente." Incorreta. O termo "asma cardíaca" é um sinônimo informal de EAP com
+broncoespasmo, mas não há febre no caso, e os achados radiológicos e de estertores são mais
+compatíveis com congestão pulmonar do que com infecção.
+"Tromboembolismo pulmonar; confirmado pela presença de ritmo irregular e radiografia com
+congestão pulmonar bilateral." Incorreta. Embora a FA seja um fator de risco para TEP, o TEP
+geralmente não causa congestão hilar nem aumento da área cardíaca, e a radiografia tende a ser
+normal ou com alterações discretas, como o sinal de Westermark (oligoemia focal).
+"Doença pulmonar obstrutiva crônica (DPOC) exacerbada; sugerida por sibilância e aumento da
+área cardíaca." Incorreta. O DPOC exacerbado pode cursar com sibilância e dispneia, mas
+geralmente há hiperinsuflação pulmonar, e estertores crepitantes não são característicos. Além
+disso, a congestão hilar e linhas B de Kerley apontam para congestão vascular, típica de ICC.
+Referências:
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+Rohde, Luis Eduardo Paim; Montera, Marcelo Westerlund; Bocchi, Edimar
+Alcides; Clausell, Nadine Oliveira; Albuquerque, Denilson Campos
+de; Rassi, Salvador; Colafranceschi, Alexandre Siciliano; Freitas Junior, Aguinaldo Figueiredo
+de; Ferraz, Almir Sergio; Biolo, Andreia; Barretto, Antonio C. Pereira; Ribeiro, Antonio Luiz
+Pinho; Polanczyk, Carisi Anne; Gualandro, Danielle Menosi; Almeida, Dirceu
+Rodrigues; Silva, Eneida Rejane Rabelo da; Figueiredo, Estêvão Lanna; Mesquita, Evandro
+Tinoco; Marcondes-Braga, Fabiana G. ; Cruz, Fátima das Dores da; Ramires, Felix José
+Alvarez; Atik, Fernando Antibas; Bacal, Fernando; Souza, Germano Emilio Conceição; Almeida
+Junior, Gustavo Luiz Gouvêa de; Ribeiro, Gustavo Calado de Aguiar; Villacorta
+Junior, Humberto; Vieira, Jefferson Luís; Souza Neto, João David de; Rossi Neto, João
+Manoel; Figueiredo Neto, Jose Albuquerque de; Moura, Lidia Ana Zytynsky; Goldraich, Livia
+Adams; Beck-da-Silva, Luis; Danzmann, Luiz Claudio; Canesin, Manoel
+Fernandes; Bittencourt, Marcelo Imbroinise; Garcia, Marcelo Iorio; Bonatto, Marcely
+Gimenes; Simões, Marcus Vinícius; Moreira, Maria da Consolação Vieira; Silva, Miguel Morita
+Fernandes da; Olivera Junior, Mucio Tavares de; Silvestre, Odilson
+Marcos; Schwartzmann, Pedro Vellosa; Bestetti, Reinaldo Bulgarelli; Rocha, Ricardo
+Mourilhe; Simões, Ricardo; Pereira, Sabrina Bernardez; Mangini, Sandrigo; Alves, Sílvia Marinho
+Martins; Ferreira, Silvia Moreira Ayub; Issa, Victor Sarli; Barzilai, Vitor Salvatore; Martins, Wolney
+de Andrade. Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda. Arq. Bras. Cardiol.,
+v. 111, n. 3, p. 436-539, set. 2018.
+26ª QUESTÃO
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 49 de 59
+
+Enunciado:
+(UNINOVAFAPI) Paciente do sexo feminino, 23 anos, comparece à unidade básica de saúde
+(UBS) com queixa de episódios recorrentes de compulsão alimentar seguidos por vômitos
+autoinduzidos, que ocorrem em média três vezes por semana há cerca de 4 meses. Relata
+preocupação excessiva com o peso e distorção da imagem corporal. Ao exame físico, apresenta
+erosões dentárias e sinais de desidratação leve. IMC atual: 21 kg/m². Está hemodinamicamente
+estável.
+Qual das alternativas abaixo representa a conduta mais adequada neste cenário ambulatorial?
+Alternativas:
+(alternativa A)
+Realizar abordagem psicoeducativa e aguardar evolução clínica antes de intervir.
+(alternativa B) (CORRETA)
+Solicitar eletrólitos séricos, eletrocardiograma e encaminhar para terapia cognitivocomportamental.
+(alternativa C)
+Iniciar reposição calórica intensiva e acompanhar semanalmente na UBS.
+(alternativa D)
+Encaminhar para internação hospitalar imediata por risco nutricional grave.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 50 de 59
+
+Resposta comentada:
+Alternativa correta - "Solicitar eletrólitos séricos, eletrocardiograma e encaminhar para terapia
+cognitivo-comportamental": A paciente apresenta critérios diagnósticos para bulimia nervosa, com
+episódios frequentes de compulsão seguidos de purgação. Apesar do IMC normal, há sinais de
+complicações clínicas (ex: erosão dentária). A abordagem deve incluir investigação de distúrbios
+hidroeletrolíticos e alterações cardíacas (ECG), especialmente hipocalemia e arritmias. A terapia
+cognitivo-comportamental é o tratamento de primeira linha, conforme diretrizes internacionais e
+nacionais.
+Distratores:
+"Encaminhar para internação hospitalar imediata por risco nutricional grave." - A internação
+hospitalar imediata está indicada em quadros graves, como risco nutricional severo, instabilidade
+hemodinâmica, IMC muito baixo ou distúrbios eletrolíticos graves, o que não é o caso aqui.
+"Iniciar reposição calórica intensiva e acompanhar semanalmente na UBS." - A bulimia não é
+tratada com reposição calórica intensiva, como na anorexia. O foco inicial é no controle dos
+episódios de purgação e suporte psicoterapêutico.
+"Realizar abordagem psicoeducativa e aguardar evolução clínica antes de intervir." - A espera
+sem intervenção é inadequada, pois a paciente já apresenta critérios diagnósticos e sinais físicos
+relacionados ao transtorno.
+Referência:
+CAMPOS, M. O. ; MELO, A. G. de. Transtornos alimentares. In: LAUFER, B. ; MOREIRA, R. O.
+(org.). Psiquiatria: Diagnóstico e Tratamento. 3. ed. Rio de Janeiro: Guanabara Koogan, 2017.
+Cap. 18, p. 264–273.
+27ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um homem de 75 anos é avaliado em consulta ambulatorial com queixas
+progressivas de perda de memória, dificuldade para realizar tarefas habituais e desorientação
+temporal leve. Sua esposa relata episódios de repetição de perguntas e dificuldade para encontrar
+palavras. Não há delírios nem alterações motoras importantes. O exame clínico sugere
+comprometimento cognitivo leve a moderado, e o diagnóstico provável é de doença de
+Alzheimer.
+Com base nas evidências atuais para tratamento dos transtornos neurocognitivos, qual é a
+conduta terapêutica mais apropriada e como devem ser classificadas as intervenções nesse
+estágio da doença?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 51 de 59
+
+Alternativas:
+(alternativa A)
+Iniciar benzodiazepínico para melhorar o sono e complementar com suplemento vitamínico B12,
+como estratégia curativa precoce.
+(alternativa B)
+Prescrever antipsicótico atípico e antidepressivo tricíclico, combinando farmacoterapia
+sintomática e controle comportamental precoce.
+(alternativa C)
+Introduzir memantina como monoterapia e adotar repouso prolongado para preservar a reserva
+cognitiva.
+(alternativa D) (CORRETA)
+Iniciar inibidor da colinesterase como donepezila e implementar estimulação cognitiva estruturada
+como abordagem não farmacológica.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 52 de 59
+
+Resposta comentada:
+"Iniciar inibidor da colinesterase como donepezila e implementar estimulação cognitiva estruturada
+como abordagem não farmacológica."
+Correta. Essa é a conduta recomendada para estágios leve a moderado da Doença de Alzheimer,
+segundo diretrizes clínicas e psiquiátricas:
+Donepezila, rivastigmina ou galantamina são indicados como primeira linha para melhora
+sintomática da cognição e funcionamento.
+A estimulação cognitiva estruturada, como exercícios de memória, orientação temporal e
+atividades de rotina, é uma intervenção não farmacológica eficaz, especialmente em estágios
+iniciais.
+"Prescrever antipsicótico atípico e antidepressivo tricíclico, combinando farmacoterapia
+sintomática e controle comportamental precoce."
+Incorreta. Antipsicóticos são reservados para sintomas psicóticos ou agitação severa, e os
+tricíclicos são contraindicados em idosos por risco de efeitos anticolinérgicos e cardiotóxicos.
+Essa conduta não é recomendada na ausência de sintomas comportamentais graves.
+"Introduzir memantina como monoterapia e adotar repouso prolongado para preservar a reserva
+cognitiva."
+Incorreta. A memantina é indicada para estágios moderados a graves de Alzheimer. Além disso,
+repouso prolongado piora o prognóstico funcional e cognitivo; o estímulo ambiental é essencial.
+"Iniciar benzodiazepínico para melhorar o sono e complementar com suplemento vitamínico B12,
+como estratégia curativa precoce."
+Incorreta. Benzodiazepínicos devem ser evitados em pacientes idosos com quadro demencial,
+pois aumentam risco de quedas, confusão e piora cognitiva. A suplementação de B12 só é
+indicada quando há deficiência comprovada, e não é curativa para Alzheimer.
+Referências:
+APA. DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais. Artmed, 2014. Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820949. Acesso em: 02 jun. 2025.
+SALLET, Paulo C. Manual do Residente de Psiquiatria. Manole, 2023. ISBN 9788520464649.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464649. Acesso em: 02 jun. 2025.
+NARDI, A. E. et al. Tratado de Psiquiatria da Sociedade Brasileira de Psiquiatria. Grupo A, 2021.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820345. Acesso em: 02 jun. 2025.
+28ª QUESTÃO
+Enunciado:
+(Banco AFYA) Uma mulher de 34 anos procura atendimento ambulatorial relatando preocupação
+excessiva com sua saúde, com o trabalho e com familiares, acompanhada de fadiga, insônia,
+irritabilidade e tensão muscular há mais de 6 meses. Nega sintomas de pânico, depressão ou
+alucinações. Refere prejuízo funcional leve, mas crescente. Não possui comorbidades clínicas e
+nunca fez tratamento psiquiátrico.
+Considerando as alternativas seguintes, qual é a conduta terapêutica inicial mais apropriada para
+esta paciente com transtorno de ansiedade generalizada?
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 53 de 59
+
+Alternativas:
+(alternativa A) (CORRETA)
+Início de psicoterapia cognitivo-comportamental ou ISRS, como escitalopram, com
+monitoramento ambulatorial.
+(alternativa B)
+Administração de antipsicótico atípico, devido ao risco de evolução para transtornos do espectro
+esquizofrênico.
+(alternativa C)
+Encaminhamento para internação psiquiátrica e interrupção das atividades cotidianas por tempo
+indeterminado.
+(alternativa D)
+Prescrição de benzodiazepínico de curta duração como tratamento de longo prazo, com
+reavaliação anual.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 54 de 59
+
+Resposta comentada:
+"Início de psicoterapia cognitivo-comportamental ou ISRS, como escitalopram, com
+monitoramento ambulatorial."
+Correta. O tratamento de primeira linha para TAG inclui terapia cognitivo-comportamental (TCC)
+e/ou inibidores seletivos da recaptação de serotonina (ISRS), como escitalopram, paroxetina ou
+sertralina. São eficazes e seguros, com bom perfil para tratamento ambulatorial, sendo a TCC
+particularmente útil em pacientes motivados.
+"Prescrição de benzodiazepínico de curta duração como tratamento de longo prazo, com
+reavaliação anual."
+Incorreta. Benzodiazepínicos não devem ser utilizados como primeira escolha no TAG devido ao
+risco de dependência, tolerância e prejuízo cognitivo. Quando usados, devem ser restritos a curto
+prazo e sob acompanhamento próximo.
+"Administração de antipsicótico atípico, devido ao risco de evolução para transtornos do espectro
+esquizofrênico."
+Incorreta. Não há nenhuma indicação de psicose ou risco iminente de esquizofrenia neste quadro.
+O uso de antipsicóticos não é indicado para TAG em pacientes sem sintomas psicóticos.
+"Encaminhamento para internação psiquiátrica e interrupção das atividades cotidianas por tempo
+indeterminado."
+Incorreta. A internação não é indicada para transtornos ansiosos sem risco iminente de suicídio
+ou psicose, e a manutenção das atividades funcionais faz parte do processo terapêutico
+ambulatorial.
+Referências:
+APA. DSM-5: Manual Diagnóstico e Estatístico de Transtornos Mentais. Artmed, 2014. Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820949. Acesso em: 02 jun. 2025.
+SALLET, Paulo C. Manual do Residente de Psiquiatria. Manole, 2023. ISBN 9788520464649.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464649. Acesso em: 02 jun. 2025.
+NARDI, A. E. et al. Tratado de Psiquiatria da Sociedade Brasileira de Psiquiatria. Grupo A, 2021.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820345. Acesso em: 02 jun. 2025.
+29ª QUESTÃO
+Enunciado:
+(Banco AFYA) Homem de 23 anos chega à unidade de emergência psiquiátrica apresentando
+agitação psicomotora, ansiedade e medo intensos. Refere que estava usando crack em uma rua
+do centro da cidade quando ouviu a sirene de um carro de polícia e teve certeza de que os
+policiais estavam atrás dele para matá-lo. Segundo os familiares, o paciente não tem história de
+tratamentos psiquiátricos anteriores, nem de envolvimento com atividades criminosas.
+Assinale dentre as alternativas abaixo a melhor conduta para esse paciente.
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 55 de 59
+
+Alternativas:
+(alternativa A)
+Internação psiquiátrica em função do quadro de transtorno esquizofrênico (CID 10: F 20) grave,
+iniciando antipsicóticos de primeira ou segunda geração.
+(alternativa B)
+Reverter os efeitos da substância (crack) pela administração de antagonistas (naloxona), o que
+pode deslocar o agonista de receptores neuronais e outros receptores.
+(alternativa C) (CORRETA)
+Deixar o paciente em ambiente tranquilo, com poucos estímulos, e administrar benzodiazepínico
+via oral até melhora dos sintomas, pois trata-se de uma intoxicação por crack.
+(alternativa D)
+Administração de haloperidol e prometazina IM (intramuscular) imediatamente para controle dos
+sintomas psicóticos induzidos pela substância (crack).
+
+Resposta comentada:
+Alternativa Incorreta: "Internação psiquiátrica em função do quadro de transtorno esquizofrênico
+(CID 10: F 20) grave, iniciando antipsicóticos de primeira ou segunda geração". Justificativa: O
+paciente apresenta sintomas psicóticos decorrentes de intoxicação pela cocaína/crack, e não
+apresenta na história os critérios para esquizofrenia.
+Alternativa Incorreta: "Administração de haloperidol e prometazina IM (intramuscular)
+imediatamente para controle dos sintomas psicóticos induzidos pela substância (crack)".
+Justificativa: A administração de Haloperidol seria para conter a agitação psicomotora e não para
+controle de sintomas psicóticos. Os quadros de agitação podem ser tratados com
+benzodiazepínicos, antipsicóticos ou a associação de ambas as medicações.
+Alternativa Correta: "Deixar o paciente em ambiente tranquilo, com poucos estímulos, e
+administrar benzodiazepínico via oral até melhora dos sintomas, pois trata-se de uma intoxicação
+por crack". Alternativa correta: A intoxicação por crack (ou cocaína) costuma ser autolimitada,
+deve-se promover, sempre que possível, diminuição da exposição a estímulos externos,
+manutenção em um ambiente seguro e monitorado (com objetivo de rastrear as complicações
+cardíacas). Pacientes com ansiedade ou excitação psicomotora podem ser medicados com
+benzodiazepínicos por via oral (VO).
+Alternativa Incorreta: "Reverter os efeitos da substância (crack) pela administração de
+antagonistas (naloxona), o que pode deslocar o agonista de receptores neuronais e outros
+receptores". Alternativa incorreta, pois não há um antagonista para efeitos da cocaína disponível.
+A Naloxona é usada para intoxicação grave por opioides (por exemplo, superdosagem de
+heroína) e não para estimulantes (cocaína/crack).
+Referências:
+QUEVEDO, João. Emergências Psiquiátricas [recurso eletrônico]. 4. ed. Artmed Editora, 2020. Ebook.
+DIEHL, Alessandra; CORDEIRO, Daniel; LARANJEIRA, Ronaldo. Dependência química:
+prevenção, tratamento e políticas públicas. Artmed Editora, 2018. E-book.
+AMERICAN PSYCHIATRIC ASSOCIATION et al. DSM-5 TR: Manual diagnóstico e estatístico de
+transtornos mentais. Artmed Editora, 2023. E-book.
+30ª QUESTÃO
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 56 de 59
+
+Enunciado:
+(UNIFIPMOC) Você está atendendo na emergência de um hospital terciário, referência em
+neurologia e neurointervenção. Uma mulher de 54 anos, previamente hígida, é admitida após
+episódio súbito de cefaleia intensa em trovoada/thunderclap, seguido de vômitos e rebaixamento
+do nível de consciência. Foi intubada na sala vermelha em Glasgow 5, pupilas isocóricas e
+fotorreativas. A TC de crânio mostrou hemorragia subaracnoidea difusa com sangramento
+perimesencefálico e presença de sangue nos ventrículos laterais (Fisher IV). A angiotomografia
+cerebral revelou aneurisma sacular na bifurcação da artéria cerebral anterior.
+A paciente foi submetida a cirurgia para implante de DVE (Derivação Ventricular Externa) e
+também levada à hemodinâmica para embolização endovascular de urgência com sucesso e
+permanece sedada na UTI neurológica com medidas de prevenção de HIC (hipertensão
+intracraniana).
+No 5º dia de internação, apresenta piora neurológica com assimetria pupilar e novo rebaixamento
+do nível de consciência.
+Diante desse quadro clínico, qual é a complicação mais provável e a conduta imediata mais
+apropriada?
+Alternativas:
+(alternativa A)
+Crise epiléptica não convulsiva; realizar EEG (eletroencefalograma) contínuo e iniciar
+anticonvulsivante empírico de ataque e manutenção (ex: fenitoína ou levetiracetam).
+(alternativa B)
+Hiponatremia sintomática aguda; iniciar nimodipino oral, solicitar dosagem de sódio sérico urgente
+e monitorar com Doppler transcraniano seriado.
+(alternativa C)
+Re-sangramento aneurismático; realizar punção lombar diagnóstica e considerar nova
+intervenção endovascular de urgência.
+(alternativa D) (CORRETA)
+Hidrocefalia por obstrução liquórica; solicitar TC de crânio urgente e revisar posicionamento da
+derivação ventricular externa.
+
+Resposta comentada:
+Gabarito: Hidrocefalia por obstrução liquórica; solicitar TC de crânio urgente e revisar
+posicionamento da derivação ventricular externa.
+Resumo clínico importante:
+Mulher, 54 anos, previamente hígida.
+Quadro clínico típico de HSA aneurismática (cefaleia em trovoada + rebaixamento do
+sensório).
+TC inicial com Fisher IV (sangue intraventricular), alto risco de hidrocefalia.
+DVE já instalada + embolização endovascular já realizada com sucesso.
+No 5º dia, piora neurológica com anisocoria (assimetria pupilar) + nova queda do nível
+de consciência.
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 57 de 59
+
+Justificativa:
+O sangue no sistema ventricular (Fisher IV) frequentemente causa obstrução de circulação
+liquórica, levando a hidrocefalia aguda ou subaguda.
+A instalação prévia de DVE não descarta complicação, pois pode haver obstrução da
+própria derivação por coágulo, deslocamento ou mau funcionamento.
+A piora com anisocoria e rebaixamento no 5º dia é um sinal clássico de hipertensão
+intracraniana aguda, mais comum por hidrocefalia aguda/subaguda ou vasoespasmo
+cerebral com isquemia cerebral tardia extensa com edema cerebral ou
+ressangramento.
+Comentários sobre as demais alternativas:
+Re-sangramento aneurismático; solicitar nova angio-TC e considerar nova intervenção
+endovascular de urgência.
+Seria hipótese diferencial inicial plausível se a paciente não tivesse feito tratamento
+endovascular recente e eficaz.
+Reangramento após embolização é muito raro, especialmente em ambiente controlado
+e com medidas de neuroproteção.
+A hidrocefalia obstrutiva aguda no 5º dia em paciente já embolizada é muito mais
+provável.
+Hiponatremia sintomática aguda; iniciar nimodipino oral, solicitar dosagem de sódio sérico urgente
+e monitorar com Doppler transcraniano seriado.
+Hiponatremia pode sim ocorrer, mas não cursa com anisocoria súbita nova.
+Nimodipino oral já deveria ter sido iniciado desde a admissão, afinal faz parte da
+prevenção de vasoespasmo cerebral.
+Monitorar com doppler transcraniano é importante na HSAE, porém, diante dessa piora
+neurológica aguda relatada, a prioridade aqui é a realização de TC crânio sem contraste
+imediatamente, o que não foi descrito nessa alternativa.
+Além disso, DVE obstruída com HIC explica melhor o quadro clínico agudo atual.
+Crise epiléptica não convulsiva; realizar EEG contínuo e iniciar anticonvulsivante empírico de
+ataque e manutenção (ex: fenitoína ou levetiracetam).
+Poderia justificar rebaixamento, mas não anisocoria.
+Além disso, não é a conduta imediata prioritária antes de excluir HIC aguda.
+Referências:
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+2023 Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage: A
+Guideline From the American Heart Association/American Stroke Association. Brian L. Hoh, MD,
+MBA, FAHA, Chair, Nerissa U. Ko, MD, MAS, Vice Chair, Sepideh Amin-Hanjani, MD, FAHA,
+Sherry Hsiang-Yi Chou, MD, MSc, Salvador Cruz-Flores, MD, MPH, FAHA, Neha S. Dangayach,
+MD, MBBS, MSCR, Colin P. Derdeyn, MD, FAHA, … Mostrar tudo …, e Babu G. Welch, MD.
+Author Info & Affiliations. Stroke Volume 54, Number 7.
+https://doi.org/10.1161/STR.0000000000000436
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 58 de 59
+
+000161.120018.d4dc60.daac3e.e76654.b81e29.30313f.1d9b4
+
+Pgina 59 de 59
+
+

@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import { BookOpen, CalendarDays, Clock, ClipboardCheck, Eye, Play, Plus, RotateCcw, Search, Target, Trash2 } from 'lucide-react'
+import { BookOpen, CalendarDays, Clock, ClipboardCheck, Eye, Play, Plus, RotateCcw, ScanLine, Search, Target, Trash2 } from 'lucide-react'
+import { TreinoModal } from '../components/TreinoModal'
 import { Empty } from '../components/ui'
 import { normalize, pct, uniq } from '../lib/format'
 import { redoSimulado, setState, useQuestions, useStore, type Simulado } from '../lib/store'
@@ -26,9 +27,10 @@ export default function MinhasProvas() {
   const tags = uniq(rows.map((r) => r.materia)).sort()
   const shown = rows.filter((r) =>
     (!tag || r.materia === tag) && (!term || normalize(`${r.s.nome} ${r.discs.join(' ')}`).includes(normalize(term))))
-  const done = simulados.filter((s) => s.finishedAt).length
+  const done = simulados.filter((s) => s.finishedAt && !s.treino).length
+  const [treino, setTreino] = useState<{ s: Simulado; ids: string[] }>()
 
-  const redo = (s: Simulado, ids: string[], suffix: string) => navigate(`/app/simulados/${redoSimulado(s, ids, suffix)}`)
+  const redo = (s: Simulado, ids: string[], suffix: string, isTreino = false) => navigate(`/app/simulados/${redoSimulado(s, ids, suffix, isTreino)}`)
   const remove = (id: string) => setState((st) => ({ ...st, simulados: st.simulados.filter((x) => x.id !== id) }))
 
   return (
@@ -82,7 +84,13 @@ export default function MinhasProvas() {
               <li key={s.id} className="overflow-hidden rounded-2xl border-2 border-ink/90 bg-panel">
                 <div className="flex">
                   <div className="flex min-w-0 flex-1 flex-col justify-center gap-2 bg-ink px-5 py-4 text-bg">
-                    {!s.finishedAt && <span className="w-fit rounded-full border border-bg/40 px-2 py-0.5 text-[10px] font-bold uppercase">Em andamento</span>}
+                    {(!s.finishedAt || s.treino || s.papel) && (
+                      <span className="flex gap-1.5">
+                        {!s.finishedAt && <span className="w-fit rounded-full border border-bg/40 px-2 py-0.5 text-[10px] font-bold uppercase">{s.papel ? 'Aguardando correção' : 'Em andamento'}</span>}
+                        {s.papel && <span className="w-fit rounded-full bg-cyan-300 px-2 py-0.5 text-[10px] font-bold uppercase">Papel</span>}
+                        {s.treino && <span className="w-fit rounded-full bg-warn px-2 py-0.5 text-[10px] font-bold uppercase">Treino</span>}
+                      </span>
+                    )}
                     <span className="truncate font-display text-xl font-bold sm:text-2xl">{s.nome}</span>
                   </div>
                   {s.finishedAt ? (
@@ -130,11 +138,15 @@ export default function MinhasProvas() {
                       <Link to={`/app/simulados/${s.id}`} className="flex flex-1 items-center justify-center gap-1.5 py-3 hover:bg-white/5"><Eye className="size-4" /> Rever</Link>
                       <button onClick={() => redo(s, s.questionIds, 'refazer')} className="flex flex-1 items-center justify-center gap-1.5 border-l border-line py-3 hover:bg-white/5"><RotateCcw className="size-4" /> Refazer</button>
                       {wrong.length > 0 && (
-                        <button onClick={() => redo(s, wrong, 'erradas')} className="flex flex-1 items-center justify-center gap-1.5 bg-warn py-3 text-bg hover:brightness-110"><Target className="size-4" /> Erradas</button>
+                        <button onClick={() => setTreino({ s, ids: wrong })} className="flex flex-1 items-center justify-center gap-1.5 bg-warn py-3 text-bg hover:brightness-110"><Target className="size-4" /> Erradas</button>
                       )}
                     </>
                   ) : (
-                    <Link to={`/app/simulados/${s.id}`} className="flex flex-1 items-center justify-center gap-1.5 bg-accent py-3 text-bg hover:brightness-110"><Play className="size-4" /> Continuar</Link>
+                    s.papel ? (
+                      <Link to={`/app/simulados/${s.id}`} className="flex flex-1 items-center justify-center gap-1.5 bg-cyan-300 py-3 text-bg hover:brightness-110"><ScanLine className="size-4" /> Corrigir</Link>
+                    ) : (
+                      <Link to={`/app/simulados/${s.id}`} className="flex flex-1 items-center justify-center gap-1.5 bg-accent py-3 text-bg hover:brightness-110"><Play className="size-4" /> Continuar</Link>
+                    )
                   )}
                   <button onClick={() => remove(s.id)} aria-label="Excluir prova" className="grid w-12 place-items-center bg-danger text-bg hover:brightness-110"><Trash2 className="size-4" /></button>
                 </div>
@@ -143,6 +155,7 @@ export default function MinhasProvas() {
           })}
         </ul>
       )}
+      {treino && <TreinoModal count={treino.ids.length} onCancel={() => setTreino(undefined)} onConfirm={() => redo(treino.s, treino.ids, 'erradas', true)} />}
     </>
   )
 }

@@ -1,0 +1,571 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade II
+Professor (es):
+Período: 202402
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_2 PERIODO_25 SETEMBRO_2024.2_PROVA_IESC
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 13537 - CADERNO 003
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+( FASA VIC) João, um homem de 35 anos, residente em uma área rural, procura a Unidade
+Básica de Saúde (UBS), após sentir fortes dores abdominais e febre persistente. O enfermeiro da
+UBS realiza a triagem, verifica seus sinais vitais e coleta informações sobre os sintomas e, sem
+seguida, é atendido por um médico da UBS, que realiza uma avaliação clínica inicial e decide
+encaminhar João para consulta com especialista na região. O médico especialista realizou uma
+avaliação mais detalhada solicitando exames laboratoriais. O diagnóstico revelou que João estava
+com apendicite aguda, exigindo uma intervenção cirúrgica, sendo encaminhado para um hospital
+em uma cidade próxima onde são realizados procedimentos cirúrgicos mais complexos. Ele é
+admitido para a cirurgia de apendicite.
+A partir do caso clínico descrito, identifique quais pontos da rede de atenção em saúde foram
+utilizados pelo paciente e os respectivos níveis de atenção vivenciados, apresentando exemplos
+com fragmentos do caso clínico (1,5).
+Alternativas:
+--
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 1 de 16
+
+Resposta comentada:
+APS --> Nível primário de atenção, porta de entrada. exemplo: "Preocupado com sua saúde, João
+inicialmente procura a Unidade Básica de Saúde (UBS) onde a equipe da atenção básica realiza
+uma avaliação inicial. O enfermeiro da UBS realiza a triagem, verifica seus sinais vitais e coleta
+informações sobre os sintomas. João é atendido por um médico da UBS." (0,5)
+Consulta especializada --> Nível secundário --> exemplo --> "João é atendido por um médico da
+UBS, que realiza uma avaliação clínica inicial e decide encaminhar João para uma consulta com
+especialista na região. João passa por uma avaliação mais detalhada por um médico especialista
+e realiza exames laboratoriais. "(0,5)
+Intervenção cirúrgica em hospital com encaminhamento na região de saúde--> nível terciário -->
+exemplo: "O diagnóstico revela uma apendicite aguda, exigindo uma intervenção cirúrgica. Diante
+do diagnóstico, João é encaminhado para um hospital em uma cidade próxima onde são
+realizados procedimentos cirúrgicos mais complexos. Ele é admitido para a cirurgia de apendicite.
+(0,5)
+Referências:
+MENDES, E.V. As redes de atenção à saúde: revisão bibliográfica, fundamentos, conceito e
+elementos constitutivos.
+MENDES, E.V. As redes de atenção à saúde. Organização Pan-Americana da Saúde, 2011,
+2010. Cap. 2 (Fundamentos e conceitos pag. 71 a 84).
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+( FIPGUANAMBI) O bairro Santa Rita, na cidade de Caculé, está enfrentando um surto de uma
+doença transmitida por mosquitos. Então, a equipe de saúde da Unidade Básica de Saúde (UBS)
+do bairro se reuniu para definir atividades para conter a propagação do mosquito e proporcionar
+um melhor atendimento aos pacientes. Considerando o caso, analise as seguintes afirmações:
+I. Todos os membros da equipe de saúde deverão participar do acolhimento dos usuários,
+realizando classificação de risco, identificando as necessidades de intervenções de cuidado.
+II. Os agentes comunitários de saúde devem identificar casos suspeitos de doenças e agravos,
+encaminhando os usuários para a unidade de saúde de referência, registrar e comunicar o fato à
+autoridade de saúde responsável pelo território.
+III. Instituir ações para segurança do paciente e propor medidas para reduzir os riscos e diminuir
+os eventos adversos, são atividades privativas do médico e equipe de enfermagem.
+IV. A realização das ações programáticas, coletivas e de vigilância em saúde, incluindo educação
+em saúde, como palestras educativas de combate a proliferação do mosquito deverão ser
+realizadas por todos os membros da equipe.
+Com base na Portaria 2.436/2017, está correto o que se afirma em:
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 2 de 16
+
+Alternativas:
+(alternativa A)
+I, II. III e IV.
+(alternativa B) (CORRETA)
+I, II e IV.
+(alternativa C)
+II e IV.
+(alternativa D)
+I e III.
+
+Resposta comentada:
+Atribuições comuns a todos os membros das Equipes que atuam na Atenção Básica:
+V. Garantir a atenção à saúde da população adscrita, buscando a integralidade por meio da
+realização de ações de promoção, proteção e recuperação da saúde, prevenção de doenças e
+agravos e da garantia de atendimento da demanda espontânea, da realização das ações
+programáticas, coletivas e de vigilância em saúde, e incorporando diversas racionalidades em
+saúde, inclusive Práticas Integrativas e Complementares;
+VI. Participar do acolhimento dos usuários, proporcionando atendimento humanizado, realizando
+classificação de risco, identificando as necessidades de intervenções de cuidado,
+responsabilizando-se pela continuidade da atenção e viabilizando o estabelecimento do vínculo;
+XIV. Instituir ações para segurança do paciente e propor medidas para reduzir os riscos e diminuir
+os eventos adversos;
+Portanto, ações de segurança não são atribuições específicas do médico e enfermagem.
+É uma atribuição do ACS:
+Os agentes comunitários de saúde devem identificar casos suspeitos de doenças e agravos,
+encaminhando os usuários para a unidade de saúde de referência, registrar e comunicar o fato à
+autoridade de saúde responsável pelo território.
+Referências:
+Portaria 2.436/2017. Disponível em:
+https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt2436_22_09_2017.html.
+DIAS, R. B; NOGUEIRA, O. S. Trabalho em equipe. In: GUSSO G.; LOPES, J. M. C.
+(Org.). Tratado de medicina de família e comunidade: princípios, formação e prática. Porto
+Alegre: Artmed, 2019. Cap. 42.
+MIRANDA, Edilon. São atribuições comuns a todos os profissionais da equipe. Rio de
+Janeiro, 2017. Disponível em: https://estrategiasaudedafamilia.comunidades.net/atribuicoescomuns-a-todos-os-profissionais-da-equ.
+Feedback:
+Di
+3ª QUESTÃO
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 3 de 16
+
+Enunciado:
+(UNITPAC) Durante uma consulta de pré-natal na UBS a médica Joziele identificou complicações
+gestacionais em uma paciente de 28 anos de idade, realizando encaminhamento para o
+especialista no ambulatório de especialidades de sua cidade, onde foi realizado um Ultrassom
+morfológico com Doppler. A médica obstetra do centro de referência recomendou a realização de
+uma cesariana. Na unidade hospitalar, após a cesariana, a paciente e seu bebê receberam
+cuidados especializados de alta complexidade neonatal.
+Considerando os pontos de assistência que a paciente passou dentro da rede, analise as
+afirmativas a seguir quanto ao nível de densidade tecnológica:
+I - Nível menor/baixo: onde a paciente foi atendida na UBS, na consulta a médica identificou
+complicações gestacionais.
+II - Nível intermediário: encaminhada para especialista na referência compondo o Ambulatório da
+cidade.
+III - Nível maior/alto: hospital onde a paciente realizou cirurgia cesariana e foi acompanhada pela
+alta complexidade neonatal.
+É correto o que se afirma em:
+Alternativas:
+(alternativa A)
+I e III.
+
+(alternativa B)
+I e II.
+(alternativa C) (CORRETA)
+I, II e III.
+(alternativa D)
+II e III.
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 4 de 16
+
+Resposta comentada:
+Os níveis de atenção são arranjos produtivos conformados segundo as densidades tecnológicas
+singulares, variando do nível de menor densidade, ao de densidade tecnológica intermediária, até
+o de maior densidade tecnológica. Na prática, os serviços de menor densidade tecnológica, como
+as unidades básicas de saúde, são ofertados de forma dispersa, uma vez que se beneficiam
+menos da economia de escala. Enquanto os de densidade secundaria, incluem, por exemplo,
+realização de exames, como por exemplo raio-X em Unidade de pronto atendimento, ou consulta
+com especialistas. Por outro lado, os serviços com maior densidade tecnológica, que se
+beneficiam mais da economia de escala, tendem a ser mais concentrados. Por exemplo, um
+hospital regional localizado em um município de maior porte que atenda a um conjunto de
+pequenos municípios da região. Envolvendo por exemplo parto de alto risco, UTI, cirurgias
+cardiovasculares, etc.
+Referências:
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+https://ares.unasus.gov.br/acervo/html/ARES/7563/1/Redes%20de%20aten%C3%A7%C3%A3o%
+20%C3%A0%20sa%C3%BAde%20%20A%20aten%C3%A7%C3%A3o%20%C3%A0%20sa%C3%BAde%20organizada%20em%20r
+edes.pdf.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(UNIDEP) A UBS do bairro Nova Esperança, diversas equipes atuam para garantir a atenção
+integral à saúde da comunidade. Cada equipe tem características específicas e funções que se
+complementam dentro do modelo de Atenção Primária à Saúde (APS) conforme estabelecido
+pela PNAB e suas atualizações.
+Considere as descrições abaixo sobre as características de diferentes equipes que atuam na
+UBS:
+I. Equipe mínima composta por médico, enfermeiro, técnico de enfermagem e agentes
+comunitários de saúde (ACS), com foco em ações de promoção da saúde, prevenção
+de doenças e cuidado contínuo, podendo ser ampliada com profissionais de saúde
+bucal.
+II. Equipe formada exclusivamente por agentes comunitários de saúde (ACS) que realiza
+visitas domiciliares, coleta de informações sobre a comunidade e auxilia na integração
+dos serviços de saúde.
+III. Equipe composta por diferentes profissionais de saúde, como psicólogos,
+nutricionistas, assistentes sociais, fisioterapeutas, entre outros que atuam de forma
+complementar às equipes de Saúde da Família.
+IV. Equipe especializada em saúde bucal, integrada por cirurgiões-dentistas e auxiliares ou
+técnicos em saúde bucal, que pode atuar em conjunto com as equipes de Saúde da
+Família.
+Associe as descrições I, II, III e IV às respectivas equipes da PNAB e selecione a alternativa
+correta:
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 5 de 16
+
+Alternativas:
+(alternativa A)
+I - Equipe de Atenção Primária (eAP); II - Equipe de Saúde da Família (eSF); III - Equipe
+Multiprofissional(eMulti); IV - Equipe de Agentes Comunitários de Saúde (EACS).
+(alternativa B)
+I - Equipe de Saúde Bucal (eSB); II - Equipe de Atenção Primária (eAP); III - Equipe de Agentes
+Comunitários de Saúde (EACS); IV - Equipe de Saúde da Família (eSF).
+(alternativa C)
+I - Equipe de Saúde da Família (eSF); II - Equipe Multiprofissional (eMulti); III - Equipe de Atenção
+Primária (eAP); IV - Equipe de Agentes Comunitários de Saúde (EACS).
+(alternativa D) (CORRETA)
+I - Equipe de Saúde da Família (eSF); II - Equipe de Agentes Comunitários de Saúde (EACS); III Equipe Multiprofissional (eMulti); IV - Equipe de Saúde Bucal (eSB).
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 6 de 16
+
+Resposta comentada:
+I. Equipe de Saúde da Família (eSF)
+A descrição I refere-se à Equipe de Saúde da Família (eSF), que é composta por médicos,
+enfermeiros, técnicos de enfermagem e agentes comunitários de saúde (ACS). Esta equipe tem
+um papel central na promoção da saúde, prevenção de doenças e cuidado contínuo dos
+pacientes. A equipe pode ser ampliada com profissionais de saúde bucal, como dentistas, para
+oferecer um cuidado mais integral à saúde da família e da comunidade.
+II. Equipe de Agentes Comunitários de Saúde (EACS)
+A descrição II refere-se à Equipe de Agentes Comunitários de Saúde (EACS). Esta equipe é
+formada exclusivamente por ACS, que realizam visitas domiciliares, coletam informações sobre a
+saúde da comunidade e atuam na integração dos serviços de saúde com a população. Eles são
+essenciais para a promoção da saúde e a educação em saúde.
+III. Equipe Multiprofissional (eMulti)
+A descrição III corresponde à Equipe Multiprofissional, composta por profissionais de diferentes
+áreas, como psicólogos, nutricionistas, assistentes sociais e fisioterapeutas. Esta equipe oferece
+suporte especializado e complementar às equipes de Saúde da Família, abordando necessidades
+específicas da população e fornecendo uma abordagem mais abrangente e integrada aos
+cuidados de saúde.
+IV. Equipe de Saúde Bucal (eSB)
+A descrição IV é sobre a Equipe de Saúde Bucal (eSB), composta por cirurgiões-dentistas e
+auxiliares ou técnicos em saúde bucal. Essa equipe foca no cuidado da saúde bucal, realizando
+atendimentos odontológicos e promovendo a saúde oral dentro da UBS. Eles podem trabalhar em
+conjunto com as equipes de Saúde da Família para uma abordagem mais completa da saúde do
+paciente.
+Referências:
+DIAS, R. B; NOGUEIRA, O. S. Trabalho em equipe. In: GUSSO G.; LOPES, J. M. C. (Org.).
+Tratado de medicina de família e comunidade: princípios, formação e prática. Porto Alegre:
+Artmed, 2019. Cap. 42
+PORTARIA Nº 2.436, DE 21 DE SETEMBRO DE 2017.
+Portaria GM/MS nº 635, de 22 de maio de 2023.
+Feedback:
+-5ª QUESTÃO
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 7 de 16
+
+Enunciado:
+( FASA VIC) Uma Unidade Básica de Saúde (UBS) está localizada em uma área rural, onde a
+população enfrenta dificuldades de acesso a serviços de saúde especializados. Nessa UBS, a
+equipe de Saúde da Família, incluindo o médico, realiza o acompanhamento de um paciente idoso
+com múltiplas comorbidades, incluindo hipertensão arterial, diabetes mellitus tipo 2 e doença
+pulmonar obstrutiva crônica (DPOC). Durante uma consulta, o médico utiliza um ecocardiograma
+portátil (point-of-care) para avaliar a função cardíaca do paciente, identificando sinais de
+insuficiência cardíaca incipiente. Com base nesse diagnóstico, o médico o encaminha para uma
+consulta com um cardiologista na cidade vizinha.
+A partir da análise da situação descrita, responda:
+a) Identifique qual tipo de tecnologia em saúde (leve, leve-dura ou dura) foi empregada pelo
+médico durante o exame do paciente. Justifique sua resposta com base no caso apresentado
+(0,75).
+b) Após a identificação do tipo de tecnologia utilizado, proponha outra ação ou medida que poderia
+ser implementada pelo médico ou pela equipe de Saúde da Família, utilizando o mesmo nível
+tecnológico, com o objetivo de melhorar o cuidado ao paciente idoso com múltiplas comorbidades.
+Explique como essa ação complementaria o atendimento já realizado (0,75).
+Alternativas:
+--
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 8 de 16
+
+Resposta comentada:
+a) Identificação do tipo de tecnologia empregada (0,75):
+O tipo de tecnologia em saúde empregada pelo médico durante o atendimento ao paciente foi
+a tecnologia dura. Isso se deve ao uso do ecocardiograma portátil (point-of-care), um
+equipamento de diagnóstico médico, para avaliar a função cardíaca do paciente. O uso de
+dispositivos tecnológicos como o ecocardiograma caracteriza-se como uma tecnologia dura, pois
+envolve a aplicação de equipamentos sofisticados para obter dados clínicos que auxiliam no
+diagnóstico e na tomada de decisões terapêuticas..
+b) Proposta de outra ação utilizando o mesmo nível tecnológico (0,75):
+Uma ação adicional que poderia ser implementada pelo médico ou pela equipe de Saúde da
+Família, utilizando o mesmo nível tecnológico (tecnologia dura), seria o monitoramento remoto
+contínuo dos sinais vitais do paciente, como pressão arterial, níveis de glicose, e saturação de
+oxigênio, através de dispositivos de telemetria. Esses dispositivos, que o paciente poderia usar
+em casa, transmitiriam dados em tempo real para a equipe de saúde na UBS, permitindo uma
+vigilância mais rigorosa das condições de saúde do paciente, especialmente considerando suas
+múltiplas comorbidades.
+Essa medida complementaria o atendimento já realizado ao proporcionar um acompanhamento
+mais próximo e constante do estado de saúde do paciente, permitindo intervenções mais rápidas
+em caso de alterações significativas nos parâmetros vitais. Além disso, facilitaria a continuidade
+do cuidado, mesmo em uma área rural com acesso limitado a serviços especializados,
+melhorando a capacidade de resposta da equipe de Saúde da Família e potencialmente reduzindo
+a necessidade de deslocamentos frequentes para consultas presenciais.
+Resposta comentada:
+A Atenção Básica (AB) no Sistema Único de Saúde (SUS) desempenha um papel central como a
+porta de entrada preferencial, sendo responsável por organizar e coordenar o cuidado à saúde
+das pessoas. Para cumprir esse papel estratégico, a Atenção Básica deve ser altamente
+resolutiva, o que envolve não apenas uma sólida capacidade clínica dos profissionais, mas
+também o uso eficiente de diversas tecnologias de cuidado em saúde. Essas tecnologias são
+classificadas em:
+1. Tecnologias Leves: São aquelas relacionadas à comunicação, acolhimento, vínculo e
+escuta qualificada entre profissionais e usuários. Exemplos incluem a consulta médica,
+a escuta ativa, e a relação interpessoal.
+2. Tecnologias Leve-duras: Envolvem o uso de conhecimentos técnicos e científicos,
+como protocolos clínicos, softwares de gestão, e metodologias diagnósticas que
+orientam as decisões clínicas. Exemplos incluem o uso de diretrizes para manejo de
+doenças crônicas e a aplicação de questionários estruturados para diagnóstico.
+3. Tecnologias Duras: Referem-se ao uso de equipamentos, dispositivos médicos e
+medicamentos. Exemplos incluem exames de imagem, glicosímetros, e equipamentos
+de monitoramento de saúde.
+Referências:
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica. Brasília: Ministério da Saúde,
+2017. (Série E. Legislação em Saúde). Disponível em:
+http://www.brasilsus.com.br/index.php/legislacoes/gabinete-do-ministro/16247-portaria-n-2-436de-21-de-setembro-de-2017.
+DIAS, R. B; NOGUEIRA, O. S. Trabalho em equipe. In: GUSSO G.; LOPES, J. M. C.
+(Org.). Tratado de medicina de família e comunidade: princípios, formação e prática. Porto Alegre:
+Artmed, 2019.
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 9 de 16
+
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+( UNIDEP) Durante uma consulta em uma unidade básica de saúde, um paciente com diabetes
+mellitus tipo 2 relata que já visitou diferentes médicos do Sistema Único de Saúde (SUS), onde
+cada profissional realizou um tratamento específico para sua condição, sem comunicação entre
+si. O paciente não recebeu orientação sobre como acessar serviços de apoio, como nutrição ou
+acompanhamento psicológico.
+Considerando as características dos sistemas de saúde fragmentados e das Redes de Atenção à
+Saúde (RAS), assinale a alternativa que melhor descreve a situação apresentada.
+Alternativas:
+(alternativa A)
+Esta situação exemplifica uma rede de atenção à saúde integrada, na qual o paciente foi atendido
+por diferentes profissionais, cada um contribuindo de forma integrada para o tratamento do
+diabetes.
+(alternativa B) (CORRETA)
+Esta situação reflete um sistema fragmentado, uma vez que os diferentes profissionais de saúde
+atuaram de forma isolada, sem coordenação ou continuidade no cuidado do paciente.
+(alternativa C)
+Esta situação demonstra um sistema de saúde centrado no paciente, característico das Redes de
+Atenção à Saúde (RAS), onde o paciente recebeu cuidados coordenados sem necessidade de
+serviços de apoio.
+(alternativa D)
+Esta situação reflete um sistema de saúde baseado em Redes de Atenção à Saúde (RAS), pois
+houve integração entre os diferentes serviços e profissionais envolvidos no atendimento.
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 10 de 16
+
+Resposta comentada:
+A situação apresentada na questão ilustra um sistema de saúde fragmentado. Em sistemas
+fragmentados, os serviços de saúde são oferecidos de maneira isolada, sem coordenação ou
+continuidade entre os diferentes níveis de atenção e entre os profissionais envolvidos no cuidado.
+Isso resulta em uma falta de integração, onde cada profissional ou serviço atua de forma
+independente, muitas vezes sem compartilhar informações essenciais ou planejar conjuntamente
+o cuidado do paciente.
+No caso descrito, o paciente com diabetes mellitus tipo 2 passou por diferentes médicos , onde
+cada um realizou um tratamento específico, mas sem comunicação entre os profissionais ou
+coordenação do cuidado. Além disso, o paciente não foi orientado sobre o acesso a serviços
+complementares, como nutrição ou apoio psicológico, o que é característico de um sistema
+fragmentado.
+Por outro lado, nas Redes de Atenção à Saúde (RAS), o cuidado é organizado de forma integrada,
+com a coordenação entre os diferentes níveis de atenção (primário, secundário, terciário) e entre
+os diversos profissionais de saúde. As RAS buscam garantir a continuidade do cuidado e o
+acesso aos serviços necessários, promovendo uma abordagem centrada no paciente. Portanto, a
+alternativa correta é "esta situação reflete um sistema fragmentado, uma vez que os diferentes
+profissionais de saúde atuaram de forma isolada, sem coordenação ou continuidade no cuidado
+do paciente", pois reflete a realidade de um sistema fragmentado, em contraste com as
+características das RAS.
+Referência:
+MENDES, E.V. As situações das condições de saúde os sistemas de atenção saúde. In:
+MENDES, E.V. As redes de atenção à saúde. Organização Pan-Americana da Saúde, 2011,
+2010. Cap 1.
+
+Feedback:
+-7ª QUESTÃO
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 11 de 16
+
+Enunciado:
+( FACIMPA) Em uma comunidade rural, a unidade de saúde local tem enfrentado desafios
+significativos na prestação de serviços de saúde. Os moradores frequentemente relatam que,
+apesar de receberem atendimento médico para suas queixas imediatas, muitas vezes são
+encaminhados para centros urbanos distantes para exames complementares e tratamentos
+especializados. Além disso, eles sentem que suas necessidades de saúde não estão sendo
+devidamente consideradas, resultando em um atendimento fragmentado e insatisfatório, pois os
+profissionais focam nos aspectos médicos, ignorando suas preocupações emocionais e sociais.
+Com base no cenário acima e na Política Nacional de Atenção Básica, conforme estabelecido na
+Portaria 2436/2017, analise as assertivas abaixo:
+I- O princípio da integralidade está sendo descumprido, uma vez que os serviços de saúde não
+estão sendo oferecidos de forma abrangente e considerando todas as necessidades dos
+pacientes.
+II- O cuidado centrado na pessoa está sendo obedecido, visto que a equipe prioriza o atendimento
+médico, não levando em consideração as demais necessidades dos usuários.
+III- A diretriz da resolutividade está sendo atendida, pois a equipe está priorizando o atendimento
+médico e encaminhando o usuário para a unidade que forneça o serviço necessário, mesmo sem
+certificação que o usuário terá condições de chegar ao local.
+É correto o que se afirma em:
+Alternativas:
+(alternativa A)
+somente I e III estão corretas.
+(alternativa B)
+I, II e III estão corretas.
+(alternativa C)
+somente II e III estão corretas.
+(alternativa D) (CORRETA)
+somente I está correta.
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 12 de 16
+
+Resposta comentada:
+Na situação descrita, o princípio da integralidade está sendo descumprido, uma vez que os
+serviços de saúde não estão sendo oferecidos de forma abrangente e considerando todas as
+necessidades dos pacientes. Além disso, a diretriz da resolutividade e o cuidado centrado na
+pessoa também não estão sendo atendidos, já que os moradores são frequentemente
+encaminhados para outros centros de saúde para exames e tratamentos especializados, em vez
+de terem suas demandas resolvidas de maneira eficaz na própria unidade de saúde local e não é
+priorizado as preocupações e necessidades sociais dos usuários. Ambos os aspectos são
+fundamentais para a efetivação da Atenção Básica de qualidade conforme a Política Nacional
+estabelecida na Portaria 2436/2017.
+Referência:
+BRASIL. Ministério da Saúde. Portaria 2436, 21 set. 2017.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+( UNIDEP) Luiz, paciente de 68 anos, com hipertensão arterial sistêmica e diabético, Ao longo do
+último ano, buscou o atendimento na Unidade Básica de Saúde (UBS) múltiplas vezes devido
+complicações relacionadas à sua condição crônica, como crises hipertensivas e episódios de
+hiperglicemia. No entanto, para além das crises, na UBS o acompanhamento médico tem sido
+irregular, com consultas espaçadas e pouca orientação sobre a gestão contínua de sua condição.
+Com base nessa situação, selecione a alternativa que melhor descreve a resposta do sistema de
+saúde e a natureza da condição de saúde do paciente.
+Alternativas:
+(alternativa A)
+A condição de saúde do paciente é aguda, e o sistema de saúde está respondendo de maneira
+proativa e contínua, com foco na prevenção de complicações.
+(alternativa B)
+A condição de saúde do paciente é crônica, e o sistema de saúde está respondendo de maneira
+proativa e contínua, garantindo um acompanhamento regular e preventivo.
+(alternativa C) (CORRETA)
+A condição de saúde do paciente é crônica, e o sistema de saúde está respondendo de maneira
+reativa e episódica, concentrando-se no tratamento das complicações quando elas ocorrem.
+(alternativa D)
+A condição de saúde do paciente é aguda, e o sistema de saúde está respondendo de maneira
+reativa e episódica, lidando com os sintomas à medida que surgem.
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 13 de 16
+
+Resposta comentada:
+A situação apresentada na questão descreve um paciente com condições crônicas, como
+hipertensão e diabetes mellitus, que não são bem controladas e resultam em internações
+frequentes. A condição crônica exige um cuidado contínuo e proativo para evitar complicações e
+manter o controle da doença. No entanto, o sistema de saúde, conforme descrito no caso, está
+respondendo de maneira reativa e episódica, intervindo apenas quando as complicações surgem,
+como durante crises hipertensivas ou episódios de hiperglicemia, em vez de fornecer um
+acompanhamento regular e preventivo.
+Essa abordagem reativa e episódica é inadequada para condições crônicas, pois tende a focar no
+tratamento das complicações, em vez de prevenir sua ocorrência por meio de um cuidado
+contínuo. Idealmente, o sistema de saúde deveria adotar uma resposta proativa e contínua para
+gerenciar de maneira eficaz as condições crônicas do paciente, oferecendo consultas regulares,
+educação sobre o autocuidado, e intervenções preventivas para evitar internações e
+complicações graves.
+Referência:
+MENDES, E.V. As situações das condições de saúde os sistemas de atenção saúde. In:
+MENDES, E.V. As redes de atenção à saúde. Organização Pan-Americana da Saúde, 2011,
+2010. Cap 1.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+Gestante, 33 anos, durante uma consulta de pré-natal na Unidade de Saúde da Família em seu
+bairro, levou resultados de exames laboratoriais e de imagem para serem avaliados, onde o
+médico constatou algumas alterações, essas que enquadraram a paciente em pré-natal de alto
+risco, evidenciando que ela deveria passar por avaliação com a especializada, sendo então
+encaminhada para o Obstetra.
+Com base no relato acima, identifique o nível de atenção a qual a gestante foi referenciada:
+Alternativas:
+(alternativa A) (CORRETA)
+Atenção secundária.
+(alternativa B)
+Atenção quaternária.
+(alternativa C)
+Atenção terciária.
+(alternativa D)
+Atenção primária.
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 14 de 16
+
+Resposta comentada:
+A atenção secundária é responsável por serviços especializados voltados para a resolução de
+problemas de saúde mais complexos, que necessitam de cuidados especializados e intervenção
+de médicos especialistas. No caso da gestante que foi encaminhada para avaliação com o
+Obstetra devido às alterações detectadas nos exames, o atendimento especializado fornecido
+pelo Obstetra se enquadra no nível de atenção secundária. Esse nível de atenção é intermediário
+entre a atenção primária, fornecida em Unidades Básicas de Saúde, e a atenção terciária, que
+abrange procedimentos altamente especializados e tratamentos avançados em hospitais de
+referência. Portanto, a resposta correta é a Atenção secundária.
+Referência:
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+( AFYA PARAÍBA) Sr. Martinês vive nas ruas desde que foi expulso de seu lar, porque seus pais
+descobriram que ele fazia uso de drogas ilícitas. Ele foi abordado por uma moradora do território,
+a qual sugeriu que procurasse a Unidade de Saúde da Família - USF, já que ele está com uma
+ferida no seu pé esquerdo, há mais de uma semana, e referiu ser diabético. O mesmo relatou que
+não tem cartão do SUS ou documentos e pode não ser atendido. Considere o processo de
+trabalho na APS e a indicação da moradora e avalie as seguintes asserções e a relação proposta
+entre elas.
+I. A Atenção Primária é a porta de entrada preferencial de acesso aos serviços do SUS.
+PORQUE
+II. A Atenção Primária deve garantir a acesso universal e a integralidade na assistência, mediante
+à todas as necessidades da população.
+A respeito dessas asserções, assinale a opção correta.
+Alternativas:
+(alternativa A) (CORRETA)
+As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
+(alternativa B)
+A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+(alternativa C)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+(alternativa D)
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 15 de 16
+
+Resposta comentada:
+I e II são verdadeiras e a II justifica a I.
+Mesmo o usuário sendo morador de rua, sem cartão SUS e documentos, ele deve ser atendido
+pela USF e garantido o acesso universal e a integralidade do cuidado, isso justifica a USF ser
+porta de entrada preferencial do SUS.
+O processo de trabalho na Atenção Primária à Saúde (APS) envolve várias etapas que visam
+garantir a promoção da saúde, a prevenção de doenças e o atendimento integral ao paciente. O
+primeiro contato do usuário com o sistema de saúde, onde são avaliadas suas necessidades e
+prioridades. O acolhimento é fundamental para estabelecer um vínculo e garantir que o paciente
+se sinta respeitado e ouvido.
+Referência:
+BRASIL. Ministério da Saúde. Portaria 2436, 21 set. 2017.
+Feedback:
+--
+
+000135.37001c.255adf.cddd71.1bb6dc.d166c7.b5b929.a3a03
+
+Pgina 16 de 16
+
+

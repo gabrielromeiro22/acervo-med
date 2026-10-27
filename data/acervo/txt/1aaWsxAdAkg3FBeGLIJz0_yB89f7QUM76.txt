@@ -1,0 +1,684 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade I
+Professor (es):
+Período: 202601
+
+Turma:
+
+Data: 07/05/2026
+
+N1 ESPECÍFICA - MEDICINA - IESC I - 2026.1 - 1ª CHAMADA - 07/MAIO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19384 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA PORTO VELHO) Durante uma consulta de pré-natal em uma Unidade Básica de
+Saúde, uma gestante comenta que sua mãe, trabalhadora rural, não tinha acesso a
+serviços médicos gratuitos antes da criação do Sistema Único de Saúde (SUS). O médico
+de família aproveita a oportunidade para explicar como funcionava o modelo de atenção
+à saúde no Brasil antes da Constituição Federal de 1988, quando o acesso à assistência
+era restrito.
+
+acervo.vip
+
+Considerando a evolução histórica das políticas de saúde no Brasil, o modelo vigente à
+época caracterizava-se por:
+Alternativas:
+(alternativa A)
+Estruturar-se como um sistema preventivo, priorizando ações de promoção da saúde e
+controle de doenças direcionadas a toda a população brasileira.
+(alternativa B)
+Prestar assistência universal e igualitária, assegurando acesso gratuito para toda a
+população brasileira, independentemente da condição de trabalho.
+(alternativa C) (CORRETA)
+Condicionar o acesso aos serviços de saúde à contribuição previdenciária, limitando a
+assistência médica a trabalhadores formais e seus dependentes.
+(alternativa D)
+Centralizar a gestão sob responsabilidade dos municípios, com oferta restrita a
+trabalhadores e dependentes, vinculados ao mercado de trabalho formal.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 1 de 14
+
+Resposta comentada:
+Alternativa correta:
+“Condicionar o acesso aos serviços de saúde à contribuição previdenciária, limitando a
+assistência médica a trabalhadores formais e seus dependentes.” Essa alternativa
+representa fielmente o modelo de atenção vigente antes da Constituição de 1988. O
+sistema era contributivo e excludente, uma vez que o direito ao atendimento estava
+condicionado à contribuição para a Previdência Social. A assistência era organizada pelo
+INAMPS e restrita a trabalhadores com vínculo formal e seus dependentes. Trabalhadores
+informais, rurais e desempregados ficavam desassistidos, o que reforçou as
+desigualdades de acesso e motivou as reformas sanitárias que levaram à criação do SUS.
+Alternativas incorretas:
+“Prestar assistência universal e igualitária, assegurando acesso gratuito para toda a
+população brasileira, independentemente da condição de trabalho.” Incorreta, pois
+descreve o princípio da universalidade do SUS, instituído após 1988. Antes disso, não
+havia acesso garantido para todos.
+“Estruturar-se como um sistema preventivo, priorizando ações de promoção da saúde e
+controle de doenças direcionadas a toda a população brasileira.” Incorreta, porque o
+modelo pré-SUS era fortemente centrado na atenção curativa e hospitalar, com pouca
+ênfase em promoção e prevenção. Essa descrição corresponde mais ao ideário das
+reformas sanitárias que deram origem ao SUS.
+“Centralizar a gestão sob responsabilidade da Previdência Social, com oferta restrita a
+segmentos vinculados ao mercado de trabalho formal.” Parcialmente correta, pois de fato
+a gestão era centralizada pela Previdência. No entanto, a alternativa é incompleta: não
+enfatiza o aspecto contributivo e excludente, que é a característica essencial do modelo
+da época. Por isso, não é a melhor resposta.
+Referência:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Lêda Chaves (Org.). Tratado de
+medicina de família e comunidade: princípios, formação e prática. 2. ed. Porto Alegre:
+ArtMed, 2019. E-book. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso em: 15
+ago. 2025.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Um médico da Estratégia Saúde da Família constatou um
+aumento considerável de dengue na sua área adscrita. Para analisar a situação do
+agravo, ele faz uso do modelo de Determinantes Sociais em Saúde de Dahlgren e
+Whitehead, considerando a infecção como um fenômeno complexo e multicausal.
+Indique a alternativa que melhor representa a aplicação deste modelo ao contexto
+epidemiológico analisado pelo médico.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 2 de 14
+
+Alternativas:
+(alternativa A)
+A proliferação do Aedes aegypti está associada a hábitos individuais inadequados,
+cabendo às ações educativas nos domicílios a principal responsabilidade pelo controle da
+dengue.
+(alternativa B)
+A ocorrência de casos de dengue no território tem como base os fatores biológicos dos
+indivíduos acometidos, como a imunidade e a predisposição genética à infecção pelo
+vírus.
+(alternativa C) (CORRETA)
+A epidemia de dengue resulta da interação entre condições climáticas, infraestrutura
+urbana inadequada e desigualdades sociais que favorecem a reprodução do vetor.
+(alternativa D)
+O avanço da dengue na área adscrita associa-se à circulação de novos sorotipos virais
+em populações suscetíveis, tornando a vacinação a estratégia prioritária de prevenção.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 3 de 14
+
+Resposta comentada:
+Alternativa correta: "A epidemia de dengue resulta da interação entre condições
+climáticas, infraestrutura urbana inadequada e desigualdades sociais que favorecem a
+reprodução do vetor."
+Esta descreve corretamente a perspectiva multicausal e hierarquizada do modelo de
+Dahlgren e Whitehead, que organiza os determinantes em camadas que interagem entre
+si. Na ocorrência da dengue, fatores macroestruturais (clima, urbanização, políticas
+públicas) influenciam as condições de vida e trabalho (acesso a saneamento, coleta de
+lixo), que, por sua vez, moldam os comportamentos individuais e a exposição ao vetor.
+Essa visão está alinhada com a literatura de Saúde Coletiva, que aponta a dengue como
+um "subproduto da urbanização acelerada e da desigualdade social", exigindo ações
+intersetoriais para seu controle efetivo.
+Justificativas das Alternativas Incorretas:
+Alternativa "A ocorrência de casos de dengue no território tem como base os fatores
+biológicos dos indivíduos acometidos, como a imunidade e a predisposição genética à
+infecção pelo vírus.": Incorreta. Embora os fatores individuais (idade, sexo,
+suscetibilidade genética) constituam a camada mais proximal do modelo, eles não são a
+base explicativa principal da epidemia em escala populacional. A ocorrência da dengue é
+fortemente influenciada pelas condições ambientais e sociais que possibilitam a presença
+e a proliferação do vetor.
+Alternativa "A proliferação do Aedes aegypti está associada a hábitos individuais
+inadequados, cabendo às ações educativas nos domicílios a principal responsabilidade
+pelo controle da dengue.": Incorreta. Esta alternativa atribui a proliferação do vetor
+primordialmente a hábitos individuais e coloca nas ações educativas domiciliares a
+principal responsabilidade pelo controle da dengue. No modelo de Dahlgren e Whitehead,
+os estilos de vida e comportamentos individuais são influenciados pelas redes sociais e,
+sobretudo, pelas condições de vida e trabalho. Assim, desconsidera-se a necessidade de
+políticas públicas estruturantes (saneamento, abastecimento de água, coleta de lixo),
+que estão além da esfera de ação individual.
+Alternativa "O avanço da dengue na área adscrita associa-se à circulação de novos
+sorotipos virais em populações suscetíveis, tornando a vacinação a estratégia prioritária
+de prevenção.": Incorreta. A circulação de novos sorotipos é um fator epidemiológico
+relevante, mas representa uma dimensão biológica do problema. O modelo de Dahlgren
+e Whitehead propõe uma compreensão ampliada, na qual a disseminação viral é
+potencializada por determinantes sociais e ambientais. A vacinação, embora importante,
+não pode ser vista como estratégia prioritária isolada, pois o controle da doença requer
+ações contínuas sobre o ambiente e as condições de vida.
+Referências:
+BUSS P. M.; PELLEGRINI FILHO, A. A saúde e seus determinantes sociais. PHYSIS: Rev.
+Saúde Coletiva, Rio de Janeiro, 17(1):77-93, 2007.
+PAIM, Jairnilson S.; ALMEIDA-FILHO, Naomar de. Saúde Coletiva: Teoria e Prática . 2.ª ed.
+Rio de Janeiro: MedBook Editora, 2022. Cap. 23.
+MOREIRA, Taís C.; ARCARI, Janete M.; COUTINHO, Andreia O. R.; et al. Saúde coletiva .
+Porto Alegre: SAGAH, 2018. Páginas 63 a 73.
+ABRASCO. A dengue sob a ótica da Saúde Coletiva: uma doença endêmica num país
+desigual. Associação Brasileira de Saúde Coletiva , 2024.
+FERREIRA, L. C.; LISBOA, V. Populações periféricas são mais vulneráveis à
+dengue. Agência Brasil, 2024.
+Feedback:
+-3ª QUESTÃO
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 4 de 14
+
+Enunciado:
+(AFYA PARAÍBA) Ao analisar documentos históricos de uma cidade portuária brasileira no
+final do século XIX, observa-se que, durante surtos de febre e outras enfermidades, as
+autoridades sanitárias passaram a defender intervenções sobre o ambiente urbano, como
+drenagem de pântanos, ampliação da ventilação das moradias, controle de odores
+considerados nocivos e melhorias nas condições de higiene pública. Os registros apontam
+que a doença era compreendida como resultado de emanações provenientes da
+decomposição de matéria orgânica, as quais contaminariam o ar e afetariam
+coletivamente a população.
+Considerando o contexto descrito e as concepções históricas do processo saúde-doença,
+assinale a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+Concepção miasmática, que atribui a gênese das doenças a emanações insalubres do
+ambiente, orientando intervenções sanitárias sobre o meio físico.
+(alternativa B)
+Concepção ambientalista multicausal relaciona a doença à interação entre fatores
+biológicos e ambientais, com ênfase na suscetibilidade individual.
+(alternativa C)
+Concepção bacteriológica unicausal, que reconhece a existência de agentes específicos
+como causa necessária das doenças transmissíveis no meio ambiente.
+(alternativa D)
+Concepção ecológica da história natural da doença, que estrutura o adoecimento na
+tríade epidemiológica: agente-hospedeiro-ambiente.
+
+Resposta comentada:
+Resposta correta: Concepção miasmática, que atribui a gênese das doenças a emanações
+insalubres do ambiente, orientando intervenções sanitárias sobre o meio físico. (O
+enunciado descreve explicitamente a ideia de “emanações provenientes da
+decomposição de matéria orgânica” como causa das doenças, núcleo explicativo da
+teoria miasmática, predominante antes da consolidação da bacteriologia. A ênfase recai
+sobre a modificação do ambiente físico como principal estratégia de prevenção.)
+Concepção ambientalista multicausal – Incorreta (Embora mencione ambiente, a
+concepção multicausal pressupõe interação entre fatores biológicos, ambientais e
+individuais. O enunciado não aborda suscetibilidade do hospedeiro nem interação causal
+complexa, mas causalidade centrada exclusivamente em emanações ambientais.)
+Concepção bacteriológica unicausal – Incorreta (A teoria unicausal fundamenta-se na
+identificação de um agente etiológico específico (pós-Pasteur e Koch). O enunciado não
+menciona microrganismos, mas sim “emanações”, o que antecede a consolidação da
+microbiologia.)
+Concepção ecológica da história natural da doença – Incorreta (Apesar de incluir o
+ambiente como elemento da tríade, essa concepção articula agente, hospedeiro e meio.
+O enunciado não contempla agente específico nem suscetibilidade individual, limitandose à causalidade ambiental difusa.)
+Referências:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. 8.ª ed.
+Rio de Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830000/pageid/0. Acesso
+em: 15 out. 2025.
+SOLHA, Raphaela Karla de T. Saúde coletiva para iniciantes. 2.ª ed. Rio de Janeiro: Érica,
+2014. E-book. p. 1 ISBN 9788536530574. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788536530574/. Cap. 1. Acesso
+em: 15 out. 2025.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 5 de 14
+
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA PORTO NACIONAL) Durante a aula de Comunidades I, um grupo de alunos estudou
+diferentes períodos marcados por transformações relevantes, desde a República Velha
+até a chegada da Nova República. Nesse percurso histórico, foram observados
+movimentos políticos e sociais que estimularam a criação de campanhas sanitárias e
+instituições de previdência, evidenciando ações estratégicas para o enfrentamento de
+doenças e a proteção coletiva. Essas medidas constituíram a base que preparou o cenário
+para o Sistema Único de Saúde (SUS).
+Qual marco consolida o fortalecimento das ações sanitárias durante a República Velha e
+favorece a organização inicial das políticas de saúde pública no Brasil?
+Alternativas:
+(alternativa A) (CORRETA)
+Desenvolvimento de campanhas contra doenças transmissíveis, aprimoradas em
+pesquisas científicas e lideradas por sanitaristas de destaque.
+(alternativa B)
+Expansão de institutos especializados em assistência social, buscando universalizar o
+acesso a serviços em áreas urbanas.
+(alternativa C)
+Ampliação dos direitos trabalhistas por meio das Leis de Consolidação do Trabalho, com
+ênfase na proteção previdenciária.
+(alternativa D)
+Instituição de sistemas de participação popular em conselhos locais, com foco na gestão
+compartilhada entre autoridades e comunidades.
+
+Resposta comentada:
+Desenvolvimento de campanhas contra doenças transmissíveis, aprimoradas em
+pesquisas científicas e lideradas por sanitaristas de destaque. (Correta) No período da
+República Velha, houve uma intensificação das campanhas sanitárias, impulsionadas
+pelas pesquisas científicas conduzidas por sanitaristas como Oswaldo Cruz. Esse processo
+incluiu ações para o controle de enfermidades como a febre amarela e a varíola, criando
+bases para a organização das políticas de saúde pública no país.
+Ampliação dos direitos trabalhistas por meio das Leis de Consolidação do Trabalho, com
+ênfase na proteção previdenciária. (Incorreta) As Leis de Consolidação do Trabalho
+surgiram em outra fase histórica, especialmente na Era Vargas, e não representam o
+principal marco das ações sanitárias na República Velha.
+Expansão de institutos especializados em assistência social, buscando universalizar o
+acesso a serviços em áreas urbanas. (Incorreta) A universalização dos serviços urbanos
+por meio de institutos de assistência social desenvolveu-se gradualmente, mas não foi o
+fator central para a organização das ações sanitárias no período inicial da República.
+Instituição de sistemas de participação popular em conselhos locais, com foco na gestão
+compartilhada entre autoridades e comunidades. (Incorreta) A participação popular nos
+conselhos de saúde é consolidada sobretudo após a Constituição Federal de 1988,
+período em que a gestão compartilhada ganha destaque na Nova República.
+Referências:
+ROUQUAYROL, Maria Zélia; GURGEL, Marcelo. Epidemiologia e saúde. 8. ed. Rio de
+Janeiro: MedBook Editora, 2017.
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde – Fundamentos,
+Métodos e Aplicações. Rio de Janeiro: Guanabara Koogan, 2011.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 6 de 14
+
+Feedback:
+
+5ª QUESTÃO
+Enunciado:
+(AFYA UNIGRANRIO DUQUE DE CAXIAS) Dona Maria, 52 anos, comparece à consulta de
+rotina com o médico de família e comunidade em uma unidade de Atenção Primária à
+Saúde. Ela não apresenta queixas ou sintomas no momento. Durante a anamnese, o
+médico identifica que a paciente é sedentária e possui histórico familiar de câncer de
+mama.
+Como parte do plano de cuidados, o médico solicita uma mamografia de rastreamento,
+conforme protocolo recomendado para a faixa etária, e orienta a paciente sobre a
+importância da prática regular de atividades físicas e de uma alimentação equilibrada,
+visando reduzir fatores de risco metabólicos e prevenir o surgimento de doenças.
+Considerando o modelo explicativo da História Natural das Doenças de Leavell e Clark, as
+ações realizadas pelo médico correspondem, respectivamente, aos seguintes níveis de
+prevenção e períodos do processo saúde-doença:
+Alternativas:
+(alternativa A)
+Prevenção primária (período pré-patogênico) e prevenção secundária (período
+patogênico).
+(alternativa B) (CORRETA)
+Prevenção secundária (período patogênico) e prevenção primária (período prépatogênico).
+(alternativa C)
+Prevenção secundária (período pré-patogênico) e prevenção primária (período
+patogênico).
+(alternativa D)
+Prevenção terciária (período patogênico) e prevenção secundária (período patogênico).
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 7 de 14
+
+Resposta comentada:
+A resposta correta é: prevenção secundária (período patogênico) e prevenção primária
+(período pré-patogênico).
+De acordo com o modelo da História Natural das Doenças, proposto por Leavell e Clark, o
+processo saúde-doença é compreendido em dois momentos principais: o período prépatogênico e o período patogênico, os quais se relacionam aos diferentes níveis de
+prevenção em saúde.
+O período pré-patogênico corresponde à fase anterior ao surgimento da doença. Nesse
+estágio, ainda não há instalação do processo patológico no organismo, sendo priorizadas
+ações voltadas à promoção da saúde e à proteção específica, características da
+prevenção primária. No caso apresentado, a orientação médica para a prática regular de
+atividades físicas e para a adoção de uma alimentação equilibrada tem como finalidade
+reduzir fatores de risco e evitar o aparecimento de doenças no futuro. Dessa forma, essa
+intervenção caracteriza uma ação de prevenção primária no período pré-patogênico.
+Por sua vez, o período patogênico corresponde ao momento em que a doença pode já
+estar em desenvolvimento, mesmo que o indivíduo ainda não apresente sintomas. Nessa
+fase, são aplicadas estratégias voltadas ao diagnóstico precoce e ao tratamento
+oportuno, características da prevenção secundária. A mamografia de rastreamento
+solicitada para uma paciente assintomática, conforme o protocolo recomendado para a
+faixa etária, tem como objetivo identificar precocemente possíveis alterações
+relacionadas ao câncer de mama. Assim, essa medida configura uma ação de prevenção
+secundária no período patogênico.
+Portanto, no caso apresentado, a solicitação da mamografia de rastreamento
+corresponde a uma ação de prevenção secundária no período patogênico, enquanto a
+orientação sobre atividade física e alimentação saudável caracteriza uma intervenção de
+prevenção primária no período pré-patogênico, conforme o modelo explicativo da História
+Natural das Doenças.
+Referências:
+GUSSO, Gustavo; LOPES, José M. C.; DIAS, Lêda C. Tratado de Medicina de Família e
+Comunidade - 2 volumes: princípios, formação e prática. 2.ª ed. Porto Alegre: ArtMed,
+2019. E-book. p.i. ISBN 9788582715369. Cap. 31. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso em: 15
+out. 2025.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. 8.ª ed.
+Rio de Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830000/. Acesso em: 15
+out. 2025. Cap. 2.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(AFYA ITACOATIARA) Na Unidade Básica de Saúde de um bairro periférico, a equipe
+acompanha Dona Rosa, 60 anos, diagnosticada com hipertensão arterial. Ela reside com
+dois netos em uma casa com ventilação inadequada, ausência de saneamento básico e
+coleta de lixo irregular. A renda familiar é proveniente de trabalho informal e benefício
+social. Dona Rosa relata dificuldade para manter alimentação adequada e para
+comparecer às consultas por falta de transporte público regular. Um dos netos apresenta
+crises frequentes de bronquite, especialmente em períodos de chuva, quando há maior
+umidade e mofo na residência. A equipe discute o caso à luz do modelo de Dahlgren e
+Whitehead, que representa os determinantes sociais da saúde em camadas de influência.
+Considerando o modelo de Dahlgren e Whitehead, assinale a alternativa que
+corretamente interpreta as camadas de determinação social presentes no caso.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 8 de 14
+
+Alternativas:
+(alternativa A)
+A hipertensão de Dona Rosa deve ser compreendida dentro da camada de fatores
+biológicos individuais, tal como idade, sexo e fatores hereditários, pois doenças crônicas
+são determinadas principalmente por herança familiar.
+(alternativa B)
+As dificuldades de transporte público e a renda do trabalho informal devem ser
+analisadas principalmente na camada dos estilos de vida individuais, pois refletem
+escolhas pessoais de moradia e planejamento financeiro da família.
+(alternativa C) (CORRETA)
+A ausência de saneamento básico, a renda instável e a dificuldade de transporte são
+exemplos de determinantes localizados na camada das condições de vida e trabalho, que
+influenciam diretamente o processo saúde-doença.
+(alternativa D)
+As crises de bronquite do neto estão relacionadas ao clima e temperatura, geralmente
+nos dias muito quentes ou frios, com condições sociais e habitacionais tendo pouca
+influência no agravo crônico que a criança apresenta.
+
+Resposta comentada:
+"A ausência de saneamento básico, a renda instável e a diﬁculdade de transporte são
+exemplos de determinantes localizados na camada das condições de vida e trabalho, que
+inﬂuenciam diretamente o processo saúde-doença." A alternativa está correta porque, no
+modelo de Dahlgren e Whitehead, as condições de vida e trabalho — como moradia,
+saneamento, transporte, acesso a serviços de saúde e renda — constituem uma das
+camadas intermediárias que influenciam diretamente a saúde.
+"A hipertensão de Dona Rosa deve ser compreendida dentro da camada de fatores
+biológicos individuais, tal como idade, sexo e fatores hereditários, pois doenças crônicas
+são determinadas principalmente por herança familiar." A alternativa está incorreta
+porque o modelo de Dahlgren e Whitehead não reduz o processo saúde-doença aos
+fatores biológicos.
+"As diﬁculdades de transporte público e a renda proveniente de trabalho informal e
+benefício social devem ser analisadas principalmente na camada dos estilos de vida
+individuais, pois reﬂetem escolhas pessoais de moradia e planejamento ﬁnanceiro da
+família." A alternativa é incorreta porque desloca condições estruturais (condições de
+vida e trabalho/camada intermediária do modelo) para a camada mais proximal de estilos
+de vida/comportamentos individuais, ignorando a inﬂuência social e ambiental sobre
+essas condições.
+"As crises de bronquite do neto estão relacionadas ao clima e temperatura, geralmente
+nos dias muito quentes ou frios, com condições sociais e habitacionais tendo pouca
+influência no agravo crônico que a criança apresenta." A alternativa está incorreta porque
+condições de moradia e habitação (mofo, ventilação inadequada) são importantes
+determinantes para a crise de bronquite do neto.
+Referências:
+BUSS P. M.; PELLEGRINI FILHO, A. A saúde e seus determinantes sociais. PHYSIS: Rev.
+Saúde Coletiva, Rio de Janeiro, 17(1):77-93, 2007. Disponível em:
+https://www.scielo.br/j/physis/a/msNmfGf74RqZsbpKYXxNKhm/?format=pdf&lang=pt.
+Acesso em: 15 out. 2025.
+PAIM, Jairnilson S.; ALMEIDA-FILHO, Naomar de. Saúde Coletiva: Teoria e Prática. 2.ª ed.
+Rio de Janeiro: MedBook Editora, 2022. E-book. ISBN 9786557830925. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830925/. Acesso em: 15
+out. 2025.
+MOREIRA, Taís C.; ARCARI, Janete M.; COUTINHO, Andreia O. R.; et al. Saúde coletiva.
+Porto Alegre: SAGAH, 2018. E-book. ISBN 9788595023895. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595023895/. Acesso em: 15
+out. 2025.
+Feedback:
+-000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 9 de 14
+
+7ª QUESTÃO
+Enunciado:
+(AFYA ABAETETUBA) Durante uma reunião da equipe de Estratégia Saúde da Família,
+foram discutidas duas propostas de intervenção para um território com alta prevalência
+de hipertensão arterial:
+I. Realização de mutirão para aferição de pressão arterial, identificação de casos
+suspeitos e início precoce de tratamento medicamentoso.
+II. Desenvolvimento de um projeto intersetorial com escolas, associação de moradores e
+secretaria de urbanismo para criação de espaços públicos de atividade física, oficinas de
+alimentação saudável e fortalecimento do protagonismo comunitário na melhoria das
+condições de vida do bairro.
+Assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Ambas as intervenções representam ações de promoção da saúde.
+(alternativa B) (CORRETA)
+A intervenção I corresponde à prevenção secundária, enquanto a intervenção II
+caracteriza-se como promoção da saúde.
+(alternativa C)
+Ambas as intervenções correspondem à prevenção primária.
+(alternativa D)
+A intervenção I caracteriza-se como promoção da saúde, enquanto a intervenção II
+corresponde à prevenção secundária.
+
+Resposta comentada:
+A intervenção I envolve rastreamento e diagnóstico precoce, caracterizando prevenção
+secundária, cujo objetivo é detectar precocemente a doença e evitar sua progressão
+(período patogênico).
+A intervenção II ultrapassa o foco na doença específica e atua sobre determinantes
+sociais, empoderamento comunitário e melhoria das condições de vida, caracterizando
+promoção da saúde.
+Referência:
+BRASIL. Ministério da Saúde. Política Nacional de Promoção da Saúde (PNPS). Brasília:
+Ministério da Saúde, 2014.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(AFYA ABAETETUBA) O Sistema Único de Saúde (SUS), instituído pela Constituição Federal
+de 1988, fundamenta-se nos princípios da universalidade, integralidade e equidade,
+sendo financiado predominantemente por recursos públicos e organizado de forma
+descentralizada.
+Diferentes países adotam modelos distintos de organização dos sistemas de saúde, com
+variações quanto ao financiamento, à gestão e ao acesso da população aos serviços de
+saúde.
+Considerando as características dos sistemas de saúde de Cuba, Canadá, França, Estados
+Unidos e Brasil, assinale a alternativa correta.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 10 de 14
+
+Alternativas:
+(alternativa A)
+O sistema de saúde brasileiro e o sistema de saúde dos Estados Unidos apresentam
+organização semelhante, pois ambos garantem cobertura universal financiada por
+seguros privados.
+(alternativa B)
+O sistema de saúde cubano e o sistema de saúde norte-americano apresentam
+organização semelhante, pois ambos são estruturados principalmente por serviços
+privados financiados por seguros individuais.
+(alternativa C) (CORRETA)
+O sistema de saúde canadense e o sistema de saúde brasileiro compartilham o princípio
+da universalidade, porém o modelo canadense é administrado por províncias.
+(alternativa D)
+O sistema de saúde francês e o sistema de saúde brasileiro apresentam organização
+semelhante, pois ambos possuem financiamento público exclusivo e gestão estatal
+centralizada nacionalmente.
+
+Resposta comentada:
+A análise comparativa entre sistemas de saúde permite compreender diferentes formas
+de organização da assistência, financiamento e acesso aos serviços de saúde. O Sistema
+Único de Saúde (SUS), instituído pela Constituição Federal de 1988, fundamenta-se nos
+princípios da universalidade, integralidade e equidade, garantindo o acesso à saúde como
+direito de todos e dever do Estado, sendo financiado predominantemente por recursos
+públicos provenientes de impostos e contribuições sociais.
+Uma das afirmações apresentadas é incorreta ao afirmar que o sistema de saúde
+brasileiro e o sistema dos Estados Unidos possuem organização semelhante. Na
+realidade, o SUS garante acesso universal e gratuito à população, sendo financiado
+majoritariamente por recursos públicos. Em contraste, o sistema norte-americano é
+predominantemente baseado em seguros privados, com cobertura pública restrita a
+grupos específicos, como idosos (Medicare) e pessoas de baixa renda (Medicaid), não
+assegurando cobertura universal.
+Outra afirmação também está incorreta ao considerar que o sistema de saúde francês é
+idêntico ao sistema brasileiro. A França organiza seu sistema principalmente por meio de
+um modelo de seguro social, financiado por contribuições obrigatórias de trabalhadores e
+empregadores, além da participação do Estado. Dessa forma, o financiamento não ocorre
+exclusivamente por impostos, e a gestão não é totalmente estatal, o que diferencia esse
+modelo da organização do sistema brasileiro.
+A afirmação correta destaca que o sistema canadense e o Sistema Único de Saúde
+compartilham o princípio da universalidade, garantindo acesso à atenção à saúde para
+toda a população. No Canadá, entretanto, a organização administrativa ocorre de forma
+descentralizada nas províncias, que possuem autonomia para gerenciar os serviços de
+saúde dentro de um sistema público financiado majoritariamente por impostos. Essa
+característica aproxima o modelo canadense do SUS em relação ao acesso universal,
+embora existam diferenças na forma de gestão e organização dos serviços.
+Outra afirmação incorreta sugere que o sistema cubano é semelhante ao sistema norteamericano por se basear em serviços privados. Na realidade, Cuba possui um sistema
+estatal altamente centralizado, com forte ênfase na Atenção Primária à Saúde e na
+medicina preventiva, reconhecido internacionalmente pela cobertura universal e pela
+organização territorial dos serviços de saúde.
+Referência:
+NORONHA, José Carvalho; GIOVANELLA, Lígia; CONNI, Eleonor Minho. Sistemas de Saúde
+da Alemanha, do Canadá e dos EUA: uma visão comparada. In: PAIM, Jairnilson S.;
+ALMEIDA-FILHO, Naomar de. Saúde Coletiva: Teoria e Prática. 2.ª ed. Rio de Janeiro:
+MedBook Editora, 2022. E-book. ISBN 978-65-5783-092-5. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830925/pageid/0. Acesso
+em: 15 out. 2025.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 11 de 14
+
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Um homem de 58 anos, tabagista há 30 anos, com histórico de
+hipertensão arterial sistêmica mal controlada e alimentação rica em sódio e gordura
+saturada, procura atendimento em uma Unidade Básica de Saúde com queixa de dor
+torácica aos esforços.
+O paciente reside em bairro periférico com pouca oferta de espaços para atividade física,
+trabalha em jornada extensa sob estresse constante e apresenta acesso irregular aos
+serviços de saúde.
+Considerando o caso apresentado e os conceitos epidemiológicos relacionados ao
+processo saúde-doença, responda:
+A) Identifique um fator relacionado ao agente, um ao hospedeiro e um ao ambiente, de
+acordo com o modelo da tríade epidemiológica, presentes na situação descrita. (0,75
+ponto)
+B) Explique, de forma sucinta, como a teoria da multicausalidade contribui para ampliar a
+compreensão do processo saúde-doença, em comparação ao modelo de causalidade
+única. (0,75 ponto)
+Alternativas:
+-Resposta comentada:
+A resposta da pergunta: Com base no caso clínico apresentado e na teoria da
+multicausalidade, identifique um fator relacionado ao agente, um ao hospedeiro e um ao
+ambiente (tríade epidemiológica) presentes na situação descrita. (0,75 ponto)
+1- Agente: no caso das doenças crônicas não transmissíveis, o "agente" pode ser
+entendido como fatores de risco biológicos ou comportamentais (ex.: tabagismo, excesso
+de gordura saturada, hipertensão).
+2- Hospedeiro: idade (58 anos), sexo, predisposição genética, condições clínicas prévias
+(HAS).
+3- Ambiente: bairro com pouca infraestrutura, jornada extensa e estresse ocupacional,
+acesso irregular aos serviços de saúde, condições socioeconômicas.
+A resposta da pergunta: Explique brevemente como a teoria da multicausalidade amplia
+a compreensão do processo saúde-doença em relação ao modelo de causalidade única.
+(0,75 ponto)
+O adoecimento não decorre de um único fator isolado. Existem interações dinâmicas
+entre fatores biológicos, comportamentais e socioambientais. A teoria supera a visão
+única-causal (ex.: “infarto = colesterol alto”) e passa a compreender o processo como
+resultado de múltiplas determinações. Espera-se que o estudante mencione que essa
+abordagem: fundamenta políticas públicas de promoção da saúde, sustenta estratégias
+intersetoriais, amplia o papel da APS para além da prescrição medicamentosa e dialoga
+com os determinantes sociais da saúde.
+Referências:
+Concepção de saúde-doença e o cuidado em saúde (Marly Marques da Cruz). Disponível
+em: https://25anos.ead.fiocruz.br/materiaisead/especializacao/gestao-da-saude-dapessoa-idosa/percurso/arquivos/texto3.pdf. Acesso em: 28 mar. 2026.
+SOLHA, Raphaela Karla de T. Saúde coletiva para iniciantes. 2.ª ed. Rio de Janeiro: Érica,
+2014. E-book. p. 1. ISBN 9788536530574. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788536530574/. Acesso em: 28
+mar. 2026.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. 8.ª ed.
+Rio de Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830000/pageid/0. Acesso
+em: 28 mar. 2026.
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 12 de 14
+
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(AFYA ITABUNA) Uma equipe da Estratégia de Saúde da Família realizou uma visita
+domiciliar a uma família residente em uma área periférica do município. Na casa moram
+Dona Maria, de 68 anos, que tem hipertensão arterial sistêmica (HAS) e diabetes mellitus
+(DM); seu filho João, de 35 anos, que está desempregado; e seus dois netos, Ana, de 8
+anos, e Pedro, de 3 anos. A família reside em uma casa pequena, com ventilação limitada
+e presença de goteiras em dias de chuvas. A casa é situada perto de um terreno onde há
+acúmulo de lixo e água parada, sem distribuição de água na região e com ausência de
+sistema de esgoto.
+Os profissionais notaram que Pedro sofre com diarreia e infecções respiratórias
+frequentes, enquanto Ana enfrenta problemas de aprendizagem na escola durante a
+visita. A família tem uma renda restrita, depende de programas sociais e enfrenta
+desafios para obter alimentos variados e nutritivos.
+Com base na situação apresentada e no modelo de Determinantes Sociais de Dahlgren e
+Whitehead,
+a) Identifique dois fatores biológicos individuais presentes no caso. (0,5)
+b) Identifique três condições de vida e de trabalho presentes na situação descrita,
+destacando como influenciam o adoecimento dessa família. (1,0)
+Alternativas:
+--
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 13 de 14
+
+Resposta comentada:
+a) Espera-se que o estudante identifique fatores biológicos presentes na situação
+descrita, como:
+Idade: Dona Maria (68 anos), João (35 anos), Ana (8 anos) e Pedro (3 anos).
+Sexo: feminino (Dona Maria e Ana) e masculino.
+Esses fatores correspondem às características biológicas individuais que influenciam o
+processo saúde-doença. Importante: se o aluno citar doenças crônicas nesta resposta,
+estará errado, pois estaria reduzindo esses agravos aos fatores biológicos, negligenciando
+a influência das outras camadas no desfecho (estilo de vida; condições de vida/trabalho;
+fatores socioeconômicos).
+b) Entre as condições de vida e de trabalho presentes na situação descrita, podem ser
+citados e explicados:
+Saneamento básico inadequado (ausência de distribuição de água encanada na região e
+ausência de sistema de esgoto) influencia o adoecimento ao permitir a contaminação da
+água e do ambiente por fezes humanas e resíduos, favorecendo a proliferação de
+bactérias, parasitas e vetores. Isso aumenta diretamente as diarreias frequentes em
+Pedro e contribui para infecções respiratórias (por higiene precária e exposição a
+patógenos).
+Condições inadequadas de moradia/habitação (casa pequena, ventilação limitada,
+presença de goteiras em dias de chuva, proximidade de terreno com acúmulo de lixo e
+água parada) criam um ambiente úmido, com mofo, poeira e poluentes internos/externos,
+favorecendo infecções respiratórias recorrentes em Pedro (bronquite, pneumonia etc.). A
+umidade e o frio das goteiras também podem agravar problemas cardiovasculares e
+metabólicos em Dona Maria. Além disso, o ambiente insalubre gera estresse psicossocial
+constante, que compromete a adesão ao tratamento e eleva o risco de complicações das
+doenças crônicas.
+Desemprego (do filho João, de 35 anos) leva à baixa renda familiar e dependência
+exclusiva de programas sociais, limitando o acesso a bens e serviços essenciais. Isso
+influencia o adoecimento ao dificultar a compra de medicamentos, consultas
+especializadas e transporte para acompanhamento de saúde, resultando em descontrole
+da HAS e DM de Dona Maria.
+Dificuldade de acesso a alimentos variados e nutritivos (insegurança alimentar).
+Decorrente da baixa renda e localização periférica, leva a uma dieta pobre em nutrientes
+e rica em ultraprocessados. Isso contribui diretamente para o descontrole metabólico da
+hipertensão e diabetes de Dona Maria (excesso de sódio, açúcar e gorduras). Para as
+crianças, a má alimentação compromete o crescimento, a imunidade (aumentando
+infecções em Pedro) e o desenvolvimento cognitivo (problemas de aprendizagem em Ana
+na escola).
+Acesso limitado a serviços educacionais (problemas de aprendizagem de Ana na escola).
+Embora a educação seja um serviço essencial, o acesso precário (possivelmente por falta
+de infraestrutura escolar na periferia, transporte ruim ou desnutrição afetando a
+concentração) influencia o adoecimento ao perpetuar o ciclo de pobreza e baixa
+empregabilidade futura. No curto prazo, afeta a saúde mental e o desenvolvimento de
+Ana, podendo levar a estresse, baixa autoestima e maior vulnerabilidade a agravos
+futuros.
+Referências:
+GUSSO, G.; LOPES, J. M. C.; DIAS, L. C. Tratado de Medicina de Família e Comunidade:
+princípios, formação e prática. Porto Alegre: ArtMed, 2019.
+PAIM, J. S.; ALMEIDA-FILHO, N. Saúde Coletiva: teoria e prática. Rio de Janeiro: MedBook,
+2022.
+ROUQUAYROL, M. Z.; GURGEL, M. Epidemiologia e Saúde. 8. ed. Rio de Janeiro: MedBook,
+2017.
+BUSS, P. M.; PELLEGRINI FILHO, A. A saúde e seus determinantes sociais. Physis: Revista
+de Saúde Coletiva, 2007.
+
+Feedback:
+--
+
+000193.84001b.3d0ead.9155e0.e18f05.cdada6.a49dda.88ee3
+
+Página 14 de 14
+
+

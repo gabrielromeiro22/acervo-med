@@ -1,0 +1,822 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas IV
+Professor (es):
+
+Período: 202601
+
+Turma:
+
+Data: 07/04/2026
+
+N1 ESPECÍFICA - MEDICINA - HAM IV - 2026.1 1ª CHAMADA - 07/ABRIL
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19187 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA MACEIÓ) Paciente do sexo feminino, 60 anos, comparece à consulta médica
+queixando-se de episódios frequentes de dor epigástrica e desconforto após as
+refeições, há 4 meses. Nega perda de peso ou patologias prévias. Seu pai faleceu
+em decorrência de um câncer de estômago. Qual é a conduta mais apropriada
+neste caso?
+Alternativas:
+(alternativa A)
+Solicitar teste de urease e tratar apenas se o teste for positivo.
+
+acervo.vip
+
+(alternativa B)
+Iniciar tratamento empírico com inibidor de bomba de prótons por 4 semanas e
+reavaliar a resposta clínica.
+(alternativa C) (CORRETA)
+Solicitar endoscopia digestiva alta para investigação diagnóstica.
+(alternativa D)
+Orientar mudanças no estilo de vida e prescrever antiácidos, agendando retorno em
+60 dias.
+
+Resposta comentada:
+Alternativa correta: Solicitar endoscopia digestiva alta para investigação
+diagnóstica.
+Justificativa: Embora a paciente negue perda de peso, a conduta é determinada
+pela presença de critérios de alarme que tornam a investigação por imagem
+obrigatória antes de qualquer tratamento empírico:
+Idade Avançada: Pacientes com idade superior a 50 anos que apresentam início de
+sintomas dispépticos devem ser submetidos à Endoscopia Digestiva Alta (EDA) para
+excluir neoplasias.
+Histórico Familiar Positivo: O fato de o pai ter falecido por câncer de estômago é um
+forte sinal de alerta. Em pacientes com história familiar de primeiro grau para
+câncer gastrointestinal, a investigação deve ser precoce e agressiva.
+Duração dos Sintomas: O quadro persiste há 4 meses com desconforto pós-prandial,
+o que reforça a necessidade de diagnóstico diferencial entre dispepsia funcional e
+doenças estruturais (como úlcera ou câncer).
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 1 de 18
+
+Análise das Alternativas:
+O tratamento empírico com IBP ou antiácidos é reservado para pacientes jovens
+(geralmente < 45 anos) sem sinais de alerta. Adiar o diagnóstico em uma paciente
+de 62 anos com histórico familiar pode permitir a progressão de uma lesão maligna
+silenciosa.
+O teste de H. pylori (como o teste de urease) faz parte da investigação, mas em
+pacientes com indicação de EDA, ele deve ser realizado durante o exame (via
+biópsia), e não como conduta isolada inicial.
+Iniciar tratamento empírico com inibidor de bomba de prótons por 4 semanas e
+reavaliar a resposta clínica.
+Incorreta. Essa estratégia é mais apropriada para pacientes com dispepsia sem
+fatores de alarme e com menor risco de doença estrutural. Nesta paciente, a idade
+e o antecedente familiar de câncer gástrico tornam inadequado adiar a investigação
+endoscópica.
+Solicitar teste de urease e tratar apenas se o teste for positivo.
+Incorreta. O teste de urease é habitualmente obtido por biópsia durante a própria
+endoscopia. Além disso, numa paciente com indicação de EDA, a pesquisa de H.
+pylori não deve substituir a investigação endoscópica inicial.
+Solicitar endoscopia digestiva alta para investigação diagnóstica.
+Correta. É a melhor conduta diante de dispepsia em paciente de 56 anos com
+antecedente familiar de câncer gástrico em primeiro grau, pois permite avaliar
+lesões estruturais, realizar biópsias e investigar H. pylori quando indicado.
+Orientar mudanças no estilo de vida e prescrever antiácidos, agendando retorno em
+60 dias.
+Incorreta. Mudanças de estilo de vida e antiácidos podem aliviar sintomas, mas não
+são suficientes como conduta inicial quando há necessidade de excluir doença
+orgânica relevante. Postergar a EDA por 60 dias pode atrasar diagnóstico etiológico
+importante.
+Referências:
+ASGE STANDARDS OF PRACTICE COMMITTEE et al. The role of endoscopy in the
+management of complaints of heartburn, acid regurgitation, or proximal esophageal
+reflux. Gastrointestinal Endoscopy, [s. l.], v. 91, n. 6, p. 1227-1234, jun. 2020.
+Disponível em: doi.org. Acesso em: 28 fev. 2026.
+FEDERAÇÃO BRASILEIRA DE GASTROENTEROLOGIA. IV Consenso Brasileiro sobre
+Infecção por Helicobacter pylori. São Paulo: FBG, 2018. Disponível em:
+www.fbg.org.br. Acesso em: 28 fev. 2026.
+GOLDMAN, Lee; SCHAFER, Andrew I. Goldman-Cecil Medicina. 26. ed. Rio de Janeiro:
+Elsevier, 2021. (Capítulo sobre Abordagem ao Paciente com Sintomas
+Gastrointestinais)
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA PORTO VELHO) Uma criança de 2 anos de idade é trazida pela mãe ao
+ambulatório com queixa de 4 evacuações diárias, com consistência tipo 6 na Escala
+de Bristol, mantidas há 5 semanas. A mãe relata que, às vezes, as evacuações são
+pastosas, contendo alimentos não digeridos, sem presença de sangue. A criança
+apresenta história de ganho ponderal insatisfatório nos últimos meses.
+Ao exame físico, encontra-se em aparente bom estado geral, ativa, reativa, com
+presença de lágrimas, mucosas úmidas e turgor cutâneo preservado. Peso e
+estatura estão abaixo do escore Z -2, assim como o IMC.
+Considerando o quadro clínico e a abordagem adequada das diarreias na infância,
+assinale a alternativa correta.
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 2 de 18
+
+Alternativas:
+(alternativa A)
+Trata-se de diarreia crônica e, por não haver sinais clínicos de alarme, como febre
+ou sangue nas fezes, o quadro não justificaria investigação complementar.
+(alternativa B)
+O quadro é compatível com diarreia persistente; deve-se investigar causas
+infecciosas, inicialmente com coprocultura e exame parasitológico de fezes.
+(alternativa C) (CORRETA)
+O quadro é de diarreia crônica; a propedêutica deve incluir investigação de má
+absorção, como anticorpo antitransglutaminase tecidual, calprotectina fecal e
+coprocultura.
+(alternativa D)
+Trata-se de diarreia aguda, sendo indicada apenas hidratação oral e dieta habitual;
+não há necessidade de exames complementares neste momento.
+
+Resposta comentada:
+Alternativa: "Trata-se de diarreia aguda, sendo indicada apenas hidratação oral e
+dieta habitual; não há necessidade de exames complementares neste momento." —
+Incorreta.
+A diarreia aguda é definida como aquela com duração inferior a 14 dias. Neste caso,
+a duração superior a 4 semanas caracteriza diarreia crônica. Além disso, o
+comprometimento do estado nutricional exige investigação etiológica detalhada.
+Alternativa: "O quadro é compatível com diarreia persistente; deve-se investigar
+causas infecciosas, inicialmente com coprocultura e exame parasitológico de fezes."
+— Incorreta.
+A diarreia persistente é definida quando o quadro dura entre 14 e 30 dias. Aqui,
+trata-se de diarreia crônica. Além disso, a investigação não deve se restringir
+apenas a coprocultura e parasitológico de fezes, mas incluir também exames de má
+absorção.
+Alternativa: "O quadro é de diarreia crônica; a propedêutica deve incluir
+investigação de má absorção, como anticorpo antitransglutaminase tecidual,
+calprotectina fecal e coprocultura." — Correta.
+A diarreia crônica é definida por duração superior a 30 dias. A associação com
+comprometimento do crescimento e do estado nutricional impõe investigação
+abrangente. A propedêutica deve incluir exames de má absorção, como anticorpo
+antitransglutaminase tecidual (doença celíaca), calprotectina fecal (doença
+inflamatória intestinal) e coprocultura (causas infecciosas).
+Alternativa: "Trata-se de diarreia crônica e, por não haver sinais clínicos de alarme,
+como febre ou sangue nas fezes, o quadro não justificaria investigação
+complementar." — Incorreta.
+A ausência de febre ou sangue nas fezes não exclui gravidade. O tempo de
+evolução e o comprometimento nutricional tornam mandatória a investigação. A
+avaliação clínica deve considerar o conjunto de dados do exame físico e da história.
+Referência:
+Tratado de Pediatria – 5.ª edição. Nelson, Ricardo Halpern; Denise Lellis. Sociedade
+Brasileira de Pediatria. Editora Manole, 2021.
+Feedback:
+-3ª QUESTÃO
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 3 de 18
+
+Enunciado:
+(AFYA ITACOATIARA) Paciente, 45 anos, procura atendimento na Unidade Básica de
+Saúde (UBS) com queixas de diarreia há 5 dias, com cerca de 5 episódios por dia. A
+diarreia é aquosa, sem presença de muco, sangue ou pus. Refere também dores
+abdominais e náuseas. Ao exame físico, paciente apresenta-se desidratada,
+orientada, humor irritado, boca seca e olhos fundos, com turgor da pele que
+desaparece lentamente. Sinais vitais com pressão arterial 120 x 80 mmHg,
+frequência cardíaca 108 bpm, temperatura 37,2°C, saturação 98% em ar ambiente
+e frequência respiratória de 18 irpm.
+Diante desse quadro, qual a melhor conduta inicial a ser tomada em relação ao
+manejo dessa paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar reidratação com soro de reidratação oral (SRO) e permanecer em observação
+no serviço de saúde.
+(alternativa B)
+Encaminhar o paciente para internação hospitalar e prescrever reidratação via
+endovenosa e oral.
+(alternativa C)
+Administrar zinco 1 vez ao dia, 20 mg ao dia, e loperamida para controle de
+diarreia, e iniciar SRO para domicílio.
+(alternativa D)
+Administrar antibiótico de amplo espectro em dose única e hidratação em domicílio.
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 4 de 18
+
+Resposta comentada:
+Alternativa: administrar antibiótico de amplo espectro em dose única e hidratação
+em domicílio.
+Incorreta; antibióticos serão utilizados em casos de diarreia com sangue (disenteria)
+e acometimento do estado geral. O caso em questão trata-se de um paciente em
+etapa B, sendo necessário um plano B com observação em domicílio.
+Alternativa: iniciar reidratação com SRO e permanecer em observação no serviço de
+saúde.
+Correta, o caso acima trata-se de um paciente com quadro de diarreia aguda com
+sinais de desidratação, sendo tratado com plano B de tratamento, tratar por via oral
+com SRO em unidade de saúde.
+Alternativa: encaminhar o paciente para internação hospitalar e prescrever
+reidratação via endovenosa e oral.
+Incorreta a internação hospitalar em casos de desidratação grave, em paciente em
+etapa C, com tratamento realizado no plano C, o que não seria o caso do paciente
+em questão, que está em desidratação leve a moderada.
+Alternativa: administrar zinco 1 vez ao dia, 20 mg ao dia, e loperamida para
+controle de diarreia, e iniciar SRO para domicílio.
+Incorreta; o zinco deve ser administrado no Plano A de tratamento para crianças
+menores de 5 anos de idade. E a loperamida é um medicamento antidiarreico; no
+entanto, deve ser usada com cautela. Não deve ser a primeira escolha de
+tratamento para a diarreia aguda, pois não trata a causa subjacente.
+Referência:
+BRASIL. Ministério da Saúde. Manejo do paciente com diarreia: avaliação do estado
+de hidratação do paciente. Disponível em: https://www.gov.br/saude/pt-br/centraisde-conteudo/publicacoes/svsa/doencas-diarreicas-agudas/manejo-do-paciente-comdiarreia-avaliacao-do-estado-de-hidratacao-do-paciente-arquivo-com-marcas-decorte/view. Acesso em: 26 mar. 2026.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Homem de 63 anos, tabagista, procura atendimento com dor
+epigástrica em queimação há 10 meses, associada a plenitude pós-prandial,
+saciedade precoce e náuseas frequentes. Nos últimos três meses, houve piora
+progressiva, com vômitos alimentares, anorexia e perda ponderal de 11 kg. Refere
+episódios de fezes escurecidas e fadiga. Nega uso regular de anti-inflamatórios e
+relata uso irregular de omeprazol, com melhora parcial.
+No exame físico, apresenta-se emagrecido, hipocorado (++/4+) e com dor à
+palpação epigástrica.
+Exames laboratoriais evidenciam hemoglobina de 8,7 g/dL, anemia microcítica e
+hipocrômica, com ferritina reduzida.
+A endoscopia digestiva alta mostra mucosa gástrica atrófica, lesão ulcerada
+infiltrativa em antro com rigidez local e estenose parcial do canal pilórico. Teste da
+urease positivo. Biópsia confirma adenocarcinoma gástrico tipo intestinal, associado
+a gastrite crônica atrófica e metaplasia intestinal extensa.
+Após a confirmação diagnóstica, o médico decide comunicar o diagnóstico ao
+paciente utilizando o protocolo SPIKES.
+Com base no quadro clínico apresentado, nos achados propedêuticos e nas
+recomendações para comunicação de más notícias, assinale a alternativa correta.
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 5 de 18
+
+Alternativas:
+(alternativa A)
+A urease positiva confirma úlcera péptica benigna e praticamente exclui
+malignidade gástrica, pois neoplasias raramente se associam à infecção por
+Helicobacter pylori. No protocolo SPIKES, recomenda-se inicialmente avaliar o que o
+paciente já sabe ou suspeita sobre sua condição, antes de transmitir a notícia.
+(alternativa B) (CORRETA)
+A urease positiva associada à gastrite atrófica e metaplasia intestinal sugere
+infecção por Helicobacter pylori relacionada à carcinogênese gástrica, sendo o
+quadro compatível com adenocarcinoma gástrico tipo intestinal. Na comunicação
+do diagnóstico, o protocolo SPIKES recomenda inicialmente avaliar o que o paciente
+já sabe ou suspeita sobre sua condição, antes de transmitir a notícia.
+(alternativa C)
+A urease positiva confirma úlcera péptica benigna e praticamente exclui
+malignidade gástrica, pois neoplasias raramente se associam à infecção por
+Helicobacter pylori. No protocolo SPIKES, recomenda-se fornecer todas as
+informações diagnósticas detalhadas logo no início da consulta, antes de avaliar o
+quanto o paciente deseja saber.
+(alternativa D)
+A urease positiva associada à gastrite atrófica e metaplasia intestinal sugere
+infecção por Helicobacter pylori relacionada à carcinogênese gástrica, sendo o
+quadro compatível com adenocarcinoma gástrico tipo intestinal. Nesse caso,
+durante a comunicação com o paciente, o protocolo SPIKES recomenda informar
+imediatamente o diagnóstico ao paciente, sem explorar previamente sua percepção
+sobre a doença.
+
+Resposta comentada:
+Alternativa correta: A urease positiva associada à gastrite atrófica e metaplasia
+intestinal sugere infecção por Helicobacter pylori relacionada à carcinogênese
+gástrica, sendo o quadro compatível com adenocarcinoma gástrico tipo intestinal.
+Na comunicação do diagnóstico, o protocolo SPIKES recomenda inicialmente avaliar
+o que o paciente já sabe ou suspeita sobre sua condição, antes de transmitir a
+notícia.
+Aspecto clínico-patológico:
+O quadro é altamente sugestivo de adenocarcinoma gástrico tipo intestinal,
+sustentado por:
+Idade (63 anos).
+Sintomas de alarme:
+Perda ponderal.
+Anemia ferropriva (microcítica/hipocrômica + ferritina baixa).
+Vômitos e estenose pilórica.
+Melena (fezes escurecidas).
+EDA:
+Lesão ulcerada infiltrativa.
+Rigidez (sugere infiltração neoplásica).
+Histologia:
+Gastrite atrófica + metaplasia intestinal → sequência de Correa.
+Teste da urease positivo → infecção por Helicobacter pylori.
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 6 de 18
+
+Isso está classicamente associado ao:
+Adenocarcinoma gástrico tipo intestinal.
+
+Protocolo SPIKES (comunicação de más notícias).
+O passo “P” (Perception) do SPIKES recomenda:
+Antes de dar a notícia, avaliar o que o paciente já sabe ou suspeita.
+Portanto, a alternativa descreve corretamente:
+Avaliação da percepção do paciente antes da revelação diagnóstica.
+
+Análise das alternativas incorretas:
+A alternativa "A urease positiva associada à gastrite atrófica e metaplasia intestinal
+sugere infecção por Helicobacter pylori relacionada à carcinogênese gástrica, sendo
+o quadro compatível com adenocarcinoma gástrico tipo intestinal. Nesse caso,
+durante a comunicação com o paciente, o protocolo SPIKES recomenda informar
+imediatamente o diagnóstico ao paciente, sem explorar previamente sua percepção
+sobre a doença."
+“Informar imediatamente o diagnóstico, sem explorar previamente sua percepção.”
+Erro:
+Contraria diretamente o protocolo SPIKES.
+Ignora o passo P (Perception).
+Comunicação adequada exige:
+Entender o nível de compreensão do paciente.
+Evitar choque emocional abrupto.
+✔️ A parte clínica está correta.
+A parte de comunicação está errada.
+
+A alternativa "A urease positiva confirma úlcera péptica benigna e praticamente
+exclui malignidade gástrica, pois neoplasias raramente se associam à infecção por
+Helicobacter pylori. No protocolo SPIKES, recomenda-se inicialmente avaliar o que o
+paciente já sabe ou suspeita sobre sua condição, antes de transmitir a notícia".
+“urease positiva confirma úlcera benigna e praticamente exclui malignidade”
+Erro grave conceitual.
+
+Helicobacter pylori é fator de risco importante para câncer gástrico.
+Está envolvido na sequência:
+Gastrite crônica → atrofia → metaplasia → displasia → câncer.
+Urease positiva não exclui câncer.
+Pelo contrário: pode estar associada à carcinogênese.
+Parte do SPIKES está correta.
+Parte clínica está totalmente incorreta.
+
+A alternativa "A urease positiva confirma úlcera péptica benigna e praticamente
+exclui malignidade gástrica, pois neoplasias raramente se associam à infecção por
+Helicobacter pylori. No protocolo SPIKES, recomenda-se fornecer todas as
+informações diagnósticas detalhadas logo no início da consulta, antes de avaliar o
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 7 de 18
+
+quanto o paciente deseja saber".
+Erros importantes:
+Urease positiva não exclui malignidade.
+Erro no SPIKES:
+“fornecer todas as informações logo no início”.
+Incorreto — isso viola dois princípios:
+I (Invitation): avaliar quanto o paciente quer saber.
+K (Knowledge): transmitir informações gradualmente.
+Comunicação deve ser:
+Progressiva.
+Adaptada ao paciente.
+Com linguagem acessível.
+Referências:
+BASTOS, R. R. O Método Clínico. 1.ª ed. Juiz de Fora: Bartlebee, 2014.
+DANI, Renato; PASSOS, Maria do Carmo F. Gastroenterologia Essencial. 4.ª edição.
+Rio de Janeiro: Guanabara Koogan, 2011. E-book. 1. ISBN 978-85-277-1970-4.
+Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/978-85-2771970-4/. Acesso em: 19 out. 2025. Parte III. Capítulo 17.
+McGEE, Steven. Evidence-Based Physical Diagnosis. 6. ed. Philadelphia: Elsevier,
+2025.
+PORTO, C.C. Semiologia Médica. 8. ed. Rio de Janeiro: Guanabara Koogan, 2019. Ebook. ISBN 9788527734998. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527734998. Acesso em: 19
+out. 2025.
+PORTO, C. C.; PORTO, A. L. Exame Clínico. 8. ed. Rio de Janeiro: Guanabara Koogan,
+2017. E-book, p. 304. ISBN 9788527731034. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527731034/. Acesso
+em: 19 out. 2025.
+Feedback:
+-5ª QUESTÃO
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 8 de 18
+
+Enunciado:
+(AFYA MANACAPURU) Um lactente de 2 anos é trazido à Unidade de Pronto
+Atendimento pela mãe, que relata início súbito de salivação excessiva (sialorreia),
+disfagia e recusa alimentar há 3 horas, após ter sido visto brincando com objetos
+pequenos no chão. Ao exame físico, a criança apresenta-se ansiosa e recusa
+alimentação. É realizada uma radiografia de tórax (projeção AP e perfil), conforme a
+figura abaixo:
+
+Considerando os dados apresentados, assinale a alternativa correta.
+
+Alternativas:
+(alternativa A) (CORRETA)
+O achado de duplo contorno na radiografia identifica a impactação de uma pilha
+botão, exigindo a remoção endoscópica imediata devido ao risco de necrose por
+liquefação e perfuração em poucas horas.
+(alternativa B)
+O achado da imagem circular homogênea no esôfago identifica a impactação de
+uma moeda, exigindo a remoção endoscópica imediata devido ao risco de necrose
+por liquefação e perfuração em poucas horas.
+(alternativa C)
+A imagem radiopaca com halo duplo sugere a ingestão de uma moeda metálica
+comum, sendo a conduta inicial a observação clínica domiciliar para aguardar a
+progressão espontânea do objeto ao estômago.
+(alternativa D)
+A presença de sialorreia e a imagem circular homogênea no esôfago indicam que o
+objeto é um fragmento de plástico, devendo-se prescrever laxantes para acelerar a
+eliminação fecal sem necessidade de intervenção.
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 9 de 18
+
+Resposta comentada:
+Alternativa: O achado de duplo contorno na radiografia identifica a impactação de
+uma pilha botão, exigindo a remoção endoscópica imediata devido ao risco de
+necrose por liquefação e perfuração em poucas horas. Está correta: a diferenciação
+radiológica entre moeda e pilha botão é vital. A pilha botão apresenta o sinal do
+"halo duplo" (duplo contorno) na incidência AP. A conduta deve ser a remoção
+imediata (em menos de 2 horas), pois o contato com a mucosa esofágica gera uma
+corrente elétrica e liberação de substâncias cáusticas que causam necrose tecidual
+rápida.
+Alternativas incorretas:
+A imagem radiopaca com halo duplo sugere a ingestão de uma moeda metálica
+comum, sendo a conduta inicial a observação clínica domiciliar para aguardar a
+progressão espontânea do objeto ao estômago. Esta alternativa está incorreta
+porque moedas apresentam um aspecto homogêneo na radiografia, sem o halo
+duplo característico da pilha botão. Além disso, corpos estranhos impactados no
+esôfago, mesmo que fossem moedas, requerem remoção e não apenas observação
+domiciliar, devido ao risco de obstrução e complicações.
+A presença de sialorreia e a imagem circular homogênea no esôfago indicam que o
+objeto é um fragmento de plástico, devendo-se prescrever laxantes para acelerar a
+eliminação fecal sem necessidade de intervenção. Esta alternativa está incorreta,
+pois a imagem descrita no enunciado não é homogênea, mas sim com halo duplo.
+Fragmentos de plástico, em sua maioria, são radiotransparentes (não aparecem no
+RX convencional). O uso de laxantes é contraindicado para o manejo de corpos
+estranhos impactados no esôfago.
+Erro conceitual importante: moeda não causa necrose química elétrica. Pode ser
+removida, mas a urgência depende de sintomas, tempo e localização. Moeda no
+esôfago → remoção geralmente em até 24h. NÃO é emergência imediata como
+pilha botão. Está errada a alternativa, pois o caso é de uma pilha.
+Referências:
+CARVALHO, Elisa de; SILVA, Luciana R.; FERREIRA, Cristina T. Gastroenterologia e
+nutrição em pediatria. Barueri: Manole, 2012. E-book.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Departamento Científico de
+Gastroenterologia. Ingestão de corpos estranhos: manual. Versão online. São Paulo:
+SBP, 2022. Disponível em:
+https://www.sbp.com.br/fileadmin/user_upload/Manual_Ingestao_de_Corpos_Estranh
+os_versao_site.pdf. Acesso em: 16 out. 2025.
+TRALDI, Paula de C.; BRITO, Adriana R.; CUNHA, Joel Bressa da. Urgências e
+emergências pediátricas. (Série Pediatria Soperj). Barueri: Manole, 2023. E-book.
+Feedback:
+-6ª QUESTÃO
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 10 de 18
+
+Enunciado:
+(AFYA PATO BRANCO) Um menino de 7 anos é levado ao ambulatório pela mãe com
+queixa de “intestino preso” há cerca de 6 meses. A mãe relata que a criança evacua
+a cada 4–5 dias, geralmente com fezes muito duras, volumosas e com dor ao
+evacuar. Refere que o menino faz muito esforço, permanece longo tempo no vaso
+sanitário e frequentemente apresenta sensação de que “ainda ficou fezes”. Em
+algumas ocasiões, a mãe observa pequenas manchas de fezes na roupa íntima
+(escape fecal). Nega febre, perda de peso, vômitos biliosos, sangramento retal
+persistente ou dor abdominal intensa. A alimentação é pobre em fibras, com baixa
+ingestão de frutas, verduras e água.
+No exame físico:
+• Abdome discretamente distendido, ruídos hidroaéreos presentes.
+• Palpação abdominal evidencia massa endurecida palpável em fossa ilíaca
+esquerda, compatível com fecaloma.
+• Toque retal (quando realizado com indicação clínica e consentimento): ampola
+retal com fezes endurecidas, sem massas anormais, sem sangue.
+• Crescimento e desenvolvimento adequados para a idade.
+• Ausência de sinais de alarme (sem atraso ponderoestatural, alterações
+neurológicas ou malformações anorretais).
+A mãe apresenta um registro do aspecto das fezes segundo a Escala de Bristol,
+relatando eliminação habitual de fezes tipo 1 (fragmentos duros separados, como
+“bolinhas”) e tipo 2 (formato de salsicha, mas grumosa).
+Com base na análise da anamnese e do exame físico, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A presença de massa abdominal palpável e fezes endurecidas ao toque retal sugere
+obstrução intestinal mecânica alta, sendo necessária avaliação cirúrgica imediata
+mesmo na ausência de sintomas sistêmicos ou sinais de obstrução aguda.
+(alternativa B)
+A redução isolada da frequência evacuatória define constipação patológica na
+criança, independentemente da consistência das fezes, dor associada ou
+comportamento de retenção fecal.
+(alternativa C) (CORRETA)
+O quadro é compatível com constipação intestinal funcional na infância,
+caracterizada por evacuações infrequentes, fezes endurecidas (Bristol 1–2), esforço
+evacuatório, possível retenção fecal e ausência de sinais clínicos de alarme ao
+exame físico.
+(alternativa D)
+O achado de fezes tipo 1 e 2 na escala de Bristol indica doença inflamatória
+intestinal na infância, justificando colonoscopia urgente mesmo na ausência de
+sangramento, perda ponderal ou alterações laboratoriais.
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 11 de 18
+
+Resposta comentada:
+A alternativa que afirma que o quadro é compatível com constipação intestinal
+funcional na infância está correta. A criança apresenta critérios típicos dessa
+condição: evacuações infrequentes (a cada 4–5 dias), fezes endurecidas
+classificadas como tipos 1 e 2 na Escala de Bristol, esforço evacuatório, dor ao
+evacuar, retenção fecal e presença de massa palpável em fossa ilíaca esquerda
+compatível com fecaloma. Além disso, pode haver escape fecal (encoprese),
+achado comum em constipação crônica por retenção prolongada. O crescimento é
+adequado e não há sinais de alarme, como perda ponderal, febre, vômitos biliosos,
+atraso do desenvolvimento, distensão abdominal importante desde o período
+neonatal ou alterações neurológicas. Na pediatria, a grande maioria dos casos de
+constipação é funcional, relacionada a fatores comportamentais, dieta pobre em
+fibras e ingestão hídrica insuficiente. O manejo inicial é clínico, com desimpactação
+quando necessária, reeducação intestinal, ajuste alimentar e uso de laxativos
+osmóticos.
+A alternativa que sugere obstrução intestinal mecânica alta com necessidade de
+avaliação cirúrgica imediata está incorreta porque o quadro não é agudo nem
+apresenta sinais de obstrução intestinal, como dor abdominal intensa e progressiva,
+vômitos biliosos, parada de eliminação de fezes e gases ou distensão abdominal
+acentuada. A massa palpável corresponde a acúmulo fecal no cólon distal
+(fecaloma), achado comum na constipação funcional crônica. A evolução arrastada,
+a estabilidade clínica e a ausência de sintomas sistêmicos afastam hipótese de
+obstrução mecânica alta.
+A alternativa que afirma que a redução isolada da frequência evacuatória define
+constipação patológica também está incorreta. Na infância, a frequência
+evacuatória pode variar amplamente conforme a idade. O diagnóstico de
+constipação não se baseia apenas no número de evacuações, mas principalmente
+na consistência das fezes, presença de dor, esforço evacuatório, comportamento de
+retenção, episódios de incontinência fecal e achado de massa fecal ao exame físico.
+Uma criança pode evacuar diariamente e ainda assim ser constipada se eliminar
+fezes muito endurecidas e com dor.
+Por fim, a alternativa que associa fezes tipo 1 e 2 à doença inflamatória intestinal e
+indica colonoscopia urgente está incorreta. Fezes endurecidas na Escala de Bristol
+indicam trânsito intestinal lento e desidratação fecal, não processo inflamatório.
+Doença inflamatória intestinal na infância geralmente se manifesta com diarreia
+crônica, frequentemente com sangue ou muco, dor abdominal recorrente, perda
+ponderal, atraso de crescimento e alterações laboratoriais inflamatórias. Na
+ausência desses sinais de alarme, não há indicação de investigação invasiva
+imediata.
+Referências:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Guia Prático de Orientação – Constipação
+intestinal. Departamento Científico de Gastroenterologia (gestão 2022–2024). No
+144, 4 de abril de 2024. Disponível em:
+https://www.sbp.com.br/fileadmin/user_upload/24448f-GPOConstipacao_intestinal.pdf. Acesso em: 24 ago. 2025
+SOCIEDADE BRASILEIRA DE PEDIATRIA (SBP). Protocolo de abordagem da
+constipação intestinal [S.l.]: SBP, 2024. Disponível em:
+https://www.sbp.com.br/fileadmin/user_upload/24448f-GPOConstipacao_intestinal.pdf. Acesso em: 16 out. 2025
+ISCHER, M.; GOLD, B. D.; MOSER-VEDORES, T. Pediatric Gastrointestinal and Liver
+Disease. 5. ed. Philadelphia: Elsevier, 2020.
+KAPLAN, M.; ROBERTS, E. M.; MIDDLETON, S. A. Pediatria Gastroenterologia. Nova
+Iorque: Springer, 2021.
+WALKER, W. A.; DURIE, P. R. HAMILTON, J. R. et al. Pediatric Gastrointestinal
+Disease: Pathophysiology, Diagnosis, Management. 5. ed. Hamilton: BC Decker,
+2008.
+Feedback:
+-000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 12 de 18
+
+7ª QUESTÃO
+Enunciado:
+(AFYA UNIGRANRIO BARRA DA TIJUCA) Um lactente de 5 meses, em aleitamento
+materno exclusivo até os 3 meses, apresenta história de regurgitações frequentes,
+irritabilidade após as mamadas e choro persistente. A mãe refere redução do
+volume das mamadas nas últimas semanas. Ao exame físico, encontra-se ativo,
+hidratado, sem sinais de doença sistêmica. No gráfico de crescimento da
+Organização Mundial da Saúde (OMS) de peso para idade, o paciente apresenta
+escore-z entre -2 e -3.
+Com base na interpretação deste resultado e no quadro clínico do lactente, assinale
+a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+O escore-z entre -2 e -3 indica baixo peso para idade, sugerindo comprometimento
+nutricional possivelmente associado à doença do refluxo gastroesofágico.
+(alternativa B)
+O escore-z entre -2 e -3 indica muito baixo peso para idade, com necessidade de
+intervenção.
+(alternativa C)
+O escore-z entre -2 e -3 indica peso adequado para idade e não necessita de
+tratamento para refluxo gastroesofágico.
+(alternativa D)
+O escore-z entre -2 e -3 indica baixíssimo peso para idade, sugerindo
+comprometimento nutricional possivelmente associado à doença do refluxo
+gastroesofágico.
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 13 de 18
+
+Resposta comentada:
+Alternativa correta:
+O escore-z entre -2 e -3 indica baixo peso para idade, sugerindo comprometimento
+nutricional possivelmente associado à doença do refluxo gastroesofágico.
+Justificativa:
+Segundo os padrões da Organização Mundial da Saúde (OMS) para peso por idade:
+Escore-z ≥ -2 e ≤ +2 → peso adequado para idade.
+Escore-z entre -3 e < -2 → baixo peso para idade.
+Escore-z < -3 → muito baixo peso para idade.
+Assim, um escore-z entre -2 e -3 classifica o lactente como baixo peso para idade,
+indicando comprometimento nutricional.
+No caso clínico, o lactente apresenta:
+regurgitações frequentes;
+irritabilidade após mamadas;
+redução da ingestão alimentar.
+Esses achados são compatíveis com doença do refluxo gastroesofágico com
+impacto nutricional, o que pode justificar o déficit ponderal observado.
+Análise das alternativas incorretas.
+O escore-z entre -2 e -3 indica peso adequado para idade…
+Incorreta. Peso adequado corresponde a escore-z entre -2 e +2.
+O escore-z entre -2 e -3 indica muito baixo peso para idade…
+Incorreta. Muito baixo peso ocorre apenas quando o escore-z é inferior a -3.
+O escore-z entre -2 e -3 indica baixíssimo peso para idade…
+Incorreta. “Baixíssimo peso” não é classificação utilizada pela OMS. O termo correto
+para esse intervalo é “baixo peso”.
+Referências:
+BRASIL. Ministério da Saúde. Caderneta da Criança: passaporte da cidadania 7. ed.
+Brasília, DF: Ministério da Saúde, 2025. Disponível em: https://www.gov.br/saude.
+Acesso em: 3 mar. 2026.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Tratado de pediatria. 6. ed. Barueri, SP:
+Editora Manole, 2024.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Gráficos de crescimento OMS.
+Departamento de Endocrinologia, SBP (se não tiver ano).
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Doença do refluxo gastroesofágico.
+Documento Científico n. 185, 10 dez. 2024. Rio de Janeiro: SBP, 2024.
+Feedback:
+-8ª QUESTÃO
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 14 de 18
+
+Enunciado:
+Durante visita domiciliar na Atenção Primária, uma mulher de 82 anos, com
+hipertensão arterial e osteoartrose de joelhos, relata duas quedas no último ano,
+diminuição das atividades habituais por cansaço e medo de cair, e dor nos joelhos
+ao caminhar. No exame, apresenta marcha lenta e dificuldade para levantar-se da
+cadeira sem apoio e utiliza cinco medicamentos contínuos. A equipe aplica o Índice
+de Vulnerabilidade Clínico-Funcional (IVCF-20), observando que a paciente
+apresenta mobilidade muito comprometida (3), limitações moderadas em
+atividades de vida diária (2), alterações leves no estado nutricional (1), preservação
+cognitiva (0), leve alteração em humor e comportamento (1) e risco social
+moderado (2).
+Considerando o IVCF-20, qual achado corresponde ao principal marcador objetivo
+de risco de quedas nessa paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Mobilidade limitada com dificuldade para levantar-se da cadeira e quedas recentes.
+(alternativa B)
+Risco social moderado associado a limitações de mobilidade e atividades diárias.
+(alternativa C)
+Redução das atividades habituais por fadiga, medo de cair e dor articular nos
+joelhos.
+(alternativa D)
+Alterações leves no estado nutricional e discreta alteração em humor e
+comportamento.
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 15 de 18
+
+Resposta comentada:
+Mobilidade limitada evidenciada por dificuldade para levantar-se da cadeira sem
+apoio e histórico de quedas recentes.
+Correta. O domínio mobilidade no IVCF-20 é o principal determinante de risco de
+quedas. A dificuldade de levantar-se da cadeira é um marcador funcional objetivo
+de comprometimento muscular e de desempenho físico, associado a maior risco de
+quedas, especialmente quando somado ao histórico recente de quedas.
+Redução das atividades habituais associada a fadiga, medo de cair e dor articular.
+Incorreta. Representa limitação funcional subjetiva e comportamento adaptativo
+(medo de cair), mas não constitui marcador objetivo direto do domínio mobilidade.
+Alterações leves no estado nutricional associadas a mudanças no humor.
+Incorreta. São fatores que contribuem para vulnerabilidade global, porém não são
+determinantes diretos do risco de quedas.
+Risco social moderado com necessidade de maior suporte familiar.
+Incorreta. Refere-se ao contexto social e suporte, sem relação direta com
+desempenho funcional motor.
+Referências Bibliográficas:
+BRASIL. Ministério da Saúde. Caderno de Atenção Básica n. 19: Envelhecimento
+e saúde da pessoa idosa. Brasília: Ministério da Saúde, 2018.
+MORAES, E. N. et al. Índice de Vulnerabilidade Clínico-Funcional-20 (IVCF20): instrumento de rastreio de fragilidade em idosos. Belo Horizonte: Universidade
+Federal de Minas Gerais, 2016.
+SOCIEDADE BRASILEIRA DE GERIATRIA E GERONTOLOGIA. Tratado de Geriatria e
+Gerontologia. 4. ed. Rio de Janeiro: Guanabara Koogan, 2017.
+DUARTE, Paulo de O.; AMARAL, José Renato G. Geriatria: prática clínica. 2nd ed.
+Barueri: Manole, 2023. E-book. ISBN 9786555767155. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9786555767155/ . Acess
+o em: 19 out. 2025.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(AFYA VITÓRIA DA CONQUISTA) Durante consulta de puericultura na Unidade de
+Saúde da Família, um recém-nascido de 12 dias, sexo feminino, nascido a termo, é
+levado para avaliação de rotina. A mãe refere que a gestação foi sem
+intercorrências, porém o parto foi pélvico. Ao exame físico, o bebê encontra-se em
+bom estado geral, com assimetria discreta de pregas glúteas. Não há encurtamento
+aparente de membros inferiores. O médico decidiu realizar manobras para avaliar o
+quadril do paciente.
+Considerando o quadro descrito, responda aos itens a seguir.
+a) Descreva como devem ser realizadas as manobras de Barlow e Ortolani. (1,0
+ponto)
+b) Explique qual é o objetivo da realização dessas manobras no recém-nascido. (0,5
+ponto)
+Alternativas:
+--
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 16 de 18
+
+Resposta comentada:
+Item A - (máximo 1,0 ponto, 0,5 ponto para cada manobra)
+Resposta esperada:
+Manobra de Barlow
+Realizada com o recém-nascido em decúbito dorsal, quadris e joelhos flexionados a
+90°. O examinador posiciona os polegares na face medial das coxas e os demais
+dedos sobre os trocânteres. Realiza-se adução do quadril, aplicando pressão
+posterior suave.
+Objetivo: verificar se o quadril é instável e pode ser deslocado posteriormente
+(quadril luxável).
+Manobra de Ortolani
+Mesma posição inicial. Realiza-se abdução suave dos quadris, com elevação
+anterior do trocânter maior.
+Objetivo: reduzir um quadril previamente luxado, percebendo-se um “click”
+palpável (sensação de ressalto).
+Item B - (máximo 0,5 ponto)
+A resposta deve incluir menção ao risco de Displasia do Desenvolvimento do
+Quadril.
+Resposta esperada: O objetivo das manobras de Barlow e Ortolani é identificar
+precocemente instabilidade ou luxação do quadril, permitindo o diagnóstico precoce
+da Displasia do Desenvolvimento do Quadril (DDQ). A detecção precoce possibilita
+tratamento imediato, geralmente com uso de suspensório de Pavlik, prevenindo
+complicações futuras como limitação funcional, claudicação e osteoartrose precoce.
+O RN deve estar em posição supina, com os quadris e joelhos flexionados a 90
+graus. Deve-se segurar cada coxa do paciente entre o polegar e os dedos indicador
+e médio, e então realizar a abdução e rotação externa da coxa, num movimento
+único e firme. Idealmente, deve-se posicionar o dedo médio sobre o trocânter maior
+do fêmur. O teste é positivo se for sentido um estalo nessa região, correspondente
+à cabeça do fêmur deslizando e se encaixando na articulação. Já a manobra de
+Barlow consiste na manobra de Ortolani seguida do movimento oposto de adução
+do quadril, podendo causar o deslocamento ou subluxação posterior da cabeça do
+fêmur que estava reduzida. O exame pode ser realizado em um quadril por vez,
+para melhor certeza de seu resultado, utilizando uma das mãos como mão pélvica,
+para manter a estabilidade da bacia, segurando a sínfise púbica e o sacro.
+Frequentemente, alguns examinadores sentem um estalido agudo ao realizar a
+manobra de Ortolani, muitas vezes de origem no ligamento da cabeça femoral ou
+no tendão do iliopsoas, não apresentando relação com a DDQ. (SILVA, Clovis Artur
+Almeida da; GRISI, Sandra Josefina Ferraz E.; GOMES, Filumena Maria da S.; E.
+Semiologia pediátrica: recém-nascido ao adolescente. Barueri: Manole, 2025,
+página 181).
+Referências:
+SILVA, Clovis Artur Almeida da; GRISI, Sandra Josefina Ferraz E.; GOMES, Filumena
+Maria da S.; E. Semiologia pediátrica: recém-nascido ao adolescente. Barueri:
+Manole, 2025. E-book, p. 518. ISBN 9786555769395.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Tratado de pediatria. 6.ª ed. Barueri:
+Manole, 2024. E-book. ISBN 9788520458679.
+Feedback:
+-10ª QUESTÃO
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 17 de 18
+
+Enunciado:
+(AFYA ITACOATIARA) Paciente, masculino, 32 anos, trabalhador rural, procura a
+Unidade Básica de Saúde com queixa de cansaço progressivo há 2 meses, tontura
+aos esforços, tosse esporádica, dor abdominal leve associado a episódios
+frequentes de diarreia aquosa intermitente, nega muco ou sangue. Relata prurido
+intenso nos pés há cerca de 4 meses, após trabalhar descalço em solo úmido. Nega
+comorbidades prévias. Ao exame físico, apresenta-se hipocorado (++/4), levemente
+taquicárdico (FC 102 bpm), PA 110/70 mmHg. Abdome discretamente doloroso à
+palpação difusa, sem visceromegalias; ausculta pulmonar sem alterações; presença
+de áreas hiperpigmentadas e cicatriciais em região plantar. Trouxe exames
+laboratoriais com hemoglobina: 8,9 g/dL, hematócrito: 28%, VCM 72 fL (valor
+normal: 80 - 100), HCM 26 pg/cel (valor normal: 27 - 33), leucócitos totais:
+9.800/mm³, eosinófilos: 12%, plaquetas: 380.000/mm³; EPF com presença de ovos
+de formatos ovalados, casca fina e transparente, com blastômeros em seu interior,
+compatíveis com Necator americanus.
+Sobre o caso descrito:
+a) Discorra sobre o seu diagnóstico, identificando suas manifestações e possíveis
+fases clínicas. (0,75 ponto)
+b) Interprete os achados dos exames complementares, propondo em sua conduta
+medidas de prevenção e promoção à saúde (0,75 ponto).
+Alternativas:
+-Resposta comentada:
+a) O diagnóstico em questão seria de uma ancilostomíase, devido à presença de
+ovos de Necator americanus em exame parasitológico de fezes. A ancilostomíase é
+uma helmintíase intestinal transmitida pela penetração ativa de larvas filariformes
+pela pele, geralmente ao andar descalço em solo contaminado. As manifestações
+clínicas podem ser divididas em fases: cutânea (dermatite pruriginosa no local de
+penetração), pulmonar (migração larvária) com tosse seca, intestinal (com dor
+abdominal, diarreia, inapetência), crônica (com anemia ferropriva por espoliação do
+ferro e hematofagia do parasita na mucosa intestinal).
+b) Da interpretação do hemograma, trata-se de uma anemia microcítica e
+hipocrômica (por VCM e HCM baixos) e eosinofilia (12%), comum em infecções por
+parasitas. Na interpretação do EPF, a presença de ovos de formatos ovais, de casca
+fina e conteúdo segmentado é característica de ancilostomídeos. O exame
+parasitológico confirma o diagnóstico etiológico. A prevenção envolve orientações
+como: uso de calçados, melhoria do saneamento básico, destinação adequada de
+fezes, educação em saúde sobre formas de transmissão, tratamento dos infectados,
+suplementação de ferro nos casos de anemia. A promoção da saúde deve incluir
+ações coletivas na comunidade rural, com orientação sobre higiene, construção de
+fossas sanitárias e acompanhamento nutricional.
+Referências:
+SANDS, Bruce E. Gastroenterologia. (Mount Sinai Expert Guides). Rio de Janeiro:
+Thieme Revinter, 2018.
+FEREIRA, Marcelo U. Parasitologia Contemporânea. 2.ª ed. Rio de Janeiro:
+Guanabara Koogan, 2020.
+Feedback:
+--
+
+000191.870014.1bbc72.20fc2e.3c6932.aeb4db.e9ca2a.957b4
+
+Página 18 de 18
+
+

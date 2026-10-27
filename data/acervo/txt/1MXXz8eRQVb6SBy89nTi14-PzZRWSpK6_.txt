@@ -1,0 +1,757 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Sistemas Orgânicos Integrados II
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 26/09/2025
+
+N1 ESPECÍFICA - MEDICINA - SOI II - 2025.2 - 1ª CHAMADA 26/SETEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17272 - CADERNO 001
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+
+Enunciado:
+(UNIREDENTOR) Um paciente é admitido no pronto-socorro com um quadro de rigidez muscular
+generalizada, contrações involuntárias persistentes (espasmos) e febre elevada (hipertermia),
+apesar de ter tido uma resposta inicial normal à estimulação nervosa voluntária. A equipe médica
+suspeita de uma intoxicação por uma substância que interfere no mecanismo de acoplamento
+excitação-contração no músculo esquelético, atuando especificamente na liberação
+descontrolada de cálcio pelo retículo sarcoplasmático.
+Avalie qual dos seguintes mecanismos de ação da substância tóxica seria o mais provável para
+explicar o quadro clínico de rigidez muscular.
+Alternativas:
+(alternativa A)
+Inibição das bombas de Ca2+-ATPase (SERCA) no retículo sarcoplasmático.
+(alternativa B) (CORRETA)
+Ativação persistente ou falha no fechamento dos canais de rianodina (RyR1).
+(alternativa C)
+Bloqueio irreversível dos receptores nicotínicos na junção neuromuscular.
+(alternativa D)
+Aumento significativo da atividade da acetilcolinesterase na fenda sináptica.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 1 de 21
+
+Resposta comentada:
+Alternativa correta: Ativação persistente ou falha no fechamento dos canais de rianodina (RyR1).
+Justificativa Correta: O acoplamento excitação-contração no músculo esquelético envolve a
+propagação de um potencial de ação pelo sarcolema e túbulos T, que, por meio de uma interação
+mecânica entre os receptores de di-hidropiridina (DHP) e os canais de liberação de cálcio (canaisreceptores de rianodina, RyR) no retículo sarcoplasmático (RS), libera cálcio (Ca2+) para o
+sarcoplasma. A ativação persistente ou a falha no fechamento dos canais RyR1 resultaria em
+uma liberação descontrolada e sustentada de Ca2+ do RS para o citosol. Essa alta concentração
+citosólica de Ca2+ mantém a troponina ligada ao cálcio, expondo os sítios de ligação da miosina
+na actina, o que promove ciclos contínuos de pontes cruzadas e, consequentemente, contração
+muscular sustentada e rigidez.
+Alternativas incorretas:
+Bloqueio irreversível dos receptores nicotínicos na junção neuromuscular.
+Justificativa: O bloqueio dos receptores nicotínicos de acetilcolina (ACh) na placa motora terminal
+impede a ligação da ACh liberada pelo nervo motor, consequentemente inibindo a geração do
+potencial de placa terminal e, por fim, o potencial de ação na fibra muscular. Isso resultaria em
+paralisia flácida (incapacidade de contrair o músculo) e não em rigidez ou contrações
+persistentes.
+Inibição das bombas de Ca2+-ATPase (SERCA) no retículo sarcoplasmático.
+Justificativa: As bombas SERCA são responsáveis por bombear ativamente o Ca2+ do citosol de
+volta para o lúmen do retículo sarcoplasmático, processo essencial para o relaxamento muscular.
+A inibição dessas bombas impediria o sequestro de Ca2+, mantendo sua concentração elevada
+no citosol, o que também levaria à contração muscular sustentada e rigidez. No entanto, a
+questão menciona uma "liberação descontrolada de cálcio intracelular". A falha na SERCA
+impediria o retorno do Ca2+ para o retículo sarcoplasmático e não levaria a uma liberação em
+excesso, como descrito no texto. Assim, a descrição não corresponde ao problema proposto.
+Aumento significativo da atividade da acetilcolinesterase na fenda sináptica.
+Justificativa: A acetilcolinesterase é a enzima responsável pela rápida degradação da ACh na
+fenda sináptica, garantindo que a ação do neurotransmissor seja breve. Um aumento na atividade
+da AChE diminuiria a quantidade de ACh disponível para se ligar aos receptores pós-sinápticos,
+resultando em uma transmissão sináptica ineficaz, potenciais de placa terminal reduzidos e,
+consequentemente, fraqueza muscular ou paralisia flácida, semelhante ao efeito do bloqueio dos
+receptores de ACh. Isso é oposto ao quadro de rigidez muscular persistente descrito.
+Referências:
+HALL, John E.; HALL, Michael E. Guyton & Hall Fundamentos de Fisiologia. 14. ed. Rio de
+Janeiro: GEN Guanabara Koogan, 2023.
+SILVERTHORN, Dee U. Fisiologia humana. 7. ed. Porto Alegre: ArtMed, 2017.
+Feedback:
+-2ª QUESTÃO
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 2 de 21
+
+Enunciado:
+(UNIDOMPEDRO) Um estudante de medicina analisa uma imagem esquemática do encéfalo e
+nota que o diencéfalo contém diversas estruturas associadas a funções essenciais, como a
+regulação da temperatura corporal, controle hormonal, comportamento emocional e integração
+sensorial. Ao revisar o papel de cada uma dessas estruturas, ele se depara com uma que atua
+como principal estação de retransmissão sensorial para o córtex cerebral, e outra envolvida no
+controle do sistema nervoso autônomo e da hipófise.
+Com base nas funções descritas, qual a alternativa que associa corretamente as estruturas
+diencefálicas às suas respectivas funções?
+
+Alternativas:
+(alternativa A)
+O tálamo é responsável pela regulação da homeostase e controle do sistema endócrino, enquanto
+o hipotálamo atua como centro de retransmissão sensorial.
+(alternativa B) (CORRETA)
+O tálamo atua como estação de retransmissão sensorial ao córtex cerebral, enquanto o
+hipotálamo regula funções autônomas e endócrinas.
+(alternativa C)
+O epitálamo é responsável pelo controle da temperatura corporal e regulação hormonal, enquanto
+o subtálamo atua como principal estação de retransmissão sensorial.
+(alternativa D)
+O subtálamo é o principal centro integrador de emoções, enquanto o epitálamo regula o ciclo
+sono-vigília e a pressão arterial.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 3 de 21
+
+Resposta comentada:
+Resposta Comentada
+Incorreta - O tálamo é responsável pela regulação da homeostase e controle do sistema
+endócrino, enquanto o hipotálamo atua como centro de retransmissão sensorial.
+Essa alternativa inverte as funções do tálamo e do hipotálamo.
+Incorreta - O epitálamo é responsável pelo controle da temperatura corporal e regulação
+hormonal, enquanto o subtálamo atua como principal estação de retransmissão sensorial.
+O epitálamo está mais relacionado com a glândula pineal e ritmos circadianos; o subtálamo não é
+responsável pela retransmissão sensorial.
+Correta - O hipotálamo regula funções autônomas e endócrinas, enquanto o tálamo atua como
+estação de retransmissão sensorial ao córtex cerebral.
+O tálamo funciona como a principal estação de retransmissão sensorial para o córtex cerebral,
+integrando informações sensoriais (exceto olfativas). O hipotálamo é responsável por funções
+como regulação da temperatura corporal, controle hormonal por meio da hipófise, comportamento
+emocional e funções autônomas.
+Incorreta - O subtálamo é o principal centro integrador de emoções, enquanto o epitálamo regula o
+ciclo sono-vigília e a pressão arterial.
+O subtálamo participa do controle motor, e o epitálamo não regula diretamente a pressão arterial.
+Referência:
+GRAAFF, Kent M. Van de. Anatomia Humana. 6. ed. Barueri: Manole, 2003. E-book. p. 343. ISBN
+9788520452677. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520452677/. Acesso em: 14 ago. 2025.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(UNIGRANRIO Caxias) As vias sensitivas são cadeias neuronais que unem receptores ao
+córtex, e ao chegarem ao cérebro, permitem a percepção da sensibilidade, isto é, a propriedade
+de detectar as modificações do meio interno ou externo e elaborá-las. Sobre as vias sensitivas,
+marque a alternativa correta.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 4 de 21
+
+Alternativas:
+(alternativa A)
+A via formada pelo trato tecto-espinal controla a orientação sensório-motora da cabeça,
+modulando a orientação do corpo a partir de estímulos visuais.
+(alternativa B)
+A via espino-reticular conduz informações sensoriais relacionadas ao tato discriminativo e
+propriocepção consciente diretamente ao córtex somatossensorial.
+(alternativa C) (CORRETA)
+A via espino-reticular conecta a medula espinhal à formação reticular do tronco encefálico,
+conduzindo estímulos de dor crônica e do estado de vigília e atenção.
+(alternativa D)
+A via da pressão e do tato protopático é constituída pelo trato espinotalâmico lateral que se une ao
+trato espinotalâmico anterior para formar o lemnisco espinhal.
+
+Resposta comentada:
+Incorreta: A via da pressão e do tato protopático é constituída pelo trato espino-talâmico lateral
+que se une ao trato espino-talâmico anterior para formar o lemnisco espinhal. - A via da pressão e
+do tato protopático é constituída pelo trato espino-talâmico anterior que se une ao trato espinotalâmico lateral para formar o lemnisco espinhal.
+Incorreta: A via espino-reticular conduz informações sensoriais relacionadas ao tato discriminativo
+e propriocepção consciente diretamente ao córtex somatossensorial. - A via espino-reticular
+conduz informações sensoriais relacionadas à dor crônica, difusa, em direção ao giro do cíngulo e
+à ínsula anterior.
+Correta: A via espino-reticular conecta a medula espinhal à formação reticular do tronco
+encefálico, conduzindo estímulos de dor crônica e do estado de vigília e atenção.
+Incorreta: A via formada pelo trato tecto-espinal controla a orientação sensório-motora da cabeça,
+modulando a orientação do corpo a partir de estímulos visuais. - essa via é motora.
+Referência:
+MACHADO, Angelo B.M. ; HAERTEL, L. M. Neuroanatomia funcional. 4ª ed. São Paulo: Atheneu,
+2021.
+Feedback:
+-4ª QUESTÃO
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 5 de 21
+
+Enunciado:
+(AFYA Garanhuns) Durante uma aula prática no laboratório de Histologia e Embriologia, o tutor
+apresenta o caso de um recém-nascido diagnosticado com meningocele, uma má formação
+associada ao tubo neural caracterizada pela protrusão das meninges através de uma falha óssea
+da coluna vertebral, formando uma bolsa preenchida por líquido cefalorraquidiano, sem afetar o
+conteúdo medular.
+(nervoso). Por meio do caso, o tutor propõe a discussão para revisar a histologia e o
+desenvolvimento embrionário das meninges.
+Com base nos seus conhecimentos, analise as alternativas abaixo e assinale a correta:
+Alternativas:
+(alternativa A)
+A aracnoide possui grande quantidade de vasos sanguíneos e é a principal responsável por nutrir
+o sistema nervoso central, deriva do mesênquima.
+(alternativa B)
+A dura-máter é a camada mais interna das meninges, em contato direto com os prolongamentos
+dos astrócitos, isolando o tecido nervoso, e deriva do mesênquima.
+(alternativa C) (CORRETA)
+A pia-máter é ricamente vascularizada, adere ao tecido nervoso e tem origem embrionária
+comum com a aracnoide derivada da leptomeninge, a partir da crista neural.
+(alternativa D)
+As vilosidades aracnoides são projeções da membrana aracnoide que participam da produção do
+líquor e possuem origem embrionária das cristas neurais.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 6 de 21
+
+Resposta comentada:
+"A pia-máter é ricamente vascularizada, adere ao tecido nervoso e tem origem embrionária
+comum com a aracnoide derivada da leptomeninge, a partir da crista neural." Correta. A pia-máter
+é uma meninge altamente vascularizada, aderente ao tecido nervoso, mas separada dele por
+prolongamentos de astrócitos. Embriologicamente, pia e aracnoide derivam da camada interna
+das meninges primitivas (leptomeninges).
+"A aracnoide possui grande quantidade de vasos sanguíneos e é a principal responsável por nutrir
+o sistema nervoso central, deriva do mesênquima." Incorreta. A aracnoide é considerada
+avascular. Sua principal função é formar o espaço subaracnóideo, que contém LCR, e participar
+da absorção do líquido por meio das vilosidades.
+"A dura-máter é a camada mais interna das meninges, em contato direto com os prolongamentos
+dos astrócitos, isolando o tecido nervoso, e deriva do mesênquima." Incorreta. A dura-máter é a
+camada mais externa, composta por tecido conjuntivo denso. Quem está em íntimo contato com
+os prolongamentos dos astrócitos é a meninge mais interna, ou seja, a pia-máter.
+"As vilosidades aracnoides são projeções da membrana aracnoide que participam da produção do
+líquor e possuem origem embrionária das cristas neurais." Incorreta. As vilosidades aracnoides
+não produzem LCR. Elas são especializações da aracnoide que atravessam a dura-máter até os
+seios venosos, tendo como função absorver o LCR para a circulação sanguínea.
+Referências:
+GARTNER, Leslie P. Tratado de Histologia. 5. ed. Rio de Janeiro: GEN Guanabara Koogan, 2022.
+E-book. p. 175. ISBN 9788595159003. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159003/. Acesso em: 25 ago. 2025.
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. p. 163. ISBN 9788527739283. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 25 ago. 2025.
+MOORE, Keith M.; PERSAUDE, T. V. N. Embriologia Clínica. 11. ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2020. E-book. p. 336. ISBN 9788595157811. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595157811/. Acesso em: 25 ago. 2025.
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(AFYA Paraíba) Sabe-se que o tronco encefálico é responsável por funções vitais como a
+regulação da respiração, controle cardiovascular, além de abrigar núcleos de nervos cranianos e
+permitir a passagem das vias ascendentes e descendentes. Com base em seus componentes,
+assinale a alternativa correta.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 7 de 21
+
+Alternativas:
+(alternativa A)
+No bulbo encontram-se os núcleos dos nervos cranianos III e IV, além de neurônios
+noradrenérgicos que participam do controle do ciclo do sono/vigília.
+(alternativa B) (CORRETA)
+No tecto do mesencéfalo, encontram-se os colículos superiores e inferiores, estruturas
+relacionadas respectivamente com reflexos visuais e auditivos.
+(alternativa C)
+Os pedúnculos cerebrais são a base do mesencéfalo, por lá passam as fibras do trato córticoespinal e lá ocorre o cruzamento da maioria dessas fibras.
+(alternativa D)
+A ponte possui apenas fibras verticais e exerce função exclusiva de conexão entre os hemisférios
+cerebrais graças aos pedúnculos cerebelares.
+
+Resposta comentada:
+Correta: No tecto do mesencéfalo, encontram-se os colículos superiores e inferiores, estruturas
+relacionadas respectivamente com reflexos visuais e auditivos.
+Incorreta: A ponte possui fibras verticais e exerce função exclusiva de conexão entre os
+hemisférios cerebrais graças aos pedúnculos cerebelares. A ponte possui fibras transversais que
+unem o tronco encefálico ao cerebelo e não os dois hemisférios cerebrais.
+Incorreta: No bulbo encontram-se os núcleos dos nervos cranianos III e IV, além de neurônios
+noradrenérgicos que participam do controle do ciclo do sono/vigília. Os núcleos dos pares III e IV
+estão no mesencéfalo e os neurônios ricos em nora estão no locus ceruleus, na parte superior do
+assoalho do IV ventrículo, parte posterior da ponte.
+Incorreta: Os pedúnculos cerebrais são a base do mesencéfalo, por lá passam as fibras do trato
+córtico-espinal e lá, mas o cruzamento da maioria dessas fibras ocorre na decussação das
+pirâmides.
+Referências:
+MOORE, Keith L.; DALLEY, Arthur F.; AGUR, Anne M. R. Anatomia orientada para a clínica. Rio
+de Janeiro: Guanabara Koogan, 2019.
+GUYTON, A. C.; HALL, J. E. Tratado de Fisiologia Médica. 12ª ed. Rio de Janeiro: Guanabara
+Koogan, 2016.
+Feedback:
+-6ª QUESTÃO
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 8 de 21
+
+Enunciado:
+(UNIPTAN) Em um estudo sobre adaptações musculares, foram analisadas amostras de tecido
+muscular esquelético de dois atletas de elite. O primeiro é um maratonista, que realiza treinos de
+longa duração com ritmo moderado e esforço contínuo. O segundo é um velocista, que executa
+movimentos explosivos de curta duração e alta intensidade. A análise revelou diferenças
+marcantes entre as fibras musculares predominantes em cada atleta quanto à coloração, tipo de
+metabolismo, velocidade de contração e resistência à fadiga.
+Com base nas características histológicas e funcionais das fibras musculares esqueléticas,
+marque a alternativa que associa corretamente o tipo de fibra predominante em cada atleta.
+Alternativas:
+(alternativa A)
+O maratonista apresenta fibras do tipo I, que são claras, com metabolismo anaeróbico e baixa
+resistência à fadiga; o velocista apresenta fibras do tipo II, que são escuras, com metabolismo
+aeróbico e contração lenta.
+(alternativa B) (CORRETA)
+O maratonista apresenta predominância de fibras do tipo I, que são escuras, com metabolismo
+aeróbico e alta resistência à fadiga; o velocista apresenta fibras do tipo II, que são claras, com
+metabolismo anaeróbico e contração rápida.
+(alternativa C)
+O maratonista apresenta predominância de fibras do tipo II, que são claras, com metabolismo
+anaeróbico e contração rápida; o velocista apresenta fibras do tipo I, que são escuras, com
+metabolismo aeróbico e contração lenta.
+(alternativa D)
+O maratonista apresenta predominância de fibras do tipo II, que são escuras, com metabolismo
+aeróbico e contração lenta; o velocista apresenta fibras do tipo I, que são claras, com
+metabolismo anaeróbico e contração rápida.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 9 de 21
+
+Resposta comentada:
+Fibras do tipo I (maratonistas): coloração escura (alta mioglobina), metabolismo aeróbico, muitas
+mitocôndrias, alta resistência à fadiga, contração lenta e sustentada são ideais para atividades de
+longa duração.
+Fibras do tipo II (velocistas): coloração clara (baixa mioglobina), metabolismo anaeróbico, menos
+mitocôndrias, contração rápida e fadiga precoce são ideais para movimentos explosivos e curtos.
+As alternativas incorretas apresentam combinações equivocadas de características histológicas
+e funcionais das fibras musculares tipo I e tipo II.
+Erros frequentes incluem:
+Inversão entre os atletas e os tipos de fibra: o maratonista, que realiza atividades de longa
+duração, exige fibras tipo I, e não tipo II; já o velocista, que realiza esforço curto e intenso,
+depende das fibras tipo II, não tipo I.
+Incorreta associação entre coloração e tipo de fibra: fibras tipo I são escuras, devido à alta
+concentração de mioglobina e mitocôndrias; fibras tipo II são claras, pois contêm menos
+mioglobina e mitocôndrias.
+Troca no metabolismo predominante: fibras tipo I utilizam metabolismo aeróbico, conferindo alta
+resistência à fadiga; fibras tipo II utilizam metabolismo anaeróbico, permitindo contrações rápidas,
+mas com rápida fatigabilidade.
+Confusão na velocidade de contração: fibras tipo I apresentam contração lenta e sustentada;
+fibras tipo II apresentam contração rápida e potente.
+Portanto, qualquer alternativa que atribua fibras tipo I ao velocista ou fibras tipo II ao maratonista,
+ou que associe características histológicas ou funcionais trocadas entre os tipos, está incorreta
+com base na literatura clássica de histologia e fisiologia do exercício.
+Referências:
+HALL, John E.; GUYTON, Arthur C. Guyton & Hall: Tratado de Fisiologia Médica. 14. ed. Rio de
+Janeiro: Elsevier, 2021.
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. p. 195. ISBN 9788527739283. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 27 ago. 2025.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(FACIMPA) A percepção dos odores ocorre por meio de receptores especializados que
+convertem sinais químicos em impulsos elétricos. A partir desse mecanismo inicial, os estímulos
+seguem por vias neurais até o encéfalo, onde influenciam respostas emocionais e
+comportamentais relacionadas à alimentação.
+Nesse contexto, analise as afirmativas abaixo a assinale a que explica esses mecanismos de
+transdução do estímulo que se integram às vias centrais, modulando respostas emocionais e
+alimentares.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 10 de 21
+
+Alternativas:
+(alternativa A)
+A detecção do odor ocorre por meio de mecanorreceptores localizados no epitélio mucoso da
+cavidade nasal, que desencadeiam potenciais graduados transmitidos ao córtex motor, onde se
+organizam comandos relacionados à ingestão alimentar.
+(alternativa B) (CORRETA)
+O odorante interage com receptores acoplados à proteína G, promovendo a formação de AMPc e
+a abertura de canais iônicos, originando potenciais de ação que alcançam o bulbo olfatório e, em
+seguida, áreas límbicas ligadas à regulação afetiva e alimentar.
+(alternativa C)
+A molécula odorífera é reconhecida por receptores associados ao retículo endoplasmático,
+ativando o influxo de cálcio, gerando potenciais de ação que seguem aos tratos da eminência
+mediana, onde ocorre o processamento de respostas emocionais e alimentares.
+(alternativa D)
+O estímulo odorífero atua sobre canais de potássio, provocando hiperpolarização da membrana,
+sendo o sinal transmitido ao tálamo e posteriormente conduzido à amígdala como forma de
+integração emocional.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 11 de 21
+
+Resposta comentada:
+O odorante interage com receptores acoplados à proteína G, promovendo a formação de AMPc e
+a abertura de canais iônicos, originando potenciais de ação que alcançam o bulbo olfatório e, em
+seguida, áreas límbicas ligadas à regulação afetiva e alimentar. Correta. O odorante interage com
+receptores acoplados à proteína G (receptores olfatórios), que ativam a adenilato ciclase,
+promovendo a formação de AMPc. Esse segundo mensageiro leva à abertura de canais
+catiônicos (principalmente Na⁺ e Ca²⁺), resultando em despolarização e potenciais de ação. Os
+sinais seguem até o bulbo olfatório e, posteriormente, para estruturas límbicas, como amígdala e
+hipotálamo, integrando emoções e comportamentos alimentares.
+A molécula odorífera é reconhecida por receptores associados ao retículo endoplasmático,
+ativando o influxo de cálcio, gerando potenciais de ação que seguem aos tratos da eminência
+mediana, onde ocorre o processamento de respostas emocionais e alimentares. Incorreta. Não
+há receptores olfatórios associados ao retículo endoplasmático, tampouco a eminência mediana é
+centro de processamento de estímulos olfatórios. Essa estrutura está ligada a funções
+neuroendócrinas e não ao processamento primário de odores.
+O estímulo odorífero atua sobre canais de potássio, provocando hiperpolarização da membrana,
+sendo o sinal transmitido ao tálamo e posteriormente conduzido à amígdala como forma de
+integração emocional. Incorreta. O estímulo olfatório não age sobre canais de potássio,
+provocando hiperpolarização. O mecanismo real envolve despolarização mediada por canais de
+sódio e cálcio. Além disso, a via olfatória inicial não passa obrigatoriamente pelo tálamo antes de
+atingir a amígdala; ela segue do bulbo olfatório para áreas límbicas diretamente.
+A detecção do odor ocorre por meio de mecanorreceptores localizados no epitélio mucoso da
+cavidade nasal, que desencadeiam potenciais graduados transmitidos ao córtex motor, onde se
+organizam comandos relacionados à ingestão alimentar. Incorreta. A detecção de odores não
+envolve mecanorreceptores, mas quimiorreceptores. Além disso, o córtex motor não é o destino
+primário do processamento olfatório, sendo este direcionado principalmente para regiões límbicas
+e o córtex piriforme.
+Referência:
+HALL, John E.; GUYTON, Arthur C. Guyton & Hall: Tratado de Fisiologia Médica. 14. ed. Rio de
+Janeiro: Elsevier, 2021.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(AFYA Manacapuru) João, um estudante universitário, tem um ciclo de sono-vigília bem regulado,
+despertando naturalmente por volta das 6h da manhã. Ele percebe que a exposição à luz solar
+logo ao acordar o ajuda a se sentir mais alerta e disposto. Esse processo é fundamental para a
+regulação do ritmo circadiano que depende da ação de uma estrutura cerebral que recebe
+diretamente informações luminosas da retina. Com base nesse contexto a estrutura responsável
+éo
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 12 de 21
+
+Alternativas:
+(alternativa A)
+Corpo pineal do epitálamo no diencéfalo.
+(alternativa B) (CORRETA)
+Núcleo supraquiasmático do hipotálamo no diencéfalo.
+(alternativa C)
+Núcleo arqueado do tálamo no diencéfalo.
+(alternativa D)
+Colículo inferior do mesencéfalo no tronco encefálico.
+
+Resposta comentada:
+Núcleo arqueado do hipotálamo (diencéfalo): incorreto. Esse núcleo regula secreção de
+hormônios hipofisários (ex.: hormônio do crescimento, GnRH) e controle da ingestão alimentar,
+não o ritmo circadiano.
+Núcleo supraquiasmático do hipotálamo (diencéfalo): correto. É o principal marca-passo
+circadiano do organismo. Recebe aferências da retina (trato retino-hipotalâmico) e coordena o
+ciclo sono-vigília.
+Corpo pineal do epitálamo (diencéfalo): incorreto. Produz melatonina, importante para o sono, mas
+não recebe luz diretamente; sua atividade é modulada pelo núcleo supraquiasmático.
+Colículo superior do mesencéfalo (tronco encefálico): incorreto. Relacionado a reflexos visuais e
+movimentos oculares, não à regulação circadiana.
+Referências:
+HALL, John E.; HALL, Michael E. Guyton & Hall: tratado de fisiologia médica. 14ª ed. Rio de
+Janeiro: Editora Guanabara Koogan, 2021.
+SPLITTGERBER, Ryan. Snell neuroanatomia clínica. 8. ed. Rio de Janeiro: Guanabara Koogan,
+2021.
+Feedback:
+-9ª QUESTÃO
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 13 de 21
+
+Enunciado:
+(UNIGRANRIO Caxias) Durante a aula prática de SOI, foram utilizadas lanternas clínicas e a luz
+foi aplicada sobre os olhos de uma determinada acadêmica, com o objetivo de observar o reflexo
+fotomotor. Com a presença da luz, ocorreu redução no diâmetro das pupilas (miose), que reduz a
+entrada de luz no globo ocular.
+Com relação ao efeito observado, analise as asserções e marque a alternativa que contenha
+todas as afirmações corretas.
+I - A miose ocorre por ação do nervo oculomotor (terceiro par craniano).
+II - O neurotransmissor que causa a miose é a noradrenalina.
+III - A miose ocorre por ação do sistema parassimpático sobre o músculo circular (esfincteriano)
+da íris.
+Alternativas:
+(alternativa A)
+Apenas a afirmativa II está correta.
+(alternativa B)
+Apenas as afirmativas II e III estão corretas.
+(alternativa C) (CORRETA)
+Apenas as afirmativas I e III estão corretas.
+(alternativa D)
+Apenas as afirmativas I e II estão corretas.
+
+Resposta comentada:
+Correta: Apenas as afirmativas I e III estão corretas.
+As afirmativas I e III estão corretas, porque a miose que ocorre em resposta à presença de luz é
+resultado da ativação de fibras do sistema parassimpático que fazem parte do nervo oculomotor
+(terceiro par craniano).
+A alternativa II está errada, porque a noradrenalina é o neurotransmissor do sistema simpático, e
+o sistema simpático promove midríase em baixa luminosidade, não estando relacionado à miose.
+Referências:
+HALL, John E.; HALL, Michael E. Guyton & Hall - Tratado de Fisiologia Médica. 14ª edição. Rio de
+Janeiro: GEN Guanabara Koogan, 2023. E-book. ISBN 9788595159518. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159518/. Acesso em: 30 ago. 2025.
+MACHADO, Angelo B. M. Neuroanatomia funcional. 4ª ed. São Paulo: Atheneu Editora, 2021. 2ª
+edição. Rio de Janeiro: Thieme Revinter, 2015. E-book. ISBN 9788554651596. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788554651596/. Acesso em: 30 ago. 2025.
+Feedback:
+--
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 14 de 21
+
+10ª QUESTÃO
+Enunciado:
+(FASA VIC) A exposição contínua a sons de alta intensidade é uma causa de surdez, perda
+auditiva significativa ou total, uma vez que danifica as células ciliadas da cóclea. Quanto mais
+altos os sons, mais rápida a perda auditiva. A surdez geralmente começa com a perda de
+sensibilidade para sons agudos, contudo, a maioria das pessoas não percebe sua perda auditiva
+progressiva até que a destruição seja extensa e comecem a ter dificuldade em entender a fala.
+Adaptado de TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia.
+16. ed. Rio de Janeiro: Guanabara Koogan, 2023. E-book. p. 630. ISBN 9788527739368.
+Disponível em: https://app.minhabiblioteca.com.br/reader/books/9788527739368/. Acesso em: 29
+ago. 2025.
+Considerando esse processo, avalie as asserções a seguir e a relação proposta entre elas.
+I. A cóclea contém o órgão de Corti, onde as células ciliadas internas promovem a transdução
+das vibrações mecânicas em sinais elétricos destinados ao nervo coclear.
+Porque
+II. A via auditiva inicia-se nas células ciliadas da cóclea, que liberam neurotransmissores e geram
+potenciais nos neurônios auditivos de primeira ordem. Seus axônios formam a porção coclear do
+nervo vestibulococlear (VIII), conduzindo os sinais ao encéfalo para processamento.
+A respeito dessas asserções, assinale a opção correta.
+Alternativas:
+(alternativa A)
+A asserção I é uma proposição verdadeira e a II é uma proposição falsa.
+(alternativa B)
+A asserção I é uma proposição falsa e a II é uma proposição verdadeira.
+(alternativa C) (CORRETA)
+As asserções I e II são proposições verdadeiras e a II é uma justificativa correta da I.
+(alternativa D)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 15 de 21
+
+Resposta comentada:
+Gabarito: As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+Justificativa das alternativas:
+Alternativa Correta: As asserções I e II são proposições verdadeiras, e a II é uma justificativa
+correta da I.
+A asserção I está correta: a cóclea abriga o órgão de Corti, no qual as células ciliadas internas
+convertem estímulos mecânicos em potenciais receptores. Esses sinais são então transmitidos
+ao nervo coclear.
+A asserção II também está correta: a estimulação das células ciliadas provoca liberação de
+glutamato, gerando potenciais de ação nos neurônios do gânglio espiral de Corti (neurônios de
+primeira ordem). Seus axônios compõem a divisão coclear do nervo vestibulococlear (VIII), que
+leva a informação auditiva até os núcleos cocleares no tronco encefálico.
+Relação: a II complementa e justifica a I, pois descreve o mecanismo neural subsequente à
+transdução.
+Alternativa Incorreta: As asserções I e II são proposições verdadeiras, mas a II não é uma
+justificativa correta da I.
+Embora ambas sejam verdadeiras, a II não é apenas uma proposição independente, mas sim
+uma explicação causal da I. Logo, não se pode separar como não justificativa.
+Alternativa Incorreta: A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+A I é verdadeira (há transdução no órgão de Corti).
+A II também é verdadeira, e não falsa, porque descreve corretamente o início da via auditiva.
+Alternativa Incorreta: A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+A I não é falsa: a transdução ocorre de fato no órgão de Corti pelas células ciliadas internas.
+Portanto, a proposição de que I seria falsa está equivocada.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. 16. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. p. 631. ISBN 9788527739368. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527739368/. Acesso em: 29 ago. 2025.
+Feedback:
+-11ª QUESTÃO
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 16 de 21
+
+Enunciado:
+(AFYA Bragança) O líquido cefalorraquidiano (LCR) é um componente vital para a homeostasia
+do Sistema Nervoso Central, atuando principalmente na proteção do tecido neural. Com relação à
+sua produção, circulação e absorção, analise as afirmativas a seguir e indique a alternativa
+correta.
+I. O plexo coroide, localizado nos ventrículos cerebrais, é o principal sítio de produção do LCR,
+bombeando seletivamente solutos como sódio para o interior dos ventrículos.
+II. Após ser produzido, o LCR flui do sistema ventricular para o espaço subaracnóideo, pelos
+recessos laterais e pelo forame de Monro.
+III. A absorção do LCR de volta para o sangue ocorre através de vilosidades especializadas na
+membrana aracnoide, as granulações aracnoides.
+IV. A circulação do LCR é um processo estático, com seu volume sendo renovado apenas uma
+vez por semana para manter a constância do meio extracelular neuronal.
+Alternativas:
+(alternativa A)
+Apenas as afirmativas I, II e IV estão corretas.
+(alternativa B)
+Apenas as afirmativas II e IV estão corretas.
+(alternativa C) (CORRETA)
+Apenas as afirmativas I e III estão corretas.
+(alternativa D)
+Apenas as afirmativas I, II e III estão corretas.
+
+Resposta comentada:
+As afirmativas I e III estão corretas. Como descrito na sentença I, o plexo coroide, localizado nos
+ventrículos, é responsável pela secreção ativa do LCR, bombeando solutos e criando um
+gradiente osmótico que arrasta água. A sentença III acerta sobre a absorção do líquor de volta ao
+sistema de drenagem sanguínea, pelas granulações aracnoideas.
+Já as sentenças II e IV estão equivocadas. Na II, o erro está na saída do líquor para o espaço
+subaracnoideo, que se dá pelos recessos laterais (forame de Luska) e abertura mediana (forame
+de Magendie), e não pelo forame de Monro (passagem do líquor dos VL para o III ventrículo). A IV
+está incorreta, pois a circulação do LCR é um processo dinâmico, com produção contínua pelos
+plexos coroides e renovação de três a quatro vezes ao dia, garantindo a estabilidade do meio
+extracelular neuronal.
+Referência:
+SILVERTHORN, Dee U. Fisiologia humana. 7. ed. Porto Alegre: ArtMed. E-book. p. 280. ISBN
+9788582714041. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788582714041/. Acesso em: 28 ago. 2025.
+Feedback:
+-12ª QUESTÃO
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 17 de 21
+
+Enunciado:
+(AFYA Itabuna) Os nervos espinhais conectam o sistema nervoso central a diferentes estruturas
+corporais. Em relação à sua formação e função, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Os nervos espinhais não possuem gânglios associados, pois os corpos celulares dos neurônios
+sensitivos estão localizados na medula.
+(alternativa B)
+A raiz posterior contém axônios motores, a raiz anterior contém axônios sensitivos e os corpos
+celulares neuronais encontram-se nos gânglios espinais.
+(alternativa C)
+Todos os nervos espinhais emergem acima de suas vértebras correspondentes em toda a coluna
+vertebral.
+(alternativa D) (CORRETA)
+As raízes posterior e anterior unem-se no forame intervertebral, formando nervos espinhais
+classificados como mistos.
+
+Resposta comentada:
+A raiz posterior contém fibras sensitivas, incluindo o gânglio espinal (corpos celulares dos
+neurônios sensitivos). Já a raiz anterior contém axônios motores. Ao se unirem, formam nervos
+mistos, e não apenas motores. As duas raízes se unem no forame intervertebral, originando um
+nervo espinhal que transporta fibras sensitivas e motoras, sendo, portanto, um nervo misto.
+Somente os nervos cervicais C1 a C7 emergem acima de suas vértebras correspondentes. O
+nervo C8 emerge entre C7 e T1, e a partir de T1 todos os demais saem abaixo da vértebra
+correspondente.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. 16ª ed. Rio de
+Janeiro: Guanabara Koogan, 2023.
+Feedback:
+-13ª QUESTÃO
+Enunciado:
+(AFYA Itacoatira) Um paciente sofreu um Acidente Vascular Cerebral (AVC), condição
+neurológica causada pela interrupção do fluxo sanguíneo em uma área do cérebro, resultando em
+morte celular e comprometimento funcional. No caso descrito, o AVC afetou a região cerebral em
+que se localiza exatamente o giro pré-central do hemisfério esquerdo. Sabe-se que, dependendo
+da extensão e do local da lesão, o AVC pode causar alterações motoras, sensoriais, cognitivas e
+emocionais. Com base no texto e em seus conhecimentos adquiridos previamente, marque a
+alternativa correta.
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 18 de 21
+
+Alternativas:
+(alternativa A)
+Pelo local da lesão, o paciente teve prejuízos cognitivos e comportamentais.
+(alternativa B)
+Pelo local da lesão, a perda de sensibilidade do lado esquerdo pode ter sido uma consequência.
+(alternativa C) (CORRETA)
+Pelo local da lesão, a hemiplegia do lado direito do corpo pode ter sido uma consequência.
+(alternativa D)
+Pelo local da lesão, o paciente perdeu os movimentos do lado esquerdo.
+
+Resposta comentada:
+O giro pré-central abriga a área motora primária, responsável por controlar os movimentos
+voluntários do lado oposto ao hemisfério cerebral. Lesões no giro pré-central do hemisfério
+esquerdo provocam perdas motoras do lado direito do corpo, podendo ter como consequência um
+quadro de hemiplegia.
+Referência:
+HALL, John E.; HALL, Michael E. Guyton & Hall. Tratado de Fisiologia Médica. 14. ed. Rio de
+Janeiro: Editora Guanabara Koogan, 2021.
+Feedback:
+-14ª QUESTÃO
+Enunciado:
+(IESVAP) Durante uma aula de Fisiologia, os estudantes discutem o mecanismo de
+neurotransmissão sináptica em neurônios do sistema nervoso central. Comentam a liberação e a
+ação de neurotransmissores moduladores, excitatórios e inibitórios. Com base na temática,
+explique a fisiologia da neurotransmissão sináptica, abordando o papel dos neurotransmissores
+excitatórios, inibitórios e moduladores e o mecanismo básico de liberação e ação dos
+neurotransmissores na fenda sináptica.
+Alternativas:
+--
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 19 de 21
+
+Resposta comentada:
+Resposta comentada esperada:
+Neurotransmissores excitatórios (ex.: glutamato) promovem despolarização da membrana póssináptica, aumentando a probabilidade de disparo de potencial de ação.
+Neurotransmissores inibitórios (ex.: GABA) causam hiperpolarização, diminuindo a excitabilidade
+do neurônio.
+Neurotransmissores moduladores (ex.: dopamina, serotonina) ajustam a intensidade ou duração
+da resposta sináptica, sem gerar despolarização direta.
+Mecanismo básico da neurotransmissão: chegada do impulso ao terminal pré-sináptico →
+abertura de canais de Ca²⁺ → exocitose de vesículas com neurotransmissores → ligação a
+receptores pós-sinápticos → alteração da permeabilidade iônica → potencial pós-sináptico
+(excitatório ou inibitório).
+Resultado: os neurotransmissores determinam se o neurônio pós-sináptico será mais ou menos
+excitável, permitindo comunicação eficiente entre neurônios.
+Referência:
+Guyton, A. C., & Hall, J. E. (2021). Tratado de Fisiologia Médica (14ª ed.). Elsevier.
+Feedback:
+-15ª QUESTÃO
+Enunciado:
+(FMIT) Durante a infância e a adolescência, o crescimento ósseo ocorre de forma contínua e
+coordenada, sendo essencial para o desenvolvimento corporal adequado. Esse processo
+depende de fatores celulares, teciduais e hormonais que interagem para garantir a formação,
+remodelação e alongamento dos ossos longos. Considerando a temática:
+a) Descreva a função da cartilagem epifisária (placa de crescimento) no alongamento dos ossos
+longos. (1,25 pontos)
+b) Explique os principais eventos celulares envolvidos no processo de ossificação endocondral
+durante o crescimento ósseo. (1,25 pontos)
+Alternativas:
+--
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 20 de 21
+
+Resposta comentada:
+a) Cartilagem epifisária:
+A placa epifisária é formada por cartilagem hialina localizada entre a epífise e a diáfise dos ossos
+longos.
+É responsável pelo crescimento em comprimento dos ossos, através da proliferação de
+condrócitos.
+À medida que os condrócitos proliferam, sofrem hipertrofia e são substituídos por tecido ósseo,
+permitindo o alongamento.
+b) Eventos celulares da ossificação endocondral:
+Proliferação de condrócitos na placa epifisária, formando colunas celulares.
+Hipertrofia e apoptose dos condrócitos, deixando lacunas que serão ocupadas por matriz
+calcificada.
+Invasão de vasos sanguíneos e migração de osteoblastos e osteoclastos para a região.
+Deposição de matriz óssea pelos osteoblastos, substituindo a cartilagem por tecido ósseo.
+Referências:
+GUYTON, Arthur C.; HALL, John E. Tratado de fisiologia médica. 13. ed. Rio de Janeiro: Elsevier,
+2017.
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. p. 144. ISBN 9788527739283. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 26 ago. 2025.
+
+Feedback:
+--
+
+000172.72001f.612ed4.7fb440.770a78.54730c.76f26f.69f5f
+
+Pgina 21 de 21
+
+

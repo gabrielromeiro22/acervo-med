@@ -1,8 +1,8 @@
 import type { ReactNode } from 'react'
 import { Link } from 'react-router-dom'
-import { Check, MessageSquareText, NotebookPen, Star, X } from 'lucide-react'
+import { Check, FileText, MessageSquareText, NotebookPen, Star, X } from 'lucide-react'
 import type { Question } from '../data/types'
-import { DIF_LABEL, LETTERS } from '../lib/format'
+import { DIF_LABEL, LETTERS, periodoLabel } from '../lib/format'
 import { toggleFavorite, useStore } from '../lib/store'
 
 export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
@@ -20,10 +20,11 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
       <div className="mb-4 flex flex-wrap items-center gap-2">
         {index && <span className="chip border-accent/40 font-semibold text-accent">{index}</span>}
         <span className="chip">{q.disciplina}</span>
+        {q.materia && <span className="chip border-accent/30 text-ink">{q.materia}</span>}
         <span className="chip">{q.tema}</span>
-        <span className="chip">{q.periodo}º período</span>
+        {q.periodo > 0 && <span className="chip">{periodoLabel(q.periodo)}</span>}
         <span className="chip">{DIF_LABEL[q.dificuldade]}</span>
-        {q.fonte && <span className="chip">{q.fonte}</span>}
+        {q.prova ? <span className="chip" title={q.fonte}>{q.prova}{q.numero ? ` · Q${q.numero}` : ''}</span> : q.fonte && <span className="chip">{q.fonte}</span>}
         <span className="ml-auto" />
         {badge}
         <button
@@ -36,6 +37,12 @@ export function QuestionCard({ q, chosen, reveal, onChoose, index, badge }: {
       </div>
 
       <p className="whitespace-pre-line leading-relaxed">{q.enunciado}</p>
+      {q.arquivo && (
+        <a href={`https://drive.google.com/file/d/${q.arquivo}/view`} target="_blank" rel="noopener"
+          className={`mt-3 inline-flex items-center gap-1.5 text-xs font-semibold hover:underline ${q.imagem ? 'text-warn' : 'text-mute'}`}>
+          <FileText className="size-3.5" /> {q.imagem ? 'Esta questão tem imagem: ver no PDF original' : 'Ver PDF original'}
+        </a>
+      )}
 
       <ol className="mt-5 space-y-2">
         {q.alternativas.map((alt, i) => {

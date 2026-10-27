@@ -1,0 +1,500 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade VIII
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_8 PERIODO_10ABRIL_2025.1_IESC
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15540 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(FIP GUANAMBI) Um médico de plantão recebe em um Hospital Regional (SUS) um paciente
+com suspeita de Infarto Agudo do Miocárdio (IAM). No entanto, o hospital está com a capacidade
+de leitos de UTI esgotada. O médico precisa tomar uma decisão que garanta o atendimento
+especializado de urgência ao paciente.
+Com base no caso e nos princípios da regulação em saúde, assinale a alternativa que
+corresponde à ação apropriada a ser executada pelo médico.
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar a estabilização clínica inicial do paciente e acionar a Central de Regulação para identificar
+e transferir o paciente para um hospital com leitos de UTI disponíveis.
+(alternativa B)
+Informar o paciente e sua família sobre a falta de leitos disponíveis e sugerir que procurem um
+hospital privado para atendimento imediato.
+(alternativa C)
+Encaminhar o paciente diretamente para o hospital mais próximo com UTI, sem consulta prévia à
+Central de Regulação, para otimizar o tempo de atendimento.
+(alternativa D)
+Manter o paciente em observação na enfermaria, até que um leito da Unidade de Terapia
+Intensiva seja desocupado, no mesmo hospital.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 1 de 13
+
+Resposta comentada:
+A regulação em saúde tem como um de seus pilares a articulação entre unidades de saúde para
+garantir o acesso oportuno e equitativo ao atendimento especializado, como leitos de UTI.
+A estabilização clínica inicial é essencial para garantir a segurança do paciente enquanto se
+organiza a transferência.
+Acionar a Central de Regulação é obrigatório, pois ela coordena a alocação de recursos, como
+leitos, de forma transparente e eficiente.
+Desconsiderar a regulação formal e indicar local privado para atendimento imediato, pode
+comprometer a saúde do paciente e retardar o atendimento, além de violar o princípio da
+universalidade do SUS.
+Referência:
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Regulação,
+Avaliação e Controle de Sistemas. *Curso básico de regulação do Sistema Único de Saúde –
+SUS* [recurso eletrônico]. Brasília: Ministério da Saúde, 2016. 227 p.: il.
+
+2ª QUESTÃO
+Enunciado:
+(UNIDEP) Uma Unidade Básica de Saúde (UBS) atende uma população de 10.000 habitantes,
+sendo que 7.000 estão cadastrados no sistema de informação da APS. O município onde a UBS
+está localizada conta com três equipes de Saúde da Família (eSF) e uma equipe de Atenção
+Primária (eAP). O gestor municipal, preocupado com a sustentabilidade financeira dos serviços,
+precisa avaliar como o modelo de financiamento da APS impacta os repasses recebidos e a
+organização do cuidado.
+Considerando essa situação, compare o modelo Previne Brasil (portaria nº 2.979/2019) com as
+diretrizes estabelecidas pela Portaria GM/MS nº 3.493, de 10 de abril de 2024, e responda:
+a) Como cada modelo define a distribuição financeira para o município, em termos de critérios de
+repasse de recurso/componentes do financiamento?
+Alternativas:
+--
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 2 de 13
+
+Resposta comentada:
+Critérios de repasse de recursos.
+No Previne Brasil, o financiamento da APS é baseado em três componentes principais: capitação
+ponderada, pagamento por desempenho e incentivos para ações estratégicas. A capitação
+ponderada considera o número de pessoas cadastradas na APS, ponderando fatores como
+vulnerabilidade socioeconômica. O pagamento por desempenho avalia indicadores de saúde,
+como cobertura vacinal e controle de doenças crônicas. Já os incentivos estratégicos englobam
+ações prioritárias, como saúde indígena e populações ribeirinhas. (0,75).
+Já a portaria GM/MS nº 3.493/2024 traz alterações importantes, ampliando os critérios de
+financiamento para fortalecer a universalidade do acesso e a equidade. A nova regra busca
+garantir uma base fixa de financiamento, reduzindo a dependência exclusiva do número de
+cadastrados e do desempenho. Assim, municípios que apresentam dificuldades de
+cadastramento ou que atendem populações não registradas no sistema têm maior previsibilidade
+de recursos.
+"Art. 9º O cofinanciamento federal de apoio à manutenção da Atenção Primária à Saúde (APS)
+será constituído por:
+I - componente fixo para manutenção das equipes de Saúde da Família - eSF e das equipes de
+Atenção Primária - eAP e recurso de implantação para eSF, eAP, equipes de Saúde Bucal - eSB
+e equipes Multiprofissionais - eMulti;
+II - componente de vínculo e acompanhamento territorial para as eSF e eAP;
+III - componente de qualidade para as eSF, eAP, eSB e eMulti;
+IV - componente para implantação e manutenção de programas, serviços, profissionais e outras
+composições de equipes que atuam na APS;
+V - componente para Atenção à Saúde Bucal; e
+VI - componente per capita de base populacional para ações no âmbito da APS. (0,75).
+Referências:
+BRASIL. Ministério da Saúde. Portaria GM/MS nº 3.493, de 10 de abril de 2024. Altera normas de
+financiamento da Atenção Primária à Saúde no âmbito do SUS. Diário Oficial da União: seção 1,
+Brasília, DF, 2024. Acesso em: 24 mar. 2025.
+BRASIL. Ministério da Saúde. Portaria nº 2.979, de 12 de novembro de 2019. Institui o Programa
+Previne Brasil, que estabelece novo modelo de financiamento de custeio da Atenção Primária à
+Saúde no âmbito do SUS. Diário Oficial da União: seção 1, Brasília, DF, 2019. Acesso em: 24
+mar. 2025.
+
+3ª QUESTÃO
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 3 de 13
+
+Enunciado:
+(AFYA PALMAS) O Dr. João, recém-formado em Medicina, decidiu abrir seu próprio consultório
+médico. Para garantir o sucesso do empreendimento, ele começou a planejar cuidadosamente as
+etapas necessárias para viabilizar sua clínica. Ao estudar sobre empreendedorismo na área da
+saúde, ele identificou que algumas etapas são essenciais para a abertura de um consultório
+médico de forma estruturada e sustentável.
+Com base no processo de abertura de um consultório/clínica médica particular, analise os itens a
+seguir.
+I. Elaborar um plano de negócios, definindo os serviços oferecidos, público-alvo, custos e
+projeções financeiras.
+II. Escolher a localização adequada, considerando fatores como acessibilidade, demanda
+local e concorrência.
+III. Realizar marketing e divulgação, criando identidade visual, presença digital e
+estratégias de captação de pacientes.
+Assinale a alternativa que apresenta a combinação correta dos itens mencionados.
+Alternativas:
+(alternativa A)
+Apenas os itens I e III estão corretos.
+(alternativa B) (CORRETA)
+Os itens I, II e III estão corretos.
+(alternativa C)
+Apenas os itens II e III estão corretos.
+(alternativa D)
+Apenas os itens I e II estão corretos.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 4 de 13
+
+Resposta comentada:
+Os itens I, II e III estão corretos.
+Justificativa:
+Todos os três itens são fundamentais para a abertura e o sucesso de um consultório/clínica
+médica particular:
+Item I - Correto: elaboração de um plano de negócios é essencial para estruturar o
+empreendimento, prever desafios e garantir a sustentabilidade financeira do consultório.
+Item II - Correto: a escolha da localização é um dos fatores mais importantes para o
+sucesso da clínica, pois influencia a acessibilidade dos pacientes, concorrência e
+demanda local.
+Item III - Correto: estratégias de marketing e divulgação são indispensáveis para atrair
+e fidelizar pacientes, seja por meio de identidade visual, presença digital ou ações de
+captação de público.
+Referência:
+TERRIM, Sara; MELO, Adler Araújo Ribeiro; JÁCOMO, Alfredo Luiz. Empreendedorismo em
+saúde: relato de um modelo de Empresa Júnior em Medicina. Revista de Medicina, v. 94, n. 2, p.
+94-98, 2015.
+4ª QUESTÃO
+Enunciado:
+(UNIPTAN) Uma Unidade Básica de Saúde (UBS) está enfrentando desafios relacionados a
+conflitos interpessoais entre os profissionais da equipe multiprofissional. Alguns membros relatam
+dificuldades na comunicação e percebem uma falta de espaço para expressar suas
+preocupações, enquanto outros mencionam que a sobrecarga de trabalho tem contribuído para
+tensões no ambiente. O gestor da UBS busca implementar estratégias eficazes para lidar com os
+conflitos e melhorar a colaboração entre os profissionais.
+Diante desse cenário, qual das estratégias a seguir é a mais adequada para promover a
+mediação dos conflitos interpessoais na equipe da UBS?
+Alternativas:
+(alternativa A)
+Estabelecer um rodízio de funções na equipe, reduzindo a permanência prolongada dos
+profissionais nos mesmos setores para evitar tensões interpessoais.
+(alternativa B) (CORRETA)
+Implementar reuniões estruturadas de equipe, com a mediação da gestão, para discutir
+dificuldades do ambiente de trabalho, incentivar a escuta ativa e buscar soluções colaborativas.
+(alternativa C)
+Criar um canal anônimo para que os profissionais relatem insatisfações e direcionar as decisões
+sobre os conflitos exclusivamente à coordenação da unidade.
+(alternativa D)
+Priorizar a divisão formal de tarefas, delimitando rigorosamente o papel de cada profissional e
+reduzindo a necessidade de interações no ambiente de trabalho.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 5 de 13
+
+Resposta comentada:
+Implementar reuniões estruturadas de equipe, com a mediação da gestão, para discutir
+dificuldades do ambiente de trabalho, incentivar a escuta ativa e buscar soluções colaborativas.
+O uso de reuniões estruturadas com mediação adequada permite que os profissionais expressem
+suas preocupações e participem ativamente da resolução de conflitos. A escuta ativa e a
+comunicação aberta são fundamentais para fortalecer o trabalho em equipe e criar um ambiente
+mais colaborativo e produtivo.
+Explicação das alternativas incorretas:
+Criar um canal anônimo para que os profissionais relatem insatisfações e direcionar as decisões
+sobre os conflitos exclusivamente à coordenação da unidade. Incorreta - Embora um canal
+anônimo possa permitir queixas, ele não promove o diálogo direto entre os envolvidos e pode
+dificultar a construção de soluções compartilhadas.
+Estabelecer um rodízio de funções na equipe, reduzindo a permanência prolongada dos
+profissionais nos mesmos setores para evitar tensões interpessoais. Incorreta. O rodízio de
+funções pode ser útil em algumas situações, mas não resolve os conflitos interpessoais, podendo
+apenas deslocá-los para outros setores da unidade.
+Priorizar a divisão formal de tarefas, delimitando rigorosamente o papel de cada profissional e
+reduzindo a necessidade de interações no ambiente de trabalho. Incorreta. A delimitação rígida
+das funções pode reduzir a interação entre os profissionais, mas não soluciona a origem dos
+conflitos e pode comprometer o trabalho em equipe.
+Referência:
+LOCH, S. et al. Gestão da Unidade de Saúde. In: GUSSO, Gustavo, et al. Tratado de Medicina de
+Família e Comunidade: Princípios, Formação e Prática. 2ª ed. Grupo A, 2018. Cap. 46.
+
+5ª QUESTÃO
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 6 de 13
+
+Enunciado:
+(UNINOVAFAPI) Durante reunião com o conselho municipal de saúde do município Felicidade, o
+gestor municipal apresentou os instrumentos para o planejamento e a gestão do Sistema Único
+de Saúde (SUS). Entre esses, o gestor comentou sobre o instrumento de gestão que orienta o
+planejamento da saúde pública por quatro anos. Ele é a base para as atividades e a programação
+do SUS em cada esfera de governo e descreve os compromissos do governo para o setor saúde
+a partir das necessidades de saúde da população e as peculiaridades próprias de cada esfera.
+Diante do exposto, marque o instrumento de gestão tratado no enunciado.
+Alternativas:
+(alternativa A)
+Relatório de gestão.
+
+(alternativa B) (CORRETA)
+Plano de saúde.
+
+(alternativa C)
+Prestação de contas.
+
+(alternativa D)
+Programação anual de saúde.
+
+Resposta comentada:
+Correta: plano de saúde representa o instrumento central de planejamento para definição e
+implementação de todas as iniciativas no âmbito da saúde de cada esfera da gestão do SUS para
+o período de quatro anos. Ele explicita os compromissos do governo para o setor saúde e reflete,
+a partir da análise situacional, as necessidades de saúde da população e as peculiaridades
+próprias de cada esfera. A elaboração do plano de saúde deve ser orientada pelas necessidades
+de saúde da população.
+Incorreta: relatório de gestão é o instrumento de administração com elaboração anual que permite
+ao gestor apresentar os resultados alcançados com a execução da programação anual de saúde
+e orienta eventuais redirecionamentos que se fizerem necessários no plano de saúde.
+Incorreta: prestação de contas é o demonstrativo das despesas com saúde integrante do relatório
+resumido da execução orçamentária.
+Incorreta: programação anual de saúde é o instrumento que operacionaliza as intenções
+expressas no plano de saúde e tem por objetivo anualizar as metas do plano de saúde e prever a
+alocação dos recursos orçamentários a serem executados.
+Referência:
+BRASIL. Conselho Nacional de Secretários de Saúde. A Gestão do SUS / Conselho Nacional de
+Secretários de Saúde. – Brasília: CONASS, 2015. 133 p. ISBN 978-85-8071-027-4 – capítulo 2.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 7 de 13
+
+6ª QUESTÃO
+Enunciado:
+(UNIDEP) O Dr. Pedro, médico especialista em saúde pública, foi designado para participar de
+uma auditoria no Sistema Único de Saúde (SUS) de uma cidade de médio porte. O hospital
+municipal, referência para diversos municípios vizinhos, tem enfrentado uma série de desafios
+relacionados à gestão de recursos e à qualidade da assistência prestada à população. A auditoria
+foi solicitada devido à suspeita de falhas na utilização de recursos financeiros e materiais, além de
+possíveis problemas na qualidade do atendimento médico.
+Com base nesse cenário, assinale a alternativa que reflete as principais ações que Dr. Pedro
+deve adotar durante sua participação na auditoria.
+Alternativas:
+(alternativa A)
+Dr. Pedro deve entrevistar os pacientes e a equipe de saúde, sem necessidade de revisar os
+registros médicos ou administrativos, já que a percepção dos usuários é o principal indicador da
+qualidade do serviço prestado.
+
+(alternativa B)
+Dr. Pedro deve realizar uma análise dos processos administrativos, revisando a alocação de
+recursos financeiros, bem como realizar entrevistas com os pacientes sobre os tratamentos,
+visto que somente o médico que foi responsável por cada caso é quem tem acesso ao prontuário.
+(alternativa C) (CORRETA)
+Dr. Pedro deve examinar os registros médicos para verificar a conformidade dos tratamentos
+realizados, mas também revisar a alocação de recursos financeiros e materiais, como forma de
+garantir a correta utilização dos recursos do hospital e a transparência nos processos
+administrativos.
+(alternativa D)
+Dr. Pedro deve realizar uma revisão detalhada dos registros médicos dos pacientes, sem
+considerar a análise dos processos administrativos, pois a auditoria do SUS foca exclusivamente
+na qualidade do atendimento médico.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 8 de 13
+
+Resposta comentada:
+Justificativa: a auditoria do SUS deve ser uma avaliação abrangente e multidimensional. Para
+garantir a eficácia do sistema, Dr. Pedro precisa verificar tanto a qualidade do atendimento (por
+meio dos registros médicos e tratamentos realizados) quanto a adequação da gestão de recursos
+(como a alocação de materiais e a utilização de verbas financeiras). A análise dos processos
+administrativos, como a gestão de escalas e compras, também é essencial para assegurar que o
+hospital está funcionando de maneira eficiente e em conformidade com as normas do SUS. A
+auditoria precisa considerar todos esses aspectos para identificar pontos de melhoria e assegurar
+a transparência na gestão pública. Além disso, o médico auditor deve ter acesso ao prontuário
+médico.
+Referência:
+BRASIL. Ministério da Saúde. Secretaria de Gestão Estratégica e Participativa. Departamento
+Nacional de Auditoria do SUS. Princípios, diretrizes e regras da auditoria do SUS no âmbito do
+Ministério da Saúde [recurso eletrônico] / Brasília: Ministério da Saúde, 2017. 48 p. : il. Modo de
+acesso: World Wide Web:
+http://bvsms.saude.gov.br/bvs/publicacoes/principios_diretrizes_regras_auditoria_SUS.pdf.
+
+7ª QUESTÃO
+Enunciado:
+(UNIDEP) Um médico de um hospital público atende um paciente idoso, J.P., com insuficiência
+cardíaca descompensada, que foi admitido na emergência e necessita de internação para
+estabilização do quadro. Durante a anamnese, foi informado pelos cuidadores que J.P. possui um
+plano de saúde suplementar. Considerando os princípios do SUS assinale a alternativa que
+representa uma conduta correta do médico.
+Alternativas:
+(alternativa A)
+Solicitar que a família assine um termo de responsabilidade declarando que abrirão mão do
+atendimento pelo SUS e buscarão internação em um hospital privado.
+(alternativa B)
+Encaminhar imediatamente o paciente para um hospital privado conveniado ao seu plano de
+saúde, pois ele não tem direito à internação no SUS.
+(alternativa C)
+Atender o paciente apenas na emergência, estabilizá-lo e orientá-lo a buscar internação junto ao
+seu plano de saúde, pois o SUS não deve assumir custos de internação.
+(alternativa D) (CORRETA)
+Internar o paciente no hospital público caso haja indicação clínica, garantindo o tratamento
+necessário, independentemente da existência de um plano de saúde.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 9 de 13
+
+Resposta comentada:
+O SUS é um sistema universal, e todos os cidadãos têm direito ao atendimento,
+independentemente de possuírem plano de saúde suplementar. A internação em hospital público
+deve ocorrer sempre que houver indicação médica, respeitando os critérios clínicos e
+administrativos do SUS. O paciente não pode ser recusado ou ter seu atendimento negado pelo
+fato de ter plano de saúde, conforme as diretrizes do Ministério da Saúde (BRASIL, 2017).
+Referência:
+Ministério da Saúde. Secretaria de Gestão Estratégica e Participativa. Departamento Nacional de
+Auditoria do SUS. Princípios, diretrizes e regras da auditoria do SUS no âmbito do Ministério da
+Saúde [recurso eletrônico] / Brasília: Ministério da Saúde, 2017. 48 p. : il. Modo de acesso: World
+Wide Web:
+http://bvsms.saude.gov.br/bvs/publicacoes/principios_diretrizes_regras_auditoria_SUS.pdf.
+8ª QUESTÃO
+Enunciado:
+Banco AFYA. Sobre a estruturação do Sistema Único de Saúde (SUS), analise as afirmações a
+seguir:
+I. A Constituição Federal de 1988 estabeleceu a saúde como um direito de todos e dever
+do Estado, o que foi fundamental para a criação do SUS.
+II. A Lei 8.080/90 regulamentou a organização do SUS, definindo suas diretrizes, como a
+universalidade, a integralidade e a equidade no atendimento.
+III. A Lei 8.142/90 se refere à participação popular, por meio de conselhos e conferências
+de saúde.
+A respeito dessas afirmações, é correto o que se afirma em:
+Alternativas:
+(alternativa A)
+I e II.
+(alternativa B)
+I e III.
+(alternativa C)
+II e III.
+(alternativa D) (CORRETA)
+I, II e III.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 10 de 13
+
+Resposta comentada:
+Todas as alternativas estão corretas, visto que a Constituição Federal de 1988 foi um marco na
+saúde pública e estabeleceu a saúde como um direito de todos e dever do Estado. E as leis
+8.080/90 e 8.142/90 são as bases jurídicas do SUS, trazendo a regulamentação do SUS e a
+participação popular.
+Referências:
+BRASIL, Lei n. 8080 de 19 de setembro de 1990.
+BRASIL, Lei n. 8142 de 28 de dezembro de 1990.
+
+9ª QUESTÃO
+Enunciado:
+(FIP GUANAMBI) Uma Unidade Básica de Saúde (UBS) do município de Guanambi - BA está
+enfrentando um aumento significativo no número de pacientes que necessitam de exames
+especializados, os quais não estão disponíveis na UBS. Para atender à demanda crescente, a
+gestão da cidade está articulando a utilização de convênios com serviços privados, visando
+melhorar a oferta e garantir o acesso equitativo e eficaz aos usuários do sistema. Considerando a
+situação desta UBS, analise as ações abaixo.
+I. A gestão deve estabelecer critérios claros e transparentes para a contratualização com
+os serviços privados, incluindo a definição de metas de desempenho e qualidade.
+II. A gestão deve monitorar regularmente os serviços contratados, avaliando indicadores
+de eficácia, eficiência e satisfação dos usuários.
+III. A gestão deve priorizar o acesso com base na capacidade de pagamento dos
+pacientes, otimizando os recursos disponíveis para a UBS.
+IV. A gestão deve realizar auditorias periódicas nos serviços privados contratados, visando
+identificar possíveis inconsistências ou ineficiências.
+Quais das ações acima são corretas?
+Alternativas:
+(alternativa A)
+Apenas as ações II e III.
+(alternativa B)
+Ações I, II, III e IV.
+(alternativa C) (CORRETA)
+Apenas as ações I, II e IV.
+(alternativa D)
+Apenas as ações I e IV.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 11 de 13
+
+Resposta comentada:
+I. A gestão deve estabelecer critérios claros e transparentes para a contratualização com os
+serviços privados, incluindo a definição de metas de desempenho e qualidade.
+Correta: essa ação é essencial para garantir que os serviços contratados atendam aos padrões
+necessários de qualidade e eficiência. A definição de critérios claros também assegura
+transparência no processo e facilita a avaliação dos resultados alcançados. Isso está alinhado ao
+objetivo de garantir um acesso equitativo e eficaz aos usuários.
+II. A gestão deve monitorar regularmente os serviços contratados, avaliando indicadores de
+eficácia, eficiência e satisfação dos usuários.
+Correta: o monitoramento contínuo permite que a gestão identifique e corrija eventuais problemas
+nos serviços prestados, garantindo a manutenção da qualidade e a satisfação dos usuários.
+Avaliar indicadores é uma prática essencial para assegurar que os recursos sejam bem aplicados
+e que as necessidades da população sejam atendidas.
+III. A gestão deve priorizar o acesso com base na capacidade de pagamento dos pacientes,
+otimizando os recursos disponíveis para a UBS.
+Incorreta: priorizar o acesso com base na capacidade de pagamento viola os princípios de
+equidade e universalidade do Sistema Único de Saúde (SUS), que garantem que todos os
+usuários tenham o mesmo direito de acesso, independentemente de sua condição financeira.
+Essa prática seria contrária ao objetivo de garantir equidade no sistema.
+IV. A gestão deve realizar auditorias periódicas nos serviços privados contratados, visando
+identificar possíveis inconsistências ou ineficiências.
+Correta: auditorias são fundamentais para assegurar a transparência e a eficácia dos serviços
+contratados, ajudando a identificar e corrigir eventuais inconsistências ou ineficiências. Essa
+prática também aumenta a responsabilidade dos prestadores de serviços e contribui para uma
+melhor utilização dos recursos públicos.
+Referências:
+Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Regulação,
+Avaliação e Controle de Sistemas. Curso básico de regulação do Sistema Único de Saúde – SUS
+[recurso eletrônico] / Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de
+Regulação, Avaliação e Controle de Sistemas. – Brasília: Ministério da Saúde, 2016. Pág. 179225.
+Brasil. Ministério da Saúde. Secretaria de Atenção Especializada à Saúde. Departamento de
+Regulação, Avaliação e Controle. Curso I: Regulação de Sistemas de Saúde do SUS: aula 4:
+Redes de Atenção à Saúde [recurso eletrônico] / Ministério da Saúde, Secretaria de Atenção
+Especializada à Saúde, Departamento de Regulação, Avaliação e Controle – Brasília: Ministério
+da Saúde, 2021. 40 p. il.
+
+10ª QUESTÃO
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 12 de 13
+
+Enunciado:
+(UNIPTAN) Você é um médico recém-nomeado para a coordenação de uma Unidade Básica de
+Saúde (UBS) em uma região urbana de médio porte. Ao assumir o cargo, percebe desafios na
+organização dos atendimentos, tempo excessivo de espera para consultas, falta de integração
+entre os profissionais de saúde e dificuldades no gerenciamento de insumos. Além disso, há
+queixas frequentes dos usuários sobre a qualidade do atendimento. Diante desse cenário, sua
+função envolve tanto a assistência clínica quanto a gestão dos processos da unidade, visando
+otimizar a oferta de serviços e melhorar a experiência dos pacientes.
+Com base no texto apresentado, responda às questões a seguir.
+A. Quais são os princípios fundamentais para o gerenciamento eficaz de uma UBS,
+considerando a necessidade de integração entre ações clínicas e administrativas?
+B. De que forma a utilização de ferramentas de gestão pode contribuir para a melhoria do
+atendimento e da satisfação do paciente na UBS?
+Alternativas:
+-Resposta comentada:
+A. O gerenciamento eficaz de uma UBS deve estar fundamentado na integração entre as ações
+clínicas e administrativas, assegurando que a organização do trabalho seja voltada para a
+qualidade do atendimento e a resolutividade dos serviços. Para isso, é essencial adotar um
+modelo de gestão baseado na coordenação do cuidado, no trabalho multiprofissional e na
+utilização racional dos recursos. Além disso, a implementação de processos organizacionais que
+favoreçam a acessibilidade, a continuidade do cuidado e a humanização dos serviços são
+princípios fundamentais. (0,75).
+B. As ferramentas de gestão, como protocolos clínicos, indicadores de desempenho e
+planejamento estratégico, possibilitam a otimização dos fluxos de atendimento e a alocação
+eficiente de recursos. A adoção de tecnologias da informação, como prontuários eletrônicos,
+facilita a comunicação entre os profissionais e melhora o acompanhamento dos pacientes. A
+gestão participativa, com envolvimento da equipe e dos usuários, também favorece um ambiente
+mais colaborativo e melhora a percepção de qualidade dos serviços oferecidos. (0,75).
+Referência:
+GUSSO, G.; NETO, P.P. Gestão da clínica. In: GUSSO, Gustavo, et al. Tratado de Medicina de
+Família e Comunidade: Princípios, Formação e Prática. 2ª ed. Grupo A, 2018. Cap. 25.
+
+000155.400012.93ecdf.1028dc.1fbe37.af6dc4.6c0cd2.84096
+
+Pgina 13 de 13
+
+

@@ -1,9 +1,8 @@
 import type { Question } from '../data/types'
 
+// ordem do currículo: módulos por período, depois internato e provas externas
 export const DISC_ORDER = [
-  'Anatomia', 'Fisiologia', 'Farmacologia', 'Medicina Preventiva', 'Cardiologia', 'Pneumologia',
-  'Gastroenterologia', 'Nefrologia', 'Endocrinologia', 'Hematologia', 'Infectologia', 'Neurologia',
-  'Psiquiatria', 'Cirurgia', 'Pediatria', 'Ginecologia e Obstetrícia',
+  'SOI', 'HAM', 'IESC', 'MCM', 'CC', 'CI', 'Integradora', 'Provas', 'Não', 'Internato', 'TPI', 'ENAMED', // pela 1ª palavra
 ]
 
 export const LETTERS = 'ABCDEFGH'
@@ -30,10 +29,14 @@ export function uniq<T>(xs: T[]) {
   return [...new Set(xs)]
 }
 
+// "SOI 4" ordena pelo módulo ("SOI") e depois pelo número
 export function sortDisc(a: string, b: string) {
-  const ia = DISC_ORDER.indexOf(a), ib = DISC_ORDER.indexOf(b)
-  return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || a.localeCompare(b)
+  const rank = (d: string) => { const i = DISC_ORDER.indexOf(d.split(' ')[0]); return i < 0 ? 99 : i }
+  return rank(a) - rank(b) || a.localeCompare(b, 'pt', { numeric: true })
 }
+
+// período 0 = provas externas (TPI/ENAMED); 9 = internato
+export const periodoLabel = (p: number) => (p === 0 ? 'TPI / ENAMED' : p > 8 ? 'Internato' : `${p}º período`)
 
 export function shuffle<T>(xs: T[]) {
   const a = [...xs]
@@ -50,5 +53,18 @@ export function normalize(s: string) {
 
 // Uma chave é a disciplina inteira ("Cardiologia") ou um tema dela ("Cardiologia › IC").
 export const SEP = ' › '
+// A chave pode vir do agrupamento por disciplina (módulo) ou por matéria ("Cardiologia › Insuficiência cardíaca").
 export const matchesAssuntos = (q: Question, keys: string[]) =>
-  !keys.length || keys.includes(q.disciplina) || keys.includes(q.disciplina + SEP + q.tema)
+  !keys.length || keys.includes(q.disciplina) || keys.includes(q.disciplina + SEP + q.tema) ||
+  (!!q.materia && (keys.includes(q.materia) || keys.includes(q.materia + SEP + q.tema)))
+
+// Áreas do internato no acervo (pasta → nome exibido como "Internato · …")
+export const INTERNATO: Record<string, string> = {
+  APS: 'Atenção Primária', CC: 'Clínica Cirúrgica', CM: 'Clínica Médica', GO: 'Ginecologia e Obstetrícia', PED: 'Pediatria', UESM: 'Urgência, Emergência e Saúde Mental',
+}
+// "SOI 4" → { modulo: 'SOI' }; "Internato · Clínica Médica" → { modulo: 'CM' }; "TPI" → {} (a área toda)
+export function moduloDe(disciplina: string): { modulo?: string } {
+  if (disciplina === 'TPI' || disciplina === 'ENAMED') return {}
+  const interno = Object.keys(INTERNATO).find((k) => disciplina === `Internato · ${INTERNATO[k]}`)
+  return { modulo: interno ?? disciplina.split(' ')[0] }
+}

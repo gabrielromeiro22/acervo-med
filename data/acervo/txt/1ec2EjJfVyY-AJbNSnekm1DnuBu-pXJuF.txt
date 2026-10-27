@@ -1,0 +1,584 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Clínica Cirúrgica II
+Professor (es):
+Período: 202402
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_6 PERIODO_03OUTUBRO_2024.2_PROVA_CC
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 13677 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+www.acervo.top/cc-2 ou www.acervotop.com/cc-2
+
+(UNITPAC) Um homem, de 27 anos, chega ao pronto-socorro após sofrer um corte profundo na
+mão direita com enquanto trabalhava numa horta. A lesão tem bordas irregulares, medindo
+aproximadamente 4 cm, com exposição de tecido subcutâneo, e ocorreu há 4 horas. O paciente
+não apresenta sinais de infecção, mas está incerto sobre seu histórico vacinal para tétano. O
+cirurgião decide tratar a ferida e avaliar a necessidade de profilaxia antitetânica.
+Considerando o caso em questão, qual das opções abaixo é a mais apropriada?
+Alternativas:
+(alternativa A)
+Fechar a ferida com sutura primária e não administrar profilaxia antitetânica, pois o intervalo de 4
+horas não é suficiente para justificar uma intervenção profilática.
+(alternativa B) (CORRETA)
+Fechar a ferida com sutura primária após limpeza e debridamento, e administrar a vacina
+antitetânica e imunoglobulina antitetânica, pois o paciente apresenta uma ferida potencialmente
+contaminada e o histórico vacinal é incerto.
+(alternativa C)
+Realizar o fechamento primário da ferida sem a necessidade de profilaxia antitetânica, pois o corte
+foi recente e o paciente não apresenta sinais de infecção ou complicações.
+(alternativa D)
+Manter a ferida aberta para cicatrização por segunda intenção e administrar somente a vacina
+antitetânica, já que a imunoglobulina é desnecessária em pacientes jovens e saudáveis.
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 1 de 16
+
+Resposta comentada:
+Fechar a ferida com sutura primária após limpeza e debridamento, e administrar a vacina
+antitetânica e imunoglobulina antitetânica, pois o paciente apresenta uma ferida
+potencialmente contaminada e o histórico vacinal é incerto.
+Correto. Em feridas traumáticas de natureza incerta ou contaminada, como neste caso, a técnica
+de fechamento primário após debridamento e limpeza adequada é apropriada. Além disso, em
+pacientes com histórico vacinal incerto, a profilaxia dupla (vacina antitetânica e imunoglobulina
+antitetânica) é recomendada para prevenir o tétano. A vacina antitetânica estimula a imunidade
+ativa, enquanto a imunoglobulina fornece proteção imediata.
+Realizar o fechamento primário da ferida sem a necessidade de profilaxia antitetânica, pois
+o corte foi recente e o paciente não apresenta sinais de infecção ou complicações.
+Incorreto. Mesmo que a ferida seja recente, o histórico vacinal incerto justifica a administração de
+profilaxia para tétano. Fechar a ferida sem verificar o estado vacinal pode expor o paciente a
+riscos desnecessários.
+Manter a ferida aberta para cicatrização por segunda intenção e administrar somente a
+vacina antitetânica, já que a imunoglobulina é desnecessária em pacientes jovens e
+saudáveis.
+Incorreto. Embora a cicatrização por segunda intenção seja uma opção para algumas feridas
+contaminadas, neste caso, a ferida pode ser fechada com sutura primária após a devida limpeza
+e debridamento. Além disso, a imunoglobulina antitetânica é necessária para garantir proteção
+imediata, especialmente em pacientes com histórico vacinal incerto.
+Fechar a ferida com sutura primária e não administrar profilaxia antitetânica, pois o
+intervalo de 4 horas não é suficiente para justificar uma intervenção profilática.
+Incorreto. O intervalo de tempo de 4 horas não é o critério determinante para a profilaxia
+antitetânica. O risco de tétano está relacionado à natureza da ferida e ao estado vacinal do
+paciente. Sem informações sobre o histórico vacinal, é prudente administrar tanto a vacina quanto
+a imunoglobulina.
+Referências:
+BRASIL. Ministério da Saúde. Manual de Normas de Vacinação. 5. ed. Brasília: Ministério da
+Saúde, 2014. Disponível em:
+http://bvsms.saude.gov.br/bvs/publicacoes/manual_procedimentos_vacinacao.pdf. Acesso em:
+24 set. 2024.
+CENTER FOR DISEASE CONTROL AND PREVENTION (CDC). Updated Recommendations
+for Use of Tetanus Toxoid, Reduced Diphtheria Toxoid, and Acellular Pertussis Vaccine (Tdap) in
+Adults Aged 65 Years and Older. MMWR Morb Mortal Wkly Rep, v. 61, p. 468-470, 2012.
+WOLFF, Klaus; JOHNSON, Richard A.; FITZPATRICK, Thomas B. Fitzpatrick’s Color Atlas and
+Synopsis of Clinical Dermatology. 8. ed. New York: McGraw-Hill, 2017. ISBN 9780071793025.
+TROTT, Alexander. Wounds and Lacerations: Emergency Care and Closure. 5. ed. Philadelphia:
+Elsevier, 2019. ISBN 9780323485501.
+Feedback:
+-2ª QUESTÃO
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 2 de 16
+
+Enunciado:
+(BANCO AFYA) Um homem, de 55 anos, com histórico de insuficiência cardíaca e portador de
+uma válvula cardíaca mecânica, é encaminhado para a remoção ambulatorial de um cisto
+epidérmico no dorso. Ele não tem alergias conhecidas e seu exame clínico está dentro dos
+parâmetros normais.
+Considerando as diretrizes atuais de profilaxia antimicrobiana para pacientes como este, qual das
+opções abaixo é a mais adequada?
+
+Alternativas:
+(alternativa A) (CORRETA)
+Administrar profilaxia antimicrobiana com amoxicilina antes do procedimento, devido ao risco
+aumentado de endocardite infecciosa em pacientes com válvula cardíaca mecânica.
+(alternativa B)
+Administrar profilaxia antimicrobiana apenas se a ferida apresentar sinais de infecção ou
+contaminação, pois a endocardite infecciosa está associada apenas a procedimentos infecciosos.
+(alternativa C)
+Profilaxia antimicrobiana deve ser reservada para cirurgias de grande porte ou procedimentos
+dentários, não sendo necessária para cirurgias cutâneas ambulatoriais.
+(alternativa D)
+Não é necessário o uso de profilaxia antimicrobiana, pois o procedimento é de baixo risco e o
+paciente não apresenta infecção ativa.
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 3 de 16
+
+Resposta comentada:
+• Pacientes com válvula cardíaca mecânica estão em alto risco de desenvolver endocardite
+infecciosa após procedimentos que envolvem manipulação de tecidos, mesmo em cirurgias
+ambulatoriais de baixo risco, como a remoção de um cisto sebáceo. A amoxicilina é o antibiótico
+de escolha para profilaxia de endocardite nesses casos, devendo ser administrada cerca de uma
+hora antes do procedimento.
+Distratores:
+• Embora o procedimento seja de baixo risco para a maioria dos pacientes, indivíduos com
+válvula cardíaca mecânica têm um risco significativamente maior de desenvolver endocardite
+infecciosa, e a profilaxia é indicada, independentemente de infecção ativa.
+• A profilaxia antimicrobiana em pacientes com válvulas cardíacas mecânicas deve ser feita
+mesmo na ausência de infecção ou sinais de contaminação, pois a endocardite infecciosa pode
+se desenvolver após a introdução de bactérias na corrente sanguínea durante o procedimento.
+• As diretrizes recomendam profilaxia antimicrobiana para pacientes com alto risco de
+endocardite, como aqueles com válvulas cardíacas mecânicas, mesmo em cirurgias de pequeno
+porte, incluindo procedimentos cutâneos. Profilaxia não é restrita apenas a grandes cirurgias ou
+procedimentos dentários.
+Referências:
+WILSON, Walter et al. Prevention of Infective Endocarditis: Guidelines From the American Heart
+Association. Circulation, v. 116, n. 15, p. 1736-1754, 2007.
+SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Diretriz Brasileira para Profilaxia de Endocardite
+Infecciosa. Arq Bras Cardiol, v. 100, n. 4, p. 1-15, 2013.
+HABIF, Thomas P. Clinical Dermatology: A Color Guide to Diagnosis and Therapy. 7. ed.
+Philadelphia: Elsevier, 2020. ISBN 9780323625112.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(BANCO AFYA) Um homem de 35 anos chega à clínica para a remoção de um cisto no dedo
+indicador da mão direita. O cirurgião opta por realizar o procedimento sob anestesia local,
+utilizando a técnica de bloqueio de nervo digital para garantir analgesia adequada.
+Considerando as melhores práticas para anestesia local para o paciente, qual das opções abaixo
+é a mais apropriada para garantir eficácia e minimizar os riscos?
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 4 de 16
+
+Alternativas:
+(alternativa A) (CORRETA)
+Utilizar bupivacaína a 0,5% sem epinefrina e realizar um bloqueio digital em dois pontos,
+lateralmente à base do dedo.
+(alternativa B)
+Injetar lidocaína a 2% com epinefrina diretamente no tecido ao redor da lesão para garantir um
+bloqueio rápido e prolongado.
+(alternativa C)
+Infiltrar lidocaína a 1% com epinefrina na base do dedo, pois a epinefrina garante melhor controle
+do sangramento e prolonga o efeito anestésico.
+(alternativa D)
+Realizar anestesia tópica com lidocaína a 5% aplicada diretamente sobre o cisto e cobrir com
+uma bandagem oclusiva por 30 minutos para garantir analgesia suficiente.
+
+Resposta comentada:
+• A bupivacaína a 0,5% sem epinefrina é ideal para bloqueios digitais devido à sua duração
+prolongada de ação, o que é útil em procedimentos de maior duração ou para proporcionar
+analgesia no pós-operatório. O bloqueio digital em dois pontos, lateralmente à base do dedo, é a
+técnica recomendada, pois bloqueia os nervos digitais sem comprometer o fluxo sanguíneo.
+DISTRATORES:
+• A lidocaína com epinefrina não deve ser usada em bloqueios digitais devido ao risco de
+isquemia, uma vez que a epinefrina causa vasoconstrição intensa em áreas com suprimento
+vascular limitado, como os dedos. Embora a lidocaína seja um bom anestésico para
+procedimentos rápidos, ela deve ser usada sem epinefrina em bloqueios digitais.
+• A infiltração de lidocaína com epinefrina na base do dedo não é recomendada para bloqueios
+digitais devido ao risco de isquemia. O uso de epinefrina pode ser benéfico em áreas com bom
+suprimento sanguíneo para reduzir o sangramento e prolongar o efeito anestésico, mas nos
+dedos, pode causar necrose tecidual.
+• A anestesia tópica com lidocaína não é eficaz para procedimentos cirúrgicos que envolvem
+estruturas profundas, como o cisto mucoso no dedo. A anestesia tópica é adequada para
+pequenos procedimentos superficiais, mas não para cirurgia que requer bloqueio profundo dos
+nervos digitais.
+Referências:
+MALAMED, Stanley F. Manual de Anestesia Local. 7. ed. Rio de Janeiro: Elsevier, 2020. ISBN
+9788535285772.
+TROTT, Alexander. Surgical Procedures and Wound Care. 6. ed. New York: McGraw-Hill, 2021.
+ISBN 9781264257674.
+RODRIGUEZ, Edgardo D.; BLUEBOND-LANGNER, Rachel. Plastic Surgery: Volume 3: Hand
+and Upper Limb Surgery. 2. ed. Elsevier, 2018. ISBN 9780323356924.
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 5 de 16
+
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(UNITPAC) Um paciente masculino de 60 anos, pesando 70 kg, apresenta-se para a remoção de
+um lipoma extenso na região do dorso, em ambiente de cirurgia ambulatorial. O cirurgião planeja
+utilizar um anestésico local para realizar o procedimento de forma segura e confortável.
+Com base no peso do paciente responda:
+1) Qual o anestésico e sua apresentação está indicado?
+2) Calcule a dose máxima do anestésico que pode ser administrada.
+3) Calcule o volume em mililitros (mL) de anestésico que pode ser utilizado no procedimento,
+considerando a dose máxima permitida para esse anestésico.
+Alternativas:
+--
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 6 de 16
+
+Resposta comentada:
+Para esse paciente, um dos anestésicos locais mais indicados para cirurgia ambulatorial é a
+lidocaína a 1% com vasoconstritor (epinefrina). A lidocaína é amplamente utilizada por sua
+eficácia, rápida ação e baixa toxicidade. A adição de vasoconstritor (epinefrina) permite que doses
+maiores sejam utilizadas com menor risco de toxicidade, além de prolongar o efeito do anestésico
+e reduzir o sangramento no local da cirurgia.
+1) Qual o anestésico e sua apresentação está indicado? (0,5 Ponto)
+Apresentação: Lidocaína a 1% com vasoconstritor (epinefrina), onde cada mL contém 10 mg
+de lidocaína.
+2. Calcule a dose máxima do anestésico que pode ser administrada.
+A dose máxima recomendada de lidocaína com vasoconstritor é de 7 mg/kg.
+• Paciente pesa 70 kg.
+• Dose máxima = 7 mg/kg × 70 kg = 490 mg de lidocaína.
+3. Calcule o volume em mililitros (mL) de anestésico que pode ser utilizado no procedimento,
+considerando a dose máxima permitida para esse anestésico. (1,0 Ponto)
+Sabendo que a lidocaína a 1% contém 10 mg/mL, para calcular o volume máximo a ser utilizado:
+• Volume (mL) = Dose máxima (mg) ÷ Concentração (mg/mL)
+• Volume (mL) = 490 mg ÷ 10 mg/mL = 49 mL.
+Resumo da Resposta:
+1. O anestésico indicado é lidocaína a 1% com vasoconstritor (epinefrina).
+(0,5 Ponto)
+2. A dose máxima de lidocaína que pode ser administrada é de 490 mg. (1,0 Ponto)
+3. O volume máximo de lidocaína a 1% que pode ser utilizado no procedimento é 49 mL. (1,0
+Ponto)
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(UNITPAC) Um paciente, de 45 anos, sexo masculino, previamente saudável, apresenta-se à
+clínica com uma lesão ulcerada de 2 cm no dorso da mão direita, decorrente da excisão de um
+carcinoma basocelular. O cirurgião deseja realizar o fechamento primário da ferida com o mínimo
+de tensão e bom resultado estético. A lesão está localizada em uma região de mobilidade e pele
+fina, onde alguns procedimentos geralmente resultam em deiscência ou distorção funcional.
+Considerando a situação apresentada e a indicação de técnicas de retalhos cutâneos para
+cirurgia ambulatorial, qual das opções abaixo é a mais apropriada para o fechamento da ferida?
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 7 de 16
+
+Alternativas:
+(alternativa A)
+Enxerto de pele total, ideal para áreas de grande mobilidade e onde se deseja minimizar o risco de
+retração cicatricial.
+(alternativa B)
+Fechamento primário com sutura direta, utilizando pontos simples em toda a extensão da lesão.
+(alternativa C) (CORRETA)
+Confecção de retalho de avanço, pois permite o fechamento da ferida sem tensão e com bom
+resultado funcional e estético.
+(alternativa D)
+Retalho em Z, indicado para casos onde há necessidade de alongamento da pele e prevenção de
+cicatrizes e contraturas.
+
+Resposta comentada:
+• O retalho de avanço é a melhor escolha nesse caso, pois permite o fechamento da ferida sem
+gerar tensão excessiva, preservando a funcionalidade e proporcionando um bom resultado
+estético. Retalhos são frequentemente indicados em áreas de alta mobilidade ou em regiões onde
+o fechamento primário é inadequado.
+DISTRATORES:
+• O fechamento primário com sutura direta pode ser usado em feridas pequenas ou em áreas
+com pele mais elástica, mas em locais como o dorso da mão, onde a pele é fina e a mobilidade é
+alta, esse método pode resultar em tensão excessiva, deiscência ou cicatrizes indesejadas.
+• O enxerto de pele total é uma opção válida para cobrir áreas expostas ou grandes defeitos, mas
+não é a primeira escolha para lesões pequenas, especialmente em áreas que exigem mobilidade,
+como o dorso da mão. Além disso, enxertos podem apresentar retração cicatricial, o que seria um
+problema nessa área.
+• O retalho em Z é utilizado principalmente para aliviar cicatrizes contraturadas e para
+reposicionar tecidos em áreas onde o alongamento da pele é necessário, o que não é o caso aqui.
+A lesão descrita requer um fechamento primário com baixa tensão, algo que o retalho de avanço
+resolve de forma mais simples e direta.
+Referências:
+DRAKE, Richard L.; VOGL, Wayne; MITCHELL, Adam W. M. Gray’s Anatomia para Estudantes.
+3. ed. Rio de Janeiro: Elsevier, 2015. ISBN 9788535270976.
+BORGES, André Felipe de Souza. Cirurgia Dermatológica, Cosmiatria e Laser. 3. ed. Rio de
+Janeiro: Elsevier, 2021. ISBN 9788535285420.
+WOLFF, Klaus; JOHNSON, Richard A.; FITZPATRICK, Thomas B. Fitzpatrick: Dermatologia em
+Medicina Geral. 7. ed. Rio de Janeiro: AMGH, 2016. ISBN 9788580556573.
+Feedback:
+--
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 8 de 16
+
+6ª QUESTÃO
+Enunciado:
+(UNIVAÇO) Uma mulher, de 60 anos, de idade apresenta uma lesão na pele do nariz que vem
+crescendo lentamente ao longo dos últimos meses. Ao exame físico, o médico observa uma
+pápula perolada com telangiectasias e ulceração central.
+Em relação à principal hipótese diagnóstica, se pode afirmar que:
+Alternativas:
+(alternativa A)
+a biópsia por congelação é o melhor método diagnóstico devido alta sensibilidade e
+especificidade.
+
+(alternativa B)
+é frequentemente caracterizado por lesão pigmentada, de bordas irregulares e nódulos satélites.
+
+(alternativa C)
+é o tipo mais agressivo de câncer de pele, pois apresenta alto potencial metastático.
+
+(alternativa D) (CORRETA)
+a exposição crônica à radiação ultravioleta é o principal fator de risco para o seu desenvolvimento.
+
+Resposta comentada:
+A exposição crônica à radiação ultravioleta (UV), especialmente a exposição solar excessiva ao
+longo da vida, é o principal fator de risco para o desenvolvimento de CBC. Outros fatores de risco
+incluem pele clara, história de queimaduras solares, história familiar de CBC e imunossupressão.
+O CBC geralmente se apresenta como uma lesão cutânea não pigmentada, comumente na face,
+caracterizada por uma pápula perolada com telangiectasias e ulceração central.
+Referência:
+Stratigos AJ, Garbe C, Lebbe C, et al. Diagnosis and treatment of invasive squamous cell
+carcinoma of the skin: European consensus-based interdisciplinary guideline. Eur J Cancer.
+2015;51(14):1989-2007.
+Feedback:
+-7ª QUESTÃO
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 9 de 16
+
+Enunciado:
+(AFYA PARAIBA) Paciente sexo feminino, 72 anos de idade, pele clara, olhos azuis, chega no
+ambulatório de dermatologia, com lesão de pele para ser avaliada. A paciente apresenta uma
+lesão pigmentada irregular, com aproximadamente 1,0 cm de extensão, localizada entre o
+pescoço e o ombro esquerdo. Relata que a lesão cresceu nos últimos 2 meses. Após avaliação
+inicial o dermatologista suspeitou de melanoma in situ.
+1- Quais condições, se encontradas, justificam a suspeita diagnóstica de melanoma?
+2 - Qual a melhor conduta para o presente caso?
+Alternativas:
+-Resposta comentada:
+Padrão de resposta esperada: (SETE LINHAS)
+1 - É esperado que o aluno aborde os critérios do ABCDE para lesões melanocíticas.
+● A- Assimetria (se uma lesão for dividida ao meio, uma metade não é idêntica à outra
+metade.
+● B -Irregularidades nas bordas.
+● C- Variação de cores (presença de vários tons de vermelho, azul, preto, cinza ou branco.
+● D- Diâmetro ≥6 mm.
+● E- Evolução (uma lesão que está mudando de tamanho, forma ou cor, ou uma nova
+lesão)
+2- É esperado que o aluno indique como conduta: (QUATRO LINHAS)
+Biópsia excecional com margem de segurança de 0,5 a 1,0 cm, seguida de avaliação
+histopatológica para garantir ressecção completa da lesão.
+-------------------------------------------------------------------------------------------------------------------------------JUSTIFICATIVAS:
+1Exame da pele — O exame da pele deve ser realizado sob iluminação ideal e incluir toda a
+superfície corporal. Os médicos avaliam a probabilidade de uma lesão pigmentada ser um
+melanoma usando um processo cognitivo complexo que inclui uma combinação das três etapas a
+seguir:
+● Análise visual e reconhecimento de padrões – A análise visual e o reconhecimento de padrões
+normalmente avaliam se uma determinada lesão pigmentada tem uma ou mais características
+que podem sugerir melanoma, incluindo assimetria, bordas irregulares, cor variada e diâmetro >6
+mm. Essas características foram incluídas na lista de verificação ABCDE (assimetria,
+irregularidade de borda, variação de cor, diâmetro> 6 mm, evolução) amplamente adotada, uma
+regra de predição clínica que foi desenvolvida para ajudar médicos e leigos a identificar lesões
+suspeitas . (Veja 'critérios ABCDE' abaixo.)
+● Análise comparativa dos padrões de nevo em um paciente individual – A análise comparativa
+intrapaciente utiliza o chamado sinal do "patinho feio", que se refere à presença de uma única
+lesão que não corresponde ao fenótipo do nevo do paciente (a chamada "assinatura nevo"). O
+sinal do 'patinho feio' - O sinal do "patinho feio" baseia-se na observação de que, em um indivíduo
+com nevos múltiplos, os nevos tendem a exibir um ou mais tipos morfológicos predominantes (os
+"nevos característicos"), definindo um relativamente "perfil" específico. Uma lesão pigmentada
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 10 de 16
+
+obviamente diferente das demais em um determinado indivíduo deve ser considerada suspeita,
+mesmo que não preencha os critérios ABCD (assimetria, irregularidade de borda, variação de cor,
+diâmetro >6 mm). O sinal do “patinho feio” foi proposto como critério adicional para o clínico
+identificar aquelas lesões que merecem atenção especial em pacientes com múltiplos nevos e é
+um componente central da chamada análise comparativa intrapaciente
+Critérios ABCDE — Em 1985, dermatologistas da Universidade de Nova York criaram pela
+primeira vez o acrônimo ABCD (assimetria, irregularidade de borda, variação de cor, diâmetro >6
+mm) para educar médicos de atenção primária e leigos sobre a identificação de melanoma
+precoce [54]. Em 2004, os critérios foram aprimorados com a adição de “E” (evolução) para
+incorporar o conceito fundamental de mudança, incluindo a modificação ao longo do tempo de um
+nevo pré-existente ou o desenvolvimento de uma nova lesão, especialmente em indivíduos com
+mais de 40 anos.
+● Análise dinâmica – História de alteração no tamanho, cor ou formato de uma lesão
+melanocítica pré-existente (o "E" de "evolução" na lista de verificação ABCDE) ou história de uma
+"nova" lesão (que pode ser rosa [amelanótico]) que está crescendo são os critérios clínicos mais
+importantes para o diagnóstico de melanoma. Uma alteração pode ter sido notada pelo paciente
+ou documentada por comparação de imagens clínicas ou dermatoscópicas seriadas.
+● Assimetria (se uma lesão for dividida ao meio, uma metade não é idêntica à outra metade.
+● Irregularidades nas fronteiras.
+● Variegação de cores (presença de vários tons de vermelho, azul, preto, cinza ou branco.
+● Diâmetro ≥6 mm
+● Evolução (uma lesão que está mudando de tamanho, forma ou cor, ou uma nova lesão).
+2Melanoma in situ: margem de 0,5 a 1 cm — Para pacientes com melanoma in situ (Tis), não há
+dados de ensaios randomizados para definir a extensão ideal da ressecção cirúrgica.
+Concordamos com as diretrizes da National Comprehensive Cancer Network (NCCN) e da
+American Academy of Dermatology (AAD) que recomendam uma margem de 0,5 a 1 cm. Mais
+comumente usamos uma margem de 0,5 cm para melanoma in situ seguida de avaliação
+histopatológica para garantir a depuração.
+UpToDate. Melanoma: Clinical features and diagnosis/ skin examination. Acesso em 27 mar.
+2024.
+-------------------------------------------------------------------------------------------------------------------------------O aluno deve dissertar sobre um dos critérios diagnósticos.
+A regra do ABCDE se refere a A – assimetria, B – bordas, C – cor e D – diâmetro, E – evolução
+ou alteração ao longo do tempo, revelando as características de uma possível lesão maligna, o
+método dos sete pontos de Glasgow considera três critérios maiores e e quatro critérios menores
+com as características de cada um destes critérios, e a regra dos três C refere a Cor, Contorno e
+Change – alteração.
+No caso em questão, para o diagnóstico do melanoma a melhor conduta seria realizar uma
+biopsia excecional com margem de segurança.
+
+Referência:
+SAVASSI-ROCHA, Paulo R.; SANCHES, Soraya Rodrigues de A.; SAVASSI-ROCHA, Alexandre
+L. Cirurgia de Ambulatório: MedBook Editora, 2013. E-book. ISBN 9786557830215. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786557830215/. Acesso em: 24 fev. 2024.
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 11 de 16
+
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Paciente, de 28 anos, feminino, procura atendimento em consultório de cirurgia
+geral com queixa de lesão nodular em região dorsal, indolor e sem saída de secreção. Refere que
+descobriu a lesão há aproximadamente 3 anos. Nega hipertensão arterial sistêmica, diabetes,
+procedimentos cirúrgicos anteriores ou alergia a medicamentos. Ao exame apresenta uma lesão
+nodular em região dorsal, medindo aproximadamente 3cm, não aderida a planos superficiais ou
+profundos, indolor, de consistência amolecida, sem saída de secreção a expressão digital e sem
+sinais flogísticos. Assinale a alternativa que sugere o diagnóstico e conduta adequados:
+Alternativas:
+(alternativa A)
+Cisto epidérmico; realização de exérese cirúrgica.
+
+(alternativa B)
+Cisto dermoide; solicitar ultrassom de partes moles.
+
+(alternativa C)
+Dermatofibroma; solicitar ultrassonografia.
+(alternativa D) (CORRETA)
+Lipoma; exérese cirúrgica.
+
+Resposta comentada:
+Os lipomas são tumores benignos da pele de crescimento lento, indolores e sem a saída de
+secreção a expressão digital. O tratamento é realizado através de exérese cirúrgica e a
+confirmação diagnostica através do exame histopatológico. Pacientes jovens sem alterações no
+exame físico e na anamnese não precisam de exames complementares para a realização do
+procedimento cirúrgico.
+Referência:
+Savassi-rocha PR, Sanches SRDA, Savassi-rocha AL. Cirurgia de Ambulatório. MedBook
+Editora; 2013. Cap 22, p. 357-388.
+Feedback:
+-9ª QUESTÃO
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 12 de 16
+
+Enunciado:
+(UNITPAC) Uma mulher, de 35 anos, comparece ao ambulatório para exérese de cisto sebáceo
+na região do dorso. A paciente retorna 5 dias após o procedimento e relata que a ferida cirúrgica
+está sem dor, com leve vermelhidão ao redor da cicatriz que não ultrapassa 5 mm, sem sinais de
+secreção ou abaulamento. No exame físico, observa-se uma cicatriz bem aproximada, sem
+sinais de deiscência ou infecção e seus sinais vitais estão normais. A paciente o questiona sobre
+a retirada dos pontos e as orientações pós-operatórias.
+Considerando as melhores práticas para a retirada de pontos e orientações pós-operatórias para
+a paciente, qual das opções abaixo é a mais apropriada?
+Alternativas:
+(alternativa A)
+Manter os pontos por mais 7 dias, pois a leve vermelhidão indica possível infecção e, portanto, a
+remoção deve ser adiada.
+(alternativa B)
+Realizar a retirada de todos os pontos após 7 dias, independentemente da localização da ferida,
+pois esse é o tempo padrão de cicatrização.
+(alternativa C)
+Realizar a remoção dos pontos e recomendar o uso de compressas mornas e massagens
+vigorosas na área da cicatriz para acelerar a cicatrização.
+(alternativa D) (CORRETA)
+Remover os pontos após 14 dias, orientando a paciente a evitar exposição solar na área por pelo
+menos 6 meses para prevenir hiperpigmentação.
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 13 de 16
+
+Resposta comentada:
+• A remoção dos pontos após 14 dias é adequada para o dorso, uma área com menor
+mobilidade. Além disso, a recomendação de evitar exposição solar por 6 meses é importante para
+prevenir hiperpigmentação, uma complicação comum nas cicatrizes expostas ao sol durante o
+período de cicatrização.
+DISTRATORES:
+• O tempo de retirada de pontos varia de acordo com a localização da ferida. No dorso, uma área
+com pouca mobilidade, a remoção dos pontos geralmente ocorre após 10 a 14 dias, e não em 7
+dias. O tempo de cicatrização também depende do tipo de tecido e da tensão sobre a ferida.
+• Uma leve vermelhidão ao redor da cicatriz é comum no processo de cicatrização e não
+necessariamente indica infecção. A remoção dos pontos pode ser realizada após 14 dias, desde
+que a avaliação clínica confirme uma cicatrização adequada.
+• Compressas mornas podem ser úteis para reduzir o edema ou desconforto, mas massagens
+vigorosas nas fases iniciais de cicatrização são contraindicadas, pois podem causar trauma ao
+tecido cicatricial e prejudicar o resultado estético da cicatriz.
+Referências:
+TROTT, Alexander. Surgical Procedures and Wound Care. 6. ed. New York: McGraw-Hill, 2021.
+ISBN 9781264257674.
+HABIF, Thomas P. Clinical Dermatology: A Color Guide to Diagnosis and Therapy. 7. ed.
+Philadelphia: Elsevier, 2020. ISBN 9780323625112.
+LEVINE, Jill; SCHWARTZ, Robert A. Principles of Wound Healing. New York: Springer, 2017.
+ISBN 9783319570620.
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(BANCO AFYA) Um homem, de 40 anos, sofre uma laceração profunda na perna direita após um
+acidente de moto. Ele foi levado ao pronto-socorro 6 horas após o acidente. No exame físico, a
+ferida tem bordas irregulares, contaminação com terra e detritos, além de um leve sangramento.
+Após limpeza e debridamento cirúrgico e hemostasia, o médico avalia o melhor método para
+promover a cicatrização.
+Considerando os diferentes tipos de cicatrização por intenção, qual das opções abaixo é a mais
+apropriada para este caso?
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 14 de 16
+
+Alternativas:
+(alternativa A) (CORRETA)
+Limpar e debridar a ferida, deixar aberta inicialmente e realizar o fechamento cirúrgico posterior
+(cicatrização por terceira intenção), após controle da infecção e contaminação.
+(alternativa B)
+Realizar o fechamento imediato da ferida com sutura, utilizando cicatrização por primeira
+intenção, uma vez que esse método acelera o processo de recuperação.
+(alternativa C)
+Fechar a ferida parcialmente com suturas, deixando o restante aberto para cicatrizar por
+granulação, combinando cicatrização por primeira e segunda intenções.
+(alternativa D)
+Deixar a ferida aberta para cicatrizar por segunda intenção, permitindo que o tecido se regenere
+por granulação e epitelização natural.
+
+Resposta comentada:
+• A cicatrização por terceira intenção (também conhecida como fechamento primário retardado) é
+o método mais indicado para feridas contaminadas, onde o risco de infecção é alto. O tratamento
+envolve limpar e debridar a ferida, deixando-a aberta inicialmente para reduzir a contaminação.
+Após alguns dias, quando a ferida estiver limpa e sem sinais de infecção, o fechamento cirúrgico
+pode ser realizado.
+Distratores:
+• A cicatrização por primeira intenção é indicada para feridas limpas e de bordas aproximadas,
+como incisões cirúrgicas, onde há mínima contaminação. No caso apresentado, a ferida está
+contaminada e tem bordas irregulares, o que impede o fechamento imediato devido ao risco de
+infecção.
+• A cicatrização por segunda intenção envolve deixar a ferida aberta para que ela cicatrize
+através de granulação e epitelização, o que pode ser uma opção em algumas situações. No
+entanto, para uma ferida profunda e contaminada como essa, a segunda intenção pode levar a
+cicatrização prolongada e aumento do risco de cicatrizes não estéticas ou complicações.
+• O fechamento parcial da ferida com sutura é uma técnica que não se enquadra adequadamente
+nos conceitos de cicatrização por intenção. Isso pode aumentar o risco de complicações, como
+infecção, sem os benefícios de uma cicatrização eficaz.
+Referências:
+WOLFF, Klaus; JOHNSON, Richard A.; SAUNDER, Arturo. Fitzpatrick’s Color Atlas and
+Synopsis of Clinical Dermatology. 8. ed. New York: McGraw-Hill, 2017. ISBN 9780071793025.
+LAFFERTY, Kevin; SWINTON, Alan. Wound Management: Principles and Practices. 5. ed. New
+Jersey: Pearson, 2020. ISBN 9780134448551.
+TROTT, Alexander. Wounds and Lacerations: Emergency Care and Closure. 5. ed. Philadelphia:
+Elsevier, 2019. ISBN 9780323485501.
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 15 de 16
+
+Feedback:
+--
+
+000136.770010.e0aa38.0fab79.305dc8.410c3c.4f2372.2fe32
+
+Pgina 16 de 16
+
+

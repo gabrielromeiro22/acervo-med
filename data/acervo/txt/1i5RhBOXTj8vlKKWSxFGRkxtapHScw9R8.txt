@@ -1,0 +1,1816 @@
+AFYA NOTA FINAL
+CURSO DE MEDICINA - AFYA
+Aluno:
+Componente Curricular: Estágio em Atenção Ambulatorial e Hospitalar em Clínica Médica
+Professor (es):
+Período: 202601 Turma:
+Data: 04/03/2026
+N2 INTERNATO - MEDICINA - CM - 2026.1 - ROT 1 - 04/MARÇO - TEMA B
+A cero do
+RELATÓRIO DE DEVOLUTIVA DE PROVA Rique
+PROVA 18685 - CADERNO 001
+1ª QUESTÃO Quer treinar essa prova?
+Acesse:
+Enunciado:
+acervo.top / acervotop.com
+(AFYA PARNAIBA) Um homem de 71 anos, com DPOC e diabetes mellitus tipo 2, é
+internado por descompensação respiratória. No 6º dia de internação, evolui com febre,
+secreção traqueal purulenta, piora da hipoxemia e novo infiltrado pulmonar bilateral à
+radiografia. Não está em ventilação mecânica, mas fez uso recente de antibiótico de
+amplo espectro nos últimos 90 dias.
+Com base nas diretrizes atuais para o tratamento de pneumonias, considerando riscos de
+resistência bacteriana, assinale a alternativa correta quanto à prescrição antimicrobiana
+empírica inicial.
+Alternativas:
+(alternativa A)
+Deve-se aguardar o resultado de culturas respiratórias antes de iniciar antibioticoterapia,
+para evitar seleção de microrganismos resistentes.
+(alternativa B)
+A monoterapia com fluoroquinolona respiratória é suficiente, pois o paciente não está em
+ventilação mecânica.
+(alternativa C)
+O tratamento deve seguir o mesmo esquema da pneumonia adquirida na comunidade
+grave, com ceftriaxona associada a macrolídeo, independentemente do tempo de
+internação.
+(alternativa D) (CORRETA)
+O esquema empírico deve incluir cobertura para bacilos gram-negativos e
+Staphy/ococcus aureus resistente à meticilina (MRSA), utilizando um beta-lactâmico
+antipseudomonas associado a vancomicina ou linezolida.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 1 de 45
+
+Resposta comentada:
+O quadro é compatível com pneumonia hospitalar (PH), pois surgiu após 48 horas de
+internação, associada a fatores de risco para microrganismos multirresistentes, como
+internação prolongada e uso prévio de antibióticos.
+As diretrizes recomendam cobertura empírica ampla, incluindo bacilos gram-negativos
+(especialmente Pseudomonas aeruginosa) e MRSA, utilizando um beta-lactâmico
+antipseudomonas (ex.: piperacilina-tazobactam, cefepime ou meropenem) associado a
+vancomicina ou linezolida, com posterior descalonamento conforme culturas.
+O esquema com ceftriaxona + macrolídeo é recomendado para PAC, inclusive grave, mas
+não é adequado para pneumonia hospitalar, pois não cobre adequadamente patógenos
+nosocomiais nem microrganismos multirresistentes, comuns nesse contexto.
+Embora a coleta de culturas seja recomendada, o início do antibiótico não deve ser
+retardado, especialmente em quadros graves. O atraso na antibioticoterapia em
+pneumonias hospitalares está associado a aumento de mortalidade. O ajuste deve ser
+feito após resultados microbiológicos.
+A ausência de ventilação mecânica não exclui o risco de patógenos multirresistentes. A
+monoterapia com fluoroquinolona respiratória é insuficiente nesse cenário, podendo
+resultar em falha terapêutica e seleção de resistência.
+Referências:
+KALIL, A. C. et al. Management of adults with hospital-acquired and ventilator-associated
+pneumonia. Clinical Infectious Diseases, v. 63, n. 5, p. e61-e111, 2016.
+METLAY, J. P. et al. Diagnosis and treatment of adults with community-acquired
+pneumonia. American Journal of Respiratory and Critical Care Medicine, v. 200, n. 7, p.
+e45-e67, 2019.
+SOCIEDADE BRASILEIRA DE PNEUMOLOGIA E TISIOLOGIA. Diretrizes brasileiras para
+pneumonia adquirida na comunidade e pneumonia hospitalar. Jornal Brasileiro de
+Pneumologia, v. 44, supl. 2, 2018.
+MANDAL, S.; NAIR, G. B. Pneumonia. In: JAMESON, J. L. et al. Harrison's Principles of
+Internal Medicine. 21. ed. New York: McGraw-Hill, 2022.
+Feedback:
+2ª QUESTÃO
+Enunciado:
+(AFYA SALVADOR) Mulher de 41 anos procura o ambulatório por fadiga intensa há 3
+semanas, gengivorragia e equimoses espontâneas. Ao exame, apresenta palidez
+cutaneomucosa e petéquias em membros inferiores, sem linfonodomegalias importantes.
+Exames: hemoglobina 7,6 g/dL; plaquetas 18.000/mm3; leucócitos 22.000/mm3. No
+esfregaço de sangue periférico há blastos circulantes e o laudo descreve bastonetes de
+Auer.
+Identifique o diagnóstico mais provável a partir dos achados do hemograma e do
+esfregaço periférico.
+Alternativas:
+(alternativa A)
+Anemia aplástica adquirida.
+(alternativa B)
+Leucemia linfoide aguda.
+(alternativa C) (CORRETA)
+Leucemia mieloide aguda
+(alternativa D)
+Leucemia mieloide crônica em fase crônica.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 2 de 45
+
+Resposta comentada:
+Resposta correta: Leucemia mieloide aguda.
+Explicação breve:
+A presença de blastos no sangue periférico associada a bastonetes de Auer é um achado
+morfológico característico de linhagem mieloide, sustentando o diagnóstico de leucemia
+mieloide aguda no contexto de anemia e trombocitopenia sintomáticas.
+Alternativas incorretas:
+Leucemia linfoide aguda.
+Incorreta, pois bastonetes de Auer são achado típico de blastos mieloides, não de
+linhagem linfoide.
+Anemia aplástica adquirida.
+Incorreta, pois anemia aplástica costuma cursar com pancitopenia por falência medular,
+sem leucocitose com blastos circulantes e sem achados como bastonetes de Auer.
+Leucemia mieloide crônica em fase crônica.
+Incorreta, pois a fase crônica se caracteriza por leucocitose com desvio à esquerda
+(mielócitos/metamielócitos), e não por quadro dominado por blastos com bastonetes de
+Auer.
+Referência:
+MARTINS, Milton de A.; CARRILHO, Flair J.; ALVES, Venâncio Avancini F.; CASTILHO, Euclid.
+Clínica Médica, Volume 3: Doenças Hematológicas, Oncologia, Doenças Renais. 2. ed.
+Barueri: Manole, 2016. E-book. p. 177-179. ISBN 9788520447734. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447734/. Acesso em: 04
+fev. 2026.
+Feedback:
+3ª QUESTÃO
+Enunciado:
+(AFYA SANTA INÊS) Um homem de 42 anos é diagnosticado com tuberculose pulmonar
+sensível após baciloscopia e teste rápido molecular. Ele inicia o tratamento padronizado
+com rifampicina, isoniazida, pirazinamida e etambutol. Após dois meses de tratamento, o
+paciente apresenta melhora clínica importante e negativação da baciloscopia, porém
+passa a relatar náuseas intensas e dor abdominal persistente, além de elevação
+moderada das transaminases hepáticas. O paciente afirma que pretende interromper a
+medicação por conta própria, pois "já está se sentindo bem".
+Considerando o tratamento adequado da tuberculose, a resposta clínica e os efeitos
+colaterais apresentados, qual deve ser a conduta mais adequada da equipe de saúde?
+Alternativas:
+(alternativa A) (CORRETA)
+Avaliar a gravidade da hepatotoxicidade, ajustar ou suspender temporariamente os
+fármacos responsáveis e garantir a continuidade do tratamento pelo tempo
+recomendado.
+(alternativa B)
+Manter o esquema completo sem ajustes, orientando o paciente a tolerar os efeitos
+adversos até o fim do tratamento.
+(alternativa C)
+Reduzir a duração total do tratamento para três meses, já que houve boa resposta inicial.
+(alternativa D)
+Interromper definitivamente o tratamento, uma vez que houve melhora clínica e
+negativação da baciloscopia.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 3 de 45
+
+Resposta comentada:
+Alternativa "Avaliar a gravidade da hepatotoxicidade, ajustar ou suspender
+temporariamente os fármacos responsáveis e garantir a continuidade do tratamento pelo
+tempo recomendado." - Correta.
+O tratamento da tuberculose deve ser completo e supervisionado, respeitando a duração
+mínima recomendada para evitar recaídas e resistência bacteriana. Diante de efeitos
+adversos hepáticos, a conduta correta é avaliar a gravidade, podendo ser necessário
+ajustar doses ou suspender temporariamente os medicamentos hepatotóxicos,
+retomando o esquema assim que seguro. Essa alternativa demonstra compreensão e
+aplicação do conhecimento, conforme o nivel médio da Taxonomia de Bloom.
+Alternativa "Interromper definitivamente o tratamento, uma vez que houve melhora
+clínica e negativação da baciloscopia." - Incorreta.
+A melhora clínica e a negativação inicial da baciloscopia não autorizam a interrupção do
+tratamento. A suspensão precoce aumenta significativamente o risco de recidiva e
+resistência aos medicamentos, comprometendo o controle da doença.
+Alternativa "Manter o esquema completo sem ajustes, orientando o paciente a tolerar os
+efeitos adversos até o fim do tratamento." - Incorreta.
+Manter o tratamento sem considerar os efeitos colaterais ignora princípios de segurança
+do paciente. A hepatotoxicidade pode evoluir para quadros graves se não for
+adequadamente monitorada e manejada.
+Alternativa "Reduzir a duração total do tratamento para três meses, já que houve boa
+resposta inicial." - Incorreta.
+A redução da duração do tratamento não é indicada, mesmo com boa resposta inicial. O
+tempo mínimo é essencial para a erradicação do Mycobacterium tuberculosis, incluindo
+bacilos em fase latente.
+Referências:
+BRASIL. Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose
+no Brasil. Brasília: MS, 2019.
+Organização Mundial da Saúde (OMS). Treatment of Tuberculosis: Guidelines. WHO, 2010.
+CONDE, M. B. et al. Tuberculose: diagnóstico, tratamento e prevenção. Jornal Brasileiro de
+Pneumologia, 2009.
+Feedback:
+4ª QUESTÃO
+Enunciado:
+(AFYA SALVADOR) Mulher de 49 anos com artrite reumatoide em atividade moderada
+iniciou metotrexato há 12 semanas (15 mg/semana), com ácido fólico associado. Refere
+melhora parcial da dor, mas mantém rigidez matinal prolongada e sinovite em punhos e
+metacarpofalângicas. Na revisão, relata náuseas pós-tomada e duas úlceras orais nos
+últimos 10 dias. Exames laboratoriais: AST/ALT 2,5 vezes o limite superior da
+normalidade, hemograma sem citopenias, creatinina normal. Nega etilismo, mas usou
+anti-inflamatório não esteroidal de forma intermitente.
+Avalie o caso e selecione a melhor conduta para ajustar o plano terapêutico.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 4 de 45
+
+Alternativas:
+(alternativa A)
+Aumentar o metotrexato para a dose mais alta imediatamente, manter o AINE diário e
+reavaliar enzimas hepáticas somente se surgir icterícia.
+(alternativa B)
+Suspender o metotrexato definitivamente, manter AINE como monoterapia contínua e
+adiar terapia modificadora até remissão espontânea dos sintomas.
+(alternativa C)
+Manter o metotrexato na mesma dose, adicionar corticoide em alta dose e reavaliar em
+seis meses, independentemente das transaminases elevadas.
+(alternativa D) (CORRETA)
+Suspender temporariamente o metotrexato, revisar fatores de risco e co-medicações e
+reavaliar enzimas hepáticas antes de retomar ou ajustar o esquema.
+Resposta comentada:
+Resposta correta:
+Suspender temporariamente o metotrexato, revisar fatores de risco e co-medicações e
+reavaliar enzimas hepáticas antes de retomar ou ajustar o esquema.
+Explicação breve:
+Há resposta clínica incompleta e sinais de possível toxicidade do metotrexato (estomatite
+e elevação de transaminases). A conduta mais segura é interromper temporariamente,
+revisar fatores associados (incluindo co-medicações) e reavaliar a função hepática antes
+de reintroduzir/ajustar o tratamento modificador, mantendo o foco em controle de
+atividade com segurança.
+Alternativas incorretas:
+Manter o metotrexato na mesma dose, adicionar corticoide em alta dose e reavaliar em
+seis meses, independentemente das transaminases elevadas.
+Incorreta, pois elevação de transaminases exige reavaliação e ajuste do fármaco
+suspeito; corticoide não corrige hepatotoxicidade e uso prolongado em alta dose
+aumenta eventos adversos.
+Aumentar o metotrexato para a dose mais alta imediatamente, manter o AINE diário e
+reavaliar enzimas hepáticas somente se surgir icterícia.
+Incorreta, pois escalonar metotrexato diante de transaminases elevadas e estomatite
+pode agravar toxicidade; além disso, monitorização deve ser programada e não
+condicionada apenas a icterícia.
+Suspender o metotrexato definitivamente, manter AINE como monoterapia contínua e
+adiar terapia modificadora até remissão espontânea dos sintomas.
+Incorreta, pois AINE alivia sintomas, mas não substitui terapia modificadora; postergar
+controle modificador favorece progressão e piora funcional.
+Referência:
+MARTINS, Mílton de A.; CARRILHO, Flair J.; ALVES, Venâncio Avancini F.; CASTILHO, Euclid.
+Clínica Médica, Volume 5: Doenças Endócrinas e Metabólicas, Doenças Osteometabólicas;
+Doenças Reumatológicas, 2. ed. Barueri: Manole, 2016. E-book. p. 649. ISBN
+9788520447758. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447758/. Acesso em: 04
+fev. 2026.
+Feedback:
+5ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 5 de 45
+
+Enunciado:
+(AFYA PARAÍBA) Paciente masculino, 67 anos, internado em enfermaria por
+descompensação de insuficiência cardíaca. Relata dispneia aos mínimos esforços e
+ortopneia. Antecedentes de infarto agudo do miocárdio há 6 anos, hipertensão arterial
+sistêmica e diabetes mellitus. Ao exame físico: PA 100 x 60 mmHg, FC 92 bpm, FR 22
+irpm, SpO≥ 94% em ar ambiente. Ausculta cardíaca com B3 audível, pulmões com
+estertores bibasais, presença de edema de membros inferiores ++/4+. Extremidades
+frias. Ecocardiograma recente evidencia fração de ejeção do ventrículo esquerdo de 28%,
+dilatação ventricular esquerda e insuficiência mitral funcional moderada. Laboratório com
+BNP elevado e creatinina 1,6 mg/dL.
+Diante do quadro clínico e dos mecanismos fisiopatológicos envolvidos, assinale a
+alternativa que indica a conduta terapêutica mais adequada neste momento,
+considerando a correlação com as alterações hemodinâmicas do paciente.
+Alternativas:
+(alternativa A)
+Priorizar apenas o controle da frequência cardíaca com betabloqueador em altas doses,
+visando melhora da função sistólica ventricular.
+(alternativa B)
+Introduzir inotrópico positivo de rotina, independentemente do estado hemodinâmico,
+para correção imediata da fração de ejeção reduzida.
+(alternativa C)
+Suspender betabloqueador e iniciar infusão de volume, visando aumentar o débito
+cardíaco por elevação da pré-carga.
+(alternativa D) (CORRETA)
+Intensificar diurético de alça e iniciar vasodilatador, reduzindo as pressões de enchimento
+ventricular e a pós-carga, com melhora do débito cardíaco.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 6 de 45
+
+Resposta comentada:
+O paciente apresenta insuficiência cardíaca com fração de ejeção reduzida (ICFEr) em
+descompensação congestiva, caracterizada por: fração de ejeção gravemente reduzida.
+Elevação das pressões de enchimento (dispneia, estertores, edema, B3). Sinais de baixo
+débito relativo (extremidades frias, hipotensão limítrofe). Do ponto de vista
+fisiopatológico, a redução da contratilidade ventricular leva à elevação das pressões
+diastólicas finais do ventrículo esquerdo, congestão pulmonar e redução do débito
+cardíaco efetivo. A redução da pré-carga (diurético) e da pós-carga (vasodilatador)
+melhora a relação pressão-volume ventricular, reduz a congestão e pode aumentar o
+débito cardíaco, mesmo sem uso imediato de inotrópicos.
+As demais alternativas estão incorretas, pois:
+A expansão volêmica piora a congestão pulmonar.
+Inotrópicos são reservados para choque cardiogênico ou baixo débito grave.
+Betabloqueadores não devem ser titulados agressivamente em descompensação aguda.
+Referência:
+McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and
+chronic heart failure. European Heart Journal. 2021;42(36):3599-3726.
+Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Insuficiência Cardíaca Crônica e
+Aguda. Arquivos Brasileiros de Cardiologia.
+Braunwald E. Heart Failure: Pathophysiology and Clinical Management. Braunwald's Heart
+Disease, 12ª ed. Elsevier.
+GOLDMAN, L.; SCHAFER, A. I. Goldman Cecil Medicina [recurso eletrônico]. 26. ed. Rio de
+Janeiro: Elsevier, 2022. 2 vols. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 05
+fev. 2024.
+LOSCALZO, Joseph; et al. Medicina interna de Harrison [recurso eletrônico]. 21. ed. Porto
+Alegre: McGraw Hill, 2024. 2 Vols. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05
+fev. 2024.
+MARTINS, Mílton de Arruda et al (ed.). Clínica médica [recurso eletrônico]: doenças
+cardiovasculares, doenças respiratórias, emergências e terapia intensiva. 2. ed. São
+Paulo: Manole, 2016. v. 2. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520447727. Acesso em: 05 fev.
+Feedback:
+6ª QUESTÃO
+Enunciado:
+(AFYA PORTO NACIONAL) Paciente feminina, 34 anos, com diagnóstico de retocolite
+ulcerativa extensa há cinco anos, em uso irregular de mesalazina oral, é admitida no
+hospital com quadro de diarreia sanguinolenta intensa há sete dias, cerca de 10
+evacuações ao dia, dor abdominal difusa e febre de 38,5 °C. Ao exame físico, apresenta
+taquicardia (110 bpm), palidez cutânea e dor à palpação abdominal difusa, sem sinais de
+irritação peritoneal. Exames laboratoriais evidenciam hemoglobina de 9,8 g/dL, PCR
+elevada e hipoalbuminemia. Radiografia simples de abdome mostra cólon transverso
+com diâmetro de 5,5 cm, sem pneumoperitônio. Pesquisa de toxina para Clostridioides
+difficile é negativa.
+Considerando o quadro clínico e os achados apresentados, qual é a conduta inicial mais
+adequada para essa paciente?
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 7 de 45
+
+Alternativas:
+(alternativa A)
+Iniciar antibioticoterapia de amplo espectro e suspender anti-inflamatórios, pois a
+presença de febre sugere etiologia infecciosa como principal causa do quadro.
+(alternativa B)
+Introduzir mesalazina oral em dose máxima e manter acompanhamento ambulatorial,
+pois a ausência de megacólon tóxico permite tratamento fora do hospital.
+(alternativa C)
+Indicar a colectomia em caráter de urgência, pois o diâmetro colônico aumentado
+caracteriza megacólon tóxico estabelecido.
+(alternativa D) (CORRETA)
+Iniciar corticosteroide intravenoso em ambiente hospitalar, com monitorização clínica e
+laboratorial, e reavaliar resposta terapêutica em 3 a 5 dias.
+Resposta comentada:
+Alternativa correta: "Iniciar corticosteroide intravenoso em ambiente hospitalar, com
+monitorização clínica e laboratorial, e reavaliar resposta terapêutica em 3 a 5 dias." O
+quadro é compatível com retocolite ulcerativa aguda grave, cuja conduta inicial indicada
+é internação e uso de corticosteroide intravenoso, com avaliação precoce de resposta.
+Alternativa incorreta: "Introduzir mesalazina oral em dose máxima e manter
+acompanhamento ambulatorial, pois a ausência de megacólon tóxico permite tratamento
+fora do hospital." A paciente apresenta critérios de gravidade sistêmica, como febre,
+taquicardia e anemia, o que indica internação e tratamento com corticosteroide
+intravenoso.
+Alternativa incorreta: "Iniciar antibioticoterapia de amplo espectro e suspender anti-
+inflamatórios, pois a presença de febre sugere etiologia infecciosa como principal causa
+do quadro." A investigação para infecção por C. difficile foi negativa, e o quadro clínico é
+compatível com atividade grave da retocolite, cujo tratamento é imunossupressor, não
+antibiótico isolado
+Alternativa incorreta:ạẠIndicar colectomia de urgência, pois o diâmetro colônico
+aumentado caracteriza megacólon tóxico estabelecido." Megacólon tóxico é definido, em
+geral, por diâmetro colônico ≥6 cm associado a sinais sistêmicos. A paciente apresenta
+cólon dilatado, porém ainda sem critérios completos para indicação cirúrgica imediata.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Doença de
+Crohn e Retocolite Ulcerativa. Brasília: Ministério da Saúde, 2022.
+SOCIEDADE BRASILEIRA DE COLOPROCTOLOGIA. Diretrizes para o manejo das doenças
+inflamatórias intestinais. São Paulo: SBCP, 2021.
+MAGRO, F. et al. Third European evidence-based consensus on diagnosis and
+management of ulcerative colitis. Journal of Crohn's and Colitis, v. 11, n. 6, p. 649-670,
+Feedback:
+7ª QUESTÃO
+Enunciado:
+(AFYA PARNAIBA) Um homem de 59 anos, previamente hígido, foi diagnosticado com tente ido bico empico 972
+pneumonia adquirida na comunidade e iniciou tratamento antibiótico empírico há 72
+horas. Evolui com persistência de febre, piora da dispneia, taquicardia e aumento da
+leucocitose. Nova radiografia de tórax mostra aumento do infiltrado pulmonar, com
+suspeita de derrame pleural.
+Diante da suspeita de falha terapêutica e/ou complicações, assinale a alternativa correta
+quanto aos mecanismos envolvidos e à conduta adequada.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 8 de 45
+
+Alternativas:
+(alternativa A)
+A principal causa de falha terapêutica em pneumonias é exclusivamente a escolha
+inadequada do antibiótico, não sendo necessária investigação de complicações locais.
+(alternativa B)
+A ausência de melhora clínica nas primeiras 72 horas é esperada em todas as
+pneumonias, não sendo necessária reavaliação diagnóstica ou terapêutica nesse período.
+(alternativa C)
+O ajuste terapêutico deve ser realizado apenas após a identificação obrigatória do agente
+etiológico por cultura positiva.
+(alternativa D) (CORRETA)
+A persistência ou piora clínica após 48-72 horas de antibiótico sugere falha terapêutica,
+devendo-se reavaliar diagnóstico, adesão, resistência bacteriana e investigar
+complicações como derrame pleural ou empiema.
+Resposta comentada:
+A falha terapêutica em pneumonia é considerada quando não há melhora clínica após 48
+a 72 horas de tratamento adequado. As causas são multifatoriais e incluem erro
+diagnóstico, resistência bacteriana, adesão inadequada, dose ou via inadequadas, além
+do desenvolvimento de complicações, como derrame pleural parapneumônico, empiema,
+abscesso pulmonar ou sepse.
+A conduta correta envolve reavaliação clínica, novos exames de imagem, investigação
+microbiológica quando indicada e ajuste do esquema antimicrobiano.
+Embora a resolução radiológica seja lenta, espera-se melhora clínica progressiva (redução
+da febre, melhora da dispneia) dentro de 48-72 horas. A persistência ou piora dos
+sintomas não é normal e exige reavaliação imediata, pois está associada a maior risco de
+mortalidade.
+A escolha inadequada do antibiótico é uma causa importante, mas não é exclusiva.
+Complicações locais e sistêmicas são causas frequentes de falha terapêutica e devem ser
+ativamente investigadas, especialmente quando ha piora clinica ou radiologica.
+A decisão de ajuste terapêutico não deve aguardar obrigatoriamente cultura positiva,
+pois muitas pneumonias não têm agente identificado. O manejo deve ser guiado pela
+evolução clínica, exames laboratoriais, achados de imagem e perfil epidemiológico,
+evitando atraso na conduta.
+Referências:
+MANDAL, S.; NAIR, G. B. Pneumonia. In: JAMESON, J. L. et al. Harrison's Principles of
+Internal Medicine. 21. ed. New York: McGraw-Hill, 2022.
+SOCIEDADE BRASILEIRA DE PNEUMOLOGIA E TISIOLOGIA. Diretrizes brasileiras para
+pneumonia adquirida na comunidade em adultos imunocompetentes. Jornal Brasileiro de
+Pneumologia, v. 44, supl. 2, 2018.
+METLAY, J. P. et al. Diagnosis and treatment of adults with community-acquired
+pneumonia. American Journal of Respiratory and Critical Care Medicine, v. 200, n. 7, p.
+e45-e67, 2019.
+Feedback:
+8ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 9 de 45
+
+Enunciado:
+(AFYA PARNAIBA) Um homem de 67 anos é admitido no pronto atendimento com febre,
+tosse produtiva, dispneia e confusão mental iniciadas há dois dias. Apresenta
+antecedentes de hipertensão arterial sistêmica. Ao exame físico: FR = 34 irpm, PA =
+88/56 mmHg, FC = 118 bpm, SpO½ = 88% em ar ambiente. Exames laboratoriais
+mostram ureia = 68 mg/dL, leucocitose com desvio à esquerda e PCR elevada. A
+radiografia de tórax evidencia infiltrado bilateral.
+Com base no quadro clínico, exames laboratoriais e critérios de gravidade, assinale a
+alternativa correta.
+Alternativas:
+(alternativa A)
+O quadro permite tratamento ambulatorial, pois a presença de febre e leucocitose
+isoladamente não indicam gravidade.
+(alternativa B) (CORRETA)
+O paciente apresenta critérios de gravidade que indicam necessidade de internação em
+UTI, devido à instabilidade hemodinâmica, hipoxemia e alteração do nível de consciência.
+(alternativa C)
+Apesar da idade avançada, a ausência de comorbidades pulmonares afasta a
+necessidade de internação hospitalar.
+(alternativa D)
+A indicação de UTI só deve ser considerada após falha do tratamento antibiótico inicial
+em enfermaria.
+Resposta comentada:
+O paciente apresenta múltiplos critérios de gravidade em pneumonia, incluindo
+hipotensão arterial, taquipneia importante, hipoxemia, confusão mental, ureia elevada e
+infiltrado pulmonar bilateral. Esses achados estão associados a alto risco de mortalidade
+e configuram indicação de internação em UTI, segundo escores como CURB-65 e critérios
+maiores/menores de gravidade para pneumonia. A decisão por UTI deve ser precoce,
+baseada na gravidade inicial, e não apenas na resposta ao tratamento.
+Embora febre e leucocitose sejam achados comuns em pneumonia, não são os únicos
+parâmetros de gravidade. Nesse caso, há sinais claros de disfunção orgânica e
+instabilidade clínica (hipotensão, hipoxemia, confusão mental), o que contraindica
+tratamento ambulatorial.
+A idade ≥65 anos já constitui fator de risco independente para gravidade em pneumonia.
+Além disso, a decisão de internação não depende apenas da presença de doença
+pulmonar prévia, mas sim da avaliação global do quadro clínico, exames laboratoriais e
+sinais vitais, todos desfavoráveis neste caso.
+A indicação de UTI não deve aguardar falha terapêutica. A presença inicial de critérios de
+gravidade impõe a necessidade de manejo intensivo imediato, pois atrasos na admissão
+em UTI estão associados a piores desfechos clínicos.
+Referências:
+MANDAL, S.; NAIR, G. B. Pneumonia. In: JAMESON, J. L. et al. Harrison's Principles of
+Internal Medicine. 21. ed. New York: McGraw-Hill, 2022.
+SOCIEDADE BRASILEIRA DE PNEUMOLOGIA E TISIOLOGIA. Diretrizes brasileiras para
+pneumonia adquirida na comunidade em adultos imunocompetentes. Jornal Brasileiro de
+Pneumologia, v. 44, supl. 2, 2018.
+METLAY, J. P. et al. Diagnosis and treatment of adults with community-acquired
+pneumonia. American Journal of Respiratory and Critical Care Medicine, v. 200, n. 7, p.
+e45-e67, 2019.ę
+Feedback:
+9ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 10 de 45
+
+Enunciado:
+(AFYA ITAJUBÁ) Paciente de 58 anos, hipertenso de longa data, em seguimento na
+Unidade Básica de Saúde, retorna para avaliação de rotina. Encontra-se assintomático.
+Possui diagnóstico de HAS há 10 anos, com classificação estágio 2 desde o diagnóstico.
+Ultimas medidas na PA em consultório estão normais. Traz exames complementares
+solicitados que demonstram:
+HbA1C = 5,6%;
+Glicose 98 mg/dL;
+LDL = 68 mg/dL;
+Relação albumina/creatinina urinária de 110 mg/g.
+Sobre o caso clínico, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Hipertensão estágio 2 associada a LDL na meta terapêutica e perfil glicêmico normal
+configuram risco cardiovascular baixo.
+(alternativa B)
+Seria necessária a realização de ultrassonografia com Doppler de carótidas para melhor
+avaliação do risco cardiovascular dos pacientes.
+(alternativa C) (CORRETA)
+O paciente apresenta alto risco cardiovascular, baseado na classificação da hipertensão,
+bem como na presença de lesão de órgão-alvo.
+(alternativa D)
+Os exames complementares configuram a presença de pré-diabetes e isso classifica o
+paciente como alto risco cardiovascular.
+Resposta comentada:
+Paciente hipertenso, estágio 2, com presença de lesão de órgão-alvo, caracterizado por
+relação albumina/creatinina > 30 mg Isso caracteriza alto risco cardiovascular. Vamos
+analisar as alternativas:
+O paciente apresenta alto risco cardiovascular, baseado na classificação da hipertensão,
+bem como presença de lesão de órgão-alvo - Correto - hipertenso, estágio 2, com
+presença de lesão de órgão-alvo, caracterizado por relação albumina/creatinina >
+30mg/g.
+Os exames complementares configuram a presença de pré-diabetes e isso classifica o
+paciente como alto risco cardiovascular - Incorreto - o perfil glicêmico encontra-se
+normal.
+Hipertensão estágio 2 associada a LDL na meta terapêutica e perfil glicêmico normal
+configuram risco cardiovascular moderado - Incorreto - essa situação caracteriza
+moderado ou alto risco cardiovascular a depender do número de fatores de risco bem
+como lesão de órgão-alvo.
+Seria necessária a realização de ultrassonografia com Doppler de carótidas para melhor
+avaliação do risco cardiovascular do paciente - Incorreto - com os dados é possível
+concluir o risco cardiovascular do paciente em questão.
+Referência:
+Brandão AA, Rodrigues CIS, Bortolotto LA, Armstrong AC, Mulinari RA, Feitosa ADM, et al.
+Diretriz Brasileira de Hipertensão Arterial - 2025. Arq Bras Cardiol.
+2025;122(9):e20250624.
+Feedback:
+10₴ QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 11 de 45
+
+Enunciado:
+(AFYA PORTO NACIONAL) Mulher de 32 anos comparece ao ambulatório com queixa de
+cefaleia recorrente há aproximadamente 8 anos. Relata episódios de dor unilateral,
+pulsátil, de forte intensidade, associados a náuseas, fotofobia e fonofobia, com duração
+média entre 12 e 24 horas. As crises pioram com atividade física e levam à necessidade
+de repouso em ambiente escuro. Refere frequência média de 6 a 8 episódios por mês,
+com prejuízo funcional significativo. Nega sinais de alarme. O exame neurológico é
+normal. Utiliza analgésicos comuns de forma irregular, com alívio incompleto.
+Com base no quadro clínico apresentado, assinale a alternativa que indica a conduta
+terapêutica mais adequada, considerando o tratamento das crises e a necessidade de
+profilaxia.
+Alternativas:
+(alternativa A)
+Manter apenas tratamento sintomático com analgésicos comuns e medidas não
+farmacológicas, por não haver critérios clínicos que indiquem profilaxia medicamentosa.
+(alternativa B)
+Indicar oxigenoterapia em alto fluxo durante as crises e iniciar verapamil para profilaxia,
+uma vez que a apresentação clínica sugere cefaleia em salvas típica.
+(alternativa C) (CORRETA)
+Prescrever triptano como tratamento abortivo das crises e iniciar profilaxia com
+betabloqueador, pois o quadro é compatível com enxaqueca episódica frequente com
+indicação de terapia preventiva.
+(alternativa D)
+Orientar uso de anti-inflamatórios não esteroidais sob demanda e iniciar antidepressivo
+triciclico, considerando tratar-se de cefaleia do tipo tensional cronica.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 12 de 45
+
+Resposta comentada:
+Alternativa correta: "Prescrever triptano como tratamento abortivo das crises e iniciar
+profilaxia com betabloqueador, pois o quadro é compatível com enxaqueca episódica
+frequente com indicação de terapia preventiva."
+O quadro clínico é compatível com enxaqueca sem aura, caracterizada por dor unilateral,
+pulsátil, associada a sintomas neurovegetativos e piora com atividade física. A frequência
+≥ 4 crises/mês, associada a impacto funcional importante, indica profilaxia
+medicamentosa, sendo os betabloqueadores opção de primeira linha. Os triptanos são
+fármacos indicados para o tratamento abortivo das crises moderadas a graves.
+Alternativa incorreta: "Indicar oxigenoterapia em alto fluxo durante as crises e iniciar
+típica."
+verapamil para profilaxia, uma vez que a apresentação clínica sugere cefaleia em salvas
+A cefaleia em salvas apresenta crises de curta duração, frequentemente associadas a
+sinais autonômicos cranianos ipsilaterais, como lacrimejamento e congestão nasal,
+ausentes no caso descrito. Embora oxigênio e verapamil sejam tratamentos adequados
+para essa entidade, o diagnóstico não é compatível com o texto-base.
+Alternativa incorreta: "Orientar uso de anti-inflamatórios não esteroidais sob demanda e
+iniciar antidepressivo tricíclico, considerando tratar-se de cefaleia do tipo tensional
+crônica."
+A cefaleia do tipo tensional caracteriza-se por dor bilateral, em pressão ou aperto,
+geralmente sem náuseas e sem piora com atividade física. Apesar de a amitriptilina ser
+indicada na profilaxia da forma crônica, o padrão clínico apresentado corresponde à
+enxaqueca.
+Alternativa incorreta: "Manter apenas tratamento sintomático com analgésicos comuns e
+medidas não farmacológicas, por não haver critérios clínicos que indiquem profilaxia
+medicamentosaỊi
+A presença de crises frequentes e impacto funcional significativo configura indicação
+formal de profilaxia. A exclusão injustificada de terapias específicas, como triptanos e
+fármacos preventivos, contraria as diretrizes atuais.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas - Enxaqueca.
+Brasília: Ministério da Saúde, 2023.
+SOCIEDADE BRASILEIRA DE CEFALEIA. Diretrizes brasileiras para diagnóstico e tratamento
+das cefaleias primárias. Headache Medicine, São Paulo, v. 14, n. 1, p. 1-48, 2023.
+SPECIALI, J. G.; SILVA JÚNIOR, A. A. Cefaleias: diagnóstico e tratamento. 3. ed. Rio de
+Janeiro: Guanabara Koogan, 2022.
+Feedback:
+11ª QUESTÃO
+Enunciado:
+(AFYA PORTO VELHO) Homem, 59 anos, internado por hemorragia digestiva alta,
+apresenta hematêmese recente. Após estabilização hemodinâmica inicial, é encaminhado
+para endoscopia digestiva alta. Durante o exame, identifica-se úlcera gástrica com
+sangramento ativo em jato (Forrest la).
+Considerando a aplicação clínica do tratamento endoscópico, assinale a conduta mais
+adequada para controle do sangramento.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 13 de 45
+
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar terapia endoscópica combinada, com injeção de adrenalina seguida de método
+mecânico ou térmico.
+(alternativa B)
+Optar exclusivamente por tratamento medicamentoso com inibidor da bomba de prótons
+em bomba de infusão.
+(alternativa C)
+Finalizar o exame e aguardar a cessação espontânea do sangramento antes de qualquer
+intervenção endoscópica.
+(alternativa D)
+Suspender imediatamente a endoscopia e indicar tratamento cirúrgico imediato como
+primeira e única opção.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 14 de 45
+
+Resposta comentada:
+Justificativa da alternativa correta:
+Úlceras pépticas com sangramento ativo em jato (classificação de Forrest la) configuram
+quadro de alto risco de ressangramento, instabilidade hemodinâmica e aumento da
+mortalidade, sendo imprescindível a realização de tratamento endoscópico imediato.
+A terapia endoscópica combinada, com injeção de adrenalina associada a um método
+definitivo (mecânico, como clipagem, ou térmico), é superior à monoterapia. A adrenalina
+promove vasoconstrição e efeito tamponante transitório, enquanto o método
+complementar garante hemostasia duradoura. Essa abordagem é a conduta
+recomendada pelas principais diretrizes nacionais e internacionais para hemorragia
+digestiva alta não varicosa.
+Justificativa das alternativas incorretas:
+Tratamento medicamentoso isolado.
+O uso isolado de inibidores da bomba de prótons (IBP) não é eficaz para controle de
+sangramento ativo em jato, não substituindo a necessidade de intervenção endoscópica
+imediata.
+Tratamento cirúrgico imediato.
+A cirurgia está indicada apenas nos casos de falha da terapia endoscópica ou
+ressangramento refratário, não sendo considerada tratamento de primeira linha na
+maioria dos pacientes.
+Aguardar cessação espontânea do sangramento.
+O sangramento ativo em jato apresenta elevado risco de choque hemorrágico e
+ressangramento, tornando inadequada e insegura a conduta expectante.
+Competências avaliadas:
+Reconhecimento da gravidade clínica da hemorragia digestiva alta não varicosa.
+Identificação de achados endoscópicos de alto risco (classificação de Forrest).
+Tomada de decisão baseada em diretrizes clínicas atualizadas.
+Capacidade de indicar tratamento endoscópico adequado em contexto de urgência.
+Aplicação do raciocínio clínico em cenário de pronto atendimento hospitalar.
+Referências:
+LAINE, Loren; JENSEN, Dennis M. Management of patients with ulcer bleeding. American
+Journal of Gastroenterology, New York, v. 107, n. 3, p. 345-360, 2012.
+BARKUN, Alan N. et al. International consensus recomendations on the management of
+patients with nonvariceal upper gastrointestinal bleeding. Annals of Internal Medicine,
+Philadelphia, v. 152, n. 2, p. 101-113, 2010.
+ASGE STANDARDS OF PRACTICE COMMITTEE. The role of endoscopy in the management
+of acute non-variceal upper gastrointestinal bleeding. Gastrointestinal Endoscopy, St.
+Louis, v. 75, n. 6, p. 1132-1138, 2012.
+UPTODATE®. Endoscopic management of peptic ulcer bleeding, Waltham, MA: UpToDate
+Inc., 2024.
+SOCIEDADE BRASILEIRA DE ENDOSCOPIA DIGESTIVA (SOBED). Diretrizes para o manejo
+da hemorragia digestiva alta não varicosa. São Paulo: SOBED, 2022.
+Feedback:
+12ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 15 de 45
+
+Enunciado:
+(AFYA PARNAÍBA) Paciente adulto em seguimento ambulatorial apresenta fadiga
+progressiva. Não há sinais clínicos de sangramento ativo. O hemograma e exames
+complementares mostram:
+Hemoglobina: 8,6 g/dL (VR: 13-17 g/dL).
+Hematócrito: 26% (VR: 40-52%).
+VCM: 86 fL (VR: 80-100 fL).
+HCM: 28 pg (VR: 27-33 pg).
+RDW: normal.
+Reticulócitos: 1,0%.
+Índice reticulocitário corrigido: < 1.
+Ferro sérico: baixo.
+Ferritina: normal-alta.
+Capacidade total de ligação do ferro (CTLF): normal ou reduzida.
+Proteína C reativa: elevada.
+Com base na interpretação integrada do hemograma, dos índices hematimétricos, da
+resposta medular e do metabolismo do terro, a alternativa que melhor explica o quadro
+anêmico é:
+Alternativas:
+(alternativa A)
+Anemia sideroblástica adquirida, caracterizada por anemia normocítica ou macrocítica,
+RDW normal, ferro sérico reduzido e ferritina normal, decorrente de defeito na
+incorporação do ferro ao heme.
+(alternativa B)
+Anemia hemolítica crônica compensada, caracterizada por anemia normocítica, RDW
+normal, índice reticulocitário inadequado e ferro sérico reduzido, decorrente de
+destruição periférica das hemácias sem resposta medular eficaz.
+(alternativa C) (CORRETA)
+Anemia da doença crônica, caracterizada por anemia normocítica e normocrômica
+homogênea, RDW normal, índice reticulocitário inadequado, ferro sérico reduzido e
+ferritina normal ou elevada, decorrente da ação inflamatória mediada por hepcidina, que
+bloqueia a liberação e o uso do ferro pela medula óssea.
+(alternativa D)
+Anemia ferropriva em fase inicial, caracterizada por anemia normocítica com RDW
+normal, ferro sérico reduzido, ferritina discretamente preservada e índice reticulocitário
+baixo, decorrente de depleção progressiva dos estoques de ferro.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 16 de 45
+
+Resposta comentada:
+Justificativa detalhada da alternativa correta.
+O VCM e HCM normais, associados a RDW normal, indicam anemia homogênea.
+O índice reticulocitário corrigido < 1 demonstra resposta medular inadequada, afastando
+hemólise e sangramento ativo.
+O ferro sérico baixo com ferritina normal-alta e CTLF normal/reduzida, em contexto de
+inflamação (PCR elevada), é típico da anemia da doença crônica.
+A hepcidina, induzida por citocinas inflamatórias, reduz a absorção intestinal e bloqueia a
+liberação de ferro dos macrófagos, explicando o padrão laboratorial.
+Justificativa das alternativas incorretas.
+Incorreta: mesmo em fase inicial, a anemia ferropriva tende a cursar com ferritina
+reduzida e, com a progressão, RDW aumentado, o que não ocorre aqui.
+Incorreta: anemias hemolíticas apresentam índice reticulocitário elevado, refletindo
+resposta medular compensatória, ausente no caso.
+Incorreta: na anemia sideroblástica, o ferro sérico costuma estar normal ou elevado, com
+aumento da ferritina, e o diagnóstico depende de achados medulares específicos
+(sideroblastos em anel).
+Referências:
+GOLDMAN, L.; SCHAFER, A. I. Goldman Cecil Medicina [recurso eletrônico]. 26. ed. Rio de
+Janeiro: Elsevier, 2022. 2 vols. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 05 fev.
+2024.
+LOSCALZO, Joseph; et al. Medicina interna de Harrison [recurso eletrônico]. 21. ed. Porto
+Alegre: McGraw Hill, 2024. 2 Vols. Disponivel em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05 fev.
+2024.
+Feedback:
+13ª QUESTÃO
+Enunciado:
+(AFYA SANTA INÊS) Um homem de 64 anos, previamente hipertenso, é admitido na UTI
+com quadro súbito de dispneia intensa, dor torácica, taquicardia (FC 128 bpm) e
+hipotensão arterial (PA 80/50 mmHg). A admissão, apresenta saturação de Oz de 86% em
+ar ambiente, sendo iniciado oxigênio suplementar.
+A angiotomografia de tórax confirma tromboembolismo pulmonar extenso, com sinais de
+sobrecarga de ventrículo direito. O ecocardiograma à beira do leito evidencia dilatação e
+disfunção do ventrículo direito. Não há contraindicações absolutas para trombólise.
+Com base no quadro clínico e nos achados apresentados, qual é a conduta terapêutica
+mais adequada para o manejo desse paciente em cuidados intensivos?
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 17 de 45
+
+Alternativas:
+(alternativa A)
+Iniciar anticoagulação plena com heparina e observar resposta clínica nas próximas 48
+horas.
+(alternativa B) (CORRETA)
+Administrar trombólise sistêmica associada a suporte hemodinâmico e ventilatório.
+(alternativa C)
+Manter apenas oxigenoterapia e analgesia, pois a anticoagulação será suficiente após
+estabilização.
+(alternativa D)
+Optar por anticoagulação oral imediata, sem necessidade de intervenção adicional.
+Resposta comentada:
+Alternativa "Administrar trombólise sistêmica associada a suporte hemodinâmico e
+ventilatório." - Correta.
+O paciente apresenta TEP de alto risco (maciço), caracterizado por instabilidade
+hemodinâmica (hipotensão) e disfunção de ventrículo direito. Nesses casos, o tratamento
+indicado é a trombólise sistêmica, associada a suporte intensivo, incluindo
+oxigenoterapia, reposição volêmica cautelosa e, se necessário, drogas vasoativas. Essa
+alternativa demonstra a aplicação do conhecimento clínico em situação crítica,
+compatível com o nível médio da Taxonomia de Bloom.
+Alternativa "Iniciar anticoagulação plena com heparina e observar resposta clínica nas
+próximas 48 horas." - Incorreta.
+A anticoagulação isolada é adequada para TEP de baixo ou intermediário risco. Em
+pacientes instáveis hemodinamicamente, essa conduta é insuficiente e pode resultar em
+piora clínica ou óbito.
+Alternativa "Manter apenas oxigenoterapia e analgesia, pois a anticoagulação será
+suficiente após estabilização." - Incorreta.
+Oxigenoterapia e analgesia são medidas de suporte, mas não tratam a causa do choque
+nesse contexto. A ausência de intervenção específica (trombólise) compromete o
+prognóstico.
+Alternativa "Optar por anticoagulação oral imediata, sem necessidade de intervenção
+adicional." - Incorreta.
+Anticoagulantes orais não são indicados na fase aguda de TEP grave em UTI,
+especialmente em pacientes instáveis, devido à necessidade de ação rápida e
+possibilidade de ajustes imediatos.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas -
+Tromboembolismo Venoso. Brasília: MS, 2021.
+Konstantinides, S. V. et al. 2020 ESC Guidelines for the diagnosis and management of
+acute pulmonary embolism. European Heart Journal, 2020.
+Kearon, C. et al. Antithrombotic Therapy for VTE Disease. Chest, 2016.
+Goldhaber, S. Z. Pulmonary embolism. The New England Journal of Medicine, 2018.
+Feedback:
+14ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 18 de 45
+
+Enunciado:
+(AFYA PARAÍBA) Paciente feminina, 72 anos, em acompanhamento ambulatorial por
+dispneia progressiva aos esforços há cerca de 1 ano, atualmente aos pequenos esforços.
+Relata episódios de ortopneia leve, fadiga e edema maleolar vespertino. Antecedentes de
+hipertensão arterial sistêmica há mais de 25 anos, obesidade e fibrilação atrial
+permanente. Nega história de infarto do miocárdio. Ao exame físico: PA 150 x 85 mmHg,
+FC 88 bpm (irregular), FR 20 irpm. Ausculta cardíaca com B2 normofonética, sem sopros
+significativos. Presença de estertores finos bibasais. Edema de membros inferiores +/4+.
+Exames complementares: BNP: elevado; ECG: fibrilação atrial; Radiografia de tórax:
+congestão pulmonar leve. Ecocardiograma transtorácico: Fração de ejeção do VE: 55%;
+Atrio esquerdo dilatado; Hipertrofia ventricular esquerda concêntrica; Sinais indiretos de
+aumento da Pd2 do VE; Pressão sistólica da artéria pulmonar estimada elevada.
+Com base nos critérios diagnósticos e na fisiopatologia envolvida, assinale a alternativa
+que indica a conduta terapêutica inicial mais adequada, do ponto de vista da prescrição,
+para essa paciente.
+Alternativas:
+(alternativa A) (CORRETA)
+Prescrever diurético para controle de congestão e otimizar controle pressórico e da
+frequência cardíaca.
+(alternativa B)
+Introduzir sacubitril/valsartana e betabloqueador em doses plenas para melhorar o
+prognóstico.
+(alternativa C)
+Indicar espironolactona em dose máxima como monoterapia, independentemente do
+controle volêmico e pressórico.
+(alternativa D)
+Iniciar inotrópico oral de forma contínua, visando melhora da contratilidade ventricular e
+redução dos sintomas.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 19 de 45
+
+Resposta comentada:
+A paciente apresenta critérios diagnósticos clássicos de insuficiência cardíaca com fração
+de ejeção preservada (ICFEp), definidos por: Sintomas e sinais de insuficiência cardíaca
+(dispneia, ortopneia, edema); Fração de ejeção ≥ 50%; Evidências de disfunção diastólica
+e alterações estruturais cardíacas (hipertrofia ventricular esquerda, dilatação do átrio
+esquerdo); BNP elevado.
+Na ICFEp, a fisiopatologia central é a alteração do relaxamento e da complacência
+ventricular, levando à elevação das pressões de enchimento, apesar da fração de ejeção
+preservada. Do ponto de vista de prescrição, a conduta correta envolve. Diuréticos para
+alívio da congestão. Controle rigoroso da pressão arterial. Controle da frequência
+cardíaca, especialmente em fibrilação atrial. Tratamento das comorbidades associadas.
+Alternativas incorretas:
+Introduzir sacubitril/valsartana e betabloqueador em doses plenas para melhorar
+prognóstico. Incorreta. A fração de ejeção está preservada (55%). Sacubitril/valsartana
+tem indicação clara na ICFEr, não sendo tratamento inicial obrigatório na ICFEP.
+Iniciar inotrópico oral de forma contínua. Incorreta. Inotrópicos são indicados apenas em
+insuficiência cardíaca avançada com baixo débito e hipoperfusão. Nesta paciente, a
+fração de ejeção está preservada e não há sinais de choque cardiogênico.
+Indicar espironolactona em dose máxima como monoterapia. Incorreta. A espironolactona
+pode ser utilizada em casos selecionados, mas não como monoterapia. O tratamento
+inicial fundamental é o controle da congestão com diuréticos e o manejo das
+comorbidades.
+Referências:
+McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and
+chronic heart failure. European Heart Journal. 2021;42(36):3599-3726.
+Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Insuficiência Cardíaca - 2021.
+Arquivos Brasileiros de Cardiologia.
+Braunwald E. Heart Failure with Preserved Ejection Fraction. In: Braunwald's Heart
+Disease, 12ª ed. Elsevier.
+GOLDMAN, L.; SCHAFER, A. I. Goldman Cecil Medicina [recurso eletrônico]. 26. ed. Rio de
+Janeiro: Elsevier, 2022. 2 vols. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 05
+fev. 2024.
+LOSCALZO, Joseph; et al. Medicina interna de Harrison [recurso eletrônico]. 21. ed. Porto
+Alegre: McGraw Hill, 2024. 2 Vols. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05
+fev. 2024.
+MARTINS, Milton de Arruda et al (ed.). Clínica médica [recurso eletrônico]: doenças
+cardiovasculares, doenças respiratórias, emergências e terapia intensiva. 2. ed. São
+Paulo: Manole, 2016. v. 2. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520447727. Acesso em: 05 fev.
+2024.
+Feedback:
+15ª QUESTÃO
+Enunciado:
+(AFYA SALVADOR) Mulher de 44 anos refere dor e inchaço em ambas as mãos há 10
+semanas, com piora ao acordar e melhora parcial ao longo do dia. Relata rigidez matinal
+prolongada, dificuldade para abrir potes e para digitar. Ao exame, há sinovite dolorosa e
+aumento de volume em articulações metacarpofalângicas e interfalângicas proximais
+bilateralmente, com punhos dolorosos, sem nódulos evidentes. Nega febre. A equipe
+considera poliartrite inflamatória e discute que a avaliação deve combinar história/exame
+físico com testes laboratoriais específicos (autoanticorpos e provas inflamatórias) e
+imagem inicial para apoiar o diagnóstico e diferenciar de outras causas.
+Avalie o quadro e selecione o conjunto de exames clínicos e laboratoriais mais apropriado
+para confirmar a hipótese diagnóstica e diferenciar de outras artrites.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 20 de 45
+
+Alternativas:
+(alternativa A)
+FAN, complemento sérico e anti-DNA nativo, com radiografia de coluna cervical e pelve.
+(alternativa B) (CORRETA)
+Fator reumatoide, anti-CCP, VHS/PCR e radiografias de mãos e pés como avaliação inicial.
+(alternativa C)
+HLA-B27, sorologias virais e prova tuberculínica, com tomografia de tórax de rotina.
+(alternativa D)
+Acido úrico, dosagem de cálcio sérico e pesquisa de cristais urinários, com densitometria
+ossea.
+Resposta comentada:
+Resposta correta:
+Fator reumatoide, anti-CCP, VHS/PCR e radiografias de mãos e pés como avaliação inicial.
+Explicação:
+O quadro é típico de artrite inflamatória simétrica de pequenas articulações com rigidez
+matinal prolongada, sugerindo artrite reumatoide. Os exames mais úteis incluem
+autoanticorpos (FR e anti-CCP), provas inflamatórias (VHS/PCR) e radiografias de mãos e
+pés para avaliação inicial e documentação de alterações estruturais, além de apoiar a
+diferenciação com outras causas de poliartrite.
+Alternativas incorretas:
+FAN, complemento sérico e anti-DNA nativo, com radiografia de coluna cervical e pelve.
+Incorreta porque esse conjunto prioriza investigação de lúpus/autoimunidade sistêmica e
+não responde ao objetivo principal de confirmar artrite reumatoide; além disso, não inclui
+FR/anti-CCP e provas inflamatórias como abordagem inicial para o quadro descrito.
+Ácido úrico, dosagem de cálcio sérico e pesquisa de cristais urinários, com densitometria
+óssea.
+Incorreta porque gota e distúrbios osteometabólicos não são a principal hipótese diante
+de poliartrite inflamatória simétrica de pequenas articulações por mais de 6 semanas;
+densitometria não é exame de avaliação inicial da poliartrite.
+HLA-B27, sorologias virais e prova tuberculínica, com tomografia de tórax de rotina.
+Incorreta porque esse conjunto é mais direcionado a espondiloartrites, artrites virais ou
+avaliação infecciosa pré-terapia imunossupressora, não sendo o painel inicial mais
+apropriado para suspeita clínica de artrite reumatoide com predomínio em mãos/punhos.
+Referência:
+MARTINS, Mílton de A.; CARRILHO, Flair J.; ALVES, Venâncio Avancini F.; CASTILHO, Euclid.
+Clínica Médica, Volume 5: Doenças Endócrinas e Metabólicas, Doenças Osteometabólicas;
+Doenças Reumatológicas. 2. ed. Barueri: Manole, 2016. E-book. p. 649. ISBN
+9788520447758. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447758/. Acesso em: 04
+fev. 2026.
+Feedback:
+16ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 21 de 45
+
+Enunciado:
+(AFYA SANTA INES) Um homem de 58 anos, peso 80 kg, é atendido no pronto
+atendimento com diagnóstico confirmado de trombose venosa profunda proximal em
+membro inferior direito, evidenciada por ultrassonografia com Doppler venoso. O
+paciente não apresenta insuficiência renal, não tem histórico de sangramentos e não faz
+uso de outros anticoagulantes.
+A equipe decide iniciar tratamento com enoxaparina por via subcutânea, conforme
+protocolo para TVP aguda.
+Considerando o quadro clínico e as recomendações terapêuticas, qual é a prescrição
+correta quanto à dosagem da enoxaparina para esse paciente?
+Alternativas:
+(alternativa A)
+Enoxaparina 40 mg por via subcutânea uma vez ao dia.
+(alternativa B)
+Enoxaparina 1 mg total por via subcutânea a cada 12 horas.
+(alternativa C) (CORRETA)
+Enoxaparina 80 mg por via subcutânea a cada 12 horas.
+(alternativa D)
+Enoxaparina 80 mg por via subcutânea uma vez ao dia.
+Resposta comentada:
+Alternativa "Enoxaparina 80 mg por via subcutânea a cada 12 horas." - Correta.
+A dose terapêutica da enoxaparina para TVP é de 1 mg/kg a cada 12 horas, por via
+subcutânea. Para um paciente de 80 kg, a dose correta é 80 mg a cada 12 horas. Essa
+alternativa demonstra a aplicação do conhecimento com cálculo da dose, característica
+do nível médio da Taxonomia de Bloom.
+Alternativa "Enoxaparina 40 mg por via subcutânea uma vez ao dia." - Incorreta.
+A dose de 40 mg uma vez ao dia corresponde à profilaxia de TVP, e não ao tratamento de
+um evento trombótico já estabelecido.
+Alternativa "Enoxaparina 80 mg por via subcutânea uma vez ao dia." - Incorreta.
+Embora a dose de 80 mg esteja correta em relação ao peso, a frequência está
+inadequada, pois no tratamento da TVP a administração deve ser a cada 12 horas, e não
+uma vez ao dia (exceto em esquemas específicos de 1,5 mg/kg, não aplicáveis ao caso).
+Alternativa "Enoxaparina 1 mg total por via subcutânea a cada 12 horas." - Incorreta.
+A prescrição expressa dose total fixa (1 mg) ignora o peso corporal do paciente, o que
+torna a anticoagulação ineficaz e incorreta.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas - Trombose
+Venosa Profunda e Embolia Pulmonar. Brasília: MS, 2021.
+Kearon, C. et al. Antithrombotic Therapy for VTE Disease. Chest, 2016.
+Sociedade Brasileira de Angiologia e de Cirurgia Vascular (SBACV). Diretrizes para
+tratamento da trombose venosa profunda.
+UpToDate. Low molecular weight heparin dosing for treatment of venous
+thromboembolism.
+Feedback:
+17ª QUESTAO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 22 de 45
+
+Enunciado:
+(AFYA PORTO NACIONAL) Homem de 42 anos, com diagnóstico de retocolite ulcerativa
+extensa há 9 anos, em uso de mesalazina oral e tópica, comparece ao ambulatório para
+acompanhamento. Relata, nos últimos 4 meses, aumento do número de evacuações para
+4 a 5 por dia, com muco e episódios ocasionais de sangue. Refere fadiga progressiva e
+dor abdominal leve, sem febre ou perda ponderal significativa. Exames laboratoriais
+mostram hemoglobina de 10,2 g/dL, ferritina reduzida, proteína C-reativa discretamente
+elevada e calprotectina fecal aumentada. A colonoscopia de vigilância, realizada
+recentemente, evidenciou inflamação difusa moderada e uma área de displasia de baixo
+grau confirmada por biópsia. Ao exame físico, apresenta palidez cutaneomucosa leve,
+sem dor abdominal importante.
+Considerando o acompanhamento a longo prazo da retocolite ulcerativa, qual é a conduta
+mais adequada neste momento?
+Alternativas:
+(alternativa A)
+Iniciar antibioticoterapia empírica e manter acompanhamento clínico, pois a elevação da
+calprotectina sugere infecção intestinal associada.
+(alternativa B) (CORRETA)
+Intensificar o tratamento clínico e encaminhar para avaliação cirúrgica, pois a presença
+de displasia associada à atividade inflamatória indica maior risco de progressão
+neoplásica.
+(alternativa C)
+Suspender o tratamento anti-inflamatório e tratar apenas a anemia, pois os sintomas
+atuais são atribuídos à deficiência de ferro.
+(alternativa D)
+Manter o esquema atual de mesalazina e repetir colonoscopia em 5 anos, pois a displasia
+de baixo grau apresenta baixo risco de progressão.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 23 de 45
+
+Resposta comentada:
+Alternativa correta: "Intensificar o tratamento clínico e encaminhar para avaliação
+cirúrgica, pois a presença de displasia associada à atividade inflamatória indica maior
+risco de progressão neoplásica." Justificativa: Correta, pois a displasia em paciente com
+retocolite ulcerativa de longa duração exige reavaliação terapêutica e, frequentemente,
+indicação de colectomia ou abordagem cirúrgica especializada.
+"Manter o esquema atual de mesalazina e repetir colonoscopia em 5 anos, pois a
+displasia de baixo grau apresenta baixo risco de progressão."
+Justificativa: Incorreta, pois qualquer displasia confirmada em retocolite ulcerativa
+extensa requer conduta ativa e vigilância intensificada, não sendo adequado aguardar
+longo intervalo.
+"Suspender o tratamento anti-inflamatório e tratar apenas a anemia, pois os sintomas
+atuais são atribuídos à deficiência de ferro."
+Justificativa: Incorreta, pois há evidência de atividade inflamatória e displasia, exigindo
+ajuste terapêutico específico para a doença de base.
+"Iniciar antibioticoterapia empírica e manter acompanhamento clínico, pois a elevação da
+calprotectina sugere infecção intestinal associada."
+Justificativa: Incorreta, pois a calprotectina elevada indica inflamação intestinal,
+geralmente relacionada à atividade da doença, e não justifica antibiótico sem evidência
+de infecção.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Doença de
+Crohn e Retocolite Ulcerativa. Brasília: Ministério da Saúde, 2022.
+SOCIEDADE BRASILEIRA DE COLOPROCTOLOGIA. Diretrizes para vigilância do câncer
+colorretal em doenças inflamatórias intestinais. Revista Brasileira de Coloproctologia, São
+Paulo, 2021.
+SILVA, B. C. et al. Doença inflamatória intestinal: revisão prática para o clínico. Revista da
+Associação Médica Brasileira, São Paulo, 2020.
+KUMAR, V.; ABBAS, A.; ASTER, J. Robbins & Cotran: Patologia - bases patológicas das
+doenças. 10. ed. Rio de Janeiro: Elsevier, 2021.
+Feedback:
+18ª QUESTÃO
+Enunciado:
+(AFYA PORTO VELHO) Mulher, 42 anos, em seguimento ambulatorial, refere dor
+epigástrica em queimação e sensação de plenitude pós-prandial há aproximadamente 6
+meses, associadas a empachamento e náuseas ocasionais. Nega pirose retroesternal,
+regurgitação ácida, disfagia, vômitos persistentes, perda ponderal ou sangramento
+digestivo. Não faz uso de AINEs, álcool ou tabaco. O exame físico é normal. Endoscopia
+digestiva alta recente mostra mucosa esofagogástrica sem alterações, e o teste para
+Helicobacter pylori é negativo.
+Com base no quadro clínico apresentado, assinale a alternativa que indica o diagnóstico
+mais provável e a conduta farmacológica inicial mais adequada.
+000186.850014.96892 fd858.3be4a0.229d21.51c71 Página 24 de 45
+
+Alternativas:
+(alternativa A)
+Síndrome do intestino irritável com predomínio de dor abdominal, recomendando-se o
+uso de antiespasmódicos, antidepressivos tricíclicos e probióticos contínuos como
+primeira linha terapêutica.
+(alternativa B)
+Gastrite crônica associada ao Helicobacter pylori, com indicação de erradicação empírica
+por meio de esquema antibiótico combinado, independentemente dos achados
+endoscópicos e sintomatologia.
+(alternativa C) (CORRETA)
+Dispepsia funcional, devendo-se iniciar inibidor da bomba de prótons por período
+limitado, com reavaliação clínica e possibilidade de associação de procinético conforme o
+predominio dos sintomas.
+(alternativa D)
+Doença do refluxo gastroesofágico não erosiva, sendo indicada terapia contínua com
+inibidor da bomba de prótons, medidas posturais para controle sintomático e mudança
+alimentar para controle sintomático.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 25 de 45
+
+Resposta comentada:
+Justificativa da alternativa correta.
+O quadro clínico é compatível com dispepsia funcional, conforme os critérios de Roma IV,
+caracterizada pela presença de sintomas dispépticos persistentes na ausência de doença
+estrutural identificável à endoscopia digestiva alta.
+A fisiopatologia envolve mecanismos como hipersensibilidade visceral, alterações da
+acomodação gástrica e distúrbios da motilidade gastrointestinal, justificando a natureza
+funcional do quadro.
+A conduta terapêutica recomendada inclui:
+Inibidor da bomba de prótons (IBP) em dose plena por 4 a 8 semanas, especialmente no
+subtipo com dor epigástrica.
+Procinéticos (ex.: domperidona ou metoclopramida, com cautela quanto aos efeitos
+adversos) nos casos predominantes de plenitude pós-prandial e empachamento.
+Reavaliação da resposta clínica antes de escalonamento terapêutico.
+Justificativa das alternativas incorretas.
+Doença do refluxo gastroesofágico não erosiva - iniciar IBP por tempo indeterminado.
+Incorreta. A paciente não apresenta sintomas típicos de DRGE, como pirose e
+regurgitação. Ademais, o uso de IBP por tempo indeterminado não é indicado sem
+confirmação diagnóstica ou recorrência documentada.
+Gastrite crônica atrófica - erradicação empírica do Helicobacter pylori.
+Incorreta. A endoscopia digestiva alta foi normal e o teste para H. pylori foi negativo. Não
+há indicação de erradicação empírica na ausência de infecção comprovada.
+Síndrome do intestino irritável - antiespasmódico associado a antidepressivo tricíclico.
+Incorreta. Apesar da possível sobreposição entre síndrome do intestino irritável e
+dispepsia funcional, o quadro apresentado é predominantemente dispéptico, sem dor
+abdominal associada a alterações do hábito intestinal, o que afasta Sil como diagnóstico
+principal.
+Competências avaliadas.
+Aplicação dos critérios de Roma IV para dispepsia funcional.
+Diferenciação entre doenças funcionais e orgânicas do trato gastrointestinal alto.
+Reconhecimento dos mecanismos fisiopatológicos da dispepsia funcional.
+Indicação adequada de tratamento farmacológico inicial.
+Avaliação crítica da necessidade de escalonamento terapêutico.
+Referências:
+DANI, Ricardo. Gastroenterologia essencial [recurso eletrônico]. 4. ed. Rio de Janeiro:
+Guanabara Koogan, 2011. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-1970-4. Acesso em: fev.
+2026.
+SOCIEDADE BRASILEIRA DE GASTROENTEROLOGIA. Diretrizes para o diagnóstico e
+manejo da dispepsia funcional e da doença do refluxo gastroesofágico. São Paulo: SBG,
+2022.
+UPTODATE®. Functional dyspepsia: Management. Waltham, MA: UpToDate Inc., 2024.
+Feedback:
+19ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 26 de 45
+
+Enunciado:
+(AFYA PATO BRANCO) Homem de 29 anos procura ambulatório com queixa de cefaleia
+holocraniana há 3 meses, em aperto, de intensidade leve a moderada, sem náuseas ou
+vômitos, sem piora com atividade física. No exame neurológico, apresenta força muscular
+preservada, reflexos simétricos, pares cranianos sem alterações e ausência de sinais
+meningeos.
+Com base na história clínica e no exame neurológico descrito, qual é a interpretação mais
+adequada?
+Alternativas:
+(alternativa A)
+O exame neurológico sugere cefaleia secundária, devendo ser solicitada neuroimagem de
+urgência.
+(alternativa B)
+O exame neurológico normal indica necessidade imediata de punção lombar.
+(alternativa C)
+A ausência de sinais neurológicos exclui a possibilidade de enxaqueca.
+(alternativa D) (CORRETA)
+O exame neurológico é compatível com cefaleia primária, reforçando o diagnóstico de
+cefaleia tensional.
+Resposta comentada:
+Correta:
+- O exame neurológico é compatível com cefaleia primária, reforçando o diagnóstico de
+cefaleia tensional. - Correta. O exame neurológico normal, associado a cefaleia em
+aperto, bilateral e sem sintomas autonômicos ou gastrointestinais, é compatível com
+cefaleia tensional.
+Incorretas:
+- O exame neurológico sugere cefaleia secundária, devendo ser solicitada neuroimagem
+de urgência. - Incorreta. Na ausência de sinais de alarme e com exame neurológico
+normal, não há indicação de neuroimagem urgente.
+- A ausência de sinais neurológicos exclui a possibilidade de enxaqueca. - Incorreta.
+Enxaqueca pode cursar com exame neurológico normal entre as crises.
+- O exame neurológico normal indica necessidade imediata de punção lombar. -
+Incorreta. Punção lombar é reservada para situações específicas, como suspeita de
+infecção ou hemorragia subaracnoide.
+Referência:
+MINISTÉRIO DA SAÚDE (Brasil). Protocolos clínicos e diretrizes terapêuticas: abordagem
+das cefaleias. Brasília: Ministério da Saúde, 2021.
+Feedback:
+20ª QUESTÃO
+Enunciado:
+(AFYA SALVADOR) Homem de 55 anos refere dor articular crônica em mãos e joelhos há 2
+anos, com piora aos esforços e melhora com repouso. Nega rigidez matinal prolongada,
+descrevendo rigidez de poucos minutos. No exame, há dor à mobilização e discreta
+crepitação em joelhos, sem sinovite evidente. Para esclarecer o diagnóstico diferencial
+com artrite inflamatória e orientar conduta, foram solicitados exames laboratoriais: VHS
+normal, PCR normal, fator reumatoide negativo e anti-CCP negativo.
+Analise os marcadores laboratoriais e selecione a interpretação mais adequada para
+orientar o plano terapêutico.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 27 de 45
+
+Alternativas:
+(alternativa A)
+VHS e PCR normais indicam ausência de doença articular; os achados clínicos são
+funcionais e dispensam seguimento ou orientação terapêutica estruturada.
+(alternativa B) (CORRETA)
+Marcadores inflamatórios e autoanticorpos negativos tornam artrite reumatoide menos
+provável; o quadro mecânico favorece osteoartrite e direciona tratamento sintomático e
+não farmacológico.
+(alternativa C)
+Fator reumatoide negativo com anti-CCP negativo define gota crônica; o padrão clínico
+descrito exige uricosúria e alopurinol como primeira linha.
+(alternativa D)
+Autoanticorpos negativos confirmam artrite reumatoide soronegativa; o quadro sugere
+atividade inflamatória e exige início imediato de terapia modificadora em alta
+intensidade.
+Resposta comentada:
+Resposta correta:
+Marcadores inflamatórios e autoanticorpos negativos tornam artrite reumatoide menos
+provável; o quadro mecânico favorece osteoartrite e direciona tratamento sintomático e
+não farmacológico.
+Explicação:
+Na diferenciação entre artrite reumatoide e osteoartrite, PCR/VHS ajudam a estimar
+inflamação sistêmica e FR/anti-CCP contribuem para apoiar AR. No caso, o padrão clínico
+é mecânico (piora com uso, melhora com repouso, rigidez breve) e os marcadores
+inflamatórios e autoanticorpos estão negativos, o que reduz a probabilidade de AR e
+favorece osteoartrite, orientando manejo com medidas não farmacológicas (educação,
+exercício, perda ponderal quando indicado) e analgésicos/AINE conforme necessidade e
+risco.
+Alternativas incorretas:
+Autoanticorpos negativos confirmam artrite reumatoide soronegativa; o quadro sugere
+atividade inflamatória e exige início imediato de terapia modificadora em alta
+intensidade.
+Incorreta porque autoanticorpos negativos não "confirmam" AR; além disso, o quadro
+descrito é mecânico e não há evidência laboratorial de inflamação sistêmica, tornando
+inadequada a conclusão de alta atividade inflamatória com escalonamento imediato.
+VHS e PCR normais indicam ausência de doença articular; os achados clínicos são
+funcionais e dispensam seguimento ou orientação terapêutica estruturada.
+Incorreta porque osteoartrite pode cursar com VHS/PCR normais e, ainda assim, ser
+doença articular orgânica com impacto funcional, exigindo orientação terapêutica e
+seguimento.
+Fator reumatoide negativo com anti-CCP negativo define gota crônica; o padrão clínico
+descrito exige uricosúria e alopurinol como primeira linha.
+Incorreta porque FR/anti-CCP não definem gota; além disso, o padrão clínico apresentado
+não é típico de crises de gota e a conduta proposta não decorre dos dados fornecidos.
+Referência:
+MARTINS, Mílton de A.; CARRILHO, Flair J.; ALVES, Venâncio Avancini F.; CASTILHO, Euclid.
+Clínica Médica, Volume 5: Doenças Endócrinas e Metabólicas, Doenças Osteometabólicas;
+Doenças Reumatológicas. 2. ed. Barueri: Manole, 2016. E-book. p. 649. ISBN
+9788520447758. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447758/. Acesso em: 04
+Feedback:
+21ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 28 de 45
+
+Enunciado:
+(AFYA SALVADOR) Homem de 52 anos, trabalhador rural, com lesões cutâneas há 1 ano e
+piora progressiva. Refere parestesias em mãos e pés. No exame, observam-se lesões
+cutâneas disseminadas e relativamente simétricas, com áreas de infiltração e hipoestesia
+térmica e dolorosa. À palpação, há espessamento de mais de um tronco nervoso
+periférico. A baciloscopia do esfregaço intradérmico é positiva.
+Qual é a forma clínica de hanseníase mais compatível com o quadro?
+Alternativas:
+(alternativa A)
+Hanseníase dimorfo-tuberculoide, por múltiplas placas bem delimitadas, em geral
+assimétricas, com neurite mais localizada e baciloscopia frequentemente negativa.
+(alternativa B)
+Hanseníase indeterminada, por máculas discretas e inespecíficas com pouca alteração de
+sensibilidade e baixa carga bacilar.
+(alternativa C) (CORRETA)
+Hanseníase virchowiana, pela infiltração difusa com manifestações sistêmicas,
+comprometimento neural múltiplo e baciloscopia positiva.
+(alternativa D)
+Hanseníase tuberculoide, por lesões poucas e bem delimitadas com anestesia acentuada
+e baciloscopia geralmente negativa.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 29 de 45
+
+Resposta comentada:
+Resposta correta:
+Hanseníase virchowiana, pela infiltração difusa com manifestações sistêmicas,
+comprometimento neural múltiplo e baciloscopia positiva.
+Explicação:
+• conjunto de lesoes disseminadas e simetricas, infiltraçao cutanea ditusa, madarose,
+espessamento de lobulos de orelha, comprometimento neural multiplo e baciloscopia
+positiva é típico do polo multibacilar, particularmente da forma virchowiana, que se
+associa a alta carga bacilar e manifestações sistêmicas e mucosas.
+Alternativas incorretas:
+Hanseníase tuberculoide, por lesões poucas e bem delimitadas com anestesia acentuada
+e baciloscopia geralmente negativa.
+Incorreta porque a forma tuberculoide costuma ter poucas lesões, mais localizadas, e
+baciloscopia frequentemente negativa, diferindo do quadro disseminado, simétrico e
+baciloscopia positiva do texto-base.
+Hanseníase indeterminada, por máculas discretas e inespecíficas com pouca alteração de
+sensibilidade e baixa carga bacilar.
+Incorreta porque a forma indeterminada é mais inicial, com lesões pouco específicas e
+sem o padrão de infiltração difusa, madarose e sinais de alta carga bacilar apresentados,
+além de baciloscopia geralmente não ser positiva como no caso.
+Hanseníase dimorfo-tuberculoide, por múltiplas placas bem delimitadas, em geral
+assimétricas, com neurite mais localizada e baciloscopia frequentemente negativa.
+Incorreta porque o texto-base descreve acometimento neural de mais de um tronco e
+baciloscopia positiva, além de infiltração difusa e sinais típicos do polo virchowiano; isso
+não se alinha à descrição proposta para o polo dimorfo-tuberculoide.
+Referência:
+MARTINS, Mílton de A.; CARRILHO, Flair J.; ALVES, Venâncio Avancini F.; CASTILHO, Euclid.
+Clínica Médica, Volume 7: Alergia e Imunologia Clínica, Doenças da Pele, Doenças
+Infecciosas e Parasitárias. 2. ed. Barueri: Manole, 2016. E-book. p. 293. ISBN
+9788520447772. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447772/. Acesso em: 04
+fev. 2026.
+Feedback:
+22ª QUESTÃO
+Enunciado:
+(AFYA PARNAÍBA) Um homem de 52 anos, previamente hígido, procura atendimento com
+febre alta, tosse produtiva com expectoração amarelada, dispneia progressiva e dor
+torácica pleurítica há quatro dias. A radiografia de tórax evidencia consolidação lobar em
+lobo inferior direito.
+Considerando os mecanismos fisiopatológicos e microbiológicos das pneumonias
+adquiridas na comunidade (PAC) e sua relevância para o diagnóstico e manejo, assinale a
+alternativa correta.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 30 de 45
+
+Alternativas:
+(alternativa A)
+A fisiopatologia da PAC independe do agente etiológico, não havendo impacto do
+microrganismo envolvido na escolha do tratamento antimicrobiano inicial.
+(alternativa B)
+A PAC é causada predominantemente por vírus respiratórios, e por isso o uso de
+antibióticos empíricos não é recomendado na maioria dos casos em adultos.
+(alternativa C)
+Pneumonias bacterianas típicas cursam com inflamação predominantemente intersticial,
+com poucos sintomas sistêmicos, dificultando a correlação clínico-radiológica.
+(alternativa D) (CORRETA)
+A consolidação lobar resulta do preenchimento alveolar por exsudato inflamatório rico em
+neutrófilos, sendo Streptococcus pneumoniae o agente etiológico mais frequentemente
+associado, o que justifica antibioticoterapia empírica direcionada a esse patógeno.
+Resposta comentada:
+A pneumonia adquirida na comunidade caracteriza-se, do ponto de vista fisiopatológico,
+pelo preenchimento dos alvéolos por exsudato inflamatório (neutrófilos, fibrina e líquido),
+levando à consolidação pulmonar, hipoxemia e alteração da troca gasosa.
+O agente mais frequentemente associado à consolidação lobar clássica é o Streptococcus
+pneumoniae, principal patógeno da PAC em adultos. Esse conhecimento microbiológico
+fundamenta o uso de antibioticoterapia empírica inicial com cobertura adequada para
+pneumococo, especialmente em pacientes sem comorbidades.
+Embora vírus respiratórios (como influenza e SARS-CoV-2) sejam causas importantes de
+PAC, em adultos, as pneumonias bacterianas continuam sendo altamente prevalentes.
+Além disso, não é possível excluir infecção bacteriana apenas com base clínica inicial, o
+que torna o uso de antibióticos empíricos recomendado na maioria dos casos suspeitos
+de PAC bacteriana.
+A inflamação predominantemente intersticial está mais associada às pneumonias atípicas
+(como as causadas por Mycoplasma pneumoniae ou Chlamydophila pneumoniae). Já as
+pneumonias bacterianas típicas cursam com intenso processo inflamatório alveolar,
+sintomas sistêmicos exuberantes (febre alta, calafrios) e boa correlação clínico-
+radiológica.
+O agente etiológico tem impacto direto tanto na fisiopatologia quanto na escolha do
+tratamento antimicrobiano. Microrganismos típicos e atípicos demandam esquemas
+terapêuticos distintos, e o conhecimento epidemiológico e microbiológico é essencial para
+o manejo adequado e racional da PAC.
+Referências:
+MANDAL, S.; NAIR, G. B. Pneumonia. In: JAMESON, J. L. et al. Harrison's Principles of
+Internal Medicine. 21. ed. New York: McGraw-Hill, 2022.
+SOCIEDADE BRASILEIRA DE PNEUMOLOGIA E TISIOLOGIA. Diretrizes brasileiras para
+pneumonia adquirida na comunidade em adultos imunocompetentes. Jornal Brasileiro de
+Pneumologia, v. 44, supl. 2, 2018.
+METLAY, J. P. et al. Diagnosis and treatment of adults with community-acquired
+pneumonia. American Journal of Respiratory and Critical Care Medicine, v. 200, n. 7, p.
+e45-e67, 2019.
+Feedback:
+23ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 31 de 45
+
+Enunciado:
+(AFYA PARAIBA) Paciente masculino, 59 anos, acompanhado em ambulatório de
+cardiologia por insuficiência cardíaca crônica. Refere dispneia aos esforços moderados
+(NYHA II), sem internações recentes. Antecedentes de infarto agudo do miocárdio há 3
+anos, hipertensão arterial sistêmica e dislipidemia. Ao exame físico: PA 118 x 72 mmHg,
+FC 64 bpm, FR 18 irpm. Ausculta cardíaca com B3 discreta. Ausculta pulmonar sem
+estertores. Edema maleolar ausente. Extremidades quentes. Exames complementares
+recentes: Ecocardiograma: fração de ejeção do VE = 32%, ventrículo esquerdo dilatado;
+Creatinina: 1,1 mg/dL; Potássio: 4,4 mEq/L; BNP: elevado; ECG: ritmo sinusal. Medicações
+em uso: Furosemida 20 mg/dia; Losartana 50 mg/dia; Sinvastatina 40 mg/noite.
+Assinale a alternativa que apresenta a conduta mais adequada neste momento, do ponto
+de vista de rastreamento terapêutico e otimização do tratamento.
+Alternativas:
+(alternativa A)
+Indicar diurético em dose elevada como terapia isolada, pois o principal objetivo é
+controle de sintomas congestivos.
+(alternativa B) (CORRETA)
+Introduzir betabloqueador e antagonista da aldosterona, mantendo o diurético, e iniciar
+inibidor de SGLT2.
+(alternativa C)
+Suspender o diurético e substituir o BRA por digoxina, visando melhora da contratilidade
+e controle sintomático.
+(alternativa D)
+Manter o esquema atual, pois o paciente encontra-se clinicamente estável, sem critérios
+para intensificação terapêutica no momento.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 32 de 45
+
+Resposta comentada:
+O paciente apresenta insuficiência cardíaca com fração de ejeção reduzida (ICFEr),
+definida por:
+• FEVE ≤ 40% (no caso, 32%).
+• Sintomas compatíveis (NYHA II).
+• Estabilidade clínica e hemodinâmica.
+• Função renal e potássio dentro de limites seguros.
+Segundo as diretrizes atuais, todos os pacientes com ICFEr devem ser rastreados
+ativamente para uso dos quatro pilares terapêuticos, independentemente da intensidade
+dos sintomas:
+1. IECA/ARB ou ARNI → já em uso (losartana).
+2. Betabloqueador com evidência em IC → ainda não introduzido.
+3. Antagonista da aldosterona (espironolactona) → indicado (K+ normal, Cr normal).
+4. Inibidor de SGLT2 → indicado mesmo na ausência de diabetes.
+O diurético deve ser mantido para controle volêmico, embora não reduza mortalidade.
+Incorreta: Manter o esquema atual, pois o paciente encontra-se clinicamente estável, sem
+critérios para intensificação terapêutica no momento. Incorreta. Todo paciente com ICFEr
+deve receber os quatro pilares terapêuticos, independentemente da estabilidade clínica,
+pois essas medicações reduzem mortalidade e progressão da doença.
+Incorreta: Suspender o diurético e substituir o BRA por digoxina, visando melhora da
+contratilidade e controle sintomático. Incorreta. A digoxina não substitui IECA/BRA/ARNI e
+não reduz mortalidade. Seu uso é reservado para pacientes sintomáticos apesar da
+terapia otimizada, ou com fibrilação atrial.
+Incorreta: Indicar diurético em dose elevada como terapia isolada, pois o principal
+objetivo é controle de sintomas congestivos. Incorreta. Diuréticos melhoram apenas
+sintomas, sem impacto na mortalidade. O tratamento fundamental da ICFEr baseia-se nas
+terapias modificadoras de prognóstico (quatro pilares).
+Referências:
+McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and
+chronic heart failure. European Heart Journal. 2021;42(36):3599-3726.
+Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Insuficiência Cardíaca -
+Atualização 2021/2022. Arquivos Brasileiros de Cardiologia.
+Heidenreich PA, et al. 2022 AHA/ACC/HFSA Guideline for the Management of Heart
+Failure. Circulation. 2022.
+GOLDMAN, L.; SCHAFER, A. I. Goldman Cecil Medicina [recurso eletrônico]. 26. ed. Rio de
+Janeiro: Elsevier, 2022. 2 vols. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 05
+fev. 2024.
+LOSCALZO, Joseph; et al. Medicina interna de Harrison [recurso eletrônico]. 21. ed. Porto
+Alegre: McGraw Hill, 2024. 2 Vols. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05
+fev. 2024.
+MARTINS, Mílton de Arruda et al (ed.). Clínica médica [recurso eletrônico]: doenças
+cardiovasculares, doenças respiratórias, emergências e terapia intensiva. 2. ed. São
+Paulo: Manole, 2016. v. 2. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520447727. Acesso em: 05 fev.
+Feedback:
+24ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 33 de 45
+
+Enunciado:
+(AFYA SALVADOR) Mulher de 46 anos, com diagnóstico recente de artrite reumatoide (12
+semanas de sintomas), apresenta sinovite ativa em punhos, metacarpofalângicas e
+interfalângicas proximais bilateralmente, com rigidez matinal prolongada e limitação
+funcional. Exames mostram PCR elevada. Não há história de hepatopatia, etilismo
+importante ou gestação; creatinina normal. A paciente pergunta qual medicamento "de
+base" deve iniciar, como se usa, e por quanto tempo costuma ser mantida antes de
+reavaliar resposta.
+Aplique a conduta terapêutica inicial e selecione o esquema medicamentoso mais
+adequado, incluindo dose e tempo mínimo para reavaliação de resposta clínica.
+Alternativas:
+(alternativa A)
+Iniciar prednisona em alta dose como monoterapia contínua, mantendo por 6 meses
+antes de considerar droga modificadora.
+(alternativa B)
+Iniciar metotrexato diário, sem ácido fólico, e reavaliar resposta em 7 dias para decidir
+escalonamento imediato.
+(alternativa C) (CORRETA)
+Iniciar metotrexato semanal, com ácido fólico associado, e reavaliar resposta em 8-12
+semanas antes de ajustar o esquema.
+(alternativa D)
+Iniciar anti-inflamatório não esteroidal como tratamento de base, mantendo enquanto
+houver dor e edema articular.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 34 de 45
+
+Resposta comentada:
+Resposta correta:
+Iniciar metotrexato semanal, com ácido fólico associado, e reavaliar resposta em 8-12
+semanas antes de ajustar o esquema.
+Explicação:
+Na artrite reumatoide ativa, a estratégia inicial envolve droga modificadora do curso da
+doença, com o metotrexato como opção central quando não há contraindicações,
+administrado semanalmente e com suplementação de ácido fólico para reduzir
+toxicidade. A resposta terapêutica deve ser reavaliada de forma programada
+(tipicamente em algumas semanas), ajustando-se o plano conforme a atividade da
+doença e a tolerancia.
+Alternativas incorretas:
+Iniciar metotrexato diário, sem ácido fólico, e reavaliar resposta em 7 dias para decidir
+escalonamento imediato.
+Incorreta porque o metotrexato, no manejo da artrite reumatoide, é utilizado em
+esquema semanal, e a ausência de ácido fólico aumenta o risco de eventos adversos;
+além disso, a reavaliação de eficácia não se baseia em apenas 7 dias.
+Iniciar prednisona em alta dose como monoterapia continua, mantendo por 6 meses
+antes de considerar droga modificadora.
+Incorreta porque corticosteroide não deve ser a única terapia de base por longo período;
+ele não substitui droga modificadora e aumenta risco de efeitos adversos quando
+mantido em altas doses e por tempo prolongado.
+Iniciar anti-inflamatório não esteroidal como tratamento de base, mantendo enquanto
+houver dor e edema articular.
+Incorreta porque AINEs aliviam sintomas, mas não controlam progressão nem substituem
+terapia modificadora na artrite reumatoide ativa.
+Referência:
+MARTINS, Mílton de A.; CARRILHO, Flair J.; ALVES, Venâncio Avancini F.; CASTILHO, Euclid.
+Clínica Médica, Volume 5: Doenças Endócrinas e Metabólicas, Doenças Osteometabólicas;
+Doenças reumatológicas. 2. ed. Barueri: Manole, 2016. E-book. p. 649. ISBN
+9788520447758. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447758/. Acesso em: 04
+fev. 2026.
+Feedback:
+25ª QUESTÃO
+Enunciado:
+(AFYA SALVADOR) Homem de 27 anos, previamente hígido, foi tratado por linfoma de
+Hodgkin clássico com 6 ciclos de ABVD e obteve resposta clínica completa. Comparece
+ao ambulatório 1 mês após o término do tratamento assintomático, sem
+linfonodomegalias ao exame físico e com hemograma sem alterações relevantes. Ele
+pergunta como será o acompanhamento "para garantir que não volte" e se precisa
+realizar tomografias periódicas mesmo sem sintomas.
+Com base neste caso clínico, selecione a estratégia de monitorização pós-tratamento
+mais adequada, integrando avaliação clínica, exames laboratoriais e uso de exames de
+Imagem.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 35 de 45
+
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar seguimento clínico-laboratorial trimestral nos 2 primeiros anos, semestral nos 3
+seguintes e anual após o 5°; solicitar imagem apenas sob indicação clínica.
+(alternativa B)
+Realizar exames laboratoriais semanais no primeiro mês e suspender seguimento após 6
+meses se estiver assintomático; solicitar imagem apenas se houver febre alta.
+(alternativa C)
+Realizar anamnese, exame físico e exames laboratoriais uma vez ao ano desde o
+primeiro ano; solicitar tomografia de rotina semestralmente por 5 anos.
+(alternativa D)
+Realizar anamnese e exame físico mensal por 5 anos, sem exames laboratoriais; solicitar
+PET/CT trimestral de rotina no primeiro ano, mesmo sem sintomas.
+Resposta comentada:
+Resposta correta:
+Realizar anamnese, exame físico e avaliação laboratorial a cada 3 meses nos 2 primeiros
+anos, a cada 6 meses nos 3 anos seguintes e, após 5 anos, anualmente; solicitar imagem
+conforme indicação clínica.
+Explicação breve:
+O seguimento ambulatorial após tratamento visa detectar recidiva e complicações
+tardias, com maior frequência nos primeiros 2 anos (maior risco de recidiva). A estratégia
+recomendada é acompanhamento clínico e laboratorial periódico (3/3 meses nos 2
+primeiros anos; 6/6 meses nos 3 anos subsequentes; após 5 anos, anual), reservando
+exames de imagem para situações com indicação clínica, e não de rotina.
+Alternativas incorretas:
+Realizar anamnese, exame físico e exames laboratoriais apenas uma vez ao ano desde o
+primeiro ano; solicitar tomografia de rotina semestralmente por 5 anos.
+Incorreta, pois reduz a frequência justamente no período de maior risco (primeiros 2
+anos) e propõe imagem rotineira, quando o seguimento enfatiza avaliação clínico-
+laboratorial e imagem orientada por indicação clínica.
+Realizar anamnese e exame físico mensal por 5 anos, sem exames laboratoriais; solicitar
+PET/CT trimestral de rotina no primeiro ano, mesmo sem sintomas.
+Incorreta, pois exclui o componente laboratorial do seguimento e indica PET/CT seriado
+de rotina, o que não corresponde ao acompanhamento recomendado, que não preve
+imagem repetida sem indicação clínica.
+Realizar exames laboratoriais semanais no primeiro mês e suspender seguimento após 6
+meses se estiver assintomático; solicitar imagem apenas se houver febre alta.
+Incorreta, pois interrompe precocemente o acompanhamento, ignorando o maior risco de
+recidiva nos primeiros anos, e restringe indevidamente o gatilho para investigação por
+imagem a um único sintoma.
+Referência:
+MARTINS, Milton de A.; CARRILHO, Flair J.; ALVES, Venâncio Avancini F.; CASTILHO,
+Euclides. Clínica Médica, Volume 3: Doenças Hematológicas, Oncologia, Doenças Renais.
+2. ed. Barueri: Manole, 2016. E-book. pág. IV. ISBN 9788520447734. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447734/. Acesso em: 05
+fev. 2026.
+Feedback:
+26ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 36 de 45
+
+Enunciado:
+(AFYA PORTO VELHO) Homem, 61 anos, cirrótico por etilismo, dá entrada no pronto-
+socorro com hematêmese volumosa há 2 horas, associada a melena e episódio de
+lipotímia. No exame físico, apresenta-se pálido, sudorético, com pressão arterial de 85/55
+mmHg, frequência cardíaca de 118 bpm, extremidades frias e tempo de enchimento
+capilar prolongado. Saturação periférica de oxigênio de 96% em ar ambiente. Abdômen
+flácido, indolor.
+Considerando o quadro clínico, o diagnóstico mais provável e as recomendações atuais
+para o manejo inicial da hemorragia digestiva alta em paciente cirrótico, qual é a conduta
+terapêutica inicial mais adequada antes da realização da endoscopia digestiva alta?
+Alternativas:
+(alternativa A)
+Realizar intubação orotraqueal profilática, iniciar betabloqueador não seletivo por via
+sistêmica para redução da pressão portal e encaminhar o paciente diretamente para UTI.
+(alternativa B)
+Iniciar inibidor da bomba de prótons intravenoso em dose plena, manter jejum absoluto,
+realizar monitorização clínica seriada e postergar intervenções adicionais.
+(alternativa C) (CORRETA)
+Realizar acesso venoso calibroso, iniciar reposição volêmica com cristaloides, indicar
+transfusão conforme critérios e associar octreotídeo e antibioticoprofilaxia.
+(alternativa D)
+Priorizar expansão volêmica com solução coloide, solicitar colonoscopia de urgência para
+investigação da melena e adiar terapias farmacológicas específicas até definição
+etiológica.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 37 de 45
+
+Resposta comentada:
+Justificativa da alternativa correta.
+Realizar acesso venoso calibroso, iniciar ressuscitação volêmica com cristaloides, indicar
+transfusão de hemocomponentes conforme critérios clínicos e laboratoriais, além de
+associar octreotídeo intravenoso e antibioticoprofilaxia, configurando a abordagem inicial
+adequada na suspeita de hemorragia digestiva alta varicosa, especialmente em paciente
+instável.
+Essa conduta visa à estabilização hemodinâmica imediata, redução da pressão portal e
+prevenção de infecções bacterianas, medidas comprovadamente associadas à redução
+de mortalidade nesse cenário.
+Justificativa das alternativas incorretas.
+Uso isolado de IBP e adiamento da endoscopia.
+Incorreta. O uso isolado de inibidor da bomba de prótons não é suficiente em contexto de
+instabilidade hemodinâmica e suspeita de sangramento varicoso. Além disso, a
+endoscopia digestiva alta não deve ser postergada após a estabilização inicial, pois é
+fundamental tanto para diagnóstico quanto para tratamento definitivo.
+Uso de betabloqueadores na fase aguda e intubação rotineira.
+Incorreta. Betabloqueadores não seletivos são contraindicados na fase aguda da
+hemorragia, pois podem agravar a hipotensão e o choque. A intubação orotraqueal não é
+rotina, devendo ser reservada a situações específicas, como rebaixamento do nível de
+consciência ou risco de aspiração.
+Reposição volêmica com coloides e indicação de colonoscopia.
+Incorreta. Os coloides não são recomendados como primeira linha na ressuscitação
+volêmica inicial. A colonoscopia não é exame inicial na suspeita de hemorragia digestiva
+alta, devendo-se priorizar a endoscopia digestiva alta após estabilização do paciente.
+Competências avaliadas:
+Reconhecimento do manejo inicial da hemorragia digestiva alta varicosa.
+Aplicação de princípios de ressuscitação hemodinâmica em paciente instável.
+Indicação adequada de terapia vasoativa e antibioticoprofilaxia.
+Capacidade de diferenciar condutas na fase aguda versus fase crônica da doença
+hepática.
+Tomada de decisão baseada em protocolos e diretrizes de emergência.
+Referências:
+DANI, Ricardo. Gastroenterologia essencial [recurso eletrônico]. 4. ed. Rio de Janeiro:
+Guanabara Koogan, 2011. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-1970-4. Acesso em: fev.
+2026.
+BARKUN, Alan N. et al. International consensus recomendations on the management of
+patients with nonvariceal upper gastrointestinal bleeding. Annals of Internal Medicine,
+Philadelphia, v. 152, n. 2, p. 101-113, 2010.
+UPTODATE®. Acute esophageal variceal hemorrhage in adults. Waltham, MA: UpToDate
+Inc., 2024.
+SOCIEDADE BRASILEIRA DE HEPATOLOGIA. Diretrizes para o manejo da hemorragia
+digestiva alta varicosa. São Paulo: SBH, 2022.
+Feedback:
+27ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 38 de 45
+
+Enunciado:
+(AFYA PARNAÍBA) Paciente adulto, em investigação de anemia, apresenta os seguintes
+exames laboratoriais:
+Hemoglobina: 9,5 g/dL.
+VCM: 68 fL.
+Ferritina: reduzida.
+Ferro sérico: reduzido.
+Capacidade total de ligação do ferro (CTLF): aumentada.
+Reticulócitos: normais.
+Com base nesses achados laboratoriais, o tipo de anemia mais compatível é:
+Alternativas:
+(alternativa A)
+Anemia hemolítica, caracterizada por anemia normocítica, aumento de reticulócitos,
+bilirrubina indireta elevada e redução da haptoglobina, refletindo destruição aumentada
+de hemácias.
+(alternativa B)
+Anemia megaloblástica, caracterizada por macrocitose, hipersegmentação de neutrófilos
+e deficiência de vitamina B12 ou ácido fólico, refletindo alteração na síntese de DNA.
+(alternativa C) (CORRETA)
+Anemia ferropriva, caracterizada por microcitose, hipocromia, ferritina baixa e aumento
+da capacidade de ligação do ferro, refletindo deficiência de ferro para a eritropoese.
+(alternativa D)
+Anemia da doença crônica, caracterizada por normocitose ou discreta microcitose,
+ferritina normal ou aumentada e ferro sérico reduzido, refletindo bloqueio do
+metabolismo do ferro por inflamação.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 39 de 45
+
+Resposta comentada:
+Alternativa correta: Anemia ferropriva.
+O conjunto VCM baixo + ferritina baixa + ferro baixo + CTLF elevada é clássico de
+anemia ferropriva, a principal anemia carencial.
+Alternativa incorreta: Anemia hemolítica.
+Anemia hemolítica costuma ser normocítica ou discretamente macrocítica, não
+microcítica. Espera-se reticulocitose (aumento de reticulócitos), pois a medula responde à
+destruição das hemácias. Também haveria bilirrubina indireta elevada e haptoglobina
+reduzida, achados não descritos nos exames. No caso, o paciente tem VCM baixo e
+reticulócitos normais, o que contradiz o quadro hemolítico.
+Alternativa incorreta: Anemia da doença crônica.
+Na anemia da doença crônica, a ferritina costuma estar normal ou aumentada (proteína
+de fase aguda), enquanto aqui está reduzida. O ferro sérico é baixo em ambas, mas na
+doença crônica a CTLF é normal ou reduzida, não aumentada. O paciente apresenta perfil
+clássico de deficiência de ferro, não de bloqueio metabólico por inflamação.
+Alternativa incorreta: Anemia megaloblástica.
+Anemia megaloblástica é macrocítica (VCM elevado), enquanto o paciente tem
+microcitose (VCM = 68 fL). Espera-se hipersegmentação de neutrófilos e deficiência de
+vitamina B12 ou ácido fólico, achados não mencionados. O quadro laboratorial não
+sugere alteração na síntese de DNA, mas sim deficiência de ferro.
+Referências:
+GOLDMAN, L.; SCHAFER, A. I. Goldman Cecil Medicina [recurso eletrônico]. 26. ed. Rio de
+Janeiro: Elsevier, 2022. 2 vols. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 05 fev.
+2024.
+LOSCALZO, Joseph; et al. Medicina interna de Harrison [recurso eletrônico]. 21. ed. Porto
+Alegre: McGraw Hill, 2024. 2 Vols. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05 fev.
+2024.
+Feedback:
+28ª QUESTAO
+Enunciado:
+(AFYA ITAJUBA) Homem, 42 anos, procura atendimento em unidade especializada em
+cardiologia, encaminhado pela unidade básica, relatando ter apresentado elevação da
+pressão arterial (PA) durante medidas aleatórias. O médico da UBS solicitou exame de
+Monitorização Ambulatorial da PA (MAPA), que o paciente traz para sua análise. Encontra-
+se completamente assintomático, com exame físico normal, apenas com PA = 170x99
+mmHg.
+O MAPA apresenta:
+PA média total de 136x86 mmHg;
+PA média de vigília de 139x89 mmHg;
+PA média de sono de 119x69 mmHg.
+Sobre o caso clínico, assinale a alternativa correta.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 40 de 45
+
+Alternativas:
+(alternativa A)
+O caso demonstra paciente com diagnóstico de pré-hipertensão, devendo ser
+acompanhado semestralmente.
+(alternativa B)
+Apesar da medida do consultório alterada, o MAPA confirma a presença de hipertensão do
+avental branco (HAB).
+(alternativa C)
+O paciente necessita de novas medidas acima de 140x90 mmHg de consultório para
+confirmar a hipertensão arterial.
+(alternativa D) (CORRETA)
+O paciente apresenta diagnóstico de Hipertensão Arterial Sistêmica, sendo classificado,
+portanto, em estágio 2.
+Resposta comentada:
+O caso apresenta paciente de 42 anos, que possui medidas aleatórias da PA elevada (não
+relatado no caso os valores), com PA no momento acima de 140x90 mmHg. Seriam
+necessárias novas medidas acima deste valor para confirmar HAS, ou a realização de
+MAPA, já feita pelo paciente, com valores que confirmam HAS (PAM total > 130x80 /
+vigília > 135x85), excluindo, portanto, avental branco.
+Portanto:
+O paciente apresenta diagnóstico de Hipertensão Arterial Sistêmica, sendo classificado,
+portanto, em estágio 2 - Correta e explicada acima.
+Apesar da medida do consultório alterada, o MAPA confirma a presença de hipertensão do
+avental branco - Incorreta, o MAPA excluiu avental branco.
+O paciente necessita de novas medidas acima de 140x90 mmHg de consultório para
+confirmar a hipertensão arterial - Incorreta, o MAPA confirma o diagnóstico de HAS.
+O caso demonstra paciente com diagnóstico de pré-hipertensão, devendo ser
+acompanhado semestralmente - Incorreta, o MAPA confirma a HAS e não pré-HAS.
+Referência:
+Brandão AA, Rodrigues CIS, Bortolotto LA, Armstrong AC, Mulinari RA, Feitosa ADM, et al.
+Diretriz Brasileira de Hipertensão Arterial - 2025. Arq Bras Cardiol.
+2025;122(9):e20250624.
+Feedback:
+29ª QUESTÃO
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 41 de 45
+
+Enunciado:
+(AFYA PORTO VELHO) Mulher, 46 anos, comparece ao ambulatório com queixa de dor
+epigástrica em queimação, plenitude pós-prandial e episódios frequentes de pirose há
+aproximadamente 4 meses, com piora após refeições volumosas e ao deitar. Nega perda
+ponderal, disfagia, vômitos persistentes ou sangramento digestivo. Não faz uso de AINEs
+e não apresenta comorbidades conhecidas.
+No exame físico em consultório, observa-se:
+Estado geral preservado;
+Abdômen plano, flácido, indolor à inspeção;
+Dor à palpação profunda em epigástrio, sem defesa ou rigidez;
+Ausência de massas palpáveis, visceromegalias ou sinais de irritação peritoneal;
+Ausência de estigmas de doença hepática crônica.
+Ao correlacionar os achados da história clínica com o exame físico, qual interpretação é
+mais adequada quanto ao valor do exame físico no diagnóstico diferencial entre DRGE,
+dispepsia funcional e gastrite?
+Alternativas:
+(alternativa A)
+A identificação de dor localizada em epigástrio durante a palpação profunda indica
+doença ulcerosa péptica ativa como diagnóstico mais provável.
+(alternativa B)
+A presença de dor epigástrica à palpação profunda caracteriza gastrite erosiva ativa,
+sendo suficiente para definir o diagnóstico sem necessidade de exames complementares.
+(alternativa C)
+A normalidade do exame físico abdominal afasta a hipótese de dispepsia funcional e
+direciona o diagnóstico prioritariamente para doença orgânica estrutural.
+(alternativa D) (CORRETA)
+O exame físico pouco específico, dor epigástrica e ausência de sinais de alarme, não
+diferenciam com segurança DRGE, dispepsia funcional e gastrite apenas pela avaliação
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 42 de 45
+
+Resposta comentada:
+Justificativa da alternativa correta.
+O exame físico pouco específico, associado à dor epigástrica isolada e à ausência de
+sinais de alarme (como perda ponderal, anemia, vômitos persistentes ou sangramento
+digestivo), é compatível tanto com doença do refluxo gastroesofágico (DRGE) quanto
+com dispepsia funcional. Nessas condições, o exame clínico isolado não permite distinção
+diagnóstica definitiva, sendo necessária correlação com a história clínica e, quando
+indicado, investigação complementar.
+Justificativa das alternativas incorretas.
+Gastrite erosiva.
+Incorreta. A gastrite erosiva não apresenta achados patognomônicos ao exame físico. Seu
+diagnóstico é predominantemente endoscópico, não podendo ser estabelecido apenas
+pela avaliação clínica.
+Dispepsia funcional como diagnóstico excluído pelo exame físico normal.
+Incorreta. A dispepsia funcional frequentemente cursa com exame físico normal, e a
+ausência de alterações não exclui esse diagnóstico.
+Úlcera péptica baseada apenas na dor epigástrica.
+Incorreta. A dor epigástrica é um sintoma inespecífico, presente em diversas afecções do
+trato gastrointestinal, não sendo exclusiva nem suficiente para o diagnóstico de úlcera
+péptica.
+Competências avaliadas:
+Interpretação crítica do exame físico no contexto das doenças dispépticas.
+Reconhecimento das limitações do exame clínico isolado.
+Diferenciação entre diagnósticos funcionais e orgânicos do trato digestivo alto.
+Aplicação do raciocínio clínico baseado em sinais de alarme.
+Tomada de decisão quanto à necessidade de investigação complementar.
+Referências:
+DANI, R. Gastroenterologia essencial [recurso eletrônico]. 4. ed. Rio de Janeiro:
+Guanabara Koogan, 2011. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-1970-4. Acesso em: 05 fev.
+2024.
+GOLDMAN, L.; SCHAFER, A. I. Goldman Cecil Medicina [recurso eletrônico], 26. ed. Rio de
+Janeiro: Elsevier, 2022. 2 vols. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 05 fev.
+2024.
+Feedback:
+30ª QUESTÃO
+Enunciado:
+(AFYA PORTO VELHO) Homem, 54 anos, dá entrada na Unidade de Pronto Atendimento
+com cefaleia intensa, turvação visual e dispneia. Antecedente de hipertensão arterial
+sistêmica irregularmente tratada. Ao exame físico: PA = 230/130 mmHg, FC = 102 bpm,
+FR = 24 irpm, estertores crepitantes bibasais. Saturação de 02 = 92% em ar ambiente.
+Fundoscopia revela edema de papila.
+Diante do diagnóstico de emergência hipertensiva, qual é a conduta terapêutica inicial
+mais adequada, considerando medicação e alvo pressórico ao longo do tempo?
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 43 de 45
+
+Alternativas:
+(alternativa A)
+Observar o paciente em repouso, pois a redução espontânea da pressão arterial ocorre
+após controle da dor.
+(alternativa B) (CORRETA)
+Iniciar anti-hipertensivo intravenoso, com redução gradual da pressão arterial em até
+25% da PA média na 1ª hora.
+(alternativa C)
+Administrar anti-hipertensivo oral de ação rápida visando normalização imediata da
+pressão arterial sistêmica.
+(alternativa D)
+Reduzir a pressão arterial para valores normais nas primeiras 2 horas com associação de
+múltiplos fármacos.
+Resposta comentada:
+Justificativa da alternativa correta:
+Iniciar anti-hipertensivo intravenoso, com redução gradual da pressão arterial em até
+25% da PA média na 1ª hora.
+A emergência hipertensiva caracteriza-se por elevação acentuada da PA associada a
+lesão aguda de órgão-alvo (edema agudo de pulmão e encefalopatia hipertensiva neste
+caso).
+A conduta correta em UPA inclui: uso de medicações intravenosas tituláveis (ex.:
+nitroprussiato, nitroglicerina, labetalol); redução controlada da PA, com diminuição de até
+25% da pressão arterial média na primeira hora, evitando isquemia cerebral, miocárdica
+ou renal; posterior ajuste progressivo nas horas subsequentes.
+Justificativa das alternativas incorretas:
+- Administrar anti-hipertensivo oral de ação rápida visando normalização imediata da
+pressão arterial sistêmica.
+Medicamentos orais não são indicados em emergência hipertensiva devido à
+imprevisibilidade do efeito e risco de queda abrupta da pressão arterial.
+- Observar o paciente em repouso, pois a redução espontânea da pressão arterial ocorre
+após controle da dor.
+A presença de lesão aguda de órgão-alvo contraindica observação isolada, sendo
+necessária intervenção imediata.
+- Reduzir a pressão arterial para valores normais nas primeiras 2 horas com associação
+de múltiplos fármacos.
+A redução agressiva da PA pode causar hipoperfusão cerebral, coronariana e renal,
+aumentando a morbimortalidade.
+Competências avaliadas:
+Reconhecimento da emergência hipertensiva.
+Definição de alvos pressóricos ao longo do tempo.
+Escolha adequada da via e classe farmacológica.
+Aplicação prática em unidade de pronto atendimento.
+Referências:
+BATES. Propedêutica Médica. 13ª ed. Guanabara Koogan. 2022
+TINTINALLI'S JE. Emergency Medicine: A Compreensive Study Guide. 9th ed. 2019
+SBC. Sociedade Brasileira de Cardiologia. Diretrizes Brasileiras de Hipertensão Arterial.
+2020.
+WHELTON PK et al. ACC/AHA Guideline for the Prevention, Detection, Evaluation, and
+Management of High Blood Pressure. Hipertensão. 2017.
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 44 de 45
+
+Feedback:
+000186.850014.9689ac.37f663.efd858.3be4a0.229d21.51c71 Página 45 de 45

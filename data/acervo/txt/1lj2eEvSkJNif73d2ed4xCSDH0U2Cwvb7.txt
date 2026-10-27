@@ -1,0 +1,601 @@
+NOTA FINAL
+
+CURSO DE MEDICINA - AFYA
+Aluno:
+Componente Curricular: Sistemas Orgânicos Integrados II
+Professor (es):
+Período: 202302
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA SOI 2_25SET2023.2
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 09358 - CADERNO 004
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+
+Enunciado:
+Um homem de 62 anos apresenta marcha arrastada, postura encurvada (instabilidade
+postural), lentidão de movimentos (bradicinesia), rigidez muscular (pernas, braços e tronco) e
+tremor de rolagem de comprimidos em repouso. O exame físico constata que ele tem uma
+expressão facial “semelhante a uma máscara”. Após término da avaliação neurológica, um
+diagnóstico de Doença de Parkinson é confirmado.
+Considerando o caso acima e relacionando com a fisiologia dos núcleos da base, podemos
+afirmar que a perda neuronal acomete a substância negra pars compacta no circuito do:
+Alternativas:
+(alternativa A) (CORRETA)
+putâmen, especificamente havendo uma redução de atividade da via direta, o que deixa a via
+indireta predominar, resultando em uma saída inibitória (inibição talâmica), gerando uma
+desordem hipocinética.
+(alternativa B)
+caudado, especificamente havendo um aumento de atividade da via direta, prejudicando a via
+indireta, resultando em uma saída excitatória (desinibição talâmica), gerando uma desordem
+hipercinética.
+(alternativa C)
+caudado, especificamente havendo uma redução de atividade da via direta, o que deixa a via
+indireta predominar, resultando em uma saída inibitória (inibição talâmica), gerando uma
+desordem hipocinética.
+(alternativa D)
+putâmen, especificamente havendo um aumento de atividade da via direta, prejudicando a via
+indireta, resultando em uma saída excitatória (desinibição talâmica), gerando uma desordem
+hipercinética.
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 1 de 15
+
+Resposta comentada:
+Normalmente, o circuito do putâmen (circuito motor esquelético) exerce sua ação por duas vias
+distintas: a ativação cortical da VIA DIRETA (receptores dopaminérgicos família D1) promove
+atividade motora (ao inibir o globo pálido interno e a substância negra reticulada, os quais
+desinibem o tálamo) e a ativação cortical da VIA INDIRETA (receptores dopaminérgicos família
+D2) inibe a atividade motora (ao inibir a inibição do globo pálido externo sobre o núcleo
+subtalâmico, dessa forma inibindo o tálamo). Os neurônios dopaminérgicos da substância negra
+parte compacta (SNc) modulam a produção de neurotransmissores do estriado (via
+nigroestriatal) selecionando receptores D1 (via direta) ou D2 (via indireta) que serão
+predominantemente acionados. O Parkinsonismo (neurodegeneração da substância negra pars
+compacta) resulta em uma redução de atividade da via direta (receptores D1), o que permite a
+predominância da via indireta (receptores D2), fato este que acaba por resultar em inibição
+talâmica, determinando o padrão hipocinético que caracteriza o quadro em questão.
+Referências
+AIRES, Margarida de M. Fisiologia. 5ª edição. Rio de Janeiro: Grupo GEN, 2018.
+HALL, John E. Tratado de Fisiologia Médica. 13. ed. Rio de Janeiro: Elsevier, 2017.
+SILVERTHORN, Dee U. Fisiologia Humana. Porto Alegre: Grupo A, 2017
+2ª QUESTÃO
+Enunciado:
+O metabolismo ósseo é infuenciado por fatores hormonais e desempenha um papel
+fundamental na manutenção da densidade óssea, que se refere à quantidade de minerais,
+como o cálcio e o fósforo, presentes nos ossos.
+Qual das seguintes situações pode levar a uma diminuição na densidade óssea devido a
+alterações no seu metabolismo?
+Alternativas:
+(alternativa A)
+Aumento da atividade dos osteoclastos e osteoblastos, uma vez que ambos são responsáveis
+pela reabsorção do tecido ósseo.
+(alternativa B) (CORRETA)
+Desenvolvimento de um distúrbio que resulta em hiperatividade dos osteoclastos, onde os
+hormônios podem ter papel crucial.
+(alternativa C)
+Diminuição da ação do estradiol e o aumento da atividade dos osteoblastos, uma vez que essas
+células são responsáveis pela reabsorção óssea.
+(alternativa D)
+Diminuição da atividade dos osteoclastos, responsáveis pela formação de novo osso, associado
+a uma dieta rica em cálcio e vitamina D.
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 2 de 15
+
+Resposta comentada:
+Uma hiperatividade dos osteoclastos levaria a um aumento na reabsorção óssea, resultando na
+diminuição da densidade óssea. Isso poderia ocorrer em condições como osteoporose, onde o
+equilíbrio entre a formação e a reabsorção óssea é perturbado, resultando em ossos frágeis e
+de baixa densidade. As demais alternativas são contrárias às alterações que causam a
+diminuição da densidade óssea, seja por aumento da atividade dos osteoblasto que criam novo
+tecido ósseo, diminuir ação dos osteoclastos e dieta balanceada apenas os osteoclastos são
+responsáveis pela reabsorção óssea.
+Referências
+Moore, Keith, L. et al. Anatomia Orientada para Clínica. Disponível em: Minha Biblioteca, (8th
+edição). Grupo GEN, 2022.
+SILVERTHORN, Dee U. Fisiologia Humana. Porto Alegre: Grupo A, 2017.
+
+3ª QUESTÃO
+Enunciado:
+Leia a reportagem a seguir:
+
+Fonte:https://oglobo.globo.com/saude/noticia/2023/07/10/botox-79percent-dos-pacientesbritanicos-sofrem-efeitos-colaterais-indesejados-da-aplicacao-entenda.ghtml
+Sobre a comunicação entre o nervo motor e o músculo citada na reportagem acima, responda
+as seguintes questões:
+A. Descreva o processo de estimulação da fibra muscular, destacando os eventos que ocorrem
+no neurônio motor somático e na placa motora. (1,0 ponto)
+B. Descreva o mecanismo de contração e relaxamento da fibra muscular, destacando o papel
+do cálcio neste processo. (1,0 ponto)
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 3 de 15
+
+Alternativas:
+-Resposta comentada:
+Chaves de respostas.
+(1,0 ponto) A. Despolarização do terminal axonal do neurônio motor somático; abertura de
+canais de cálcio dependentes de voltagem; entrada de cálcio na célula; exocitose do
+neurotransmissor para a fenda sináptica; ligação da Ach no receptor ionotrópico; abertura dos
+canais de sódio dependentes de voltagem; despolarização da fibra muscular.
+(1,0 ponto) B. O potencial de ação percorre os túbulos T da fibra muscular; provoca abertura de
+canais de cálcio do retículo sarcoplasmático; cálcio sai para o citoplasma da fibra muscular; o
+cálcio liga-se a troponina e desloca o complexo troponina-tropomiosina do sítio de ligação
+presente na actina, permitindo a ligação da cabeça da miosina com a actina, com o consumo
+de ATP, o que faz com que o sarcômero encurte e haja a contração muscular. O relaxamento
+ocorre quando o potencial de ação finda e com isso, há fechamento dos canais de cálcio e
+redução nos níveis de cálcio no citoplasma; o cálcio se separa da troponina e retorna para o
+retículo sarcoplasmático. Com isso, o complexo troponina-tropomiosina volta a cobrir o sítio de
+ligação presente na actina, impedindo assim a ligação da cabeça da miosina.
+Referências
+GUYTON, Arthur C.; HALL, Michael E.; HALL, John E.. Tratado de fisiologia médica. 14. ed RIO DE
+JANEIRO: Grupo GEN, 2021, 1121 p.
+SILVERTHORN, D. Fisiologia Humana: Uma Abordagem Integrada, 7ª Edição, Artmed,. 2017.
+4ª QUESTÃO
+Enunciado:
+Uma coleção de corpos celulares de neurônios no sistema nervoso periférico é denominada
+gânglio. Existem dois tipos principais de gânglios autônomos: simpáticos e parassimpáticos.
+Considerando a conformação estrutural das fibras neurais simpáticas e parassimpáticas,
+diferencie a localização morfológica dos gânglios simpáticos e parassimpáticos, tendo como
+ponto de referência os seus órgãos efetores. (1,3 ponto)
+Alternativas:
+--
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 4 de 15
+
+Resposta comentada:
+CHAVE DE RESPOSTA.
+(0,7 ponto) LOCALIZAÇÃO DOS GÂNGLIOS SIMPÁTICOS.
+Existem dois tipos principais de gânglios simpáticos: gânglios do tronco simpático e gânglios prévertebrais. Os gânglios do tronco simpático (também chamados de gânglios da cadeia vertebral
+ou gânglios paravertebrais) situam-se em uma fileira vertical em ambos os lados da coluna
+vertebral. O segundo grupo de gânglios simpáticos, os gânglios pré-vertebrais (colaterais),
+encontram-se anteriores à coluna vertebral. Ou seja, ambos tipos de gânglios simpáticos se
+encontram relativamente distantes do órgão efetor inervado pelo neurônio pós-ganglionar
+simpático, uma vez que este possui uma extensão axonal considerada longa.
+(0,6 ponto) LOCALIZAÇÃO DOS GÂNGLIOS PARASSIMPÁTICOS.
+Os gânglios parassimpáticos (intramurais) estão localizados próximos ou na parede do órgão
+/víscera inervado. Sendo assim, os axônios pré-ganglionares parassimpáticos são longos, em
+contraste com os pós-ganglionares, que são curtos.
+Referência
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. 16ª ed. São
+Paulo, SP: Grupo GEN, 2023.
+5ª QUESTÃO
+Enunciado:
+Um atleta de 25 anos participava de uma partida de futebol quando, ao pisar em falso durante
+uma jogada, torceu seu tornozelo. Ele imediatamente sentiu dor e inchaço na parte lateral do
+pé. O médico suspeita que a lesão seja devido a uma torção no tornozelo por inversão.
+De acordo com o caso, assinale a alternativa que apresenta a estrutura anatômica afetada
+nesse tipo de lesão.
+Alternativas:
+(alternativa A)
+Tendão calcâneo.
+(alternativa B)
+Ligamento calcaneofibular.
+(alternativa C)
+Ligamento deltóide.
+(alternativa D) (CORRETA)
+Ligamento talofibular anterior.
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 5 de 15
+
+Resposta comentada:
+Uma lesão por inversão no tornozelo ocorre quando o pé é virado para dentro, afetando os
+ligamentos na parte lateral do tornozelo. O ligamento mais frequentemente afetado em lesões
+por inversão é o ligamento talofibular anterior, que conecta o osso talo à fíbula. Esse ligamento
+é relativamente fraco em comparação com outros ligamentos do tornozelo, tornando-se
+vulnerável a lesões, como acontece na torção por inversão.
+Referência
+Moore, Keith, L. et al. Anatomia Orientada para Clínica. Disponível em: Minha Biblioteca, (8th
+edição). Grupo GEN, 2022.
+6ª QUESTÃO
+Enunciado:
+Durante plantão na UPA, os alunos do internato atenderam uma criança com fratura de
+membro superior. Ao discutir o caso com o preceptor, os alunos apresentaram a sequência da
+consolidação óssea, conforme mostrada a figura abaixo.
+
+Fonte: https://medicinaortopedica.com/2021/03/23/consolidacao-ossea/
+As fases da consolidação óssea representadas pelos alunos, na ordem crescente de 2 a 5, são,
+respectivamente:
+Alternativas:
+(alternativa A) (CORRETA)
+Hematoma. Calo mole. Calo duro. Remodelação óssea.
+(alternativa B)
+Remodelação óssea. Calo mole. Calo duro. Hematoma.
+(alternativa C)
+Hematoma. Calo duro. Calo mole. Remodelação óssea.
+(alternativa D)
+Remodelação óssea. Calo duro. Calo mole. Hematoma.
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 6 de 15
+
+Resposta comentada:
+INFLAMAÇÃO: Nesta fase ocorre proliferação de células que fazem a limpeza local, como os
+macrófagos. Elas preparam a vinda de outras células que irão começar a cicatrização. Pode
+parecer uma etapa ruim, mas é necessária a recuperação.
+2- HEMATOMA: No momento da fratura, os vasos sanguíneos que se rompem, acarretando
+imenso hematoma no local. Pode-se observar manchas roxas que que são o sangue acumulado
+sob a pele. Esse sangramento já contém células medulares que vão ajudar na consolidação do
+osso. Nesse estágio há muita dor e inchaço.
+3- CALO MOLE: Com tudo limpo na área afetada, começam a se formar vasos novos, e
+diferentes tipos de célula vão chegando para começar o processo de cicatrização óssea. Ocorre
+então a formação de um calo ósseo provisório, fibrocartilaginoso, que serve como uma cola que
+une um fragmento no outro. Esse é o chamado calo mole.
+4- CALO DURO: o calo mole se mineraliza e ocorre o endurecimento desse tecido
+fibrocartilaginoso. Significa que, depois que está tudo colado e estabilizado, há um depósito,
+principalmente de cálcio, e forma-se um calo ósseo duro.
+5- REMODELAÇÃO ÓSSEA: o osso recém formado e transformado em osso lamelar, com
+sistema de canais que nutrem os ossos, e as irregularidades são restauradas. Observa-se no
+foco da fratura uma saliência óssea, que demanda uma lapidação natural, necessária para que
+as sobras de consolidação sejam eliminadas.
+Referência:
+Tortora, Gerard, J. e Bryan Derrickson. Princípios de Anatomia e Fisiologia. Disponível em: Minha
+Biblioteca, (16th edição). Grupo GEN, 2023.
+
+7ª QUESTÃO
+Enunciado:
+José Carlos em uma conversa com os colegas do curso de Medicina, relatou que estava sendo
+difícil assimilar de forma produtiva os conteúdos do semestre, confidenciado que quase sempre
+se sentia triste, cansado e com dificuldades em se concentrar. Ao término da APG, um de seus
+colegas, relembrando da conversa fez o seguinte questionamento: Será que a intensa rotina de
+estudos, aliada à sua preocupação não está gerando uma cascata de eventos estressores,
+provocando um aumento na liberação e consequentemente acúmulo de glutamato, causando
+dificuldades durante esse período?
+O glutamato, é um importante aminoácido que atua no sistema nervoso central (SNC) como
+neurotransmissor.
+Em relação as substâncias como a descrita no caso acima, é correto afirmar que:
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 7 de 15
+
+Alternativas:
+(alternativa A)
+um dos efeitos da norepinefrina, neurotransmissor pertencente ao grupo das aminas biológicas,
+é a diminuição da frequência cardíaca através de sinapses nos neurônios parassimpáticos do
+nervo vago.
+(alternativa B)
+as características dos neurotransmissores pertencentes ao grupo dos neuropeptídeos como a
+dopamina, é a indução de ações mais duradouras como por exemplo, o fechamento prolongado
+dos canais de cálcio.
+(alternativa C)
+o glutamato, secretado por terminais pré-sinápticos em diversas vias eferentes, apresenta um
+potente efeito inibitório, atuando na abertura de canais iônicos, permitindo a passagem de íons
+positivos para o meio intracelular.
+(alternativa D) (CORRETA)
+a acetilcolina, é um neurotransmissor que possui efeito excitatório e inibitório, sendo secretada
+em diversas áreas do sistema nervoso, como por exemplo, pelos neurônios pós-ganglionares
+do sistema nervoso parassimpático.
+Resposta comentada:
+Os neurotransmissores são mensageiros químicos liberados pelos neurônios utilizados para
+transmitir a informação. Uma gama de neurotransmissores já fram identificados e tem seu
+papel biológico bem estabelecido, entre eles, destaca-se a acetilcolina (ACh), pertencente ao
+grupo das aminas biológicas assim como a dopamina, apresenta tanto efeito excitatório como
+inibitório, atuando por exemplo, na diminuição da frequência cardíaca, através das sinapses
+realizadas pelos neurônios do nervo vago. Outro importante neurotransmissor classificado como
+neurotransmissor de moléculas pequenas é o ácido gama​-aminobutírico (GABA), considerando o
+principal mensageiro químico inibitório no sistema nervoso centra (SNC), ainda no grupo dos
+aminoácidos, o aspartato e glutamato diferentemente do GABA, possuem efeito excitatório.
+Entre os mensageiros químicos da classe dos neuropeptídeos, ganham destaque a substância
+P, endorfina e encefalinas.
+REFERÊNCIAS
+GUYTON, A.C.; HALL J.E.– Tratado de Fisiologia Médica. 13ª ed. Elsevier: Rio de Janeiro,
+2017.
+JIANG, Y.; ZOU, DI.; LI, YUMENG. et al. Monoamine Neurotransmitters Control Basic Emotions
+and Affect Major Depressive Disorders. Pharmaceuticals, v. 15, n.10, e1203, 2022.
+https://doi.org/10.3390/ph15101203
+SILVERTHORN, D.U. Fisiologia Humana: uma abordagem integrada 7ª ed. Artmed: Porto
+Alegre, 2017
+TELEANU, R.I.; NICULESCU, A.G.; ROZA, E. et al. Neurotransmitters—Key Factors in Neurological
+and Neurodegenerative Disorders of the Central Nervous System. International Journal
+Molecular Science, v. 23, n.11, 2022. https://doi.org/10.3390%2Fijms23115954.
+8ª QUESTÃO
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 8 de 15
+
+Enunciado:
+Quando estamos num ambiente com pouca luz, nossos olhos se adaptam a fim de enxergar
+com mais nitidez os objetos ali presentes. Logo em seguida, se sairmos para o ambiente
+externo diurno, imediatamente nossos olhos se readaptam.
+Neste segundo momento, a íris:
+Alternativas:
+(alternativa A)
+aumenta a abertura da pupila através da contração muscular.
+(alternativa B)
+reduz a abertura da pupila através do relaxamento muscular.
+(alternativa C)
+aumenta a abertura da pupila através do relaxamento muscular.
+(alternativa D) (CORRETA)
+reduz a abertura da pupila através da contração muscular.
+Resposta comentada:
+Num ambiente claro, o músculo da íris sofre contração (aumentando sua exposição) para que a
+pupila reduza, assim havendo menor passagem de luz pelo cristalino.
+SILVERTHORN, Dee U. Fisiologia Humana. 7ª ed. Artmed; 2017.
+
+9ª QUESTÃO
+Enunciado:
+A orelha interna é a primeira das três regiões anatômicas a iniciar seu desenvolvimento. No
+início da 4ª semana, por influências indutoras da notocorda e do mesoderma paraxial, um
+espessamento aparece de ambos os lados do mielencéfalo que, em seguida se invaginam e
+mergulham no mesênquima subjacente. As bordas dessa invaginação bilateral se aproximam e
+formam duas vesículas, que darão origem a duas regiões reconhecíveis: a parte utricular,
+dorsal, e a sacular, ventralmente.
+Considerando o contexto acima, analise as seguintes afirmativas.
+I. O espessamento ao qual o texto se refere é o placoide auditivo formado pelo espessamento
+do mesoderma, o qual é responsável pelas cartilagens dos ossículos.
+II. O órgão de Corti, constituído pelas células ciliadas internas e externas, se original do ducto
+coclear.
+III. O gânglio espiral, essencialmente constituído por prolongamentos neuronais sensitivos, é
+proveniente do nervo vestibulococlear.
+IV. Após formadas, as escalas timpânica e vestibular permitirão a circulação da perilinfa.
+Estão corretas:
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 9 de 15
+
+Alternativas:
+(alternativa A)
+I, II e IV.
+(alternativa B)
+II, III e IV.
+(alternativa C) (CORRETA)
+II e IV.
+(alternativa D)
+I e III.
+Resposta comentada:
+A orelha interna é a primeira das três partes anatômicas a iniciar seu desenvolvimento. No início
+da 4ª semana, por influências indutoras da notocorda e do mesoderma paraxial, um
+espessamento ectodérmico, o placoide ótico, aparece de ambos os lados do mielencéfalo que,
+em seguida se invaginam e mergulham no mesênquima subjacente, formando as fossetas
+óticas. As bordas dessa invaginação bilateral se aproximam e formam duas vesículas, óticas,
+que darão origem a duas regiões reconhecíveis: a parte utricular, dorsal, e a sacular,
+ventralmente.
+O gânglio espiral, assim como todo gânglio nervoso, é constutído essencialmente por corpos
+neuronais, não prolongamentos.
+Pelas escalas vestibular e timpânica circulará perilinfa, enquanto que pela média, endolinfa.
+Referências
+Junqueira, Luiz Carlos, U. e José Carneiro. Histologia Básica: Texto e Atlas. Disponível em: Minha
+Biblioteca, (14th edição). Grupo GEN, 2023.
+Moore, Keith, M. e T. V. N. Persaude. Embriologia Clínica. Disponível em: Minha Biblioteca, (11th
+edição). Grupo GEN, 2020.
+10ª QUESTÃO
+Enunciado:
+A bursite, inflamação aguda ou crônica de uma bolsa articular, é uma condição frequente no
+ombro, geralmente causada por irritação decorrente de esforço repetitivo excessivo. A condição
+também pode decorrer de traumatismo, infecção aguda ou crônica ou artrite reumatoide.
+Analise as alternativas abaixo e assinale a que contém a descrição anatomofuncional adequada
+da estrutura anatômica citada no texto.
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 10 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+As bolsas minimizam o atrito dos tecidos moles entre si ou contra os ossos adjacentes.
+Encontram-se presentes no ombro: subacromial, subdeltóidea, subescapular e subcoracóidea.
+(alternativa B)
+As bolsas maximizam o atrito dos tecidos moles entre si ou contra os ossos adjacentes.
+Encontram-se presentes no ombro: subdeltóidea, subacromial, suprapatelar e subescapular.
+(alternativa C)
+As bolsas maximizam o atrito dos tecidos moles entre si ou contra os ossos adjacentes.
+Encontram-se presentes no ombro: subacromial, suprapatelar, infrapatelar e subdeltóidea.
+(alternativa D)
+As bolsas minimizam, primariamente, o atrito entre os ossos adjacentes à articulação.
+Encontram-se presentes no ombro: subdeltóidea, pré-patelar, suprapatelar e infrapatelar.
+Resposta comentada:
+As bolsas são estruturas saculares, com estrutura semelhante à das cápsulas articulares, que
+minimizam o atrito quando tecidos moles como músculos, tendões e a pele são friccionados
+entre si ou contra os ossos adjacentes. As bolsas são comumente encontradas em torno de
+articulações como a articulação do ombro e a articulação do joelho. Quatro bolsas estão
+associadas a articulação do ombro, são elas a bolsa subacromial, a bolsa subdeltóidea, a bolsa
+subescapular e a bolsa subcoracóidea. Já as bolsas mais importantes do joelho incluem as
+seguintes: (i) Bolsa subcutânea pré-patelar entre a patela e a pele. (ii) Bolsa infrapatelar
+profunda entre a parte superior da tíbia e o ligamento da patela. (iii) Bolsa suprapatelar entre a
+parte inferior do fêmur e a face profunda do músculo quadríceps femoral.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. 16ª ed. São
+Paulo, SP: Grupo GEN, 2023.
+11ª QUESTÃO
+Enunciado:
+Após um acidente, um paciente apresenta perda completa da sensibilidade de temperatura e
+dor no lado esquerdo do corpo, abaixo da região do peito. Os exames revelam uma lesão na
+região da medula espinhal correspondente à terceira vértebra torácica (T3) do lado esquerdo.
+Com base nesse cenário, responda:
+Qual é a estrutura anatômica da medula espinhal onde as fibras nervosas aferentes que
+conduzem sensações de temperatura e dor realizam a primeira sinapse após entrar na medula
+espinhal?
+Alternativas:
+(alternativa A) (CORRETA)
+Corno posterior.
+(alternativa B)
+Funiculus gracilis.
+(alternativa C)
+Corno anterior.
+(alternativa D)
+Funiculus cuneatus.
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 11 de 15
+
+Resposta comentada:
+As vias aferentes (também conhecidas como ascendentes) são aquelas que levam aos centros
+nervosos os impulsos nervosos que se originam nos receptores periféricos. Elas permitem a
+percepção de sensações do ambiente externo, tais como a dor, a temperatura e o toque. Os
+neurônios de segunda ordem fazem parte dessa via de condução e estão localizandos na
+medula espinhal, mais especificamente no corno posterior, sendo responsáveis pela condução
+de impulsos sencitivos.
+SILVERTHORN, D. U. Fisiologia Humana. Porto Alegre: Grupo A, 2017.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788582714041/.
+Acesso em: 02 Jun 2022
+12ª QUESTÃO
+Enunciado:
+Mulher de 45 anos procurou um neurologista com queixa de tontura frequente, dificuldade em
+manter o equilíbrio e perda auditiva gradual. Ela relatou que também estava enfrentando
+problemas para detectar os sabores dos alimentos. O médico realizou uma avaliação
+neurológica detalhada e suspeitou de um distúrbio envolvendo os nervos cranianos e os
+sentidos especiais.
+Com base nas informações fornecidas, qual dos seguintes nervos cranianos está mais
+provavelmente envolvido nesse caso?
+Alternativas:
+(alternativa A) (CORRETA)
+Nervo VIII (Nervo Vestibulococlear).
+(alternativa B)
+Nervo VII (Nervo Facial).
+(alternativa C)
+Nervo I (Nervo Olfatório).
+(alternativa D)
+Nervo II (Nervo Óptico).
+Resposta comentada:
+A perda de equilíbrio, tontura e perda auditiva gradual são sintomas característicos de um
+distúrbio relacionado ao Nervo Vestibulococlear (Nervo VIII), que é responsável pelo equilíbrio e
+pela audição. A dificuldade em detectar os sabores dos alimentos não está diretamente
+relacionada aos nervos cranianos envolvidos nesse caso.
+Referências
+Tortora, Gerard, J. e Bryan Derrickson. Princípios de Anatomia e Fisiologia. Disponível em: Minha
+Biblioteca, (16th edição). Grupo GEN, 2023.
+Moore, Keith, L. et al. Anatomia Orientada para Clínica. Disponível em: Minha Biblioteca, (8th
+edição). Grupo GEN, 2022.
+13ª QUESTÃO
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 12 de 15
+
+Enunciado:
+Um trabalhador de uma obra está enfrentando uma situação de frio intenso durante o inverno,
+principalmente nos membros superiores que estão expostos . Ele precisa trabalhar ao ar livre
+para realizar as atividades de construção, mas não possui roupas adequadas para se proteger
+do frio. Ele está exposto ao vento gelado, o que está afetando sua capacidade de realizar as
+tarefas com eficiência e segurança.
+Levando em consideração a situação relatada acima, marque a alternativa correta sobre a via
+sensitiva ativada na sensação de frio, percebida pelos termoreceptores, que por sua vez
+apresentam:
+Alternativas:
+(alternativa A)
+terminações receptoras separadas e seus impulsos nervosos são encaminhados para o córtex
+cerebral através da via trigeminotalâmica.
+(alternativa B)
+terminações nervosas encapsuladas e seus impulsos nervosos são encaminhados para o córtex
+cerebral através da via funículo posterior–lemnisco medial.
+(alternativa C)
+terminações nervosas encapsuladas e seus impulsos nervosos são encaminhados para o córtex
+cerebral através da via trigeminotalâmica.
+(alternativa D) (CORRETA)
+terminações nervosas livres e seus impulsos nervosos são encaminhados para o córtex
+cerebral através da via anterolateral.
+Resposta comentada:
+Os termoceptores apresentam terminações nervosas livres, essas por sua vez, são dendritos
+livres dos neurônios de primeira ordem sem especialização estrutural aparente. E os impulsos
+nervosos de temperatura provenientes dos membros, do tronco, do pescoço e da parte
+posterior da cabeça ascendem para o córtex cerebral através da via anterolateral
+(espinotalâmica).
+Tortora, Gerard, J. e Bryan Derrickson. Princípios de Anatomia e Fisiologia. Disponível em: Minha
+Biblioteca, (14th edição). Grupo GEN, 2016.
+14ª QUESTÃO
+Enunciado:
+Macroscopicamente, a superfície dorsal da língua é dividida em dois terços anteriores e um
+terço posterior ao sulco terminal da língua. A porção anterior é dotada de inúmeras
+irregularidades e elevações, chamadas de papilas, que permitem, em associação com os
+botões gustativos, o sentido especial da gustação.
+Considerando o texto acima e os diferentes tipos de papilas gustativas, assinale a alternativa
+correta sobre a histologia dessas estruturas.
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 13 de 15
+
+Alternativas:
+(alternativa A)
+Papilas folhadas, mais evidentes na área imediatamente à frente do sulco terminal lingual,
+apresentam epitélio muito queratinizado sem botões gustativos.
+(alternativa B)
+Papilas filiformes, restritas às áreas laterais posteriores da língua, apresentam um epitélio
+pouco queratinizado com botões gustativos.
+(alternativa C) (CORRETA)
+Papilas fungiformes, mais evidentes na área mais anterior da língua, apresentam um epitélio
+pouco queratinizado com botões gustativos.
+(alternativa D)
+Papilas circunvaladas, presentes ao longo de toda a superfície anterior da língua, apresentam
+epitélio muito queratinizado sem botões gustativos.
+Resposta comentada:
+Papilas fungiformes: tendem a ser mais numerosas nas proximidades da ponta da língua. Os
+botões gustativos são encontrados no epitélio estratificado pavimentoso pouco queratinizado.
+Papilas filiformes: distribuídas por toda a superfície dorsal anterior da língua, apresentam epitélio
+estratificado pavimentoso altamente queratinizado desprovido de botões gustativos.
+Papilas circunvaladas: são encontradas imediatamente anterior ao sulco terminal da língua.
+Apresentam epitélio estratificado pavimentoso pouco queratinizado, que contém numerosos
+botões gustativos.
+Papilas folhadas: ocorrem na margem lateral da língua, apresentando numerosos botões
+gustativos no epitélio epitélio estratificado pavimentoso não queratinizado de suas paredes
+laterais.
+Assim, apenas informações sobre as papilas fungiformes estão corretas.
+Referência:
+Pawlina, W. Ross histologia texto e atlas - correlações com biologia celular e molecular. 8. ed.
+Rio de Janeiro: Guanabara Koogan, 2021. (pp. 569-570).
+15ª QUESTÃO
+Enunciado:
+João, um homem de 40 anos, sempre foi muito comunicativo e eloquente. Recentemente, ele
+sofreu um acidente vascular cerebral (AVC) que afetou uma região específica do cérebro. Desde
+o AVC, João tem apresentado dificuldades significativas na produção da fala, frequentemente
+trocando as palavras, formando frases confusas e tendo dificuldade em encontrar as palavras
+certas para se expressar. Ele também tem problemas em compreender frases complexas e
+em seguir instruções verbais detalhadas.
+Marque abaixo a alternativa que contém a(s) área(s) de Brodmann afetada(s) no cérebro de
+João.
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 14 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+44 e 45 - Área de Broca.
+(alternativa B)
+4 - Área Motora Primária.
+(alternativa C)
+17 - Área Visual Primária.
+(alternativa D)
+41 e 42 - Áreas Auditivas Primárias.
+Resposta comentada:
+A Área de Broca, localizada no hemisfério esquerdo do cérebro na maioria das pessoas, é
+essencial para a produção da linguagem falada e escrita. Ela desempenha um papel
+fundamental na formulação de frases coerentes, gramaticalmente corretas e na coordenação
+dos movimentos dos músculos envolvidos na fala. A dificuldade de João na produção da fala
+após o AVC está mais relacionada à lesão na Área de Broca, essencial para a produção da
+linguagem falada e escrita. Ela desempenha um papel fundamental na formulação de frases
+coerentes, gramaticalmente corretas e na coordenação dos movimentos dos músculos
+envolvidos na fala.
+A alternativa A está incorreta, pois essa área está relacionada à execução dos movimentos
+voluntários do corpo. Ela controla os movimentos musculares conscientes e não está
+diretamente envolvida na produção da linguagem.
+A alternativa B está incorreta, pois essa área é responsável pelo processamento inicial das
+informações visuais. Ela está envolvida na identificação de características visuais de objetos,
+mas não está relacionada à produção da linguagem.
+A alternativa C está incorreta, pois essas áreas estão envolvidas no processamento auditivo
+primário. Elas ajudam na percepção e diferenciação de sons, mas não estão diretamente
+ligadas à produção da linguagem.
+Referências
+Waschke, Jens. Sobotta Anatomia Clínica. Disponível em: Minha Biblioteca, Grupo GEN, 2018.
+Bear, M. (2017). Neurociências. 4th edição. Artmed Editora.
+
+000093.580019.3e7aa6.4f6376.dfc31d.3d0566.360728.50d7f
+
+Pgina 15 de 15
+
+

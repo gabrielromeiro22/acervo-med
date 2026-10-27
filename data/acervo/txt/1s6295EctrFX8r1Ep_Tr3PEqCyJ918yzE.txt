@@ -1,0 +1,2458 @@
+AFYA FACULDADE DE CIÊNCIAS MÉDICAS DA PARAÍBA
+CURSO DE MEDICINA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino-Serviço-Comunidade VI,
+Habilidades e Atitudes Médicas VI, Clínica Integrada I, INTEGRAÇÃO
+ENSINO-SERVIÇO-COMUNIDADE VI, HABILIDADES E ATITUDES
+MÉDICAS VI e CLÍNICAS INTEGRADAS I
+Professor (es): Eveline Abrantes
+Período: 202501
+
+Turma:
+
+Data: 27/06/2025
+
+SUBSTITUTIVA INTEGRADORA 6º PERÍODO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16816 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+Lucas, 52 anos, homem trans, com histórico de etilismo crônico desde a adolescência
+(aproximadamente 150g de etanol por dia), procurou inicialmente a Unidade de Pronto
+Atendimento (UPA) com queixas de fadiga intensa, icterícia progressiva há 3 semanas, distensão
+abdominal e alteração do padrão do sono, com inversão do ciclo (mais sonolento durante o dia e
+desperto à noite). Relata histórico de múltiplas internações por descompensação da doença
+hepática nos últimos anos, sem seguimento ambulatorial regular. Nega outras comorbidades
+relevantes ou uso de outras substâncias ilícitas. Mantém terapia hormonal (testosterona) há 5
+anos. Devido à piora do quadro e surgimento de confusão mental e flapping (asterixe) nos últimos
+dois dias, foi encaminhado ao Hospital Universitário Lauro Wanderley para avaliação e tratamento.
+Exame Físico: Ao exame, apresenta-se em regular estado geral, desorientado no tempo e
+espaço, ictérico (++/++++), com mucosas ressecadas e hálito hepático. Abdome distendido, com
+ascite volumosa, circulação colateral visível e sinal de piparote positivo. Neurológico: Glasgow 13
+(O:3 V:4 M:6), pupilas isocóricas e fotorreagentes, reflexos vivos e simétricos, presença de
+asterixe bilateral. Não há sinais de irritação meníngea.
+Exames Laboratoriais (Coletados na Admissão no HULW):
+Bilirrubina Total: 15 mg/dL (Direta: 10 mg/dL, Indireta: 5 mg/dL)
+Albumina: 2,5 g/dL
+Tempo de Protrombina (TP): 18 segundos (INR: 1.8)
+Amônia Sérica: 180 µmol/L (Valor de referência: 10-80 µmol/L)
+Sódio: 130 mEq/L
+Potássio: 3.8 mEq/L
+Creatinina: 1.1 mg/dL
+Encefalograma (EEG): Lentificação difusa da atividade elétrica cerebral, com ondas trifásicas
+ocasionais.
+Considerando o quadro clínico e os resultados laboratoriais do paciente, assinale a alternativa que
+apresenta o principal mecanismo fisiopatológico responsável pela encefalopatia hepática
+apresentada.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 1 de 63
+
+Alternativas:
+(alternativa A)
+Acúmulo de bilirrubina indireta no sistema nervoso central, causando neurotoxicidade direta.
+(alternativa B) (CORRETA)
+Aumento dos níveis de amônia no sangue, que atravessa a barreira hematoencefálica e interfere
+na neurotransmissão.
+(alternativa C)
+Coagulopatia grave com micro-hemorragias cerebrais, resultando em alterações neurológicas
+focais e difusas.
+(alternativa D)
+Hiponatremia severa levando a edema cerebral e disfunção neurológica.
+
+Resposta comentada:
+Alternativa Correta: Aumento dos níveis de amônia no sangue, que atravessa a barreira
+hematoencefálica e interfere na neurotransmissão.
+Justificativa:
+A encefalopatia hepática é uma síndrome neuropsiquiátrica complexa que ocorre em pacientes
+com insuficiência hepática avançada. O principal mecanismo fisiopatológico envolvido no caso de
+Lucas é o aumento dos níveis de amônia no sangue.
+Em indivíduos saudáveis, a amônia, um subproduto do metabolismo proteico, é convertida em
+ureia pelo fígado e excretada pelos rins. Na insuficiência hepática, essa capacidade de
+detoxificação está comprometida, levando ao acúmulo de amônia na circulação sistêmica.
+A amônia atravessa a barreira hematoencefálica e interfere em diversos processos
+neuroquímicos no cérebro. Os principais mecanismos incluem:
+Aumento da neurotransmissão inibitória: A amônia é metabolizada pelos astrócitos em glutamina.
+O acúmulo de glutamina nos astrócitos leva ao edema celular e à liberação de
+neurotransmissores inibitórios, como o GABA (ácido gama-aminobutírico), contribuindo para a
+depressão do sistema nervoso central e alterações no nível de consciência.
+Alteração da neurotransmissão excitatória: A amônia também pode interferir no ciclo do
+glutamato-glutamina, essencial para a neurotransmissão excitatória. A disfunção nesse ciclo pode
+levar a um desequilíbrio entre excitação e inibição neuronal.
+Estresse oxidativo e inflamação: A amônia pode induzir estresse oxidativo e inflamação no
+cérebro, contribuindo para a disfunção neuronal.
+Os sinais e sintomas apresentados por Lucas, como confusão mental, flapping (asterixe) e
+lentificação no EEG, são característicos da encefalopatia hepática. O nível elevado de amônia
+sérica (180 µmol/L) reforça essa hipótese diagnóstica.
+As outras alternativas estão menos diretamente relacionadas ao principal mecanismo da
+encefalopatia hepática neste contexto:
+Acúmulo de bilirrubina indireta - Embora a bilirrubina elevada seja um sinal de disfunção hepática,
+a bilirrubina indireta isoladamente não é o principal fator causador da encefalopatia hepática. A
+encefalopatia colestática, associada à bilirrubina direta, é uma entidade distinta e menos comum.
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 2 de 63
+
+Hiponatremia - A hiponatremia pode causar sintomas neurológicos, mas no caso de Lucas (sódio
+de 130 mEq/L), não é severa o suficiente para ser a principal causa da encefalopatia. Além disso,
+a fisiopatologia da encefalopatia hepática está mais diretamente ligada ao metabolismo da amônia.
+Coagulopatia - A coagulopatia (INR elevado) é uma complicação da doença hepática avançada e
+pode aumentar o risco de hemorragias, mas a encefalopatia hepática é primariamente uma
+disfunção metabólica do sistema nervoso central, não causada diretamente por microhemorragias, embora estas possam agravar o quadro em casos raros. O padrão de alteração
+neurológica difusa e o EEG com lentificação são mais consistentes com encefalopatia
+metabólica.
+Referências Bibliográficas:
+Clinical Practice Guidelines EASL Clinical Practice Guidelines on the management of hepatic
+encephalopathyq European Association for the Study of the Liver. Journal of Hepatology 2022 vol.
+77 j 807–824.
+MONTGOMERY, E. A.; AHMED, A. Hepatic Encephalopathy. Gastroenterology Clinics of North
+America, v. 50, n. 3, p. 615-630, 2021.
+HAUSSINGER, D.; SCHROCK, E.; GEROK, W. Hyperammonaemia and hepatic
+encephalopathy. Lancet, v. 341, n. 8858, p. 1435-1439, 1993.
+2ª QUESTÃO
+Enunciado:
+Durante atendimento em uma Unidade de Saúde da Família, uma pessoa adulta de 58 anos
+comparece a uma consulta de rotina. Relata que, em outras ocasiões, foi informada sobre
+pressão arterial elevada, mas nunca iniciou acompanhamento. No momento, apresenta PA de
+152x94 mmHg em duas medições, com intervalo de cinco minutos, utilizando técnica correta.
+Está assintomática e não refere comorbidades.
+Com base no caso, assinale a alternativa que apresenta condutas adequadas no diagnóstico e
+avaliação inicial da hipertensão arterial sistêmica na Atenção Primária à Saúde:
+Alternativas:
+(alternativa A) (CORRETA)
+Confirmar o diagnóstico com novas aferições em dias distintos ou por MAPA/MRPA; e, solicitar
+exames laboratoriais e avaliar possíveis lesões de órgão-alvo como parte da conduta inicial.
+(alternativa B)
+A avaliação inicial deve incluir ecocardiograma para verificar alterações como discinesia
+ventricular esquerda, fundamentais para confirmar o diagnóstico e definir a conduta.
+(alternativa C)
+O diagnóstico da HAS é clínico, feito por aferições seriadas da PA; exames laboratoriais são úteis
+para o cuidado, mas não são necessários se a pessoa estiver assintomática.
+(alternativa D)
+Iniciar imediatamente o tratamento medicamentoso com base na leitura atual de PA ≥140x90
+mmHg, pois já é possível afirmar o diagnóstico mesmo sem aferições em dias distintos
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 3 de 63
+
+Resposta comentada:
+O gabarito correto é a alternativa que confirmar o diagnóstico com novas aferições em dias
+distintos ou por MAPA/MRPA; e, solicitar exames laboratoriais e avaliar possíveis lesões de
+órgão-alvo como parte da conduta inicial., pois representa a conduta recomendada pelas
+diretrizes nacionais para o manejo da hipertensão arterial sistêmica (HAS) na Atenção Primária à
+Saúde. O diagnóstico da HAS deve ser confirmado com aferições da pressão arterial em dias
+distintos ou por meio de métodos indiretos como a monitorização ambulatorial (MAPA) ou a
+medida residencial da pressão arterial (MRPA). Além disso, a avaliação inicial deve incluir
+exames laboratoriais, mesmo em pacientes assintomáticos, como creatinina, potássio, glicemia,
+perfil lipídico e exame de urina (EAS), com o objetivo de estratificar risco cardiovascular, rastrear
+comorbidades e identificar possíveis lesões de órgão-alvo.
+Está incorreta a ideia de que se deve iniciar tratamento medicamentoso com base em uma única
+leitura elevada de pressão arterial. Essa conduta é restrita a situações de emergência
+hipertensiva ou evidência clínica clara de lesão de órgão-alvo. Iniciar medicação sem confirmação
+adequada pode levar a intervenções desnecessárias.
+Embora seja verdade que o diagnóstico da HAS é eminentemente clínico e feito por meio de
+aferições da PA, não se deve considerar os exames laboratoriais como opcionais. Eles fazem
+parte da avaliação obrigatória na Atenção Primária, mesmo em pacientes sem sintomas, pois são
+fundamentais para orientar o plano terapêutico de forma segura e eficaz.
+Também está incorreta a afirmação de que a avaliação inicial deve incluir ecocardiograma. Esse
+exame pode ser indicado em situações específicas, como na suspeita de comprometimento
+cardíaco, mas não é necessário para confirmar o diagnóstico de HAS. A presença de alterações
+como discinesia do ventrículo esquerdo pode surgir em estágios mais avançados da doença e,
+por isso, sua investigação inicial não é indicada na rotina da APS.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+DUNCAN, Bruce B.; SCHMIDT, Maria Inês; GIUGLIANI, Elsa Regina Justo; et al. Medicina
+Ambulatorial: condutas de atenção primária baseadas em evidências. 5. ed. Porto Alegre: Artmed,
+2022.
+
+3ª QUESTÃO
+Enunciado:
+Mulher de 45 anos, procura atendimento médico queixando-se de episódios recorrentes de
+vertigem ao mudar de posição, especialmente ao deitar ou ao virar a cabeça rapidamente. Ela
+relata que os episódios duram poucos segundos e desaparecem espontaneamente. O exame
+físico revela nistagmo horizontal, que ocorre de maneira breve e desaparece após alguns
+segundos, com a manobra de Dix-Hallpike positiva.
+Considerando o caso acima de Vertigem Posicional Paroxística Benigna- VPPB, marque a
+alternativa que apresenta a conduta mais indicada.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 4 de 63
+
+Alternativas:
+(alternativa A)
+Solicitar uma ressonância magnética de crânio para excluir possíveis causas neurológicas e
+aguardar os resultados antes de iniciar o tratamento.
+(alternativa B) (CORRETA)
+Realizar a manobra de Epley, que é a principal abordagem terapêutica para reposicionar os
+cristais de cálcio no ouvido interno.
+(alternativa C)
+Indicar a realização de exercícios vestibulares domiciliares, sem a necessidade de manobras
+específicas ou medicamentos.
+(alternativa D)
+Iniciar tratamento com medicamentos antieméticos e agendar uma nova consulta em 1 mês para
+avaliação da evolução.
+
+Resposta comentada:
+Correta: A manobra de Epley é o tratamento de primeira linha para a Vertigem posicional
+paroxística benigna-- VPPB, sendo indicada para reposicionar os otólitos deslocados na cóclea e
+aliviar os sintomas de vertigem. É uma intervenção simples e eficaz para essa condição.
+Incorreta: Os medicamentos antieméticos podem ser usados para alívio sintomático temporário,
+mas não tratam a causa subjacente da Vertigem posicional paroxística benigna- VPPB, que é o
+deslocamento dos cristais de cálcio no ouvido interno. A abordagem terapêutica principal é a
+manobra de Epley.
+Incorreta: A ressonância magnética não é indicada na VPPB, pois a condição é benigna e não
+envolve lesões neurológicas. O diagnóstico é clínico e confirmado pela manobra de Dix-Hallpike,
+sem a necessidade de exames de imagem.
+Incorreta: Embora exercícios vestibulares possam ser úteis em alguns casos, a manobra de
+Epley é a conduta inicial recomendada, sendo mais eficaz para tratar a causa da vertigem na
+VPPB.
+Referência:
+GUSSO, Gustavo; LOPES, José M. C.; DIAS, Lêda C. (Orgs.). Tratado de Medicina de Família e
+Comunidade: Princípios, Formação e Prática. Porto Alegre: ARTMED, 2018. (Cap. 225)
+4ª QUESTÃO
+Enunciado:
+Sexo masculino, 72 anos, hipertenso e diabético, procura a UPA com dor torácica opressiva
+iniciada há 1 hora, irradiando para o braço esquerdo. Refere náuseas e sudorese. ECG mostra
+supradesnivelamento do segmento ST em V2-V4. Diante do quadro, marque a alternativa que
+apresenta a conduta imediata mais adequada.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 5 de 63
+
+Alternativas:
+(alternativa A) (CORRETA)
+Administrar AAS e transferir para hemodinâmica.
+(alternativa B)
+Iniciar heparina subcutânea e observar evolução.
+(alternativa C)
+Solicitar troponina e aguardar resultado para conduta.
+(alternativa D)
+Prescrever nitrato sublingual e reavaliar após 30 min.
+
+Resposta comentada:
+Resposta correta: Administrar AAS e transferir para hemodinâmica.
+Justificativa da correta:
+O paciente apresenta quadro clínico e eletrocardiográfico compatível com infarto agudo do
+miocárdio com supradesnivelamento do ST (IAM com supra de ST). A conduta de escolha é
+administração precoce de AAS, antitrombóticos e encaminhamento imediato para angioplastia
+primária, se disponível em até 120 minutos (porta-balão). Tempo é músculo.
+Análise das alternativas incorretas:
+Iniciar heparina subcutânea e observar evolução:
+Conduta insuficiente e inadequada frente a IAM com supra de ST. Retarda reperfusão
+miocárdica.
+Solicitar troponina e aguardar resultado para conduta:
+A troponina não deve atrasar a decisão terapêutica quando o ECG já confirma o
+diagnóstico.
+Prescrever nitrato sublingual e reavaliar após 30 min:
+Pode aliviar sintomas, mas não é tratamento definitivo. Retarda reperfusão e piora
+prognóstico.
+Referências bibliográficas:
+1. Sociedade Brasileira de Cardiologia. Diretriz de Síndrome Coronariana Aguda com
+Supradesnivelamento do Segmento ST (2021).
+2. O’Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA Guideline for the
+Management of ST-Elevation Myocardial Infarction. J Am Coll Cardiol. 2013.
+3. UpToDate. Acute ST-elevation myocardial infarction: Management in the emergency
+department and initial hospital setting (2024).
+4. Braunwald E. Tratado de Doenças Cardiovasculares. 11ª ed. Elsevier, 2019.
+5ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 6 de 63
+
+Enunciado:
+Um paciente de 35 anos, residente em área endêmica, apresenta febre prolongada,
+emagrecimento acentuado, hepatoesplenomegalia e pancitopenia. Após investigação clínica e
+laboratorial, foi diagnosticado com leishmaniose visceral (LV). Sobre o tratamento da LV no Brasil,
+analise as afirmativas abaixo:
+I. O tratamento de escolha para todos os casos é a anfotericina B lipossomal, independentemente
+da condição clínica do paciente.
+II. O glucantime (antimoniato de meglumina) é o medicamento de primeira escolha para pacientes
+imunocompetentes sem contraindicações.
+III. Em pacientes com insuficiência renal, o uso de glucantime é seguro e não requer ajustes.
+IV. O tratamento pode ser dispensado em pacientes imunocomprometidos, uma vez que a
+doença frequentemente regride espontaneamente.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+II.
+(alternativa B)
+I e III.
+(alternativa C)
+III e IV.II
+(alternativa D)
+II e III.
+
+Resposta comentada:
+II - correto - O glucantime (antimoniato de meglumina) é o medicamento de primeira escolha para
+pacientes imunocompetentes sem contraindicações.
+III. errado - O antimoniato de meglumina é o tratamento de escolha na maioria dos casos de LV
+em pacientes imunocompetentes no Brasil, exceto em situações de contraindicação (insuficiência
+renal, hepática ou cardíaca, ou intolerância).
+I - errado anfotericina B lipossomal é indicada em casos graves, imunossuprimidos ou com
+contraindicação ao uso do glucantime.
+IV - errado - A LV não regride espontaneamente, especialmente em pacientes imunossuprimidos,
+que demandam tratamento precoce e intensivo.
+Referência:
+BRASIL. Ministério da Saúde. Guia de Vigilância em Saúde: Volume Único. 5ª ed. Brasília:
+Ministério da Saúde, 2021. Disponível em: https://www.gov.br/saude/pt-br
+6ª QUESTÃO
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 7 de 63
+
+Enunciado:
+Paciente, sexo masculino, 64 anos, hipertenso e ex-tabagista, será submetido a hernioplastia
+inguinal eletiva. Está assintomático e em uso regular de losartana. PA de 146/92 mmHg na
+consulta pré-operatória. ECG com sobrecarga ventricular esquerda e creatinina de 1,6 mg/dL.
+Marque a alternativa que apresenta o fator que o classifica como alto risco cardiovascular para
+cirurgia.
+Alternativas:
+(alternativa A) (CORRETA)
+Creatinina > 1,5 mg/dL.
+(alternativa B)
+Sobrecarga ventricular no ECG.
+(alternativa C)
+Ex-tabagismo há mais de 5 anos.
+(alternativa D)
+Hipertensão arterial
+
+Resposta comentada:
+Resposta correta: Creatinina > 1,5 mg/dL
+Justificativa da correta:
+A disfunção renal crônica é um critério reconhecido de alto risco cardiovascular no perioperatório,
+devido à associação com aterosclerose difusa, disfunção endotelial e risco aumentado de
+complicações cardíacas, mesmo em cirurgias de baixo risco.
+Análise das alternativas incorretas:
+Sobrecarga ventricular no ECG:
+Sugerem HAS crônica, mas não configura alto risco isoladamente sem sinais clínicos
+ou ecocardiográficos de disfunção ventricular.
+Ex-tabagismo há mais de 5 anos:
+O risco cardiovascular reduz-se significativamente após 5 anos de cessação. Não é
+fator de alto risco isolado.
+Hipertensão arterial controlada:
+A HAS sem outros comemorativos não constitui critério de alto risco no pré-operatório.
+Referências bibliográficas:
+1. Sociedade Brasileira de Cardiologia (SBC). Diretriz de Avaliação Perioperatória de
+Cirurgias Não Cardíacas. Arq Bras Cardiol. 2017;109(3 Supl. 1):1-104.
+2. Ministério da Saúde. Caderno de Atenção Básica nº 37 – Hipertensão Arterial
+Sistêmica. Brasília: 2021.
+3. European Society of Cardiology (ESC). Guidelines on cardiovascular assessment
+before non-cardiac surgery. Eur Heart J. 2014.
+4. UpToDate. Evaluation of cardiac risk prior to noncardiac surgery. 2024.
+7ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 8 de 63
+
+Enunciado:
+Um paciente de 60 anos chega ao pronto socorro com dor abdominal progressiva no quadrante
+inferior direito, associada a febre e náuseas. Durante o exame físico, observa-se dor intensa à
+palpação profunda do quadrante inferior direito do abdome e sinal de Blumberg positivo. Assinale o
+tipo mais provável de abdome agudo nesse caso.
+Alternativas:
+(alternativa A)
+Abdome agudo perfurativo.
+(alternativa B)
+Abdome agudo vascular.
+(alternativa C) (CORRETA)
+Abdome agudo inflamatório.
+(alternativa D)
+Abdome agudo obstrutivo.
+
+Resposta comentada:
+O tipo mais provável de abdome agudo é o abdome agudo inflamatório quando correlacionado
+anamnese e exame físico do abdome do citado caso clínico.
+8ª QUESTÃO
+Enunciado:
+Carlos, 50 anos, procura atendimento médico queixando-se de fadiga intensa, fraqueza e
+dificuldade para se concentrar nos últimos dois meses. Ele não relata comorbidades
+significativas. Durante o exame físico, observa-se palidez mucosa e taquicardia. O médico
+solicita exames laboratoriais que retornam com os seguintes resultados:
+Hemoglobina (Hb): 9,5 g/dL
+Volume corpuscular médio (VCM): 72 fL
+Hemoglobina corpuscular média (HCM): 22 pg
+Ferritina: 10 ng/mL
+Vitamina B12: 350 pg/mL
+Ácido fólico: 8 ng/mL
+Com base nesses dados laboratoriais, assinale a alternativa que apresenta o diagnóstico mais
+provável para Carlos, e a conduta mais apropriada para o tratamento e investigação da causa
+subjacente.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 9 de 63
+
+Alternativas:
+(alternativa A)
+Diagnóstico de anemia ferropriva, iniciar suplementação intravenosa de ferro e realizar exame de
+fezes para sangue oculto e ultrassonografia abdominal.
+(alternativa B)
+Diagnóstico de anemia megaloblástica devido à deficiência de vitamina B12, iniciar
+suplementação com vitamina B12 e realizar biópsia de medula óssea para investigação.
+(alternativa C)
+x
+(alternativa D)
+Diagnóstico de anemia megaloblástica devido à deficiência de ácido fólico, iniciar suplementação
+com ácido fólico, e investigar a causa por meio de endoscopia digestiva alta e colonoscopia.
+(alternativa E) (CORRETA)
+Diagnóstico de anemia ferropriva, iniciar suplementação de ferro oral e investigar possíveis
+sangramentos gastrointestinais com colonoscopia e endoscopia digestiva alta.
+
+Resposta comentada:
+Correta: O quadro clínico e os exames laboratoriais indicam anemia ferropriva (VCM e HCM
+baixos, ferritina extremamente baixa). A suplementação de ferro oral é a abordagem inicial. A
+investigação de fontes de sangramentos gastrointestinais, como úlceras ou câncer
+gastrointestinal, é obrigatória em homens adultos com anemia ferropriva, e colonoscopia e
+endoscopia digestiva alta são os exames de escolha para esse caso.
+Incorreta: A suplementação intravenosa de ferro geralmente é indicada para casos graves ou
+quando o paciente não tolera o ferro oral. Além disso, a ultrassonografia abdominal não é o exame
+de escolha para investigar causas de anemia ferropriva.
+Incorreta: A vitamina B12 está dentro dos valores normais, o que exclui a anemia megaloblástica
+causada por deficiência dessa vitamina. A biópsia de medula óssea não é necessária nesse
+caso.
+Incorreta: A anemia ferropriva é o diagnóstico correto, e não a anemia megaloblástica. A
+suplementação com ácido fólico não é indicada neste caso, pois o ácido fólico está dentro do
+valor normal.
+DUNCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022. (Cap. 72)
+9ª QUESTÃO
+Enunciado:
+Paciente sexo feminino, 20 anos de idade, 50 kg e 1,70 de altura, chega na emergência, vitima de
+queimadura, sofrida em festa junina. Apresenta queimaduras de segundo e terceiro graus na
+região nas mãos e antebraços, tórax e face. Diante o exposto, marque a alternativa que apresenta
+como se calcula a superfície corporal queimada.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 10 de 63
+
+Alternativas:
+(alternativa A)
+Tabela utilizando a idade e o peso juntamente com a profundidade da queimadura, isto é, se a
+queimadura é de primeiro, segundo ou terceiro grau.
+(alternativa B)
+Tabela utilizando os dedos da mão da pessoa, com cada dedo medindo 1% de área queimada e
+compara-se os dedos com a área queimada.
+(alternativa C) (CORRETA)
+Tabela conhecida por regra dos noves que divide os segmentos corporais por nove ou múltiplo de
+nove.
+(alternativa D)
+Tabela utilizando o peso da pessoa multiplicado pela altura da pessoa e com o resultado obtido
+devemos retirar a idade da pessoa.
+
+Resposta comentada:
+Resposta correta
+Uma tabela conhecida para cálculo da superfície corporal queimada é conhecida por regra dos
+noves (tabela de adultos e de crianças), preconizada por Pulanski e Tennison, que divide os
+segmentos corporais por nove ou múltiplo de nove.
+Não existe tabela utilizando peso, altura ou idade da pessoa queimada e nem tabela utilizando os
+dedos da mão.
+Tabela utilizando o peso da pessoa multiplicado pela altura da pessoa e com o resultado obtido
+devemos retirar a idade da pessoa. Incorreta pois não existe tal tabela.
+Tabela utilizando-se os dedos da mão da pessoa, com cada dedo medindo 1% de área queimada
+e compara-se os dedos com a área queimada. Incorreta pois não existe tal tabela.
+Tabela utilizando a idade e o peso juntamente com a profundidade da queimadura, isto é, se a
+queimadura é de primeiro, segundo ou terceiro grau. Incorreta pois não existe tal tabela.
+
+Bibliografia
+SAVASSI-ROCHA, Paulo R.; SANCHES, Soraya Rodrigues de A.; SAVASSI-ROCHA, Alexandre
+L. Cirurgia de Ambulatório. [Digite o Local da Editora]: MedBook Editora, 2013. E-book. ISBN
+9786557830215. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830215/. Acesso em: 30 nov. 2024.
+10ª QUESTÃO
+Enunciado:
+Paciente, sexo feminino, 9 anos, asmática, chegou ao pronto-atendimento com chiado, tosse
+seca e leve esforço respiratório. Após avaliação clínica e saturação de 95%, foi diagnosticada
+com crise asmática leve. O médico prescreveu broncodilatador de resgate. Nesse sentido,
+marque a alternativa que apresenta o dispositivo de escolha para administração do medicamento
+nessa faixa etária, considerando eficácia e adesão.
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 11 de 63
+
+Alternativas:
+(alternativa A)
+Nebulizador com máscara acoplada.
+(alternativa B) (CORRETA)
+Bombinha com espaçador e máscara.
+(alternativa C)
+Bombinha sem espaçador.
+(alternativa D)
+Inalador de pó seco (DPI).
+
+Resposta comentada:
+Resposta correta: Bombinha com espaçador e máscara
+Justificativa da correta:
+A bombinha com espaçador e máscara é o método preferencial para crianças nessa faixa etária,
+especialmente as menores de 10 anos que ainda não coordenam adequadamente a inspiração
+com o acionamento da bombinha. O espaçador facilita a deposição do fármaco nas vias aéreas
+inferiores e a máscara garante vedação adequada em crianças menores ou com dificuldade de
+usar o bocal.
+Análise das incorretas:
+Nebulizador com máscara acoplada:
+É eficaz, mas menos prático. Exige fonte de energia e maior tempo de administração,
+além de risco aumentado de contaminação cruzada. Reservado para casos
+moderados a graves ou quando outros dispositivos não são disponíveis.
+Bombinha sem espaçador:
+Dificulta a administração correta, pois exige coordenação motora precisa entre
+inspiração e acionamento. Isso reduz a efetividade do tratamento em crianças
+menores.
+Inalador de pó seco (DPI):
+Inadequado para crianças pequenas, pois exige fluxo inspiratório forte e estável,
+geralmente ausente durante crises e em pacientes com menos de 12 anos.
+Referências bibliográficas:
+1. Sociedade Brasileira de Pediatria. Consenso Brasileiro em Asma 2020 – Diretrizes para
+o Manejo da Asma na Infância e Adolescência. SBP, 2020.
+2. Global Initiative for Asthma (GINA). Global Strategy for Asthma Management and
+Prevention – 2024 Update. Disponível em: https://ginasthma.org
+3. Ministério da Saúde – Brasil. Protocolo Clínico e Diretrizes Terapêuticas da Asma.
+Brasília: 2022.
+11ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 12 de 63
+
+Enunciado:
+Em uma Unidade de Saúde da Família, você está realizando o atendimento de um paciente de 62
+anos, com história de poliúria e perda de peso recente. Após a anamnese, foi solicitado teste
+glicêmico capilar que retornou 225 mg/dl. Com base na apresentação clínica e exames
+complementares do paciente, marque a alternativa que apresenta o exame, que o médico precisa
+solicitar, para confirmar o diagnóstico de Diabetes Mellitus.
+Alternativas:
+(alternativa A)
+Teste oral de tolerância à glicose (TOTG).
+(alternativa B)
+Teste de glicose pós-prandial.
+(alternativa C) (CORRETA)
+Hemoglobina glicada (HbA1c).
+(alternativa D)
+Insulina em jejum.
+
+Resposta comentada:
+O paciente tem sintomas clássicos de hiperglicemia (poliúria, perda de peso) e uma glicemia
+capilar de 225 mg/dL, o que já sugere fortemente o diagnóstico de Diabetes Mellitus.
+Segundo o Ministério da Saúde e a ADA (American Diabetes Association):
+Em pacientes sintomáticos, uma glicemia ≥200 mg/dL (capilar ou plasmática, fora do jejum) já é
+suficiente para diagnóstico de diabetes, dispensando confirmação com outros exames.
+Contudo, na prática da APS, especialmente se estivermos diante de um caso ainda sem certeza
+diagnóstica ou sem urgência clínica, é prudente solicitar um exame que avalie o controle
+glicêmico nas últimas semanas para melhor fundamentar a conduta e acompanhar o paciente.
+A hemoglobina glicada (HbA1c) cumpre essa função, pois avalia a média da glicemia nos últimos
+2-3 meses e é um dos critérios diagnósticos de DM, com ponto de corte ≥6,5%.
+Por que não as outras?
+TOTG: é útil em casos duvidosos ou em pacientes com glicemia de jejum alterada
+(entre 100–125 mg/dL), mas não é necessário em pacientes sintomáticos com glicemia
+>200.
+Glicose pós-prandial: não é critério diagnóstico formal.
+Insulina em jejum: não é utilizada para diagnóstico de DM, mas sim para avaliar
+resistência insulínica em contextos específicos.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+12ª QUESTÃO
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 13 de 63
+
+Enunciado:
+Paciente de 48 anos,sem história de patologias prévias. Iniciou sintomas há cerca de oito dias de
+febre alta, tosse produtiva com escarro amarelado, falta de ar e dor torácica ventilatório
+dependente em região de hemitórax esquerdo. Resolveu procurar atendimento médico e foi
+diagnosticado com pneumonia. Ao exame físico apresentava frequência cardíaca de 79 BPM,
+frequência respiratória de 19 IRPM, pressão arterial de 120x80 mmHg, saturação periférica de
+oxigênio de 99% em ar ambiente, em bom estado geral, eupneico, hidratado, consciente,
+orientado, ausculta pulmonar com estertores finos na base do hemitórax esquerdo. Exames
+laboratoriais sem alterações. Sem história de alergias a medicamentos ou uso de antibióticos
+recentes. Assim, marque a alternativa que apresenta a conduta mais adequada para este
+paciente.
+Alternativas:
+(alternativa A) (CORRETA)
+Tratamento domiciliar e iniciar uso de amoxacilina com clavulanato, via oral.
+(alternativa B)
+Internação hospitalar e iniciar uso de ceftriaxone, via endovenosa.
+(alternativa C)
+Tratamento domiciliar e iniciar uso de levofloxacina e azitromicina, via oral.
+(alternativa D)
+Internação hospitalar e iniciar uso de levofloxacina,via endovenosa.
+
+Resposta comentada:
+Resposta Comentada
+RESPOSTA: Tratamento domiciliar e iniciar amoxicilina com clavulanato, via oral.
+A decisão de internação hospitalar ou tratamento domiciliar depende da avaliação da gravidade da
+pneumonia. Neste caso, o paciente apresenta um quadro clínico compatível com pneumonia
+adquirida na comunidade, mas sem sinais de gravidade que justifiquem a hospitalização.
+Os critérios de internação hospitalar incluem a presença de sinais de gravidade, como hipotensão
+arterial, frequência respiratória elevada, alterações na consciência, necessidade de suporte
+ventilatório, entre outros. No entanto, o paciente apresenta sinais vitais estáveis, bom estado geral
+e saturação de oxigênio adequada em ar ambiente.
+Portanto, o tratamento domiciliar é apropriado neste caso. A escolha do antibiótico é baseada nas
+diretrizes locais de manejo de pneumonia adquirida na comunidade e na possível resistência
+bacteriana. A amoxicilina com clavulanato é uma opção comumente prescrita para casos de
+pneumonia adquirida na comunidade, especialmente em pacientes sem comorbidades
+significativas.
+REFERÊNCIAS:
+Sociedade Brasileira de Pneumologia e Tisiologia. Diretrizes Brasileiras para
+Tratamento das Pneumonias Adquiridas na Comunidade em Adultos
+Imunocompetentes - 2009. Disponível em:
+http://www.sbpt.org.br/portal/publicacoes/diretrizes-brasileiras-para-tratamento-daspneumonias-adquiridas-na-comunidade-em-adultos-imunocompetentes-2009/. Acesso
+em: 29/05/2024.
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 14 de 63
+
+13ª QUESTÃO
+Enunciado:
+Mulher de 66 anos, previamente hipertensa e sem história de doença cardíaca estrutural, é levada
+ao pronto-socorro com palpitações, sudorese intensa e perda de 4 kg nas últimas semanas.
+Relata que há dois meses percebeu um "caroço" no pescoço. Ao exame, apresenta exoftalmia,
+tremor de extremidades e PA 140/60 mmHg. ECG revela fibrilação atrial com resposta ventricular
+de 170 bpm e sinais de instabilidade hemodinâmica. Acerca do exposto, assinale a alternativa que
+apresenta a conduta inicial mais adequada para este caso.
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar cardioversão elétrica sincronizada de urgência, com sedação, devido à instabilidade
+clínica.
+(alternativa B)
+Administrar amiodarona intravenosa e observar em unidade de cuidados intensivos por 24 horas.
+(alternativa C)
+Iniciar propranolol oral e metimazol intravenoso para controle da tireotoxicose e reversão da
+fibrilação atrial.
+(alternativa D)
+Iniciar digoxina intravenosa para controle da frequência cardíaca, com posterior investigação do
+nódulo.
+
+Resposta comentada:
+Propranolol + metimazol – Incorreta. Embora ambos sejam indicados no controle da tireotoxicose,
+não são medidas imediatas diante de taquiarritmia instável. A instabilidade exige cardioversão
+elétrica emergencial antes da terapêutica antitireoidiana.
+Cardioversão elétrica sincronizada – Correta. Segundo o ACLS, a fibrilação atrial com
+instabilidade hemodinâmica (hipotensão, angina, dispneia grave, alteração de consciência) é
+indicação absoluta de cardioversão elétrica imediata, independentemente da etiologia.
+Digoxina IV – Incorreta. A digoxina pode ser útil em FA com frequência elevada, especialmente
+em pacientes com IC, mas tem início de ação lento e não resolve prontamente a instabilidade.
+Amiodarona IV – Incorreta. Amiodarona é contraindicação relativa em tireotoxicose por potencial
+de piora do quadro; além disso, não substitui a cardioversão imediata em casos instáveis.
+Referência: AHA, 2020, ACLS Provider Manual; HARRISON et al., 2022, p. 1857-1860.
+14ª QUESTÃO
+Enunciado:
+Paulo, 45 anos, vem apresentando quadro de sensação de movimento ilusório, que descreve
+como se “as coisas ao redor estivessem se movendo”, em crises intensas e durante horas, há
+cerca de 2 semanas. Associado ao quadro, também refere náuseas, mal-estar e sudorese. Não
+apresenta comprometimento ou sintomas auditivos, e não identificou gatilhos responsáveis pelos
+sintomas. Sobre o quadro clínico de Paulo, é possível afirmar que:
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 15 de 63
+
+Alternativas:
+(alternativa A)
+se trata de um caso de doença de Ménière, com fisiopatologia incerta e etiologia multifatorial.
+(alternativa B)
+o tratamento padrão-ouro são as manobras de Epley e Dix-Hallpike.
+(alternativa C)
+o padrão clínico da tontura de Paulo pode ser descrito como “desequilíbrio”.
+(alternativa D) (CORRETA)
+o quadro é causado por inflamação do nervo vestibular, possivelmente de etiologia viral.
+
+Resposta comentada:
+O padrão clínico de tontura de Paulo é o de “vertigem”, e não de “desequilíbrio”. Trata-se de um
+quadro sugestivo de neurite vestibular, geralmente de etiologia viral, podendo também ser
+causada por oclusão vascular, mecanismos autoimunes. O tratamento do quadro não passa pela
+realização das manobras de reposicionamento de otólitos, como acontece na VPPB.
+DUNCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022. (Cap. 57)
+15ª QUESTÃO
+Enunciado:
+Lucas, 12 anos, é levado à Unidade Básica de Saúde com queixa de dor de garganta intensa,
+febre alta iniciada há dois dias e dificuldade para engolir. Durante o exame físico, observa-se
+hiperemia e exsudato branco nas amígdalas, ausência de tosse e linfadenopatia cervical anterior.
+O médico realiza o manejo clínico, orienta o tratamento adequado e registra o caso no prontuário
+utilizando o método SOAP (S- subjetivo, O-objetivo, A-avaliação, P-palno).
+Com base no método SOAP de registro em prontuário, marque a alternativa que apresenta um
+exemplo de preenchimento correto.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 16 de 63
+
+Alternativas:
+(alternativa A) (CORRETA)
+Em P, o médico deve registrar: “Prescrever amoxicilina por 10 dias, orientar hidratação adequada
+e repouso relativo, e agendar reavaliação.”
+(alternativa B)
+Em S, o médico deve registrar: “Hiperemia de orofaringe, exsudato branco nas amígdalas e
+linfadenopatia cervical anterior palpável"
+(alternativa C)
+Em O, o médico deve registrar: "Paciente apresenta dor de garganta intensa, febre alta há dois
+dias e dificuldade para engolir."
+
+(alternativa D)
+Em A, o médico deve registrar: “Faringoamigdalite estreptocócica? Faringoamigdalite viral?
+Mononucleose?”
+
+Resposta comentada:
+Correta: O plano é adequado para o manejo da faringoamigdalite estreptocócica, com prescrição
+de amoxicilina por 10 dias(antibiótico de escolha), orientações para cuidado domiciliar e
+hidratação, além de reavaliação programada para acompanhar a resposta ao tratamento.
+Incorreta: O campo S (Subjetivo) deve descrever de forma clara as queixas relatadas pela família
+e o histórico do quadro clínico.
+Incorreta: O campo O (Objetivo) deve apresentar os achados do exame físico de maneira
+objetiva, sem interpretações ou diagnósticos embutidos.
+Incorreta: O campo A (Avaliação) não deve conter perguntas ou hipóteses interrogradas. Ele deve
+registrar a avaliação clínica, como o diagnóstico provável ou conclusões baseadas no exame.
+Escrever “faringoamigdalite estreptocócica? Faringoamigdalite viral? Mononucleose?” é
+inadequado. O registro correto seria “Faringoamigdalite bacteriana, provável etiologia
+estreptocócica.”
+ReferÊncia:
+GUSSO, G, et al. Tratado de medicina de família e comunidade - 2 volumes: princípios, formação
+e prática. Disponível em: Minha Biblioteca, (2nd edição). Grupo A, 2019. (Cap. 48 e 49)
+16ª QUESTÃO
+Enunciado:
+Adulto jovem, sexo masculino, é levado à UPA por amigos após ser picado por serpente
+desconhecida enquanto fazia trilha em área rural. Chegou consciente, relatando dor local de forte
+intensidade, visão turva e fraqueza muscular progressiva. Durante o atendimento, evolui com
+parada cardiorrespiratória (PCR) com ritmo de assistolia. Exame físico inicial mostrava ptose
+palpebral, fácies paralisada, sem edema ou sangramento ativo no local da picada.
+Diante do quadro clínico e evolução, assinale a alternativa que apresenta a etiologia e conduta
+inicial recomendada.
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 17 de 63
+
+Alternativas:
+(alternativa A)
+Acidente botrópico com evolução para choque hipovolêmico por coagulopatia grave; iniciar RCP
+de alta qualidade e solicitar soro antibotrópico específico após estabilização.
+(alternativa B) (CORRETA)
+Acidente elapídico com paralisia neuromuscular e falência ventilatória; iniciar RCP de alta
+qualidade, ventilar com bolsa-válvula-máscara e administrar soro antielapídico.
+(alternativa C)
+Acidente crotálico com lesão miotóxica; priorizar hidratação vigorosa, evitar reanimação até
+identificar sangramento ativo e confirmar função renal.
+(alternativa D)
+Acidente laquético, caracterizado por quadro neurotóxico e miotóxico com rabdomiólise; iniciar
+RCP e administrar soro antilaquético somente após confirmação laboratorial de envenenamento.
+
+Resposta comentada:
+Correta:
+Acidente elapídico (coral verdadeira), com paralisia neuromuscular progressiva e falência
+ventilatória; iniciar RCP de alta qualidade, ventilar com bolsa-válvula-máscara e administrar soro
+antielapídico o mais precocemente possível.
+O quadro clínico com ptose, paralisia facial, ausência de edema, e insuficiência
+respiratória progressiva é típico de envenenamento elapídico (coral verdadeira), que
+causa bloqueio neuromuscular e pode evoluir para parada por falência ventilatória.
+A conduta inclui RCP de alta qualidade (ACLS/SBV), suporte ventilatório imediato e
+administração precoce de soro antielapídico, mesmo sem confirmação laboratorial.
+Botrópico costuma cursar com dor, edema e sangramento local, não é neurotóxico.
+Laquético é raro e caracteriza-se por manifestações autonômicas, mioglobinúria e
+rabdomiólise, mas o quadro descrito não é compatível.
+Crotálico cursa com miotoxicidade e neurotoxicidade leve, mas há sinais sistêmicos e
+hemorragias — ausentes no caso.
+Referências:
+Ministério da Saúde. Manual de Diagnóstico e Tratamento de Acidentes por Animais
+Peçonhentos, 2ª ed., 2022.
+American Heart Association. ACLS Guidelines, 2020.
+UpToDate. Neurotoxic envenomation: Clinical manifestations and treatment.
+17ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 18 de 63
+
+Enunciado:
+Um estudante de medicina do 4º ano e presencia um colapso súbito de um homem adulto em
+local público. Após verificar a segurança da cena, ele se aproxima e constata que a vítima está
+inconsciente e sem resposta. De acordo com as diretrizes do ACLS 2020, assinale a alternativa
+que apresenta a próxima ação imediata.
+Alternativas:
+(alternativa A)
+Realizar ventilações com bolsa-válvula-máscara por 2 minutos antes de chamar ajuda.
+(alternativa B)
+Iniciar compressões torácicas imediatamente.
+(alternativa C)
+Verificar pulso carotídeo e respiração simultaneamente por até 10 segundos.
+(alternativa D) (CORRETA)
+Acionar o serviço de emergência e solicitar um Desfibrilador Externo Automático (DEA).
+
+Resposta comentada:
+ERRADA. Verificar pulso carotídeo e respiração simultaneamente por até 10 segundos.
+Justificativa: Esse passo vem após chamar o serviço de emergência e buscar o DEA.
+ERRADA. Iniciar compressões torácicas imediatamente
+Justificativa: A RCP começa somente após confirmar ausência de pulso e respiração.
+CORRETA. Acionar o serviço de emergência e solicitar um Desfibrilador Externo Automático
+(DEA)
+Justificativa: Esta é a ação imediata correta após reconhecer a inconsciência.
+ERRADA. Realizar ventilações com bolsa-válvula-máscara por 2 minutos antes de chamar
+ajuda.
+Justificativa: Não se inicia ventilação antes de confirmar ausência de pulso, nem se adia o
+chamado do serviço de emergência.
+2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency
+Cardiovascular Care.
+18ª QUESTÃO
+Enunciado:
+Sexo masculino, 6 anos, é levado à consulta por aumento de gânglios cervicais há 10 dias. A mãe
+refere febre baixa, coriza e dor de garganta há uma semana, já em resolução. Ao exame, os
+linfonodos são móveis, dolorosos e com cerca de 2 cm. Nesse sentido, marque a alternativa que
+apresenta o achado que mais sugere etiologia neoplásica e não infecciosa.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 19 de 63
+
+Alternativas:
+(alternativa A) (CORRETA)
+Linfonodo fixo e indolor.
+(alternativa B)
+Linfonodo com sinais flogísticos.
+(alternativa C)
+Linfonodo com regressão espontânea.
+(alternativa D)
+Linfonodo móvel e doloroso.
+
+Resposta comentada:
+Resposta correta: Linfonodo fixo e indolor
+Justificativa da correta:
+Linfonodos fixos e indolores, especialmente quando persistentes e com mais de 2 cm, são
+sugestivos de causa neoplásica. A ausência de dor e a fixação aos planos profundos indicam
+proliferação celular desordenada, como em linfomas ou metástases.
+Análise das incorretas:
+Linfonodo móvel e doloroso:
+Mais comum em infecções bacterianas ou virais. Dor sugere inflamação.
+Linfonodo com sinais flogísticos:
+Sinais como calor e rubor local são típicos de linfadenite infecciosa.
+Linfonodo com regressão espontânea:
+Sugere resposta a processo infeccioso autolimitado, como viroses.
+Referências bibliográficas:
+1. Sociedade Brasileira de Pediatria. Adenomegalias em Pediatria – Manual de Condutas.
+SBP, 2019.
+2. Feigin RD, Cherry JD, Demmler-Harrison GJ, Kaplan SL. Feigin and Cherry’s Textbook
+of Pediatric Infectious Diseases. 8th ed. Elsevier, 2019.
+3. Ministério da Saúde – Brasil. Protocolos de diagnóstico e tratamento de doenças
+infecciosas. Brasília: 2022.
+4. Glick M, Greenberg MS, Ship JA. Burket’s Oral Medicine. 12th ed. PMPH-USA, 2015.
+19ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 20 de 63
+
+Enunciado:
+Paciente sexo feminino, 30 anos, chega ao médico com diagnóstico de ceratose seborreica,
+localizada na face, dorso e abdome, encaminhada para avaliação e tratamento. Considerando a
+confirmação do diagnóstico, analise as assertivas abaixo com relação as condutas terapêuticas.
+I. A exérese e sutura, principalmente na face é necessária, uma vez que a lesão é epidérmica e a
+evolução resulta em piores resultados estéticos.
+II. A crioterapia com nitrogênio liquido é muito eficaz e rápida, tratando várias lesões ao mesmo
+tempo com recuperação tecidual completa.
+III. A curetagem e eletrocoagulação são eficazes, com necessidade de cuidar para evitar uma
+eletrocoagulação intensa com cicatriz não estética.
+É correto apenas o que se afirma em:
+
+Alternativas:
+(alternativa A)
+I, II e III.
+(alternativa B)
+I e III.
+(alternativa C)
+I e II.
+(alternativa D) (CORRETA)
+II e III.
+
+Resposta comentada:
+Resposta correta
+II e III
+I – A exérese e sutura, principalmente na face é necessária, uma vez que a lesão é epidérmica e
+a evolução resulta em piores resultados estéticos. INCORRETA
+II – A crioterapia com nitrogênio liquido é muito eficaz e rápida, tratando várias lesões ao mesmo
+tempo com recuperação tecidual completa. CORRETA
+III – A curetagem e eletrocoagulação são eficazes, com necessidade de cuidar para evitar uma
+eletrocoagulação intensa com cicatriz não estética. CORRETA
+
+Bibliografia
+SAVASSI-ROCHA, Paulo R.; SANCHES, Soraya Rodrigues de A.; SAVASSI-ROCHA, Alexandre
+L. Cirurgia de Ambulatório. [Digite o Local da Editora]: MedBook Editora, 2013. E-book. ISBN
+9786557830215. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830215/. Acesso em: 30 nov. 2024.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 21 de 63
+
+20ª QUESTÃO
+Enunciado:
+Paciente feminina, 29 anos, comparece à UBS para orientação sobre método contraceptivo.
+Relata vida sexual ativa, parceiro fixo e desejo de adiar gravidez por tempo indeterminado. Nunca
+engravidou. Refere menstruações regulares, sem cólicas importantes. Apresenta histórico
+pessoal de enxaqueca com aura visual desde os 24 anos, com episódios cerca de 1 a 2 vezes
+por mês. Relata uso esporádico de analgésicos. É tabagista (10 cigarros/dia), desde os 17
+anos. Ao exame físico: PA: 128x78 mmHg; IMC: 24,5 kg/m²; Exame ginecológico e citopatológico
+do colo uterino recentes, normais. A paciente relata que uma amiga teve boa experiência com o
+uso de anticoncepcional oral combinado (estrogênio + progestagênio) e quer saber se também
+poderia utilizá-lo.
+Com base na história clínica, assinale a alternativa que apresenta a conduta mais adequada neste
+caso.
+Alternativas:
+(alternativa A)
+Prescrever anticoncepcional oral combinado, pois é eficaz e a paciente é jovem e saudável.
+(alternativa B) (CORRETA)
+Contraindicar anticoncepcional oral combinado por enxaqueca com aura; considerar método
+somente com progestagênio (ex. implante ou DIU de levonorgestrel).
+(alternativa C)
+Contraindicar anticoncepcional oral combinado devido à enxaqueca com aura e tabagismo, e
+orientar o uso de método de barreira.
+(alternativa D)
+Iniciar DIU de cobre, pois a paciente tem contraindicação absoluta a qualquer método hormonal.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 22 de 63
+
+Resposta comentada:
+A enxaqueca com aura representa categoria 4 (risco inaceitável) para métodos combinados
+(estrogênio + progestagênio), devido ao aumento do risco de AVC. Além disso, o tabagismo em
+mulheres acima de 35 anos também se torna uma contraindicação absoluta, mas, mesmo em
+menores de 35, o tabagismo associa-se a risco cardiovascular aumentado.
+Nesse caso, a paciente pode utilizar métodos só com progestagênio (categoria 2 ou 3
+dependendo do caso), como o implante subdérmico ou o DIU hormonal, ou até mesmo o DIU de
+cobre (não hormonal). A escolha entre esses métodos dependerá de outros fatores e preferências
+da paciente.
+Incorretas:
+a enxaqueca com aura já é, por si só, uma contraindicação absoluta ao uso de anticoncepcional
+oral combinado.
+orientar exclusivamente método de barreira (como preservativo) é subestimar a necessidade da
+paciente de um método contraceptivo eficaz e de longa duração, ainda mais porque deseja adiar a
+gestação por tempo indeterminado. Métodos hormonais com progestagênio isolado ou DIU são
+mais adequados.
+a paciente tenha contraindicação absoluta a qualquer método hormonal. A contraindicação é ao
+uso de estrogênio, não ao progestagênio isolado. Assim, o DIU de cobre pode ser uma opção,
+mas não é a única viável
+REFERÊNCIAS:
+Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas – Planejamento
+Reprodutivo. 2023.
+WHO. Medical eligibility criteria for contraceptive use. 5th ed. Geneva: WHO; 2015.
+CDC. U.S. Medical Eligibility Criteria for Contraceptive Use, 2016.
+
+21ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 23 de 63
+
+Enunciado:
+Leia abaixo o Registro Orientado por Problemas da Paciente:
+S: Paciente do sexo feminino, 45 anos, comparece à Unidade de Saúde da Família solicitando um
+“check-up”. Refere cansaço ao final do dia e dor nos pés.
+O: Ao exame físico, o médico identifica acantose nigricante em região cervical e pressão arterial
+de 140/100 mmHg. Peso 98 kg e altura 160 cm.
+Com base no caso clínico e nos princípios do registro em saúde orientado por problemas, analise
+as afirmativas abaixo:
+I. No campo "S", devem ser registradas a demanda espontânea da usuária (check-up) e os
+sintomas referidos, como cansaço e dor nos pés.
+II. No campo "O", é adequado registrar os achados do exame físico, como acantose nigricante e
+valores da pressão arterial, sem interpretações diagnósticas.
+III. O campo "A" do SOAP permite o registro de hipótesis diagnósticas, como síndrome
+metabólica, que pode ser codificada no CIAP-2 por meio de códigos como T93 (hipertensão) e
+T82 (obesidade), mesmo na ausência da medida da circunferência abdominal.
+IV. O CIAP-2 é um sistema de classificação utilizado para registro de problemas e condições de
+saúde na APS, sendo compatível com o prontuário eletrônico do e-SUS APS.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I, II, III e IV.
+(alternativa B)
+II, III e IV.
+(alternativa C)
+I e IV.
+(alternativa D)
+I, II e III.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 24 de 63
+
+Resposta comentada:
+A alternativa com todos os itens contemplados está correta porque todas as afirmativas refletem
+adequadamente os princípios do método SOAP e o uso do CIAP-2 na Atenção Primária à Saúde.
+A primeira afirmativa é verdadeira, pois o campo “S” (subjetivo) deve conter a demanda
+espontânea da usuária e os sintomas que ela refere, como cansaço e dor nos pés. A segunda
+também está correta ao afirmar que o campo “O” (objetivo) é reservado aos achados do exame
+físico, como a acantose nigricante e a pressão arterial elevada, sem incluir interpretações
+diagnósticas. A terceira afirmativa está adequada ao reconhecer que o campo “A” (avaliação)
+permite o registro de hipótesis diagnósticas, como síndrome metabólica, e que, mesmo na
+ausência da circunferência abdominal, é possível registrar os problemas identificados, como
+hipertensão (T93) e obesidade (T82), utilizando o CIAP-2. Por fim, a afirmativa IV é verdadeira ao
+indicar corretamente que o CIAP-2 é o sistema de classificação adotado para registro de
+problemas de saúde na APS e é compatível com o prontuário eletrônico do e-SUS APS.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+DUNCAN, Bruce B.; SCHMIDT, Maria Inês; GIUGLIANI, Elsa Regina Justo; et al. Medicina
+Ambulatorial: condutas de atenção primária baseadas em evidências. 5. ed. Porto Alegre: Artmed,
+2022.
+22ª QUESTÃO
+Enunciado:
+Paciente de 36 anos chega ao ambulatório de ginecologia, com exame de citologia oncótica
+realizado há cerca de 20 dias, revelando atipias celulares compatíveis com lesão intraepitelial
+escamosa de alto grau - HSIL. A paciente revela que na última consulta apresentava exame
+especular normal, colo trófico e sem lesões. Diante o exposto, assinale a alternativa que
+apresenta a melhor conduta.
+Alternativas:
+(alternativa A)
+Acompanhar e realizar novo exame citológico em 12 meses.
+(alternativa B)
+Indicar cirurgia para retirada do colo uterino.
+(alternativa C) (CORRETA)
+Encaminhar para colposcopia com biopsia.
+(alternativa D)
+Iniciar quimioterapia do colo uterino.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 25 de 63
+
+Resposta comentada:
+Resposta correta.
+A paciente deve ser encaminhada para colposcopia com biopsia.
+A paciente apresenta lesão de alto grau revelada no exame de citologia oncótica que requer
+biopsia para descartar o desenvolvimento de lesão maligna.
+Acompanhar e realizar novo exame citológico em 12 meses. Incorreta pois a lesão requer biopsia
+devido ao risco de malignidade.
+Indicar cirurgia para retirada do colo uterino. Incorreta pois primeiro há necessidade de
+confirmação diagnóstica.
+Iniciar quimioterapia do colo uterino. Incorreta pois primeiro há necessidade de confirmação
+diagnóstica.
+
+Bibliografia
+MINISTERIO DA SAUDE, Instituto Nacional de Câncer José de Alencar Gomes da Silva – INCA
+– Diretrizes Brasileiras para o Rastreamento do Cancer do Colo do Utero, 2 Ed. Rio de
+janeiro:2016
+
+23ª QUESTÃO
+Enunciado:
+Uma paciente de 36 anos procura atendimento médico com queixas de ganho de peso
+progressivo, constipação intestinal, pele seca, fadiga constante e intolerância ao frio. No exame
+físico, observa-se bradicardia, pele fria e pálida, edema periorbital e diminuição dos reflexos
+tendinosos profundos. Marque a alternativa que apresenta o diagnóstico mais provável para a
+paciente.
+Alternativas:
+(alternativa A)
+Diabetes Mellitus Tipo 1.
+(alternativa B)
+Síndrome de Cushing.
+(alternativa C)
+Hipertireoidismo.
+(alternativa D) (CORRETA)
+Hipotireoidismo.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 26 de 63
+
+Resposta comentada:
+Alternativa correta: Hipotireoidismo
+O quadro clínico apresentado pela paciente é consistente com hipotireoidismo. Os sintomas de
+ganho de peso progressivo, constipação intestinal, pele seca, fadiga constante e intolerância ao
+frio são característicos dessa condição devido à diminuição na produção dos hormônios
+tireoidianos, que resulta em uma diminuição do metabolismo basal. Além disso, a presença de
+bradicardia, pele fria e pálida, edema periorbital e diminuição dos reflexos tendinosos profundos
+são achados comuns em pacientes com hipotireoidismo devido aos efeitos do hipotiroidismo nos
+sistemas cardiovascular, dermatológico e neuromuscular.
+Alternativas incorretas: Diabetes Mellitus Tipo 1: Embora o diabetes mellitus tipo 1 possa
+apresentar sintomas como fadiga e intolerância ao frio, não explicaria os sintomas de ganho de
+peso progressivo, constipação intestinal e edema periorbital apresentados pela paciente.
+Hipertireoidismo: O hipertireoidismo é caracterizado por sintomas opostos, como perda de peso,
+intolerância ao calor e taquicardia, que estão ausentes no caso da paciente. Síndrome de
+Cushing: A síndrome de Cushing é caracterizada por sintomas como ganho de peso central,
+hipertensão arterial, estrias violáceas e fraqueza muscular proximal, que não estão presentes no
+caso da paciente.
+Referências Bibliográficas:
+1. Kronenberg, H.M., Melmed, S., Polonsky, K.S., & Larsen, P.R. (Eds.). (2015). Williams
+Textbook of Endocrinology (13th ed.). Elsevier.
+2. https://www. endocrino. org. br/media/uploads/abem2013/abem_57-3. pdf
+
+24ª QUESTÃO
+Enunciado:
+Lucas, 7 anos, foi levado à Unidade Básica de Saúde (UBS) para consulta de rotina. Ele está
+assintomático. Durante a consulta, a mãe de Lucas mostrou o resultado de um exame
+parasitológico de fezes recente da criança, que apresentou cistos de Entamoeba coli.
+Com base nos dados apresentados, assinale a alternativa que expressa a conduta correta no
+caso de Lucas:
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 27 de 63
+
+Alternativas:
+(alternativa A)
+x
+(alternativa B)
+Iniciar tratamento com nitazoxanida para a criança e contactantes domiciliares, tendo em vista a
+alta transmissibilidade da parasitose.
+(alternativa C) (CORRETA)
+Reforçar orientações sobre higiene e saneamento básico, sem necessidade de tratamento
+específico.
+(alternativa D)
+Solicitar biópsia de cólon descendente devido ao risco aumentado de colite amebiana fulminante
+por esta espécie de Entamoeba.
+(alternativa E)
+Iniciar tratamento com metronidazol para erradicação do parasita, mesmo que a criança esteja
+assintomática.
+
+Resposta comentada:
+A Entamoeba coli é um protozoário não patogênico, e seu tratamento não é necessário, mesmo
+que a criança esteja assintomática. O metronidazol é indicado para protozoários patogênicos,
+como Entamoeba histolytica.
+A Entamoeba coli é considerada uma comensal do intestino humano, sem associação com
+doenças. O manejo adequado inclui educação sobre higiene e saneamento básico para prevenir
+infecção por outros parasitas mais preocupantes.
+A solicitação de exames complementares pode ser realizada em casos de sintomas sugestivos
+de parasitose ou quando há fatores de risco associados. No caso de Lucas, não há indicação de
+tratamento ou investigação adicional, pois ele está assintomático.
+Não há necessidade de realizar nova coleta para confirmar a presença de Entamoeba coli, pois o
+achado já foi detectado e não requer tratamento ou acompanhamento adicional.
+
+25ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 28 de 63
+
+Enunciado:
+Em uma campanha de saúde comunitária promovida pela Secretaria de Saúde, cartazes
+informativos foram distribuídos em unidades básicas de saúde, alertando sobre as diferenças
+entre resfriado comum e gripe, especialmente durante períodos de maior circulação de vírus
+respiratórios. Observe as seguintes afirmações.
+I. O resfriado comum é causado pelo vírus influenza, enquanto a gripe é causada por adenovírus,
+que também costuma causar sintomas intensos de febre e mialgia.
+II. A gripe é caracterizada por febre alta, mialgia intensa e prostração, enquanto o resfriado
+comum apresenta sintomas predominantemente nasais e, geralmente, não causa febre ou causa
+febre baixa.
+III. O diagnóstico clínico diferencial entre resfriado comum e gripe requer exames laboratoriais em
+todos os casos, devido à sobreposição de sintomas.
+IV. Tanto o resfriado comum quanto a gripe apresentam febre alta como sintoma comum, porém
+apenas a gripe apresenta-se com sintomas sistêmicos, sendo essa a principal característica para
+diferenciá-los.
+Está correto o que se afirma apenas em:
+Alternativas:
+(alternativa A)
+III e IV
+(alternativa B)
+I, II e III
+(alternativa C)
+x
+(alternativa D)
+I e II
+(alternativa E) (CORRETA)
+II
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 29 de 63
+
+Resposta comentada:
+O resfriado comum é frequentemente causado por rinovírus, enquanto a gripe é causada pelo
+vírus influenza. Adenovírus não é o principal agente etiológico da gripe.
+A gripe apresenta sintomas sistêmicos intensos, como febre alta e mialgia, enquanto o resfriado
+comum se manifesta com sintomas predominantemente nasais, como congestão e espirros, com
+febre ausente ou leve.
+Apesar de haver sobreposição de sintomas, a diferenciação clínica geralmente é possível com
+base na gravidade e no tipo de sintomas, sem necessidade de exames laboratoriais em todos os
+casos.
+A febre alta é característica da gripe, mas não é comum no resfriado comum, que apresenta
+curso mais brando.
+26ª QUESTÃO
+Enunciado:
+Uma paciente de 25 anos comparece à Unidade Básica de Saúde (UBS) para acompanhamento
+pré-natal. Durante a consulta, ela relata histórico de hipertensão arterial crônica e apresenta
+pressão arterial de 150/100 mmHg. Nesse sentido, marque a alternativa que caracteriza
+adequadamente a conduta inicial na Atenção Primária à Saúde para essa gestação.
+Alternativas:
+(alternativa A)
+Iniciar acompanhamento pré-natal de rotina e agendar consulta para 8 semanas após essa
+consulta.
+(alternativa B)
+Considerar gestação de alto risco e encaminhar imediatamente à maternidade para parto.
+(alternativa C) (CORRETA)
+Identificar a gestação como de alto risco, iniciar monitoramento rigoroso, adequar medicação antihipertensiva e referenciar para o serviço de pré-natal de alto risco.
+(alternativa D)
+Prescrever repouso absoluto, ajustar medicação anti-hipertensiva e reavaliar na próxima consulta.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 30 de 63
+
+Resposta comentada:
+A resposta correta é identificar a gestação como de alto risco, iniciar monitoramento rigoroso,
+adequar medicação anti-hipertensiva e referenciar para o pré-natal de alto risco.
+Na Atenção Primária, o diagnóstico de hipertensão em uma gestante indica risco elevado. É
+essencial o manejo inicial com controle da pressão arterial, ajustes terapêuticos e a referência
+para um pré-natal especializado, sem atrasar o acompanhamento.
+A questão está baseada em diretrizes e manuais da atenção à saúde da mulher que abrangem o
+manejo da gestação de alto risco na Atenção Primária à Saúde. A bibliografia inclui:
+1. Ministério da Saúde (Brasil) - Cadernos de Atenção Básica: Atenção ao Pré-natal de Baixo e
+Alto Risco.
+2. Sociedade Brasileira de Hipertensão (site da SBH) - Diretrizes Brasileiras de Hipertensão
+Arterial.
+3. Rezende, J., & Montenegro, C. A. Obstetrícia Fundamental, 14° edição, Guanabara Koogan,
+2019
+27ª QUESTÃO
+Enunciado:
+Ana, 16 anos, procura a Unidade Básica de Saúde acompanhada da mãe, referindo nunca ter
+menstruado. A mãe relata preocupação, pois todas as amigas de Ana já tiveram a menarca.
+Durante a anamnese, Ana menciona sentir-se constrangida com o aumento de pelos faciais
+(hirsutismo), principalmente no buço e queixo, que vem notando há cerca de um ano. Também
+relata acne persistente e oleosidade excessiva na pele, principalmente na face e tronco. Nega
+outras queixas como alterações visuais, cefaleia intensa ou dor abdominal. Não há histórico
+familiar de menarca tardia ou outras endocrinopatias relevantes.
+Exame Físico: Ao exame, Ana apresenta estatura e desenvolvimento mamário Tanner IV,
+compatíveis com a idade. Observa-se pelos terminais finos e escuros no buço e queixo
+(hirsutismo leve). A pele da face e parte superior do tronco apresenta múltiplos comedões abertos
+e fechados, além de algumas pápulas inflamatórias (acne moderada). O exame ginecológico
+externo revela genitais femininos com clitóris de tamanho normal e introito vaginal pérvio, sem
+sinais de himen imperfurado. Não há sinais de virilização como clitoromegalia significativa ou voz
+mais grave. O índice de massa corporal (IMC) está dentro da faixa normal para a idade.
+Exames Complementares:
+Testosterona total: 75 ng/dL (Valor de referência para adolescentes do sexo feminino: 8 - 48
+ng/dL)
+Sulfato de deidroepiandrosterona (SDHEA): 450 µg/dL (Valor de referência para adolescentes do
+sexo feminino: 75 - 430 µg/dL)
+FSH: 6 mUI/mL
+LH: 8 mUI/mL
+Prolactina: 15 ng/mL
+Ultrassonografia pélvica: Útero e ovários presentes, com aspecto normal para a idade.
+Considerando a história clínica e o exame físico de Ana, assinale a alternativa que apresenta os
+sinais clínicos que são mais fortemente indicativos de hiperandrogenismo como causa da
+amenorreia primária.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 31 de 63
+
+Alternativas:
+(alternativa A)
+Desenvolvimento mamário Tanner IV e ausência de menarca aos 16 anos.
+(alternativa B)
+Acne persistente, oleosidade excessiva da pele e índice de massa corporal normal.
+(alternativa C) (CORRETA)
+Hirsutismo leve, acne persistente e oleosidade excessiva da pele.
+(alternativa D)
+Níveis normais de FSH e LH associados à amenorreia primária.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 32 de 63
+
+Resposta comentada:
+Resposta Correta: Hirsutismo leve, acne persistente e oleosidade excessiva da pele.
+Justificativa:
+A presença de hirsutismo (aumento de pelos terminais em padrão masculino), acne persistente e
+oleosidade excessiva da pele são sinais clínicos clássicos de hiperandrogenismo, ou seja, níveis
+elevados de hormônios andrógenos (hormônios masculinos) em mulheres. Nesses casos, o
+excesso de andrógenos pode interferir no ciclo menstrual normal, levando à amenorreia primária.
+Importante citar que, em alguns casos, a monarca pode estar ausente até os 15 ou 116 anos,
+especialmente se o quadro de anovulação e hiperandrogenismo já se instalar precocemente e ser
+considerado uma causa de amenorreia primaria.
+Demais alternativa incorretas:
+Desenvolvimento mamário Tanner IV e ausência de menarca aos 16 anos - Embora a amenorreia
+primária aos 16 anos seja um achado que requer investigação, o desenvolvimento mamário
+normal (Tanner IV) sugere que houve produção de estrogênio, indicando que o eixo hipotálamohipófise-ovário está funcional em algum nível.
+Acne persistente, oleosidade excessiva da pele e índice de massa corporal normal - Acne e
+oleosidade podem estar presentes em diversas condições, incluindo a puberdade normal. Embora
+possam ser exacerbados pelo hiperandrogenismo, isoladamente não são os sinais mais
+específicos. Um IMC normal também não exclui hiperandrogenismo.
+Níveis normais de FSH e LH associados à amenorreia primária - Níveis normais de FSH e LH
+podem ser encontrados em algumas causas de amenorreia primária, como anovulação crônica
+associada ao hiperandrogenismo (por exemplo, na síndrome dos ovários policísticos, embora não
+haja dados suficientes no caso para confirmar essa síndrome). No entanto, esses níveis
+hormonais por si só não são sinais clínicos de hiperandrogenismo. Os sinais clínicos diretos do
+excesso de andrógenos são as manifestações cutâneas como hirsutismo e acne.
+Portanto, a combinação de hirsutismo, acne e oleosidade excessiva da pele em uma adolescente
+com amenorreia primária levanta fortemente a suspeita de hiperandrogenismo como um dos
+fatores etiológicos a serem investigados. Os exames complementares de Ana confirmam níveis
+elevados de testosterona e SDHEA, corroborando essa hipótese.
+Referências Bibliográficas:
+AZZIZ, R. Androgen excess disorders in women. Best Practice & Research Clinical Obstetrics &
+Gynaecology, v. 20, n. 6, p. 847-863, 2006.
+SPEISER, P. W. Premature adrenarche and polycystic ovary syndrome. Annals of the New York
+Academy of Sciences, v. 997, n. 1, p. 47-60, 2003.
+AMERICAN ACADEMY OF PEDIATRICS. Committee on Adolescent Health Care. Menstruation
+in girls and adolescents: using the menstrual cycle as a vital sign. Pediatrics, v. 118, n. 5, p. 22452250, 2006.
+
+28ª QUESTÃO
+Enunciado:
+Agente comunitário de 58 anos, tabagista desde a juventude, comparece à Unidade de Saúde da
+Família com queixa de tosse produtiva matinal persistente e cansaço aos esforços. Relata piora
+dos sintomas no inverno e episódios de infecção respiratória de repetição no último ano. Ao
+exame físico, apresenta tórax em barril, uso discreto da musculatura acessória e sibilos
+dispersos à ausculta pulmonar. Com base na história clínica e nos achados do exame físico,
+marque a alternativa correta que traz o diagnóstico mais provável.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 33 de 63
+
+Alternativas:
+(alternativa A)
+Bronquiectasias.
+(alternativa B)
+Pneumotórax espontâneo.
+(alternativa C)
+Asma brônquica.
+(alternativa D) (CORRETA)
+Doença pulmonar obstrutiva crônica (DPOC).
+
+Resposta comentada:
+Doença pulmonar obstrutiva crônica (DPOC)
+O quadro descrito é clássico de DPOC: tabagismo crônico, tosse produtiva matinal, dispneia aos
+esforços, exacerbações no inverno e sibilância. O exame físico com tórax em barril e uso de
+musculatura acessória reforça o diagnóstico. É a melhor opção.
+Asma brônquica
+Embora a asma também possa cursar com sibilância, é mais comum em pacientes mais jovens,
+com história pessoal ou familiar de atopia e sintomas variáveis. O histórico de tabagismo intenso
+e a tosse produtiva crônica não são típicos de asma.
+Bronquiectasias
+Apesar das infecções respiratórias recorrentes e da tosse produtiva poderem ocorrer em
+bronquiectasias, o caso não menciona expectoração purulenta abundante, hemoptoicos ou
+ausculta com estertores grossos. Além disso, o histórico e o exame físico favorecem mais
+DPOC.
+Pneumotórax espontâneo
+O pneumotórax espontâneo costuma se manifestar com dor torácica súbita e intensa, de início
+abrupto, associada a dispneia e ausência de murmúrio vesicular em um hemitórax. O paciente do
+caso tem sintomas crônicos e sinais de hiperinsuflação, o que não corresponde a um quadro
+agudo como o pneumotórax.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+29ª QUESTÃO
+Enunciado:
+Um homem de 34 anos é admitido na sala de emergência após ser encontrado inconsciente em
+uma trilha rural. Segundo os bombeiros, apresentava vômitos, sialorreia intensa e dispneia antes
+da parada cardiorrespiratória presenciada. Foi iniciada a sequência do ACLS, com retorno à
+circulação espontânea após 8 minutos. Ao exame físico pós PCR, nota-se ptose palpebral,
+paralisia flácida progressiva e ausência de edema ou necrose local visível no membro inferior
+direito. Considerando a provável etiologia ofídica, assinale a alternativa que indica o gênero da
+serpente responsável pelo quadro clínico descrito.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 34 de 63
+
+Alternativas:
+(alternativa A) (CORRETA)
+Crotalus.
+(alternativa B)
+Micrurus.
+(alternativa C)
+Bothrops.
+(alternativa D)
+Lachesis.
+
+Resposta comentada:
+Bothrops – Incorreta. Embora seja a serpente mais comum em acidentes ofídicos no Brasil, seu
+veneno é proteolítico e coagulante, levando a necrose tecidual, edema local importante e
+sangramentos. A parada cardíaca não é manifestação habitual direta, exceto em choque
+hipovolêmico ou anafilaxia, o que não é compatível com a descrição neurológica progressiva sem
+lesão local visível.
+Crotalus – Correta. O envenenamento crotálico, provocado principalmente pela Crotalus durissus,
+tem como principal característica o comprometimento neuromuscular progressivo, com paralisia
+flácida, ptose, insuficiência respiratória e rabdomiólise grave, que pode precipitar insuficiência
+renal e PCR. O veneno possui ação neurotóxica (crotoxina) e miotóxica significativa.
+Micrurus – Incorreta. Embora também provoque neurotoxicidade, o envenenamento por Micrurus
+(coral verdadeira) tem evolução mais lenta, geralmente com início após várias horas. A ausência
+de dor ou lesão local é compatível, mas a PCR imediata por insuficiência respiratória não é típica
+sem ventilação mecânica prévia.
+Lachesis – Incorreta. O gênero Lachesis pode causar manifestações semelhantes às do
+Bothrops, com efeito vasodilatador, procoagulante e necrose, além de sintomas vagotônicos
+como hipotensão. Não está associada classicamente à neurotoxicidade com paralisia flácida
+progressiva e parada respiratória.
+Referência: HARRISON et al., 2022, p. 3534-3536; AHA, 2020, ACLS Provider Manual.
+30ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 35 de 63
+
+Enunciado:
+Maria, 3 anos, previamente hígida, é levada à consulta pela mãe com história de prurido intenso e
+lesões cutâneas recorrentes há cerca de 18 meses. Inicialmente, as lesões se manifestavam
+principalmente nas dobras dos cotovelos e joelhos, com períodos de melhora e exacerbação. A
+mãe relata que a pele de Maria sempre foi mais seca e sensível. Nos últimos 3 meses, as lesões
+se tornaram mais extensas, afetando também o pescoço, punhos e tornozelos. A mãe percebeu
+piora dos sintomas após o uso de um sabonete líquido novo com fragrância e após brincar no
+parquinho da escola, onde há contato com grama e areia. Maria costuma coçar as lesões,
+especialmente à noite, o que interfere no seu sono. A mãe nega histórico familiar de doenças de
+pele relevantes, mas relata que o pai de Maria tem rinite alérgica sazonal.
+Exame Físico: Ao exame, Maria apresenta pele seca e áspera generalizada (xerose). Nas dobras
+dos cotovelos e joelhos, observam-se placas eritematosas, liquenificadas e com escoriações. No
+pescoço, punhos e tornozelos, há pápulas eritematosas confluentes, algumas com crostas finas.
+Não há sinais de infecção secundária evidentes. A face apresenta palidez perioral e dobras de
+Dennie-Morgan bilaterais.
+Histórico Adicional: A mãe relata que Maria não apresenta outras queixas sistêmicas, como febre,
+perda de apetite ou irritabilidade excessiva fora dos períodos de prurido intenso. A dieta de Maria é
+variada e sem restrições autoimpostas.
+Exames Complementares Solicitados:
+Teste de contato (Patch Test) com bateria padrão pediátrica: Resultados positivos para níquel (+),
+formaldeído (+) e fragrância mix (++).
+IgE sérica total: 850 UI/mL (Valor de referência para a idade: < 100 UI/mL).
+Eosinófilos no sangue periférico: 12% (Valor de referência: 1-4%).
+Considerando o histórico clínico, o exame físico e os resultados dos exames complementares de
+Maria, assinale a alternativa que apresenta a interpretação mais precisa do quadro dermatológico
+apresentado e a conduta terapêutica inicial mais adequada.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 36 de 63
+
+Alternativas:
+(alternativa A)
+Maria apresenta uma sobreposição de dermatite seborreica infantil com dermatite de contato
+alérgica. O tratamento deve incluir antifúngicos tópicos, corticoterapia tópica de média potência
+nas áreas de contato e anti-histamínicos para prurido. A dosagem elevada de IgE e eosinofilia
+reforçam a predisposição atópica.
+(alternativa B)
+A dermatite de contato irritativa é a principal etiologia, exacerbada pela pele seca preexistente. O
+tratamento deve consistir em evitar irritantes conhecidos, uso liberal de emolientes e
+corticoterapia tópica de baixa potência apenas nas áreas de maior inflamação. A IgE elevada e
+eosinofilia são achados inespecíficos na infância.
+(alternativa C) (CORRETA)
+Maria apresenta dermatite atópica exacerbada por fatores irritantes e possíveis alergênicos de
+contato. O tratamento inicial deve ser corticoterapia tópica de baixa a média potência, emolientes
+para hidratação da pele, anti-histamínicos não sedativos e evitar os alérgenos identificados no
+teste de contato. A dosagem elevada de IgE e eosinofilia reforçam a predisposição atópica.
+(alternativa D)
+Maria apresenta predominantemente dermatite de contato alérgica, desencadeada por múltiplos
+alérgenos ambientais. O tratamento inicial deve focar em corticoterapia tópica de alta potência nas
+áreas afetadas e anti-histamínicos sedativos para controle do prurido noturno. A dosagem elevada
+de IgE não tem relação com a predisposição atópica.
+
+Resposta comentada:
+Resposta Correta: Maria apresenta dermatite atópica exacerbada por fatores irritantes e possíveis
+alergênicos de contato. O tratamento inicial deve incluir corticoterapia tópica de baixa a média
+potência, emolientes para hidratação da pele, anti-histamínicos não sedativos e evitar os
+alérgenos identificados no teste de contato. A dosagem elevada de IgE e eosinofilia reforçam a
+predisposição atópica.
+Justificativa:
+O caso de Maria apresenta características clínicas e laboratoriais que apontam para uma
+dermatite atópica (DA) com dermatite de contato alérgica (DCA) sobreposta.
+Aspectos Clínicos: O início precoce das lesões, o padrão de distribuição típico da DA em
+lactentes e crianças (face, couro cabeludo, áreas extensoras inicialmente, evoluindo para
+flexurais), a história de pele seca (xerose), o prurido intenso com piora noturna, e a presença de
+dobras de Dennie-Morgan (sinal de atopia) são altamente sugestivos de DA. A piora das lesões
+após contato com sabonete novo e brincadeiras no parquinho levanta a suspeita de fatores
+irritantes e alergênicos de contato como exacerbação.
+Aspectos Laboratoriais: A IgE sérica total elevada e a eosinofilia são marcadores laboratoriais
+frequentemente encontrados em pacientes com DA, refletindo a resposta Th2 característica da
+atopia. O teste de contato positivo para níquel, formaldeído e fragrância mix confirma a presença
+de DCA alérgica a múltiplos alérgenos, contribuindo para a piora e manutenção das lesões em
+áreas de contato com esses sensibilizantes.
+Tratamento: A abordagem terapêutica inicial deve ser multifacetada, visando controlar a
+inflamação da DA e evitar os alérgenos de contato identificados. A corticoterapia tópica de baixa a
+média potência é indicada para controlar as exacerbações inflamatórias. O uso regular e liberal de
+emolientes é fundamental para restaurar a barreira cutânea comprometida na DA. Anti000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 37 de 63
+
+histamínicos não sedativos são preferíveis para o controle do prurido diurno, minimizando o
+impacto no aprendizado e comportamento. A evicção dos alérgenos identificados no teste de
+contato (níquel, formaldeído e fragrância mix) é crucial para prevenir novas crises de DCA.
+Alternativas menos precisas:
+Superestima a dermatite de contato como causa primária, negligenciando as características
+clínicas típicas da DA e a relevância da IgE e eosinofilia elevadas. Corticoides de alta potência em
+crianças devem ser usados com cautela devido ao risco de efeitos colaterais.
+Foca na dermatite de contato irritativa, que geralmente se manifesta com queimação e ardência
+mais do que prurido intenso, e não explica os achados laboratoriais de atopia nem a distribuição
+clássica das lesões da DA.
+Sugere uma sobreposição incomum para a idade de Maria e não se alinha com a história clínica e
+os achados do exame físico. A dermatite seborreica infantil geralmente afeta couro cabeludo, face
+e região das fraldas, com escamas oleosas, e não apresenta a mesma distribuição e prurido
+intenso da DA.
+Referências Bibliográficas:
+Sociedade Brasileira de pediatria. Kerstin Taniguchi Abagge – Pediatra e Dermatologista,
+Presidente do Departamento de Dermatologia da Sociedade Brasileira de Pediatria. DERMATITE
+ATÓPICA - O QUE O PEDIATRA DEVE SABER.
+Dermatite atópica grave: guia prático de tratamento da Associação Brasileira de Alergia e
+Imunologia e Sociedade Brasileira de Pediatria
+Eyerich, Kilian e Ring, Johanes, Atopic Dermatitis - Eczema: Clinics, Pathophysiology and
+Therapy Capa dura 29 julho 2023.
+31ª QUESTÃO
+Enunciado:
+João, 55 anos, é atendido em uma Unidade Básica de Saúde (UBS) para acompanhamento
+médico. Ele tem histórico de hipertensão arterial sistêmica (HAS) e seus níveis de pressão
+arterial na consulta são 145/95 mmHg, porém nunca usou medicação para este fim. Além disso,
+após a avaliação de risco cardiovascular, seu risco é estimado em 22%.
+Com base nesses dados, assinale a alternativa que apresenta a conduta inicial mais adequada
+para o tratamento da hipertensão de João.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 38 de 63
+
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar tratamento com uma combinação de dois fármacos anti-hipertensivos, já que a pressão
+arterial está no estágio I e o risco cardiovascular é alto
+(alternativa B)
+Iniciar tratamento com um diurético tiazídico isolado, já que a pressão arterial está no estágio I e o
+risco cardiovascular é moderado.
+(alternativa C)
+Iniciar tratamento com um beta-bloqueador, já que a pressão arterial está no estágio II e o risco
+cardiovascular é baixo
+(alternativa D)
+Iniciar mudanças no estilo de vida (como dieta e atividade física) e reavaliar a pressão arterial em
+3 meses, já que está em estágio II e risco cardiovascular moderado.
+
+Resposta comentada:
+Incorreta: O tratamento com um diurético tiazídico isolado pode ser considerado em algumas
+situações, mas a presença de risco cardiovascular moderado (20%) e o estágio I da hipertensão
+indicam que uma combinação de fármacos é mais eficaz, especialmente para reduzir o risco a
+longo prazo.
+Correta: De acordo com as diretrizes da Sociedade Brasileira de Cardiologia e outras orientações
+internacionais, em pacientes com hipertensão estágio I e risco cardiovascular elevado (22%), a
+recomendação é o uso de dois anti-hipertensivos de classes diferentes.
+Incorreta: Os beta-bloqueadores não são a primeira escolha para tratamento de hipertensão em
+pacientes com risco cardiovascular moderado, pois há outras classes mais eficazes e com
+menos efeitos adversos para esse grupo.
+Incorreta: Embora mudanças no estilo de vida sejam essenciais no manejo da hipertensão, para
+pacientes com risco cardiovascular moderado, a medicação inicial é indicada para controle da
+pressão arterial e redução do risco de eventos cardiovasculares. O acompanhamento sem
+medicação, neste caso, não é recomendado.
+Barroso, W. K. S., Rodrigues, C. I. S., Bortolotto, L. A., Mota-Gomes, M. A., Brandão, A. A.,
+Feitosa, A. D. D. M., ... & Nadruz, W. (2021). Diretrizes brasileiras de hipertensão arterial–
+2020. Arquivos brasileiros de cardiologia, 116, 516-658.
+32ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 39 de 63
+
+Enunciado:
+Marcos, 59 anos, hipertenso há 20 anos, faz uso irregular de hidroclorotiazida. Conta que não
+costumava usar a medicação corretamente, pois não apresentava nenhum sintoma relacionado à
+hipertensão. Há 3 meses, entretanto, começou a apresentar dispneia ao subir escadas, tomar
+banho, trocar de roupa e até mesmo em repouso, além de edema importante nos membros
+inferiores e tosse seca noturna. Ao exame físico, apresenta PA: 170 x 105 mmHg, ausculta
+respiratória com estertores finos em bases, ausculta cardíaca com presença de B3 e turgência
+jugular patológica. Com relação ao caso clínico, analise as assertivas:
+I. Marcos deve ser encaminhado ao especialista focal (cardiologista) caso venha a desenvolver
+insuficiência cardíaca com fração de ejeção reduzida.
+II. O principal foco do tratamento de Marcos no momento é a compensação da insuficiência
+cardíaca, sobretudo pelo uso de diuréticos de alça (ex: furosemida).
+III. São drogas que compõem a base do tratamento da ICC com fração de ejeção reduzida e
+diminuem mortalidade: betabloqueador, digitálico, diurético e IECA. Estas devem, portanto, ser
+prescritas para Marcos neste momento.
+IV. No momento, Marcos pode ser enquadrado na classe IV da classificação de capacidade
+funcional de NYHA.
+V. Os profissionais da equipe multiprofissional da unidade devem orientar Marcos a fazer uso das
+medicações prescritas para HAS apenas enquanto haja sintomas de ICC descompensada.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A)
+III, IV e V.
+(alternativa B)
+II.
+(alternativa C) (CORRETA)
+II e IV.
+(alternativa D)
+I e II.
+
+Resposta comentada:
+O paciente com ICC deve ser encaminhado ao especialista focal (cardiologista) caso se enquadre
+no Grau D (doença refratária sintomática). O foco do tratamento primordial na ICC
+descompensada é a compensação pelo uso de diuréticos de alça. As drogas que são base do
+tratamento de ICCFER e que diminuem mortalidade são: IECA/BRA, betabloqueadores e
+espironolactona. Tendo em vista que o paciente apresenta dispneia aos pequenos esforços, podese classificá-lo na classe IV e NYHA.
+GUSSO, Gustavo; LOPES, José M.C.; DIAS, Lêda C. (Orgs.). Tratado de Medicina de Família e
+Comunidade: Princípios, Formação e Prática. Porto Alegre: ARTMED, 2018, p. 2388. Cap.164.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 40 de 63
+
+33ª QUESTÃO
+Enunciado:
+Uma equipe de residentes está discutindo os diferentes tipos de tontura em uma aula teórica
+sobre distúrbios neurológicos e vestibulares. Durante a discussão, o professor apresenta as
+quatro classificações clínicas de tontura: vertigem, desequilíbrio, síndrome de hiperventilação e
+pré-síncope. Ele solicita que os alunos analisem as descrições abaixo e identifiquem quais estão
+corretas sobre as características de cada tipo de tontura.
+I. A vertigem é caracterizada pela sensação de instabilidade sem percepção de rotação,
+frequentemente associada a disfunções do sistema vestibular central, como lesões cerebrais.
+II. O desequilíbrio envolve uma sensação de movimento rotacional do ambiente, comumente
+associado a distúrbios do sistema vestibular periférico, como a doença de Menière.
+III. A síndrome de hiperventilação apresenta tontura associada a respiração superficial e rápida,
+geralmente desencadeada por fatores emocionais, como ansiedade ou estresse, mas com
+envolvimento significativo do sistema vestibular, como na neurite vestibular.
+IV. A pré-síncope é caracterizada pela sensação de rotação ou movimento do ambiente, muitas
+vezes associada a fatores como alterações na pressão arterial ou distúrbios cardiovasculares,
+como a hipotensão ortostática.
+Está correto o que se afirma apenas em:
+Alternativas:
+(alternativa A)
+II
+(alternativa B)
+I e II
+(alternativa C)
+x
+(alternativa D)
+III e IV
+(alternativa E) (CORRETA)
+IV
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 41 de 63
+
+Resposta comentada:
+A vertigem envolve a percepção de movimento rotacional ou da sensação de que o ambiente está
+girando. Além disso, ela está mais associada a distúrbios do sistema vestibular periférico, como
+labirintite, do que a lesões cerebrais.
+O desequilíbrio não é caracterizado pela sensação de movimento rotacional, mas sim pela
+dificuldade de manter o equilíbrio, muitas vezes relacionada a disfunções no sistema
+proprioceptivo ou vestibular, sem percepção de rotação.
+A síndrome de hiperventilação é caracterizada pela tontura devido à respiração rápida e
+superficial, que pode ser desencadeada por ansiedade ou estresse, mas não envolve o sistema
+vestibular, como sugere a alternativa.
+A pré-síncope é associada à sensação de fraqueza ou de desmaio iminente, e ocorre devido a
+uma diminuição do fluxo sanguíneo cerebral, muitas vezes relacionada à hipotensão ortostática e
+outros distúrbios cardiovasculares. Ela pode ser confundida com tontura, mas não envolve
+percepção de rotação.
+34ª QUESTÃO
+Enunciado:
+Maria, 62 anos, sem comorbidades conhecidas, sem queixas, e sem histórico familiar de câncer,
+procura Unidade de Saúde da Família durante campanha do Outubro Rosa, para o médico da
+APS solicite seus “exames de rotina”. Marque a alternativa que apresenta o exame de escolha
+para rastreio com evidências de benefício e o seu principal objetivo.
+Alternativas:
+(alternativa A)
+Endoscopia digestiva alta; rastreio de câncer de estômago.
+(alternativa B)
+Ultrassonografia de abdome; rastreio de hepatopatias.
+(alternativa C) (CORRETA)
+Pesquisa de sangue oculto nas fezes; rastreio de câncer colorretal.
+(alternativa D)
+Ultrassonografia de mamas; rastreio de câncer de mama.
+
+Resposta comentada:
+Das alternativas disponíveis, a única que apresenta um exame de escolha para rastreio é a
+pesquisa de sangue oculto nas fezes para rastreio de câncer colorretal. O exame deve ser
+oferecido a todos os pacientes de risco habitual, anualmente, que apresentam entre 50 e 75 anos.
+DUNCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022. (Cap. 33)
+35ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 42 de 63
+
+Enunciado:
+Sexo feminino, 76 anos, hipertensa e diabética, apresenta dispneia aos mínimos esforços,
+ortopneia e edema em membros inferiores. Ao exame: turgência jugular, estertores bibasais e B3
+audível. Ecocardiograma mostra fração de ejeção de 35%. Marque a alternativa que apresenta o
+melhor esquema terapêutico inicial para reduzir mortalidade e sintomas.
+Alternativas:
+(alternativa A) (CORRETA)
+Espironolactona, carvedilol e IECA.
+(alternativa B)
+Furosemida, digoxina e diltiazem.
+(alternativa C)
+Diurético tiazídico, AAS e betabloqueador.
+(alternativa D)
+Nitrato, IECA e antagonista do cálcio.
+
+Resposta comentada:
+Resposta correta: Espironolactona, carvedilol e IECA
+Justificativa da correta:
+O tratamento da insuficiência cardíaca com fração de ejeção reduzida (ICFEr) inclui IECA (ou
+BRA), betabloqueadores (carvedilol, bisoprolol ou succinato de metoprolol) e antagonistas da
+aldosterona (como a espironolactona), por reduzirem mortalidade e hospitalizações. Diuréticos de
+alça, como a furosemida, são úteis para alívio dos sintomas congestivos, mas não alteram a
+sobrevida.
+Análise das incorretas:
+Furosemida, digoxina e diltiazem:
+Furosemida alivia sintomas, mas digoxina tem uso restrito; diltiazem é contraindicado
+na ICFEr.
+Nitrato, IECA e antagonista do cálcio:
+Nitrato pode aliviar sintomas; antagonistas do cálcio (exceto anlodipino) são evitados na
+ICFEr.
+Diurético tiazídico, AAS e betabloqueador:
+Tiazídicos têm pouco papel na IC. AAS não é rotina se não houver doença
+aterosclerótica.
+Referências bibliográficas:
+1. Sociedade Brasileira de Cardiologia. Diretriz Brasileira de Insuficiência Cardíaca
+Crônica – 2021.
+2. McDonagh TA, et al. ESC Guidelines for the diagnosis and treatment of acute and
+chronic heart failure. Eur Heart J. 2021.
+3. Yancy CW, et al. 2017 ACC/AHA/HFSA Focused Update of the 2013 Guidelines for the
+Management of Heart Failure.
+4. Braunwald E. Tratado de Doenças Cardiovasculares. 11ª ed. Elsevier, 2019.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 43 de 63
+
+36ª QUESTÃO
+Enunciado:
+Em relação ao tratamento da pessoa com diabetes mellitus tipo 2 na Atenção Primária à Saúde
+(APS), avalie as afirmações a seguir:
+I. A base do tratamento do diabetes tipo 2 na APS é a mudança do estilo de vida, com foco em
+alimentação saudável, atividade física regular, cessação do tabagismo e educação em saúde.
+II. A metformina é considerada o fármaco de primeira escolha no tratamento do DM2, salvo
+contraindicações, e deve ser iniciada mesmo sem tentativa prévia de mudanças
+comportamentais.
+III. O tratamento deve ser individualizado, considerando idade, comorbidades, risco
+cardiovascular, preferências do paciente e risco de hipoglicemia, em linha com os princípios da
+Medicina Centrada na Pessoa.
+IV. Em casos de descompensação glicêmica grave, com sintomas clássicos e HbA1c > 9%, a
+insulinoterapia deve ser iniciada como primeira escolha, mesmo em cenário de APS.
+É correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I, III e IV.
+
+(alternativa B)
+I e III.
+
+(alternativa C)
+II, III e IV.
+
+(alternativa D)
+I, II e III.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 44 de 63
+
+Resposta comentada:
+Assertiva I – Correta. A mudança de estilo de vida é a base da abordagem terapêutica na APS. A
+combinação de alimentação balanceada, prática regular de exercícios físicos, perda de peso,
+redução de estresse e apoio à cessação do tabagismo pode melhorar significativamente o
+controle glicêmico e prevenir complicações (GUSSO; LOPES, 2019).
+Assertiva II – Incorreta. Embora a metformina seja o medicamento de primeira escolha, ela não
+deve ser iniciada automaticamente sem tentativa de abordagem não farmacológica,
+especialmente em casos leves ou recém-diagnosticados. A recomendação é iniciar com
+mudanças de estilo de vida e, se não houver melhora clínica ou laboratorial em 2 a 3 meses,
+iniciar a metformina — salvo em pacientes com HbA1c muito elevada ou sintomas importantes
+(GUSSO; LOPES, 2019).
+Assertiva III – Correta. O princípio da individualização terapêutica é central na prática clínica. A
+escolha do regime de tratamento deve levar em conta o risco cardiovascular, função renal, risco
+de hipoglicemia, perfil socioeconômico, grau de adesão, acesso aos medicamentos e
+preferências do paciente, conforme preconiza a abordagem centrada na pessoa (GUSSO;
+LOPES, 2019).
+Assertiva IV – Correta. Em pacientes com sintomas de hiperglicemia significativa (poliúria,
+polidipsia, perda de peso, HbA1c ≥ 9%) ou descompensação clínica evidente, a insulinoterapia
+pode e deve ser iniciada ainda na APS, conforme critérios clínicos, visando controle mais rápido e
+prevenção de complicações agudas (GUSSO; LOPES, 2019).
+Referência
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e Comunidade:
+princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019. Cap. 178 – Diabetes mellitus.
+
+37ª QUESTÃO
+Enunciado:
+Um lactente de 10 meses é trazido ao pronto-socorro com irritabilidade e sudorese excessiva. No
+exame clínico, apresenta frequência cardíaca de 280 bpm e perfusão periférica reduzida. O
+eletrocardiograma (ECG) revela uma taquicardia supraventricular (TSV) com complexos QRS
+estreitos e regulares. Assinale a alternativa que apresenta a conduta inicial mais apropriada para o
+manejo desta taquiarritmia.
+Alternativas:
+(alternativa A)
+Administração de amiodarona 5 mg/ kg em bolus intravenoso rápido.
+(alternativa B)
+Lidocaína 1 mg/ kg intravenosa para controle do ritmo.
+(alternativa C) (CORRETA)
+Manobra vagal apropriada seguida, se necessário, de adenosina 0,1 mg/ kg intravenosa em
+bolus.
+(alternativa D)
+Cardioversāo elétrica sincronizada com 0,5 a 1 J/kg.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 45 de 63
+
+Resposta comentada:
+A resposta correta é a manobra vagal apropriada seguida, se necessário, de adenosina 0,1 mg/
+kg intravenosa em bolus.
+Em lactentes e crianças com taquicardia supraventricular estável, a primeira abordagem inclui
+manobras vagais, com gelo na face. Caso não haja resposta, a adenosina é a droga de escolha
+inicial, administrada na dose de 0,1 mg/kg por via intravenosa em bolus rápido, seguida por flush
+de soro fisiológico. Cardioversāo elétrica é reservada para caso de instabilidade hemodinâmica ou
+falha do tratamento farmacológico.
+Bibliografia:
+1. American Heart Association (AHA). Diretrizes de Suporte Avançado de Vida em Pediatria
+(PALS), 2020
+2. Ministério da Saúde. Brasil. Protocolo de Arritmias em Pediatria
+38ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 46 de 63
+
+Enunciado:
+João, 28 anos, homem trans, procura a Unidade Básica de Saúde para check-up anual. Refere
+sentir-se bem, sem queixas específicas no momento. Nega tabagismo, etilismo ou uso de drogas
+ilícitas. Informa ter iniciado a terapia hormonal (testosterona) há 3 anos, com acompanhamento
+regular de endocrinologista. Relata ter tido múltiplos parceiros sexuais no passado, mas
+atualmente mantém um relacionamento monogâmico há 1 ano. Nega histórico de transfusão
+sanguínea ou procedimentos invasivos recentes.
+Exame Físico: Ao exame físico, João apresenta-se em bom estado geral, hidratado, corado,
+acianótico e afebril. Ausculta cardiopulmonar sem alterações. Abdome globoso, normotenso,
+indolor à palpação. Genitália masculina externa, compatível com o uso de testosterona. Não há
+linfadenomegalias palpáveis.
+Histórico Epidemiológico: Nascido e criado em João Pessoa, Paraíba. Nega viagens recentes
+para áreas endêmicas para outras doenças infecciosas.
+Resultados de Exames Laboratoriais Solicitados: Durante a consulta, foram coletados exames de
+rotina, incluindo sorologias para hepatites virais. Os resultados foram:
+Exame
+
+Resultado
+
+HBsAg
+
+Não reagente
+
+Anti-HBs
+
+Reagente
+
+Anti-HBc Total
+
+Reagente
+
+Anti-HBc IgM
+
+Não reagente
+
+Anti-HCV
+
+Não reagente
+
+Anti-HIV
+
+Não reagente
+
+VDRL
+
+Não reagente
+
+Considerando o histórico e os resultados das sorologias de João, assinale a alternativa que
+apresenta a interpretação mais provável para os marcadores de Hepatite B.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 47 de 63
+
+Alternativas:
+(alternativa A)
+Infecção aguda pelo vírus da Hepatite B.
+(alternativa B)
+Portador crônico do vírus da Hepatite B (Hepatite B crônica).
+(alternativa C)
+Vacinação prévia contra o vírus da Hepatite B com resposta imunológica adequada.
+(alternativa D) (CORRETA)
+Infecção passada pelo vírus da Hepatite B com desenvolvimento de imunidade.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 48 de 63
+
+Resposta comentada:
+A alternativa correta é: Infecção passada pelo vírus da Hepatite B com desenvolvimento de
+imunidade.
+Justificativa:
+A interpretação das sorologias de João indica que ele teve contato prévio com o vírus da Hepatite
+B e desenvolveu imunidade. Os seguintes resultados são cruciais para essa conclusão:
+HBsAg Não Reagente: Indica que não há presença do antígeno de superfície do vírus da Hepatite
+B no momento do exame, o que exclui uma infecção aguda ou crônica ativa.
+Anti-HBs Reagente: Demonstra a presença de anticorpos contra o antígeno de superfície do vírus
+da Hepatite B. Esses anticorpos são produzidos em resposta à infecção resolvida ou à vacinação
+e conferem proteção contra futuras infecções.
+Anti-HBc Total Reagente: Indica que houve contato prévio com o core (núcleo) do vírus da
+Hepatite B. Esse anticorpo surge durante a infecção aguda e persiste por toda a vida, mesmo
+após a resolução da infecção. Ele é positivo tanto em indivíduos que se recuperaram da infecção
+quanto em portadores crônicos.
+Anti-HBc IgM Não Reagente: A ausência do anticorpo IgM contra o core do vírus da Hepatite B
+indica que não há infecção aguda recente. O IgM é o primeiro anticorpo a ser produzido em
+resposta à infecção aguda e geralmente desaparece em alguns meses.
+A combinação de Anti-HBs reagente e Anti-HBc total reagente, com HBsAg e Anti-HBc IgM não
+reagentes, é o padrão sorológico de um indivíduo que teve uma infecção passada pelo vírus da
+Hepatite B e desenvolveu imunidade protetora.
+A alternativa - vacinação prévia - também pode resultar em Anti-HBs reagente, mas nesse caso,
+o Anti-HBc total seria não reagente, pois a vacina contém apenas o antígeno de superfície
+(HBsAg), sem estimular a produção de anticorpos contra o core do vírus.
+A alternativa - infecção aguda - apresentaria HBsAg e Anti-HBc IgM reagentes.
+A alternativa - portador crônico - apresentaria HBsAg e Anti-HBc total reagentes, com Anti-HBs
+não reagente.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Doenças de
+Condições Crônicas e IST. Protocolo Clínico e Diretrizes Terapêuticas para Hepatite B e
+Coinfecções. Brasília, 2023.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância,
+Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/Aids e das Hepatites
+Virais. Manual Técnico para o Diagnóstico das Hepatites Virais / Ministério da Saúde, Secretaria
+de Vigilância em Saúde, Departamento de Vigilância, Prevenção e Controle das Infecções
+Sexualmente Transmissíveis, do HIV/Aids e das Hepatites Virais. – Brasília: Ministério da Saúde,
+2018.
+SOCIEDADE BRASILEIRA DE INFECTOLOGIA. Diretrizes para o diagnóstico e tratamento das
+hepatites virais crônicas B e C. São Paulo, 2019.
+
+39ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 49 de 63
+
+Enunciado:
+Uma paciente de 45 anos procura atendimento com queixas inespecíficas de fadiga, ganho de
+peso leve e constipação. Seu exame físico não apresenta alterações significativas. Os exames
+laboratoriais mostram TSH aumentado (6,5 mUI/L, valor de referência: 0,4–4,0 mUI/L) e T4 livre
+dentro do limite inferior da normalidade. Com base nesses dados, assinale a alternativa que
+melhor caracteriza o diagnóstico.
+Alternativas:
+(alternativa A)
+Eutireoidismo.
+(alternativa B) (CORRETA)
+Hipotireoidismo subclínico.
+(alternativa C)
+Hipotireoidismo primário descompensado.
+(alternativa D)
+Hipotireoidismo central.
+
+Resposta comentada:
+• Hipotireoidismo subclínico é caracterizado por elevação do TSH com níveis normais de T4 livre,
+geralmente em pacientes assintomáticos ou com sintomas leves e inespecíficos.
+• Hipotireoidismo primário descompensado apresenta TSH elevado associado a T4 livre reduzido,
+o que não é o caso.
+• Hipotireoidismo central é causado por disfunção hipotalâmica ou hipofisária, resultando em TSH
+inadequadamente normal ou baixo e T4 livre reduzido.
+• Na síndrome do eutireoidismo doente, geralmente o TSH está normal ou baixo, e o T4 livre pode
+estar alterado, mas isso ocorre em contextos de doenças sistêmicas graves. • Eutireoidismo
+implica níveis normais de TSH e T4 livre.
+Referência:
+SOCIEDADE BRASILEIRA DE ENDOCRINOLOGIA E METABOLOGIA (SBEM). Diretrizes para
+o diagnóstico e manejo do hipotireoidismo. 2022. Disponível em: https://www.endocrino.org.br.
+40ª QUESTÃO
+Enunciado:
+Uma paciente de 40 anos sem comorbidades e sem história familiar de doença arterial
+coronariana, chega ao pronto-socorro queixando-se de dor torácica há 2 dias. Ela descreve a dor
+como uma sensação de queimação em região retroesternal e, às vezes, epigástrica, que piora
+com a alimentação e ao se deitar, e melhora com antiácidos e inibidores da bomba de
+prótons(IBP). Ela nega irradiação para os braços, sudorese, náuseas ou vômitos. No exame
+físico, o paciente está hemodinamicamente estável. Marque a alternativa que apresenta a
+abordagem mais apropriada para este paciente.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 50 de 63
+
+Alternativas:
+(alternativa A)
+Solicitar um teste ergométrico.
+(alternativa B)
+Solicitar uma angiotmografia coronriana.
+(alternativa C) (CORRETA)
+Solicitar um eletrocardiograma
+(alternativa D)
+Solicitar um cateterismo cardíaco.
+
+Resposta comentada:
+Alternativa correta: Solicitar um eletrocardiograma
+A descrição da dor torácica como uma sensação de queimação em região retroesternal, que piora
+com a alimentação e ao se deitar, e melhora com antiácidos e inibidores da bomba de prótons,
+sugere fortemente uma etiologia gastrointestinal, como refluxo gastroesofágico (RGE) ou úlcera
+péptica. Os sintomas são típicos de RGE, especialmente quando associados à piora após a
+alimentação e ao deitar.
+No entanto, mesmo que os sintomas sejam sugestivos de uma etiologia gastrointestinal, uma
+avaliação cardíaca é necessária para descartar completamente uma possível causa
+cardiovascular para a dor torácica, especialmente em pacientes sem comorbidades significativas.
+O primeiro passo na avaliação de dor torácica é sempre a realização de um eletrocardiograma
+(ECG), que pode identificar evidências de isquemia miocárdica aguda ou outras anormalidades
+cardíacas.
+Alternativas incorretas:
+Solicitar um cateterismo: O cateterismo cardíaco invasivo não é indicado como primeira
+abordagem em pacientes com dor torácica sem evidência clínica ou ECG de isquemia
+miocárdica aguda.
+Solicitar uma angiotomografia coronariana: A angiotomografia coronariana não é apropriada como
+primeira linha de investigação para dor torácica sem características sugestivas de angina,
+especialmente em pacientes sem fatores de risco significativos para doença arterial coronariana.
+Solicitar um teste ergométrico: O teste ergométrico não é indicado na fase aguda de dor torácica.
+Além disso, os sintomas descritos pela paciente não são sugestivos de isquemia miocárdica
+induzida pelo exercício.
+Referências:
+1. Braunwald, E., & Bonow, R. O. (Eds.). (2018). Braunwald's Heart Disease: A Textbook of
+Cardiovascular Medicine (11th ed.). Elsevier.
+2. Sociedade Brasileira de Cardiologia. (2019). Diretriz Brasileira de Dor Torácica na Sala de
+Emergência. Arquivos Brasileiros de Cardiologia, 113(3), 524-558.
+https://doi.org/10.5935/abc.20190168
+41ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 51 de 63
+
+Enunciado:
+Um homem de 68 anos é admitido na sala vermelha da emergência relatando palpitações
+intensas, desconforto torácico, iniciado há cerca de 1 hora. Evoluiu com dispneia e confusão
+mental. O paciente possui cardiomegalia por cardiopatia Chagásica e tem histórico de fibrilação
+atrial crônica diagnosticada há cinco anos. Relata que há 1 semana suspendeu por conta própria
+as medicações que o cardiologista havia prescrito. Durante o exame físico: Estado geral: alerta,
+mas confuso, com facies de dor, sudoreico, dispneico, pálido. Os sinais vitais: Pressão arterial:
+80x55 mmHg,Frequência cardíaca: 190 bpm, Frequência respiratória: 28 irpm, Saturação de
+oxigênio: 91% em ar ambiente,Ausculta cardíaca: ritmo irregular, sem sopros, Ausculta pulmonar:
+estertores bibasais discretos, Extremidades: frias e hipoperfundidas. O paciente encontra-se
+monitorizado, e o traçado do monitor revela uma taquiarritmia com ritmo irregular ausência de
+ondas P. Com base na avaliação clínica, história pregressa e nos dados do monitor, marque a
+alternativa que apresenta a conduta inicial.
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar cardioversão elétrica sincronizada imediatamente devido à presença de instabilidade
+hemodinâmica.
+(alternativa B)
+Realizar desfibrilação com carga máxima imediatamente devido à presença de instabilidade
+hemodinâmica.
+(alternativa C)
+Administrar imediatamente adenosina em BIC para reversão da arritmia para ritmo sinusal.
+(alternativa D)
+Iniciar imediatamente amiodarona intravenosa em infusão lenta para controle da frequência e
+ritmo.
+
+Resposta comentada:
+Resposta correta:
+Realizar cardioversão elétrica sincronizada imediatamente, devido à presença de
+instabilidade hemodinâmica.
+Justificativa da alternativa correta:
+A fibrilação atrial com resposta ventricular alta, associada a sinais de instabilidade hemodinâmica
+(hipotensão, confusão mental, dispneia e dor torácica), é uma emergência médica. Segundo o
+Advanced Cardiovascular Life Support (ACLS), a conduta recomendada para taquiarritmias
+instáveis é a cardioversão elétrica sincronizada imediata. Essa intervenção visa restaurar o
+ritmo sinusal rapidamente, aliviando os sintomas e prevenindo complicações como choque
+cardiogênico ou isquemia miocárdica.
+ARMSTRONG, G. Emergências clínicas USP. 4. ed. São Paulo: Manole, 2022.
+FONSECA, A. S.; BARRETO, A. C. P.; RAMIRES, J. A. F. Tratado de emergências
+cardiovasculares: abordagem prática da Sociedade de Cardiologia do Estado de
+São Paulo (SOCESP). 2. ed. São Paulo: Manole, 2021.
+42ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 52 de 63
+
+Enunciado:
+Com base na Política Nacional de Atenção Integral à Saúde do Homem (PNAISH) e nos
+principais agravos à saúde masculina, avalie as afirmações a seguir:
+I. A baixa procura dos homens pelos serviços de saúde está relacionada a modelos culturais de
+masculinidade que associam o cuidado com a saúde à fragilidade.
+II. O câncer de próstata é uma neoplasia de alta incidência em homens, mas não representa a
+principal causa de morte masculina, sendo necessário abordar seu rastreamento de forma crítica
+e compartilhada.
+III. A saúde sexual e reprodutiva dos homens deve ser abordada na APS, sobretudo diante do
+aumento dos registros de violência sexual e da invisibilidade dessas demandas.
+IV. O principal foco da atenção à saúde do homem na APS deve ser a prevenção de infecções
+sexualmente transmissíveis, pois agravos como violências e doenças crônicas não são
+prioritários nesse nível de atenção.
+É correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I, II e III.
+(alternativa B)
+I, II e IV.
+(alternativa C)
+I e III.
+(alternativa D)
+II e IV.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 53 de 63
+
+Resposta comentada:
+Correta. Modelos tradicionais de masculinidade estimulam comportamentos de risco,
+desvalorizam o autocuidado e reforçam a resistência masculina à busca por serviços de saúde, o
+que contribui para diagnósticos tardios e maior mortalidade evitável (GUSSO; LOPES, 2019).
+Correta. Embora o câncer de próstata seja um dos cânceres mais frequentes em homens, ele
+não é a principal causa de morte nessa população. No Brasil e em outros países, causas
+externas (acidentes, homicídios) e doenças cardiovasculares são mais relevantes na carga global
+de mortalidade. O rastreamento do câncer de próstata deve ser realizado de forma
+individualizada, oportuna e com decisão compartilhada, evitando excessos e medicalização
+(GUSSO; LOPES, 2019).
+Correta. A saúde sexual masculina é tema essencial e frequentemente negligenciado na APS. A
+crescente notificação de violência sexual contra homens, especialmente adolescentes e
+populações vulneráveis, reforça a necessidade de uma abordagem integral, empática e centrada
+na pessoa (GUSSO; LOPES, 2019).
+Incorreta. As doenças crônicas não transmissíveis, como hipertensão e diabetes, e as causas
+externas, como violências e acidentes, são prioritárias na saúde do homem na APS. A prevenção
+de ISTs é importante, mas não deve ser o único foco. A visão integral deve abarcar saúde mental,
+paternidade, uso de substâncias, trabalho e sexualidade (GUSSO; LOPES, 2019).
+Referência
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e Comunidade:
+princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019. Cap. 68 – Saúde do homem.
+43ª QUESTÃO
+Enunciado:
+Você está na sala de emergência de uma UPA avaliando uma criança de 7 anos que foi trazida
+pelos pais devido a uma crise convulsiva súbita durante o almoço. Ao exame inicial, a criança
+está inconsciente, em apneia e sem pulso central palpável. A reanimação cardiopulmonar (RCP)
+de alta qualidade foi iniciada imediatamente, e o monitor revelou o ritmo abaixo:
+
+Frente ao exposto, marque a alternativa que descreve o ritmo e as próximas condutas a serem
+tomadas.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 54 de 63
+
+Alternativas:
+(alternativa A)
+Trata-se de uma Taquicardia Ventricular sem pulso. Iniciar adrenalina de imediato e seguir com
+RCP.
+(alternativa B) (CORRETA)
+Trata-se de uma Fibrilação Ventricular. Realizar desfibrilação com 2 J / kg e seguir com RCP.
+(alternativa C)
+Trata-se de uma Taquicardia Ventricular sem pulso. Realizar desfibrilação e iniciar adrenalina.
+(alternativa D)
+Trata-se de uma Fibrilação Ventricular. Realizar cardioversão e iniciar amiodarona.
+
+Resposta comentada:
+O caso descrito corresponde a uma fibrilação ventricular (FV), um ritmo chocável,
+caracterizado pela atividade elétrica desorganizada e caótica no ECG. Este ritmo requer
+tratamento imediato com desfibrilação precoce e RCP de alta qualidade.
+A primeira desfibrilação é realizada com dose de 2 J/kg, e os choques subsequentes
+podem ser aumentados para até 4 J/kg.
+Após o segundo choque, administra-se amiodarona (5 mg/kg) como antiarrítmico de
+escolha para aumentar as chances de reversão do ritmo.
+A adrenalina (0,01 mg/kg de solução 1:10.000) deve ser administrada a cada 3-5
+minutos durante a reanimação e iniciada após o segundo choque.
+Referência:
+American Heart Association (AHA). Pediatric Advanced Life Support (PALS)
+Guidelines, 2020.
+Ministério da Saúde. Protocolo de Suporte Básico e Avançado de Vida em Pediatria,
+2022.
+44ª QUESTÃO
+Enunciado:
+Paciente sexo feminino, raça branca, 60 anos chega no consultório do cirurgião, com uma lesão
+de pele no tronco, com aspecto eritematoso, com cerca de 2 cm de diâmetro, finamente
+enrugada, com ulcerações superficiais. O centro da lesão é fibrótico, com forma arredondada
+para irregular. A paciente trabalhou muitos anos na lavoura de soja e não utilizava equipamentos
+de proteção individual. A dermatologista suspeitou de carcinoma basocelular e encaminhou para
+biópsia. Diante o exposto, marque a alternativa que apresenta a melhor opção terapêutica.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 55 de 63
+
+Alternativas:
+(alternativa A)
+Biopsia por laser com retirada superficial da lesão e enxerto de pele devido ao tamanho da lesão.
+(alternativa B)
+Biopsias puntiformes nas bordas e na região central da lesão abrangendo parte de pele normal.
+(alternativa C)
+Biopsia incisional para confirmação diagnóstica, radioterapia para reduzir o tamanho da lesão e
+posterior exérese da lesão.
+(alternativa D) (CORRETA)
+Biópsia excisional com retirada de toda a lesão com margem de segurança.
+
+Resposta comentada:
+Resposta correta
+A melhor opção terapêutica é a Biópsia excisional com retirada de toda a lesão com margem de
+segurança.
+Biopsias puntiformes nas bordas e na região central da lesão abrangendo parte de pele normal.
+Incorreta pois não existe biopsia puntiforme.
+Biopsia por laser com retirada superficial da lesão e enxerto de pele devido ao tamanho da lesão.
+Incorreta pois não existe biopsia por laser.
+Biopsia incisional para confirmação diagnóstica, radioterapia para reduzir o tamanho da lesão e
+posterior exérese da lesão. Incorreta pois não é indicada biopsia incisional no caso.
+
+Bibliografia
+SAVASSI-ROCHA, Paulo R.; SANCHES, Soraya Rodrigues de A.; SAVASSI-ROCHA, Alexandre
+L. Cirurgia de Ambulatório. [Digite o Local da Editora]: MedBook Editora, 2013. E-book. ISBN
+9786557830215. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830215/. Acesso em: 30 nov. 2024
+45ª QUESTÃO
+Enunciado:
+Paciente sexo feminino, 40 anos chega na UPA com quadro de dor no halux esquerdo, na borda
+lateral da unha. Relata que o quadro iniciou após ter feito pintado a unha há cerca de 3 dias,
+estando mais intensa nas ultimas 3 hs. Ao exame físico, presença de lesão com hiperemia e
+edema na borda lateral da unha, dolorosa a palpação, com uma coleção amarelada e amolecida
+na parte central da lesão. Diante o exposto, assinale a alternativa correta.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 56 de 63
+
+Alternativas:
+(alternativa A)
+A principal hipótese diagnóstica é de micose de unha e o tratamento adequado seria exérese e
+antimicotico via oral.
+(alternativa B)
+A principal hipótese diagnóstica é de unha encravada e o tratamento indicado seria extração da
+unha.
+(alternativa C)
+A principal hipótese diagnóstica é de hematoma ungueal e o tratamento adequado seria a
+cantoplastia com posterior curetagem local.
+(alternativa D) (CORRETA)
+A principal hipótese diagnostica é de panarício e o tratamento adequado seria drenagem cirúrgica
+e antibioticoterapia.
+
+Resposta comentada:
+Resposta correta
+O caso em questão é característico de um panaricio ou paroniquia, lesão que ocorre geralmente
+após pequenos traumatismos, comum em mulheres após cuidados com manicure, com sinais de
+edema e hiperemia e dor na borda ungueal do polegar e com indicação de drenagem pois já
+ocorre a formação de uma coleção purulenta no local da lesão lateral da unha e antibioticoterapia.
+A principal hipótese diagnóstica é de unha encravada e o tratamento indicado seria extração da
+unha. Incorreta pois não é caso de unha encravada.
+A principal hipótese diagnóstica é de hematoma ungueal e o tratamento adequado seria a
+cantoplastia com posterior curetagem local. Incorreta pois não é caso de hematoma ungueal.
+A principal hipótese diagnóstica é de micose de unha e o tratamento adequado seria exérese e
+antimicotico via oral. Incorreta pois não é caso de micose.
+
+Bibliografia
+SAVASSI-ROCHA, Paulo R.; SANCHES, Soraya Rodrigues de A.; SAVASSI-ROCHA, Alexandre
+L. Cirurgia de Ambulatório. [Digite o Local da Editora]: MedBook Editora, 2013. E-book. ISBN
+9786557830215. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830215/. Acesso em: 30. Nov 2024
+46ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 57 de 63
+
+Enunciado:
+Duas crianças, ambas em idade pré-escolar, são atendidas no pronto atendimento, com queixas
+de febre e exantema.
+Caso 1:
+Menino, 4 anos, com esquema vacinal incompleto, apresenta febre alta há 4 dias, acompanhada
+de tosse, coriza e conjuntivite não purulenta. No 4º dia da febre, iniciou-se um exantema
+maculopapular, começando na região retroauricular e face, com progressão descendente para
+tronco e membros. Na mucosa oral, observam-se pequenas lesões esbranquiçadas na
+bochecha.
+Caso 2:
+Menina, 5 anos, previamente saudável, apresentou há 5 dias quadro de febre baixa, coriza e malestar, que regrediram espontaneamente. Dois dias após melhora, surgiram manchas
+eritematosas em região malar (“tapa na face”), seguidas de exantema reticulado (rendilhado) em
+tronco e membros. Está afebril no momento do atendimento e em bom estado geral.
+Com base nos quadros clínicos, assinale a alternativa que apresenta os diagnósticos mais
+prováveis para os casos, respectivamente:
+Alternativas:
+(alternativa A)
+Rubéola e Escarlatina.
+(alternativa B)
+Sarampo e Rubéola.
+(alternativa C) (CORRETA)
+Sarampo e Eritema Infeccioso.
+(alternativa D)
+Exantema Súbito e Doença Mão-Pé-Boca.
+
+Resposta comentada:
+O menino apresenta quadro clássico de sarampo, com pródromos de febre alta, tosse, coriza,
+conjuntivite e sinal de Koplik. O exantema com início retroauricular e disseminação craniocaudal é
+característico. A vacinação incompleta reforça o diagnóstico.
+A menina tem um quadro compatível com eritema infeccioso (Parvovírus B19): pródromos leves
+seguidos por melhora, e então o aparecimento de exantema facial (“bofetada”) e lesões
+reticuladas no corpo. A ausência de febre no momento do exantema e o bom estado geral ajudam
+na diferenciação.
+REFERÊNCIAS:
+Ministério da Saúde. Guia de Vigilância em Saúde: Doenças Exantemáticas, 2023
+Sociedade Brasileira de Pediatria. Doenças Exantemáticas em Crianças, 2022
+CDC. Measles (Rubeola) – Clinical Features, 2023
+UpToDate. “Overview of viral exanthems in children”, 2024
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 58 de 63
+
+47ª QUESTÃO
+Enunciado:
+Um lactente de 2 meses de idade, previamente hígido, é levado à Unidade de Pronto Atendimento
+(UPA) pela mãe, que relata início há 48 horas de coriza clara e tosse seca. Nas últimas 12 horas,
+a mãe percebeu que o bebê está mais irritadiço, com dificuldade para se alimentar, respiração
+mais rápida e com ruídos. Ao exame físico, o lactente apresenta-se afebril, com frequência
+respiratória de 56 incursões por minuto, batimento de asa de nariz discreto, tiragem subcostal
+leve e ausculta pulmonar com sibilos difusos e estertores finos bilaterais. A saturação de oxigênio
+em ar ambiente é de 94%.
+Acerca do exposto, assinale a alternativa que apresenta o diagnóstico mais provável e um
+importante diagnóstico diferencial a ser considerado neste cenário.
+Alternativas:
+(alternativa A)
+Laringomalácia com exacerbação por infecção viral e diferenciação de bronquiolite.
+(alternativa B)
+Asma do lactente com diferenciação de pneumonia viral.
+(alternativa C) (CORRETA)
+Bronquiolite viral aguda com diferenciação de pneumonia bacteriana.
+(alternativa D)
+Refluxo gastroesofágico com aspiração e diferenciação de fibrose cística.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 59 de 63
+
+Resposta comentada:
+Resposta Correta:
+Bronquiolite viral aguda com diferenciação de pneumonia bacteriana.
+Justificativa:
+O quadro clínico do lactente, caracterizado por pródromo de sintomas de via aérea superior
+(coriza e tosse) seguido de sinais de dificuldade respiratória (taquipneia, batimento de asa de
+nariz, tiragem) e achados auscultatórios típicos (sibilos e estertores), é altamente sugestivo de
+bronquiolite viral aguda, a principal causa de internação em lactentes nessa faixa etária durante os
+meses de maior circulação de vírus respiratórios.
+A principal diferenciação a ser feita neste caso é com pneumonia bacteriana. Embora ambas
+possam apresentar sinais de desconforto respiratório e estertores, a bronquiolite classicamente
+cursa com sibilos difusos devido ao estreitamento das pequenas vias aéreas, precedida por
+sintomas de resfriado comum. A pneumonia bacteriana, por outro lado, pode apresentar febre
+mais elevada, sinais de consolidação pulmonar ao exame (que não são descritos no caso) e,
+frequentemente, um quadro menos precedido por sintomas típicos de infecção viral de vias
+aéreas superiores.
+As outras alternativas são menos prováveis:
+Asma do lactente com diferenciação de pneumonia viral: A asma é menos comum em lactentes
+tão jovens e geralmente não se manifesta com um pródromo viral tão claro. O primeiro episódio
+de sibilância em um lactente nessa idade levanta mais fortemente a suspeita de bronquiolite.
+Laringomalácia com exacerbação por infecção viral e diferenciação de bronquiolite: A
+laringomalácia é um problema estrutural da laringe que causa estridor inspiratório, o que não é o
+achado predominante neste caso. Embora infecções virais possam exacerbar o estridor, a
+presença de sibilos difusos aponta mais para bronquiolite.
+Refluxo gastroesofágico com aspiração e diferenciação de fibrose cística: Embora o refluxo
+possa causar sintomas respiratórios por aspiração, o quadro agudo precedido por sintomas virais
+e a ausculta com sibilos tornam a bronquiolite mais provável. A fibrose cística é uma doença
+genética crônica que geralmente se apresenta com outros sinais e sintomas, como dificuldade em
+ganhar peso e história familiar, além de um quadro respiratório mais persistente e com outras
+características.
+Referências:
+Sociedade Brasileira de Pediatria. Bronquiolite viral aguda. Documento Científico. Departamento
+de Pneumologia. 2019. [Link para um documento relevante da SBP sobre bronquiolite]
+Kliegman, R. M., Toth, H. B., Bordini, B. J., & Geme, J. W. S. Nelson textbook of pediatrics (21st
+ed.). Elsevier. 2022.
+American Academy of Pediatrics. (2014). Clinical practice guideline: diagnosis and management
+of bronchiolitis. Pediatrics, 134(5), e1474-e1502.
+
+48ª QUESTÃO
+Enunciado:
+Uma paciente de 50 anos, sexo feminino, internada em hospital de oncologia, foi diagnosticada
+com carcinoma do colo do útero. Após avaliação clínica sob anestesia e realização de
+ressonância magnética de pelve, foi confirmado o estadiamento FIGO IA1- tumor invade até 3
+mm de profundidade do estroma. Considerando esse estadiamento, assinale a alternativa que
+apresenta o tratamento mais indicado para esta paciente.
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 60 de 63
+
+Alternativas:
+(alternativa A)
+Radioterapia exclusiva, seguida de quimioterapia de manutenção.
+(alternativa B)
+Histerectomia radical com linfadenectomia pélvica.
+(alternativa C) (CORRETA)
+Histerectomia total pela técnica extrafascial.
+(alternativa D)
+Quimioterapia neoadjuvante seguida de cirurgia conservadora.
+
+Resposta comentada:
+O câncer de colo uterino é uma das neoplasias mais frequentes no mundo. A etiologia é a
+infecção pelo vírus HPV, que promove a carcinogênese.
+Em 2021 a FIGO (Federação Internacional de Ginecologia e Obstetrícia) publicou uma revisão
+sobre o estadiamento e o tratamento dessa neoplasia. O estádio I compreende os tumores
+restritos ao colo e são divididos em:
+IA1 – tumor invade até 3 mm de profundidade do estroma
+IA2 – tumor invade de 3 a 5 mm de profundidade do estroma
+IB1 – tumor invade mais de 5 mm da profundidade do estroma e tem menos de de 2 cm de
+tamanho
+IB2 – tumor mede entre 2 e 4 cm
+IB3 – tumor tem mais de 4 cm
+Nos tumores IA1 a conduta é a histerectomia total pela técnica extrafascial. Se a paciente tiver
+desejo de gestação, a conização com margens livres também é um tratamento considerado
+como adequado. Já nos tumores IA2, a histerectomia radical modificada é o tratamento indicado.
+Consiste na histerectomia total, amputação do terço superior da vagina, parametrectomia bilateral
+até o cruzamento dos ureteres e realização de linfonodo-sentinela. Nas pacientes com tumores
+em estádio IA2 com desejo de gestação, pode ser realizada a traquelectomia com linfonodosentinela. Nessa técnica realiza-se todo o procedimento cirúrgico descrito, mas mantendo o corpo
+uterino.
+
+Referência
+BHATLA, Neerja et al. Cancer of the cervix uteri: 2021 update. International Journal of
+Gynecology & Obstetrics, v. 155, p. 28-44, 2021.
+
+49ª QUESTÃO
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 61 de 63
+
+Enunciado:
+Paciente sexo masculino, 30 anos, com lesão ulcerada em membro inferior direito. A
+dermatologista suspeitou de leishmaniose cutâneo-mucosa. Considerando a leishmaniose
+cutâneo-mucosa, avalie as asserções a seguir e a relação proposta entre elas:
+I. A Intradermorreação de Montenegro e a identificação do parasito nas lesões são exames
+diagnósticos importantes, enquanto a sorologia e o exame histopatológico não são exames
+realizados para diagnóstico da leishmaniose.
+PORQUE
+II. A ulcera leishmaniótica é típica apresentando contornos circulares, bordas elevadas e
+infiltradas, fundo com granulações grosseiras e de cor vermelho vivo, recoberto por exsudato
+seropurulento ou seroso.
+A respeito dessas asserções, assinale a opção correta.
+Alternativas:
+(alternativa A)
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa
+(alternativa B)
+As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+(alternativa C) (CORRETA)
+A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+(alternativa D)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+
+Resposta comentada:
+Resposta correta
+A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+I – A Intradermorreaçao de Montenegro e a identificação do parasito nas lesões são exames
+diagnósticos importantes enquanto a sorologia e o exame histopatológico não são exames
+realizados para diagnóstico da leishmaniose. INCORRETA
+PORQUE
+II – A ulcera leishmaniótica é típica apresentando contornos circulares, bordas elevadas e
+infiltradas, fundo com granulações grosseiras e de cor vermelho vivo, recoberto por exsudato
+seropurulento ou seroso. CORRETA
+Bibliografia
+SAVASSI-ROCHA, Paulo R.; SANCHES, Soraya Rodrigues de A.; SAVASSI-ROCHA, Alexandre
+L. Cirurgia de Ambulatório. [Digite o Local da Editora]: MedBook Editora, 2013. E-book. ISBN
+9786557830215. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830215/. Acesso em: 30 nov. 2024.
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 62 de 63
+
+50ª QUESTÃO
+Enunciado:
+Durante a ressuscitação de uma criança de 8 anos em parada cardiorrespiratória (PCR), foi
+identificado um ritmo não chocável (assistolia) no monitor. A equipe iniciou compressões
+torácicas de alta qualidade e ventilação com bolsa-valva-máscara. Assinale a alternativa que
+apresenta a conduta farmacológica inicial mais apropriada, incluindo a dose da medicação.
+Alternativas:
+(alternativa A)
+Epinefrina 0,1 mg/kg por via intravenosa a cada 3-5 minutos.
+(alternativa B)
+Amiodarona 5 mg/kg por via intravenosa.
+(alternativa C)
+Lidocaína 1mg/kg por via intravenosa.
+(alternativa D) (CORRETA)
+Epinefrina 0,01mg/ kg por via intravenosa a cada 3-5 minutos.
+
+Resposta comentada:
+A resposta correta é epinefrina 0,01 mg/kg por via intravenosa a cada 3-5 minutos.
+Em casos de PCR com ritmo não chocavel ( assistolia ou atividade elétrica sem pulso ), a
+administração precoce de epinefrina é a principal intervenção farmacológica indicada. A dose
+recomendada é de 0,01 mg/kg ( 0,1 ml/kg de solução 1:10.000) por via intravenosa ou intraóssea,
+repetida a cada 3-5 minutos enquanto se mantém compressões de alta qualidade e ciclos de
+reavaliaçãO.
+Bibliografia:
+1. American Heart Association (AHA). Diretrizes de Suporte Avançado de Vida em Pediatria (
+PALS), 2020
+2. Porto, C. C . Semiologia Médica. 9ą edição. Guanabara Koogan, 2022
+
+000168.160013.a4c548.23d80b.7a4780.4794bd.5833ab.a2e0a
+
+Pgina 63 de 63
+
+

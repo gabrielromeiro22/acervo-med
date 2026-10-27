@@ -1,0 +1,699 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina II
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 08/10/2025
+
+N1 ESPECÍFICA - MEDICINA - MCM II - 2025.2 - 1ª CHAMADA 08/OUTUBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17359 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(AFYA Cruzeiro do Sul) De acordo com dados do Sistema de Informações sobre
+Mortalidade (SIM) do DATASUS, em 2023, o Brasil registrou uma taxa de
+mortalidade materna de 60,32 por 100 mil nascidos vivos, representando uma
+redução em relação a 2022, que foi 64,01 por 100 mil nascidos vivos. Essa taxa
+varia regionalmente, sendo mais elevada no Norte (75,72) e Nordeste (64,61),
+quando comparada com outras regiões do Brasil.
+Assinale a alternativa que corretamente explica o indicador epidemiológico
+abordado no texto, assim como os fatores que o influenciam.
+Alternativas:
+(alternativa A)
+A mortalidade materna é medida pela divisão de nascimentos por óbitos maternos e
+é impactada por elementos como educação materna e condições econômicas, os
+quais explicam a diminuição do indicador para o ano de 2023 .
+(alternativa B)
+A mortalidade materna é determinada pela razão de óbitos maternos pelo número
+total de gestantes e é modificada por aspectos como saneamento ambiental e
+acesso ao pré-natal, os quais justificam variações regionais.
+(alternativa C) (CORRETA)
+A mortalidade materna é avaliada pela razão de óbitos maternos e nascidos vivos e
+é influenciada por determinantes como acesso a serviços de saúde e exames prénatal, os quais contribuíram para a redução observada em 2023.
+(alternativa D)
+A mortalidade materna é calculada pela proporção de óbitos entre gestantes com
+complicações e é afetada por diversos fatores, como os valores de natalidade e
+mortalidade geral, explicando as variações regionais apresentadas.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 1 de 18
+
+Resposta comentada:
+Resposta correta.
+A mortalidade materna é avaliada pela razão de óbitos maternos e nascidos vivos e
+é influenciada por determinantes como acesso a serviços de saúde e exames prénatal, os quais contribuíram para a redução observada em 2023.
+A taxa de mortalidade materna é calculada pelo número de óbitos maternos
+dividido pelo número de nascidos vivos × 100.000, englobando mortes durante a
+gravidez, parto ou puerpério por causas relacionadas. Os determinantes sociais,
+como acesso desigual a serviços de saúde, afetam diretamente essa medida,
+influenciando reduções observadas por melhorias em políticas públicas e acesso ao
+pré-natal.
+A alternativa “A mortalidade materna é calculada pela proporção de óbitos entre
+gestantes com complicações” confunde mortalidade materna com letalidade
+(proporção de óbitos entre casos afetados por uma condição específica).
+A alternativa “A mortalidade materna é medida pela divisão de nascimentos por
+óbitos maternos” indica inversão na construção do indicador, sugerindo uma divisão
+de nascimentos por óbitos, o que se assemelha a uma medida de natalidade
+invertida, diferente da fórmula da taxa de mortalidade materna.
+A alternativa “A mortalidade materna é determinada pela razão de óbitos maternos
+pelo número total de gestantes” traz equívoco na construção do indicador,
+indicando a construção da letalidade (óbitos por exposição, no caso gestantes).
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Epidemiologia e saúde. Rio de Janeiro:
+MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 25
+set. 2025.
+
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(UNISL JI-Paraná) Um pesquisador em Medicina Coletiva analisou o tempo de
+internação (em dias) de 15 pacientes hospitalizados por pneumonia em um hospital
+universitário. Os dados obtidos foram:
+3, 4, 4, 5, 5, 5, 6, 6, 7, 7, 8, 8, 8, 12,15.
+Para representar de forma adequada o tempo típico de internação dos pacientes
+neste hospital, o pesquisador deve utilizar qual medida de tendência central?
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 2 de 18
+
+Alternativas:
+(alternativa A)
+Moda, pois representa o valor mais frequente e evita distorções por outliers.
+(alternativa B) (CORRETA)
+Média aritmética, pois considera todos os valores da amostra igualmente.
+(alternativa C)
+Mediana, pois é resistente à influência de valores extremos e reflete melhor o ponto
+central.
+(alternativa D)
+Média ponderada, pois atribui pesos diferentes aos valores e pode minimizar os
+outliers.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 3 de 18
+
+Resposta comentada:
+Média aritmética, pois considera todos os valores da amostra igualmente.
+Correta - Justificativa: como os tempos de internação acima não apresentam grande
+variação, tendo pouca "distância" entre eles, a medida de tendência mais adequada
+seria a média. Porém, como ela é sensível a valores extremos, seu uso seria
+incorreto na presença destes valores, também conhecidos como outliers.
+Mediana, pois é resistente à influência de valores extremos e reflete melhor o ponto
+central.
+Incorreta - Justificativa: quando a distribuição dos valores é uniforme, média e
+mediana acabam por ter valores muito próximos. Entretanto, o uso adequado da
+mediana é determinado pela presença de valores extremos, já que esta é resistente
+a valores discrepantes e mostra o ponto central real da amostra, sofrendo bem
+menos influência de outliers. Como normalmente a média é considerada uma
+medida mais robusta para dados paramétricos (distribuição relativamente
+uniforme), na ausência de outliers, o uso da mediana não seria justificado.
+Moda, pois representa o valor mais frequente e evita distorções por outliers.
+Incorreta - Justificativa: incorreta, pois aqui existem duas modas (5 e 8). Isso gera
+ambiguidade e não resume adequadamente uma variável contínua, além de não
+refletir bem o valor central.
+Média ponderada, pois atribui pesos diferentes aos valores e pode minimizar os
+outliers.
+Incorreta - Justificativa: não há justificativa para usar pesos neste conjunto de
+dados. Esse recurso não resolve de forma adequada a influência de outliers.
+Referências:
+AKANIME, Carlos T.; YAMAMOTO, Roberto K. Estudo Dirigido de Estatística Descritiva.
+São Paulo: Editora Érica, 2013. E-book. ISBN 9788536517780. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788536517780/recent. Acesso
+em: 10 out. 2024.
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática
+para as ciências da saúde. Porto Alegre: Penso, 2017. E-book. ISBN 9788584291007.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/recent. Acesso
+em: 10 out. 2024.
+DUQUIA, R. P.; BASTOS, J. L. D. Medidas de tendência central: onde a maior parte
+dos indivíduos se encontra? Scientia Medica, v. 16, n. 4, p. 190–194, 2006.
+Disponível em: https://revistaseletronicas.pucrs.br/scientiamedica/article/view/2287.
+Acesso em: 10 out. 2024.
+Feedback:
+-3ª QUESTÃO
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 4 de 18
+
+Enunciado:
+(UNIDOMPEDRO) Durante um atendimento em uma Unidade Básica de Saúde (UBS),
+uma técnica de enfermagem relata ao médico responsável que três crianças da
+mesma sala de aula apresentaram febre, tosse e mal-estar nos últimos dias. Uma
+delas foi encaminhada ao hospital por agravamento do quadro. O profissional de
+saúde suspeita de uma infecção viral de transmissão interpessoal e inicia as
+medidas de notificação e orientação às famílias, além de reforçar a importância de
+medidas de prevenção.
+Com base no cenário apresentado e nos conceitos básicos de epidemiologia, analise
+as afirmativas abaixo:
+I. A via aérea é considerada uma via de eliminação comum em infecções
+virais respiratórias.
+II. A transmissão horizontal ocorre entre indivíduos da mesma geração, como
+colegas de classe.
+III. A transmissão horizontal ocorre quando o agente é transmitido da mãe
+para o filho durante a gestação, parto ou amamentação.
+IV. Em situações de suspeita de surtos infecciosos, a notificação às
+autoridades de saúde é uma medida recomendada.
+Considerando as afirmativas acima, assinale a alternativa correta.
+
+Alternativas:
+(alternativa A)
+Apenas as afirmativas I, III e IV estão corretas.
+(alternativa B)
+Apenas as afirmativas II e IV estão corretas.
+(alternativa C)
+Apenas as afirmativas I e III estão corretas.
+(alternativa D) (CORRETA)
+Apenas as afirmativas I, II e IV estão corretas.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 5 de 18
+
+Resposta comentada:
+Resposta comentada:
+Correta - Apenas as afirmativas I, II e IV estão corretas.
+A afirmativa I – está correta - Muitas infecções virais respiratórias são eliminadas por
+via aérea, como por meio de gotículas expelidas ao tossir ou espirrar.
+A afirmativa II – está correta - A transmissão horizontal é caracterizada pela
+disseminação do agente entre pessoas da mesma geração, como no caso de
+crianças em uma mesma turma.
+A afirmativa III – está incorreta - O tipo de transmissão que ocorre da mãe para o
+filho, seja durante a gestação, o parto ou a amamentação, é a transmissão vertical
+e não horizontal.
+A afirmativa IV – está correta - A notificação de casos suspeitos às autoridades de
+saúde é parte das ações de vigilância epidemiológica e importante para controle de
+surtos.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo (orgs). Rouquayrol - Epidemiologia &
+saúde. 8. ed. Rio de Janeiro: MedBook Editora, 2017. E-book. p. 187. ISBN
+9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830000/. Acesso
+em: 14 ago. 2025.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(FMIT) Pesquisadores do Departamento de Vigilância Epidemiológica analisaram
+dados extraídos do sistema TABNET/DATASUS relativos à hanseníase em um
+município do Brasil. Em janeiro de 2024, o município apresentava uma população de
+320.000 habitantes, dos quais 250 estavam sob tratamento para hanseníase. Ao
+longo de todo o ano de 2024, 96 novos casos foram notificados e confirmados por
+critério clínico-laboratorial. Não houve duplicidade de registros.
+Avalie as informações apresentadas acima e identifique a alternativa que expressa
+a medida epidemiológica apropriada para representar a magnitude do problema em
+dezembro de 2024 (no final do período), com o respectivo valor corretamente
+calculado.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 6 de 18
+
+Alternativas:
+(alternativa A)
+Incidência em dezembro de 2024: 96,0 casos por 100.000 habitantes.
+(alternativa B)
+Incidência cumulativa em dezembro de 2024: 96 casos por 250 indivíduos sob
+tratamento.
+(alternativa C)
+Prevalência em dezembro de 2024: 96 casos por 320.000 habitantes.
+(alternativa D) (CORRETA)
+Prevalência em dezembro de 2024: 108,1 casos por 100.000 habitantes.
+
+Resposta comentada:
+Alternativa correta:
+Prevalência em dezembro de 2024: 108,1 casos por 100.000 habitantes.
+Justificativa:
+A prevalência é a medida mais apropriada para representar a magnitude do
+problema em um ponto no tempo, como dezembro de 2024. Considerando os 250
+casos em tratamento (casos antigos) mais os 96 novos casos do ano, temos 346
+pessoas com hanseníase naquele momento. Aplicando a fórmula da prevalência:
+(346 ÷ 320.000) × 100.000 = 108,1 casos por 100.000 habitantes.
+Alternativa incorreta:
+Prevalência em dezembro de 2024: 96 casos por 320.000 habitantes.
+Justificativa:
+Esse cálculo considera apenas os novos casos do ano (96), desconsiderando os
+casos já em tratamento (250), o que subestima a prevalência real. A prevalência
+deve contabilizar todos os casos presentes em determinado momento,
+independentemente da data de diagnóstico.
+Alternativa incorreta:
+Incidência em dezembro de 2024: 96,0 casos por 100.000 habitantes.
+Justificativa:
+Embora o valor numérico (96 ÷ 320.000 × 100.000 = 30,0) seja calculável para uma
+taxa de incidência anual, o erro dessa alternativa está em dois pontos:
+Valor incorreto: 96 casos por 100.000 implica erroneamente uma incidência de
+96/320.000 × 100.000 = 30,0, e não 96,0.
+Período temporal inadequado: Incidência se refere à ocorrência de casos novos ao
+longo de um intervalo, geralmente anual. Usar “em dezembro” sugere um ponto no
+tempo, o que é incompatível com o conceito de incidência, que requer definição de
+intervalo (ex.: "no ano de 2024").
+Portanto, a alternativa está incorreta tanto na concepção da medida quanto no valor
+apresentado.
+Alternativa incorreta:
+Incidência cumulativa em dezembro de 2024: 96 casos por 250 indivíduos sob
+tratamento.
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 7 de 18
+
+Justificativa:
+A incidência cumulativa é a proporção de indivíduos inicialmente livres da doença
+que desenvolvem a condição ao longo de um período. O denominador correto deve
+ser a população em risco — ou seja, os indivíduos sem a doença no início do período.
+Nesta alternativa, o denominador de 250 pessoas já estava sob tratamento em
+janeiro de 2024, ou seja, já tinha hanseníase, portanto não poderia mais
+desenvolver a doença e não faz parte da população em risco.
+O cálculo correto da incidência cumulativa seria:
+População total: 320.000.
+Casos existentes em janeiro: 250.
+População em risco: 320.000 − 250 = 319.750.
+Casos novos no ano: 96.
+Incidência cumulativa = 96 ÷ 319.750 = 0,0003 ou 0,03%
+Portanto, além do erro conceitual no denominador, a alternativa também apresenta
+um valor incompatível com o cálculo correto.
+Referências:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância Epidemiológica. Guia de vigilância epidemiológica. 7. ed. Brasília:
+Ministério da Saúde, 2017. Disponível em: https://www.gov.br/saude/ptbr/assuntos/saude-de-a-a-z/f/febre-tifoide/publicacoes/guia-de-vigilanciaepidemiologica-7a-edicao/view. Acesso em: 25 set. 2025.
+FRANCO, Laércio J. ; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3. ed.
+Santana de Parnaíba [SP]: Manole, 2022. E-book. ISBN 9786555767711. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786555767711/. Acesso em:
+25 set. 2025.
+
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(AFYA Itacoatiara) Em um estado da região Norte, os serviços de saúde observam
+que, nos últimos anos, continuam sendo registrados casos novos de tuberculose.
+Muitos pacientes necessitam de tratamento prolongado, mas, quando corretamente
+tratados, podem alcançar a cura.
+De acordo com o cenário apresentado, analise as afirmativas a seguir.
+I. A condição descrita no cenário acima é de uma doença transmissível provocada
+por uma bactéria. Para calcular sua prevalência na população, é necessário somar
+os casos novos com aqueles já existentes no período e dividir o valor pela
+população.
+II. A medida mais adequada para acompanhar o risco de adoecimento é a incidência
+cumulativa.
+III. Com o diagnóstico precoce e um tratamento eficaz, a prevalência da doença na
+população tenderá a diminuir ao longo dos anos.
+É correto afirmar que
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 8 de 18
+
+Alternativas:
+(alternativa A)
+apenas I está correta.
+(alternativa B)
+apenas I e II estão corretas.
+(alternativa C)
+apenas II e III estão corretas.
+(alternativa D) (CORRETA)
+I, II e III estão corretas.
+
+Resposta comentada:
+Resposta correta: I, II e III estão corretas.
+I. Correto. A tuberculose é uma doença transmissível causada pela bactéria
+Mycobacterium tuberculosis. Para calcular sua prevalência numa dada população, é
+necessário dividir o número TOTAL de casos (novos e já existentes) e dividir pelo
+número de habitantes da localidade em questão (população). A melhor forma de
+expressar este dado é multiplicando-se o resultado por uma constante (100, 1.000,
+10.000, 100.000..., a depender do contexto).
+II. Correto. Para avaliar o risco de adoecimento em uma população ao longo de
+determinado tempo, a medida mais indicada é a incidência cumulativa ou
+coeficiente de incidência, calculada a partir da soma de casos novos ao longo de um
+período, dividindo este valor pela população que ainda não tem a doença (em risco
+de adoecer) e multiplicando pela constante.
+III. Correto. Se o tratamento for eficaz (cura), haverá menos casos prevalentes
+(casos existentes), então a prevalência como um todo tende a diminuir na
+população.
+Referência:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde - Fundamentos,
+Métodos e Aplicações . Rio de Janeiro: Guanabara Koogan, 2011. E-book. Pág. 15.
+ISBN 978-85-277-2119-6. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/978-85-277-2119-6/. Acesso em:
+28 ago. 2025.
+Feedback:
+-6ª QUESTÃO
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 9 de 18
+
+Enunciado:
+(UNITPAC) Um pesquisador em epidemiologia está analisando os dados de tempo de
+espera (em minutos) para atendimento médico em uma Unidade Básica de Saúde
+(UBS) durante um mês. Os dados coletados de 120 pacientes apresentaram a
+seguinte distribuição: mínimo: 5 minutos; máximo: 180 minutos; mediana: 35
+minutos; primeiro quartil (Q1): 20 minutos; terceiro quartil (Q3): 75 minutos; média:
+58 minutos; e desvio padrão: 42 minutos.
+Ao observar os dados, o pesquisador nota que há grande variabilidade e presença
+de valores extremos (outliers), especialmente em dias com sobrecarga de
+atendimentos. Diante disso, ele precisa escolher as medidas mais adequadas para
+representar a tendência central e a dispersão dos dados.
+Com base nos dados acima, as medidas de tendência central e dispersão,
+respectivamente, mais adequadas são a
+Alternativas:
+(alternativa A)
+média e o coeficiente de variação.
+(alternativa B)
+moda e a amplitude.
+(alternativa C) (CORRETA)
+mediana e o intervalo interquartílico.
+(alternativa D)
+média e o desvio padrão.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 10 de 18
+
+Resposta comentada:
+Resposta correta: Mediana e intervalo interquartílico (Q1–Q3).
+Quando os dados apresentam assimetria ou outliers, como neste caso, a mediana é
+a medida de tendência central mais robusta, pois não é influenciada por valores
+extremos. O intervalo interquartílico (Q3–Q1) complementa a análise ao mostrar a
+dispersão dos dados centrais, ignorando os extremos. Essa combinação é ideal para
+dados não paramétricos ou assimétricos.
+Média e desvio padrão. Incorreta: embora sejam medidas clássicas para dados
+simétricos e normalmente distribuídos, a presença de outliers e alta variabilidade
+distorce a média e inflaciona o desvio padrão, tornando-os pouco representativos da
+realidade da maioria dos pacientes.
+Média e coeficiente de variação. Incorreta: o coeficiente de variação (CV) é útil para
+comparar variabilidade relativa entre diferentes conjuntos de dados, mas depende
+da média como referência. Como a média está distorcida por outliers, o CV também
+será comprometido e não refletirá adequadamente a dispersão.
+Moda e amplitude. Incorreta: a moda pode ser útil em dados categóricos ou
+discretos, mas não é informativa em distribuições contínuas com grande dispersão.
+A amplitude (diferença entre o maior e o menor valor) é altamente sensível a
+outliers e não representa bem a dispersão dos dados centrais.
+Referência:
+MOORE, D.; NOTZ, W. I.; FLIGNER, M. A. A Estatística Básica e sua Prática. 9. ed. Rio
+de Janeiro: LTC, 2023. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788521638612/recent. Acesso
+em: 25 set. 2025.
+Feedback:
+-7ª QUESTÃO
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 11 de 18
+
+Enunciado:
+(AFYA Palmas) Durante uma atividade prática no módulo de Saúde Coletiva, um
+grupo de estudantes acessou os dados do Sistema de Informação sobre Mortalidade
+(SIM/TABNET/DATASUS) para analisar a evolução dos indicadores no Brasil. Os dados
+coletados mostraram a seguinte série histórica:
+
+Com base nos dados acima e considerando os conceitos de mortalidade geral e
+letalidade, bem como suas implicações para a vigilância epidemiológica e
+formulação de políticas públicas, identifique a alternativa correta.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 12 de 18
+
+Alternativas:
+(alternativa A) (CORRETA)
+A mortalidade geral manteve-se estável, enquanto a letalidade por dengue reduziuse progressivamente, refletindo avanços no diagnóstico precoce e no manejo
+clínico.
+(alternativa B)
+A mortalidade geral apresentou declínio acentuado e a letalidade por dengue
+aumentou após 2015, sugerindo piora nos indicadores de vigilância.
+(alternativa C)
+Tanto a mortalidade geral quanto a letalidade por dengue reduziram-se
+expressivamente, indicando melhorias uniformes nos serviços de saúde e nas
+condições de vida da população.
+(alternativa D)
+A mortalidade geral apresentou tendência crescente e a letalidade por dengue
+permaneceu estável, evidenciando manutenção da gravidade da doença no período
+analisado.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 13 de 18
+
+Resposta comentada:
+A mortalidade geral manteve-se estável, enquanto a letalidade por dengue reduziuse progressivamente, refletindo avanços no diagnóstico precoce e no manejo
+clínico. Correta. A taxa de mortalidade geral variou pouco ao longo dos anos,
+caracterizando estabilidade desse indicador populacional. Já a letalidade por dengue
+apresentou queda consistente, o que demonstra maior eficácia no cuidado clínico e
+na vigilância epidemiológica.
+A mortalidade geral apresentou tendência crescente e a letalidade por dengue
+permaneceu estável, evidenciando manutenção da gravidade da doença no período
+analisado. Incorreta, pois a letalidade apresentou queda importante no período,
+contrariando a interpretação proposta.
+Tanto a mortalidade geral quanto a letalidade por dengue reduziram-se
+expressivamente, indicando melhorias uniformes nos serviços de saúde e nas
+condições de vida da população. Incorreta, pois a mortalidade geral não sofreu
+redução expressiva, mantendo-se relativamente estável.
+A mortalidade geral apresentou declínio acentuado e a letalidade por dengue
+aumentou após 2015, sugerindo piora nos indicadores de vigilância. Incorreta, pois
+os dados evidenciam redução da letalidade por dengue, e não aumento.
+Referências:
+BRASIL. Ministério da Saúde. Sistema de Informações sobre Mortalidade –
+SIM/DATASUS. Disponível em: https://datasus.saude.gov.br. Acesso em: 26 ago.
+2025.
+PAULA, R. B. et al. Epidemiologia em serviços de saúde. 3. ed. Rio de Janeiro:
+Fiocruz, 2021.
+ROUQUAYROL, M. Z.; GURGEL, M. Epidemiologia & saúde. 8. ed. Rio de Janeiro:
+MedBook Editora, 2017.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(AFYA Abaetetuba) Um estudante de medicina acompanha o atendimento de um
+paciente na UBS com 58 anos, hipertenso e diabético, que chega ao ambulatório
+solicitando troca de sua medicação. Ele traz uma reportagem de jornal indicando
+que “água de alho” teria benefícios para o controle da hipertensão.
+Considerando a situação acima e os princípios da Medicina Baseada em Evidências
+(MBE), analise as afirmativas abaixo.
+I – A decisão clínica deve integrar a melhor evidência científica disponível, a
+experiência clínica do profissional e os valores e preferências do paciente.
+II – Relatos da mídia leiga (jornais, revistas, sites) não substituem evidências
+científicas de qualidade na tomada de decisão clínica.
+III – A escolha do tratamento deve priorizar o que o paciente deseja,
+independentemente do julgamento clínico do profissional.
+Identifique as afirmativas corretas.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 14 de 18
+
+Alternativas:
+(alternativa A)
+Apenas a afirmativa II está correta.
+(alternativa B)
+Apenas a afirmativa I está correta.
+(alternativa C) (CORRETA)
+Apenas as afirmativas I e II estão corretas.
+(alternativa D)
+Apenas as afirmativas II e III estão corretas.
+
+Resposta comentada:
+Apenas as afirmativas I e II estão corretas.
+I correta: A MBE integra três pilares: evidências científicas, experiência clínica e
+valores do paciente.
+II correta: Informações não científicas, como as de mídia popular, não podem
+substituir evidências robustas (ensaios clínicos, revisões sistemáticas), revisadas por
+pares e publicadas em revistas científicas de qualidade.
+III incorreta: O desejo do paciente deve ser considerado, mas não isoladamente —
+sempre em equilíbrio com evidências científicas e julgamento clínico.
+Referência:
+PEREIRA, Maurício G.; GALVÃO, Taís F.; SILVA, Marcus T. Saúde Baseada em
+Evidências. Rio de Janeiro: Guanabara Koogan, 2016. E-book. ISBN 9788527728843.
+Feedback:
+-9ª QUESTÃO
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 15 de 18
+
+Enunciado:
+(AFYA Ipatinga) Leia o trecho de metodologia abaixo, de um estudo hipotético, e
+responda às questões.
+Pesquisadores desenharam um estudo para avaliar a eficácia da terapia
+de reposição hormonal em mulheres na menopausa. Na cidade
+escolhida, realizaram inicialmente um sorteio de duas Unidades Básicas
+de Saúde (UBS), que passaram a compor a área de estudo. Em seguida,
+dentro de cada UBS selecionada, foi feita uma amostragem aleatória
+dentro de cada faixa etária (50–55 anos, 56–60 anos, acima de 60 anos),
+de modo a garantir representatividade das diferentes idades no grupo
+estudado.
+A) Identifique os tipos de amostragem utilizados neste estudo. (0,5 ponto)
+B) Descreva as características dessas amostragens, destacando como cada uma
+contribui para o desenho da pesquisa. Justifique se essa escolha metodológica é
+adequada ao objetivo do estudo. (1,0 ponto)
+
+Alternativas:
+-Resposta comentada:
+Letra A:
+Tipo de amostragem: amostragem por conglomerados (UBS sorteadas) seguida de
+amostragem aleatória estratificada (faixas etárias dentro das UBS).
+Aqui é importante perceber que há dois níveis de amostragem combinados.
+Letra B:
+Amostragem por conglomerados: ocorre quando o pesquisador seleciona grupos
+inteiros (neste caso, as UBS) em vez de indivíduos isolados. Essa estratégia é útil
+em pesquisas de campo, quando não é viável acessar toda a população
+diretamente.
+Amostragem estratificada: dentro das UBS escolhidas, as mulheres foram divididas
+em estratos etários. Em cada estrato, a seleção foi aleatória, garantindo
+representatividade proporcional das diferentes idades.
+Justificativa do uso:
+A escolha das UBS como conglomerados facilita a logística (menos deslocamentos,
+acesso organizado aos participantes).
+A estratificação por idade garante que todas as faixas etárias de mulheres na
+menopausa estejam representadas, evitando viés etário e aumentando a validade
+dos resultados.
+A combinação dos métodos torna o estudo mais robusto, equilibrando viabilidade
+prática e rigor científico.
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 16 de 18
+
+Critério de
+avaliação
+
+Descrição do esperado
+
+Po
+nt
+os
+
+Identificação correta
+da amostragem (A).
+
+O estudante reconhece dois tipos de amostragem:
+conglomerado (UBS) e estratificada (faixa etária).
+
+0,
+5
+
+Caracterização da
+amostragem por
+conglomerado (B).
+
+Explica que envolve seleção de grupos inteiros e
+justifica a praticidade e viabilidade.
+
+0,
+3
+
+Caracterização da
+amostragem
+estratificada (B).
+
+Explica a divisão por estratos (faixa etária), seleção
+aleatória e a garantia de representatividade.
+
+0,
+3
+
+Relaciona a escolha dos métodos ao objetivo do estudo
+Justificativa do uso no
+(avaliar reposição hormonal com representatividade de
+contexto (B).
+idades, otimizar logística).
+
+0,
+3
+
+Clareza e
+organização da
+resposta.
+
+0,
+1
+
+Uso de linguagem científica, respostas estruturadas e
+coesas.
+
+REFERÊNCIAS
+AKANIME, Carlos T.; YAMAMOTO, Roberto K. Estudo Dirigido de Estatística Descritiva.
+São Paulo: Editora Érica, 2013. E-book. ISBN 9788536517780. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788536517780/recent. Acesso
+em: 10 out. 2024.
+Normas de apresentação tabular:
+https://biblioteca.ibge.gov.br/visualizacao/livros/liv23907.pdf. Acesso em: 10 out.
+2024.
+Feedback:R. H.; COLLADO, C. F.; LUCIO, M.D.P. B. Metodologia de Pesquisa. 5. ed.
+SAMPIERI,
+-Porto Alegre: Penso, 2013. p. 200-201. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788565848367/recent. Acesso
+10ª QUESTÃO
+em: 10 out. 2024.
+Enunciado:
+(AFYA Garanhuns) A epidemiologia utiliza conceitos fundamentais para caracterizar
+o comportamento das doenças em diferentes populações e contextos, como surto,
+endemia, epidemia e pandemia. Esses conceitos não se limitam a definições, mas
+envolvem compreender como, quando e onde a doença ocorre, e quais fatores
+sociais, ambientais e biológicos estão relacionados à sua dinâmica. Diante disso,
+crie dois cenários originais que exemplifiquem corretamente dois desses conceitos
+epidemiológicos.
+A) Elabore um cenário de epidemia em determinada comunidade, explicando como
+o evento começou, quais fatores contribuíram para sua ocorrência e quais medidas
+foram tomadas para o controle. (0,75 ponto)
+B) Elabore um cenário de endemia nessa mesma comunidade, descrevendo as
+características da doença nesse contexto, sua persistência e os desafios enfrentados
+pelas autoridades de saúde. (0,75 ponto)
+Alternativas:
+--
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 17 de 18
+
+Resposta comentada:
+Item A – Cenário de Epidemia (0,75 ponto)
+Exemplo de resposta:
+Em uma comunidade litorânea, no início do verão, observou-se um aumento súbito e
+inesperado de casos de dengue. Nas primeiras duas semanas de janeiro, o posto de
+saúde local notificou 120 casos confirmados, número muito acima do esperado para
+o período. A investigação mostrou que as fortes chuvas e a falta de coleta adequada
+de lixo favoreceram a proliferação de criadouros do mosquito Aedes aegypti. As
+medidas de controle incluíram mutirões de eliminação de focos do vetor, aplicação
+de larvicida em áreas críticas e campanhas educativas porta a porta, o que
+contribuiu para a redução do número de casos nas semanas seguintes.
+Item B – Cenário de Endemia (0,75 ponto)
+Exemplo de resposta:
+Na mesma comunidade litorânea, observa-se há décadas a presença constante de
+esquistossomose em moradores que vivem próximos a áreas de mangue e lagoas
+utilizadas para banho e pesca. A transmissão ocorre de forma contínua devido à
+presença de caramujos hospedeiros e à falta de saneamento básico. Embora os
+casos não apresentem explosões inesperadas como nas epidemias, a doença
+persiste ano após ano, exigindo acompanhamento regular, tratamento dos
+infectados e projetos permanentes de melhoria sanitária.
+Referências:
+FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3. ed.
+Santana de Parnaíba [SP]: Manole, 2022. E-book. ISBN 9786555767711. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786555767711/. Acesso em:
+15 ago. 2025.
+GORDIS, Leon. Epidemiologia. Rio de Janeiro: Thieme Brazil, 2017. E-book. ISBN
+9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788567661926/. Acesso em: 15
+ago. 2025.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio
+de Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/recent. Acesso
+em: 15 ago. 2025.
+Feedback:
+--
+
+000173.59001a.3c4772.e4b1e3.9fa464.e85d6e.f4a903.eeca5
+
+Página 18 de 18
+
+

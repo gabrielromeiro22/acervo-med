@@ -1,0 +1,563 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina II
+Professor (es):
+Período: 202402
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_2 PERIODO_01OUTUBRO_2024.2_PROVA_MCM
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 13661 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+( AFYA IPATINGA) Você é um estudante de medicina em estágio na Unidade Básica de Saúde
+(UBS) e está atendendo uma gestante de 28 anos que apresenta sintomas de febre, dor de
+cabeça, e manchas vermelhas na pele. Ela relata que esteve em contato recente com uma
+criança que foi diagnosticada com uma infecção viral. Durante a consulta, a paciente menciona
+estar preocupada com a possibilidade de transmissão para o feto.
+Com base na situação descrita, analise as afirmativas abaixo.
+I. A porta de entrada dessa infecção para o feto seria a via gastrintestinal.
+II. A infecção pode ser transmitida verticalmente da mãe para o feto através da placenta.
+III. Trata-se de uma transmissão indireta, na qual o vírus é transmitido por meio de gotículas.
+IV. A infecção pode ser transmitida horizontalmente através de secreções respiratórias em
+gotículas.
+É correto o que se afirma em
+Alternativas:
+(alternativa A)
+III e IV, apenas.
+(alternativa B) (CORRETA)
+II e IV, apenas.
+(alternativa C)
+I e III, apenas.
+(alternativa D)
+I e II, apenas.
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 1 de 15
+
+Resposta comentada:
+Está correto o que se afirma nas asserções II e IV, apenas.
+I. A porta de entrada dessa infecção para o feto seria a via gastrintestinal (errada).
+A via gastrointestinal não é a porta de entrada correta para a infecção do feto. Em infecções virais
+com potencial para transmissão vertical (da mãe para o feto), a porta de entrada do vírus no feto
+é através da corrente sanguínea, não pelo trato gastrointestinal.
+II. A infecção pode ser transmitida verticalmente da mãe para o feto através da placenta.
+A infecção viral pode ser transmitida da mãe para o feto por via transplacentária, caracterizando
+um mecanismo de transmissão vertical. Isso é comum em várias infecções virais, como o vírus
+da rubéola e o citomegalovírus (CMV).
+III. Trata-se de uma transmissão indireta, na qual o vírus é transmitido por meio de gotículas
+(errada).
+A transmissão por gotículas é um exemplo de transmissão direta e não indireta. A transmissão
+direta ocorre quando o vírus é transmitido diretamente de uma pessoa infectada para outra
+através de gotículas respiratórias, expelidas ao falar, tossir ou espirrar.
+IV. A infecção pode ser transmitida horizontalmente através de secreções respiratórias em
+gotículas.
+A transmissão horizontal ocorre entre indivíduos de uma mesma geração, e muitas infecções
+virais são transmitidas através de secreções respiratórias em gotículas, como é o caso da gripe,
+sarampo e COVID-19.
+Referências:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Cap 11. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+Mandell, G. L., Bennett, J. E., & Dolin, R. (2020). Principles and Practice of Infectious
+Diseases. 9ª ed. Elsevier.
+Murray, P. R., Rosenthal, K. S., & Pfaller, M. A. (2020). Microbiologia Médica. 9ª ed. Elsevier.
+Feedback:
+-2ª QUESTÃO
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 2 de 15
+
+Enunciado:
+( FMIT) A figura a seguir apresenta resultados de uma pesquisa que aplicou uma escala de
+sintomas depressivos em pacientes com Parkinson (n = 30) e voluntários saudáveis (n = 30).
+
+Analise as alternativas e identifique aquela que contém a interpretação correta da figura acima.
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 3 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+O quartil 1 do grupo Pacientes com Parkinson tem valor superior ao quartil 3 do grupo Voluntários
+Saudáveis.
+(alternativa B)
+A mediana do grupo Pacientes com Parkinson tem valor superior ao limite superior do grupo
+Voluntários Saudáveis.
+(alternativa C)
+O dado de menor valor para o grupo de Pacientes com Parkinson tem valor aproximado de 4.
+(alternativa D)
+O quartil 2 do grupo Pacientes com Parkinson e o limite superior do grupo Voluntários Saudáveis
+têm valores iguais.
+
+Resposta comentada:
+Resposta Correta: “O quartil 1 do grupo Pacientes tem valor superior ao quartil 3 do grupo
+Voluntários Saudáveis.”. A afirmação está correta, porque o quartil 1 do grupo Pacientes tem valor
+aproximado de 6; o quartil 3 do grupo Voluntários Saudáveis tem valor aproximado de 5.
+Distratores:
+“A mediana do grupo Pacientes com Parkinson tem valor superior ao limite superior do grupo
+Voluntários Saudáveis.”. A afirmação está errada porque a mediana do grupo Pacientes tem valor
+próximo de 7; o limite superior do grupo Voluntários Saudáveis tem valor próximo de 8.
+“O dado de menor valor para o grupo de Pacientes com Parkinson tem valor aproximado de 4.”. A
+afirmação está errada, porque o dado de menor valor do grupo Pacientes com Parkinson é
+aproximadamente 3, ou seja, o valor do outlier.
+“O quartil 2 do grupo Pacientes com Parkinson e o limite superior do grupo Voluntários Saudáveis
+têm valores iguais.”. A afirmação está errada, porque o quartil 2 (mediana) do grupo Pacientes
+tem valor aproximado de 7; o limite superior do grupo Voluntários Saudáveis tem valor
+aproximado de 8.
+Referências
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática para as
+ciências da saúde. Rio de Janeiro: Grupo A. E-book. ISBN 9788584291007. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/. Acesso em: 09 ago. 2023.
+MOORE D, NOTZ WI, FLIGNER MA. A Estatística Básica e sua Prática. 9. ed. Rio de Janeiro:
+LTC, 2023. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521638612/.
+Acesso em: 17 maio 2024.
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 17 maio 2024.
+Feedback:
+--
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 4 de 15
+
+3ª QUESTÃO
+Enunciado:
+( UNIGRANRIO BARRA) Considere o trecho abaixo, extraído de um artigo científico que
+investigou a relação entre a qualidade do sono e fatores como o consumo de cafeína e o Índice de
+Massa Corporal (IMC):
+"O estudo foi conduzido com 220 indivíduos, utilizando o índice de qualidade do sono de
+Pittsburgh (PSQI), além de coleta de dados antropométricos e avaliação do consumo de cafeína.
+O consumo de cafeína variou de 4 mg a 425,40 mg, com uma média de 108,26 mg e desvio
+padrão de 88,91 mg. O IMC médio foi de 24,65 kg/m², com desvio padrão de 4,64 kg/m², e os
+valores variaram entre 16,4 kg/m² e 44,6 kg/m²."
+Com base nas medidas de tendência central e dispersão apresentadas, analise as seguintes
+afirmativas:
+I. A média de 108,26 mg de consumo de cafeína indica que a maioria dos indivíduos consome
+uma quantidade moderada de cafeína, o que pode ter impacto na qualidade do sono.
+II. O desvio padrão de 88,91 mg no consumo de cafeína indica uma grande variabilidade entre os
+indivíduos, com a maioria consumindo quantidades muito baixas ou muito altas.
+III. A amplitude de 28,2 kg/m² no IMC (diferença entre o valor mínimo e o máximo) reflete uma
+grande diversidade de perfis corporais na amostra, o que pode influenciar a análise da relação
+entre IMC e qualidade do sono.
+IV. A mediana do consumo de cafeína não pode ser determinada a partir dos dados fornecidos,
+mas considerando a média e o desvio padrão, é provável que a distribuição do consumo de
+cafeína seja assimétrica.
+Estão corretas somente as afirmativas
+Alternativas:
+(alternativa A)
+I e II.
+(alternativa B)
+I e IV.
+(alternativa C) (CORRETA)
+III e IV.
+(alternativa D)
+II e III.
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 5 de 15
+
+Resposta comentada:
+Estas corretas somente as afirmativas III e IV.
+I. Incorreta. A média de 108,26 mg de consumo de cafeína não permite inferir se a maioria dos
+indivíduos consome uma quantidade moderada, especialmente devido ao grande desvio padrão,
+que indica variabilidade significativa.
+II. Incorreta. Embora o desvio padrão de 88,91 mg mostre variabilidade, ele por si só não permite
+afirmar que a maioria dos indivíduos consome quantidades muito baixas ou muito altas. Para uma
+afirmação mais precisa seria necessário analisar a distribuição completa dos dados ordenados.
+III. Correta. A amplitude de 28,2 kg/m² no IMC indica uma variação significativa nos perfis
+corporais dos indivíduos, o que pode influenciar a análise das correlações entre IMC e qualidade
+do sono.
+IV. Correta. A mediana não pode ser determinada com os dados fornecidos. Além disso,
+considerando que o desvio padrão é alto em relação à média, é possível que a distribuição seja
+assimétrica, com alguns valores muito altos ou muito baixos influenciando a média.
+Referências
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática para as
+ciências da saúde. Rio de Janeiro: Grupo A. E-book. ISBN 9788584291007. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/. Acesso em: 09 ago. 2023.
+FERNANDES, Rodrigo; PEREIRA, Ana; FERNANDES, António. Consumo de cafeína, índice de
+massa corporal e qualidade do sono. Revista Científica Internacional RevSALUS, v. 5, n. 2, p.
+1-11, 2023.
+MOORE D, NOTZ WI, FLIGNER MA. A Estatística Básica e sua Prática. 9. ed. Rio de Janeiro:
+LTC, 2023. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521638612/.
+Acesso em: 17 mai. 2024.
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. 1 ed. Grupo
+GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em: 05 jun. 2024.
+Cap. 20 - Preparação de figuras (inclui gráficos)
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 17 mai. 2024.
+Feedback:
+-4ª QUESTÃO
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 6 de 15
+
+Enunciado:
+( UNITPAC) Um estudo foi realizado com o objetivo de investigar os hábitos alimentares de
+estudantes universitários de uma grande cidade. Para a coleta de dados, os pesquisadores
+selecionaram um grupo inicial de 10 alunos de uma universidade local. Esses estudantes, por sua
+vez, indicaram outros colegas que atendessem aos critérios do estudo, e o processo continuou
+até que não surgissem mais novos indicados. A coleta de dados foi encerrada quando os
+pesquisadores perceberam que os novos participantes indicados não traziam mais informações
+inéditas sobre o objeto de estudo.
+A) Identifique o tipo de amostragem utilizado neste estudo. (0,75 pontos)
+B) Descreva as características desse tipo de amostragem, justificando seu uso no contexto
+apresentado. (0,75 pontos)
+Alternativas:
+-Resposta comentada:
+Letra A (0,75 pontos):
+O tipo de amostragem utilizado neste estudo é a amostragem em bola de neve (ou snowball
+sampling).
+Letra B (0,75 pontos):
+A amostragem em bola de neve é um tipo de amostragem não probabilística, caracterizada pelo
+processo em que os participantes iniciais de um estudo indicam novos participantes, que, por sua
+vez, indicam outros, formando uma cadeia de indicações. Esse processo continua até que se
+alcance um ponto de saturação, onde as novas indicações não trazem informações novas ou
+relevantes para o estudo.
+Este tipo de amostragem é particularmente útil em situações em que os membros da populaçãoalvo são difíceis de localizar ou identificar, como grupos minoritários, populações vulneráveis, ou
+pessoas com comportamentos específicos (ex.: usuários de drogas, trabalhadores informais,
+etc.). No contexto apresentado, o uso da amostragem em bola de neve foi justificado, pois os
+hábitos alimentares de estudantes podem ser explorados a partir das redes sociais e indicações
+entre os próprios colegas, facilitando a coleta de dados em uma população que poderia ser difícil
+de acessar por meio de métodos tradicionais. Além disso, o estudo atingiu o ponto de saturação,
+no qual a coleta de novas informações deixou de ser produtiva, sugerindo que o tamanho
+amostral atingido foi adequado para os objetivos da pesquisa.
+Referências:
+MOORE D, NOTZ WI, FLIGNER MA. A Estatística Básica e sua Prática. 9. ed. Rio de Janeiro:
+LTC, 2023. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521638612/.
+Acesso em: 17 maio 2024.
+SAMPIERI, R. H.; COLLADO, C. F.; LUCIO, M.D.P. B. Metodologia de Pesquisa. 5. ed. Porto
+Alegre: Penso, 2013. 9788565848367. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788565848367/. Acesso em: 24 maio 2024.
+Feedback:
+-5ª QUESTÃO
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 7 de 15
+
+Enunciado:
+( UNIDEP) Nos anos de 2000 e 2022, o Brasil registrou significativas mudanças na taxa de
+mortalidade entre a população idosa (pessoas com 60 anos ou mais). Em 2000, foram registrados
+aproximadamente 522.000 óbitos de idosos, enquanto em 2022 o número de óbitos foi de cerca
+de 1.098.000. A população idosa no Brasil era de 14.500.000 em 2000 e aumentou para
+32.000.000 em 2022.
+Considerando as informações acima, a taxa de mortalidade (óbitos por 1.000 habitantes) no Brasil
+para 2000 e 2022, respectivamente foi de
+
+Alternativas:
+(alternativa A) (CORRETA)
+36,0 por 1.000 habitantes em 2000 e 34,3 por 1.000 habitantes em 2022.
+(alternativa B)
+37,0 por 1.000 habitantes em 2000 e 34,0 por 1.000 habitantes em 2022.
+(alternativa C)
+36,0 por 1.000 habitantes em 2000 e 35,1 por 1.000 habitantes em 2022.
+(alternativa D)
+36,0 por 1.000 habitantes em 2000 e 33,2 por 1.000 habitantes em 2022.
+
+Resposta comentada:
+Para determinar a taxa de mortalidade em ambos os anos, usamos a seguinte fórmula: Taxa de
+mortalidade é igual ao número de óbitos dividido pela população total, multiplicado por 1.000.
+Aplicando essa fórmula para cada ano:
+Para o ano 2000:
+A taxa de mortalidade em 2000 é igual ao número de óbitos (522.000) dividido pela população total
+(14.500.000), multiplicado por 1.000, resultando em 36,0 óbitos por 1.000 habitantes.
+Para o ano 2022:
+A taxa de mortalidade em 2022 é igual ao número de óbitos (1.098.000) dividido pela população
+total (32.000.000), multiplicado por 1.000, resultando em 34,3 óbitos por 1.000 habitantes.
+Portanto, a taxa de mortalidade (óbitos por 1.000 habitantes) no Brasil para 2000 e 2022,
+respectivamente foi de 36,0 por 1.000 habitantes em 2000 e 34,3 por 1.000 habitantes em 2022.
+Referências
+MARTINS, A.D.Á.B. et al. Epidemiologia. Grupo A, 2018. 9788595023154. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595023154/. Acesso em: 15 ago. 2024.
+REDE Interagencial de Informação para a Saúde (org.). Indicadores básicos para a saúde no
+Brasil: conceitos e aplicações. 2. ed. Brasília: Ripsa, 2008. 349 p. Disponível em:
+http://tabnet.datasus.gov.br/tabdata/livroidb/2ed/indicadores.pdf.
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 8 de 15
+
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+( AFYA CRUZEIRO DO SUL) De acordo com o Boletim Epidemiológico das Arboviroses número
+11, publicado em Julho de 2024 pelo Ministério da Saúde, no período entre as Semanas
+Epidemiológicas 1 e 26 de 2024 (janeiro a junho no calendário convencional), foram confirmados
+4.269 óbitos por dengue no Brasil. Destes, o maior número de óbitos ocorreu na região Sudeste
+(2.247), seguida pelas regiões Sul (1.077), Centro-Oeste (766), Nordeste (155) e Norte (24).
+Analise as afirmações abaixo sobre a informação apresentada no referido boletim epidemiológico:
+I. A letalidade para dengue no período foi maior na região Sudeste, quando comparada com as
+demais regiões.
+II. A taxa de mortalidade para dengue no período foi menor na região Sul, quando comparado com
+o Sudeste.
+III. Mesmo somando os óbitos de todas as outras regiões, o número de óbitos ainda é maior na
+região Sudeste.
+Está correto o que se afirma em
+Alternativas:
+(alternativa A)
+I, apenas.
+(alternativa B)
+II e III.
+(alternativa C)
+II, apenas.
+(alternativa D) (CORRETA)
+III, apenas.
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 9 de 15
+
+Resposta comentada:
+Os dados disponibilizados no enunciado são os números de óbitos por região, estes são dados
+brutos, baseados apenas nos registros quantitativos de óbitos do Ministério da Saúde no período
+indicado. A letalidade e a taxa de mortalidade inclui dados relativos e não brutos. Para calcular a
+letalidade precisamos dividir o números de óbitos pelo número de pessoas doentes e para
+calcular a taxa de mortalidade precisamos dividir o número de óbitos pelo número de pessoas
+expostas à doença, multiplicando o resultado por uma constante em ambos os casos, para que
+os dados sejam comparáveis entre as diferentes regiões.
+Assim, a única asserção correta é aquela que afirma que "Mesmo somando os óbitos de todas as
+outras regiões, o número de óbitos ainda é maior na região Sudeste.", já que esta é a única das
+asserções que compara os dados brutos apresentados no enunciado, ou seja, o número de
+óbitos, fazendo uso de valores absolutos.
+REFERÊNCIAS
+MARTINS, A.D.Á.B. et al. Epidemiologia. Grupo A, 2018. 9788595023154. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595023154/. Acesso em: 15 set. 2021.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 mai. 2024.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+( AFYA GARANHUNS) A epidemiologia, como ciência, tem suas raízes em estudos e
+intervenções históricas realizadas por pioneiros que enfrentaram epidemias e promoveram
+avanços no conhecimento sobre a dinâmica das doenças. Com base nessas informações,
+analise as afirmações sobre as contribuições desses epidemiologistas a seguir:
+I. John Snow é conhecido por sua investigação sobre a epidemia de cólera em Londres,
+na qual utilizou um mapa para associar os casos da doença ao consumo de água de
+uma bomba pública contaminada, estabelecendo assim a base para a epidemiologia
+moderna e a ideia de transmissão de doenças por vias hídricas.
+II. William Farr foi um dos primeiros a defender a teoria miasmática das doenças e a
+utilizar estatísticas vitais para correlacionar mortalidade com condições ambientais,
+contribuindo para a sistematização de dados epidemiológicos, embora suas
+conclusões divergissem das de John Snow sobre a cólera.
+III. Carlos Chagas descobriu a doença que leva seu nome ao identificar o ciclo completo
+de transmissão da doença de Chagas, envolvendo o vetor, o agente patogênico e o
+hospedeiro humano, o que foi crucial para o entendimento da dinâmica de doenças
+tropicais.
+IV. Oswaldo Cruz foi um dos responsáveis pela criação do Instituto Butantan, no qual ele
+realizava o tratamento de acidentes com animais peçonhentos a partir do
+desenvolvimento do soro antiofídico, revolucionando a ciência e saúde mundial.
+Com base no enunciado, estão corretas as informações sobre o histórico da epidemiologia
+apresentados nas afirmativas.
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 10 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+I, II e III.
+(alternativa B)
+I, II, III e IV.
+(alternativa C)
+I, II e IV.
+(alternativa D)
+I, III e IV.
+
+Resposta comentada:
+Está correto o que se afirma em I, II e III.
+Cada uma das afirmativas destaca contribuições importantes para o desenvolvimento da
+epidemiologia como ciência. John Snow é reconhecido por seu trabalho pioneiro na identificação
+da fonte de uma epidemia de cólera, usando análise espacial. William Farr avançou a
+epidemiologia com seu sistema de registros vitais. Carlos Chagas descobriu o ciclo completo da
+doença de Chagas. Já o desenvolvimento do soro antiofídico foi feito por Vital Brazil. Oswaldo
+Cruz foi fundamental para a saúde pública no Brasil com suas campanhas de saneamento e
+implementação de medidas de controle da febre amarela no Rio de Janeiro.
+Referências:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde - Fundamentos, Métodos e
+Aplicações. Rio de Janeiro: Grupo GEN, Cap. 2, 2011. E-book. ISBN 978-85-277-2119-6.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2119-6/. Acesso em:
+16 jul. 2024.
+Organização Pan-Americana da Saúde (OPAS). Módulos de Princípios de Epidemiologia para o
+Controle de Enfermidades. Módulo 2: Saúde e doença na população. 48p, v.7 2010. Disponível
+em: https://bvsms.saude.gov.br/bvs/publicacoes/modulo_principios_epidemiologia_2.pdf Acesso
+em 13 jul. 2024.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, Caps. 1 e 2, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 jul. 2024.
+Feedback:
+-8ª QUESTÃO
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 11 de 15
+
+Enunciado:
+( UNIPTAN) Utilize sua criatividade para desenvolver DOIS cenários fictícios que ilustram
+diferentes conceitos epidemiológicos. Certifique-se de explicar como o conceito se aplica ao
+cenário que você criou.
+a) Cenário 1: Crie um cenário que exemplifique o conceito de endemia. Explique detalhadamente
+como o evento ocorreu, as causas envolvidas, e as medidas tomadas para controlar a situação.
+Justifique por que o seu exemplo se encaixa no conceito escolhido. (0,75 pontos)
+b) Cenário 2: Crie um cenário que exemplifique o conceito de surto. Explique detalhadamente
+como o evento ocorreu, as causas envolvidas, e as medidas tomadas para controlar a situação.
+Justifique por que o seu exemplo se encaixa no conceito escolhido. (0,75 pontos)
+Alternativas:
+-Resposta comentada:
+O importante é que o aluno apresente corretamente cenários que exemplifiquem tanto uma
+situação de endemia quanto uma de surto, justificando seus exemplos. As doenças apresentadas
+não precisam ser as mesmas dos exemplos abaixo e podem ser utilizadas até mesmo situações
+fictícias (doença A, B), desde que os conceitos sejam corretamente aplicados e justifiquem o
+cenário criado.
+Exemplos de cenários e justificativas:
+a) Endemia (0,75)
+Na mesma cidade do interior, a febre amarela é uma doença endêmica. Isso significa que, ao
+longo dos anos, a doença está presente de forma constante, com um número relativamente baixo
+de casos que surgem de tempos em tempos. A febre amarela persiste na região devido à
+presença de mosquitos Aedes aegypti, que são vetores naturais do vírus. Apesar de os casos
+serem esporádicos, a comunidade local toma precauções regulares, como a vacinação anual e a
+eliminação de focos de mosquitos, para manter a doença sob controle. Este cenário exemplifica
+uma endemia, pois a febre amarela está estabelecida na região, com casos contínuos, mas
+geralmente sob controle.
+b) Surto (0,75)
+Imagine uma escola primária em uma cidade do interior que, em um curto período, registrou um
+aumento significativo de casos de gastroenterite entre seus alunos. Após uma investigação,
+descobriu-se que o surto teve início devido ao consumo de um lote de alimentos contaminados
+fornecidos pela cantina da escola. A contaminação ocorreu porque os alimentos não foram
+armazenados adequadamente, permitindo a proliferação de bactérias. As autoridades de saúde
+foram chamadas, e a cantina foi fechada temporariamente para higienização e treinamento da
+equipe sobre práticas seguras de manuseio de alimentos. Além disso, os alunos afetados foram
+tratados, e os casos começaram a diminuir logo após a intervenção. Este exemplo é
+caracterizado como um surto porque a doença se espalhou rapidamente em uma área específica
+e limitada, afetando um grande número de pessoas em um curto espaço de tempo.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+Feedback:
+-000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 12 de 15
+
+9ª QUESTÃO
+Enunciado:
+(UNIGRANRIO CAXIAS) Um grupo de pesquisa foi contratado para realizar aplicação de um
+questionário nos moradores do município Bem Querer situado no estado do Rio de Janeiro, cujo
+objetivo seria saber o grau de satisfação em relação à coleta de lixo domiciliar realizada pela
+prefeitura local. O intuito é generalizar os resultados para todos os moradores do município. Como
+o município possui mais de 500 mil habitantes, os pesquisadores decidiram selecionar uma
+amostra dos residentes para participarem da pesquisa.
+I - Foi utilizada uma amostragem estratificada, onde os moradores foram divididos em grupos
+homogêneos com base nos bairros do município e uma amostra aleatória foi retirada de cada
+grupo.
+PORQUE
+II - Esse tipo de amostragem foi escolhido porque permite que todas as subpopulações (neste
+caso, moradores de diferentes bairros) sejam representadas de forma proporcional na amostra
+final, aumentando a representatividade da amostra.
+A respeito dessas asserções, assinale a opção correta.
+Alternativas:
+(alternativa A)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+(alternativa B) (CORRETA)
+As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+(alternativa C)
+A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+(alternativa D)
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 13 de 15
+
+Resposta comentada:
+As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+Trata-se de uma amostragem estratificada. De acordo com Sampieri et al. (2013), a
+amostragem estratificada é utilizada quando a população é subdividida em grupos homogêneos
+chamados estratos com base em uma ou mais características relevantes (por exemplo, idade,
+sexo, bairros, classes sociais). Em seguida, uma amostra aleatória é selecionada de cada
+estrato. Esse método é empregado quando o pesquisador deseja garantir que todas as
+subpopulações sejam representadas na amostra de forma proporcional.
+Na amostragem por conglomerado, a população é dividida em grupos heterogêneos chamados
+conglomerados (ou clusters), que são internamente similares à população em geral, mas o
+pesquisador não seleciona indivíduos diretamente de cada grupo. Em vez disso, seleciona-se
+conglomerados inteiros de forma aleatória para serem incluídos no estudo, e os dados são
+coletados de todos os membros dos conglomerados selecionados ou de uma amostra dentro dos
+conglomerados.
+Referências
+SAMPIERI, R. H.; COLLADO, C. F.; LUCIO, M.D.P. B. Metodologia de Pesquisa. 5. ed. Porto
+Alegre: Penso, 2013. 9788565848367. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788565848367/. Acesso em: 24 maio 2024.
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+( AFYA MANACAPURU) Durante o acompanhamento de um atendimento clínico, um estudante
+de medicina se depara com um paciente que apresenta sintomas de febre alta, dores musculares
+e tosse. O paciente menciona que recentemente teve contato com uma pessoa que estava
+gripada.
+Considerando a classificação da condição apresentada pelo paciente, identifique a alternativa que
+descreve corretamente a categorização da situação.
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 14 de 15
+
+Alternativas:
+(alternativa A)
+Doença crônica não transmissível - doença caracterizada por etiologia múltipla, longo período de
+latência, curso prolongado e origem não infecciosa.
+(alternativa B)
+Doença transmissível indireta - doença que se transmite por meio de vetores, objetos ou
+alimentos contaminados.
+(alternativa C)
+Doença não transmissível - doença que não pode ser transmitida de uma pessoa para outra,
+sendo causada por fatores como genética, estilo de vida ou ambiente.
+(alternativa D) (CORRETA)
+Doença transmissível direta - doença que se transmite diretamente de uma pessoa infectada para
+outra, sem a necessidade de intermediários.
+
+Resposta comentada:
+REPOSTA CORRETA: Doença transmissível direta - doença que se transmite diretamente de
+uma pessoa infectada para outra, sem a necessidade de intermediários.
+RESPOSTA COMENTADA: Trata-se de doença infecciosa de transmissão direta, também
+chamada, no caso da gripe, de doença contagiosa. Toda doença infecciosa é transmissível, no
+entanto, pode ser ou não contagiosa. O tétano, por exemplo, é uma doença infecciosa não
+contagiosa (transmissão indireta), porque não se transmite diretamente de pessoa a pessoa, mas
+é transmissível porque os esporos dispersos no meio ambiente podem ser transmitidos às
+pessoas sadias através de solução de continuidade de pele ou mucosa (Rouquayrol et al., 2017,
+p. 188). A expressão doença transmissível é termo técnico de uso generalizado e definido pela
+OPAS como qualquer doença causada por um agente infeccioso específico, ou seus produtos
+tóxicos, que se manifesta pela transmissão desse agente ou de seus produtos, de uma pessoa
+ou animal infectados ou de um reservatório a um hospedeiro suscetível, direta ou indiretamente,
+por meio de um hospedeiro intermediário, de natureza vegetal ou animal, de um vetor ou do meio
+ambiente inanimado (Rouquayrol et al., 2017, p.188).
+Referências
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. Cap 11 e 14. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+Feedback:
+--
+
+000136.610019.98e1c5.6fcb97.50a67d.f4bcbe.8659e3.9acf8
+
+Pgina 15 de 15
+
+

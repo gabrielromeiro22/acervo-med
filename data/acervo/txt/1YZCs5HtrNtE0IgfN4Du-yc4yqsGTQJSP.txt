@@ -1,0 +1,561 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade VII
+Professor (es):
+Período: 202402
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_7 PERIODO_26 SETEMBRO_2024.2_PROVA_IESC
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 13649 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(UNIPTAN) Um homem de 45 anos, casado, procura a unidade de saúde queixando-se de fadiga,
+mal-estar e dor abdominal no quadrante superior direito há duas semanas. Ele nega icterícia, mas
+relata que sua urina está mais escura. Ao ser questionado, menciona que fez uma viagem
+recente ao interior do Nordeste, onde consumiu água de poço. Ele nega uso de drogas injetáveis e
+de álcool, mas admite múltiplos parceiros sexuais nos últimos anos. Exames laboratoriais
+revelam elevação moderada das transaminases hepáticas. Os resultados dos exames
+sorológicos são os seguintes:
+HBsAg: não reagente
+Anti-HBc total: reagente
+Anti-HBc IgM: não reagente
+Anti-HBs: reagente
+Anti-HAV IgM: reagente
+Anti-HCV: não reagente
+Analise as afirmativas:
+I. O resultado sorológico é compatível com hepatite A aguda.
+II. O paciente não teve contato prévio com o vírus da hepatite B e está imunizado.
+III. A ausência do Anti-HCV sugere que o paciente nunca teve contato com o vírus da hepatite C.
+IV. O tratamento da hepatite A é sintomático e não envolve antivirais específicos.
+V. O quadro clínico do paciente é indicativo de hepatite crônica.
+Sobre o caso clínico e os resultados sorológicos, é correto o que se afirma em
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 1 de 16
+
+Alternativas:
+(alternativa A)
+II, III e V, apenas.
+(alternativa B)
+II, IV e V, apenas.
+(alternativa C)
+I, II e IV, apenas.
+(alternativa D) (CORRETA)
+I, III e IV, apenas.
+
+Resposta comentada:
+Explicação:
+Afirmativa I: Correta. O Anti-HAV IgM reagente indica infecção aguda pelo vírus da
+hepatite A.
+Afirmativa II: Incorreta. O Anti-HBc total reagente e o Anti-HBs reagente sugerem
+imunidade contra o vírus da hepatite B por infecção passada.
+Afirmativa III: Correta. A ausência de Anti-HCV sugere que o paciente não teve
+contato prévio com o vírus da hepatite C.
+Afirmativa IV: Correta. O manejo da hepatite A é sintomático, sem necessidade de
+antivirais específicos.
+Afirmativa V: Incorreta. O quadro clínico descrito é sugestivo de hepatite aguda, não
+crônica.
+Referência:
+BRASIL. Protocolo Clínico e Diretrizes Terapêuticas para Hepatites Virais. Ministério da
+Saúde, 2022.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) Um médico da Atenção Primária à Saúde (APS) atende um paciente de 32
+anos que realizou teste rápido para HIV em uma campanha de saúde, cujo resultado foi positivo.
+O paciente está assintomático e procura confirmação diagnóstica e orientações sobre o próximo
+passo.
+Com base nas diretrizes atuais para esta doença, qual a abordagem recomendada para este
+paciente no âmbito da APS?
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 2 de 16
+
+Alternativas:
+(alternativa A)
+Encaminhar o paciente para um centro especializado em HIV/AIDS sem realizar nenhum outro
+teste.
+
+(alternativa B)
+Solicitar imediatamente a contagem de CD4+ e carga viral de HIV para confirmar o diagnóstico e,
+se confirmado, iniciar o tratamento antirretroviral.
+
+(alternativa C) (CORRETA)
+Realizar aconselhamento, solicitar a repetição do teste confirmatório para HIV e, se confirmado,
+iniciar o acompanhamento e tratamento conforme as diretrizes do Ministério da Saúde.
+(alternativa D)
+Informar ao paciente que os testes rápidos são frequentemente falsos positivos e dispensá-lo
+sem nenhum encaminhamento adicional.
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 3 de 16
+
+Resposta comentada:
+- CORRETA - Realizar aconselhamento, solicitar a repetição do teste confirmatório para HIV e, se
+confirmado, iniciar o acompanhamento e tratamento conforme as diretrizes do Ministério da
+Saúde. Pois traz a reflexão da abordagem recomendada para casos suspeitos ou confirmados de
+infecção por HIV no âmbito da Atenção Primária à Saúde (APS). Vejamos o porquê:
+- Aconselhamento pré e pós-teste é essencial em qualquer teste de HIV, proporcionando suporte
+emocional e informações adequadas ao paciente, independentemente do resultado.
+- A confirmação do diagnóstico de HIV não se baseia em um único teste. Após um resultado
+positivo em teste rápido, é necessário realizar um teste confirmatório, como o Western blot ou um
+teste de carga viral de HIV, conforme as diretrizes do Ministério da Saúde.
+- Uma vez confirmado o diagnóstico, o paciente deve ser acompanhado na APS e iniciar o
+tratamento antirretroviral (TARV) o mais breve possível, independentemente da contagem de
+CD4+ ou presença de sintomas, seguindo a estratégia de "tratar todos".
+
+As demais alternativas apresentam falhas significativas em relação às práticas recomendadas:
+- O encaminhamento sem testes adicionais pode atrasar o início do tratamento.
+- Solicitar CD4+ e carga viral imediatamente não menciona a necessidade de um teste
+confirmatório antes desses exames.
+- Desconsiderar o teste rápido subestima a eficácia dos testes rápidos, que são uma ferramenta
+valiosa na detecção precoce do HIV.
+Referências:
+Brasil. Secretaria de Vigilância em Saúde, Departamento de Doenças de Condições Crônicas e
+Infecções Sexualmente Transmissíveis. – Brasília: Ministério da Saúde, 2022. p.165
+DUCAN, B, B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022. (Cap. 156).
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(ITPAC PORTO NACIONAL) Paciente 48 anos, casado, trabalhador polivalente, procura a
+unidade de saúde da atenção básica com queixa de lesões genitais e relata ter tido múltiplos
+parceiros sexuais nos últimos meses. Suspeita-se de sífilis. Como aluno de medicina em estágio
+na unidade, indique:
+a) Quais exames você solicitará para confirmar o diagnóstico de sífilis?
+b) Qual é o tratamento adequado para esse paciente, se o diagnóstico de sífilis for confirmado?
+Alternativas:
+--
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 4 de 16
+
+Resposta comentada:
+a) Para confirmar o diagnóstico de sífilis, eu solicitaria os seguintes exames:
+1. Teste Rápido de Treponema pallidum (TR-Tp):Este teste é usado para detectar a presença de
+anticorpos contra o Treponema pallidum, o agente causador da sífilis. Ele fornece resultados
+rápidos, geralmente em 15-20 minutos, e pode ser realizado no local de atendimento.
+2. VDRL (Venereal Disease Research Laboratory): O VDRL é um teste sorológico não
+treponêmico que detecta a presença de anticorpos não específicos produzidos em resposta à
+infecção pelo Treponema pallidum. No entanto, é importante notar que resultados falso-positivos
+podem ocorrer, especialmente em estágios iniciais da sífilis.
+b) Se o diagnóstico de sífilis for confirmado, o tratamento adequado para esse paciente seria:
+Tratamento Primário:
+- Benzatina benzilpenicilina G 2,4 milhões de unidades IM em dose única para casos de sífilis
+recente ou de curta duração (sífilis primária, secundária ou latente precoce).
+- Para pacientes alérgicos à penicilina, pode-se prescrever doxiciclina, tetraciclina ou ceftriaxona,
+conforme orientação médica.
+Tratamento Secundário (se a sífilis não tiver respondido ao tratamento primário ou se houver sífilis
+latente de longa duração):
+- Benzatina benzilpenicilina G 2,4 milhões de unidades IM por semana durante 3 semanas.
+Tratamento Terciário (sífilis tardia ou latente de longa duração com envolvimento sistêmico):
+- Benzatina benzilpenicilina G 2,4 milhões de unidades IM por semana durante 3 semanas,
+seguido de mais 3 doses semanais.
+É importante ressaltar que todos os parceiros sexuais do paciente devem ser notificados,
+testados e tratados, conforme necessário, para interromper a cadeia de transmissão da doença.
+Além disso, o paciente deve receber aconselhamento sobre práticas sexuais seguras e
+prevenção de ISTs.
+Referências:
+Gusso, Gustavo et al. (org). Tratado de medicina de família e comunidade: princípios, formação e
+prática, volume 2 Porto Alegre: Artmed, 2018.
+
+Feedback:
+-4ª QUESTÃO
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 5 de 16
+
+Enunciado:
+(FESAR) João de 35 anos, sem comorbidades conhecidas, procura a Unidade Básica de Saúde
+(UBS) relatando fadiga, perda de apetite, dor abdominal no quadrante superior direito e icterícia de
+início recente. Nos exames laboratoriais, observa-se elevação das transaminases (ALT e AST),
+bilirrubina total elevada à custa de bilirrubina direta, e a e resultado do exame HBsAg positivo. O
+paciente relata que trabalha como tatuador e que recentemente teve uma viagem ao exterior onde
+consumiu alimentos de origem duvidosa.
+Com base no caso clínico descrito, analise as afirmativas a seguir e assinale a correta:
+I. A elevação das transaminases e o HBsAg positivo indicam hepatite A aguda.
+II. A principal forma de transmissão da hepatite contraída por João é por contato com sangue ou
+fluidos corporais.
+III. A conduta médica da hepatite contraída por João deve incluir notificação compulsória,
+orientação sobre a transmissão, e acompanhamento ambulatorial.
+
+Alternativas:
+(alternativa A)
+As afirmativas corretas são I e III.
+(alternativa B) (CORRETA)
+As afirmativas corretas são II e III.
+(alternativa C)
+As afirmativas corretas são I e II.
+(alternativa D)
+As afirmativas corretas são I, II e III.
+
+Resposta comentada:
+A elevação das transaminases e o HBsAg positivo indicam hepatite B aguda, transmitida
+principalmente por contato com sangue ou fluidos corporais. A conduta inclui notificação
+compulsória, orientação sobre a transmissão, e acompanhamento ambulatorial.
+Referência:
+DUCAN, B, B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022. (Cap. 157).
+Feedback:
+-5ª QUESTÃO
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 6 de 16
+
+Enunciado:
+(UNIPTAN) Uma mulher de 60 anos, hipertensa e diabética, é trazida à Unidade Básica de Saúde
+(UBS) por familiares após apresentar súbita perda de consciência enquanto estava em casa. Ao
+chegar à UBS, a paciente está inconsciente, sem respiração espontânea e sem pulso palpável.
+Os familiares relatam que ela havia se queixado de dor no peito momentos antes de desmaiar. O
+desfibrilador externo automático (DEA) está disponível na UBS.
+a) Indique os próximos passos do Suporte Básico de Vida (SBV) que devam ser realizados para
+atender a paciente conforme o protocolo atual de reanimação cardiopulmonar (RCP) em ambiente
+de Atenção Primária à Saúde. (0,75)
+b) Identifique quatros dos erros mais frequentemente cometidos durante encaminhamento para
+serviço especializado. (0,75)
+Alternativas:
+--
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 7 de 16
+
+Resposta comentada:
+a)
+- Iniciar compressões torácicas de alta qualidade, com profundidade de 5-6 cm, à frequência de
+100-120 compressões por minuto, 30 compressões/2 ventilações, permitindo o retorno total do
+tórax;
+- Garantir que o DEA esteja disponível e pronto para uso, realizando a desfibrilação assim que o
+dispositivo indicar.
+- Caso a paciente não recupere o pulso após a desfibrilação, a RCP deve ser retomada
+imediatamente e continuada até a chegada do suporte avançado.
+b) Erros mais frequentemente cometidos: (o aluno deve indicar quatro)
+►Referenciar a pessoa ao pronto-socorro sem avaliá-la.
+►Esquecer-se de utilizar os equipamentos de proteção individual (EPIs).
+►Colocar a equipe em risco no local de atendimento.
+►Menosprezar ou supradimensionar a queixa da pessoa (percepção situacional).
+►Fazer o diagnóstico de exclusão antes de investigar a pessoa, como, por exemplo, diagnosticar
+o distúrbio neurovegetativo como primeira hipótese sem avaliação criteriosa.
+►Solicitar exames em excesso, sem nenhuma ação com os resultados alterados.
+►Não examinar a pessoa com queixa recorrente ou com aparência saudável.
+►Associar medicamentos a possíveis efeitos adversos sinérgicos.
+►Administrar medicação com diluições erradas.
+Referências:
+GUSSO, G, et al. Tratado de medicina de família e comunidade - 2 volumes: princípios, formação
+e prática. Disponível em: Minha Biblioteca, (2nd edição). Grupo A, 2019. (Cap. 250) Emergência
+pré- hospitalar.
+AMERICAN HEART ASSOCIATION. **2020 American Heart Association Guidelines for
+Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.** Circulation, 2020.
+Disponível em: <https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines>. Acesso
+em: 24 ago. 2024.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(UNIREDENTOR) Uma paciente de 22 anos, sexualmente ativa, procura atendimento com
+queixas de corrimento vaginal amarelado e dispareunia. Ao exame ginecológico, observa-se
+corrimento mucopurulento na região do colo do útero e sinais de inflamação. A paciente relata uso
+irregular de preservativos e múltiplos parceiros nos últimos meses. Sabendo que os principais
+agentes etiológicos da cervicite mucopurulenta são Chlamydia trachomatis e Neisseria
+gonorrhoeae, e considerando os fatores de risco associados, qual é a conduta mais apropriada
+para o diagnóstico e tratamento desta condição?
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 8 de 16
+
+Alternativas:
+(alternativa A)
+Coleta de swab vaginal para identificar Trichomonas vaginalis e tratamento com tinidazol.
+(alternativa B) (CORRETA)
+Realização de testes laboratoriais para Chlamydia trachomatis e Neisseria gonorrhoeae e
+tratamento empírico com azitromicina e ceftriaxona.
+(alternativa C)
+Prescrição de metronidazol para tratar possível vaginose bacteriana e solicitar testes de triagem
+para HIV.
+(alternativa D)
+Tratamento empírico com aciclovir e coleta de material para PCR de vírus Herpes simplex (HSV2).
+
+Resposta comentada:
+Correta - Realização de testes laboratoriais para Chlamydia trachomatis e Neisseria gonorrhoeae
+e tratamento empírico com azitromicina e ceftriaxona.
+Errada - Prescrição de metronidazol para tratar possível vaginose bacteriana e solicitar testes de
+triagem para HIV. pois o quadro clínico não condiz com vaginose e na vaginose não há
+necessidade de testar HIV.
+Errada - Tratamento empírico com aciclovir e coleta de material para PCR de vírus Herpes
+simplex (HSV-2), pois não há quadro de úlceras ou lesões herpéticas.
+Errada - Coleta de swab vaginal para identificar Trichomonas vaginalis e tratamento com tinidazol.
+pois além de não se pensar em trichomknas por não ter uretrite o tratamento pra mesma não é
+com tinidazol.
+Referência:
+GUSSO, G, et al. Tratado de medicina de família e comunidade - 2 volumes: princípios, formação
+e prática. Disponível em: Minha Biblioteca, (2nd edição). Grupo A, 2019.
+Brasil. Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Doenças de
+Condições Crônicas e Infecções Sexualmente Transmissíveis. Protocolo Clínico e Diretrizes
+Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis –
+IST [recurso eletrônico] / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento
+de Doenças de Condições Crônicas e Infecções Sexualmente Transmissíveis. – Brasília:
+Ministério da Saúde, 2022. 211 p. : il.
+Feedback:
+-7ª QUESTÃO
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 9 de 16
+
+Enunciado:
+(UNIPTAN) Um homem, de 32 anos, trabalhador autônomo, procura atendimento na unidade de
+saúde relatando uso diário de cocaína há dois anos, além de consumo ocasional de álcool. Ele
+relata que o uso da droga se intensificou após o término de um relacionamento. O paciente
+apresenta dificuldade para dormir, ansiedade constante e já perdeu contratos de trabalho devido
+ao uso de cocaína. O exame físico revela sinais de magreza, mas sem outras alterações
+significativas. O paciente reconhece o problema e demonstra interesse em parar de usar a droga,
+mas teme não conseguir sozinho.
+Analise as seguintes afirmativas.
+I. A primeira abordagem no manejo deve incluir uma intervenção breve motivacional, visando
+aumentar o engajamento do paciente no tratamento.
+II. É fundamental encaminhar o paciente para um serviço de reabilitação especializado,
+interrompendo qualquer acompanhamento na atenção primária.
+III. O acompanhamento contínuo na atenção primária é crucial, incluindo suporte psicossocial e
+monitoramento do progresso.
+IV. O uso de medicamentos para tratar a dependência é altamente efetivo e deve ser a primeira
+intervenção a ser tomada.
+V. Abordagens que envolvem a família e o ambiente social do paciente podem ser benéficas,
+auxiliando na adesão ao tratamento.
+Sobre o manejo e prevenção da dependência de psicoativos no âmbito da Atenção Primária à
+Saúde (APS), é correto o que se afirma em
+
+Alternativas:
+(alternativa A)
+I, II e IV, apenas.
+(alternativa B)
+II, IV e V, apenas.
+(alternativa C) (CORRETA)
+I, III e V, apenas.
+(alternativa D)
+I, II e III, apenas.
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 10 de 16
+
+Resposta comentada:
+Resposta correta:
+B. Apenas I, III e V estão corretas.
+Explicação:
+Afirmativa I: Correta. Intervenções breves motivacionais são eficazes em aumentar o
+engajamento do paciente no tratamento.
+Afirmativa II: Incorreta. Embora o encaminhamento para um serviço especializado
+possa ser necessário, o acompanhamento na atenção primária não deve ser
+interrompido.
+Afirmativa III: Correta. O acompanhamento contínuo na APS é essencial para
+monitorar e apoiar o paciente durante o tratamento.
+Afirmativa IV: Incorreta. O uso de medicamentos deve ser avaliado cuidadosamente e
+é indicado em casos específicos.
+Afirmativa V: Correta. A inclusão da família e do ambiente social é benéfica no
+tratamento e na prevenção de recaídas.
+Referência:
+BRASIL. Protocolo Clínico e Diretrizes Terapêuticas - Manejo do Uso de Álcool e Outras
+Drogas. Ministério da Saúde, 2020.
+
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(UNIPTAN) Um paciente de 45 anos, sexo masculino, procura a unidade de atenção primária
+com queixa de tosse persistente há três semanas, acompanhada de febre baixa vespertina,
+sudorese noturna e perda de peso de 4 kg no último mês. Ele relata também cansaço fácil e
+inapetência. O paciente é pedreiro e mora em uma área de alta prevalência de tuberculose. Não
+apresenta comorbidades conhecidas e não faz uso de medicações. Ao exame físico, o paciente
+está emagrecido, com frequência respiratória de 22 incursões por minuto, ausculta pulmonar com
+roncos esparsos e crepitações em bases pulmonares, sem outras alterações.
+Indique a conduta mais adequada na atenção primária para o diagnóstico e tratamento deste
+paciente.
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 11 de 16
+
+Alternativas:
+(alternativa A)
+Encaminhar o paciente imediatamente para atendimento em um hospital de referência para
+investigação e tratamento de tuberculose.
+(alternativa B) (CORRETA)
+Solicitar baciloscopia de escarro e radiografia de tórax, e iniciar tratamento para tuberculose se os
+resultados forem positivos.
+(alternativa C)
+Solicitar sorologia para HIV e iniciar tratamento empírico para tuberculose baseado nos sintomas
+e na epidemiologia local.
+(alternativa D)
+Iniciar tratamento empírico para pneumonia bacteriana com antibióticos de largo espectro e
+reavaliar em uma semana.
+
+Resposta comentada:
+Diante de um quadro clínico sugestivo de tuberculose pulmonar, a conduta inicial na atenção
+primária deve incluir a solicitação de baciloscopia de escarro e radiografia de tórax, exames
+fundamentais para o diagnóstico. A confirmação diagnóstica por meio desses exames é crucial
+antes de iniciar o tratamento específico para tuberculose, o que deve ser feito se os resultados
+forem positivos.
+Justificativa das outras alternativas:
+O tratamento empírico para pneumonia bacteriana não é adequado sem a exclusão de
+tuberculose, dada a apresentação clínica e o contexto epidemiológico.
+Embora a sorologia para HIV seja relevante em casos de tuberculose, o diagnóstico da
+tuberculose deve ser confirmado antes do início do tratamento específico.
+O encaminhamento para hospital de referência sem a realização inicial de exames diagnósticos
+na APS não é necessário, pois a maioria dos casos pode ser investigada e tratada no nível
+primário.
+Referência:
+MINISTÉRIO DA SAÚDE. Manual de Recomendações para o Controle da Tuberculose no Brasil.
+2. ed. Brasília: Ministério da Saúde, 2019.
+Feedback:
+-9ª QUESTÃO
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 12 de 16
+
+Enunciado:
+(UNISL - PORTO VELHO) Abaixo estão descrições de quatro casos de urgência/emergência na
+APS. Identifique qual dos pacientes apresenta uma situação de urgência/emergência que requer
+encaminhamento imediato para um atendimento especializado.
+Situações Clínicas:
+1. Paciente A: Um homem de 40 anos apresenta dor abdominal difusa, febre baixa
+(38°C) e náuseas que começaram há 24 horas. Ele relata que a dor tem piorado
+gradualmente e que tem dificuldade para se alimentar. Os sinais vitais estão estáveis, e
+ele tem pressão arterial de 120/80 mmHg e frequência cardíaca de 90 bpm.
+2. Paciente B: Uma mulher de 55 anos chega com dor no peito que começou há cerca de
+1 hora. A dor é opressiva, irradiando para o braço esquerdo e mandíbula. Ela está
+pálida, com sudorese intensa e apresenta frequência cardíaca de 110 bpm, pressão
+arterial de 170/100 mmHg e saturação de oxigênio de 92% em ar ambiente.
+3. Paciente C: Um jovem de 17 anos apresenta tosse persistente e febre de 38°C, com
+histórico recente de infecção respiratória. No exame físico, há estertores crepitantes
+em ambos os pulmões e a frequência respiratória está aumentada, com uma saturação
+de oxigênio de 95% em ar ambiente. Não apresenta dispneia.
+4. Paciente D: Uma jovem de 25 anos queixando-se de dor lombar há 2 dias com disúria.
+Ela apresenta dor aguda na região lombar, principalmente ao urinar. Os sinais vitais
+estão normais e não apresenta febre.
+Qual dos pacientes apresenta uma situação de urgência/emergência que exige encaminhamento
+imediato para um atendimento especializado?
+Alternativas:
+(alternativa A)
+Paciente C.
+
+(alternativa B)
+Paciente D.
+(alternativa C) (CORRETA)
+Paciente B.
+
+(alternativa D)
+Paciente A.
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 13 de 16
+
+Resposta comentada:
+Resposta Correta:
+Paciente B - Dor torácica opressiva irradiada para o braço esquerdo e mandíbula, com sinais de
+hipoxemia e hipertensão.
+Justificativas:
+- O paciente A apresenta dor abdominal e febre baixa, que são sintomas que podem indicar uma
+condição abdominal aguda, como apendicite ou gastroenterite. Embora desconfortável, não é
+necessariamente uma emergência que requer encaminhamento imediato.
+- O paciente B apresenta sintomas clássicos de Infarto Agudo do Miocárdio (IAM), incluindo dor
+torácica opressiva irradiada, sudorese intensa, hipertensão e hipoxemia. Esses sinais são
+indicativos de uma emergência cardíaca que exige encaminhamento imediato para uma unidade
+de emergência.
+- O paciente C tem sintomas de infecção respiratória com febre e tosse, mas a saturação de
+oxigênio está dentro dos limites normais (95%).
+- O paciente D tem dor lombar, mas não apresenta sinais de instabilidade hemodinâmica que
+indiquem a necessidade de encaminhamento imediato.
+Referências:
+DUCAN, B, B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022. (Cap. 16).
+GUSSO, G, et al. Tratado de medicina de família e comunidade - 2 volumes: princípios, formação
+e prática. Disponível em: Minha Biblioteca, (2nd edição). Grupo A, 2019. (Cap. 48 e 49).
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Um paciente de 30 anos comparece à Unidade Básica de Saúde (UBS) com
+queixas de manchas na pele que começaram a aparecer há cerca de 6 meses. Ele relata que as
+manchas são hipopigmentadas e não apresentam sensação tátil, como se estivessem
+entorpecidas. O exame físico revela lesões cutâneas com áreas de hipopigmentação e perda de
+sensibilidade, bem como engrossamento dos nervos periféricos visíveis. Qual a conduta
+adequada para diagnóstico e tratamento deste paciente com base na suspeita de hanseníase?
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 14 de 16
+
+Alternativas:
+(alternativa A)
+Encaminhar o paciente para avaliação dermatológica e realizar um teste de sensibilidade das
+lesões.
+(alternativa B)
+Realizar uma biópsia de pele das lesões para confirmação do diagnóstico e iniciar tratamento
+com Rifampicina e Dapsona.
+(alternativa C)
+Solicitar exames laboratoriais para exclusão de outras doenças infecciosas e iniciar tratamento
+com antibióticos de amplo espectro.
+(alternativa D) (CORRETA)
+Solicitar um exame de baciloscopia das lesões cutâneas e iniciar tratamento com Rifampicina e
+Dapsona e Clofazimina.
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 15 de 16
+
+Resposta comentada:
+- Realizar uma biópsia de pele das lesões e iniciar tratamento com Rifampicina e Dapsona.
+Justificativa: A biópsia de pele pode ajudar no diagnóstico, mas a baciloscopia é o exame mais
+específico para hanseníase. Iniciar tratamento antes da confirmação pode ser prematuro.
+Rifampicina e Dapsona são medicamentos apropriados para o tratamento de hanseníase, mas
+devem ser administrados após confirmação diagnóstica.
+- Solicitar exames laboratoriais para exclusão de outras doenças infecciosas e iniciar tratamento
+com antibióticos de amplo espectro.
+Justificativa: Embora a exclusão de outras doenças seja importante, iniciar antibióticos de amplo
+espectro não é o tratamento apropriado para hanseníase. A hanseníase requer tratamento
+específico, e a baciloscopia é crucial para o diagnóstico.
+- Encaminhar o paciente para avaliação dermatológica e realizar um teste de sensibilidade das
+lesões.
+Justificativa: Encaminhar para avaliação dermatológica pode ser útil, mas o teste de sensibilidade
+não confirma o diagnóstico de hanseníase. A baciloscopia é o exame diagnóstico padrão para a
+hanseníase.
+- Solicitar um exame de baciloscopia das lesões cutâneas e iniciar tratamento com Rifampicina e
+Dapsona.
+Justificativa: A baciloscopia das lesões cutâneas é o método diagnóstico padrão para hanseníase,
+permitindo a visualização de bacilos de Mycobacterium leprae. Rifampicina, Clofazimina e
+Dapsona são os medicamentos recomendados para o tratamento de hanseníase.
+Referências:
+DUCAN, B, B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022. (Cap. 165).
+BRASIL. Ministério da Saúde. Guia de Vigilância em Saúde. Hanseníase. Brasília: Ministério da
+Saúde; 2019. Available at: Guia de Vigilância em Saúde.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde, Departamento de Doenças de
+Condições Crônicas e Infecções Sexualmente Transmissíveis. Protocolo Clínico e Diretrizes
+Terapêuticas da Hanseníase [recurso eletrônico] / Ministério da Saúde, Secretaria de Ciência,
+Tecnologia, Inovação e Insumos Estratégicos em Saúde, Secretaria de Vigilância em Saúde. –
+Brasília : Ministério da Saúde, 2022.
+Feedback:
+--
+
+000136.49001b.174d4e.3df40f.ee4b1e.273fbe.471628.2bf41
+
+Pgina 16 de 16
+
+

@@ -1,0 +1,111 @@
+DEVOLUTIVA DOS RECURSOS
+N1 Específica 2025.1
+Aluno(a),
+A etapa de recursos da N1 Específica visa assegurar a isonomia e a qualidade das
+avaliações aplicadas. Assim, encorajamos todos os alunos a utilizarem esse mecanismo
+de forma responsável e construtiva.
+Após a interposição dos recursos, a Comissão Local de sua IES revisa as solicitações
+de forma imparcial e objetiva, definindo quais recursos seguirão para a segunda etapa,
+que é a análise feita pela Comissão Nacional de professores especialistas das unidades
+Afya.
+Na etapa inicial, são deferidos ou indeferidos os recursos, com base nas normas
+previamente compartilhadas. Sendo elas:
+•
+•
+•
+•
+•
+
+O recurso interposto deve conter argumentação lógica e consistente sobre o
+gabarito da questão.
+O recurso com dados incompletos e sem justificativa consistente e
+fundamentada será automaticamente indeferido.
+O recurso deve ser de autoria própria. Recursos que apresentem redação e/ou
+trechos iguais aos de outros alunos serão automaticamente indeferidos.
+Recursos que apresentem cópia do enunciado da questão ou das alternativas
+serão automaticamente indeferidos.
+As referências que embasaram o recurso devem estar obrigatoriamente
+conforme normas ABNT/Vancouver.
+
+Para aqueles recursos interpostos dentro das normas acima estabelecidas, estes foram
+analisados, e o parecer final foi registrado neste caderno de recursos.
+Importante: A divulgação do caderno de recursos finaliza a etapa de contestação, não
+sendo possível a reabertura de novos recursos.
+
+Diretoria de Ensino
+
+PARECER
+QUESTÃO 10: CADERNO 01
+QUESTÃO 09: CADERNO 02
+QUESTÃO 15: CADERNO 03
+QUESTÃO 08: CADERNO 04
+EIXO: SOI 1° PERÍODO PARECER: ANULAR
+EMBASAMENTO TEÓRICO:
+I. DA INCORREÇÃO DA ALTERNATIVA CONSIDERADA CORRETA A alternativa
+
+que a banca presumivelmente considerou correta foi a letra C, que afirma: "O
+potencial de ação de resposta rápida é observado no nodo atrioventricular e
+miocárdio ventricular, com rápida despolarização e rápida repolarização, enquanto o
+de resposta lenta ocorre no nodo sinoatrial e é caracterizado por despolarização
+gradual e repolarização mais lenta." Essa afirmação é incorreta em vários aspectos
+fundamentais. O erro mais grave está na atribuição do potencial de ação de resposta
+rápida ao nodo atrioventricular (NAV). De acordo com Guyton e Hall, tanto o nodo
+sinoatrial (NSA) quanto o nodo atrioventricular (NAV) são compostos por células
+marcapasso, cuja principal característica é a despolarização espontânea e gradual,
+sem a necessidade de estímulo externo. Isso se deve à presença dos canais funny
+(If), que promovem um influxo gradual de íons positivos durante a fase 4,
+caracterizando o potencial de ação lento. Além disso, o NAV não exerce função
+contrátil e não participa da ejeção do sangue, razão pela qual não apresenta potencial
+de ação com fase 4 estável ou fase 2 (platô), que é típica de cardiomiócitos. Portanto,
+não poderia ter um potencial de resposta rápida, que é exclusivo das fibras
+musculares contráteis, como as dos átrios e ventrículos. A alternativa também incorre
+em outro erro ao afirmar que o potencial de ação rápido apresenta "rápida
+repolarização" isoladamente. Embora haja uma repolarização inicial rápida na fase 1,
+mediada pela saída abrupta de potássio (K⁺), essa fase é breve e logo é seguida por
+uma fase de platô (fase 2), sustentada pela entrada de cálcio (Ca²⁺) e saída lenta de
+potássio, prolongando significativamente a repolarização. Essa característica é
+essencial para garantir a duração adequada da contração cardíaca e evitar
+fenômenos como a tetania. Portanto, descrever a repolarização como "rápida"
+distorce a dinâmica completa do potencial de ação rápido. Diante disso, a alternativa
+"C" apresenta incompatibilidades fisiológicas graves, contrariando diretamente os
+princípios descritos na literatura médica de referência, o que inviabiliza sua aceitação
+como correta. II. DAS INCORREÇÕES NAS DEMAIS ALTERNATIVAS As demais
+alternativas também estão em desacordo com a fisiologia descrita no "Tratado de
+Fisiologia Médica" de Guyton e Hall. A seguir, analisam-se individualmente os
+equívocos contidos em cada uma: a. A resposta rápida ocorre principalmente nas
+células do nodo sinoatrial, sendo mais lenta e dependente de cálcio para
+despolarização, enquanto a resposta lenta predomina no miocárdio ventricular, sendo
+mais rápida e dependente de sódio. Esta alternativa apresenta um erro conceitual
+grave. O nodo sinoatrial (NSA), responsável pela geração do ritmo cardíaco,
+apresenta um potencial de ação lento, caracterizado por despolarização gradual por
+influxo de cálcio (Ca²⁺) e ativação de canais funny (If). Portanto, não se trata de um
+potencial de ação rápido. Por outro lado, o miocárdio ventricular, que realiza a
+contração efetiva do coração, apresenta um potencial de ação rápido, mediado por
+
+influxo abrupto de sódio (Na⁺) e uma fase de platô sustentada pela entrada de cálcio.
+b. A resposta rápida ocorre no nodo sinoatrial e no sistema His-Purkinje, com rápida
+despolarização devido à entrada de sódio, enquanto a resposta lenta ocorre
+principalmente no miocárdio ventricular, com despolarização mais lenta devido à
+entrada de cálcio. Embora o sistema His-Purkinje esteja corretamente associado ao
+potencial de ação rápido, o nodo sinoatrial não compartilha dessa característica —
+ele apresenta um potencial de ação lento, mediado por influxo de cálcio e canais
+funny. Além disso, o miocárdio ventricular, que é erroneamente descrito como
+apresentando um potencial de ação lento, é na verdade um dos principais locais de
+ocorrência do potencial de ação rápido, mediado por entrada de sódio. d. O potencial
+de ação de resposta lenta ocorre no nodo atrioventric.
+JUSTIFICATIVA COMISSÃO NACIONAL:
+Ao revisar o conteúdo da questão, identificou-se um erro conceitual na alternativa
+considerada correta. A afirmativa de que o potencial de ação de resposta rápida
+ocorre no nodo atrioventricular está equivocada. O nodo AV, assim como o nodo
+sinoatrial, apresenta potencial de ação de resposta lenta, com despolarização gradual
+mediada por canais de cálcio tipo L. Já o potencial de ação de resposta rápida ocorre
+nas fibras contráteis do miocárdio atrial e ventricular, e no sistema de Purkinje. Diante
+disso, a comissão nacional opta por DEFERIR o recurso e anular a respectiva
+questão.
+
+REFERÊNCIA:
+HALL, John E.; HALL, Michael E. Guyton & Hall Fundamentos de Fisiologia. 14. ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2023. E-book. p.67. ISBN 9788595159518. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159518/. Acesso em: 29 abr. 2025.
+
+

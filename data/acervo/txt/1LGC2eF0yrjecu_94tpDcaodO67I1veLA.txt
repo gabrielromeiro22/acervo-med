@@ -1,0 +1,519 @@
+NOTA FINAL
+
+CURSO DE MEDICINA - AFYA
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina I
+Professor (es):
+Período: 202401
+
+Turma:
+
+Data:
+
+N1_ESPECIFICA_MCM 1_19ABRIL2024
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 11634 - CADERNO 001
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+
+Enunciado:
+Os acadêmicos de medicina se reuniram na biblioteca para preparar a APG sobre a anatomia
+cardíaca, destacando a circulação coronariana. Eduarda já foi abrindo o computador, entrou em
+"Minha Biblioteca", e consultou um livro de anatomia mostrando um desenho esquemático e uma
+tomografia sobre a origem anômala das artérias coronárias, que são causas importantes de morte
+súbita em atletas. Carlos ficou curioso com o tema e encontrou na base Scielo um artigo que
+estudou 30 casos de morte súbita em atletas, publicado na Revista Brasileira de Cardiologia
+Invasiva, em 2020.
+Acerca das fontes utilizadas pelos acadêmicos, marque a alternativa correta.
+Alternativas:
+
+(alternativa C) (CORRETA)
+Eduarda consultou uma fonte secundária, pois trata-se de um livro que apresenta imagens
+retiradas de outra fonte e Carlos consultou uma fonte primária, pois trata-se de um estudo
+original com 30 casos de morte súbita em atletas.
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 1 de 15
+
+Resposta comentada:
+A fonte primária é considerada é uma informação original, encontrada direto da fonte (autor) que a
+produziu. Neste tipo de fonte, o conhecimento é considerado original porque foi publicado pela
+primeira vez. O artigo consultado por Carlos é uma fonte primária.
+A fonte secundária é aquela que reúne informação de documentos primários, portanto, não é
+original. Ela compõe um conteúdo a partir da revisão e interpretação de trabalhos originais. O livro
+consultado por Eduarda é uma fonte secundária.
+A fonte terciária é responsável por fazer uma síntese das informações primárias e secundárias.
+Ela funciona como guia para profissionais tomarem decisões rápidas na prática clínica. Não foram
+apresentados nessa questão fontes terciárias.
+Referências:
+AQUINO, Ítalo de S. Como ler artigos científicos. 3ª ed. São Paulo: Editora Saraiva, 2012. Ebook. ISBN 9788502160972. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788502160972/. Acesso em: 8 ago. 2023.
+DE OLIVEIRA CRUZ LATORRACA, C. et al. Busca em bases de dados eletrônicas da área da
+saúde: por onde começar. Diagn. tratamento, p. [59-63], 2019. Disponível em:
+https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1015338. Acesso em: 8 ago. 2023.
+MEDEIROS, João Bosco; TOMASI, Carolina. Redação de artigos científicos. São Paulo: Atlas,
+2016. EBook. (1 recurso online). ISBN 9788597001532. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597001532. Acesso em: 16 set. 2021.
+2ª QUESTÃO
+Enunciado:
+Durante uma discussão em sala de aula sobre pesquisa de artigos científicos na área da saúde,
+dois colegas de classe comentam sobre como encontrar informações relevantes nas bases de
+dados sobre o impacto do consumo de café na saúde cardiovascular. O primeiro aluno menciona
+que está utilizando como palavras-chaves apenas "café saúde cardiovascular" na barra de
+pesquisa da base de dados. O segundo aluno, preocupado com a estratégia de busca adotada, e
+sabendo que uma busca realizada de forma incorreta pode afetar a quantidade dos resultados da
+pesquisa, sugere a utilização de operadores booleanos.
+Considerando o caso apresentado, assinale qual das estratégias de busca seria a mais adequada
+para encontrar artigos relevantes sobre o impacto do consumo de café na saúde cardiovascular.
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 2 de 15
+
+Alternativas:
+
+(alternativa D) (CORRETA)
+Utilizar uma combinação de operadores booleanos (AND e OR), digitando "café AND (saúde
+OR cardiovascular)" pois o operador booleano AND tem característica restritiva, enquanto o
+OR é aditivo.
+
+Resposta comentada:
+Utilizar uma combinação de operadores booleanos (AND e OR), digitando "café AND (saúde OR
+cardiovascular)" pois o operador booleano AND tem característica restritiva, enquanto o OR é
+aditivo. Esta estratégia permite ampliar a busca para incluir artigos que abordem tanto a relação
+entre café e saúde quanto entre café e saúde cardiovascular, oferecendo uma perspectiva mais
+abrangente sobre o tema.
+Referências:
+VOLPATO, Enilze de Souza Nogueira. Pesquisa bibliográfica em ciências biomédicas. Jornal de
+Pneumologia, v. 26, p. 77-80, 2000.
+DE OLIVEIRA CRUZ LATORRACA, C. et al. Busca em bases de dados eletrônicas da área da
+saúde: por onde começar. Diagn. tratamento, p. [59-63], 2019. Disponível em:
+https://pesquisa.bvsalud.org/portal/resource/pt/biblio-1015338. Acesso em: 8 ago 2023.
+3ª QUESTÃO
+Enunciado:
+Analise o seguinte trecho de um artigo publicado no periódico Epidemiologia e Serviços de Saúde:
+Os artigos científicos constituem a unidade de informação do periódico científico. Por meio deles,
+as informações do autor são transformadas em conhecimento científico, que é de domínio
+público. Se o artigo é divulgado adequadamente, ele poderá ser lido, citado e utilizado por
+profissionais de saúde nas suas atividades diárias [1].
+1. Sollaci LB, Pereira MG. The introduction, methods, results, and discussion (IMRAD) structure:
+a fifty-year survey. J Med Libr Assoc. 2004 Jul;92(3):364-7.
+Com base nas normas de escrita em redações científicas, a citação e a referência utilizadas no
+trecho apresentado são, respectivamente,
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 3 de 15
+
+Alternativas:
+
+(alternativa B) (CORRETA)
+uma citação indireta do tipo chamada numérica, e a referência segue as normas de
+formatação de Vancouver.
+
+Resposta comentada:
+A alternativa correta é aquela que afirma que o trecho apresentado é uma citação indireta do tipo
+chamada numérica, e a referência segue as normas de formatação de Vancouver.
+Uma citação indireta do tipo chamada numérica é um método de referenciar uma fonte no texto de
+um documento acadêmico ou científico, utilizando números para identificar as fontes ao invés de
+nomear os autores e anos diretamente no texto. Esses números são atribuídos sequencialmente
+de acordo com a ordem em que as fontes são mencionadas no texto. Nesse caso, o autor faz
+uso das ideias ou resultados de um autor específico, mas não reproduz o texto exato. Em vez
+disso, o autor reinterpreta as informações em suas próprias palavras, enquanto fornece o
+sobrenome do autor original e o ano de publicação da fonte referenciada.
+Por exemplo, suponha que você esteja escrevendo um artigo e deseja citar indiretamente um
+estudo realizado por Smith e colaboradores. Em vez de incluir o nome de Smith no texto, você
+atribuiria um número à citação, como "[1]", por exemplo. No final do documento ou no final da
+seção, você incluiria uma lista de referências numeradas, onde cada número corresponderia à
+fonte apropriada, fornecendo detalhes completos da citação, como o nome do autor, título do
+trabalho, nome do periódico (se aplicável), ano de publicação e assim por diante.
+De acordo com as normas de Vancouver, a estrutura de referência de um artigo científico
+geralmente inclui os seguintes elementos:
+1. Autor(es): Sobrenome seguido das iniciais dos prenomes de todos os autores. Se
+houver mais de seis autores, pode-se listar os seis primeiros autores seguidos de "et
+al.".
+2. Título do artigo: O título do artigo deve ser escrito em sua totalidade.
+3. Nome do periódico (ou Revista): Nome do periódico onde o artigo foi publicado. Este
+deve ser abreviado de acordo com o estilo padrão da lista de periódicos indexados do
+Index Medicus (List of Journals Indexed in Index Medicus).
+4. Ano de publicação: O ano em que o artigo foi publicado.
+5. Volume (se aplicável): O volume do periódico onde o artigo foi publicado.
+6. Número (se aplicável): O número específico do periódico onde o artigo foi publicado,
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 4 de 15
+
+se houver.
+7. Página inicial e final do artigo: O número da primeira e da última página do artigo.
+De acordo com as normas de Vancouver, a estrutura de referência de um artigo científico
+geralmente inclui os seguintes elementos:
+1. Autor(es): Sobrenome seguido das iniciais dos prenomes de todos os autores. Se
+houver mais de seis autores, pode-se listar os seis primeiros autores seguidos de "et
+al.".
+2. Título do artigo: O título do artigo deve ser escrito em sua totalidade.
+3. Nome do periódico (ou Revista): Nome do periódico onde o artigo foi publicado. Este
+deve ser abreviado de acordo com o estilo padrão da lista de periódicos indexados do
+Index Medicus (List of Journals Indexed in Index Medicus).
+4. Ano de publicação: O ano em que o artigo foi publicado.
+5. Volume (se aplicável): O volume do periódico onde o artigo foi publicado.
+6. Número (se aplicável): O número específico do periódico onde o artigo foi publicado,
+se houver.
+7. Página inicial e final do artigo: O número da primeira e da última página do artigo.
+Aqui está um exemplo de como essa estrutura pode ser aplicada:
+1. Smith AB, Johnson CD, Brown EF, et al. Title of the Article. J Med Jour. 2023;45(2):123-135.
+Referências:
+MEDEIROS, João Bosco; TOMASI, Carolina. Redação de artigos científicos. São Paulo: Atlas,
+2016. EBook. (1 recurso online). ISBN 9788597001532. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597001532. Acesso em: 16 set. 2021.
+
+4ª QUESTÃO
+Enunciado:
+Na Unidade Básica de Saúde (UBS), a interação entre a faculdade e a comunidade é crucial para
+promover a saúde e o bem-estar dos cidadãos. Nesse contexto, tanto os objetivos de pesquisa
+quanto os objetivos de extensão desempenham papéis complementares, embora com focos
+diferentes.
+Com base no caso apresentado, avalie as informações a seguir quanto aos objetivos de pesquisa
+e extensão:
+I. Os objetivos de pesquisa visam à produção de conhecimento novo.
+II. Os objetivos da extensão visam à investigação de fenômenos científicos isolados.
+III. Os objetivos de pesquisa são diretamente voltados para a comunidade.
+IV. Os objetivos da extensão são voltados para a transferência de tecnologia, educação e
+promoção em saúde.
+Estão corretos o que se afirmam em:
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 5 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+I e IV.
+
+Resposta comentada:
+I. Verdadeiro. Os objetivos de pesquisa têm como foco a produção de conhecimento novo ou a
+investigação de fenômenos científicos. Isso envolve a realização de estudos, experimentos e
+análises para expandir o entendimento em determinada área.
+II. Falso. Os objetivos da extensão não estão diretamente relacionados à produção de
+conhecimento novo ou à investigação científica. A extensão universitária visa aplicar o
+conhecimento existente em benefício da comunidade, promovendo ações práticas e
+intervenções.
+III. Falso. Os objetivos de pesquisa não são voltados diretamente para a transferência de
+tecnologia, educação e promoção de saúde junto à comunidade. Essa função é desempenhada
+principalmente pelos objetivos da extensão. A pesquisa visa produzir conhecimento novo ou
+investigar fenômenos científicos, enquanto a extensão aplica esse conhecimento para benefício
+da comunidade.
+IV. Verdadeiro. Os objetivos da extensão são, de fato, voltados para a transferência de
+tecnologia, educação e promoção de saúde junto à comunidade. Isso inclui atividades como
+palestras, capacitações, campanhas de conscientização e outras ações que beneficiam
+diretamente as pessoas.
+Referência:
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.
+EBook. (1 recurso online). ISBN 9788597012934. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597012934. Acesso em: 16 set. 2021.
+5ª QUESTÃO
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 6 de 15
+
+Enunciado:
+De acordo com Sociedade Brasileira de Cardiologia (SBC), no Brasil, as doenças
+cardiovasculares representam as principais causas de mortes e estima-se que até 2040 haverá
+aumento de até 250% desses eventos no país. Nesse contexto, durante um encontro das
+disciplinas do PIEPE e IESC, os alunos do curso de medicina do primeiro período chegaram a
+seguinte proposta para a criação de um projeto de extensão voltado a DCVs:
+Diante dos desafios para o controle das DCV no país, é de extrema importância a criação
+de um projeto de extensão cuja ação seja voltada para a educação em saúde de diferentes
+comunidades da população acerca de tais doenças, tendo como foco as formas de evitálas, os principais sinais e sintomas que o indivíduo pode sentir, e também a quem procurar
+em caso de emergências cardiovasculares. Além disso, é muito relevante criar medidas e
+estratégias que visem à prevenção das doenças e agravos, bem como à promoção da
+saúde cardiovascular, intervindo nos fatores de risco modificáveis, com o intuito de reduzir
+os índices de mortalidade.
+Construa um Objetivo Geral e 3 (três) Objetivos Específicos para o projeto de extensão proposto
+acima.
+Alternativas:
+-Resposta comentada:
+Objetivo Geral:
+Realizar atividades que promovam a educação em saúde sobre doenças cardiovasculares
+(DCVs) em diferentes comunidades da população
+Objetivos Específicos:
+- Selecionar as comunidades alvo;
+- Realizar capacitações de forma presencial, com intuito de habilitar os integrantes do projeto para
+planejar e realizar as ações com temáticas voltadas à prevenção de DCVs;
+- Realizar ações educacionais online e presenciais junto às comunidades selecionadas;
+Comentário: Os alunos têm liberdade para propor três objetivos de forma mais específica como,
+por exemplo: criar de um canal educacional no Instagram, preparar e divulgar medidas de
+prevenção de DCVs por meio de panfletos explicativos, realizar palestras presenciais, realizar
+ações de aferição de pressão arterial, medição da glicemia e ausculta cardíaca em locais
+públicos.
+Referência:
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.
+EBook. (1 recurso online). ISBN 9788597012934. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597012934. Acesso em: 16 set. 2021.
+6ª QUESTÃO
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 7 de 15
+
+Enunciado:
+Na pesquisa científica, a escolha adequada dos instrumentos de coleta de dados desempenha
+um papel crucial para obter resultados confiáveis e significativos. Diversos métodos estão
+disponíveis para os pesquisadores, cada um com suas vantagens e limitações. Sabendo-se que
+os principais instrumentos de coleta de dados incluem entrevistas, questionários, prontuários,
+grupos focais, observação participante e observação não participante, analise as situações de
+pesquisa e os instrumentos utilizados a seguir.
+I. Pesquisadores conduzem entrevistas semiestruturadas em uma comunidade rural para
+investigar a prevalência de uma infecção transmitida por vetores. As entrevistas semiestruturadas
+permitem coletar informações detalhadas sobre sintomas, exposição e comportamentos,
+contribuindo para uma compreensão mais abrangente da situação.
+II. Pacientes diagnosticados com esclerose múltipla respondem questionários com questões
+fechadas para dividirem suas experiências com o tratamento e os desafios enfrentados no dia a
+dia. O questionário permite uma troca de experiências e sentimentos, enriquecendo a
+compreensão das percepções dos envolvidos.
+III. Pesquisadores interessados na dinâmica social de uma unidade de cuidados intensivos
+escolhem a entrevista não estruturada. Imersos no ambiente hospitalar, eles registram interações
+entre profissionais de saúde, pacientes e familiares, capturando nuances comportamentais que
+não seriam facilmente identificadas de outra forma.
+IV. Em uma pesquisa que explora as práticas de gestão de tempo de profissionais de saúde
+altamente estressados em um ambiente hospitalar, os pesquisadores optam por uma entrevista
+estruturada para conhecer as diferentes estratégias de equilíbrio entre vida profissional e pessoal.
+Estão corretos o que se afirmam em:
+
+Alternativas:
+
+(alternativa B)
+(CORRETA) I e III.
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 8 de 15
+
+Resposta comentada:
+Afirmação I: Correta: As entrevistas semiestruturadas são apropriadas para investigar a
+prevalência de uma infecção transmitida por vetores em uma comunidade rural, pois permitem
+coletar informações detalhadas sobre sintomas, exposição e comportamentos, contribuindo para
+uma compreensão mais abrangente da situação.
+Afirmação II: Incorreta: A afirmação menciona que os pacientes respondem a questionários com
+questões fechadas, mas afirma que isso permite uma troca de experiências e sentimentos.
+Questionários com perguntas fechadas geralmente são mais estruturados e limitam a resposta
+dos participantes, sendo mais adequados para coletar dados quantitativos. Para uma troca mais
+rica de experiências e sentimentos, seria mais apropriado utilizar entrevistas ou questionários
+abertos.
+Afirmação III: Correta: A entrevista não estruturada é apropriada para pesquisadores interessados
+na dinâmica social de uma unidade de cuidados intensivos. Imersos no ambiente hospitalar, eles
+podem registrar interações entre profissionais de saúde, pacientes e familiares, capturando
+nuances comportamentais que não seriam facilmente identificadas de outra forma.
+Afirmação IV: Incorreta: As entrevistas estruturadas podem não ser ideais nesse contexto, pois
+profissionais altamente estressados podem ter agendas conflituosas, dificultando a participação.
+Além disso, não é possível fazer uma entrevista estruturada para conhecer diferentes estratégias,
+já que cada estratégia pode necessitar de perguntas específicas para compreensão completa.
+Referências:
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.
+EBook. (1 recurso online). ISBN 9788597012934. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597012934. Acesso em: 16 set. 2021.
+OLSEN, W. Coleta de dados. Porto Alegre: Penso, 2015. E-book. ISBN 9788584290543.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788584290543/. Acesso em: 8
+ago. 2023.
+7ª QUESTÃO
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 9 de 15
+
+Enunciado:
+Em um prestigiado hospital localizado na cidade de São Paulo, uma equipe médica altamente
+qualificada encontra-se diante de uma delicada situação bioética que envolve uma paciente idosa
+em estado grave. Diagnosticada com uma doença terminal, a paciente expressou previamente
+sua vontade de não ser submetida a procedimentos invasivos ou ao prolongamento artificial da
+vida. Contudo, surge uma controvérsia significativa, uma vez que os familiares da paciente
+discordam dessa decisão, argumentando que existe a possibilidade de prolongar sua vida
+mediante procedimentos adicionais. Alegam, também, que a paciente se encontra inconsciente,
+tornando-se incapaz de tomar decisões autônomas sobre seu tratamento. Diante desse impasse
+bioético, a equipe médica enfrenta o desafio de conciliar o respeito aos desejos da paciente com a
+preocupação e perspectivas dos familiares, buscando uma abordagem que promova o bem-estar
+da paciente e ao mesmo tempo respeite os princípios bioéticos e legais envolvidos nesse
+delicado cenário.
+A partir da situação descrita, faça o que se pede nos itens a seguir:
+A) Descreva de forma clara e concisa qual é o conflito bioético presente nessa situação,
+considerando os valores e princípios envolvidos. (0,75)
+B) Com base nos conceitos pressupostos na Declaração Universal sobre Bioética e Direitos
+Humanos, proponha uma conduta bioética a ser adotada pela equipe médica diante desse conflito.
+Explique como a decisão está alinhada com os princípios bioéticos destacados na Declaração.
+(0,75)
+Alternativas:
+-Resposta comentada:
+A) O conflito bioético presente nesta situação envolve a autonomia da paciente idosa, que
+expressou previamente sua vontade de não ser submetida a procedimentos invasivos, contra a
+perspectiva dos familiares, que discordam da decisão da paciente e desejam a continuação dos
+tratamentos.
+B) Com base na Declaração Universal sobre Bioética e Direitos Humanos, a conduta ética a ser
+adotada pela equipe médica seria respeitar a autonomia e a vontade prévia da paciente, conforme
+expresso em suas diretivas antecipadas. Além disso, é essencial envolver os familiares no
+processo de comunicação e tomada de decisão, fornecendo informações claras e apoiando-os
+emocionalmente. A decisão final deve priorizar o respeito à dignidade e aos direitos humanos da
+paciente, evitando procedimentos invasivos contrários à sua vontade expressa.
+Artigo 5 – Autonomia e Responsabilidade Individual.
+A autonomia das pessoas no que respeita à tomada de decisões, desde que assumam a
+respectiva responsabilidade e respeitem a autonomia dos outros, deve ser respeitada. No caso
+das pessoas incapazes de exercer a sua autonomia, devem ser tomadas medidas especiais para
+proteger os seus direitos e interesses.
+Referência:
+Declaração Universal sobre Bioética e Direitos Humanos. 2006. Disponível
+https://unesdoc.unesco.org/ark:/48223/pf0000146180_por. Acesso em: 26/02/2024.
+
+em:
+
+8ª QUESTÃO
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 10 de 15
+
+Enunciado:
+Um projeto na área da medicina está sendo proposto por acadêmicos do primeiro ano, com o
+objetivo de implementar uma série de ações práticas e educativas voltadas para a prevenção do
+câncer de mama em comunidades de baixa renda. Essas ações incluem a realização de
+palestras informativas em escolas e centros comunitários, a distribuição de materiais educativos
+sobre autoexame e mamografias, além da organização de campanhas de conscientização em
+locais de grande circulação, como praças e mercados.
+Considerando esse contexto, avalie as seguintes asserções e a relação proposta entre elas.
+I. Este é um exemplo de projeto de extensão que será conduzido por acadêmicos junto à
+comunidade local.
+PORQUE
+II. Para atender os objetivos propostos em uma pesquisa, o projeto deverá ser realizado a partir
+de hipóteses, com um método rigoroso previamente estabelecido, com coleta de dados de
+pacientes, análises estatísticas e posterior escrita dos resultados obtidos.
+A respeito dessas asserções, assinale a opção correta.
+
+Alternativas:
+
+(alternativa B) (CORRETA)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da
+I.
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 11 de 15
+
+Resposta comentada:
+A resposta correta é aquela que afirma que "As asserções I e II são proposições verdadeiras,
+mas a II não é uma justificativa correta da I", já que a asserção I apresenta uma proposta de
+extensão e a II apresenta uma proposta de pesquisa.
+O projeto apresentado na questão pertence à modalidade de extensão. Projetos de extensão na
+área da medicina desempenham um papel fundamental na promoção da saúde pública e na
+prevenção de doenças, especialmente em comunidades vulneráveis. Ao implementar ações
+práticas e educativas como palestras, distribuição de materiais informativos e campanhas de
+conscientização, é possível alcançar um grande número de pessoas e fornecer informações
+importantes sobre a prevenção do câncer de mama. Essas iniciativas não apenas aumentam a
+conscientização sobre a importância do autoexame e das mamografias, mas também incentivam
+o acesso aos serviços de saúde e promovem a detecção precoce da doença, fortalecendo os
+vínculos entre a universidade e a sociedade, promovendo ações de impacto social e
+transformação positiva.
+A justificativa da asserção II, se refere a um projeto de pesquisa, pois este tipo de projeto é
+definido como um plano detalhado e estruturado que define os objetivos, metodologia, recursos
+necessários e cronograma para investigar e responder a uma questão específica ou hipótese
+científica. Geralmente conduzido por pesquisadores em universidades, instituições de pesquisa
+ou empresas, um projeto de pesquisa visa adquirir conhecimento novo, testar teorias existentes,
+desenvolver novas tecnologias ou resolver problemas práticos através de uma abordagem
+sistemática e rigorosa.
+Referências:
+SAMPIERI, Roberto H.; COLLADO, Carlos F.; LUCIO, María D. P B. Metodologia de pesquisa.
+Grupo A, 2013. E-book. ISBN 9788565848367. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788565848367/. Acesso em: 26 fev. 2024.
+LAKATOS, Eva M. Fundamentos de Metodologia Científica. Grupo GEN, 2021. E-book. ISBN
+9788597026580. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597026580/. Acesso em: 26 fev. 2024.
+
+9ª QUESTÃO
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 12 de 15
+
+Enunciado:
+A realização de projetos de extensão e pesquisa é essencial para avançar o conhecimento e
+beneficiar a sociedade. É crucial que suas metodologias sejam bem definidas, pois isso influencia
+diretamente na qualidade dos resultados e na validade das conclusões obtidas.
+Avalie os trechos abaixo que apresentam metodologias de pesquisa ou extensão.
+I. “Realização de workshops com a comunidade local para promover a conscientização sobre
+questões ambientais e incentivar a adoção de práticas sustentáveis."
+II. "Aplicação de questionários estruturados para coletar dados sobre o uso de tecnologias
+educacionais por estudantes do curso de medicina."
+III. "Desenvolvimento e implementação de programas de capacitação profissional em colaboração
+com empresas locais para promover a empregabilidade dos jovens."
+IV. "Análise de dados demográficos e socioeconômicos para identificar padrões e características
+da malária na região do Vale do Juruá."
+V. "Realização de entrevistas com pacientes oncológicos para compreender suas experiências
+durante o tratamento e identificar áreas de melhoria nos serviços de saúde."
+São trechos de pesquisa os apresentados em
+
+Alternativas:
+
+(alternativa B)
+(CORRETA) II, IV e V
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 13 de 15
+
+Resposta comentada:
+Os trechos I e III são metodologias de projetos de extensão, já que realizam ações de educação,
+capacitação, palestras, caracterizando ações de extensão. Já os trechos II, IV e V, compõem
+metodologias de projetos de pesquisa, já que trazem coleta e análise de dados para identificação
+e sugestão de implementação de ações.
+Referências:
+Política de extensão universitária do Ministério da Educação. Disponível em:
+http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=104251-rces00718&category_slug=dezembro-2018-pdf&Itemid=30192. Acesso em: 8 ago. 2023.
+A Indissociabilidade entre Ensino, Pesquisa e Extensão: um princípio necessário. Disponível em:
+https://periodicos.ufsc.br/index.php/perspectiva/article/view/2175-795X.2015v33n3p1229/pdf.
+Acesso em: 8 ago. 2023.
+GIL, Antônio Carlos. Métodos e Técnicas de Pesquisa Social. 7ª ed. Grupo GEN, 2019.
+9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 27 out. 2021.
+10ª QUESTÃO
+Enunciado:
+Uma estudante, de 33 anos, viu seu filho ser diagnosticado com TEA (transtorno do espectro
+autista) quando ele tinha apenas 2 anos e 6 meses. Desde então, o pequeno, agora com 4 anos,
+está em tratamento com diversas terapias. No entanto, um dos desafios enfrentados por ele é sua
+intensa seletividade alimentar, onde rejeita a maioria dos alimentos. A mãe resolveu participar de
+uma pesquisa em uma ONG envolvendo as preferências alimentares de crianças de 4 anos para
+que possa compreender os alimentos preferidos por essas crianças com TEA, bem como suas
+rejeições alimentares. Para a pesquisa, objetivam obter informações diretamente das crianças
+com TEA.
+Com base nesse relato, identifique qual seria o instrumento de coleta de dados mais adequado
+para obter informações sobre as preferências alimentares das crianças nessa faixa etária.
+
+Alternativas:
+
+(alternativa B) (CORRETA)
+Aplicação de um formulário lúdico e ilustrado, com imagens de alimentos, direcionado às
+próprias crianças.
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 14 de 15
+
+Resposta comentada:
+A opção "Aplicação de um formulário lúdico e ilustrado, com imagens de alimentos, direcionado
+às próprias crianças" é correta porque, considerando a faixa etária das crianças e a natureza do
+estudo, no qual objetivou-se coletar os dados diretamente das crianças, dados coletados pelos
+pais não seriam adequados aos objetivos da pesquisa.
+Um questionário demandaria capacidade de leitura e compreensão das informações para que
+fosse aplicado, no entanto, no caso de um formulário, as crianças teriam o apoio de um
+pesquisador para a coleta de dados, facilitando, portanto, a obtenção desses.
+Referências:
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.
+EBook. (1 recurso online). ISBN 9788597012934. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597012934. Acesso em: 16 set. 2021.
+OLSEN, W. Coleta de dados. Porto Alegre: Penso, 2015. E-book. ISBN 9788584290543.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788584290543/. Acesso em: 8
+ago. 2023.
+
+000116.340015.56945d.4fcffc.eabfce.0e4837.f9ad89.b5358
+
+Pgina 15 de 15
+
+

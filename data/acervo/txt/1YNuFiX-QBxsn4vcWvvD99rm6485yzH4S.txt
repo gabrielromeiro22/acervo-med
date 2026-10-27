@@ -1,0 +1,4038 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integradora 1º Período
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data: 06/06/2025
+
+INTEGRADORA - MEDICINA - 1º PERÍODO - 2025.1 - 1ª CHAMADA 06/JUNHO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15962 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+136807
+
+Tipo da questão:
+
+Múltipla Escolha
+
+www.acervo.top/integradora-i ou www.acervotop.com/integradora-i
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(UNISL JI-Paraná) Durante uma aula prática no laboratório de embriologia, os alunos observaram
+um modelo tridimensional da circulação fetal. A professora destacou as adaptações presentes no
+coração do feto e apontou que há uma comunicação entre a artéria pulmonar e a aorta, permitindo
+que o sangue desvie dos pulmões, que ainda não estão funcionais. Com base nesse contexto,
+assinale a alternativa que indica corretamente a estrutura responsável por essa adaptação da
+circulação fetal.
+Alternativas:
+(alternativa A)
+Ducto venoso.
+(alternativa B)
+Forame oval.
+(alternativa C)
+Veia umbilical esquerda.
+(alternativa D) (CORRETA)
+Ducto arterioso.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 1 de 105
+
+Resposta comentada:
+Forame oval.
+Incorreta. O forame oval é uma comunicação entre os átrios direito e esquerdo do coração fetal,
+permitindo que o sangue bypass os pulmões, mas por via intra-atrial. Embora importante, não é a
+estrutura descrita no caso, que envolve vasos arteriais.
+Ducto arterioso
+Correta. O ducto arterioso é uma estrutura fetal que conecta a artéria pulmonar à aorta, desviando
+o sangue dos pulmões em desenvolvimento e direcionando-o para a circulação sistêmica. Essa
+adaptação é fundamental para a sobrevivência fetal, já que os pulmões ainda não realizam trocas
+gasosas.
+Ducto venoso.
+Incorreta. O ducto venoso é responsável por desviar o sangue oxigenado da veia umbilical
+diretamente para a veia cava inferior, contornando parcialmente o fígado, e não está relacionado
+ao desvio pulmonar.
+Veia umbilical esquerda.
+Incorreta. A veia umbilical esquerda transporta o sangue oxigenado da placenta até o feto, mas
+não é a responsável por nenhuma das adaptações específicas de desvio circulatório dentro do
+tórax fetal.
+Referências:
+MOORE, Keith L. ; PERSAUD, T.V.N.; TORCHIA, Mark G. Embriologia Básica. 10. ed. Rio de
+Janeiro: GEN Guanabara Koogan, 2022. E-book. p. 207. ISBN 9788595159020. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159020/. Acesso em: 19 maio
+2025.
+TORTORA, Gerard J. ; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. 16. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. p. 835. ISBN 9788527739368. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527739368/. Acesso em: 23 abr. 2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 2 de 105
+
+Filtros da questão:
+
+[Semanas]
+3
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Sistema circulatório
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNISL JI-PARANÁ
+[Competências (Objetivos)]
+Diferenciar circulação fetal e neonatal.
+[Subáreas de Conhecimento]
+Embriologia do sistema circulatório
+2ª QUESTÃO
+
+Código da questão:
+
+136450
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(FMIT) Durante um exercício físico intenso, as fibras musculares esqueléticas podem recorrer ao
+metabolismo anaeróbio, resultando na produção de íons H⁺ e, consequentemente, na redução do
+pH sanguíneo. Essa acidose transitória influencia diretamente a curva de dissociação da oxihemoglobina (HbO₂).
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 3 de 105
+
+Figura - Fatores que modificam a curva de dissociação da hemoglobina. No eixo das ordenadas – saturação da
+hemoglobina com O2 (%); no eixo das abscissas – PO2 (mmHg). A. Temperatura. B. pH. C. PCO2. D. 2,3difosfoglicerato (2,3-DPG). Também está mostrada em D a curva de dissociação da hemoglobina fetal, em
+comparação com a do adulto (HbA). P50, pressão parcial necessária para saturar em 50% a hemoglobina. (AIRES,
+2018)
+
+Considere a ilustração acima, bem como os mecanismos fisiológicos envolvidos nesse processo,
+e assinale a alternativa que melhor descreve o comportamento da hemoglobina frente à acidose
+metabólica durante o esforço físico:
+Alternativas:
+(alternativa A) (CORRETA)
+O aumento de H⁺ durante o exercício desloca a curva da oxi-hemoglobina para a direita,
+facilitando a liberação de oxigênio para os tecidos com menor afinidade da hemoglobina por O₂.
+(alternativa B)
+A acidose metabólica induzida pelo exercício ativa o efeito Bohr, levando a uma maior saturação
+da hemoglobina nos pulmões e dificultando a oxigenação dos tecidos.
+(alternativa C)
+A redução do pH durante o exercício aumenta a afinidade da hemoglobina pelo oxigênio,
+dificultando sua liberação nos tecidos, deslocando a curva de dissociação para a esquerda.
+(alternativa D)
+Quando o pH sanguíneo diminui, a hemoglobina se torna mais estável na sua forma ligada ao
+oxigênio, mantendo a oxigenação tecidual eficiente mesmo sob esforço físico.
+
+Grau de dificuldade:
+
+Difícil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 4 de 105
+
+Resposta comentada:
+Alternativa [O aumento de H⁺ durante o exercício desloca a curva da oxi-hemoglobina para a
+direita, facilitando a liberação de oxigênio para os tecidos com menor afinidade da hemoglobina
+por O₂] – Correta: Durante o exercício físico intenso, há produção de H⁺ pelas vias anaeróbias
+nas fibras musculares, o que leva à redução do pH (acidose metabólica). Segundo o efeito Bohr,
+essa acidose diminui a afinidade da hemoglobina pelo oxigênio, deslocando a curva de
+dissociação para a direita, o que favorece a liberação de O₂ nos tecidos metabolicamente ativos
+— um ajuste fisiológico essencial.
+- Alternativa [A redução do pH durante o exercício aumenta a afinidade da hemoglobina pelo
+oxigênio, dificultando sua liberação nos tecidos, deslocando a curva de dissociação para a
+esquerda] – Incorreta: Essa alternativa descreve o efeito oposto ao real. A redução do pH não
+aumenta a afinidade da hemoglobina pelo oxigênio; ela a diminui, deslocando a curva para a direita
+— e não para a esquerda.
+- Alternativa [A acidose metabólica induzida pelo exercício ativa o efeito Bohr, levando a uma
+maior saturação da hemoglobina nos pulmões e dificultando a oxigenação dos tecidos] –
+Incorreta: Embora mencione o efeito Bohr, confunde suas consequências. O efeito Bohr facilita a
+entrega de oxigênio aos tecidos, não dificulta. A maior saturação da hemoglobina nos pulmões
+continua ocorrendo normalmente, mas nos tecidos o oxigênio é liberado com mais facilidade, o
+que é desejável durante o exercício.
+- Alternativa [Quando o pH sanguíneo diminui, a hemoglobina se torna mais estável na sua forma
+ligada ao oxigênio, mantendo a oxigenação tecidual eficiente mesmo sob esforço físico] –
+Incorreta: A premissa está equivocada: quando o pH diminui, a hemoglobina perde estabilidade na
+forma ligada ao oxigênio, e ocorre liberação aumentada de O₂ — não retenção. A estabilidade da
+forma oxi-hemoglobina não é favorecida em pH baixo.
+Referências:
+HALL, John E.; HALL, Michael E. Guyton & Hall Fundamentos de Fisiologia. 14. ed. Rio de
+Janeiro: GEN Guanabara Koogan, 2023. E-book. p.243. ISBN 9788595159518. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159518/. Acesso em: 13 maio
+2025.
+AIRES, Margarida de M. Fisiologia, 5ª edição. Rio de Janeiro: Guanabara Koogan, 2018. E-book.
+p. 685. ISBN 9788527734028. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527734028/. Acesso em: 13 maio
+2025.
+
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 5 de 105
+
+Filtros da questão:
+
+[Semanas]
+14
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Subáreas de Conhecimento]
+Fisiologia
+Sistema respiratório
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Competências (Objetivos)]
+Discutir a curva de saturação da hemoglobina.
+3ª QUESTÃO
+
+Código da questão:
+
+136478
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(IESVAP) Durante uma triagem em unidade básica de saúde, uma criança de 2 anos apresenta
+taquipneia, gemência expiratória e retrações intercostais. A equipe de saúde observa que, apesar
+do aumento da Frequência Respiratória (FR), a criança mantém coloração pálida e saturação de
+oxigênio abaixo de 92%. Com base nesses achados, avalie as correlações possíveis entre o
+padrão respiratório e a eficiência da hematose.
+Qual das alternativas a seguir melhor explica a relação entre o padrão respiratório observado e a
+eficiência da hematose nessa situação?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 6 de 105
+
+Alternativas:
+(alternativa A)
+A retração intercostal reduz a resistência das vias aéreas, facilitando a troca gasosa pulmonar.
+(alternativa B) (CORRETA)
+A respiração rápida e superficial típica da taquipneia infantil reduz o tempo de ventilação alveolar
+eficaz, comprometendo a hematose.
+(alternativa C)
+A hiperventilação compensatória melhora a hematose, desde que a criança mantenha padrão
+respiratório profundo e regular.
+(alternativa D)
+A taquipneia aumenta o tempo inspiratório e, consequentemente, melhora o volume corrente, o
+que favorece a oxigenação alveolar.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Alternativa: A taquipneia aumenta o tempo inspiratório e, consequentemente, melhora o volume
+corrente, o que favorece a oxigenação alveolar. – Incorreta: A taquipneia geralmente reduz o
+tempo inspiratório, comprometendo o volume corrente e dificultando a ventilação alveolar
+adequada.
+Alternativa: A hiperventilação compensatória melhora a hematose, desde que a criança mantenha
+padrão respiratório profundo e regular. – Incorreta: A hiperventilação só melhora a hematose se o
+padrão respiratório for eficaz (profundo), o que geralmente não ocorre em crianças com
+desconforto respiratório agudo.
+Alternativa: A respiração rápida e superficial típica da taquipneia infantil reduz o tempo de
+ventilação alveolar eficaz, comprometendo a hematose. – Correta: Na taquipneia infantil, a
+respiração tende a ser rápida e superficial, diminuindo a ventilação alveolar útil e prejudicando a
+hematose. Segundo Porto (2025), na hipoventilação pulmonar, não há ar atmosférico em
+quantidade suficiente para que se faça a hematose, por obstrução das vias respiratórias,
+diminuição da expansibilidade toracopulmonar, aumento exagerado da frequência respiratória ou
+por diminuição da superfície respiratória.
+Alternativa: A retração intercostal reduz a resistência das vias aéreas, facilitando a troca gasosa
+pulmonar. – Incorreta: A retração intercostal é um sinal de esforço respiratório aumentado e não
+reduz a resistência das vias aéreas.
+Referências:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2019.
+PORTO, Celmo Celeno. Semiologia médica - 8. ed. Rio de Janeiro: Guanabara Koogan, 2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 7 de 105
+
+Filtros da questão:
+
+[Semanas]
+14
+15
+[Módulos integrados]
+SOI + HAM
+[Competências (Objetivos)]
+Correlacionar a avaliação do padrão respiratório, da FR e associar
+com a eficiência da hematose.
+[Áreas de Conhecimento]
+Sistema Respiratório
+[Subáreas de Conhecimento]
+Fisiologia e anamnese do sistema respiratório.
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+IESVAP
+4ª QUESTÃO
+
+Código da questão:
+
+134955
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA GARANHUNS) Um paciente de 58 anos chega ao pronto-socorro apresentando dor
+torácica intensa que irradia para o braço esquerdo, com alterações no eletrocardiograma
+sugestivas de infarto do miocárdio. Exames de imagem indicam que a lesão compromete a
+irrigação do ventrículo esquerdo e parte do septo interventricular, ocasionando uma disfunção
+significativa nessa região.
+Sabendo que essas áreas são irrigadas pela principal artéria responsável pela parte anterior do
+coração, assinale a alternativa correta em relação ao ramo da coronária afetado.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 8 de 105
+
+Alternativas:
+(alternativa A) (CORRETA)
+Ramo interventricular anterior da coronária esquerda.
+(alternativa B)
+Ramo circunflexo da coronária esquerda.
+(alternativa C)
+Ramo marginal da coronária direita.
+(alternativa D)
+Ramo descendente posterior da coronária direita.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Ramo marginal da coronária direita. Justificativa: O ramo marginal da coronária direita irriga
+principalmente a parede lateral do ventrículo direito e uma parte do ventrículo esquerdo lateral.
+Apesar de ser uma importante artéria, ela não fornece irrigação significativa para o septo
+interventricular ou para a maior parte do ventrículo esquerdo anterior. Portanto, uma lesão nessa
+artéria raramente causaria o tipo de infarto descrito que envolve principalmente o septo e o
+ventrículo esquerdo anterior.
+Ramo interventricular anterior da coronária esquerda. Justificativa: Essa artéria, também
+chamada de descendente anterior da coronária esquerda, irriga grande parte do septo
+interventricular, o dorso do ventrículo esquerdo e o miocárdio anterior do ventrículo esquerdo.
+Uma lesão nesse ramo levaria a um infarto na região anterior do coração, que inclui o septo
+interventricular, comprometendo essas áreas de forma significativa, o que corresponde ao quadro
+clínico do paciente. Portanto, essa é a alternativa correta.
+Ramo descendente posterior da coronária direita. Justificativa: Essa artéria irriga principalmente o
+septo posterior e a parede inferior do ventrículo esquerdo. Isso é importante em infartos na região
+posterior do coração, mas não na região anterior ou septo interventricular, que foi envolvido em
+particular neste caso. Assim, uma lesão nessa artéria não explica adequadamente o quadro do
+paciente.
+Ramo circunflexo da coronária esquerda. Justificativa: A artéria circunflexa irriga principalmente a
+parede lateral e o átrio esquerdo. Embora possa contribuir para a irrigação do ventrículo esquerdo
+lateral, ela não fornece irrigação significativa para o septo interventricular ou as regiões anteriores
+do ventrículo esquerdo. Portanto, uma lesão no circunflexo não explicaria o infarto envolvendo
+sobretudo o septo e o ventrículo anterior, como no caso apresentado.
+Referências:
+HALL, John E. Guyton & Hall. Tratado de Fisiologia Médica. Rio de Janeiro: Elsevier, 2011.
+JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Histologia básica: texto e atlas. 13. ed. Rio de
+Janeiro: Guanabara Koogan, 2018.
+SILVERTHORN, Dee Unglaub. Fisiologia humana: uma abordagem integrada. 7. ed. Porto
+Alegre: Artmed, 2017.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 9 de 105
+
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+3
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Sistema cardiocirculatório
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA GARANHUNS
+[Competências (Objetivos)]
+Descrever a anatomia cardíaca, destacando a circulação
+sistêmica e coronária, e inervação.
+[Subáreas de Conhecimento]
+Anatomia
+5ª QUESTÃO
+
+Código da questão:
+
+136632
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA Abaetetuba) Você é João, acadêmico do 5º período de Medicina, escalado para
+acompanhar a visita matinal na enfermaria clínica. Seu preceptor entrega quatro prontuários com
+as curvas de temperatura axilar já plotadas (cada gráfico cobre 9 dias de aferição, com medidas a
+cada 4 h) e pede para você interpretar. Chamou a atenção de João a curva térmica do Prontuário
+A, que apresentava uma febre remitente.
+Analise os gráficos das alternativas e assinale a que indica a interpretação de João para o
+Prontuário A.
+Alternativas:
+(alternativa A)
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 10 de 105
+
+(alternativa B)
+
+(alternativa C) (CORRETA)
+
+(alternativa D)
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 11 de 105
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O gráfico do Prontuário A que chamou a atenção de João e que apresenta uma febre remitente é
+o que se encontra a seguir:
+
+Febre remitente. Hipertermia diária com variações de mais de 1°C, sem períodos de apirexia.
+As demais alternativas não indicam febre remitente. Segue suas classificações corretas e suas
+descrições.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 12 de 105
+
+Afebril ou Sem Febre. Gráfico ou quadro térmico normal.
+
+Febre contínua. A temperatura permanece acima do normal, com variações de até 1°C, mas
+sem grandes oscilações.
+
+Febre contínua. A temperatura permanece acima do normal, com variações de até 1°C, mas
+sem grandes oscilações.
+Referências:
+Porto, Celmo Celeno. Exame clínico / Celmo Celeno Porto, Arnaldo Lemos Porto. - 8. ed. 000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 13 de 105
+
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+14
+[Módulos integrados]
+HAM
+[Competências (Objetivos)]
+Interpretar o resultado da medida da temperatura axilar.
+[Áreas de Conhecimento]
+Semiologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA ABAETETUBA
+[Subáreas de Conhecimento]
+Exame Físico
+6ª QUESTÃO
+
+Código da questão:
+
+136408
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNIDOMPEDRO) Durante o preparo do almoço, um rapaz de 30 anos cortou superficialmente a
+palma da mão com uma faca. O corte foi limpo e cicatrizou rapidamente, sem necessidade de
+sutura. No atendimento inicial, o profissional de saúde explicou que a lesão não atingiu estruturas
+profundas como vasos sanguíneos maiores, folículos pilosos ou glândulas sudoríparas.
+Com base nesse caso, assinale a alternativa que melhor descreve a histologia da pele e seus
+anexos, considerando a localização e a profundidade do corte.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 14 de 105
+
+Alternativas:
+(alternativa A) (CORRETA)
+O corte ocorreu em uma região de pele espessa, cuja epiderme apresenta cinco camadas
+distintas e ausência de pelos e glândulas sebáceas. Os anexos cutâneos, como glândulas
+sudoríparas, estão localizados principalmente na derme reticular.
+(alternativa B)
+O corte ocorreu na região da derme, a qual é composta por tecido epitelial denso e avascular, que
+contém glândulas sebáceas, glândulas sudoríparas écrinas, folículos pilosos e muitos vasos
+capilares.
+(alternativa C)
+A epiderme da palma da mão é composta por epitélio simples pavimentoso queratinizado, e o
+corte atingiu até os folículos pilosos, que estão presentes em toda a região de tegumento.
+(alternativa D)
+Os cortes superficiais que atingem apenas a epiderme geralmente afetam as terminações
+nervosas livres e vasos sanguíneos, promovendo dor intensa e sangramento abundante.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 15 de 105
+
+Resposta comentada:
+Alternativa: O corte ocorreu em uma região de pele espessa, cuja epiderme apresenta cinco
+camadas distintas e ausência de pelos e glândulas sebáceas. Os anexos cutâneos, como
+glândulas sudoríparas, estão localizados principalmente na derme reticular. – correta.
+A pele espessa, presente na palma das mãos e planta dos pés, tem cinco camadas na
+epiderme: basal, espinhosa, granulosa, lúcida e córnea.
+Essa região não possui pelos nem glândulas sebáceas, mas possui glândulas
+sudoríparas écrinas.
+Os anexos da pele (glândulas, folículos, etc.) estão localizados na derme,
+especialmente na camada reticular, que é a mais profunda da derme.
+Alternativa: A epiderme da palma da mão é composta por epitélio simples pavimentoso
+queratinizado, e o corte atingiu até os folículos pilosos, que estão presentes em toda a pele. –
+INCORRETA
+A epiderme da pele é composta por epitélio estratificado pavimentoso queratinizado, e
+não simples.
+A palma da mão é região de pele espessa, que não possui folículos pilosos.
+Portanto, além de descrever incorretamente o tipo de epitélio, a alternativa erra ao dizer
+que há folículos pilosos na palma da mão.
+Alternativa: O corte atingiu a derme, a qual é composta por tecido epitelial denso e avascular, e
+contém glândulas sebáceas, glândulas sudoríparas, folículos e vasos capilares. – incorreta.
+A derme é formada por tecido conjuntivo denso, não epitelial, e é vascularizada (ou seja, não é
+avascular).
+Ela abriga vasos sanguíneos, terminações nervosas e anexos como glândulas e
+folículos.
+Portanto, o erro está em caracterizar a derme como epitelial e avascular.
+Alternativa: Os cortes superficiais que atingem apenas a epiderme geralmente afetam as
+terminações nervosas livres e vasos sanguíneos, promovendo dor intensa e sangramento
+abundante. – incorreta.
+A epiderme é avascular, portanto um corte que atinge apenas a epiderme não causa
+sangramento, embora possa gerar dor se houver estímulo de terminações nervosas
+livres.
+O sangramento só ocorre quando o corte atinge a derme, onde estão os vasos.
+A dor pode ocorrer, mas não há sangramento abundante se só a epiderme for atingida.
+Referências:
+JUNQUEIRA, L. C.; CARNEIRO, J. Histologia básica. 11. ed. Rio de Janeiro: Guanabara Koogan,
+2013.
+PAWLINA, Wojciech. Ross - Histologia: Texto e Atlas. Rio de Janeiro: Grupo GEN, 2021.
+GARTNER, Leslie P.; HIATT, James L. Atlas colorido de histologia. 5. ed. Rio de Janeiro:
+Guanabara Koogan, 2010.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 16 de 105
+
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+10
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDOMPEDRO
+[Competências (Objetivos)]
+Descrever a histologia da pele e anexos.
+[Subáreas de Conhecimento]
+Histologia
+7ª QUESTÃO
+
+Código da questão:
+
+133064
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNIDOMPEDRO) Durante uma viagem a uma região de clima frio e seco, um homem de 30
+anos começou a apresentar irritação na garganta, ressecamento nasal e sensação de
+desconforto ao respirar. Ao ser atendido, relatou que o ar parecia “cortar” ao ser inspirado, devido
+ao ressecamento. O médico explicou que tais sintomas estão relacionados à função das vias
+aéreas superiores, responsáveis por modificar o ar inspirado antes que ele alcance os pulmões,
+garantindo condições ideais para a troca gasosa.
+Considerando a situação clínica apresentada, qual é a principal função fisiológica das vias aéreas
+superiores no condicionamento do ar inspirado?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 17 de 105
+
+Alternativas:
+(alternativa A) (CORRETA)
+Promover o aquecimento, a umidificação e a filtração do ar inspirado, antes que ele chegue aos
+pulmões.
+(alternativa B)
+Direcionar o ar diretamente para os alvéolos, sem modificar suas características físicas.
+(alternativa C)
+Atuar apenas como barreira física contra microrganismos, sem interferência na composição do
+ar.
+(alternativa D)
+Estimular receptores olfatórios que auxiliam na regulação da temperatura do ar inspirado.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 18 de 105
+
+Resposta comentada:
+Resposta correta:
+Promover o aquecimento, a umidificação e a filtração do ar inspirado, antes que ele chegue aos
+pulmões.
+Justificativas:
+Correta – Promover o aquecimento, a umidificação e a filtração do ar inspirado, antes que ele
+chegue aos pulmões.
+As vias aéreas superiores exercem papel essencial no preparo do ar inspirado, aquecendo-o por
+meio da vascularização da mucosa nasal, umidificando-o através do epitélio respiratório e filtrando
+partículas por meio de cílios e muco. Esses mecanismos protegem as vias aéreas inferiores e
+otimizam a eficiência das trocas gasosas nos pulmões.
+Incorreta – Direcionar o ar diretamente para os alvéolos, sem modificar suas características
+físicas.
+O ar inspirado sofre modificações importantes nas vias aéreas superiores, fundamentais para o
+bom funcionamento pulmonar.
+Incorreta – Estimular receptores olfatórios que auxiliam na regulação da temperatura do ar
+inspirado.
+Os receptores olfatórios têm função sensorial e não participam do condicionamento térmico do ar.
+Incorreta – Atuar apenas como barreira física contra microrganismos, sem interferência na
+composição do ar.
+Além da proteção contra microrganismos, as vias aéreas superiores modificam a temperatura, a
+umidade e limpam o ar inspirado.
+Referência:
+KOEPPEN, Bruce M. Berne e Levy - Fisiologia. 7. ed. Rio de Janeiro: GEN Guanabara Koogan,
+2018. E-book. p. 435. ISBN 9788595151406. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595151406/. Acesso em: 30 mar.
+2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 19 de 105
+
+Filtros da questão:
+
+[Semanas]
+11
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDOMPEDRO
+[Competências (Objetivos)]
+Explicar as funções das vias aéreas superiores (condução,
+filtração, umidificação, aquecimento).
+[Subáreas de Conhecimento]
+Sistema respiratório
+8ª QUESTÃO
+
+Código da questão:
+
+136150
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(FESAR) Paciente, moradora do município de Ribeirinho, necessitou de atendimento médico no
+SUS. Ao procurar a Unidade Básica de Saúde (UBS) de seu bairro com fortes dores abdominais,
+foi informada de que não havia médico disponível naquele dia e que ela deveria tentar atendimento
+na Policlínica Municipal, localizada em outro bairro, para onde conseguiu transporte após algumas
+horas de espera. Ao chegar à Policlínica, a paciente foi atendida por um clínico geral que, embora
+atencioso, não era especialista em sua condição e a orientou a procurar um gastroenterologista,
+com agendamento previsto para dali a três meses.
+Qual princípio/diretriz do SUS foi mais diretamente negligenciado no atendimento inicial de Maria,
+considerando seu relato e os princípios do SUS.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 20 de 105
+
+Alternativas:
+(alternativa A)
+Equidade, pois a dificuldade de acesso e a peregrinação de Maria para conseguir atendimento
+indicam uma falha na oferta de serviços de saúde de acordo com as necessidades específicas da
+população.
+(alternativa B) (CORRETA)
+Integralidade, pois a necessidade de Maria não foi atendida de forma completa e articulada, com
+dificuldades de acesso ao médico na UBS e falta de encaminhamento adequado para a
+especialidade.
+(alternativa C)
+Universalidade, pois a paciente em questão, apesar de necessitar do serviço de saúde, enfrentou
+barreiras geográficas e de acesso ao atendimento na UBS, na policlínica, e sua consulta ficou
+agendada para dali a três meses.
+(alternativa D)
+Regionalização e Hierarquização, pois o fluxo de atendimento de Maria não seguiu os níveis de
+complexidade adequados, sendo encaminhada da UBS para um serviço especializado sem uma
+avaliação inicial resolutiva.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 21 de 105
+
+Resposta comentada:
+Universalidade, pois a paciente em questão, apesar de necessitar do serviço de saúde, enfrentou
+barreiras geográficas e de acesso ao atendimento na UBS, na policlínica, e sua consulta ficou
+agendada para dali a três meses.
+Comentário: incorreta. Embora Maria tenha enfrentado barreiras de acesso, o princípio
+da universalidade se refere ao acesso à saúde como um direito de todos os cidadãos.
+A dificuldade inicial de Maria em obter atendimento imediato na UBS pode indicar falhas
+na operacionalização desse princípio, mas a questão pede o princípio mais diretamente
+negligenciado no atendimento inicial. A peregrinação e a falta de resolução da sua
+necessidade específica apontam mais diretamente para outro princípio.
+Integralidade, pois a necessidade de Maria não foi atendida de forma completa e articulada, com
+dificuldades de acesso ao médico na UBS e falta de encaminhamento adequado para a
+especialidade.
+Comentário: correta. O princípio da integralidade preconiza que o SUS deve garantir a
+atenção à saúde em todos os níveis de complexidade, de forma contínua e articulada.
+No caso de Maria, houve uma fragmentação do cuidado. A dificuldade de acesso ao
+médico na UBS, a peregrinação até a Policlínica e a falta de encaminhamento
+adequado e oportuno para a especialidade demonstram uma quebra na integralidade da
+atenção à sua saúde.
+Equidade, pois a dificuldade de acesso e a peregrinação de Maria para conseguir atendimento
+indicam uma falha na oferta de serviços de saúde de acordo com as necessidades específicas da
+população.
+Comentário: incorreta. A equidade busca garantir que as necessidades dos diferentes
+grupos populacionais sejam atendidas de forma justa, oferecendo mais a quem mais
+precisa. Embora a dificuldade de acesso possa revelar iniquidades no sistema, o relato
+de Maria foca mais na falta de uma resposta completa e articulada à sua necessidade
+específica de saúde, caracterizando uma falha na integralidade.
+Regionalização e Hierarquização, pois o fluxo de atendimento de Maria não seguiu os níveis de
+complexidade adequados, sendo encaminhada da UBS para um serviço especializado sem uma
+avaliação inicial resolutiva.
+Comentário: incorreta. A regionalização e a hierarquização são diretrizes organizativas
+que visam otimizar o fluxo de atendimento. Embora o encaminhamento de Maria possa
+ter tentado seguir essa lógica, a falha principal reside na falta de resolução da sua
+necessidade de saúde de forma integral dentro desse fluxo. A dificuldade de acesso
+inicial e a falta de seguimento adequado apontam mais diretamente para a negligência
+da integralidade do cuidado.
+Referências:
+BRASIL. Constituição da República Federativa do Brasil de 1988.
+BRASIL. Lei nº 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a promoção,
+proteção e recuperação da saúde, a organização e o funcionamento dos serviços
+correspondentes e dá outras providências.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 22 de 105
+
+Filtros da questão:
+
+[Semanas]
+8
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+Conceituar e entender os princípios doutrinários e organizativos do
+SUS.
+[Áreas de Conhecimento]
+Saúde Coletiva - Medicina de Família e Comunidade
+[Subáreas de Conhecimento]
+Atenção Primária à Saúde
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FESAR
+9ª QUESTÃO
+
+Código da questão:
+
+134885
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA Itabuna) Homem de 65 anos, hipertenso, procura atendimento médico por episódios de
+tontura e cansaço ao realizar esforços leves. Durante o exame, seu pulso está lento e regular,
+com frequência cardíaca de 38 bpm. A análise deste caso revela que há um bloqueio
+atrioventricular completo, em que há uma dissociação entre a atividade elétrica dos átrios e dos
+ventrículos. Com base nos conhecimentos sobre o sistema de condução elétrica do coração, qual
+estrutura a seguir provavelmente está comprometida neste paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Nó atrioventricular (AV).
+(alternativa B)
+Nó sinoatrial (SA).
+(alternativa C)
+Fibras de Purkinje.
+(alternativa D)
+Vias intermodais.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 23 de 105
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+O nó AV é a única via normal de condução dos impulsos elétricos dos átrios para os ventrículos.
+Em um bloqueio completo, como o sugerido no caso clínico, os sinais do nó SA não chegam aos
+ventrículos, o que indica falha no nó AV. O nó SA é o marca-passo natural do coração e continua
+funcionando normalmente nesse tipo de condição, disparando impulsos a cerca de 70 bpm. No
+entanto, esses sinais não estão sendo transmitidos aos ventrículos. As vias internodais conectam
+o nó SA ao nó AV e não são o ponto crítico de bloqueio nesse caso. O problema não está na
+condução entre os átrios, mas sim entre átrios e ventrículos. As fibras de Purkinje podem atuar
+como marca-passos em casos de bloqueio, mas não são a causa da dissociação. Elas entram
+em ação como consequência do bloqueio, não como causa.
+Referência:
+SILVERTHORN, D. Fisiologia Humana: Uma Abordagem Integrada. 7. ed. Porto Alegre: Artmed,
+2017.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+4
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Sistema circulatório
+[Subáreas de Conhecimento]
+Fisiologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA ITABUNA
+[Competências (Objetivos)]
+Discutir o sistema de condução elétrica cardíaca.
+10ª QUESTÃO
+
+Código da questão:
+
+135343
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 24 de 105
+
+Enunciado:
+(FESAR) Em uma tensa reunião do Conselho Municipal de Saúde, discute-se a implementação
+de novas políticas de saúde no município. Um dos conselheiros questiona a base legal que
+fundamenta os princípios e a organização do Sistema Único de Saúde (SUS), especialmente no
+que tange à participação da comunidade e ao financiamento das ações. Diante dessa situação,
+entenda qual das seguintes alternativas identifica a principal legislação que aborda esses
+aspectos cruciais para o funcionamento do SUS abordados na situação acima.
+Alternativas:
+(alternativa A)
+A Constituição Federal de 1988, que assegura a saúde como direito de todos e dever do Estado,
+define diretrizes para o SUS, mas deixa a regulamentação específica sobre a participação da
+comunidade e o financiamento para legislação infraconstitucional.
+(alternativa B)
+A Lei nº 8.080/90, que estabelece as condições para a promoção, proteção e recuperação da
+saúde, a organização e o funcionamento dos serviços correspondentes, além de outras
+providências que dizem respeito às diretrizes que fazem parte do Sistema Único de Saúde.
+(alternativa C) (CORRETA)
+A Lei nº 8.142/90, que dispõe sobre a participação da comunidade na gestão do Sistema Único de
+Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da
+saúde, estabelece mecanismos de controle social e as formas de repasse de verbas.
+(alternativa D)
+O Pacto pela Saúde, um conjunto de diretrizes e metas estabelecidas entre as três esferas de
+governo para a gestão do SUS, é formalizado por meio de portarias ministeriais e resoluções dos
+Conselhos de Saúde, sendo somente a Lei nº 8.080/90 o instrumento legal que o fundamenta.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 25 de 105
+
+Resposta comentada:
+A Lei nº 8.080/90, que estabelece as condições para a promoção, proteção e recuperação da
+saúde, a organização e o funcionamento dos serviços correspondentes, além de outras
+providências que dizem respeito às diretrizes que fazem parte do Sistema Único de Saúde.
+Gabarito: Incorreta. Embora a Lei nº 8.080/90 seja fundamental para a organização do SUS, ela
+não é o foco principal na participação da comunidade e no financiamento, temas centrais da Lei nº
+8.142/90.
+A Constituição Federal de 1988, que assegura a saúde como direito de todos e dever do Estado,
+define diretrizes para o SUS, mas deixa a regulamentação específica sobre a participação da
+comunidade e o financiamento para legislação infraconstitucional.
+Gabarito: Incorreta. A Constituição Federal é a base legal primária, mas a questão direciona para
+a lei específica que detalha a participação da comunidade e o financiamento, que é a Lei nº
+8.142/90.
+O Pacto pela Saúde, um conjunto de diretrizes e metas estabelecidas entre as três esferas de
+governo para a gestão do SUS, é formalizado por meio de portarias ministeriais e resoluções dos
+Conselhos de Saúde, sendo somente a Lei nº 8.080/90 o instrumento legal que o fundamenta.
+Gabarito: Incorreta. O Pacto pela Saúde é um acordo de gestão, um instrumento de planejamento
+e organização, mas não a principal lei que estabelece os princípios e a organização do SUS. Ele
+se baseia nas leis nº 8.080/90 e nº 8.142/90.
+A Lei nº 8.142/90, que dispõe sobre a participação da comunidade na gestão do Sistema Único de
+Saúde (SUS) e sobre as transferências intergovernamentais de recursos financeiros na área da
+saúde, estabelece mecanismos de controle social e as formas de repasse de verbas.
+Gabarito: Correta. A Lei nº 8.142/90 é a principal legislação que trata especificamente da
+participação da comunidade na gestão do SUS (conselhos de saúde, conferências de saúde) e
+dos aspectos relacionados ao financiamento e à transferência de recursos entre as esferas de
+governo.
+Referências:
+BRASIL. Lei nº 8.142, de 28 de dezembro de 1990. Dispõe sobre a participação da comunidade
+na gestão do Sistema Único de Saúde (SUS) e sobre as transferências intergovernamentais de
+recursos financeiros na área da saúde e dá outras providências. Diário Oficial da União, Brasília,
+DF, 31 de dez. 1990.
+BRASIL. Ministério da Saúde. Pacto pela Saúde 2006: Consolidação do SUS e financiamento.
+Brasília, DF, 2006.
+BRASIL. Lei nº 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a promoção,
+proteção e recuperação da saúde, a organização e o funcionamento dos serviços
+correspondentes e dá outras providências. Diário Oficial da União, Brasília, DF, 19 set. 1990.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 26 de 105
+
+Filtros da questão:
+
+[Semanas]
+9
+[Módulos integrados]
+IESC
+[Áreas de Conhecimento]
+Saúde Coletiva - Medicina de Família e Comunidade
+[Subáreas de Conhecimento]
+Atenção Primária à Saúde
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FESAR
+[Competências (Objetivos)]
+Conhecer o arcabouço jurídico e legal do SUS
+11ª QUESTÃO
+
+Código da questão:
+
+135439
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA Paraíba) Mulher, 30 anos, comparece à unidade de saúde com queixas recorrentes de
+dispneia, palpitações e sensação de compressão torácica. Os episódios ocorrem principalmente
+em situações de estresse emocional e têm curta duração. Ao exame clínico, apresenta taquipneia
+(frequência respiratória de 28 irpm), sem alterações na ausculta pulmonar ou sopros cardíacos. O
+eletrocardiograma é normal, e a oximetria de pulso demonstra saturação de O₂ de 98%. Após
+avaliação completa, o quadro é atribuído a crises de ansiedade, com provável hiperventilação
+associada. Considerando o controle fisiológico da respiração, marque a alternativa que apresenta
+a estrutura ou mecanismo com maior envolvimento na alteração ventilatória observada nesse
+caso:
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 27 de 105
+
+Alternativas:
+(alternativa A)
+Quimiorreceptores centrais situados no bulbo, sensíveis à variação do pH no líquido
+cefalorraquidiano.
+(alternativa B) (CORRETA)
+Sistema límbico e córtex cerebral, que modulam voluntariamente ou por emoção o ritmo
+respiratório.
+(alternativa C)
+Quimiorreceptores periféricos localizados nos corpos carotídeos, que respondem à hipoxemia.
+(alternativa D)
+Centro pneumotáxico da ponte, que promove a ativação do reflexo de Hering-Breuer em resposta
+à distensão pulmonar.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Alternativa correta: Sistema límbico e córtex cerebral, que modulam voluntariamente ou por
+emoção o ritmo respiratório.
+Segundo Silverthorn (2017) e Koeppen & Stanton (2009), embora o controle da ventilação seja
+predominantemente automático e regulado por quimiorreceptores centrais e periféricos em
+resposta a alterações nos níveis de CO₂, O₂ e pH, o sistema nervoso superior também
+desempenha papel essencial na modulação da respiração. Em situações de estresse emocional
+ou ansiedade, estruturas do sistema límbico e áreas corticais do cérebro (particularmente o
+córtex pré-frontal e áreas relacionadas à resposta emocional) podem influenciar os centros
+respiratórios no tronco encefálico, provocando hiperventilação mesmo na ausência de alterações
+gasométricas significativas. Isso explica a taquipneia observada na paciente, em um contexto
+sem disfunções pulmonares ou cardíacas.
+Alternativas incorretas:
+Os quimiorreceptores periféricos respondem principalmente à hipoxemia, o que não ocorre neste
+caso.
+O centro pneumotáxico regula a transição entre inspiração e expiração, mas não é o principal
+responsável pela hiperventilação induzida por ansiedade.
+Os quimiorreceptores centrais respondem à acidose respiratória por elevação de CO₂, o que
+também não se aplica à paciente.
+
+Referências:
+SILVERTHORN, Dee Unglaub. Fisiologia humana: uma abordagem integrada. 7. ed. Porto Alegre:
+Artmed, 2017.
+KOEPPEN, B. M.; STANTON, B.A. Berne e Levy: Fisiologia. 6. ed. Rio de Janeiro: Elsevier, 2009.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 28 de 105
+
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+15
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Descrever o controle da respiração.
+[Subáreas de Conhecimento]
+Sistema respiratório
+
+12ª QUESTÃO
+Código da questão:
+
+134147
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNIMA) Paciente feminina de 64 anos de idade, portadora de hipertensão arterial controlada há
+12 anos, compareceu para uma consulta de rotina. Diante do quadro, o médico assistente solicita
+aos estudantes que o acompanham para fazer a ausculta cardíaca. Após a ausculta no foco
+mitral, um dos alunos relata ter ouvido duas bulhas distintas e rítmicas: uma mais intensa no início
+da sístole e outra mais suave no final da diástole.
+Com base nesse achado clínico, assinale a alternativa correta.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 29 de 105
+
+Alternativas:
+(alternativa A)
+A primeira bulha (B1) corresponde ao fechamento das valvas semilunares, marcando o final da
+sístole.
+(alternativa B) (CORRETA)
+A primeira bulha (B1) ocorre no início da sístole, representando o fechamento das valvas mitral e
+tricúspide.
+(alternativa C)
+A primeira bulha (B1) marca o início da diástole e está relacionada à abertura das valvas mitral e
+tricúspide.
+(alternativa D)
+A segunda bulha (B2) está associada ao início da sístole, ocorrendo com o fechamento das
+valvas atrioventriculares.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 30 de 105
+
+Resposta comentada:
+A resposta correta é a que indica "A primeira bulha (B1) ocorre no início da sístole, representando
+o fechamento das valvas mitral e tricúspide." Pois a B1 é gerada pelo fechamento das valvas
+atrioventriculares (mitral e tricúspide), marcando o início da sístole ventricular. É normalmente
+mais audível no foco mitral e tem som mais grave e prolongado.
+Comentário das demais alternativas.
+"A primeira bulha (B1) corresponde ao fechamento das valvas semilunares, marcando o final da
+sístole." (INCORRETA). O fechamento das valvas semilunares (aórtica e pulmonar) não
+corresponde à B1, mas sim à B2. Além disso, a B1 não ocorre no final da sístole, e sim no
+início. Erro conceitual duplo: valvas e momento no ciclo.
+"A segunda bulha (B2) está associada ao início da sístole, ocorrendo com o fechamento das
+valvas atrioventriculares." (INCORRETA). A B2 marca o fim da sístole e está relacionada ao
+fechamento das valvas semilunares, não das AV. Inverte as bulhas e os eventos valvulares.
+"A primeira bulha (B1) marca o início da diástole e está relacionada à abertura das valvas mitral e
+tricúspide." (INCORRETA). A abertura das valvas não gera som audível na ausculta normal. A B1
+não marca o início da diástole, mas sim o da sístole. Erro conceitual comum entre iniciantes.
+Referências:
+GUYTON, Arthur C.; HALL, John E. Tratado de fisiologia médica. 14. ed. Rio de Janeiro: Elsevier,
+2021.
+MOHRMAN, David E.; HELLER, Lois Jane. Fisiologia cardiovascular. 8. ed. Porto Alegre: AMGH,
+2018.
+COSTA, Mônica C.; DIAS, Rodrigo M. Semiologia médica: da anamnese ao diagnóstico. 3. ed.
+Rio de Janeiro: Guanabara Koogan, 2022.
+PORTO, Celmo Celeno. Exame clínico / Celmo Celeno Porto, Arnaldo Lemos Porto. - 8. ed. Rio
+de Janeiro: Guanabara Koogan, 2024.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 31 de 105
+
+Feedback:
+Comentário das demais alternativas
+Alternativa – INCORRETA
+O fechamento das valvas semilunares (aórtica e pulmonar) não corresponde à B1, mas sim à
+B2. Além disso, a B1 não ocorre no final da sístole, e sim no início.
+Erro conceitual duplo: valvas e momento no ciclo.
+Alternativa – INCORRETA
+A B2 marca o fim da sístole e está relacionada ao fechamento das valvas semilunares, não
+das AV.
+Inverte as bulhas e os eventos valvulares.
+Alternativa – INCORRETA
+A abertura das valvas não gera som audível na ausculta normal. A B1 não marca o início da
+diástole, mas sim o da sístole.
+Erro conceitual comum entre iniciantes.
+Alternativa – INCORRETA
+A B2 realmente ocorre com o fechamento das valvas semilunares, porém marca o fim da sístole
+e início da diástole, não o início da sístole.
+Referências (formato ABNT):
+1. GUYTON, Arthur C.; HALL, John E. Tratado de fisiologia médica. 14. ed. Rio de
+Janeiro: Elsevier, 2021.
+2. MOHRMAN, David E.; HELLER, Lois Jane. Fisiologia cardiovascular. 8. ed. Porto
+Alegre: AMGH, 2018.
+3. COSTA, Mônica C.; DIAS, Rodrigo M. Semiologia médica: da anamnese ao
+diagnóstico. 3. ed. Rio de Janeiro: Guanabara Koogan, 2022.
+Filtros da questão:
+
+[Semanas]
+4
+[Módulos integrados]
+SOI + HAM
+[Áreas de Conhecimento]
+Sistema circulatório
+[Subáreas de Conhecimento]
+Fisiologia e anamnese do sistema circulatório.
+[Competências (Objetivos)]
+Identificar as bulhas cardíacas (B1 e B2) e correlacionar as bulhas
+com o ciclo cardíaco.
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIMA
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 32 de 105
+
+13ª QUESTÃO
+Código da questão:
+
+136490
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(FMIT) Durante uma aula prática de histologia, um estudante observa cortes histológicos corados
+de diferentes segmentos do trato digestório alto. Ao comparar as lâminas do esôfago e do
+estômago, nota-se diferenças marcantes na composição do epitélio de revestimento e na
+organização das glândulas da mucosa. O professor solicita que ele identifique corretamente as
+principais características histológicas que distinguem essas duas regiões.
+Com base nessa comparação, assinale a alternativa que descreve corretamente as principais
+diferenças histológicas entre o esôfago e o estômago.
+Alternativas:
+(alternativa A)
+O esôfago possui mucosa rica em células parietais que secretam HCl, enquanto o estômago
+possui epitélio especializado na condução do bolo alimentar, com poucas glândulas gástricas.
+(alternativa B) (CORRETA)
+O esôfago é revestido por epitélio pavimentoso estratificado não queratinizado, adaptado à
+proteção contra atrito mecânico, enquanto o estômago é revestido por epitélio colunar simples,
+especializado na secreção de muco e suco gástrico.
+(alternativa C)
+O esôfago contém glândulas gástricas oxínticas em sua submucosa, ao passo que o estômago
+possui glândulas mucosas exclusivamente na adventícia.
+(alternativa D)
+O esôfago apresenta epitélio cúbico simples com vilosidades, característica associada à
+absorção, enquanto o estômago apresenta epitélio escamoso estratificado adaptado à digestão
+proteica.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 33 de 105
+
+Resposta comentada:
+Alternativa: "O esôfago é revestido por epitélio pavimentoso estratificado não queratinizado,
+adaptado à proteção contra atrito mecânico, enquanto o estômago é revestido por epitélio colunar
+simples, especializado na secreção de muco e suco gástrico." Correta. Essa descrição é
+consistente com a histologia real dessas estruturas. O esôfago possui epitélio estratificado
+pavimentoso não queratinizado, o que o torna resistente ao atrito do bolo alimentar durante a
+deglutição. Já o estômago possui epitélio colunar simples, com glândulas que secretam muco,
+ácido clorídrico (HCl) e enzimas digestivas, essenciais para o processo digestivo e a proteção da
+parede gástrica.
+Alternativa: "O esôfago apresenta epitélio cúbico simples com vilosidades, característica
+associada à absorção, enquanto o estômago apresenta epitélio escamoso estratificado adaptado
+à digestão proteica." Incorreta. O esôfago não possui epitélio cúbico simples nem vilosidades —
+essas são características do intestino delgado, onde há função de absorção. O estômago não
+tem epitélio escamoso estratificado, mas sim colunar simples, e sua função principal não é
+absorção, mas digestão química. A digestão proteica ocorre no estômago, mas não exige epitélio
+escamoso — e sim a presença de glândulas gástricas especializadas (como células principais e
+parietais).
+Alternativa: "O esôfago possui mucosa rica em células parietais que secretam HCl, enquanto o
+estômago possui epitélio especializado na condução do bolo alimentar, com poucas glândulas
+gástricas." Incorreta. Células parietais, responsáveis pela secreção de HCl, são exclusivas do
+estômago, não existem no esôfago. A função do estômago não é apenas conduzir o bolo
+alimentar, mas sim iniciar a digestão química, especialmente de proteínas. O estômago possui
+muitas glândulas gástricas bem desenvolvidas, ricas em células principais, parietais e mucosas,
+portanto essa parte da alternativa está conceitualmente incorreta.
+Alternativa: "O esôfago contém glândulas gástricas oxínticas em sua submucosa, ao passo que o
+estômago possui glândulas mucosas exclusivamente na adventícia." Incorreta. O esôfago pode
+conter glândulas esofágicas na submucosa, mas não glândulas gástricas oxínticas (essas são
+exclusivas do estômago). O estômago não possui adventícia, mas sim serosa (por ser um órgão
+intraperitoneal). As glândulas do estômago estão localizadas na mucosa, não na adventícia — e
+incluem células mucosas, parietais (oxínticas) e principais.
+Referência:
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. 14. ed. Rio
+de Janeiro: Guanabara Koogan, 2023. E-book. p. Capa. ISBN 9788527739283. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 13 maio
+2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 34 de 105
+
+Filtros da questão:
+
+[Semanas]
+15
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Competências (Objetivos)]
+Descrever a anatomia e histologia do trato digestório alto.
+[Subáreas de Conhecimento]
+Anatomia
+Histologia
+Embriologia do sistema digestório
+14ª QUESTÃO
+
+Código da questão:
+
+133950
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 35 de 105
+
+Enunciado:
+(UNIREDENTOR) A relação entre pressão e volume dos pulmões é um aspecto fundamental da
+mecânica respiratória, sendo influenciada por diferentes variáveis, que interagem entre pulmões e
+caixa torácica.
+Analise o gráfico de pressão/volume dos pulmões, onde a relação entre a pressão transpulmonar
+e o volume pulmonar é representada por uma curva.
+
+Fonte: West, 2013.
+
+O parâmetro fisiológico avaliado está diretamente relacionado com:
+Alternativas:
+(alternativa A) (CORRETA)
+Complacência pulmonar, que indica a capacidade dos pulmões de se expandir.
+(alternativa B)
+Frequência respiratória e a variação de volume corrente ao longo do tempo.
+(alternativa C)
+Capacidade de difusão alveolar para a troca gasosa de oxigênio e dióxido de carbono.
+(alternativa D)
+Resistência das vias aéreas e seu efeito na entrada/saída de ar dos pulmões.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 36 de 105
+
+Resposta comentada:
+A complacência pulmonar é o parâmetro avaliado em um gráfico de pressão/volume. Esse gráfico
+mostra como o volume pulmonar muda em resposta a uma variação de pressão, o que reflete
+diretamente a complacência. Um pulmão com alta complacência se expande facilmente com
+pequenas mudanças de pressão, enquanto um pulmão com baixa complacência requer pressões
+maiores para se expandir;
+A frequência respiratória (FR) e o volume corrente (VC) são parâmetros que medem a quantidade
+de ar movimentada durante a respiração e o número de respirações (ventilações) por minuto
+(RPM/min). Esses parâmetros são mais adequadamente avaliados em gráficos de ventilação ao
+longo do tempo;
+A capacidade de difusão alveolar refere-se à eficiência com que os gases (oxigênio e dióxido de
+carbono) são trocados entre os alvéolos e o sangue. Esse processo é regulado principalmente
+pela integridade da membrana alveolocapilar e a diferença de concentrações de gases, não
+possuindo relação direta com o gráfico de pressão/volume.
+A resistência das vias aéreas refere-se à dificuldade que o ar encontra para passar pelas vias
+aéreas até os alvéolos, e é melhor avaliada em gráficos que relacionam fluxo de ar e volume ou
+pressão e fluxo, não no gráfico de pressão/volume, que avalia a capacidade dos pulmões de se
+expandirem.
+HALL, John E.; GUYTON, Arthur C. Tratado de Fisiologia Médica. 14ª ed. Rio de Janeiro:
+Elsevier, 2020.
+WEST, John B. Fisiologia Respiratória: princípios básicos. 9ª ed. Porto Alegre: Artmed, 2013.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+13
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIREDENTOR
+[Competências (Objetivos)]
+Compreender a mecânica respiratória (curvas pressão/volumes e
+capacidades, complacência e elastância).
+[Subáreas de Conhecimento]
+Sistema respiratório
+
+15ª QUESTÃO
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 37 de 105
+
+Código da questão:
+
+105788
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA ITACOATIARA) Em uma Unidade Básica de Saúde, os profissionais de saúde realizaram
+uma campanha de conscientização sobre a importância do controle da pressão arterial. Durante
+uma das consultas, ao aferir a pressão arterial (PA), uma paciente de 65 anos, previamente
+hígida, observou que a PA estava mais alta do que o esperado. Mediante este cenário, a equipe
+de saúde local buscou compreender as possíveis causas da alteração de pressão observada.
+Assinale a alternativa que dispõe das possíveis condições que levaram a paciente a esta
+alteração.
+Alternativas:
+(alternativa A)
+O método palpatório não foi realizado, levando a uma leitura falsamente alta da PAS devido ao
+hiato auscultatório.
+(alternativa B)
+Poderia estar sob o efeito de um medicamento que reduz o volume sanguíneo e,
+consequentemente, aumenta a PA.
+(alternativa C) (CORRETA)
+Estaria sob grande estresse emocional no momento da aferição, resultando em uma elevação
+temporária da PA devido à ativação do sistema nervoso simpático.
+(alternativa D)
+Havia acabado de realizar exercícios, resultando em um aumento da PA por ativação dos
+barorreceptores.
+
+Grau de dificuldade:
+
+Difícil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 38 de 105
+
+Resposta comentada:
+Está correto o que se afirma na alternativa sobre a influência do estresse emocional no momento
+da aferição da PA. O estresse emocional pode desencadear uma resposta do sistema nervoso
+simpático, levando à liberação de hormônios como a adrenalina, que causam vasoconstrição e
+aumento da frequência cardíaca, resultando em uma elevação temporária da pressão arterial.
+Este achado está alinhado com a literatura, onde estudos têm demonstrado que o estresse
+emocional pode influenciar significativamente os níveis de pressão arterial em curto prazo.
+Incorretas:
+A redução do volume de fluidos circulantes leva a uma diminuição da PA. Portanto, não é
+esperado que esses medicamentos causem um aumento na pressão arterial sistólica.
+O reflexo barorreceptor é iniciado por receptores de estiramento, chamados barorreceptores ou
+pressorreceptores. O aumento na pressão arterial estira os barorreceptores e faz com que
+transmitam sinais para o SNC. Os sinais de feedback são enviados de volta através do sistema
+nervoso autônomo para a circulação, para reduzir a pressão arterial até o nível normal.
+Hiato auscultatório: é o desaparecimento dos sons, durante a última parte da fase I e na fase II. O
+hiato pode cobrir uma faixa de 30 a 40 mmHg, podendo, desse modo, ser causa de se subestimar
+o nível da pressão sistólica ou superestimar o nível da pressão diastólica. O modo de evitá-lo é
+realizar sempre o método palpatório antes do auscultatório.
+Referências:
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico, 8ª edição. [Digite o Local da Editora]:
+Grupo GEN, 2017. E-book. ISBN 9788527731034. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527731034/. Acesso em: 27 abr. 2024.
+HALL, John E.; HALL, Michael E. Guyton & Hall - Tratado de Fisiologia Médica. [Digite o Local da
+Editora]: Grupo GEN, 2021. E-book. ISBN 9788595158696. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158696/. Acesso em: 27 abr. 2024.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 39 de 105
+
+Filtros da questão:
+
+[Semanas]
+4
+6
+[Módulos integrados]
+SOI + HAM
+[Competências (Objetivos)]
+Correlacionar a avaliação da PA com mecanismos reguladores da
+pressão.
+[Áreas de Conhecimento]
+Sistema circulatório
+[Subáreas de Conhecimento]
+Fisiologia e anamnese do sistema circulatório.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ITACOATIARA
+16ª QUESTÃO
+
+Código da questão:
+
+135010
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(IESVAP) Durante seu estágio em uma Unidade Básica de Saúde (UBS), um aluno do 5º ano de
+medicina acompanha uma consulta com o Sr. Geraldo, 74 anos, aposentado, ex-tabagista (60
+maços/ano, cessou há 5 anos), que se queixa de "ínguas no pescoço" há cerca de 3 meses. Ele
+relata que os gânglios não doem, mas que parecem estar maiores desde que notou pela primeira
+vez. Refere febre, perda de peso e sudorese noturna. Durante o exame físico, o aluno encontra
+linfonodos cervicais posteriores bilaterais, endurecidos, indolores, pouco móveis e medindo cerca
+de 3 cm. Não há sinais flogísticos na pele adjacente. O baço não é palpável.
+Considerando o caso clínico acima, assinale a alternativa abaixo que corresponde à característica
+mais compatível com um linfonodo de etiologia maligna, de acordo com a semiologia.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 40 de 105
+
+Alternativas:
+(alternativa A)
+Linfonodos amolecidos, com hiperemia e dor à palpação.
+(alternativa B)
+Linfonodos dolorosos, móveis, pequenos e com flutuação à palpação.
+(alternativa C)
+Linfonodos firmes, dolorosos, móveis e simétricos.
+(alternativa D) (CORRETA)
+Linfonodos endurecidos, indolores, fixos e maiores que 2,5 cm.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A diferenciação entre linfonodos benignos (reativos) e malignos (neoplásicos) baseia-se em
+consistência, mobilidade, dor e tamanho:
+Benignos (reativos): geralmente dolorosos, móveis, elásticos ou firmes, com resolução
+em semanas, e podem ter sinais inflamatórios locais.
+Malignos: tendem a ser endurecidos, indolores, aderidos a planos profundos, pouco
+móveis e com aumento progressivo. O tamanho superior a 2,5 cm, associado à
+cronicidade e ausência de sinais inflamatórios, é sugestivo de malignidade.
+Referência:
+PORTO, J. C. Semiologia médica. 8. ed. Rio de Janeiro: Guanabara Koogan, 2019.
+DE GODOY, M. F.; LEMOS, M. D. Propedêutica médica: a abordagem clínica do paciente. 3. ed.
+Barueri, SP: Manole, 2019.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 41 de 105
+
+Filtros da questão:
+
+[Semanas]
+13
+[Módulos integrados]
+HAM
+[Áreas de Conhecimento]
+Semiologia
+[Competências (Objetivos)]
+Diferenciar as características benignas e malignas dos linfonodos.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+IESVAP
+[Subáreas de Conhecimento]
+Exame Físico
+17ª QUESTÃO
+
+Código da questão:
+
+133770
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(FACIMPA) Durante uma aula prática de histologia no laboratório, um grupo de acadêmicos do
+primeiro período de medicina analisa lâminas coradas com hematoxilina e eosina (HE), com
+cortes transversais do trato digestório baixo. A professora distribui quatro lâminas não
+identificadas (A, B, C e D), desafiando os alunos a classificarem corretamente as estruturas com
+base nas características histológicas.
+Na lâmina A, os alunos observam uma mucosa com vilosidades longas e numerosas
+células caliciformes.
+Na lâmina B, identificam-se criptas intestinais profundas, ausência de vilosidades e
+presença de células caliciformes e células de Paneth.
+A lâmina C revela epitélio colunar simples com células caliciformes em abundância,
+mas sem estruturas glandulares evidentes e com muscular da mucosa pouco
+desenvolvida.
+Na lâmina D, há mucosa composta por epitélio plano estratificado não queratinizado e
+ausência de vilosidades.
+Com base nos achados histológicos, associe corretamente as lâminas aos segmentos do trato
+digestório representados e analise as afirmativas:
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 42 de 105
+
+Alternativas:
+(alternativa A)
+Lâmina A: duodeno;
+Lâmina B: íleo terminal;
+Lâmina C: cólon transverso;
+Lâmina D: reto.
+
+(alternativa B) (CORRETA)
+Lâmina A: jejuno;
+Lâmina B: íleo terminal;
+Lâmina C: apêndice vermiforme;
+Lâmina D: canal anal (porção distal).
+
+(alternativa C)
+Lâmina A: íleo terminal;
+Lâmina B: cólon ascendente;
+Lâmina C: apêndice vermiforme;
+Lâmina D: canal anal (porção superior).
+
+(alternativa D)
+Lâmina A: jejuno;
+Lâmina B: cólon sigmoide;
+Lâmina C: reto;
+Lâmina D: canal anal (transição epitelial).
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 43 de 105
+
+Resposta comentada:
+Lâmina A – Jejuno: apresenta vilosidades longas e numerosas células caliciformes,
+sem glândulas de Brunner (como no duodeno) nem placas de Peyer (como no íleo).
+Lâmina B – Íleo terminal: ausência de vilosidades, presença de criptas, células
+caliciformes e células de Paneth nas criptas; pode conter placas de Peyer (linfóides).
+Lâmina C – Apêndice vermiforme: apresenta mucosa semelhante ao cólon, com
+criptas pouco numerosas, muitas células caliciformes, epitélio colunar simples e tecido
+linfoide abundante.
+Lâmina D – Canal anal (porção distal): caracteriza-se por epitélio plano estratificado não
+queratinizado, sendo transição entre o epitélio colunar do reto e o epitélio escamoso da
+pele.
+Referências:
+JUNQUEIRA, L. C.; CARNEIRO, J. Histologia Básica: Texto e Atlas. 15. ed. Rio de Janeiro:
+Guanabara Koogan, 2021.
+ROSS, M. H.; PAWLINA, W. Histologia: Texto e Atlas. 8. ed. Rio de Janeiro: Guanabara Koogan,
+2020.
+NETTER, F. H. Atlas de Anatomia Humana. 7. ed. Rio de Janeiro: Elsevier, 2020.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+16
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Saúde Coletiva/Sistema Digestório
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+[Competências (Objetivos)]
+Descrever a anatomia e histologia do trato digestório baixo.
+[Subáreas de Conhecimento]
+Histologia
+18ª QUESTÃO
+
+Código da questão:
+
+106941
+
+Tipo da questão:
+
+Múltipla Escolha
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 44 de 105
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA ITACOATIARA) Homem, 55 anos, motorista profissional, compareceu à clínica com
+queixas de tosse seca e irritativa persistente há cerca de seis meses. Refere episódios de
+expectoração matinal de muco espesso e amarelado, além de “pigarro” constante, o que o obriga
+a limpar a garganta repetidamente ao longo do dia. Relata exposição prolongada à fumaça de
+cigarro e poeira nas estradas. O exame físico sugere um quadro de inflamação crônica nas vias
+aéreas centrais.
+Com base no quadro clínico e na fisiopatologia respiratória, assinale a alternativa que identifica
+corretamente o tipo de epitélio afetado e o mecanismo comprometido.
+Alternativas:
+(alternativa A) (CORRETA)
+Epitélio colunar ciliado pseudoestratificado com células caliciformes, onde o aumento da produção
+de muco por células caliciformes e a disfunção ciliar comprometem a depuração mucociliar das
+vias aéreas centrais.
+(alternativa B)
+Epitélio pavimentoso simples, que reveste os alvéolos pulmonares e impede a passagem de
+partículas para a superfície respiratória.
+(alternativa C)
+Epitélio estratificado queratinizado, que atua como barreira mecânica nas vias aéreas centrais e
+participa da produção de muco.
+(alternativa D)
+Epitélio cúbico simples, responsável pela condução do ar em bronquíolos terminais e pela
+secreção em ductos glandulares das vias aéreas.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 45 de 105
+
+Resposta comentada:
+- Alternativa – Epitélio cúbico simples, responsável pela condução do ar em bronquíolos terminais
+e pela secreção em ductos glandulares das vias aéreas. Incorreta. Apesar de esse epitélio estar
+presente em ductos glandulares e pequenos bronquíolos, ele não reveste as vias aéreas centrais
+(como traqueia e brônquios), que são o foco da inflamação nesse caso clínico.
+- Alternativa – Epitélio estratificado queratinizado, que atua como barreira mecânica nas vias
+aéreas centrais e participa da produção de muco. Incorreta. Esse tipo de epitélio não é típico das
+vias aéreas, podendo surgir apenas como metaplasia escamosa em casos extremos. Além
+disso, ele não produz muco, pois não possui células caliciformes nem cílios.
+- Alternativa – Epitélio pavimentoso simples, que reveste os alvéolos pulmonares e impede a
+passagem de partículas para a superfície respiratória. Incorreta. Refere-se aos pneumócitos tipo
+I, que revestem os alvéolos. No entanto, o quadro clínico indica irritação das vias aéreas
+superiores, e não do parênquima pulmonar.
+- Alternativa – Epitélio colunar ciliado pseudoestratificado com células caliciformes, onde o
+aumento da produção de muco por células caliciformes e a disfunção ciliar comprometem a
+depuração mucociliar das vias aéreas centrais. Correta. Esse epitélio é característico da traqueia
+e dos brônquios principais. A inflamação crônica decorrente de tabagismo ou exposição a
+poluentes aumenta a atividade das células caliciformes, levando à produção excessiva de muco,
+e danifica os cílios, prejudicando o mecanismo de limpeza mucociliar.
+Referência:
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. p. Capa. ISBN 9788527739283. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 13 maio
+2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 46 de 105
+
+Filtros da questão:
+
+[Semanas]
+11
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+Sistema Respiratório
+[Subáreas de Conhecimento]
+Imunologia
+Sistema respiratório/ imunológico
+[Competências (Objetivos)]
+Conhecer os mecanismos de defesa do sistema respiratório
+(incluindo sistema mucociliar, tosse, sistema fagocitário e órgãos
+linfoides na faringe e laringe, com foco nas tonsilas).
+Conhecer os mecanismos de defesa do sistema respiratório
+(incluindo sistema mucociliar, tosse, sistema fagocitário e órgãos
+linfoides na faringe e laringe, com foco nas tonsilas).
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ITACOATIARA
+19ª QUESTÃO
+
+Código da questão:
+
+135702
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 47 de 105
+
+Enunciado:
+(UNITPAC) Analise as quatro situações descritas abaixo, que retratam condutas observadas
+durante um estágio de Medicina na Atenção Primária à Saúde. Com base nos princípios éticos e
+humanísticos do Código de Ética do Estudante de Medicina, julgue cada situação individualmente
+como ética ou antiética. Em seguida, analise e assinale a alternativa que apresenta a avaliação
+ética correta para todas as quatro situações.
+Situações:
+1. Durante uma consulta, o estudante orienta o paciente sobre o uso correto de seus
+medicamentos, demonstrando respeito pela sua autonomia e escutando suas dúvidas
+com atenção.
+2. O estudante realiza o registro dos dados clínicos no prontuário de forma precisa e
+fidedigna, garantindo o sigilo das informações compartilhadas pelo paciente.
+3. O estudante fotografa uma lesão dermatológica rara utilizando seu celular pessoal, sem
+obter autorização prévia por escrito do paciente, justificando o ato para futura discussão
+acadêmica.
+4. O estudante colabora ativamente com a equipe multiprofissional, respeitando as
+decisões dos outros profissionais e buscando uma abordagem integrada no cuidado ao
+paciente.
+Alternativas:
+(alternativa A) (CORRETA)
+Situação 1: Ética; Situação 2: Ética; Situação 3: Antiética; Situação 4: Ética.
+(alternativa B)
+Situação 1: Ética; Situação 2: Antiética; Situação 3: Antiética; Situação 4: Ética.
+(alternativa C)
+Situação 1: Ética; Situação 2: Ética; Situação 3: Ética; Situação 4: Ética.
+(alternativa D)
+Situação 1: Antiética; Situação 2: Ética; Situação 3: Ética; Situação 4: Antiética.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 48 de 105
+
+Resposta comentada:
+Resposta Comentada:
+A alternativa correta é: Situação 1: Ética; Situação 2: Ética; Situação 3: Antiética; Situação 4:
+Ética).
+Situação 1: Ética. Respeitar a autonomia do paciente, escutá-lo de forma acolhedora e promover
+o entendimento do seu tratamento são atitudes alinhadas ao princípio da beneficência e da
+comunicação humanizada, conforme o Código de Ética do Estudante de Medicina (ABEM, 2018).
+Situação 2: Ética. O registro fidedigno das informações e a preservação do sigilo demonstram
+compromisso com a ética, com a responsabilidade clínica e com a confiança na relação
+profissional-paciente, em consonância com as diretrizes éticas.
+Situação 3: Antiética. Fotografar uma lesão de um paciente utilizando dispositivo pessoal, sem
+autorização formal, livre e esclarecida, mesmo com fins acadêmicos, configura violação dos
+princípios de confidencialidade, respeito à privacidade e dignidade da pessoa atendida. Tal
+conduta infringe normas éticas e legais que regem a proteção de dados sensíveis e o direito à
+imagem no contexto do cuidado em saúde (ABEM, 2018).
+Situação 4: Ética. A colaboração com a equipe multidisciplinar, o respeito às decisões
+compartilhadas e o engajamento no cuidado integral reforçam a ética interprofissional, valorizando
+a integralidade da atenção à saúde.
+Referência:
+ASSOCIAÇÃO BRASILEIRA DE EDUCAÇÃO MÉDICA (ABEM). Código de Ética do
+Estudante de Medicina. 1. ed. Brasília: ABEM, 2018.
+Feedback:
+A questão apresentada envolve diretamente o domínio de princípios éticos e humanísticos que
+regem a formação e a prática médica desde seus estágios iniciais. Para respondê-la
+adequadamente, é necessário compreender o conteúdo normativo do Código de Ética elaborado
+pela Associação Brasileira de Educação Médica (ABEM), com ênfase nos aspectos que regulam
+a relação com o paciente, o sigilo profissional, o uso de dados sensíveis e o comportamento em
+ambientes de ensino-aprendizagem em saúde. A situação proposta demanda habilidades de
+análise crítica, julgamento ético e capacidade de identificar condutas que ferem o respeito à
+dignidade, à autonomia e à privacidade da pessoa atendida. Também exige discernimento entre
+atitudes que valorizam o cuidado empático, a comunicação humanizada, a interprofissionalidade e
+a conduta responsável frente ao uso de tecnologias, especialmente no que diz respeito ao registro
+e à divulgação de imagens ou informações clínicas. A resolução da questão pressupõe, portanto,
+competências como leitura atenta de situações clínicas e comportamentais, interpretação de
+cenários sob a ótica da bioética, além de conhecimento das normas que norteiam o
+comportamento profissional nas práticas formativas. Trata-se de uma avaliação que ultrapassa o
+conhecimento teórico e requer internalização de valores fundamentais à prática médica
+comprometida com o respeito e com a integridade do outro.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 49 de 105
+
+Filtros da questão:
+
+[Semanas]
+2
+17
+[Áreas de Conhecimento]
+Saúde Coletiva - Medicina de Família e Comunidade
+Semiologia
+[Subáreas de Conhecimento]
+Processo ensino-aprendizagem na carreira médica e avaliação
+formativa
+[Competências (Objetivos)]
+Discutir os principais pontos do Código de Ética do Estudante de
+Medicina sobre os atendimentos aos usuários e as relações com
+outros profissionais da equipe.
+[Módulos integrados]
+IESC + HAM
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNITPAC
+20ª QUESTÃO
+
+Código da questão:
+
+135425
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNISL JI-PARANÁ) Durante uma avaliação ambulatorial, dois pacientes apresentaram
+condições clínicas inflamatórias distintas. Analise os casos a seguir:
+Paciente 1: Apresenta dor intensa no ouvido direito com início há 24 horas,
+acompanhada de vermelhidão local, febre e aumento de volume. O exame físico revela
+calor local e secreção purulenta ao exame otoscópico.
+Paciente 2: Relata dor lombar de leve intensidade há vários meses, sem febre ou sinais
+locais evidentes. Exames de imagem mostram destruição articular progressiva e
+presença de tecido fibroso no local acometido.
+Com base na análise dos casos e no conhecimento sobre os processos inflamatórios, assinale a
+alternativa correta.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 50 de 105
+
+Alternativas:
+(alternativa A)
+Ambos os pacientes apresentam inflamação crônica, com manifestações diferentes.
+(alternativa B) (CORRETA)
+O Paciente 1 apresenta inflamação aguda, e o Paciente 2 apresenta inflamação crônica.
+(alternativa C)
+Ambos os pacientes apresentam inflamação aguda, em estágios diferentes.
+(alternativa D)
+O Paciente 1 apresenta inflamação crônica, e o Paciente 2 apresenta inflamação aguda.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 51 de 105
+
+Resposta comentada:
+Alternativa correta: O Paciente 1 apresenta inflamação aguda, e o Paciente 2 apresenta
+inflamação crônica.
+Justificativa:
+O Paciente 1 apresenta um quadro com início súbito, sinais flogísticos intensos (dor,
+calor, rubor, tumor e perda de função), além de secreção purulenta e febre — todos
+esses são sinais clássicos de inflamação aguda. Esse tipo de inflamação é
+caracterizado por ser de curta duração (horas a poucos dias), com intensa participação
+de neutrófilos, aumento da permeabilidade vascular e exsudato rico em proteínas.
+O Paciente 2, por outro lado, relata um quadro de evolução lenta e arrastada, com dor
+leve e persistente, ausência de sinais flogísticos clássicos e evidências de destruição
+articular e fibrose em exames de imagem — características típicas de inflamação
+crônica. Nessa fase, predominam linfócitos, plasmócitos, macrófagos e ocorre
+proliferação de vasos, fibrose e destruição progressiva do tecido.
+Alternativa incorreta: O Paciente 1 apresenta inflamação crônica, e o Paciente 2 apresenta
+inflamação aguda.
+Essa alternativa inverte os diagnósticos. O paciente 1 apresenta um quadro com sinais típicos de
+início rápido, febre, dor e pus, compatível com inflamação aguda, e não crônica. Já o paciente 2
+apresenta quadro arrastado e com sinais de destruição tecidual, típico da inflamação crônica, e
+não aguda.
+Alternativa incorreta: Ambos os pacientes apresentam inflamação aguda, em estágios diferentes.
+Essa alternativa ignora a evolução temporal e as características celulares e teciduais distintas
+entre os dois processos. O paciente 2 apresenta um quadro claramente crônico, sem sinais
+clássicos de agudização, e com evidência de fibrose e destruição tecidual progressiva, típicos da
+inflamação de longa duração. Portanto, não há apenas uma diferença de estágio entre dois casos
+agudos, e sim dois tipos distintos de inflamação.
+Alternativa incorreta: Ambos os pacientes apresentam inflamação crônica, com manifestações
+diferentes.
+Essa opção incorretamente classifica o caso do paciente 1 como crônico, mesmo diante de sinais
+inequívocos de inflamação aguda (calor, rubor, dor, secreção purulenta, febre e início recente).
+Ignora a intensidade e o tempo de evolução do quadro, que são essenciais para diferenciar agudo
+de crônico. A inflamação crônica, como vista no paciente 2, envolve remodelamento tecidual e
+resposta inflamatória persistente com predomínio de células mononucleares, o que não se aplica
+ao paciente 1.
+Referências:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Corpo Humano: Fundamentos de Anatomia e
+Fisiologia. Artmed Editora, 2016.
+KUMAR, Vinay. Robbins Patologia Básica. 10. ed. Rio de Janeiro: GEN Guanabara Koogan,
+2018. E-book. p. 81. ISBN 9788595151895. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595151895/. Acesso em: 30 abr. 2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 52 de 105
+
+Filtros da questão:
+
+[Semanas]
+10
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNISL JI-PARANÁ
+[Competências (Objetivos)]
+Diferenciar inflamação aguda e crônica.
+[Subáreas de Conhecimento]
+Sistema imunológico
+21ª QUESTÃO
+
+Código da questão:
+
+136477
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(FMIT) Um recém-nascido prematuro, com 29 semanas de idade gestacional, foi admitido na UTI
+neonatal com dificuldade respiratória intensa logo após o parto. O exame físico revelou esforço
+respiratório importante, retrações intercostais e cianose. A equipe médica iniciou suporte
+ventilatório invasivo devido à ineficiência dos movimentos respiratórios do recém-nascido. A
+hipótese clínica levantada é de que a gravidade do quadro esteja relacionada à produção
+insuficiente de uma substância essencial à estabilidade e defesa dos alvéolos pulmonares.
+Com base nesse cenário clínico e nos conhecimentos de fisiologia pulmonar, analise as
+alterações que ocorrem no alvéolo em decorrência da deficiência dessa substância.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 53 de 105
+
+Alternativas:
+(alternativa A)
+A elasticidade pulmonar está reduzida devido à produção excessiva de surfactante pelos
+pneumócitos tipo I, o que aumenta a pressão intra-alveolar e causa hiperventilação.
+(alternativa B)
+A complacência pulmonar está aumentada, facilitando a expansão dos alvéolos, e a tensão
+superficial está reduzida pela ação compensatória dos pneumócitos tipo I.
+(alternativa C) (CORRETA)
+A tensão superficial alveolar está aumentada, contribuindo para o colapso pulmonar, e há redução
+da atividade imune local por deficiência de proteínas do surfactante.
+(alternativa D)
+A ausência funcional dos pneumócitos tipo II reduz a produção de surfactante, e essa deficiência
+compromete a estabilidade alveolar e a eficiência da troca gasosa.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 54 de 105
+
+Resposta comentada:
+Alternativa: "A complacência pulmonar está aumentada, facilitando a expansão dos alvéolos, e a
+tensão superficial está reduzida pela ação compensatória dos pneumócitos tipo I." Erro conceitual
+intencional: A complacência estaria reduzida, não aumentada. Pneumócitos tipo I não produzem
+surfactante, portanto não reduzem a tensão superficial.
+Alternativa: "A tensão superficial alveolar está aumentada, contribuindo para o colapso pulmonar,
+e há redução da atividade imune local por deficiência de proteínas do surfactante." Correção
+científica: verdadeira e mais completa. Além do colapso alveolar, o surfactante tem proteínas (SPA e SP-D) com função imune. Essa alternativa aborda duas funções principais do surfactante:
+mecânica e imunológica.
+Alternativa: "A produção de surfactante aumenta como resposta adaptativa dos pneumócitos tipo
+I, o que melhora a ventilação alveolar e previne a atelectasia." Erro conceitual intencional:
+Pneumócitos tipo I não produzem surfactante; quem faz isso são os tipo II. Na SDR do
+prematuro, não há aumento adaptativo da produção de surfactante, mas sim deficiência por
+imaturidade pulmonar.
+Alternativa: "A elasticidade pulmonar está aumentada devido ao predomínio de colapso alveolar, e
+os pneumócitos tipo I mantêm sua função, mas não conseguem compensar a tensão superficial."
+Incorreta. A elasticidade não aumenta; o que ocorre é redução da complacência (ou seja, o
+pulmão exige mais esforço para expandir). Pneumócitos tipo I não produzem surfactante e não
+têm papel ativo na modulação da tensão superficial.
+Alternativa: "A elasticidade pulmonar está reduzida devido à produção excessiva de surfactante
+pelos pneumócitos tipo I, o que aumenta a pressão intra-alveolar e causa hiperventilação." Erros
+conceituais intencionais: Erro 1: Pneumócitos tipo I não produzem surfactante — essa é função
+dos tipo II. Erro 2: Em prematuros com SDR, há deficiência de surfactante, não produção
+excessiva. Erro 3: A elasticidade pulmonar não se reduz por excesso de surfactante — na
+verdade, a falta dele é que prejudica a mecânica pulmonar. Erro 4: Não há hiperventilação no
+quadro descrito, mas sim hipoventilação com atelectasias e hipoxemia.
+Referência:
+HALL, John E. ; HALL, Michael E. Guyton & Hall: Fundamentos de Fisiologia. 14. ed. Rio de
+Janeiro: GEN Guanabara Koogan, 2023. E-book. p. 243. ISBN 9788595159518. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159518/. Acesso em: 13 maio
+2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 55 de 105
+
+Filtros da questão:
+
+[Semanas]
+14
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Sistema Respiratório
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Competências (Objetivos)]
+Descrever a composição e funções do surfactante (inclusive
+imunológicas).
+[Subáreas de Conhecimento]
+Sistema respiratório
+22ª QUESTÃO
+
+Código da questão:
+
+135570
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(FASA VIC) Um paciente do sexo masculino, 28 anos, comparece à consulta ambulatorial
+queixando-se de fraqueza muscular progressiva, fadiga persistente e perda de peso não
+intencional nos últimos 3 meses. Ele nega febre, sudorese noturna ou dor. Relata que há cerca de
+4 meses passou a seguir uma dieta vegana estrita, sem acompanhamento nutricional, com o
+objetivo de melhorar sua performance esportiva e saúde geral. Ao exame físico, apresenta-se
+emagrecido (IMC=18,1Kg/m 2), com redução evidente da massa muscular, sobretudo, em
+membros inferiores. Não há alterações neurológicas focais.
+Com base no relato de caso e nos seus conhecimentos sobre as diferentes macromoléculas,
+qual das alternativas abaixo está correta em relação à constituição química da macromolécula
+cuja deficiência pode justificar o quadro clínico?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 56 de 105
+
+Alternativas:
+(alternativa A)
+Moléculas formadas por ácidos graxos e glicerol, ligadas por ligações éster, com função estrutural
+e de reserva energética.
+(alternativa B)
+Cadeias lineares ou ramificadas de monossacarídeos unidos por ligações glicosídicas, com
+função principalmente energética.
+(alternativa C)
+Polímeros de nucleotídeos unidos por ligações fosfodiéster, compostos por bases nitrogenadas,
+pentoses e grupos fosfato.
+(alternativa D) (CORRETA)
+Macromoléculas compostas por unidades de aminoácidos unidas por ligações peptídicas,
+contendo nitrogênio em sua estrutura.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O quadro clínico sugere uma deficiência proteica moderada, associada a uma dieta vegana sem
+planejamento. A perda muscular e a fadiga são sinais típicos. Portanto, a alternativa
+"Macromoléculas compostas por unidades de aminoácidos unidas por ligações peptídicas,
+contendo nitrogênio em sua estrutura." é a única correta, pois descreve exatamente as proteínas
+(macromoléculas compostas por aminoácidos ligados por ligações peptídicas, e contendo
+nitrogênio – grupo amina), cuja deficiência pode justificar o quadro clínico apresentado.
+As demais alternativas estão incorretas para o que pede a questão porque:
+"Polímeros de nucleotídeos unidos por ligações fosfodiéster, compostos por bases nitrogenadas,
+pentoses e grupos fosfato."
+Essa alternativa descreve ácidos nucleicos (DNA e RNA), os quais não estão diretamente
+relacionados à perda de massa muscular observada nesse quadro clínico. Sua principal função é
+o armazenamento e transmissão da informação genética, e não o fornecimento estrutural ou
+energético.
+"Cadeias lineares ou ramificadas de monossacarídeos unidos por ligações glicosídicas, com
+função principalmente energética."
+Essa alternativa define carboidratos (como amido ou glicogênio), cuja principal função é o
+fornecimento rápido de energia. A deficiência de carboidratos leva a quadros diferentes (ex:
+hipoglicemia, cetoacidose), não explicando diretamente a perda de massa muscular nem a fadiga
+relacionada à perda proteica.
+"Moléculas formadas por ácidos graxos e glicerol, ligadas por ligações éster, com função
+estrutural e de reserva energética."
+Essa alternativa define os lipídios, especialmente os triglicerídeos. São fontes energéticas
+importantes e componentes estruturais das membranas celulares, mas não contêm nitrogênio e
+não explicam a perda muscular observada nesse paciente.
+Referência:
+NELSON, D. L.; COX, M. M.; HOSKINS, A. A. Princípios de bioquímica de Lehninger. 8ª ed.
+Porto Alegre: Artmed, 2022.
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 57 de 105
+
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+16
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+[Competências (Objetivos)]
+Descrever a estrutura bioquímica e classificação dos
+macronutrientes (carboidratos, proteínas e lipídeos).
+[Subáreas de Conhecimento]
+Metabolismo
+
+23ª QUESTÃO
+Código da questão:
+
+107736
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA ABAETETUBA) A prática médica, desde a obtenção da história clínica do paciente
+(anamnese) até o registro detalhado no prontuário, fundamenta-se em princípios éticos
+essenciais. A responsabilidade do estudante de medicina nesse processo formativo, seja no
+contexto da Atenção Primária à Saúde ou em estudos populacionais, envolve a aplicação rigorosa
+desses princípios. A precisão e a clareza na documentação da anamnese refletem o
+compromisso com a qualidade do cuidado e a comunicação eficaz entre os profissionais de
+saúde. Adicionalmente, o respeito ao sigilo das informações do paciente, tanto no atendimento
+individual quanto na análise de dados agregados em pesquisas, é um pilar da ética médica,
+garantindo a privacidade e a confiança na relação médico-paciente. O Código de Ética do
+Estudante de Medicina estabelece diretrizes claras sobre esses deveres e veda condutas que
+possam comprometer a integridade das informações e a confidencialidade.
+Analise as seguintes afirmações, em seguida selecione a alternativa que contém os itens
+corretos.
+I. É dever do aluno escrever de forma correta, clara e legível no prontuário do paciente.
+II. É dever do aluno manusear e manter sigilo sobre informações contidas em prontuários,
+papeletas, exames e demais folhas de observações médicas.
+III. É dever do aluno realizar a quebra de sigilo médico, quando necessário.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 58 de 105
+
+Alternativas:
+(alternativa A) (CORRETA)
+I e II.
+(alternativa B)
+II e III.
+(alternativa C)
+I, II e III.
+(alternativa D)
+I e III.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Afirmação I: Correta. O Art. 31 do Código de Ética do Estudante de Medicina
+(ABEM/CFM, 2018) estabelece como dever do aluno escrever de forma correta, clara e
+legível no prontuário do paciente, garantindo a adequada comunicação e registro das
+informações clínicas.
+Afirmação II: Correta. O Art. 32 do mesmo código determina que é dever do aluno
+manusear e manter sigilo sobre informações contidas em prontuários, papeletas,
+exames e demais folhas de observações médicas, reforçando a importância da
+confidencialidade na relação com o paciente.
+Afirmação III: Incorreta. O Art. 29 do Código de Ética do Estudante de Medicina veda ao
+acadêmico de medicina a quebra de sigilo médico, sendo esta uma responsabilidade do
+médico assistente, que possui a competência e a responsabilidade legal para avaliar a
+necessidade e as implicações éticas e legais de tal ato.
+Referência:
+ASSOCIAÇÃO BRASILEIRA DE EDUCAÇÃO MÉDICA; CONSELHO FEDERAL DE
+MEDICINA. Código de Ética do Estudante de Medicina. Brasília: ABEM/CFM, 2018.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 59 de 105
+
+Filtros da questão:
+
+[Semanas]
+2
+14
+[Competências (Objetivos)]
+Compreender a conduta médica no emprego dos princípios éticos
+que envolvem a realização da anamnese e registro dos prontuários
+médicos de maneira adequada, na atenção primária.
+[Áreas de Conhecimento]
+Formação Médica.
+[Subáreas de Conhecimento]
+Processo ensino-aprendizagem na carreira médica e avaliação
+formativa
+Anamnese e diagnóstico situacional
+[Módulos integrados]
+IESC + HAM
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+24ª QUESTÃO
+
+Código da questão:
+
+134863
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA GARANHUNS) Ao elaborar uma atividade de Educação em Saúde sobre alimentação
+saudável, um grupo de estudantes, junto com o seu professor, realizou uma visita ao
+supermercado para verificar a disponibilidade e o preço de diferentes alimentos. Durante a visita,
+analisaram como fatores sociais (acesso à educação, renda, saneamento básico e políticas de
+saúde) podem influenciar as escolhas alimentares da população, impactando a ingestão de
+macronutrientes (carboidratos, proteínas e lipídeos) e a saúde digestiva.
+Considerando esse contexto, analise qual das seguintes alternativas melhor descreve como
+diferentes determinantes sociais podem afetar a classificação e a escolha de alimentos ricos em
+macronutrientes.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 60 de 105
+
+Alternativas:
+(alternativa A)
+O acesso à educação nutricional capacita indivíduos de diferentes classes sociais a fazerem
+escolhas mais informadas sobre alimentos ricos em proteínas magras, como cortes de carne
+mais caros e peixes frescos, mesmo que seus preços sejam mais elevados.
+(alternativa B)
+Indivíduos de classes sociais mais altas tendem a priorizar alimentos processados ricos em
+carboidratos simples, como biscoitos e refrigerantes, devido à maior disponibilidade desses
+produtos em áreas nobres e à influência da publicidade direcionada a esse público.
+(alternativa C)
+A menor disponibilidade de informações nutricionais claras em produtos básicos, como arroz e
+feijão, consumidos por grande parte da população de baixa renda, impede a identificação de seu
+teor de macronutrientes, levando a escolhas alimentares menos conscientes em relação ao
+consumo de proteínas e carboidratos complexos.
+(alternativa D) (CORRETA)
+Políticas de saúde que subsidiam frutas e vegetais frescos tornam esses alimentos mais
+acessíveis para famílias de baixa renda, aumentando o consumo de carboidratos complexos,
+vitaminas e fibras, em comparação com opções mais baratas e ricas em lipídios saturados, como
+embutidos.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 61 de 105
+
+Resposta comentada:
+Indivíduos de classes sociais mais altas tendem a priorizar alimentos processados ricos em
+carboidratos simples, como biscoitos e refrigerantes, devido à maior disponibilidade desses
+produtos em áreas nobres e à influência da publicidade direcionada a esse público.
+Comentário (incorreta): Embora a disponibilidade e a publicidade influenciem o
+consumo, indivíduos de classes sociais mais altas geralmente têm maior acesso a
+uma variedade de alimentos, incluindo opções mais saudáveis, e podem ser mais
+suscetíveis a informações nutricionais e tendências de saúde. A priorização de
+alimentos processados ricos em carboidratos simples não é exclusiva dessa classe
+social.
+O acesso à educação nutricional capacita indivíduos de diferentes classes sociais a fazerem
+escolhas mais informadas sobre alimentos ricos em proteínas magras, como cortes de carne
+mais caros e peixes frescos, mesmo que seus preços sejam mais elevados.
+Comentário (incorreta): O acesso à educação nutricional é fundamental, mas o preço
+continua sendo um fator limitante significativo, especialmente para indivíduos de
+classes sociais mais baixas. Mesmo com conhecimento, a escolha de proteínas
+magras mais caras pode ser inviável financeiramente.
+Políticas de saúde que subsidiam frutas e vegetais frescos tornam esses alimentos mais
+acessíveis para famílias de baixa renda, aumentando o consumo de carboidratos complexos,
+vitaminas e fibras, em comparação com opções mais baratas e ricas em lipídios saturados, como
+embutidos.
+Comentário (correta): Políticas de subsídio a alimentos saudáveis como frutas e
+vegetais podem, de fato, aumentar o acesso e o consumo desses alimentos por
+famílias de baixa renda, impactando positivamente a ingestão de carboidratos
+complexos, vitaminas e fibras, em detrimento de opções menos saudáveis e mais
+baratas.
+A menor disponibilidade de informações nutricionais claras em produtos básicos, como arroz e
+feijão, consumidos por grande parte da população de baixa renda, impede a identificação de seu
+teor de macronutrientes, levando a escolhas alimentares menos conscientes em relação ao
+consumo de proteínas e carboidratos complexos.
+Comentário (incorreta): A menor disponibilidade de informações nutricionais claras é
+um problema que afeta todas as classes sociais, embora possa ter um impacto maior
+em populações com menor acesso à educação. Arroz e feijão são alimentos básicos
+cujo teor de macronutrientes é relativamente conhecido, mesmo sem informações
+detalhadas em rótulos.
+Referência:
+BUSS P. M.; PELLEGRINI FILHO, A. A saúde e seus determinantes sociais. PHYSIS: Rev.
+Saúde Coletiva, Rio de Janeiro, 17(1):77-93, 2007.
+PAIM, Jairnilson S.; ALMEIDA-FILHO, Naomar de. Saúde Coletiva: Teoria e Prática. 2ª ed. Rio de
+Janeiro: MedBook Editora, 2022. E-book. p. Capa. ISBN 9786557830925.
+MOREIRA, Taís C.; ARCARI, Janete M.; COUTINHO, Andreia O. R.; et al. Saúde coletiva. Porto
+Alegre: SAGAH, 2018. E-book. p.Capa. ISBN 9788595023895.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 62 de 105
+
+Filtros da questão:
+
+[Semanas]
+6
+16
+[Módulos integrados]
+SOI + IESC
+[Competências (Objetivos)]
+Relacionar a influência de determinantes sociais. Descrever a
+estrutura bioquímica e classificação dos macronutrientes
+(carboidratos, proteínas e lipídeos)
+[Subáreas de Conhecimento]
+Determinante social/Bioquímica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA GARANHUNS
+25ª QUESTÃO
+
+Código da questão:
+
+136535
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA GARANHUNS) Um menino de 6 anos é levado ao ambulatório por apresentar
+sangramentos prolongados após pequenas escoriações e hematomas frequentes nos braços e
+pernas. A mãe relata que o irmão dela (tio da criança) também tinha sangramentos semelhantes
+durante a infância. O exame físico revela equimoses antigas e moderada hemartrose no joelho
+direito. Os exames laboratoriais mostram tempo de protrombina (TP) normal, mas tempo de
+tromboplastina parcial ativada (TTPa) prolongado. A dosagem de fatores de coagulação confirma
+a deficiência do VIII.
+Com base nessas informações, assinale a alternativa correta.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 63 de 105
+
+Alternativas:
+(alternativa A)
+O gene do fator VIII está localizado no cromossomo Y, o que explica a maior prevalência em
+homens.
+(alternativa B)
+A condição descrita compromete a via extrínseca da coagulação e é herdada por padrão
+autossômico dominante.
+(alternativa C) (CORRETA)
+O distúrbio afeta preferencialmente indivíduos do sexo masculino e está relacionado à via
+intrínseca da coagulação.
+(alternativa D)
+A deficiência do fator VIII altera exclusivamente o tempo de protrombina, mantendo o TTPa
+normal.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A condição descrita compromete a via extrínseca da coagulação e é herdada por padrão
+autossômico dominante. Errada: A hemofilia A compromete a via intrínseca, não a extrínseca.
+Além disso, ela apresenta herança ligada ao X recessiva, e não autossômica dominante.
+O distúrbio afeta preferencialmente indivíduos do sexo masculino e está relacionado à via
+intrínseca da coagulação. Correta: A hemofilia A resulta da deficiência do fator VIII, integrante da
+via intrínseca da coagulação. A herança é ligada ao X recessiva, por isso é mais comum em
+homens, que possuem apenas um cromossomo X (XY).
+A deficiência do fator VIII altera exclusivamente o tempo de protrombina, mantendo o TTPa
+normal. Errada: A deficiência do fator VIII prolonga o TTPa, e não afeta o tempo de protrombina
+(TP), que permanece normal.
+O gene do fator VIII está localizado no cromossomo Y, o que explica a maior prevalência em
+homens. Errado: O gene do fator VIII está localizado no cromossomo X, e não no Y. Isso explica
+a transmissão por mulheres portadoras e a maior manifestação em homens.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de anatomia e fisiologia. 14. ed. Rio
+de Janeiro: Guanabara Koogan, 2019.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 64 de 105
+
+Filtros da questão:
+
+[Semanas]
+7
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Subáreas de Conhecimento]
+Hemolinfopoiético
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA GARANHUNS
+[Competências (Objetivos)]
+Compreender os processos de hemostasia (primária, secundária e
+terciária).
+26ª QUESTÃO
+
+Código da questão:
+
+134856
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(FACIMPA) No município de São Bernardo, foi inaugurado um novo conjunto habitacional que
+recebeu centenas de famílias vindas de diferentes regiões. Em pouco tempo, agentes de saúde
+perceberam dificuldades de acesso aos serviços, desconhecimento sobre rotas de transporte e
+falta de informação sobre os programas municipais de saúde.
+Diante dessa situação-problema, qual ferramenta de abordagem comunitária é mais adequada
+para, inicialmente, delimitar o território, conhecer o perfil populacional básico e identificar as
+necessidades primárias desse novo grupo?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 65 de 105
+
+Alternativas:
+(alternativa A) (CORRETA)
+Territorialização.
+(alternativa B)
+Diagnóstico de saúde da comunidade.
+(alternativa C)
+Planejamento de intervenção comunitária.
+(alternativa D)
+Mobilização social.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 66 de 105
+
+Resposta comentada:
+Territorialização.
+Comentário: correta. A territorialização é a ferramenta fundamental para a etapa inicial.
+Antes de qualquer diagnóstico aprofundado ou planejamento de intervenções, é crucial
+delimitar o território, conhecer sua extensão, características geográficas, infraestrutura
+básica e realizar um levantamento primário da população residente. Isso permite à
+equipe organizar o trabalho, definir áreas de atuação e iniciar a construção de vínculos
+com a comunidade.
+Diagnóstico de saúde da comunidade.
+Comentário: incorreta. O diagnóstico de saúde da comunidade é uma etapa importante,
+mas geralmente ocorre após a territorialização inicial. Ele envolve uma investigação
+mais detalhada das condições de saúde, dos fatores de risco, das necessidades e dos
+recursos da população. Para realizar um diagnóstico eficaz, é necessário primeiro
+conhecer o território e ter um contato inicial com a comunidade, o que é proporcionado
+pela territorialização.
+Planejamento de intervenção comunitária.
+Comentário: incorreta. O planejamento de intervenções é uma etapa subsequente ao
+conhecimento do território e à identificação das necessidades da população. Não é
+possível planejar ações eficazes sem antes delimitar a área de atuação e compreender
+as características e demandas da comunidade que reside ali.
+Mobilização social.
+Comentário: incorreta. A mobilização social é uma estratégia para engajar a
+comunidade na identificação de problemas e na busca de soluções. Embora seja uma
+ferramenta valiosa no trabalho comunitário, ela geralmente ocorre após a equipe ter
+estabelecido um contato inicial com a população e começado a compreender suas
+necessidades básicas, o que é facilitado pela territorialização como etapa inicial. Tentar
+mobilizar uma comunidade desconhecida e sem um território de referência delimitado
+seria prematuro e menos eficaz.
+Referência:
+GUSSO, Gustavo; LOPES, José M. C.; DIAS, Lêda C. Tratado de medicina de família e
+comunidade - 2 volumes: princípios, formação e prática. 2ª ed. Porto Alegre: ArtMed, 2019. Ebook. p.i. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso em: 27 out. 2024.
+Cap. 37.
+Feedback:
+O diagnóstico de saúde seria a próxima etapa, focada em quantificar problemas
+específicos (ex.: número de casos de determinada doença).
+O planejamento de intervenção e a mobilização social só são efetivos após a correta
+delimitação do território e entendimento do perfil comunitário.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 67 de 105
+
+Filtros da questão:
+
+[Semanas]
+13
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+diagnóstico de saúde na comunidade
+[Áreas de Conhecimento]
+Saúde Coletiva - Medicina de Família e Comunidade
+[Subáreas de Conhecimento]
+Ensino-Serviço- Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+27ª QUESTÃO
+
+Código da questão:
+
+137257
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNISL JI-Paraná) Durante uma aula prática de embriologia, os estudantes analisam modelos
+tridimensionais de embriões humanos em diferentes estágios do desenvolvimento. Um dos
+modelos destaca uma protuberância de origem endodérmica emergindo da região ventral do
+intestino anterior, em estreita relação com o septo transverso. A tutora destaca que essa estrutura
+influencia a organização espacial dos órgãos abdominais em desenvolvimento e a
+compartimentalização do celoma intraembrionário.
+Com base nessa descrição, qual das alternativas relaciona corretamente a estrutura embrionária
+observada com seu potencial de diferenciação?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 68 de 105
+
+Alternativas:
+(alternativa A)
+A estrutura corresponde aos brotos pancreáticos dorsal e ventral, que se originam na região
+caudal do intestino anterior. Com a rotação do duodeno, o broto pancreático menor se aproxima
+do maior e seus ductos se anastomosam, dando origem ao pâncreas.
+(alternativa B)
+A protuberância observada representa o broto hepático, que se desenvolve a partir do intestino
+médio e se insere no mesogástrio dorsal, contribuindo apenas para a formação do fígado e da
+vesícula biliar.
+(alternativa C) (CORRETA)
+A protuberância observada representa o broto hepático, que se desenvolve a partir do intestino
+anterior e se insere no mesogástrio ventral, contribuindo para a formação do fígado, da vesícula
+biliar e dos ductos biliares.
+(alternativa D)
+A estrutura corresponde aos brotos pancreáticos dorsal e ventral, que se originam na região
+caudal do intestino médio. Com a rotação do duodeno, o broto pancreático maior se aproxima do
+menor e seus ductos se anastomosam, dando origem ao pâncreas.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 69 de 105
+
+Resposta comentada:
+A estrutura corresponde aos brotos pancreáticos dorsal e ventral, que se originam na região
+caudal do intestino médio. Com a rotação do duodeno, o broto pancreático maior se aproxima do
+menor e seus ductos se anastomosam, dando origem ao pâncreas. - Incorreta, pois descreve
+erroneamente tanto a origem quanto a identidade da estrutura observada. O enunciado aborda um
+divertículo endodérmico relacionado ao septo transverso, característico do broto hepático, e não
+dos brotos pancreáticos. Além disso, os brotos pancreáticos se originam do intestino anterior, e
+não do intestino médio, como afirmado na alternativa.
+A estrutura corresponde aos brotos pancreáticos dorsal e ventral, que se originam na região
+caudal do intestino anterior. Com a rotação do duodeno, o broto pancreático menor se aproxima
+do maior e seus ductos se anastomosam, dando origem ao pâncreas. - Incorreta, apesar de
+indicar corretamente que os brotos pancreáticos se originam da porção caudal do intestino
+anterior. O erro principal está na associação da estrutura descrita no enunciado com os brotos
+pancreáticos, quando na verdade o divertículo observado representa o broto hepático, que se
+projeta em direção ao septo transverso, estrutura típica do desenvolvimento do fígado, da
+vesícula biliar e dos ductos biliares.
+A protuberância observada representa o broto hepático, que se desenvolve a partir do intestino
+anterior e se insere no mesogástrio ventral, contribuindo para a formação do fígado, da vesícula
+biliar e dos ductos biliares. - Correta: Ela identifica com precisão o divertículo observado como o
+broto hepático, que surge da porção caudal do intestino anterior e cresce em direção ao septo
+transverso. Essa estrutura dá origem ao fígado, à vesícula biliar e aos ductos biliares, exatamente
+como descrito na bibliografia de referência. A menção ao mesogástrio ventral também está
+adequada, pois é nesse local que o broto se insere durante o desenvolvimento embrionário.
+A protuberância observada representa o broto hepático, que se desenvolve a partir do intestino
+médio e se insere no mesogástrio dorsal, contribuindo apenas para a formação do fígado e da
+vesícula biliar. Incorreta: O principal erro está em afirmar que o divertículo hepático se desenvolve
+a partir do intestino médio, quando, na verdade, ele se origina da porção caudal do intestino
+anterior. Além disso, a alternativa indica erroneamente que essa estrutura se insere no
+mesogástrio dorsal, quando o correto seria o mesogástrio ventral. Esses equívocos
+descaracterizam a estrutura observada, tornando a alternativa incompatível com o modelo
+descrito no enunciado.
+Referência:
+MOORE, Keith L. ; PERSAUD, T.V.N.; TORCHIA, Mark G. Embriologia Básica. 10. ed. Rio de
+Janeiro: GEN Guanabara Koogan, 2022. E-book. p. 133. ISBN 9788595159020. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159020/. Acesso em: 25 maio
+2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 70 de 105
+
+Filtros da questão:
+
+[Semanas]
+15
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNISL JI-PARANÁ
+[Competências (Objetivos)]
+Discutir a embriogênese do sistema digestório.
+[Subáreas de Conhecimento]
+Embriologia do sistema digestório
+28ª QUESTÃO
+
+Código da questão:
+
+134131
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA Palmas) Durante uma aula prática de Histologia, os acadêmicos do curso de Medicina
+observaram lâminas com cortes histológicos corados por hematoxilina-eosina (HE), referentes a
+diferentes órgãos linfoides. Após a discussão em grupo, o professor propôs que identificassem as
+características histológicas observadas em cada órgão e algumas de suas funções.
+Analise as afirmações I a V sobre as características e funções desses órgãos.
+I. No timo, a presença de corpúsculos de Hassall na região medular é uma característica
+histológica exclusiva deste órgão que indica o local onde ocorre a maturação final dos
+linfócitos B, iniciada na região cortical.
+II. O baço não possui folículos linfoides, apresenta polpa branca composta por agregados
+de linfócitos ao redor de vasos linfáticos e polpa vermelha rica em capilares sinusoides
+e cordões esplênicos envolvidos na filtração do sangue.
+III. O percurso da linfa pelos linfonodos inicia-se pela região cortical, passando pela
+medular em direção ao hilo; a cortical mais externa possui folículos linfoides, a
+paracortical é rica em linfócitos T e a medula possui seios e cordões medulares.
+IV. As tonsilas palatinas compõem o MALT (tecido linfoide associado a mucosa), são
+revestidas por epitélio estratificado pavimentoso não queratinizado e possuem criptas
+profundas que aumentam a superfície de contato com antígenos.
+V. A medula óssea vermelha é um órgão linfoide secundário que, embora não participe da
+maturação de linfócitos, é responsável pela produção dos precursores de linfócitos, das
+demais células sanguíneas e plaquetas.
+É correto o que se afirma apenas em:
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 71 de 105
+
+Alternativas:
+(alternativa A)
+II e V.
+(alternativa B) (CORRETA)
+III e IV.
+(alternativa C)
+II, III e V.
+(alternativa D)
+I e IV.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 72 de 105
+
+Resposta comentada:
+Estão corretas apenas III e IV.
+Corretas:
+III. O percurso da linfa pelos linfonodos inicia-se pela região cortical, passando pela medular em
+direção ao hilo; a cortical mais externa possui folículos linfoides, a paracortical é rica em linfócitos
+T e a medula possui seios e cordões medulares.
+No linfonodo, o percurso da linfa inicia-se pela região cortical, passando pela medular em direção
+ao hilo. O córtex mais superficial apresenta folículos linfoides (principalmente com linfócitos B), e
+a região paracortical (córtex mais profundo) é rica em linfócitos T. A medula é formada por seios e
+cordões medulares.
+IV. As tonsilas palatinas compõem o MALT (tecido linfoide associado a mucosa), são revestidas
+por epitélio estratificado pavimentoso não queratinizado e possuem criptas profundas que
+aumentam a superfície de contato com antígenos.
+As tonsilas palatinas são formadas por agregados de tecido linfoide associado a mucosa do
+palato (MALT) que têm como revestimento epitélio estratificado pavimentoso não queratinizado,
+adaptado à exposição ao ambiente oral, e as criptas profundas facilitam o contato com antígenos,
+favorecendo a resposta imune.
+Incorretas:
+I. No timo, a presença de corpúsculos de Hassall na região medular é uma característica
+histológica exclusiva deste órgão que indica o local onde ocorre a maturação final dos linfócitos B,
+iniciada na região cortical.
+Os corpúsculos de Hassall são realmente estruturas típicas do timo, encontrados na medula,
+porém a maturação final dos linfócitos no timo ocorre com os linfócitos T, não os B. Os linfócitos
+B amadurecem na medula óssea.
+II. O baço não possui folículos linfoides, apresenta polpa branca composta por agregados de
+linfócitos ao redor de vasos linfáticos e polpa vermelha rica em capilares sinusoides e cordões
+esplênicos.
+A polpa branca do baço contém os folículos linfoides e as bainhas periarteriolares compostas por
+agregados de linfócitos ao redor de arteríolas, e a polpa vermelha é composta por cordões
+esplênicos (de Billroth) e capilares sinusoides envolvidos na filtração do sangue.
+V. A medula óssea vermelha é um órgão linfoide secundário que, embora não participe da
+maturação de linfócitos, é responsável pela produção dos precursores de linfócitos, das demais
+células sanguíneas e plaquetas.
+A medula óssea vermelha é um órgão linfoide primário que participa da maturação de linfócitos do
+tipo B (sendo o timo o órgão linfoide primário responsável pela maturação dos linfócitos T). Além
+disso, tem função hematopoiética, sendo rica em células precursoras que se multiplicam e
+diferenciam-se, originando todas as células sanguíneas e plaquetas.
+Referências:
+GARTNER, Leslie P. Tratado de Histologia. 5. ed. Rio de Janeiro: GEN Guanabara Koogan,
+2022. E-book. p. 279. ISBN 9788595159003. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159003/. Acesso em: 14 abr. 2025.
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. p. Capa. ISBN 9788527739283. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 14 abr. 2025.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 73 de 105
+
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+6
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Subáreas de Conhecimento]
+Fisiologia
+[Competências (Objetivos)]
+Conhecer a anatomia e histologia do sistema linfático (vasos
+linfáticos e órgãos linfáticos.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PALMAS
+29ª QUESTÃO
+
+Código da questão:
+
+136134
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(FESAR) Em um canteiro de obras, a segurança dos trabalhadores é abordada através de uma
+hierarquia de controles de risco. Após a implementação de medidas para eliminar os perigos e
+controlar os riscos coletivamente, alguns riscos residuais permanecem para o trabalhador
+individualmente. A proteção individual imediata contra esses riscos inevitáveis é crucial para
+prevenir acidentes e lesões.
+Qual das seguintes ações representa a medida de proteção individual de primeira linha.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 74 de 105
+
+Alternativas:
+(alternativa A)
+Comunicar imediatamente ao encarregado ou técnico de segurança qualquer situação de trabalho
+que considere insegura ou que possa gerar acidentes.
+(alternativa B) (CORRETA)
+Utilizar, de forma correta e contínua, os Equipamentos de Proteção Individual (EPIs) adequados
+aos riscos específicos de cada atividade laboral.
+(alternativa C)
+Conhecer e seguir rigorosamente os procedimentos de trabalho seguro (PTS) estabelecidos para
+cada atividade realizada no canteiro de obras.
+(alternativa D)
+Participar e aplicar os conhecimentos adquiridos nos treinamentos de segurança e saúde no
+trabalho oferecidos pela empresa.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Participar e aplicar os conhecimentos adquiridos nos treinamentos de segurança e saúde no
+trabalho oferecidos pela empresa.
+Comentário: incorreta. Embora fundamental para a conscientização e a prevenção a
+longo prazo, o treinamento não oferece proteção física imediata no momento da
+exposição ao risco.
+Utilizar, de forma correta e contínua, os Equipamentos de Proteção Individual (EPIs) adequados
+aos riscos específicos de cada atividade laboral.
+Comentário: correta. Esta é a medida de proteção individual de primeira linha. O EPI
+atua como uma barreira física direta contra os riscos inevitáveis, prevenindo ou
+minimizando lesões.
+Comunicar imediatamente ao encarregado ou técnico de segurança qualquer situação de trabalho
+que considere insegura ou que possa gerar acidentes.
+Comentário: incorreta. É uma ação proativa crucial para a prevenção, permitindo a
+correção de riscos antes que causem acidentes, mas não protege o trabalhador no
+momento da exposição a um risco já existente.
+Conhecer e seguir rigorosamente os procedimentos de trabalho seguro (PTS) estabelecidos para
+cada atividade realizada no canteiro de obras.
+Comentário: incorreta. Os PTS são diretrizes importantes para a execução segura das
+tarefas, mas não constituem uma barreira física de proteção individual no momento da
+exposição ao risco.
+Referência:
+BRASIL. Norma Regulamentadora nº 6 (NR-6) - Equipamento de Proteção Individual - EPI.
+Feedback:
+-000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 75 de 105
+
+Filtros da questão:
+
+[Semanas]
+4
+5
+[Módulos integrados]
+SOI + IESC
+[Competências (Objetivos)]
+Conhecer as ações de promoção e prevenção de riscos e agravos
+à saúde do trabalhador, levando-se em consideração riscos de
+acidentes e doenças crônicas.
+[Áreas de Conhecimento]
+Saúde Coletiva - Medicina de Família e Comunidade
+[Subáreas de Conhecimento]
+Processo ensino-aprendizagem na carreira médica e avaliação
+formativa
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FESAR
+30ª QUESTÃO
+
+Código da questão:
+
+135168
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA SANTA INÊS) Em uma Unidade Básica de Saúde (UBS), a equipe de Saúde da Família
+precisa planejar as ações semestrais para atender às necessidades específicas do território,
+marcado por alta vulnerabilidade social, altas taxas de hipertensão não controlada, surto de
+dengue e dificuldades de saneamento. Para embasar suas decisões, a equipe utiliza o Sistema de
+Informação da Atenção Básica (eSUS AB). A análise preliminar dos dados do eSUS AB revela
+um baixo acompanhamento pré-natal e aumento de queixas de saúde mental entre jovens.
+Considerando o contexto da UBS, qual a função primordial do eSUS AB no processo de
+planejamento.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 76 de 105
+
+Alternativas:
+(alternativa A) (CORRETA)
+Fornece dados agregados e indicadores da população adscrita e permite identificar prioridades e
+planejar ações baseadas nas necessidades do território.
+(alternativa B)
+Registrar os atendimentos clínicos individuais realizados na UBS, permitindo o acompanhamento
+longitudinal dos pacientes.
+(alternativa C)
+Gerenciar os aspectos administrativos da UBS, como agendamentos e controle de insumos,
+otimizando o funcionamento da unidade.
+(alternativa D)
+Substituir os registros em papel por prontuários eletrônicos, facilitando o acesso e a organização
+das informações clínicas individuais.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 77 de 105
+
+Resposta comentada:
+Registrar os atendimentos clínicos individuais realizados na UBS, permitindo o acompanhamento
+longitudinal dos pacientes.
+Comentário: incorreta. Embora o registro de atendimentos individuais seja uma função
+importante do eSUS AB e essencial para o cuidado clínico, não representa a sua
+função primordial quando o objetivo é o planejamento das ações de saúde em nível
+territorial. O planejamento territorial se baseia na análise de dados coletivos da
+população.
+Fornece dados agregados e indicadores da população adscrita e permite identificar prioridades e
+planejar ações baseadas nas necessidades do território.
+Comentário: correta. Esta alternativa descreve a função primordial do eSUS AB para o
+planejamento territorial. Ao fornecer dados sobre a saúde coletiva da população
+adscrita (como prevalência de doenças, indicadores de risco, cobertura vacinal, etc.), o
+sistema permite que as equipes identifiquem as necessidades prioritárias e planejem
+intervenções direcionadas e eficazes para o território.
+Gerenciar os aspectos administrativos da UBS, como agendamentos e controle de insumos,
+otimizando o funcionamento da unidade.
+Comentário: incorreta. Embora a gestão administrativa seja uma função relevante do
+eSUS AB para o bom funcionamento da UBS, não é a sua função primordial no
+contexto do planejamento das ações de saúde no território. O planejamento das ações
+deve ser guiado pelas necessidades de saúde da população, e não primariamente por
+questões administrativas.
+Substituir os registros em papel por prontuários eletrônicos, facilitando o acesso e a organização
+das informações clínicas individuais.
+Comentário: incorreta. A substituição dos prontuários em papel por registros eletrônicos
+é uma funcionalidade importante do eSUS AB, que melhora a organização e o acesso
+às informações clínicas dos pacientes. No entanto, essa função se concentra no nível
+individual e não representa a função primordial do sistema para o planejamento das
+ações de saúde em nível territorial, que requer a análise de dados agregados da
+população.
+Referência:
+MINISTÉRIO DA SAÚDE. Estratégia e-SUS Atenção Básica e Sistema de Informação em Saúde
+da Atenção Básica - SISAB. 2013. Disponível em: https://www.conass.org.br/biblioteca/wpcontent/uploads/2013/01/NT-07-2013-e-SUS-e-SISAB.pdf. Acesso em: 18 maio 2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 78 de 105
+
+Filtros da questão:
+
+[Semanas]
+15
+[Módulos integrados]
+IESC
+[Áreas de Conhecimento]
+Saúde Coletiva - Medicina de Família e Comunidade
+[Subáreas de Conhecimento]
+Atenção Primária à Saúde
+[Competências (Objetivos)]
+Relacionar a importância do planejamento das ações no território
+utilizando com o Sistema de Informação da Atenção Básica
+vigente.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+31ª QUESTÃO
+
+Código da questão:
+
+136488
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(FMIT) Recém-nascida do sexo feminino, nascida dentro do período gestacional considerado
+normal ou completo, foi encaminhada ao ambulatório de cirurgia pediátrica para avaliação de uma
+fissura envolvendo o lábio superior direito, observada ao nascimento. No exame físico, nota-se a
+separação entre o lábio e a asa da narina ipsilateral, sem extensão para o palato. Não há sinais de
+malformações associadas. O exame neurológico e cardiorrespiratório está normal. A mãe relata
+ausência de fatores de risco durante a gestação.
+Considerando a formação embriológica da face e do intestino primitivo anterior, assinale a
+alternativa que indica corretamente a estrutura embrionária cuja falha de fusão está relacionada à
+malformação descrita.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 79 de 105
+
+Alternativas:
+(alternativa A)
+Processo palatino lateral.
+(alternativa B)
+Proeminência mandibular.
+(alternativa C)
+Membrana bucofaríngea.
+(alternativa D) (CORRETA)
+Proeminência maxilar do primeiro arco faríngeo.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Alternativa: "Proeminência maxilar do primeiro arco faríngeo". Correta. Justificativa: O lábio
+superior é formado pela fusão das proeminências maxilares (derivadas do 1º arco faríngeo) com a
+proeminência nasal medial. A fissura labial unilateral, como no caso descrito (sem acometimento
+do palato), resulta da falha de fusão entre a proeminência maxilar e a proeminência nasal medial
+ipsilateral. Comentário didático: Essa alternativa exige conhecimento integrado de embriologia
+facial e morfogênese. O aluno precisa identificar que a malformação não afeta o palato nem há
+envolvimento de estruturas profundas.
+Alternativa "Processo palatino lateral". Incorreta. Justificativa: Os processos palatinos laterais são
+responsáveis pela formação do palato secundário. Sua falha de fusão leva à fissura palatina, não
+labial. Como o enunciado descreve uma fissura restrita ao lábio, essa alternativa não se aplica.
+Comentário didático: Distrator clássico que testa se o aluno diferencia fissura labial de fissura
+palatina em termos de embriologia.
+Alternativa "Proeminência mandibular" - Incorreta. Justificativa: A proeminência mandibular,
+também derivada do 1º arco faríngeo, contribui para a formação do queixo e mandíbula, não do
+lábio superior. Não está envolvida na formação das estruturas que resultam na fissura labial
+superior. Comentário didático: Excelente distrator para avaliar a segmentação do 1º arco faríngeo
+em proeminência maxilar vs. mandibular.
+Alternativa "Membrana bucofaríngea". Incorreta. Justificativa: A membrana bucofaríngea separa a
+cavidade oral primitiva da faringe durante o desenvolvimento e se rompe por volta da 4ª semana.
+Não tem relação com a formação do lábio ou com fissuras faciais. Comentário didático: Distrator
+que testa conhecimento do início do desenvolvimento da boca, mas sem ligação com fissuras
+faciais.
+Referência:
+MOORE, Keith M.; PERSAUDE, T. V. N. Embriologia Clínica. 11. ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2020. E-book. p. Capa. ISBN 9788595157811. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595157811/. Acesso em: 13 maio
+2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 80 de 105
+
+Filtros da questão:
+
+[Semanas]
+15
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Competências (Objetivos)]
+Discutir a embriogênese do sistema digestório.
+[Subáreas de Conhecimento]
+Embriologia do sistema digestório
+32ª QUESTÃO
+
+Código da questão:
+
+136396
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA GARANHUNS) Um jovem de 20 anos, estudante universitário, procura atendimento
+médico ambulatorial com queixas de cansaço excessivo ao realizar atividades rotineiras, como
+subir escadas, além de palidez, dores de cabeça frequentes e dificuldade para se concentrar nas
+aulas.
+Ao exame físico, apresenta palidez cutaneomucosa evidente, frequência cardíaca discretamente
+elevada (96 bpm) e pressão arterial normal.
+O hemograma mostra:
+Hemoglobina: 9 g/dL (VR: 13–17 g/dL).
+Hematócrito: 30% (VR: 40–50%).
+Volume corpuscular médio (VCM): reduzido.
+Leucócitos e plaquetas: normais.
+Com base nesse quadro clínico e nos dados laboratoriais, qual célula sanguínea está diretamente
+relacionada à condição do paciente?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 81 de 105
+
+Alternativas:
+(alternativa A)
+Plaqueta
+(alternativa B)
+Monócito
+(alternativa C) (CORRETA)
+Eritrócito
+(alternativa D)
+Linfócito
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Monócito - incorreta: Célula de defesa, relacionada à fagocitose e inflamação crônica. Nenhuma
+evidência no caso aponta para sua participação na condição clínica.
+Eritrócito - correta: O paciente apresenta anemia microcítica e hipocrômica, sugerindo uma
+anemia ferropriva (por deficiência de ferro), muito comum em jovens com alimentação
+inadequada. Os eritrócitos (glóbulos vermelhos) são os responsáveis pelo transporte de oxigênio,
+e sua deficiência explica os sintomas: cansaço, palidez, cefaleia e déficit de atenção.
+Plaqueta - incorreta: Relaciona-se com coagulação e hemostasia. A contagem plaquetária está
+normal e não há sangramentos relatados.
+Linfócito - incorreta: Tipo de leucócito ligado à resposta imune específica. Não está envolvido nos
+sinais e sintomas do quadro anêmico apresentado.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de anatomia e fisiologia. 14. ed. Rio
+de Janeiro: Guanabara Koogan, 2019.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 82 de 105
+
+Filtros da questão:
+
+[Semanas]
+6
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Subáreas de Conhecimento]
+Hemolinfopoiético
+[Competências (Objetivos)]
+Diferenciar a estrutura e função dos diferentes tipos de células
+sanguíneas
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA GARANHUNS
+33ª QUESTÃO
+
+Código da questão:
+
+121805
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNINOVAFAPI) Um paciente adulto, ao se levantar rapidamente após estar sentado por um
+longo período, sente tontura seguida de desmaio (síncope). Ele é levado ao hospital, onde
+recupera a consciência em poucos minutos após deitar. Ao ser questionado, relata que episódios
+semelhantes já ocorreram quando se levantava bruscamente. O exame físico inicial mostra
+pressão arterial normal em repouso, mas queda significativa da pressão arterial ao se levantar,
+confirmando o diagnóstico de hipotensão postural.
+Qual dos mecanismos fisiológicos abaixo explica a síncope e a posterior recuperação da
+consciência nesse paciente?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 83 de 105
+
+Alternativas:
+(alternativa A)
+Estímulo dos receptores de volume atrial, resultando em vasodilatação e redução da pressão
+arterial.
+(alternativa B)
+Inibição dos receptores de estiramento pulmonar, causando aumento da frequência cardíaca.
+(alternativa C) (CORRETA)
+Ativação dos barorreceptores, que desencadeiam uma resposta simpática compensatória.
+(alternativa D)
+Estímulo dos quimiorreceptores periféricos, que aumentam a ventilação para corrigir a hipoxemia.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Estímulo dos quimiorreceptores periféricos, que aumentam a ventilação para corrigir a hipoxemia:
+incorreto. Os quimiorreceptores periféricos são sensíveis às variações de oxigênio no sangue
+arterial, mas o desmaio nesse caso foi causado por uma queda na pressão arterial (hipotensão
+postural) e não por hipoxemia.
+Ativação dos barorreceptores, que desencadeiam uma resposta simpática compensatória:
+correto. A hipotensão postural é percebida pelos barorreceptores, localizados no arco aórtico e
+nas carótidas. Eles detectam a queda da pressão arterial ao se levantar e ativam uma resposta
+simpática, que eleva a frequência cardíaca e promove vasoconstrição para restaurar a pressão
+arterial, explicando a recuperação da consciência após o desmaio.
+Estímulo dos receptores de volume atrial, resultando em vasodilatação e redução da pressão
+arterial: incorreto. Os receptores de volume atrial regulam a percepção de volume sanguíneo e
+promovem vasodilatação em condições de hiper-hidratação, mas não explicam a síncope
+associada à hipotensão postural.
+Inibição dos receptores de estiramento pulmonar, causando aumento da frequência cardíaca:
+incorreto. Os receptores de estiramento pulmonar são mais relevantes no controle da ventilação e
+não estão diretamente envolvidos na regulação da pressão arterial em situações de hipotensão
+postural.
+Referências:
+GUYTON, Arthur C.; HALL, John E. Tratado de fisiologia médica. 13. ed. Rio de Janeiro: Elsevier,
+2017.
+COSTA, Raquel dos Santos; REIS, André Luiz. Fisiologia cardiovascular: controle da pressão
+arterial. São Paulo: Atheneu, 2018.
+LEVY, Matthew N.; BERNE, Robert M. Fisiologia cardiovascular. 10. ed. Rio de Janeiro:
+Guanabara Koogan, 2019.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 84 de 105
+
+Filtros da questão:
+
+[Semanas]
+4
+[Módulos integrados]
+SOI
+[IES]
+UNINOVAFAPI
+UNINOVAFAPI
+[Áreas de Conhecimento]
+Sistema circulatório
+[Subáreas de Conhecimento]
+Fisiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[Competências (Objetivos)]
+Entender os mecanismos fisiológicos correlacionados com o
+controle da pressão arterial (barorreceptores, quimiorreceptores,
+receptores cardiopulmonares, sistema nervoso autônomo e
+hormônios).
+
+34ª QUESTÃO
+Código da questão:
+
+135658
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNIDEP) Durante o exame físico de um paciente adulto do sexo masculino, 45 anos, tabagista
+há 25 anos, com queixa de dispneia e tosse seca há 3 dias, o estudante realiza a percussão
+torácica. Ao percutir a região anterior direita do tórax, próximo ao 4º espaço intercostal na linha
+hemiclavicular, identifica-se macicez. Em outra área, na base do hemitórax esquerdo posterior,
+detecta-se timpanismo.
+Com base nesse achado, qual a correlação mais provável entre o som percutido e a estrutura
+subjacente?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 85 de 105
+
+Alternativas:
+(alternativa A)
+O som ressonante seria esperado em toda a superfície torácica, inclusive sobre órgãos sólidos
+como fígado e baço.
+(alternativa B) (CORRETA)
+A macicez identificada sobre a região anterior direita do tórax está relacionada à presença do
+fígado, estrutura sólida subdiafragmática.
+(alternativa C)
+O som maciço no hemitórax direito indica presença de ar livre no espaço pleural (pneumotórax
+espontâneo).
+(alternativa D)
+O timpanismo na base do hemitórax esquerdo posterior sugere consolidação pulmonar por
+pneumonia.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Incorreta: O som maciço está relacionado a estruturas densas, como o fígado ou áreas de
+consolidação pulmonar, e não à presença de ar livre, que produziria hiperressonância ou
+timpanismo, típico de pneumotórax.
+Correta: A percussão na região anterior direita, especialmente na linha hemiclavicular no 4º ou 5º
+espaço intercostal, sobrepõe-se ao fígado, uma estrutura sólida subdiafragmática, que produz
+som maciço.
+Incorreta: A consolidação pulmonar (ex: pneumonia) produz macicez, e não timpanismo.
+Timpanismo sugere presença de ar em excesso, como em distensão gástrica, hérnia
+diafragmática ou alça intestinal interposta.
+Incorreta: Órgãos sólidos, como fígado e baço, não produzem som ressonante, mas sim maciez.
+Ressonância é o som esperado ao percutir áreas pulmonares saudáveis.
+Referência:
+PORTO, Celmo Celeno. Semiologia Médica, 7ª ed. Rio de Janeiro: Guanabara Koogan, 2020.
+Capítulo 14 – Exame do Tórax, p. 294-295.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 86 de 105
+
+Filtros da questão:
+
+[Semanas]
+15
+[Módulos integrados]
+HAM
+[Áreas de Conhecimento]
+Sistema Respiratório
+[Competências (Objetivos)]
+Correlacionar a percussão do tórax com a estrutura examinada.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDEP
+[Subáreas de Conhecimento]
+Sistema respiratório
+
+35ª QUESTÃO
+Código da questão:
+
+136398
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNIDOMPEDRO) Paciente do sexo feminino, 22 anos, relata episódios recorrentes de
+congestão nasal, espirros, olhos lacrimejantes e coceira no nariz e garganta, principalmente
+durante a primavera. Ela relata que os sintomas iniciam minutos após exposição a ambientes
+com pólen e melhoram com uso de anti-histamínicos. Nega febre ou secreção espessa. No
+exame, observa-se hiperemia conjuntival e mucosa nasal edemaciada.
+Considerando os sintomas da paciente e os mecanismos imunológicos envolvidos, a reação de
+hipersensibilidade apresentada é caracterizada por:
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 87 de 105
+
+Alternativas:
+(alternativa A) (CORRETA)
+ligação de anticorpos IgE a mastócitos sensibilizados, com liberação de mediadores químicos
+após reexposição ao alérgeno.
+(alternativa B)
+ativação de linfócitos T CD8+ e liberação de citocinas inflamatórias, com manifestação clínica
+tardia.
+(alternativa C)
+produção de autoanticorpos que reconhecem antígenos de superfície celular, levando à lise
+celular mediada por complemento.
+(alternativa D)
+formação de complexos imunes circulantes que se depositam em tecidos e ativam o sistema
+complemento.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 88 de 105
+
+Resposta comentada:
+Alternativa: Ligação de anticorpos IgE a mastócitos sensibilizados, com liberação de mediadores
+químicos após reexposição ao alérgeno. – Correta.
+A reação descrita no caso clínico é uma hipersensibilidade do tipo I (imediata), mediada por IgE.
+Na primeira exposição ao alérgeno (como pólen), ocorre sensibilização com produção de IgE
+específica. Esta IgE se liga aos mastócitos e, numa segunda exposição, a ligação cruzada do
+alérgeno à IgE ativa os mastócitos, que liberam histamina, leucotrienos e outras substâncias
+inflamatórias, gerando os sintomas típicos como prurido, espirros, congestão nasal e
+lacrimejamento.
+Alternativa: Ativação de linfócitos T CD8+ e liberação de citocinas inflamatórias, com
+manifestação clínica tardia. – Incorreta.
+Esse mecanismo corresponde à hipersensibilidade do tipo IV (tardia), mediada por linfócitos T,
+especialmente CD4+ Th1 e, em alguns casos, CD8+. Ela não envolve anticorpos e ocorre
+tipicamente 48–72 horas após o contato com o antígeno (ex: dermatite de contato ou tuberculina).
+Alternativa: Formação de complexos imunes circulantes que se depositam em tecidos e ativam o
+sistema complemento. – Incorreta
+Esse é o mecanismo da hipersensibilidade do tipo III, em que há formação de complexos imunes
+(antígeno-anticorpo) que se depositam em tecidos e ativam o sistema complemento, levando à
+inflamação local. Exemplo: lúpus eritematoso sistêmico e glomerulonefrite pós-estreptocócica.
+Não é o mecanismo da rinite alérgica.
+Alternativa: Produção de autoanticorpos que reconhecem antígenos de superfície celular, levando
+à lise celular mediada por complemento. – Incorreta.
+Corresponde à hipersensibilidade do tipo II, em que anticorpos IgG ou IgM reagem com antígenos
+de superfície celular, ativando o complemento e promovendo lise celular. Exemplo: anemia
+hemolítica autoimune. Não se aplica à rinite alérgica, que não envolve destruição celular.
+Referências:
+ABBAS, A. K. ; LICHTMAN, A. H. ; PILLAI, S. Imunologia celular e molecular. 7. ed. Rio de
+Janeiro: Elsevier, 2011.
+MURPHY, K. Imunobiologia de Janeway. 8. ed. Porto Alegre: Artmed, 2014.
+DELVES, P. J. ROITT – Fundamentos de Imunologia. 13. ed. Grupo GEN, 2018.
+HANSEL, Donna E. ; DINTZIS, Renee Z. Fundamentos de Rubin – Patologia. Grupo GEN, 2007.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 89 de 105
+
+Filtros da questão:
+
+[Semanas]
+11
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDOMPEDRO
+[Competências (Objetivos)]
+Compreender os tipos de reações de hipersensibilidade e suas
+manifestações clínicas.
+[Subáreas de Conhecimento]
+Sistema imunológico
+36ª QUESTÃO
+
+Código da questão:
+
+135513
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(ITPAC Porto Nacional) Durante o atendimento em uma Unidade de Pronto Atendimento (UPA) no
+município de Porto Nacional, um paciente apresenta queixa de febre, fadiga e dor no hipocôndrio
+esquerdo. O aluno realiza a percussão do abdômen e observa macicez no espaço de Traube.
+Considerando as alterações detectadas à percussão e o raciocínio semiológico, assinale a
+alternativa correta:
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 90 de 105
+
+Alternativas:
+(alternativa A)
+A percussão do espaço de Traube não é útil para avaliar o baço, sendo indicada apenas para
+avaliação hepática.
+(alternativa B)
+O espaço de Traube normalmente é maciço à percussão em indivíduos saudáveis e sua macicez
+não sugere esplenomegalia.
+(alternativa C) (CORRETA)
+A macicez no espaço de Traube, quando presente, pode indicar aumento do baço e justifica
+investigação de esplenomegalia.
+(alternativa D)
+A presença de macicez no espaço de Traube é suficiente para confirmar esplenomegalia sem
+necessidade de exames complementares.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+De acordo com Celmo Celeno Porto ("Semiologia Médica", 9ª edição), o espaço de Traube é uma
+área sem macicez em condições normais (som timpânico), pois corresponde ao fundo gástrico
+cheio de ar. Quando ocorre macicez à percussão nesse espaço, isso pode indicar
+esplenomegalia, especialmente se associado a sintomas como dor no hipocôndrio esquerdo e
+febre. No entanto, a macicez isolada não confirma o diagnóstico de esplenomegalia, exigindo
+confirmação clínica e eventualmente exames complementares de imagem (excluindo a
+alternativa "A presença de macicez no espaço de Traube é suficiente para confirmar
+esplenomegalia sem necessidade de exames complementares.").
+A percussão do espaço de Traube é uma manobra útil para avaliação do baço, e não apenas do
+fígado (refutando a alternativa "A percussão do espaço de Traube não é útil para avaliar o baço,
+sendo indicada apenas para avaliação hepática.").
+Já a alternativa "O espaço de Traube normalmente é maciço à percussão em indivíduos
+saudáveis e sua macicez não sugere esplenomegalia." está incorreta porque normalmente o
+espaço de Traube é claro, não maciço.
+Referência:
+PORTO, Celmo Celeno. Semiologia Médica. 9. ed. Rio de Janeiro: Guanabara Koogan, 2023.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 91 de 105
+
+Filtros da questão:
+
+[Semanas]
+13
+[Módulos integrados]
+HAM
+[Áreas de Conhecimento]
+Semiologia
+[Competências (Objetivos)]
+Interpretar a percussão do baço.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+ITPAC PORTO NACIONAL
+[Subáreas de Conhecimento]
+Exame Físico
+37ª QUESTÃO
+
+Código da questão:
+
+135834
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA CRUZEIRO DO SUL) A história das Políticas Públicas de Saúde no Brasil passou por
+transformações significativas. Compare e contraste as características das políticas de saúde
+durante a República Velha (1889-1930), focada no controle de epidemias via medidas sanitárias,
+com as da Era Vargas (1930-1945), marcada pela expansão da atuação estatal em questões
+sociais e trabalhistas, com impactos na saúde.
+Com base nessa comparação e contraste e em seus conhecimentos sobre a história das
+políticas públicas de saúde no Brasil, avalie as seguintes afirmações e assinale a alternativa
+correta:
+I. Enquanto a República Velha priorizou investimentos em reformas urbanas e saneamento básico
+para controle de epidemias, a Era Vargas iniciou a estruturação de um sistema de saúde mais
+voltado para a atenção aos trabalhadores, com a criação de institutos de previdência.
+II. Ambas as eras foram marcadas por uma ampla e igualitária oferta de serviços de atenção
+básica e especializada para toda a população brasileira.
+III. Programas de vacinação em massa contra doenças endêmicas foram uma característica
+central das políticas de saúde tanto na República Velha quanto na Era Vargas.
+IV. A legislação trabalhista com garantias de direitos à saúde, como licenças médicas e acesso a
+serviços, foi um marco fundamental das políticas de saúde da República Velha, estendendo-se
+com menor intensidade à Era Vargas.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 92 de 105
+
+Alternativas:
+(alternativa A)
+Somente a alternativa II está correta.
+(alternativa B)
+Somente as alternativas I e II estão corretas.
+(alternativa C) (CORRETA)
+A alternativa I é a única correta.
+(alternativa D)
+As alternativas II e III são corretas.
+
+Grau de dificuldade:
+
+Médio
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 93 de 105
+
+Resposta comentada:
+Item I - Enquanto a República Velha priorizou investimentos em reformas urbanas e saneamento
+básico para controle de epidemias, a Era Vargas iniciou a estruturação de um sistema de saúde
+mais voltado para a atenção aos trabalhadores, com a criação de institutos de previdência.
+Gabarito: Correta. Esta afirmação estabelece um contraste preciso entre as prioridades
+de cada período. A República Velha focou em intervenções sanitaristas, enquanto a Era
+Vargas iniciou a construção de um sistema previdenciário com impacto na saúde dos
+trabalhadores.
+Item II - Ambas as eras foram marcadas por uma ampla e igualitária oferta de serviços de
+atenção básica e especializada para toda a população brasileira.
+Gabarito: Incorreta. Esta afirmação apresenta uma comparação falsa. A oferta de
+serviços de saúde em ambos os períodos era limitada e desigual, não atendendo de
+forma ampla e igualitária a toda a população. A expansão significativa do acesso é
+característica de períodos posteriores.
+Item III - Programas de vacinação em massa contra doenças endêmicas foram uma
+característica central das políticas de saúde tanto na República Velha quanto na Era Vargas.
+Gabarito: Incorreta. Esta afirmação estabelece uma semelhança inexistente na
+magnitude. Embora a vacinação fosse utilizada em ambos os períodos, programas de
+vacinação em massa e organizados não eram uma característica central das políticas
+de saúde na mesma escala que se viu posteriormente.
+Item IV - A legislação trabalhista com garantias de direitos à saúde, como licenças médicas e
+acesso a serviços, foi um marco fundamental das políticas de saúde da República Velha,
+estendendo-se com menor intensidade à Era Vargas.
+Gabarito: Incorreta. Esta afirmação inverte a cronologia e a intensidade. A legislação
+trabalhista com direitos à saúde foi um marco da Era Vargas, com a criação dos IAPs.
+Na República Velha, a legislação trabalhista era incipiente em comparação.
+
+Referências:
+Hochman, G. A era do saneamento: as bases da política de saúde pública no Brasil. Editora
+Hucitec, 1998.
+Faria, L. A. B. de. Saúde e previdência: estudos de política social. Editora Hucitec, 1989.
+Rodrigues, J. C. História da saúde no Brasil: do descobrimento aos nossos dias. Editora Fiocruz,
+2000.
+Stepan, N. Gênese e expansão da medicina preventiva no Brasil (1920-1960). Dados – Revista
+de Ciências Sociais, 1985.
+Teixeira, S. F. O SUS e os desafios da municipalização. Ciência & Saúde Coletiva, 2001.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 94 de 105
+
+Filtros da questão:
+
+[Semanas]
+7
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+Entender a organização do Sistema de Saúde no Brasil nos
+períodos da HPPSB: República Velha, Era Vargas, Governos
+Populistas, Autoritarismo, Nova República.
+[Áreas de Conhecimento]
+Básica
+Saúde Coletiva - Medicina de Família e Comunidade
+[Subáreas de Conhecimento]
+Ensino-Serviço- Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA CRUZEIRO DO SUL
+38ª QUESTÃO
+
+Código da questão:
+
+107286
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 95 de 105
+
+Enunciado:
+(AFYA Palmas) Um estudante de medicina está aprendendo sobre a produção de soro antiofídico
+a partir do plasma do cavalo. Durante uma aula prática, ele está revisando o processo de
+produção e identificação das fases dessa produção. Na figura abaixo, estão representadas
+diferentes fases do processo de produção de soro antiofídico a partir do plasma do cavalo,
+identificadas por letras.
+
+Assinale a alternativa correta que indique o material que foi inoculado na figura A e o tipo de
+imunização gerada.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 96 de 105
+
+Alternativas:
+(alternativa A)
+Inoculação de imunoglobulina e imunização passiva.
+(alternativa B)
+Inoculação de anticorpo e imunização inata.
+(alternativa C) (CORRETA)
+Inoculação de antígeno e imunização ativa.
+(alternativa D)
+Inoculação de toxina e imunização celular.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 97 de 105
+
+Resposta comentada:
+Correta: Na fase A, ocorre a inoculação de antígeno para estimular a resposta imunológica do
+animal, levando à produção ativa de anticorpos. Isso configura imunização ativa, onde o próprio
+animal gera uma resposta imune contra o antígeno.
+Incorretas:
+Na fase B, não ocorre a inoculação de anticorpos no cavalo, e sim a produção de anticorpos
+induzidos previamente pela inoculação do antígeno. A imunização inata caracteriza-se pela rápida
+resposta à agressão, independentemente de estímulo prévio.
+Na fase C, geralmente ocorre a coleta de sangue do animal para obtenção do plasma, e
+consequentemente a purificação de imunoglobulinas e não a inoculação de imunoglobulina. A
+imunização passiva ocorre quando os anticorpos são administrados diretamente no animal.
+Na fase D, geralmente ocorre a purificação e o processamento do plasma, não a inoculação de
+toxina. A imunização celular corresponde a um sistema defensivo que é mediado por células dos
+linfócitos T.
+Justificativa das incorretas:
+Inoculação de anticorpo e imunização inata.
+Anticorpos não são inoculados no cavalo; na verdade, ele é quem os produz.
+Imunização inata nem sequer depende de inoculação: trata-se de uma resposta
+imediata e inespecífica, já presente desde o nascimento, e não é induzida por
+exposição prévia a antígenos.
+Inoculação de imunoglobulina e imunização passiva.
+As imunoglobulinas (anticorpos) são coletadas do cavalo após sua resposta imune, não
+inoculadas nele.
+Imunização passiva ocorre quando um indivíduo recebe anticorpos prontos, sem gerar
+sua própria resposta imune. Isso é o que ocorre quando o soro antiofídico é
+administrado em humanos, não no cavalo.
+
+Inoculação de toxina e imunização celular.
+Imunização celular envolve predominantemente linfócitos T e é associada à defesa
+contra vírus e células tumorais, não à produção de anticorpos humorais, que é o
+objetivo representado na imagem.
+Referência:
+ABBAS, Abul K. ; PILLAI, Shiv; LICHTMAN, Andrew H. Imunologia celular e molecular. 9. Rio de
+Janeiro: Guanabara Koogan, 2019, 565 p.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 98 de 105
+
+Filtros da questão:
+
+[Semanas]
+7
+[Módulos integrados]
+SOI
+[Áreas de Conhecimento]
+Básica
+Sistema Imunológico
+[Subáreas de Conhecimento]
+Imunologia
+Sistema imunológico
+[Competências (Objetivos)]
+Diferenciar imunidade ativa e passiva.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PALMAS
+39ª QUESTÃO
+
+Código da questão:
+
+135289
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA Manacapuru) Você está realizando a triagem de emergência em uma Unidade de Pronto
+Atendimento (UPA) e avalia duas crianças de 4 anos com condições clínicas distintas:
+Criança A: apresenta-se afebril, com pele de coloração rosada, quente ao toque e bem
+hidratada.
+Criança B: apresenta-se afebril, com extremidades frias, palidez cutânea e tempo de
+enchimento capilar superior a 3 segundos.
+Considerando as alterações de cor e temperatura da pele, assinale a alternativa que melhor
+caracteriza esses achados das duas crianças.
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 99 de 105
+
+Alternativas:
+(alternativa A) (CORRETA)
+A pele rosada e quente, da criança A, são características saudáveis; palidez cutânea e
+extremidades frias, da criança B, podem indicar condições patológicas.
+(alternativa B)
+Ambas as crianças apresentam sinais de perfusão adequada, turgor e temperaturas cutâneas
+normais.
+(alternativa C)
+Ambos os quadros indicam condições normais em função da imaturidade do sistema circulatório
+infantil.
+(alternativa D)
+A pele rosada e quente, da criança A, sugere condições patológicas; palidez e extremidades frias,
+da criança B, indicam desidratação leve sem gravidade.
+
+Grau de dificuldade:
+
+Fácil
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 100 de 105
+
+Resposta comentada:
+Resposta correta: A pele rosada e quente é característica saudável; palidez e extremidades frias
+podem indicar choque hipovolêmico.
+Justificativas das alternativas:
+Alternativa incorreta: Ambas as crianças apresentam sinais de perfusão adequada, turgor e
+temperaturas cutâneas normais. Justificativa: A criança A tem sinais de perfusão adequada, mas
+a criança B (palidez, extremidades frias e enchimento capilar >3 segundos) apresenta sinais
+sugestivos de hipoperfusão, o que não é considerado normal.
+(Referência: McGEE, 2021; PORTO, 2019).
+Alternativa correta: A pele rosada e quente, da criança A, são características saudáveis; palidez
+cutânea e extremidades frias, da criança B, podem indicar condições patológicas. Justificativa:
+Pele rosada, quente e hidratada são sinais de boa perfusão e hidratação, esperados em crianças
+saudáveis. Já palidez, extremidades frias e enchimento capilar prolongado são sinais de má
+perfusão periférica, podendo indicar choque hipovolêmico ou séptico.
+(Referência: McGEE, 2021; BASTOS, 2014; PORTO, 2019).
+Alternativa incorreta: A pele rosada e quente, da criança A, sugere condições patológicas; palidez
+e extremidades frias, da criança B, indicam desidratação leve sem gravidade. Justificativa: Pele
+quente pode ocorrer em febre, mas no caso descrito, o contexto é de pele hidratada e rosada sem
+outro sinal de febre. Além disso, palidez e extremidades frias com enchimento capilar prolongado
+são achados mais graves, indicativos de choque, não apenas de desidratação leve.
+(Referência: PORTO & PORTO, 2017).
+Alternativa incorreta: Ambos os quadros indicam condições normais em função da imaturidade do
+sistema circulatório infantil. Justificativa: Apesar de algumas variações serem normais na
+infância, palidez, extremidades frias e enchimento capilar >3 segundos não são considerados
+normais e exigem avaliação imediata na urgência.
+(Referência: McGEE, 2021; BASTOS, 2014).
+Referências:
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+PORTO, C.C. Semiologia Médica, 8. ed. Rio de Janeiro: Guanabara Koogan, 2019. E-book.
+ISBN 9788527734998. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527734998. Acesso em: 30 out. 2024.
+PORTO, C. C.; PORTO, A. L. Exame Clínico. 8. ed. Rio de Janeiro: Guanabara Koogan, 2017. Ebook. p. 304. ISBN 9788527731034. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527731034/. Acesso em: 08 nov. 2024.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 101 de 105
+
+Filtros da questão:
+
+[Semanas]
+11
+[Módulos integrados]
+HAM
+[Áreas de Conhecimento]
+Semiologia
+[Competências (Objetivos)]
+Diferenciar as características saudáveis da pele de sinais de
+condições patológicas.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA MANACAPURU
+[Subáreas de Conhecimento]
+Exame Físico
+40ª QUESTÃO
+
+Código da questão:
+
+135076
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA ABAETETUBA) Durante uma visita domiciliar em uma comunidade rural, você atende um
+paciente de 12 anos com histórico de rinite alérgica e asma. A família relata que os sintomas
+pioram significativamente durante a época de queimadas e em dias com alta concentração de
+poeira. O paciente apresenta espirros frequentes, congestão nasal e dificuldade respiratória. A
+casa possui mofo visível no banheiro e a família utiliza lenha para cozinhar, aumentando a
+exposição a partículas no ar.
+Considerando os mecanismos imunológicos envolvidos na hipersensibilidade e os fatores
+ambientais descritos, qual alternativa melhor explica a relação entre a exposição a alérgenos
+ambientais e a resposta imune celular que pode levar à perda de tolerância a antígenos inócuos?
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 102 de 105
+
+Alternativas:
+(alternativa A)
+A inalação de poluentes danifica diretamente as vias aéreas, mas não altera a apresentação de
+antígenos pelas células dendríticas, preservando a tolerância periférica.
+(alternativa B)
+A exposição crônica à poeira e mofo induz predominantemente uma resposta Th1, com produção
+de IFN-γ, que suprime a inflamação alérgica e mantém a tolerância imunológica.
+(alternativa C) (CORRETA)
+Alérgenos ambientais, como ácaros e mofo, promovem uma resposta Th2, com liberação de IL-4,
+IL-5 e IL-13, enquanto a poluição reduz a função de células T reguladoras (Treg), favorecendo a
+sensibilização alérgica.
+(alternativa D)
+Partículas de queimadas e poluentes estimulam a ativação de mastócitos via IgE, mas não
+interferem na regulação por células T reguladoras (Treg), mantendo a homeostase imune.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Correta: Alérgenos ambientais, como ácaros e mofo, promovem uma resposta Th2, com
+liberação de IL-4, IL-5 e IL-13, enquanto a poluição reduz a função de células T reguladoras
+(Treg), favorecendo a sensibilização alérgica.
+Essa alternativa descreve corretamente o mecanismo da hipersensibilidade tipo I, mediada por
+Th2 (IL-4, IL-5, IL-13), e como a exposição a poluentes pode comprometer a função das Treg,
+levando à perda de tolerância e exacerbando alergias.
+As reações alérgicas do tipo I são o resultado da produção de anticorpos IgE específicos contra
+antígenos inofensivos comuns. Alérgenos são antígenos pequenos que comumente provocam
+resposta mediada por anticorpos IgE. Esses antígenos normalmente entram no organismo em
+baixas doses por difusão através da superfície mucosa e, assim, desencadeiam uma resposta
+TH2. A diferenciação de células T alérgeno-específicas virgens em células T H2 é também
+favorecida por citocinas como IL-4 e IL-13. Células TH2 alérgeno-específicas que produzem IL-4
+e IL-13 direcionam células B alérgeno-específicas a produzir IgE. Os anticorpos IgE produzidos
+em resposta a alérgenos ligam-se aos receptores de alta afinidade para IgE em mastócitos e
+basófilos. A produção de IgE pode ser amplificada por essas células, pois sob ativação elas
+produzem IL-4 e ligante CD40. A tendência para a produção acentuada de IgE é influenciada por
+fatores genéticos e ambientais. Uma vez que tenha sido produzida IgE em resposta a alérgenos,
+a reexposição ao alérgeno desencadeia uma resposta alérgica. A imunorregulação é crucial no
+controle de doença alérgica por meio de vários mecanismos, incluindo células Treg.
+A resposta Th2 (IL-4, IL-5, IL-13) está associada a doenças alérgicas, enquanto a redução da
+função das células Treg (que normalmente mantêm a tolerância) favorece a sensibilização.
+Poluentes como partículas de queimadas exacerbam esse processo ao aumentar a
+permeabilidade das vias aéreas e a carga antigênica.
+Incorretas:
+A exposição crônica à poeira e mofo induz predominantemente uma resposta Th1, com produção
+de IFN-γ, que suprime a inflamação alérgica e mantém a tolerância imunológica.
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 103 de 105
+
+Incorreto: Embora a resposta Th1 (com IFN-γ) seja importante contra infecções
+intracelulares, ela não está diretamente envolvida na supressão de alergias. Na
+verdade, a hipersensibilidade tipo I é mediada por uma resposta Th2, e a falta de
+equilíbrio entre Th1/Th2 pode predispor a reações alérgicas.
+Partículas de queimadas e poluentes estimulam a ativação de mastócitos via IgE, mas não
+interferem na regulação por células T reguladoras (Treg), mantendo a homeostase imune.
+Incorreto: Embora poluentes possam de fato ativar mastócitos via IgE, eles também
+prejudicam a função das células Treg, que são essenciais para manter a tolerância a
+antígenos inócuos. A perda dessa regulação contribui para a sensibilização alérgica.
+A inalação de poluentes danifica diretamente as vias aéreas, mas não altera a apresentação de
+antígenos pelas células dendríticas, preservando a tolerância periférica.
+Incorreto: Poluentes não só causam dano epitelial, mas também modificam a função
+das células dendríticas, aumentando sua capacidade de apresentar antígenos de forma
+pró-inflamatória e contribuindo para a quebra da tolerância imunológica.
+A resposta imune inata a partículas de queimadas ativa neutrófilos e macrófagos, que eliminam
+alérgenos sem envolver linfócitos T, evitando reações de hipersensibilidade.
+Incorreto: Embora neutrófilos e macrófagos participem da resposta inata a poluentes, a
+sensibilização alérgica depende da ativação de linfócitos T (especialmente Th2) e da
+produção de IgE. A resposta inata sozinha não previne hipersensibilidade.
+Referências:
+PLAYFAIR, J. H L.; CHAIN, B M. Imunologia Básica: Guia Ilustrado de Conceitos
+Fundamentais. 9. ed. Barueri: Manole, 2013. E-book. p.A. ISBN 9788520450154.
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Celular e Molecular. 10. ed.
+Rio de Janeiro: GEN Guanabara Koogan, 2023. E-book. p. 467. ISBN 9788595158924. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9788595158924/. Acesso em: 24 abr.
+2025.
+Feedback:
+--
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 104 de 105
+
+Filtros da questão:
+
+[Semanas]
+6
+11
+[Módulos integrados]
+SOI + IESC
+[Competências (Objetivos)]
+Identificar o impacto de agentes ambientais sobre a
+hipersensibilidade nas vias áreas superiores.
+[Áreas de Conhecimento]
+Básica
+[Subáreas de Conhecimento]
+Imunologia/ambiente
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+
+000159.62001d.f6fec5.c47d06.7d5d8c.1bcb34.b0dd35.36378
+
+Pgina 105 de 105
+
+

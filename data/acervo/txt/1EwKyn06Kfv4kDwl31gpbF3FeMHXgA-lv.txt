@@ -1,0 +1,1890 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Estágio em Atenção Ambulatorial e Hospitalar em
+Pediatria
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data: 11/06/2025
+
+N2 INTERNATO - MEDICINA - PED - 2025.1 - ROT 3 - 11/JUNHO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16113 - CADERNO 001
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+Enunciado:
+(UNIGRANRIO Caxias) Adolescente, 14 anos, previamente hígido, com histórico de acne grau 3,
+procura atendimento devido ao surgimento de lesão dolorosa na face há 2 dias, associada a
+aumento progressivo da área acometida, edema intenso, hiperemia e calor local, além de febre
+nas últimas 24 horas. Ao exame físico, apresenta placa eritematosa mal delimitada na região
+malar esquerda, com edema acentuado e dor à palpação, além de dificuldade para abrir o olho
+esquerdo devido ao inchaço. Com base na suspeita clínica, qual a conduta mais adequada para
+esse paciente?
+Alternativas:
+(alternativa A)
+Observação e analgesia, pois o quadro é compatível com inflamação secundária à acne, sem
+necessidade de antibióticos.
+(alternativa B) (CORRETA)
+Internação hospitalar para antibioticoterapia venosa com ceftriaxona ou oxacilina, devido ao risco
+de complicações graves.
+(alternativa C)
+Drenagem cirúrgica imediata da lesão e antibioticoterapia oral empírica com amoxicilina, pois a
+presença de edema intenso sugere abscesso subcutâneo.
+(alternativa D)
+Tratamento ambulatorial com antibioticoterapia oral (cefalexina ou amoxicilina-clavulanato) e
+reavaliação em 48 horas, pois o quadro sugere um processo infeccioso localizado sem
+necessidade de internação.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 1 de 54
+
+Resposta comentada:
+Alternativa correta: – Internação hospitalar para antibioticoterapia venosa com ceftriaxona ou
+oxacilina, devido ao risco de complicações graves como celulite orbitária e trombose do seio
+cavernoso.
+Justificativa: A presença de febre, edema intenso, dor importante, proptose ocular e progressão
+da lesão facial são sinais de celulite facial grave, com risco de evolução para celulite orbitária e
+trombose do seio cavernoso. Nessas condições, a internação imediata e a antibioticoterapia
+venosa são obrigatórias para prevenir complicações.
+Alternativa (incorreta): O tratamento ambulatorial com antibióticos orais pode ser suficiente para
+celulites leves, mas o quadro apresentado tem sinais de gravidade (localização, febre, edema
+intenso), indicando necessidade de internação e antibióticos intravenosos.
+Alternativa (incorreta): O caso não apresenta sinais de abscesso (como flutuação), apenas
+inflamação difusa. Drenagem cirúrgica só é indicada se houver abscesso evidente, o que não
+ocorre no quadro descrito. Além disso, a amoxicilina isolada não cobre Staphylococcus aureus
+adequadamente.
+Alternativa (incorreta): A observação sem antibióticos é inadequada, pois a celulite facial grave
+exige intervenção e antibioticoterapia venosa.
+Referência:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Infecções bacterianas superficiais cutâneas.
+Departamentos Científicos de Dermatologia e Infectologia, 2019-2021. Disponível em:
+https://www.sbp.com.br. Acesso em: 02 fev. 2025.
+2ª QUESTÃO
+Enunciado:
+(Banco AFYA) Uma menina de 7 anos, com diagnóstico conhecido de anemia falciforme (HbSS),
+é levada à emergência com palidez intensa, prostração, taquicardia, febre baixa há dois dias e
+dispneia progressiva. A mãe relata que a filha teve uma queda abrupta no nível de atividade nas
+últimas 24 horas. Ao exame físico, está hipocorada, com frequência cardíaca de 145 bpm, sem
+esplenomegalia, sem sinais de sangramento ou infecção ativa. A ausculta pulmonar é normal. O
+hemograma revela: Hb 4,2 g/dL, reticulócitos 0,2%, leucograma sem desvio ou leucocitose.
+Com base nos achados clínico-laboratoriais, qual a conduta inicial mais apropriada?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 2 de 54
+
+Alternativas:
+(alternativa A)
+Iniciar antibioticoterapia empírica, realizar sorologia para parvovírus B19 e observar em ambiente
+hospitalar, considerando que o tratamento é sintomático e raramente requer transfusão.
+(alternativa B)
+Prescrever ácido fólico e iniciar eritropoetina subcutânea, considerando supressão medular
+transitória induzida por infecção viral, com expectativa de recuperação espontânea da
+eritropoiese.
+(alternativa C) (CORRETA)
+Iniciar transfusão de concentrado de hemácias, considerando o risco de descompensação
+cardiovascular na crise aplásica, e avaliar necessidade de internação hospitalar.
+(alternativa D)
+Aguardar exames virológicos confirmatórios e repetir hemograma em 24-48 horas antes de
+qualquer decisão terapêutica, considerando possível erro laboratorial ou quadro transitório.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 3 de 54
+
+Resposta comentada:
+O quadro clínico e laboratorial é clássico de crise aplásica aguda em paciente com anemia
+falciforme, provocada frequentemente pelo parvovírus B19, que inibe a eritropoiese medular. A
+anemia severa com reticulocitopenia e ausência de esplenomegalia ou leucocitose diferencia de
+crises hemolíticas ou sequestro esplênico.
+A conduta imediata é a transfusão de concentrado de hemácias, para prevenir insuficiência
+cardíaca e morte. A sorologia para parvovírus B19 pode ser solicitada, mas não deve atrasar o
+tratamento.
+Justificativa:
+A anemia é grave (Hb <5 g/dL), associada a reticulocitopenia em criança com falciforme →
+fortemente sugestiva de crise aplásica. A transfusão é a medida de suporte essencial.
+Embora o parvovírus B19 possa cursar com febre, não é necessário antibiótico empírico sem
+sinais clínicos de infecção bacteriana. E observar sem transfusão em Hb de 4,2 g/dL é risco de
+descompensação hemodinâmica.
+Embora o ácido fólico seja recomendado profilaticamente em pacientes com anemia falciforme,
+ele não resolve a crise aplásica aguda. O uso de eritropoetina também não é indicado no contexto
+agudo, especialmente em uma criança com reticulocitopenia causada por infecção viral
+(parvovírus B19). A resposta medular será restaurada espontaneamente após resolução da
+infecção, e a criança precisa de transfusão imediata, não de estímulo eritropoiético tardio.
+Não se deve postergar transfusão em paciente com sinais clínicos e laboratoriais evidentes de
+descompensação. O manejo da crise aplásica é urgente e clínico, não dependente de
+confirmação laboratorial virológica.
+Referências:
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria, v. 2, 5ª ed.
+Manole, 2021. ISBN 9786555767483. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767483/. Acesso em: 03 jun. 2025.
+FONSECA, Eliane M. G. O. da; PALMEIRA, Tereza S. S. Pediatria Ambulatorial. Manole, 2021.
+ISBN 9786555765229.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555765229/. Acesso em: 03
+jun. 2025.
+BUNIK, M. et al. CURRENT Pediatria: Diagnóstico e Tratamento. Grupo A, 2024. ISBN
+9786558040279.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786558040279/. Acesso em: 03
+jun. 2025.
+Sociedade Brasileira de Pediatria (SBP). Departamento Científico de Hematologia e Hemoterapia.
+Manual de orientação para pacientes com doença falciforme. SBP, 2020.
+3ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 4 de 54
+
+Enunciado:
+(Banco AFYA) Na UBS, uma criança de 1 ano é trazida pela mãe com quadro de diarreia há
+menos de 24 horas. A mãe refere boa aceitação alimentar e ingestão de líquidos preservada. A
+criança está ativa, com olhos normais, mucosas úmidas, perfusão periférica adequada, sem febre
+ou vômitos. O exame físico não revela sinais de desidratação. A mãe, ansiosa, pede alguma
+medicação para "cortar a diarreia".
+Com base nos protocolos atuais do Ministério da Saúde para o manejo da diarreia aguda em
+crianças sem desidratação, qual é a conduta mais apropriada?
+Alternativas:
+(alternativa A)
+Iniciar antibiótico oral e zinco, manter dieta leve com restrição de proteínas e reavaliar em 48
+horas, mesmo que a criança esteja clinicamente estável.
+(alternativa B)
+Administrar antissecretor oral (racecadotrila), prescrever zinco e restringir temporariamente o
+consumo de leite, priorizando dieta constipante até melhora dos sintomas.
+(alternativa C) (CORRETA)
+Prescrever zinco por 10 a 14 dias, manter a alimentação habitual, oferecer SRO após cada
+evacuação e orientar os cuidadores quanto aos sinais de alarme.
+(alternativa D)
+Iniciar reidratação venosa com solução cristalóide, associada à suspensão de alimentos sólidos e
+prescrição de zinco por 10 dias.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 5 de 54
+
+Resposta comentada:
+A conduta correta para crianças com diarreia aguda sem sinais de desidratação (Plano A) inclui:
+1. Manter alimentação habitual, inclusive leite materno;
+2. Oferecer SRO após cada evacuação (volume de acordo com a idade);
+3. Suplementar zinco por 10 a 14 dias, pois reduz a duração e a gravidade da diarreia e
+previne episódios futuros.
+4. Orientar os cuidadores sobre sinais de alarme (vômitos persistentes, febre alta, sangue
+nas fezes, recusa alimentar, letargia, sinais de desidratação).
+Conduta exatamente conforme o Plano A do Ministério da Saúde, que enfatiza o papel do zinco na
+recuperação intestinal e prevenção de recorrências, especialmente em crianças menores de 5
+anos.
+Não há indicação de hidratação parenteral em pacientes sem sinais de desidratação. Além disso,
+a suspensão da alimentação agrava a perda nutricional e não reduz a diarreia.
+Racecadotrila não faz parte do protocolo de rotina e pode atrasar o diagnóstico de complicações.
+A restrição de leite e dieta constipante são desnecessárias e potencialmente prejudiciais ao
+estado nutricional.
+Antibióticos não são indicados empiricamente na maioria dos casos de diarreia aguda. A restrição
+proteica é sem fundamento e contraproducente em uma fase em que a criança precisa de
+nutrição adequada para se recuperar.
+Referências:
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+ed. Manole, 2021. ISBN 9786555767476. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03 jun. 2025.
+Ministério da Saúde. Manejo do Paciente com Diarreia. Disponível em:
+https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/svsa/doencas-diarreicasagudas/manejo-do-paciente-com-diarreia-avaliacao-do-estado-do-paciente. Acesso em: 03 jun.
+2025.
+
+4ª QUESTÃO
+Enunciado:
+(IESVAP) Um recém-nascido prematuro, com 34 semanas de idade gestacional e peso de
+nascimento de 1.400 g, é levado à Unidade Básica de Saúde para consulta de rotina da primeira
+semana de vida. Está em aleitamento materno exclusivo, encontra-se clinicamente estável e em
+bom estado geral. A equipe de saúde considera a necessidade de prevenção de anemia
+ferropriva, condição comum em prematuros devido à imaturidade fisiológica e às menores
+reservas de ferro.
+Segundo as diretrizes da Sociedade Brasileira de Pediatria, qual é a conduta mais apropriada para
+esse paciente?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 6 de 54
+
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar suplementação com ferro elementar na dose de 3 mg/kg/dia a partir de 30 dias de vida,
+mesmo com aleitamento exclusivo e ausência de sinais clínicos de anemia.
+(alternativa B)
+Realizar hemograma aos 60 dias de vida e iniciar ferro apenas se houver anemia, considerando o
+risco de sobrecarga em prematuros.
+(alternativa C)
+Adiar a suplementação até os 6 meses, quando iniciarão os alimentos complementares ricos em
+ferro, com foco em estratégias nutricionais não farmacológicas.
+(alternativa D)
+Iniciar suplementação com ferro elementar na dose de 2 mg/kg/dia aos 30 dias de vida, mantendo
+acompanhamento laboratorial trimestral.
+
+Resposta comentada:
+Esta questão exige que o aluno integre conhecimento de fisiologia neonatal, diretrizes atualizadas
+de suplementação de ferro e fatores de risco específicos dos prematuros. Prematuros com peso
+de nascimento entre 1.000 g e 1.500 g necessitam de 3 mg/kg/dia de ferro elementar, iniciando
+aos 30 dias de vida, independentemente do tipo de alimentação ou de sinais clínicos.
+A SBP recomenda 3 mg/kg/dia de ferro elementar para prematuros com peso entre 1.000 g e
+1.500 g, iniciando aos 30 dias de vida, independentemente da alimentação ou estado clínico. O
+objetivo é prevenir anemia ferropriva, comum nessa população.
+A dose (2 mg/kg/dia) é recomendada para prematuros com peso ao nascer entre 1.500 g e 2.500
+g. O caso da questão envolve um bebê com 1.400 g, que requer dose maior (3 mg/kg/dia). O
+seguimento laboratorial é importante, mas não corrige o erro da dosagem.
+Adiar a suplementação até os 6 meses é contraindicado em prematuros. A introdução alimentar
+não supre adequadamente a demanda de ferro em prematuros com baixo peso, que já nascem
+com reservas limitadas e alto risco de anemia precoce.
+Essa conduta é reativa e não preventiva, além de atrasar uma intervenção que deve ser iniciada
+de forma universal em prematuros de risco. Não há evidência de que a suplementação profilática
+na dose indicada cause sobrecarga de ferro nesta população, quando bem indicada.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+5ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 7 de 54
+
+Enunciado:
+(Banco AFYA) Durante atendimento em Unidade Básica de Saúde sem acesso a testes de vírus
+respiratórios, um menino de 1 ano e 4 meses, previamente hígido, é trazido pela mãe por
+apresentar febre aferida de até 38,7 °C há 24 horas. A criança está ativa, bem hidratada, com
+aceitação alimentar preservada, e o exame físico não revela sinais localizatórios nem toxemia. As
+vacinas do calendário nacional, incluindo conjugadas contra pneumococo e Haemophilus
+influenzae tipo b, estão em dia.
+Com base no protocolo da Sociedade Brasileira de Pediatria, qual é a conduta mais apropriada
+para o manejo desse paciente?
+Alternativas:
+(alternativa A)
+Solicitar hemograma, PCR e urocultura imediatamente, iniciar antibioticoterapia empírica com
+amoxicilina-clavulanato e reavaliar em 24h.
+(alternativa B)
+Suspender temporariamente o calendário vacinal e prescrever antibiótico profilático até a
+resolução do quadro febril.
+(alternativa C)
+Indicar hospitalização para investigação de infecção oculta, mesmo com bom estado geral, por
+risco de bacteremia oculta.
+(alternativa D) (CORRETA)
+Orientar observação domiciliar com medidas sintomáticas, prescrever antitérmico se necessário
+e reavaliar em 24h se persistência da febre ou aparecimento de novos sinais.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 8 de 54
+
+Resposta comentada:
+Segundo a SBP, em crianças > 3 meses com bom estado geral, vacinação atualizada (incluindo
+pneumocócica e Hib) e sem sinais de toxemia ou foco clínico, a conduta é:
+Observação ambulatorial segura com orientações de sinais de alarme.
+Uso de antitérmico conforme necessário;
+Reavaliação em 24-48 horas ou se surgirem novos sintomas.
+Evita exames desnecessários e uso inapropriado de antibióticos. Pode-se considerar
+(não obrigatório) coletar exame de urina 1 / Urocultura nas crianças com risco
+aumentado (meninas menores de 24 meses e meninos menores de 12 meses não
+circuncidados e menores de 6 meses circuncidados) e pesquisa de vírus respiratório
+se esse for disponível. O que não é o caso do nosso paciente.
+Em pacientes vacinados e com bom estado geral, exames laboratoriais de rotina e antibiótico
+empírico não estão indicados na primeira abordagem.
+O risco de bacteremia oculta é muito reduzido com a vacinação conjugada
+antipneumocócica.
+A hospitalização imediata sem sinais clínicos de gravidade é injustificável e não é custo-efetiva,
+além de aumentar o risco de iatrogenia.
+Internação só se justifica com sinais de toxemia, alteração neurológica, hipoperfusão,
+ou se < 3 meses.
+Suspender o calendário vacinal ou prescrever antibiótico profilático são condutas sem
+embasamento em evidência atual.
+A febre por si só não contraindica vacinas futuras, a menos que esteja no momento de
+aplicação com febre alta (>38,5 °C).
+Referências:
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+Ed. Manole, 2021. ISBN 9786555767476.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03
+jun. 2025.
+
+6ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 9 de 54
+
+Enunciado:
+(Banco AFYA) Beatriz, 4 anos, previamente hígida, é levada ao pronto-socorro com febre de início
+súbito há 2 dias, associada a vômitos, sonolência e dor de cabeça. A mãe refere que, 48 horas
+antes do início dos sintomas neurológicos, a criança apresentou manchas avermelhadas nas
+palmas das mãos, plantas dos pés e úlceras orais dolorosas. No exame físico, Beatriz encontrase hipoativa, febril (38,9 °C), com rigidez de nuca e reflexos profundos exaltados, sem sinais de
+hipertensão intracraniana. Pupilas isocóricas e reativas.
+A punção lombar mostra:
+Aspecto: límpido.
+Leucócitos: 160 células/mm³ (90% linfomononucleares).
+Proteína: 62 mg/dL.
+Glicose: 58 mg/dL (glicemia: 94 mg/dL).
+Gram: resultado negativo.
+Considerando o quadro clínico e os achados do LCR, qual a conduta mais apropriada?
+Alternativas:
+(alternativa A)
+Iniciar ceftriaxona e vancomicina IV, devido à presença de febre e alteração do sensorium,
+sugerindo meningite bacteriana até prova em contrário. Avaliar rifampicina para os familiares.
+(alternativa B) (CORRETA)
+Iniciar suporte clínico e isolamento, solicitar painel viral para pesquisa de vírus no líquor e manter
+vigilância neurológica hospitalar. Não há necessidade de profilaxia para contactantes.
+(alternativa C)
+Liberar a paciente para acompanhamento ambulatorial, pois o LCR límpido com glicose normal
+exclui infecção do sistema nervoso central. Iniciar sintomáticos orais.
+(alternativa D)
+Iniciar antibióticos empíricos de amplo espectro e aciclovir IV, considerando encefalite herpética
+como principal hipótese. Iniciar imunoglobulina IV para proteção dos contatos domiciliares.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 10 de 54
+
+Resposta comentada:
+Gabarito: Iniciar suporte clínico e isolamento, solicitar painel viral para pesquisa de vírus no líquor
+e manter vigilância neurológica hospitalar. Não há necessidade de profilaxia para contactantes.
+O quadro clínico é altamente sugestivo de meningoencefalite viral por enterovírus, dado o
+pródromo com:
+Exantema nas palmas, plantas e úlceras orais (síndrome mão-pé-boca).
+Sinais meníngeos.
+LCR com pleocitose linfomononuclear, proteinorraquia moderada e glicose normal.
+A conduta mais adequada:
+Suporte clínico hospitalar.
+Solicitar PCR para enterovírus no LCR.
+Não há necessidade de profilaxia para contatos (transmissão é fecal-oral, mas autolimitada).
+Manter isolamento padrão e vigilância neurológica.
+Embora o raciocínio de “tratar até provar o contrário” possa ser válido nas primeiras horas, o LCR
+já mostra padrão viral claro. A pleocitose linfocitária e a glicose normal afastam a bacteriana.
+Rifampicina não tem papel aqui — é específica para profilaxia de meningite meningocócica.
+Criança com sinais de encefalite e alteração neurológica + LCR alterado deve ser internada,
+mesmo com etiologia viral presumida. Alta ambulatorial seria uma conduta negligente.
+Não há elementos clínicos ou laboratoriais que justifiquem a hipótese de encefalite herpética
+(HSV-1 ou HSV-2). Além disso, imunoglobulina IV não tem papel na prevenção de enterovírus em
+contatos domiciliares.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+
+7ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 11 de 54
+
+Enunciado:
+(Banco AFYA) Gabriel, 10 anos, previamente hígido, é admitido em emergência após episódio de
+parada cardiorrespiratória durante atividade física na escola. Foi iniciado suporte básico por
+professores treinados e reanimação avançada na chegada do SAMU, com retorno da circulação
+espontânea (ROSC) após 6 minutos de manobras. Durante o pós-PCR, o paciente apresenta
+tetania, fraqueza muscular e arritmia ventricular em monitoração contínua.
+Exames laboratoriais mostram:
+Potássio sérico: 2,1 mEq/L.
+pH: 7,48.
+Magnesemia: normal.
+ECG: onda U proeminente, achatamento de onda T, presença de extrassístoles
+ventriculares.
+Diante do quadro clínico, qual é a conduta mais adequada neste momento?
+Alternativas:
+(alternativa A)
+Corrigir hipocalemia com infusão lenta de cloreto de potássio, monitorizar ritmo cardíaco e manter
+normotermia, sem necessidade de sedação ou suporte ventilatório se estado de consciência for
+preservado.
+(alternativa B) (CORRETA)
+Iniciar reposição venosa de cloreto de potássio com monitoração cardíaca contínua, manter
+suporte ventilatório, avaliar causas da hipocalemia e manter normoxia e normotermia no pósPCR.
+(alternativa C)
+Realizar ressuscitação volêmica vigorosa e administração de cálcio endovenoso, pois a
+hipocalemia associada à alcalose metabólica exige expansão rápida do volume plasmático.
+(alternativa D)
+Administrar solução polarizante com insulina e glicose para correção da hipocalemia, pois
+favorece o retorno do potássio ao espaço extracelular, além de iniciar bicarbonato se pH < 7,35.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 12 de 54
+
+Resposta comentada:
+Gabarito: Iniciar reposição venosa de cloreto de potássio com monitoração cardíaca contínua,
+manter suporte ventilatório, avaliar causas da hipocalemia e manter normoxia e normotermia no
+pós-PCR.
+A hipocalemia grave (< 2,5 mEq/L) pode precipitar arritmias ventriculares e PCR, principalmente
+sob estresse físico.
+Após o retorno da circulação, o manejo deve incluir:
+Correção controlada com KCl EV, diluído, em infusão com monitoração contínua de ECG.
+Suporte ventilatório em caso de rebaixamento de consciência ou instabilidade respiratória.
+Investigação da causa da hipocalemia (diuréticos, perdas gastrointestinais, redistribuição).
+Controle de temperatura e oxigenação, conforme cuidados pós-PCR recomendados pela
+AHA/PALS.
+Embora a correção lenta possa ser indicada em casos menos graves, neste cenário há arritmia
+ventricular e potássio < 2,5, sendo necessário ritmo cardíaco monitorado de forma contínua.
+Suporte ventilatório pode ser necessário, mesmo que transitoriamente, especialmente se houver
+risco neurológico.
+A solução polarizante (insulina + glicose) é usada para tratar hipercalemia, pois empurra potássio
+para o intracelular. Está completamente contraindicada aqui, pois agravaria a hipocalemia.
+O cálcio pode ser usado para estabilizar a membrana em hipocalemia com arritmia grave,
+mas não substitui a reposição de potássio. A expansão volêmica não é prioritária, e a alcalose
+leve não é indicação para reposição de bicarbonato.
+Referências:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+PALS (Pediatric Advanced Life Support), 2021.
+8ª QUESTÃO
+Enunciado:
+(FASA VIC) Mariana, 11 meses de vida, cardiopata com comunicação interventricular (CIV), foi
+levada ao pronto atendimento com quadro de diarreia há três dias, associado a vômitos e recusa
+alimentar. No exame físico, apresenta letargia, olhos fundos, ausência de lágrimas, boca muito
+seca, pulso fraco e sinal da prega desaparecendo muito lentamente. A mãe relata que a criança
+teve diminuição da diurese nas últimas 12 horas.
+Com base no quadro clínico e no protocolo do Ministério da Saúde para o manejo da diarreia
+aguda, qual deve ser a conduta inicial mais adequada para a reidratação de Mariana?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 13 de 54
+
+Alternativas:
+(alternativa A)
+Administrar ondansetrona para controle dos vômitos e iniciar reidratação oral com SRO,
+complementando com glicose intravenosa se houver hipoglicemia.
+(alternativa B)
+Iniciar reidratação oral com solução de reidratação oral (SRO) administrada lentamente,
+garantindo 100 ml/kg em 6 horas.
+(alternativa C) (CORRETA)
+Iniciar reidratação endovenosa com 10 ml/kg de soro fisiológico 0,9% na 1ª hora, devido ao risco
+de sobrecarga hídrica pela cardiopatia, e reavaliar o estado de hidratação antes de prosseguir.
+(alternativa D)
+Iniciar reposição endovenosa com soro fisiológico a 0,9% ou Ringer Lactato na fase de expansão,
+utilizando 30 ml/kg na primeira hora, seguido por 70 ml/kg nas próximas 5 horas.
+
+Resposta comentada:
+A reidratação de uma criança cardiopata com desidratação grave deve seguir protocolos
+específicos para evitar sobrecarga hídrica e descompensação cardiovascular.
+Opção correta: Iniciar reidratação endovenosa com 10 ml/kg de soro fisiológico 0,9% na 1ª hora,
+devido ao risco de sobrecarga hídrica pela cardiopatia, e reavaliar o estado de hidratação antes de
+prosseguir. Crianças menores de 5 anos com cardiopatias graves devem receber um volume
+reduzido na fase de expansão para evitar sobrecarga hídrica. O protocolo recomenda iniciar a
+reidratação com 10 ml/kg de soro fisiológico 0,9% na primeira hora, seguido por reavaliação antes
+de continuar a infusão.
+Opção incorreta: Iniciar reidratação oral com solução de reidratação oral (SRO) administrada
+lentamente, garantindo 100 ml/kg em 6 horas. A reidratação oral não é indicada para desidratação
+grave, pois a criança apresenta sinais de choque iminente e não seria capaz de ingerir o volume
+necessário.
+Opção incorreta: Iniciar reposição endovenosa com soro fisiológico a 0,9% ou Ringer Lactato na
+fase de expansão, utilizando 30 ml/kg na primeira hora, seguido por 70 ml/kg nas próximas 5
+horas. O protocolo padrão do Plano C indica 30 ml/kg na primeira hora e 70 ml/kg nas 5 horas
+seguintes para crianças sem comorbidades, mas esse volume pode ser excessivo em
+cardiopatas, aumentando o risco de edema pulmonar e insuficiência cardíaca.
+Opção incorreta: Administrar ondansetrona para controle dos vômitos e iniciar reidratação oral
+com SRO, complementando com glicose intravenosa se houver hipoglicemia. Embora a
+ondansetrona possa ser útil para vômitos persistentes, a reidratação oral isolada não é segura na
+desidratação grave. A glicose intravenosa é indicada apenas em casos de hipoglicemia
+confirmada.
+Referência:
+BRASIL. Ministério da Saúde. Manejo clínico da diarreia aguda em crianças. Brasília: MS, 2023.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Tratado de Pediatria. 5. ed. Manole, 2021.
+9ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 14 de 54
+
+Enunciado:
+(Banco AFYA) Uma criança de 1 ano e 2 meses é levada à UBS com febre há 48 horas, sem
+outros sintomas associados. Está com bom estado geral, sem alterações ao exame físico, mas a
+mãe demonstra grande preocupação. A criança foi vacinada há 7 dias com tríplice viral (SCR) e
+pneumocócica 10-valente. Os exames laboratoriais solicitados mostram: hemograma com
+leucócitos totais de 12.000/mm³, predomínio de linfócitos, sem desvio à esquerda; PCR de 8
+mg/L.
+Com base na história vacinal recente e nos princípios da medicina baseada em evidências, qual é
+a melhor interpretação diagnóstica para esse quadro?
+Alternativas:
+(alternativa A)
+Erro vacinal com superdosagem antigênica, exigindo notificação de evento adverso grave e
+suspensão de futuras doses.
+(alternativa B) (CORRETA)
+Reação vacinal tardia esperada, principalmente após a SCR, com sinais laboratoriais e clínicos
+compatíveis com processo viral autolimitado.
+(alternativa C)
+Infecção oportunista relacionada à imunossupressão vacinal, exigindo sorologia viral e isolamento
+domiciliar por 10 dias.
+(alternativa D)
+Infecção bacteriana sistêmica em fase inicial, com necessidade de antibioticoterapia empírica e
+internação hospitalar imediata.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 15 de 54
+
+Resposta comentada:
+"Infecção bacteriana sistêmica em fase inicial, com necessidade de antibioticoterapia empírica e
+internação hospitalar imediata."
+Incorreta. Apesar da febre, a criança apresenta bom estado geral, leucocitose com predomínio
+linfocitário e PCR discretamente elevado, sugerindo processo viral, não bacteriano. Além disso,
+não há evidência de foco infeccioso nem instabilidade clínica que justifique internação ou
+antibiótico imediato.
+"Reação vacinal tardia esperada, principalmente após a SCR, com sinais laboratoriais e clínicos
+compatíveis com processo viral autolimitado."
+Correta. A vacina tríplice viral (SCR) pode causar febre entre 5 a 12 dias após sua administração,
+sendo um evento adverso esperado e benigno. O padrão laboratorial com linfocitose e PCR
+discretamente aumentado é compatível com resposta imunológica pós-vacinal. O manejo é
+clínico, com observação e orientação aos cuidadores.
+"Infecção oportunista relacionada à imunossupressão vacinal, exigindo sorologia viral e
+isolamento domiciliar por 10 dias."
+Incorreta. Vacinas com vírus atenuado, como a SCR, não causam imunossupressão clínica
+significativa em crianças imunocompetentes, tampouco provocam infecção viral transmissível.
+Não há necessidade de isolamento nem de investigação sorológica diante de um quadro clínico
+típico pós-vacinal.
+"Erro vacinal com superdosagem antigênica, exigindo notificação de evento adverso grave e
+suspensão de futuras doses."
+Incorreta. Não há evidência clínica ou laboratorial de erro vacinal. Reações como febre ou rash
+após vacinas virais são esperadas e não configuram erro técnico nem evento adverso grave.
+Portanto, não há motivo para interrupção do calendário vacinal.
+Referências:
+FONSECA, Eliane M. G. O. da; PALMEIRA, Tereza S. S. Pediatria Ambulatorial. Editora Manole,
+2021. ISBN 9786555765229.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555765229/. Acesso em: 03
+jun. 2025.
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+Ed. Editora Manole, 2021. ISBN 9786555767476.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03
+jun. 2025.
+BUNIK, Maya; LEVIN, Myron J. et al. CURRENT Pediatria: Diagnóstico e Tratamento. Grupo A,
+2024. ISBN 9786558040279.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786558040279/. Acesso em: 03
+jun. 2025.
+
+10ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 16 de 54
+
+Enunciado:
+(Banco AFYA) Ana Júlia, 8 meses, previamente hígida, é levada ao pronto-socorro com quadro
+de febre baixa, obstrução nasal, tosse e dificuldade respiratória há 3 dias. Hoje apresenta
+aumento importante do esforço respiratório, gemência, retrações subcostais e taquipneia (FR 68
+irpm), com SpO₂ de 88% em ar ambiente. Ao exame, encontra-se hiporreativa, com sibilância
+difusa bilateral, estertores finos e batimentos de asa do nariz. O raio-X de tórax evidencia
+hiperinsuflação pulmonar sem consolidações. Exames laboratoriais: leucograma sem desvio e
+PCR normal.
+Qual é a conduta mais adequada neste momento?
+
+Alternativas:
+(alternativa A)
+Iniciar ventilação mecânica invasiva e ceftriaxona EV, pois a hipoxemia e o esforço respiratório
+indicam necessidade de intubação e cobertura para agentes bacterianos.
+(alternativa B)
+Iniciar suporte ventilatório com CPAP nasal e antibioticoterapia de amplo espectro, devido ao risco
+de pneumonia secundária e desconforto respiratório intenso.
+(alternativa C) (CORRETA)
+Iniciar oxigenoterapia com cateter nasal de alto fluxo e suporte clínico, sem iniciar antibióticos,
+pois o quadro é típico de bronquiolite viral.
+(alternativa D)
+Instituir oxigenoterapia com cateter de alto fluxo e iniciar antibioticoterapia empírica com ampicilina
+EV, devido à gravidade do quadro e risco de pneumonia associada.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 17 de 54
+
+Resposta comentada:
+Gabarito: Iniciar oxigenoterapia com cateter nasal de alto fluxo e suporte clínico, sem iniciar
+antibióticos, pois o quadro é típico de bronquiolite viral.
+A paciente apresenta bronquiolite viral grave, com necessidade de suporte ventilatório não
+invasivo (alto fluxo nasal).
+Não há sinais clínicos, radiológicos ou laboratoriais de infecção bacteriana (sem consolidações,
+sem leucocitose, sem PCR elevada).
+Portanto, a conduta correta é suporte ventilatório + hidratação + controle da oxigenação, sem
+antibiótico de início.
+Apesar de o suporte com alto fluxo estar indicado, a introdução precoce de antibiótico sem critério
+clínico não se justifica. O quadro não tem características de pneumonia bacteriana.
+O CPAP pode ser útil em casos com falha ao alto fluxo, mas não é a primeira escolha inicial.
+Além disso, não há justificativa para antibiótico de amplo espectro se não há infecção bacteriana
+documentada.
+A VMI é reservada para casos com exaustão respiratória, apneia ou falência ventilatória — o que
+ainda não é descrito neste caso.
+A ceftriaxona empírica seria apropriada apenas se houvesse suspeita de pneumonia lobar
+bacteriana, o que não ocorre aqui.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+11ª QUESTÃO
+Enunciado:
+(Banco AFYA) Henrique, 3 anos, previamente saudável, é levado ao pronto-socorro com febre
+alta, sonolência progressiva, vômitos e recusa alimentar há 2 dias. Ao exame: sonolento,
+perfusão periférica lenta, extremidades frias, pulsos finos, tempo de enchimento capilar de 5
+segundos e PA 80/40 mmHg. Apresenta rigidez de nuca e petéquias em membros inferiores.
+Temperatura: 39,2°C, FC: 165 bpm, FR: 40 irpm, SpO₂: 93% em ar ambiente. Após reposição
+volêmica inicial (20 mL/kg SF 0,9%), o quadro hemodinâmico permanece instável.
+Qual é a conduta mais apropriada neste momento?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 18 de 54
+
+Alternativas:
+(alternativa A)
+Iniciar antibioticoterapia empírica com ceftriaxona EV e dopamina como droga vasoativa de
+escolha, devido ao seu perfil de aumento da perfusão renal.
+(alternativa B) (CORRETA)
+Iniciar ceftriaxona + vancomicina EV e norepinefrina como vasopressor, pois o quadro indica
+choque séptico com má perfusão e risco de resistência pneumocócica.
+(alternativa C)
+Introduzir vancomicina como monoterapia empírica, associar adrenalina e aguardar coleta de
+líquor para ajustar tratamento.
+(alternativa D)
+Administrar cefotaxima e hidrocortisona EV, mantendo observação nas próximas horas para
+reavaliar necessidade de suporte inotrópico.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 19 de 54
+
+Resposta comentada:
+Gabarito: Iniciar ceftriaxona + vancomicina EV e norepinefrina como vasopressor, pois o quadro
+indica choque séptico com má perfusão e risco de resistência pneumocócica.
+A criança apresenta sinais clássicos de meningite bacteriana com evolução para choque séptico
+refratário à reposição volêmica, configurando um estado de choque séptico frio.
+O esquema empírico adequado em meningite com instabilidade hemodinâmica é:
+Ceftriaxona (100 mg/kg/dia EV) + Vancomicina (60 mg/kg/dia EV), cobrindo Neisseria
+meningitidis, Streptococcus pneumoniae e Haemophilus influenzae.
+A norepinefrina é a droga vasoativa de escolha em choque com vasoplegia e má perfusão, pois
+aumenta a resistência vascular sistêmica sem causar taquiarritmia importante.
+Embora a ceftriaxona seja apropriada, a dopamina não é mais considerada droga de primeira
+escolha em choque séptico pediátrico. Seu uso está em desuso devido ao risco de disfunção
+ventricular e arritmias.
+Vancomicina nunca deve ser usada como monoterapia empírica na meningite, pois não cobre
+adequadamente meningococo e Haemophilus.
+A adrenalina é reservada para choque refratário à norepinefrina, ou para casos com disfunção
+miocárdica associada.
+A cefotaxima é aceitável como alternativa à ceftriaxona, mas o quadro exige cobertura mais
+ampla, com associação à vancomicina.
+Hidrocortisona não é conduta inicial padrão, exceto em suspeita de insuficiência adrenal.
+Adiar o suporte inotrópico é contraindicado em pacientes com choque séptico refratário à
+reposição.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+12ª QUESTÃO
+Enunciado:
+(Banco AFYA) Durante atendimento em pronto-socorro pediátrico, uma menina de 10 meses,
+previamente hígida, é trazida com febre aferida de até 39°C nos últimos 3 dias. Não há sintomas
+respiratórios, digestivos ou urinários. A mãe refere que, nos dois últimos dias, houve discreta
+redução da aceitação alimentar. No exame físico, a criança está alerta, sem sinais de toxemia,
+febril e com leve taquicardia. Não há foco infeccioso evidente. Recebeu apenas uma dose da
+vacina pneumocócica e da pentavalente (DTP/Hib/HB). O serviço não dispõe de testes rápidos
+para vírus respiratório.
+Considerando os protocolos da SBP, qual a conduta mais apropriada para esta paciente neste
+momento?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 20 de 54
+
+Alternativas:
+(alternativa A)
+Associar corticoterapia oral para controle de febre persistente sem foco, com retorno ambulatorial
+em 48h ou se houver piora clínica.
+(alternativa B)
+Iniciar antibioticoterapia empírica com ceftriaxona intramuscular, após coleta de exames
+laboratoriais e culturas, devido ao maior risco de infecção bacteriana invasiva.
+(alternativa C) (CORRETA)
+Solicitar exame de urina e urocultura, manter observação ambulatorial e decidir por antibiótico se
+leucocitúria maior ou igual a 50.000/ml.
+(alternativa D)
+Prescrever antipirético, orientar observação domiciliar e reavaliar apenas se novos sintomas
+surgirem, pois a criança está sem toxemia e com bom estado geral.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 21 de 54
+
+Resposta comentada:
+Crianças entre 3 e 36 meses com febre menor ou igual a 39 °C, vacinação incompleta e sem
+sinais localizatórios, apresentam risco aumentado de bacteremia oculta por germes como
+pneumococo e Haemophilus.
+O protocolo da SBP orienta:
+Exames laboratoriais iniciais (EAS e urocultura); pesquisa de vírus respiratório, se
+disponível.
+Aguardar resultado de Urina 1, se leucocitúria maior ou igual a 50.000/ml, iniciar
+antibiótico por infecção urinária oculta; se leucocitúria menor que 50.000/ml, segue
+investigação com hemograma e hemocultura.
+Avaliar individualmente a necessidade de hemocultura, conforme risco.
+Essa é uma conduta intermediária e baseada em evidências, evitando tanto o uso excessivo de
+antibióticos quanto a omissão de investigação.
+A observação ambulatorial isolada é aceitável apenas em crianças vacinadas, com bom estado
+geral e febre < 39 °C.
+Neste caso, a febre é persistente, alta e o esquema vacinal é incompleto, o que
+aumenta o risco de infecção bacteriana invasiva.
+A ceftriaxona intramuscular pode ser indicada em casos com sinais de toxemia ou exames
+laboratoriais alterados.
+Ainda não é o momento de empregar antibiótico empírico parenteral sem avaliação
+laboratorial prévia, exceto se sinais de gravidade estiverem presentes.
+A corticoterapia empírica não tem nenhuma indicação em febre sem foco.
+Pode mascarar sinais clínicos importantes e aumenta o risco de progressão de
+infecção bacteriana.
+Referências:
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+Ed. Editora Manole, 2021. ISBN 9786555767476.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03
+jun. 2025.
+13ª QUESTÃO
+Enunciado:
+(Banco AFYA) Uma criança de 4 anos é levada à consulta com lesões cutâneas pruriginosas,
+localizadas em membros inferiores e abdome, de início recente. No exame, observa-se presença
+de pápulas eritematosas, algumas com vesículas e crostas hemáticas, distribuídas
+especialmente em regiões interdigitais, axilas e cintura. A mãe relata que outros membros da
+família também apresentam sintomas semelhantes.
+Considerando os achados clínicos e os conhecimentos sobre dermatologia pediátrica, qual é o
+diagnóstico mais provável e o procedimento diagnóstico complementar mais indicado para
+confirmação?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 22 de 54
+
+Alternativas:
+(alternativa A)
+Impetigo; iniciar tratamento empírico pela baixa sensibilidade da cultura e a etiologia conhecida da
+doença na comunidade, isolar no início pelo alto risco de contágio, como ocorreu com a família.
+(alternativa B)
+Prurigo estrófulo; solicitar IgE específica para identificar o agente causador em vista dos vários
+membros da família estarem com sintomas e aguardar os exames para definir a conduta.
+(alternativa C) (CORRETA)
+Escabiose; o diagnóstico é clínico, não há exame laboratorial para a confirmação, o tratamento
+deve ser feito em todas as pessoas que têm contato com a criança, mesmo os assintomáticos.
+(alternativa D)
+Tinea corporis; o raspado da lesão com micológico direto é importante principalmente em casos
+de vários contatos com a doença, como é este caso. Prescrever antifúngico tópico até o
+resultado.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 23 de 54
+
+Resposta comentada:
+"Impetigo; iniciar tratamento empírico pela baixa sensibilidade da cultura e a etiologia conhecida da
+doença na comunidade, isolar no início pelo alto risco de contágio, como ocorreu com a família."
+Incorreta. Embora impetigo possa cursar com crostas melicéricas e lesões cutâneas, ele
+geralmente é mais localizado, sem padrão de distribuição típico como descrito (interdigitais,
+axilas, cintura). Além disso, costuma acometer múltiplos membros da família, mas raramente
+adultos, simultaneamente, mas pode ser contagioso em colégios e creches.
+"Escabiose; o diagnóstico é clínico, não há exame laboratorial para a confirmação, o tratamento
+deve ser feito em todas as pessoas que têm contato com a criança, mesmo os assintomáticos."
+Correta. O quadro descrito — lesões pruriginosas, principalmente se existe prurido noturno,
+distribuição típica e acometimento familiar — é clássico de escabiose (sarna). Exames
+laboratoriais não apresentam boa sensibilidade para diagnóstico da doença e sempre é
+recomendado o tratamento de todos os contatos das crianças, mesmo os assintomáticos.
+"Tinea corporis; o raspado da lesão com exame micológico direto é importante principalmente em
+casos de vários contatos com a doença, como é este caso." Prescrever antifúngico tópico até
+resultado.
+Incorreta. A tinea corporis geralmente apresenta lesões anulares com bordas descamativas e
+centro claro, o que não foi descrito no caso clínico. Além disso, a ausência de distribuição típica e
+o padrão de contágio familiar são menos comuns nessa infecção fúngica.
+"Prurigo estrófulo; solicitar IgE específica para identificar o agente causador em vista dos vários
+membros da família estarem com sintomas e aguardar os exames para definir a conduta."
+Incorreta. O prurigo estrófulo é uma reação de hipersensibilidade, geralmente a picadas de inseto,
+não possui padrão contagioso entre familiares e não está classificado como causa primária de
+escabiose-like. A IgE específica costuma não ajudar no diagnóstico, que é eminentemente clínico.
+
+Referências:
+FONSECA, Eliane M. G. O. da; PALMEIRA, Tereza S. S. Pediatria Ambulatorial. Editora Manole,
+2021. ISBN 9786555765229.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555765229/. Acesso em: 03.
+jun. 2025.
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+Ed. Manole, 2021. ISBN 9786555767476.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03.
+jun. 2025.
+BUNIK, Maya; LEVIN, Myron J. et al. CURRENT Pediatria: Diagnóstico e Tratamento. Grupo A,
+2024. ISBN 9786558040279.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786558040279/. Acesso em: 03.
+jun. 2025.
+14ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 24 de 54
+
+Enunciado:
+(Banco AFYA) Durante atendimento pediátrico em ambulatório especializado, um menino de 6
+anos é trazido pelos pais com histórico de irritabilidade, dificuldade de manter atenção em
+atividades dirigidas, impulsividade e atraso no desenvolvimento da linguagem. A professora relata
+comportamentos repetitivos em sala, como balançar as mãos, além de dificuldade em interações
+sociais. O médico considera os diagnósticos diferenciais entre Transtorno do Déficit de Atenção
+com Hiperatividade (TDAH) e Transtorno do Espectro Autista (TEA).
+Com base nos princípios de cuidado contínuo e nas diretrizes clínicas atualizadas, qual é a
+melhor conduta para essa criança?
+
+Alternativas:
+(alternativa A) (CORRETA)
+Encaminhar para avaliação multidisciplinar com neurologia, fonoaudiologia e psicologia, visando
+diagnóstico diferencial e planejamento terapêutico individualizado.
+(alternativa B)
+Aguardar evolução escolar por mais seis meses e reavaliar o comportamento com base no
+rendimento e adaptação social.
+(alternativa C)
+Confirmar TDAH com base no critério de impulsividade e prescrever antipsicótico atípico para
+controle comportamental precoce.
+(alternativa D)
+Iniciar metilfenidato de liberação imediata como teste diagnóstico, pois sua resposta ajuda a
+diferenciar TDAH de TEA.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 25 de 54
+
+Resposta comentada:
+"Iniciar metilfenidato de liberação imediata como teste diagnóstico, pois sua resposta ajuda a
+diferenciar TDAH de TEA."
+Incorreta. O uso de psicoestimulantes como o metilfenidato não deve ser utilizado como
+ferramenta diagnóstica, especialmente sem diagnóstico clínico confirmado. Além disso, o TEA
+pode cursar com hiperatividade, e a resposta ao medicamento não exclui o diagnóstico de
+autismo, podendo inclusive agravar sintomas em alguns casos.
+"Encaminhar para avaliação multidisciplinar com neurologia, fonoaudiologia e psicologia, visando
+diagnóstico diferencial e planejamento terapêutico individualizado."
+Correta. Crianças com sinais sobrepostos de TDAH e TEA devem ser avaliadas por uma equipe
+multidisciplinar, pois o manejo requer cuidados contínuos e individualizados, considerando
+comorbidades frequentes, como atraso de linguagem e dificuldades sociais. Esse é o padrão ouro
+conforme as diretrizes da SBP, APA e CDC.
+"Confirmar TDAH com base no critério de impulsividade e prescrever antipsicótico atípico para
+controle comportamental precoce."
+Incorreta. A impulsividade pode ocorrer em ambos os transtornos e, isoladamente, não define
+diagnóstico. Além disso, antipsicóticos não são primeira linha para TDAH, sendo reservados para
+sintomas graves, como agressividade em TEA, e sempre com avaliação criteriosa.
+"Aguardar evolução escolar por mais seis meses e reavaliar o comportamento com base no
+rendimento e adaptação social."
+Incorreta. O atraso na intervenção pode prejudicar significativamente o desenvolvimento da
+criança. O cuidado em saúde para crianças com suspeita de TDAH ou TEA deve ser iniciado
+precocemente, com avaliação diagnóstica e intervenção adequada, mesmo antes da
+alfabetização formal.
+
+Referências:
+FONSECA, Eliane M. G. O. da; PALMEIRA, Tereza S. S. Pediatria Ambulatorial. Editora Manole,
+2021. ISBN 9786555765229. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555765229/. Acesso em: 03 jun. 2025.
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+Ed. Manole, 2021. ISBN 9786555767476. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03 jun. 2025.
+BUNIK, Maya; LEVIN, Myron J. et al. CURRENT Pediatria: Diagnóstico e Tratamento. Grupo A,
+2024. ISBN 9786558040279. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040279/. Acesso em: 03 jun. 2025.
+Treatment of ADHD and Autism Spectrum Disorder in Children – Clinical Practice Guidelines,
+2022.
+
+15ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 26 de 54
+
+Enunciado:
+(Banco AFYA) Pedro, 7 anos, asmático conhecido, é levado à emergência com quadro de
+dispneia progressiva, tosse seca e chiado no peito iniciados há 12 horas. A mãe relata que ele
+usou salbutamol spray (duas doses) em casa, sem melhora. No exame físico: agitado, fala
+entrecortada, uso de musculatura acessória, FR = 38 irpm, SatO₂ = 91% (em ar ambiente), FC =
+125 bpm, sibilos difusos e murmúrio vesicular diminuído bilateralmente. Sem cianose ou
+rebaixamento de consciência.
+Diante do quadro, qual o manejo inicial mais adequado, conforme diretrizes atuais para este caso?
+Alternativas:
+(alternativa A)
+Oferecer 10 jatos de salbutamol em espaçador de uma só vez, oxigenoterapia suplementar,
+associar prednisolona oral em dose única e antibiótico oral empírico por 7 dias. Observar em sala
+de medicação.
+(alternativa B)
+Iniciar 2 jatos de salbutamol (100 mcg) com espaçador a cada 4 horas, associar prednisolona oral
+1 mg/kg/dia, oxigênio por cateter nasal e reavaliar em 24 horas. Caso melhore, alta com retorno
+ambulatorial.
+(alternativa C) (CORRETA)
+Administrar 4 a 10 jatos de salbutamol (100 mcg) com espaçador, repetir a cada 20 minutos por 1
+hora, associar brometo de ipratrópio, prednisolona oral 1–2 mg/kg/dia e suplementar oxigênio.
+Considerar sulfato de magnésio IV (50 mg/kg) se refratário.
+(alternativa D)
+Administrar salbutamol 6 jatos com espaçador + prednisolona oral 2 mg/kg, associar formoterol
+(LABA) 1 jato via DPI, e oxigênio a 2 L/min por cateter. Reavaliar em 30 minutos e repetir
+broncodilatador apenas se necessário.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 27 de 54
+
+Resposta comentada:
+Gabarito: Administrar 4 a 10 jatos de salbutamol (100 mcg) com espaçador, repetir a cada 20
+minutos por 1 hora, associar brometo de ipratrópio, prednisolona oral 1–2 mg/kg/dia e suplementar
+oxigênio. Considerar sulfato de magnésio IV (50 mg/kg) se refratário.
+O paciente apresenta sinais de crise asmática moderada a grave: saturação <94%, taquipneia,
+fala entrecortada, uso de musculatura acessória e falha ao tratamento domiciliar com salbutamol.
+A abordagem correta inclui:
+1. Salbutamol por aerossol dosimetrado com espaçador – tão eficaz quanto nebulização
+em crises moderadas, com menos efeitos adversos. Dose: 4 a 10 jatos, repetir a cada
+20 min por 1 hora inicial.
+2. Brometo de ipratrópio (20 mcg por jato, 2 a 4 jatos) – indicado em associação nos
+casos moderados a graves.
+3. Corticosteroide oral precoce (prednisolona 1–2 mg/kg/dia).
+4. Oxigenoterapia suplementar se SatO₂ < 94%.
+5. Sulfato de magnésio IV (50 mg/kg/dose, máx. 2 g) – considerar em casos refratários à
+terapia de primeira linha.
+
+Uso de salbutamol a cada 4 horas é inadequado em crise moderada/grave, ainda mais em
+subdose. Reavaliação em 24h é arriscada. A criança precisa de tratamento intensivo com
+reavaliação precoce (1 hora).
+Deve-se fracionar os jatos (4–10 a cada 20 min) em vez de administrar 10 de uma
+vez. Antibióticos não são indicados de rotina em crise asmática sem sinais infecciosos. A
+ausência de oxigênio compromete o manejo, visto que a saturação é de 91%.
+Formoterol (beta-2 agonista de longa duração) não deve ser iniciado durante a crise, mas sim na
+fase de manutenção associado a corticoide inalatório. O salbutamol está corretamente dosado,
+mas o LABA pode mascarar sintomas, além de não ter ação rápida suficiente para a crise aguda.
+Referências:
+GINA 2025 – Global Initiative for Asthma.
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+
+16ª QUESTÃO
+Enunciado:
+(FASA VIC) Ana Clara, 4 anos, foi levada à Unidade Básica de Saúde por sua mãe devido a
+crises frequentes de espirros, obstrução nasal e prurido ocular, além de episódios recorrentes de
+tosse seca e chiado no peito, especialmente durante a noite e ao correr. A mãe relata queixas
+semelhantes desde a primeira infância, com piora em tempos frios e contato com poeira. Há
+antecedentes familiares de asma e rinite. No exame físico, a criança apresenta respiração bucal,
+hiperemia conjuntival, hipertrofia de cornetos e sibilos expiratórios bilaterais.
+Considerando o diagnóstico clínico provável e as diretrizes atuais de manejo na atenção primária,
+qual a conduta inicial mais apropriada?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 28 de 54
+
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar corticosteroide nasal contínuo e prescrever corticosteroide inalatório de baixa dose
+associado a broncodilatador de resgate (SABA), além de medidas ambientais.
+(alternativa B)
+Prescrever corticosteroide nasal diário para controle da rinite e beta-2 agonista de curta duração
+(SABA) sob demanda para sintomas asmáticos ocasionais, evitando tratamento inalatório
+contínuo por ora.
+(alternativa C)
+Encaminhar a paciente ao especialista em pneumologia pediátrica antes de iniciar qualquer
+conduta medicamentosa, em razão da necessidade de espirometria para confirmação
+diagnóstica.
+(alternativa D)
+Iniciar anti-histamínico oral de primeira geração e descongestionante nasal por curto período para
+alívio imediato dos sintomas respiratórios, com reavaliação em 30 dias.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 29 de 54
+
+Resposta comentada:
+Esta é uma questão de integração de doenças respiratórias crônicas comuns na infância: rinite
+alérgica e asma. O quadro clínico apresentado é compatível com asma persistente leve
+associada a rinite alérgica moderada a grave, ambas com impacto funcional (interferência no
+sono, atividade física e exame físico típico). A conduta adequada é tratar ambas as condições
+com base em evidência, na atenção primária.
+A conduta mais adequada na Atenção Primária é o tratamento conjunto da rinite alérgica e da
+asma, considerando que ambas as condições frequentemente coexistem e influenciam
+negativamente uma à outra.
+Opção correta: O uso de corticosteroide nasal é a principal terapia para a rinite alérgica
+persistente, pois reduz a inflamação nasal e melhora os sintomas. Já o corticosteroide inalatório é
+a base do tratamento da asma persistente, pois controla a inflamação brônquica e reduz a
+frequência de sintomas. Dessa forma, a opção correta é a que inclui ambas as abordagens
+terapêuticas.
+Opção incorreta 1: Anti-histamínicos de primeira geração têm efeitos adversos (sedação, risco
+cardiovascular) e não são mais recomendados de rotina em crianças. Descongestionantes
+nasais (vasoconstritores) têm eficácia limitada, podem causar efeito rebote e não tratam a
+inflamação. Essa conduta é sintomática, incompleta e não contempla o tratamento da asma.
+Opção incorreta 2:
+Apesar de parcialmente correta no tratamento da rinite, a omissão do corticosteroide inalatório
+para a asma é um erro. Dado o padrão de sintomas (sintomas noturnos, durante esforço e
+recorrentes), a paciente preenche critérios para asma persistente leve, que exige controle diário
+com corticoide inalatório, e não apenas broncodilatador sob demanda.
+Opção incorreta 3:
+A confirmação do diagnóstico de asma em crianças <5 anos é clínica e baseada em padrões de
+sintomas. A espirometria não é obrigatória nem viável nessa faixa etária. A atenção primária deve
+iniciar tratamento de forma segura e baseada em diretrizes, especialmente nos casos com sinais
+clínicos evidentes. Encaminhamento é reservado para falha terapêutica, dúvida diagnóstica ou
+asma grave.
+Referência:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Tratado de Pediatria. 5. ed. Manole, 2021.
+17ª QUESTÃO
+Enunciado:
+(Banco AFYA) Durante uma consulta de rotina na Unidade Básica de Saúde, uma criança de 15
+meses comparece pela primeira vez com sua avó. A cuidadora apresenta um cartão de
+vacinação incompleto: consta apenas uma dose de BCG e uma dose de hepatite B ao
+nascimento. Nenhuma outra vacina foi registrada, e não há contraindicações conhecidas. A
+criança encontra-se em bom estado geral e sem sinais de infecção aguda.
+Com base nas diretrizes do Programa Nacional de Imunizações (PNI) e no calendário vacinal
+vigente, qual é a conduta mais apropriada neste momento?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 30 de 54
+
+Alternativas:
+(alternativa A)
+Administrar apenas reforço de hepatite B e considerar o restante das vacinas como não mais
+necessárias, devido à idade avançada da criança.
+(alternativa B)
+Administrar somente a vacina tríplice viral (SCR) e reagendar as demais doses para 30 dias
+depois, evitando múltiplas vacinas no mesmo atendimento.
+(alternativa C)
+Atualizar imediatamente o esquema vacinal com múltiplas vacinas, incluindo todas as que ela
+deveria ter feito pelo menos uma dose até o momento atual.
+(alternativa D) (CORRETA)
+Atualizar imediatamente o esquema vacinal com múltiplas vacinas indicadas para a idade,
+inclusive DTP, Hib, VOP, pneumocócica e meningocócica, conforme o calendário de
+recuperação.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 31 de 54
+
+Resposta comentada:
+"Administrar somente a vacina tríplice viral (SCR) e reagendar as demais doses para 30 dias
+depois, evitando múltiplas vacinas no mesmo atendimento."
+Incorreta. Não há contraindicação para administração de múltiplas vacinas no mesmo dia, desde
+que em locais distintos e com técnicas apropriadas. Adiar a vacinação compromete a proteção da
+criança, especialmente quando há atraso vacinal significativo.
+"Atualizar imediatamente o esquema vacinal com múltiplas vacinas indicadas para a idade,
+inclusive DTP, Hib, VOP, pneumocócica e meningocócica, conforme o calendário de
+recuperação."
+Correta. Crianças com atraso vacinal devem ter o esquema atualizado o quanto antes, com base
+no calendário de recuperação do PNI. A administração simultânea de vacinas é segura e
+recomendada, garantindo proteção rápida contra doenças imunopreveníveis.
+"Atualizar imediatamente o esquema vacinal com múltiplas vacinas, incluindo todas as que ela
+deveria ter feito pelo menos uma dose até o momento atual."
+Incorreta. Apesar de recomendar realizar o máximo possível de vacinas, essa conduta de incluir
+todas que ela deveria ter feito pelo menos uma dose, a rotavírus não poderia ser realizada por ter
+ultrapassado a idade limite para a primeira dose, neste caso a conduta eram todas menos a dose
+de rotavírus.
+"Administrar apenas reforço de hepatite B e considerar o restante das vacinas como não mais
+necessárias, devido à idade avançada da criança."
+Incorreta. Aos 15 meses, a criança está dentro da faixa etária de vacinação infantil. Nenhuma
+vacina é considerada "desnecessária" com base apenas na idade. Todas as doses perdidas
+devem ser administradas conforme as orientações do calendário de recuperação.
+Referências:
+Programa Nacional de Imunizações – PNI. Manual de Normas e Procedimentos para Vacinação.
+Ministério da Saúde, 2022.
+FONSECA, Eliane M. G. O. da; PALMEIRA, Tereza S. S. Pediatria Ambulatorial. Editora Manole,
+2021. ISBN 9786555765229. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555765229/. Acesso em: 03 de junho. 2025.
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+Ed. Editora Manole, 2021. ISBN 9786555767476. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03 de junho. 2025.
+18ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 32 de 54
+
+Enunciado:
+(Banco AFYA) Gabriel, 2 anos e 3 meses, previamente saudável, é admitido no pronto-socorro
+com história de febre alta (39,5 °C), gemência e dificuldade respiratória há 48 horas. Está
+hipoativo, com recusa alimentar e sonolência importante. Ao exame: FR 65 irpm, batimentos de
+asa do nariz, tiragem subcostal, SpO₂ 88% em cateter nasal de 2 L/min (FiO₂ estimada de 0,35).
+Apresenta extremidades frias, tempo de enchimento capilar de 5 segundos e PAM de 42 mmHg
+(VR: > 44 mmHg). Pulsos finos e taquicardia (FC: 170 bpm). O serviço dispõe de UTI pediátrica.
+Gasometria arterial:
+PaO₂: 58 mmHg
+FiO₂ estimada: 0,35.
+PaO₂/FiO₂ ≈ 165
+Laboratório:
+Leucócitos: 21.000/mm³ com desvio à esquerda.
+PCR: 175 mg/L
+Plaquetas: 95.000/mm³
+RNI: 1,8
+D-dímero: 2,5 mg/l FEU
+Fibrinogênio: 540 mg/dL.
+Lactato: 6,5 mmol/L.
+Radiografia de tórax: condensação em lobo inferior direito.
+Com base nos critérios de Phoenix, como classificar esse quadro e qual a conduta mais
+apropriada?
+Alternativas:
+(alternativa A) (CORRETA)
+Choque séptico: iniciar antibioticoterapia empírica, expansão volêmica de 40 mL/kg e
+norepinefrina precoce, pois há disfunção cardiovascular grave e hipoxemia.
+(alternativa B)
+Sepse grave com disfunção orgânica múltipla: iniciar antibiótico, suporte ventilatório em alto fluxo
+e expansão volêmica com 40 mL/kg; iniciar vasopressor se refratariedade.
+(alternativa C)
+Sepse sem disfunção orgânica: manter antibiótico e monitoramento em observação, pois
+alterações laboratoriais são esperadas em infecção pulmonar.
+(alternativa D)
+Choque séptico com insuficiência respiratória: iniciar antibiótico, suporte ventilatório e aguardar
+coleta de culturas para definir necessidade de volume e vasopressor.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 33 de 54
+
+Resposta comentada:
+Gabarito: Choque séptico: iniciar antibioticoterapia empírica, expansão volêmica de 40 mL/kg e
+norepinefrina precoce, pois há disfunção cardiovascular grave e hipoxemia.
+O paciente preenche critérios diagnósticos de choque séptico segundo o Phoenix Sepsis Score:
+Disfunção respiratória: PaO₂/FiO₂ < 300 (≈ 165) e SpO₂/FiO₂ < 292.
+Disfunção cardiovascular: hipotensão com má perfusão (PAM < 44 mmHg, tempo de enchimento
+capilar aumentado, lactato > 5 mmol/L).
+Disfunção neurológica: rebaixamento do nível de consciência.
+Disfunção hematológica: plaquetopenia (< 100.000/mm³) e alteração de coagulação (RNI > 1,5).
+→ Pontuação PSS ≥ 2 = SEPSE; presença de disfunção cardiovascular = choque séptico.
+→ Conduta: antibiótico empírico precoce + volume 40 mL/kg + vasopressor (norepinefrina 1ª
+escolha).
+Apesar de reconhecer a sepse com disfunções (classificação antiga), não classifica corretamente
+como choque séptico, já que há refratariedade à perfusão. O uso precoce de vasopressor é
+indicado de imediato, sem esperar resposta tardia ao volume.
+O paciente tem múltiplas disfunções orgânicas evidentes (respiratória, cardiovascular,
+hematológica, neurológica). Não é uma sepse simples nem caso para conduta conservadora.
+O caso já tem etiologia infecciosa definida (pneumonia), disfunções presentes e instabilidade
+hemodinâmica. Culturas não devem adiar o início de antibiótico e suporte.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+19ª QUESTÃO
+Enunciado:
+(Banco AFYA) Arthur, 6 anos, com diagnóstico prévio de transtorno do espectro autista, é levado
+ao pronto-socorro por quadro de dor abdominal inespecífica. Durante a espera, torna-se
+progressivamente agitado, grita intensamente, se recusa a ser tocado e corre pela sala. Ao ser
+contido pela equipe, se debate e se autolesiona batendo a cabeça na parede. A mãe relata que
+Arthur tem hipersensibilidade a sons altos e rotinas quebradas frequentemente desencadeiam
+comportamentos semelhantes. Está afebril, sem sinais clínicos de intoxicação ou infecção aguda.
+Qual deve ser a conduta inicial mais apropriada diante desse episódio de agitação intensa?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 34 de 54
+
+Alternativas:
+(alternativa A)
+Solicitar avaliação psiquiátrica urgente e aguardar parecer para iniciar qualquer medida
+medicamentosa ou abordagem ambiental.
+(alternativa B)
+Encaminhar a criança para sedação profunda com anestesia geral, devido ao risco de
+automutilação, mesmo na ausência de causa clínica definida.
+(alternativa C)
+Isolar imediatamente o paciente em sala sem contato com familiares, iniciar contenção física e
+administrar haloperidol intramuscular em dose única.
+(alternativa D) (CORRETA)
+Reduzir estímulos ambientais, permitir presença da mãe, manter comunicação simples e, se
+necessário, administrar midazolam intranasal (0,2 mg/kg) em ambiente seguro.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 35 de 54
+
+Resposta comentada:
+Gabarito: Reduzir estímulos ambientais, permitir presença da mãe, manter comunicação simples
+e, se necessário, administrar midazolam intranasal (0,2 mg/kg) em ambiente seguro.
+Crianças com TEA podem apresentar crises agudas de desregulação emocional desencadeadas
+por estímulos sensoriais (som, toque, mudanças de rotina).
+A conduta ideal inclui:
+Ambiente controlado e calmo (redução de luz, barulho, agitação)
+Presença de familiar de referência (a mãe, neste caso)
+Linguagem simples e previsível.
+Medicação somente se necessário, preferindo:
+Midazolam intranasal (0,2 mg/kg): rápido, seguro, bem tolerado.
+Alternativas: risperidona VO, quetiapina, olanzapina, dependendo do contexto.
+Isolamento e contenção física imediata são medidas traumáticas e contraindicadas como primeira
+linha em TEA, pois aumentam a desorganização.
+Haloperidol IM pode ser usado em agitação grave refratária, mas tem maior risco de efeitos
+extrapiramidais em crianças, especialmente com TEA.
+Embora o parecer psiquiátrico seja útil, não se deve aguardar em casos de agitação com risco de
+lesão. O manejo clínico imediato é necessário, e a abordagem ambiental faz parte da
+estabilização inicial.
+Sedação profunda ou anestesia só se justifica em contextos de emergência médica grave, como
+convulsões refratárias ou estados psicóticos extremos. Não é indicada em uma crise
+comportamental isolada sem tentativa prévia de medidas conservadoras.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+20ª QUESTÃO
+Enunciado:
+(AFYA Itabuna) Um paciente do sexo masculino, de 13 anos de idade, deu entrada no prontosocorro do hospital de sua cidade, com relato de desânimo e cansaço para ajudar nas atividades
+domésticas e inapetência. Realizado interrogatório alimentar com informação de consumo de 3
+sanduíches de pão de forma com manteiga e batata frita no almoço e jantar, nos intervalos ingere
+balas e biscoitos, além de 1000 ml de leite por dia. Exame físico sem alterações, peso, estatura e
+IMC no percentil 50 das curvas de referência e G3P3 de acordo com o estadiamento de Tanner.
+Diante da queixa, foi solicitado hemograma com resultados: Hemoglobina: 12,1 g/dL, Hematócrito
+= 35%, VCM < 75 fl, CHCM < = 26,5 g/dl. Considerando que a Organização Mundial de Saúde
+refere, de maneira geral para adolescentes, valores normais de hemoglobina > = 12g/dl, é correto
+afirmar:
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 36 de 54
+
+Alternativas:
+(alternativa A) (CORRETA)
+O paciente não apresenta anemia, contudo, o resultado laboratorial sugere deficiência de ferro,
+devendo-se realizar a orientação dietética pertinente.
+(alternativa B)
+O paciente apresenta anemia carencial por deficiência de ferro, sendo necessária a correção
+dietética e a administração de sulfato ferroso.
+(alternativa C)
+O paciente apresenta alterações clínicas compatíveis com anemia falciforme, embora na
+investigação, a genitora informou que o teste do pezinho foi normal.
+(alternativa D)
+O paciente apresenta anemia megaloblástica, sendo necessária a correção dietética com
+alimentos fontes de vitamina B12 e folatos.
+
+Resposta comentada:
+De acordo com a OMS, são considerados anêmicos os adolescentes do sexo feminino com Hg
+abaixo de 12 g/dL e do sexo masculino entre 12 e 14 anos, quando abaixo de 12 mg/dL e acima
+de 15 anos quando abaixo de 13 mg/dL. Nesse caso, com Hg de 12,1 g/dL, ainda não está
+instaurada a anemia, com valores dos padrões de normalidade. Apesar disso, e considerando
+ainda o valor limítrofe de hemoglobina, associado com sintomas típicos, bem como a dieta pobre
+em nutrientes, e ainda a microcitose evidenciada laboratorialmente, podemos entender que há
+deficiência de ferro.
+Referência:
+Tratado de Pediatria, Edição, 2022.
+21ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um menino de 10 anos, com diagnóstico prévio de febre reumática com cardite
+segundo os critérios de Jones revisados, foi internado por apresentar novo episódio de poliartrite
+associado a febre, sem sinais de insuficiência cardíaca. Na época do diagnóstico, recebeu
+penicilina benzatina durante a fase aguda e completou o tratamento com prednisona oral. No
+momento, evolui bem, está assintomático e com ecocardiograma recente sem evidência de lesão
+valvar residual.
+Considerando o seguimento clínico desse paciente, qual é a conduta mais apropriada em relação
+à profilaxia secundária?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 37 de 54
+
+Alternativas:
+(alternativa A)
+Interromper a profilaxia após 10 anos de acompanhamento clínico assintomático, pois o risco de
+recorrência é baixo sem cardiopatia residual.
+(alternativa B)
+Manter penicilina benzatina IM a cada 21 dias até os 21 anos de idade ou por 10 anos após o
+último surto, o que durar mais, já que não há lesão valvar residual no ecocardiograma atual.
+(alternativa C) (CORRETA)
+Manter penicilina benzatina IM a cada 21 dias até os 25 anos de idade ou por 10 anos após o
+último surto, o que durar mais, devido ao antecedente de cardite sem sequela valvar.
+(alternativa D)
+Realizar a profilaxia com penicilina V oral por 10 dias a cada mês, como alternativa eficaz à
+administração parenteral em casos de boa adesão.
+
+Resposta comentada:
+A profilaxia secundária com penicilina benzatina deve ser mantida por 10 anos após o último surto
+OU até os 25 anos de idade, o que for mais prolongado, em pacientes com cardite documentada,
+mesmo sem lesão valvar residual.
+A aplicação deve ser feita a cada 21 dias, com doses de:
+600.000 UI para crianças com menos de 27 kg.
+1.200.000 UI para ≥27 kg.
+A profilaxia por apenas 5 anos após o último surto ou até 21 anos é indicada exclusivamente para
+pacientes com febre reumática sem cardite prévia. Para quem já apresentou cardite, mesmo que
+sem sequela, esse período é insuficiente e não segue as recomendações da SBP/OMS.
+Suspender a profilaxia com base apenas em acompanhamento clínico assintomático é um erro
+grave. A ausência de sintomas não elimina o risco de recidiva, e a duração mínima deve sempre
+considerar idade e histórico de cardite.
+Penicilina V oral pode ser usada apenas em casos em que a penicilina benzatina IM for
+contraindicada ou mal tolerada, e deve ser administrada diariamente, não de forma intermitente.
+A posologia correta é 250 mg 2x/dia para crianças.
+Referências:
+FONSECA, Eliane M. G. O. da; PALMEIRA, Tereza S. S. Pediatria Ambulatorial. Editora Manole,
+2021. ISBN 9786555765229. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555765229/. Acesso em: 06 jun. 2025.
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 6ª
+Ed. Editora Manole, 2024. ISBN 9786555767476. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 06 jun. 2025.
+BUNIK, Maya; LEVIN, Myron J. et al. CURRENT Pediatria: Diagnóstico e Tratamento. Grupo A,
+2024. ISBN 9786558040279. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040279/. Acesso em: 06 jun. 2025.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 38 de 54
+
+22ª QUESTÃO
+Enunciado:
+(Banco AFYA) Miguel, 6 anos, portador de epilepsia idiopática, em uso regular de valproato de
+sódio, é trazido ao pronto-atendimento com crise convulsiva tônico-clônica generalizada há
+aproximadamente 12 minutos, iniciada em casa. A mãe informa que ele não recobrou consciência
+desde o início da crise. Não houve trauma, febre ou uso de outras medicações. Ao exame, Miguel
+está em crise ativa, com movimentos tônico-clônicos generalizados, sem resposta verbal,
+frequência cardíaca de 135 bpm, saturação de 91% em ar ambiente, e glicemia capilar de 82
+mg/dL. A equipe já iniciou oxigenoterapia e o acesso venoso periférico foi obtido com sucesso.
+Considerando o quadro do paciente e as recomendações atuais para o manejo da crise
+convulsiva, qual é a conduta mais apropriada neste momento?
+Alternativas:
+(alternativa A)
+Administrar diazepam intramuscular, repetir até três vezes com intervalos de 5 minutos,
+mantendo monitorização cardiorrespiratória. Em caso de falha, iniciar fenitoína IV lentamente.
+(alternativa B)
+Realizar infusão contínua de midazolam endovenoso desde o início para bloqueio imediato da
+atividade convulsiva, associando rapidamente levetiracetam como anticonvulsivante de segunda
+linha.
+(alternativa C) (CORRETA)
+Administrar midazolam EV em bolus, em caso de persistência, iniciar fenitoína endovenosa em
+infusão lenta, considerar suporte ventilatório se necessário, e monitoramento contínuo.
+(alternativa D)
+Realizar diazepam retal enquanto prepara fenobarbital endovenoso como segunda linha, mesmo
+com acesso venoso já disponível. Monitorar com ECG contínuo e considerar entubação precoce.
+
+Resposta comentada:
+Gabarito: Administrar midazolam EV em bolus, em caso de persistência, iniciar fenitoína
+endovenosa em infusão lenta, considerar suporte ventilatório se necessário, e monitoramento
+contínuo.
+Comentários:
+Miguel apresenta um quadro clássico de estado de mal epiléptico convulsivo (convulsão contínua
+por >5 minutos ou crises sem recuperação de consciência entre elas). O protocolo de manejo
+deve ser iniciado imediatamente, com:
+1ª linha: benzodiazepínico (preferencialmente EV, se disponível)
+→ midazolam, lorazepam ou diazepam.
+2ª linha: anticonvulsivante de ação prolongada
+→ fenitoína/fosfenitoína, fenobarbital ou levetiracetam.
+
+Análise das alternativas:
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 39 de 54
+
+Alternativa – Correta.
+Justificativa:
+Conduta ideal e alinhada com os protocolos PALS e SBP. Midazolam EV é eficaz, tem rápido
+início de ação e é seguro com monitorização. Caso não haja resposta após benzodiazepínico,
+a segunda linha deve ser um anticonvulsivante como fenitoína, fosfenitoína ou levetiracetam. O
+suporte ventilatório é avaliado conforme a sedação e controle da crise.
+Alternativa: Administrar diazepam intramuscular, repetir até três vezes com intervalos de 5
+minutos, mantendo monitorização cardiorrespiratória. Em caso de falha, iniciar fenitoína IV
+lentamente. – Incorreta.
+Justificativa:
+O uso de diazepam IM é desconsiderado e repeti-lo múltiplas vezes aumenta o risco de
+depressão respiratória. Os protocolos mais atuais recomendam apenas uma dose inicial, com
+repetição no máximo uma vez, e avanço para a segunda linha rapidamente se não houver
+resposta.
+Alternativa: Realizar diazepam retal enquanto prepara fenobarbital endovenoso como segunda
+linha, mesmo com acesso venoso já disponível. Monitorar com ECG contínuo e considerar
+entubação precoce. – Incorreta.
+Justificativa:
+O diazepam retal é reservado para quando não há acesso venoso disponível. Aqui, o acesso já foi
+obtido, portanto a via intravenosa deve ser preferida. Fenobarbital também é opção de segunda
+linha, mas tem maior potencial de sedação e é geralmente reservado para falha de outras drogas
+menos depressoras.
+Alternativa: Realizar infusão contínua de midazolam endovenoso desde o início para bloqueio
+imediato da atividade convulsiva, associando rapidamente levetiracetam como anticonvulsivante
+de segunda linha. – Incorreta.
+Justificativa:
+A infusão contínua de midazolam é terapia de terceira linha (para estado de mal refratário),
+utilizada quando há falha das duas primeiras etapas. Não é indicada como medida inicial,
+especialmente em ambiente de pronto-atendimento, devido ao risco de depressão respiratória e
+necessidade de intubação.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+23ª QUESTÃO
+Enunciado:
+(Banco AFYA) Um menino de 3 anos é admitido em unidade de internação pediátrica com febre
+alta há dois dias, vômitos, irritabilidade e rigidez de nuca. A punção lombar revela líquor com
+aspecto turvo, 2.200 células/mm³ com predomínio de neutrófilos, proteína aumentada e glicose
+diminuída. A equipe médica inicia antibioticoterapia empírica conforme o protocolo para meningite
+bacteriana.
+Considerando os princípios da Medicina Baseada em Evidências e o tratamento empírico de
+meningites bacterianas na infância, qual é o esquema antibiótico inicial mais apropriado para essa
+faixa etária?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 40 de 54
+
+Alternativas:
+(alternativa A) (CORRETA)
+Ceftriaxona e vancomicina, devido à cobertura adequada para Streptococcus pneumoniae,
+Neisseria meningitidis e cepas resistentes.
+(alternativa B)
+Oxacilina e ceftriaxona por sua ação sinérgica contra meningococo, pneumococo e estafilococos
+sensíveis.
+(alternativa C)
+Ceftriaxona endovenosa, antibiótico indicado pela adequada cobertura para os três principais
+agentes que causam meningite no Brasil.
+(alternativa D)
+Ampicilina e gentamicina, por cobrirem os principais agentes etiológicos em crianças
+imunocompetentes nesta idade.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 41 de 54
+
+Resposta comentada:
+"Ampicilina e gentamicina, por cobrirem os principais agentes etiológicos em crianças
+imunocompetentes nesta idade."
+Incorreta. Mesmo em recém-nascidos, esse esquema não apresenta boa cobertura para os
+gram-negativos pela baixa penetração da gentamicina no sistema nervoso central. A partir dos 2
+meses a 5 anos, os principais agentes mudam para Streptococcus pneumoniae e Neisseria
+meningitidis, exigindo antibióticos com penetração adequada no sistema nervoso central.
+"Ceftriaxona e vancomicina, devido à cobertura adequada para Streptococcus pneumoniae,
+Neisseria meningitidis e cepas resistentes."
+Correta. A combinação de ceftriaxona (ou cefotaxima) com vancomicina é recomendada
+empiricamente em crianças maiores de 2 meses com suspeita de meningite bacteriana, até que a
+sensibilidade do agente seja conhecida. Essa abordagem segue os protocolos da SBP e literatura
+nacional - SIREVA, cobrindo as principais causas e cepas resistentes de S. pneumoniae.
+"Oxacilina e ceftriaxona por sua ação sinérgica contra meningococo, pneumococo e estafilococos
+sensíveis."
+Incorreta. Oxacilina é adequada para staphylococcus e ceftriaxone é adequado para as cepas
+sensíveis e neisseria e pneumococo, porém o staphylococcus não é um dos agentes habituais de
+meningite e a cobertura com ceftriaxone isolado para pneumo não é mais eficaz no Brasil, sendo
+recomendada fortemente a associação da vancomicina a ceftriaxone.
+"Ceftriaxona endovenosa, antibiótico indicado pela adequada cobertura para os três principais
+agentes que causam meningite no Brasil."
+Incorreta. As cepas de pneumococcus no Brasil não apresentam mais sensibilidade ao uso
+isolado de ceftriaxona, sendo fortemente recomendada a associação de vancomicina em todos
+os casos.
+
+Referências:
+FONSECA, Eliane M. G. O. da; PALMEIRA, Tereza S. S. Pediatria Ambulatorial. Editora Manole,
+2021. ISBN 9786555765229.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555765229/. Acesso em: 03
+jun. 2025.
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+Ed. Editora Manole, 2021. ISBN 9786555767476.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03
+jun. 2025.
+BUNIK, Maya; LEVIN, Myron J. et al. CURRENT Pediatria: Diagnóstico e Tratamento. Grupo A,
+2024. ISBN 9786558040279.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786558040279/. Acesso em: 03
+jun. 2025.
+Instituto Adolfo Lutz. Informação da vigilância das pneumonias e meningites bacterianas. São
+Paulo: Instituto Adolfo Lutz; 2023. Boletim SIREVA 2023, n. 2. Disponível em:
+www.ial.sp.gov.br. Acesso em: 03 jun. 2025.
+24ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 42 de 54
+
+Enunciado:
+(AFYA Palmas) Uma menina de 5 anos é levada ao consultório pelo pai, que relata preocupação
+com alterações físicas recentes. Segundo ele, a criança iniciou o desenvolvimento de mamas há
+algumas semanas, mas permanece ativa, saudável e sem outras queixas clínicas. O histórico
+familiar revela que a mãe teve início da puberdade aos 9 anos. No exame físico, observa-se broto
+mamário bilateral (estágio de Tanner M2), sem outros sinais de puberdade (como pelos pubianos
+ou axilares, odor corporal ou crescimento acelerado). Não há alterações neurológicas, e o exame
+físico é normal.
+Qual deve ser a primeira ação para a investigação diagnóstica?
+
+Alternativas:
+(alternativa A)
+Solicitar avaliação laboratorial com dosagem de LH, FSH, estradiol e ressonância magnética de
+crânio, considerando alta suspeita de causa central.
+(alternativa B) (CORRETA)
+Solicitar radiografia de mão e punho para avaliação da idade óssea e definir se há progressão
+puberal.
+(alternativa C)
+Reavaliar em 3 a 6 meses com exame clínico e estadiamento puberal, pois se trata de provável
+variante benigna do desenvolvimento.
+(alternativa D)
+Iniciar a terapia com um agonista do GnRH, visando evitar progressão para puberdade precoce
+central.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 43 de 54
+
+Resposta comentada:
+Justificativas:
+Iniciar a terapia com agonista do GnRH.
+Incorreta. A terapia com análogos do GnRH é indicada apenas após confirmação diagnóstica de
+puberdade precoce central, com progressão clínica e/ou avanço da idade óssea, além de
+confirmação laboratorial e/ou por imagem. Iniciar tratamento sem completar a investigação seria
+precoce e potencialmente inadequado.
+Solicitar avaliação laboratorial com dosagem de LH, FSH e estradiol.
+Incorreta. Embora esses exames sejam importantes na avaliação da puberdade precoce, a
+primeira etapa diagnóstica recomendada é a estimativa da idade óssea, que ajuda a diferenciar
+formas variantes (como telarca precoce isolada) de puberdade central verdadeira. A dosagem
+hormonal deve ser feita após essa avaliação inicial, caso haja indício de progressão. Esta
+abordagem seria indicada caso houvesse múltiplos sinais de puberdade precoce central,
+progressão rápida ou alterações neurológicas. Em telarca isolada sem avanço da idade óssea, a
+investigação invasiva e custosa com neuroimagem é precipitada.
+Solicitar radiografia de mão e punho para estimativa da idade óssea.
+Correta. A estimativa da idade óssea é o exame inicial recomendado frente ao aparecimento
+precoce de características sexuais secundárias. Ela permite avaliar se há avanço da maturação
+esquelética, o que sugeriria um quadro de puberdade precoce verdadeira e indicaria a
+necessidade de investigação hormonal e por imagem. Se a idade óssea estiver compatível com a
+cronológica e não houver progressão clínica, é possível tratar-se de uma variante benigna como
+telarca precoce.
+Aguardar, pois se trata de uma variante normal do desenvolvimento puberal.
+Incorreta. Embora a telarca precoce isolada possa ser benigna, toda criança menor de 8 anos
+com desenvolvimento de características sexuais secundárias requer avaliação médica criteriosa.
+A conduta expectante sem avaliação inicial adequada não é recomendada pelas diretrizes.
+Referências:
+SOCIETY FOR PEDIATRIC ENDOCRINOLOGY. Telarca precoce. Endocrine Society Clinical
+Practice Guideline, 2019.
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Manual de Puericultura. São Paulo: SBP, 2021.
+JÚNIOR, Dioclécio C. ; BURNS, Dennis Alexander R. ; LOPEZ, Fábio A. Tratado de pediatria. 5ª
+edição. Barueri - SP: editora Manole, 2021. E-book. ISBN 9786555767476.
+
+25ª QUESTÃO
+Enunciado:
+(Banco AFYA) Uma menina de 9 anos é levada à UBS por sua mãe, preocupada com o início do
+crescimento mamário bilateral e surgimento de odor axilar. A criança está ativa, com bom
+desempenho escolar e sem alterações comportamentais. Ao exame físico, apresenta mamas em
+estágio M2, ausência de pelos pubianos e genitália infantil. Peso e estatura estão no percentil 75,
+com velocidade de crescimento normal. A avaliação neurológica é normal. Foi solicitada
+radiografia de mão e punho, que mostrou idade óssea compatível com a cronológica.
+Diante do quadro clínico e dos dados complementares, qual é a conduta mais apropriada no
+momento?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 44 de 54
+
+Alternativas:
+(alternativa A) (CORRETA)
+Reafirmar se tratar de início puberal dentro da normalidade, reforçar vigilância clínica e manter
+seguimento regular com monitoramento do crescimento e progressão puberal.
+(alternativa B)
+Iniciar tratamento com análogos de GnRH para bloquear progressão puberal e preservar estatura
+final, mesmo na ausência de avanço da idade óssea.
+(alternativa C)
+Solicitar dosagens basais de LH, FSH e estradiol, além de ressonância magnética de crânio para
+afastar lesão hipotalâmica, uma vez que o odor axilar indica puberdade precoce central.
+(alternativa D)
+Encaminhar para endocrinologia pediátrica e solicitar cariótipo e USG pélvica de urgência, devido
+à possibilidade de disgenesia gonadal associada à pubarca prematura.
+
+Resposta comentada:
+Esta menina está na idade fisiológica esperada para início da puberdade em meninas (geralmente
+≥8 anos). A presença de telarca isolada (M2), sem pubarca ou avanço de idade óssea, sugere
+um início normal do desenvolvimento puberal, não sendo necessário tratamento ou investigação
+imediata.
+A conduta é vigilância clínica, com seguimento em 3 a 6 meses para reavaliar crescimento,
+estadiamento puberal e, se houver progressão rápida ou avanço de idade óssea, considerar então
+investigação laboratorial e por imagem.
+Menina de 9 anos, com idade óssea compatível, sem progressão puberal acelerada ou sinais de
+virilização → início normal. A conduta é observar e acompanhar clinicamente, sem necessidade
+de exames neste momento.
+A presença de odor axilar não caracteriza puberdade precoce central isoladamente. LH/FSH e
+RM de crânio são indicados em crianças com puberdade antes dos 8 anos ou com progressão
+acelerada dos sinais.
+A indicação de bloqueio puberal depende de progressão clínica acelerada, avanço de idade óssea
+ou risco de baixa estatura final. Não há evidência de progressão ou comprometimento da estatura
+aqui.
+Não há nenhum sinal sugestivo de disgenesia gonadal (como ambiguidade genital ou estatura
+baixa com infantilismo sexual). Pubarca também está ausente.
+Referências:
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. Vol. 1. 5ª
+Ed. Editora Manole, 2021. ISBN 9786555767476. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03 jun. 2025.
+26ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 45 de 54
+
+Enunciado:
+(Banco AFYA) Menino de 10 anos, previamente hígido, apresenta febre intermitente há 8 dias,
+fadiga, dor torácica leve e artrite em joelhos e tornozelos. Mãe refere odinofagia 3 semanas antes.
+Ao exame: temperatura 38,4 °C, FC 110 bpm, sopro sistólico novo em foco mitral, sem sinais de
+ICC, eritema marginado em tronco. Exames: PCR 50 mg/L, VHS 90 mm/h, ASLO elevado.
+Com base nas diretrizes da SBP, qual é a conduta inicial mais apropriada?
+Alternativas:
+(alternativa A)
+Prescrever penicilina benzatina IM, iniciar prednisona (1–2 mg/kg/dia) e AAS (60–80 mg/kg/dia)
+simultaneamente para controle da cardite e artrite, com suspensão gradual das duas medicações
+após 4 semanas. Manter profilaxia secundária por 5 anos.
+(alternativa B)
+Prescrever ceftriaxona IV por 10 dias, prednisona 2 mg/kg/dia e diuréticos, solicitando
+ecocardiograma para estratificação de cardite e instituindo profilaxia conforme avaliação posterior.
+(alternativa C)
+Prescrever penicilina benzatina IM, tratar artrite com AAS (60–80 mg/kg/dia), evitando corticoide,
+já que não há insuficiência cardíaca. Agendar ecocardiograma ambulatorial e iniciar profilaxia com
+penicilina benzatina.
+(alternativa D) (CORRETA)
+Prescrever penicilina benzatina IM, iniciar prednisona oral (1–2 mg/kg/dia) por 2–4 semanas
+devido à cardite, solicitar ecocardiograma transtorácico e manter profilaxia secundária com
+penicilina benzatina.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 46 de 54
+
+Resposta comentada:
+Gabarito correto: Prescrever penicilina benzatina IM, iniciar prednisona oral (1–2 mg/kg/dia) por 2–
+4 semanas devido à cardite, solicitar ecocardiograma transtorácico e manter profilaxia secundária
+com penicilina benzatina.
+O paciente tem cardite clínica (sopro mitral novo), o que, segundo a SBP, já indica o uso de
+corticoide, mesmo na ausência de insuficiência cardíaca.
+Prednisona oral (1–2 mg/kg/dia) é o tratamento de escolha para reduzir inflamação miocárdica e
+risco de sequelas valvares.
+Penicilina benzatina IM deve ser administrada mesmo com infecção passada, para erradicação
+do Streptococcus pyogenes.
+O ecocardiograma transtorácico é obrigatório para detectar regurgitação subclínica e avaliar
+extensão do acometimento valvar.
+A profilaxia secundária com penicilina benzatina a cada 21 dias deve ser mantida por tempo
+variável, conforme a gravidade da cardite.
+Segundo o Tratado de Pediatria da SBP, não se deve associar corticoides e AINEs (como
+AAS) no tratamento da febre reumática, devido ao risco de toxicidade gástrica e falta de benefício
+comprovado.
+Quando há cardite, usa-se apenas o corticoide, que também controla os sintomas articulares.
+A duração da profilaxia deve ser individualizada.
+Muitos profissionais associam a necessidade de corticoide apenas à presença de insuficiência
+cardíaca, mas a SBP orienta o uso de corticoide mesmo na cardite leve, como no caso descrito
+(sopro novo).
+Tratar apenas com AAS pode aliviar a artrite, mas não trata adequadamente a inflamação
+cardíaca, que pode evoluir para sequelas valvares.
+Ceftriaxona IV não é indicada no tratamento da febre reumática aguda sem infecção invasiva
+grave. A penicilina benzatina IM é a droga padrão para erradicação do Streptococcus.
+O uso de diurético não se justifica, pois não há sinais clínicos de insuficiência cardíaca.
+A profilaxia secundária deve ser iniciada já na fase aguda, e não condicionada a exames
+posteriores.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+
+27ª QUESTÃO
+Enunciado:
+(AFYA Paraíba) Paciente, 2 anos, é levada à Unidade Básica de Saúde (UBS) com queixa de
+diarreia há 2 dias, acompanhada de vômitos ocasionais e redução na aceitação de líquidos. A
+mãe relata que a criança está mais sonolenta que o habitual e com diminuição na diurese nas
+últimas 12 horas. No exame físico, a criança apresenta olhos fundos, bebe água avidamente e
+tem sinal de prega cutânea que retorna lentamente. O peso atual é de 10 kg. Acerca do exposto,
+assinale a alternativa que apresenta o plano de tratamento mais adequado para essa criança.
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 47 de 54
+
+Alternativas:
+(alternativa A) (CORRETA)
+Plano B – Reidratação oral supervisionada com SRO (50–100 mL/kg) em 4 horas, seguida de
+reavaliação clínica.
+(alternativa B)
+Plano C – Hidratação intravenosa rápida com solução fisiológica 0,9% ou Ringer lactato (30 mL/kg
+em 30 minutos).
+(alternativa C)
+Internação hospitalar para hidratação intravenosa contínua e monitoramento eletrolítico rigoroso.
+(alternativa D)
+Plano A – Reidratação domiciliar com soro de reidratação oral (SRO) e manutenção da
+alimentação habitual.
+
+Resposta comentada:
+Correta - Plano B – Reidratação oral supervisionada com SRO (50–100 mL/kg) em 4 horas,
+seguida de reavaliação clínica.
+Incorreta. O Plano A é indicado para casos de desidratação leve, sem sinais de
+comprometimento clínico importante, o que não é o caso descrito. A criança apresenta sinais de
+desidratação moderada, requerendo um manejo mais intensivo.
+Correta. O Plano B é indicado para casos de desidratação moderada. Consiste na administração
+de 50–100 mL/kg de soro de reidratação oral (SRO) durante 4 horas, com monitorização rigorosa
+dos sinais clínicos. Após a reidratação, a criança deve ser reavaliada para definir a continuidade
+do tratamento.
+Incorreta. O Plano C é reservado para desidratação grave, caracterizada por comprometimento
+circulatório evidente, como pulsos fracos ou ausência de diurese. Esse não é o caso aqui, já que
+a criança apresenta sinais moderados de desidratação.
+Incorreta. A internação hospitalar para hidratação intravenosa contínua não é necessária em
+desidratação moderada, a menos que a reidratação oral não seja possível ou eficaz.
+Referências:
+Sociedade Brasileira de Pediatria (SBP). Diarreia Aguda e Reidratação Oral, Manual de
+Orientações, 2023.
+Ministério da Saúde. Cadernos de Atenção Básica – Saúde da Criança: Diarreia e
+Desidratação, 2022.
+Organização Mundial da Saúde (OMS). Tratamento Integrado de Doenças Prevalentes na
+Infância (AIDPI), 2022.
+28ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 48 de 54
+
+Enunciado:
+(Banco AFYA) Lara, 2 anos e 8 meses, previamente hígida, foi internada com febre alta, tosse e
+desconforto respiratório. Iniciou antibioticoterapia parenteral com ampicilina 200 mg/kg/dia EV.
+Após 72 horas, permanece febril (39,2 °C), com gemência, taquipneia (FR 58 irpm), SpO₂ de
+92% em ar ambiente e aumento do uso de musculatura acessória. Ao exame: macicez à
+percussão e redução do murmúrio vesicular em base direita. Radiografia de tórax evidencia
+velamento de 2/3 do hemitórax direito. Ultrassonografia torácica mostra derrame pleural
+moderado, anecóico, sem septações.
+Qual deve ser a conduta mais apropriada neste momento?
+Alternativas:
+(alternativa A)
+Manter ampicilina, sem drenagem, e observar por mais 48 horas, pois derrames anecóicos não
+requerem intervenção imediata se não há instabilidade hemodinâmica.
+(alternativa B)
+Suspender ampicilina e iniciar ceftriaxona associada a oxacilina EV, além de indicar drenagem
+pleural devido à falha clínica e risco de empiema oculto.
+(alternativa C)
+Trocar ampicilina por vancomicina e aguardar nova imagem de tórax em 48 horas antes de
+indicar drenagem, já que ainda não há sinais de loculação ou pus.
+(alternativa D) (CORRETA)
+Manter ampicilina EV, iniciar drenagem pleural com tubo torácico e monitorar evolução clínica e
+laboratorial nas próximas 48 horas.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 49 de 54
+
+Resposta comentada:
+Gabarito: Manter ampicilina EV, iniciar drenagem pleural com tubo torácico e monitorar evolução
+clínica e laboratorial nas próximas 48 horas.
+O quadro clínico e de imagem aponta para derrame pleural parapneumônico moderado, com
+comprometimento ventilatório e falha clínica após 72h de antibiótico.
+Como o derrame é moderado e sintomático, a drenagem pleural está indicada, mesmo se
+anecóico e sem septações.
+A manutenção da ampicilina é possível se ainda houver cobertura adequada para o patógeno
+esperado, como pneumococo sensível, e ausência de sinais de infecção por Staphylococcus
+aureus resistente a meticilina ou complicações sépticas.
+A conduta expectante em casos de derrame moderado não é recomendada quando há piora
+clínica (febre persistente, desconforto respiratório, queda de SpO₂).
+A drenagem precoce é necessária para evitar evolução para empiema ou loculação.
+Embora a troca de antibiótico possa ser considerada em alguns casos, não há sinais de empiema
+ou infecção por anaeróbios ou SAMS que justifiquem escalonamento para ceftriaxona + oxacilina
+ou clindamicina neste momento.
+A drenagem, sim, é necessária — mas a troca do esquema deve ser feita apenas se houver falha
+comprovada após a intervenção inicial.
+A introdução de vancomicina implica suspeita de Staphylococcus aureus resistente a meticilina,
+que não é sustentada clinicamente neste caso.
+Aguardar nova imagem adia uma conduta que já está indicada: drenagem pleural pelo volume e
+repercussão clínica.
+A conduta mais resolutiva e precoce evita complicações.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+
+29ª QUESTÃO
+Enunciado:
+(Banco AFYA) Na sala de emergência, um recém-nascido com 3 dias de vida é levado para
+atendimento por apresentar episódios de movimentos tônicos em membro superior esquerdo,
+acompanhados de olhar fixo e apneia. A glicemia capilar inicial é de 32 mg/dL. Após correção da
+hipoglicemia com solução glicosada em bolus, a equipe identifica novo episódio convulsivo,
+confirmando a necessidade de intervenção farmacológica imediata.
+Com base nas diretrizes clínicas atualizadas e nos princípios farmacológicos para tratamento de
+convulsões neonatais, qual é o fármaco de primeira escolha neste caso?
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 50 de 54
+
+Alternativas:
+(alternativa A)
+Diazepam intravenoso, por ser um benzodiazepínico de ação rápida e eficaz no controle de
+convulsões em neonatos.
+(alternativa B)
+Levetiracetam intravenoso, por apresentar bom perfil de segurança e crescente utilização no
+manejo inicial das convulsões neonatais.
+(alternativa C)
+Fenitoína intravenosa, devido à sua ação prolongada e boa biodisponibilidade, é indicada para
+controle sustentado das crises em neonatos.
+(alternativa D) (CORRETA)
+Fenobarbital intravenoso, por apresentar eficácia e segurança comprovadas como primeira linha
+em convulsões neonatais.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 51 de 54
+
+Resposta comentada:
+"Diazepam intravenoso, por ser um benzodiazepínico de ação rápida e eficaz no controle de
+convulsões em neonatos."
+Incorreta. Apesar da ação rápida, o diazepam não é a droga de primeira escolha em neonatos,
+pois apresenta meia-vida longa, risco de depressão respiratória e acúmulo no SNC. É mais usado
+em situações emergenciais em crianças maiores.
+"Fenobarbital intravenoso, por apresentar eficácia e segurança comprovadas como primeira linha
+em convulsões neonatais."
+Correta. O fenobarbital IV é a primeira escolha no tratamento de convulsões em recém-nascidos,
+segundo diretrizes da Sociedade Brasileira de Pediatria (SBP) e da American Academy of
+Pediatrics (AAP). Sua eficácia é bem estabelecida, e sua farmacocinética é adequada para o perfil
+metabólico neonatal.
+"Fenitoína intravenosa, devido à sua ação prolongada e boa biodisponibilidade, indicada para
+controle sustentado das crises em neonatos."
+Incorreta. A fenitoína não deve ser administrada por via oral em situação de emergência neonatal,
+devido à absorção errática e à necessidade de controle rápido das crises. Sua forma endovenosa
+pode ser usada como segunda linha, após falha do fenobarbital.
+"Levetiracetam intravenoso, por apresentar bom perfil de segurança e crescente utilização no
+manejo inicial das convulsões neonatais." Embora o levetiracetam esteja sendo cada vez mais
+estudado em convulsões neonatais e apresente perfil de segurança promissor, ainda não é
+considerado primeira escolha segundo diretrizes da SBP e AAP.
+Referências:
+FONSECA, Eliane M. G. O. da; PALMEIRA, Tereza S. S. Pediatria Ambulatorial. Manole, 2021.
+ISBN 9786555765229. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555765229/. Acesso em: 03 jun. 2025.
+JÚNIOR, Dioclécio C. ; BURNS, Dennis A. R. ; LOPEZ, Fábio A. Tratado de Pediatria. 5ª ed.
+Manole, 2021. ISBN 9786555767476. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767476/. Acesso em: 03 jun. 2025.
+BUNIK, Maya; LEVIN, Myron J. et al. CURRENT Pediatria: Diagnóstico e Tratamento. Grupo A,
+2024. ISBN 9786558040279
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786558040279/. Acesso em: 03
+jun. 2025.
+SBP – Sociedade Brasileira de Pediatria. Diretrizes para o Manejo de Convulsões em
+Neonatologia. 2021.
+30ª QUESTÃO
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 52 de 54
+
+Enunciado:
+(Banco AFYA) João, 6 anos, encontra-se internado na UTI pediátrica no pós-operatório imediato
+de correção de comunicação interventricular. No terceiro dia de pós-operatório, evolui com piora
+súbita do estado geral, palidez, sudorese fria e queda da perfusão. Durante avaliação médica,
+João apresentou colapso súbito e pulsos centrais não palpáveis. Foi acionado o time de resposta
+rápida e prontamente iniciadas compressões cardíacas de alta qualidade. O monitor cardíaco
+mostrava o seguinte traçado:
+
+Qual deve ser a conduta imediata correta após reconhecimento do ritmo de parada?
+
+Alternativas:
+(alternativa A)
+O ritmo é fibrilação ventricular, um ritmo chocável. A conduta correta é manter compressões
+torácicas, realizar desfibrilação com 2 J/kg e continuar RCP por 2 minutos.
+(alternativa B)
+O ritmo é taquicardia ventricular monomórfica, um ritmo chocável. A conduta correta é manter
+compressões torácicas, realizar desfibrilação com 2 J/kg após 2 minutos de RCP e administrar
+adrenalina 0,01 mg/kg EV logo em seguida.
+(alternativa C) (CORRETA)
+O ritmo é taquicardia ventricular polimórfica (Torsades de Pointes), um ritmo chocável. A realizar
+desfibrilação com 2 J/kg assim que desfibrilador estiver carregado, manter compressões
+torácicas e considerar sulfato de magnésio EV após retorno à circulação.
+(alternativa D)
+O ritmo é atividade elétrica sem pulso (AESP), um ritmo não chocável. A conduta correta é
+manter RCP, administrar adrenalina EV e preparar cardioversão sincronizada.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 53 de 54
+
+Resposta comentada:
+Gabarito: O ritmo é taquicardia ventricular polimórfica (Torsades de Pointes), um ritmo chocável.
+A realizar desfibrilação com 2 J/kg assim que desfibrilador estiver carregado, manter
+compressões torácicas e considerar sulfato de magnésio EV após retorno à circulação.
+Torsades de Pointes é uma variante de TV polimórfica, considerada ritmo chocável. O PALS
+orienta que a desfibrilação deve ser feita o mais rápido possível com 2 J/kg (1º choque), sem
+esperar completar 2 minutos de RCP se o desfibrilador estiver disponível. Após o primeiro
+choque, RCP deve continuar imediatamente por 2 minutos, sem pausa para checar pulso ou
+ritmo. O sulfato de magnésio 25–50 mg/kg IV (máx. 2 g) pode ser considerado caso haja suspeita
+ou confirmação de Torsades.
+A descrição do ritmo é polimórfica, não monomórfica. Além disso, se o desfibrilador estiver
+disponível, a desfibrilação deve ser imediata, sem aguardar 2 minutos de RCP. O erro está tanto
+na identificação incorreta do ritmo quanto na sequência de ações, que pode atrasar a desfibrilação
+essencial.
+A conduta descrita está adequada para FV, mas o ritmo específico apresentado é Torsades (TV
+polimórfica). Ainda que a abordagem inicial seja similar (desfibrilação + RCP), o erro está
+na identificação do ritmo.
+O ritmo descrito (Torsades) não é AESP. Torsades é um ritmo desorganizado e torcional,
+característico de TV polimórfica. AESP é um ritmo organizado com ausência de pulso, mas não é
+uma arritmia torcional. Cardioversão sincronizada nunca é usada na PCR. Ela é usada apenas
+em ritmos com pulso instável. Adrenalina faz parte da conduta em qualquer PCR, mas
+a prioridade nesse caso é desfibrilação imediata.
+Referências:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 03 fev. 2025.
+PALS (Pediatric Advanced Life Support), 2021.
+
+000161.130015.19a8b0.615f70.69b8ef.e8154f.816b09.d5a79
+
+Pgina 54 de 54
+
+

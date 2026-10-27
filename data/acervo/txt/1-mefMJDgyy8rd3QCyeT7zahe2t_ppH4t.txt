@@ -1,0 +1,2941 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Estágio em Atenção Ambulatorial e
+Hospitalar em Clínica Médica
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 22/10/2025
+
+N2 INTERNATO - MEDICINA - CM - 2025.2 - ROT 2 22/OUTUBRO - A - 14 TEMAS
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17452 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+141952
+
+Tipo da questão:
+
+Múltipla Escolha
+
+acervo.top / acervotop.com
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(ITPAC Porto Nacional) Um paciente de 55 anos é internado com histórico de
+etilismo crônico, queixa de inchaço abdominal progressivo e confusão mental
+intermitente. Ao exame físico, apresenta ascite evidente, icterícia e flapping
+(tremor). Exames laboratoriais revelam: Bilirrubina total: 4,5 mg/dL (VR: 0,2−1,2
+mg/dL); Albumina: 2,5 g/dL (VR: 3,5−5,5 g/dL); INR: 1,8 (VR: 0,8−1,2); Creatinina:
+0,9 mg/dL (VR: 0,6−1,3 mg/dL). Ultrassonografia abdominal demonstra fígado de
+contornos nodulares, esplenomegalia e líquido ascítico.
+Com base nesses achados, qual a classificação de Child-Pugh mais provável para
+este paciente?
+Alternativas:
+(alternativa A)
+Não é possível classificar com os dados fornecidos.
+(alternativa B)
+Child-Pugh A.
+(alternativa C)
+Child-Pugh B.
+(alternativa D) (CORRETA)
+Child-Pugh C.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 1 de 72
+
+Resposta comentada:
+A Classificação de Child-Pugh é um sistema de pontuação usado para avaliar a
+gravidade da doença hepática crônica, especialmente a cirrose. Ela classifica os
+pacientes em três classes: A (compensada), B e C (descompensada), com base em
+parâmetros clínicos e laboratoriais. Essa classificação ajuda a determinar o
+prognóstico, a necessidade de transplante hepático e a avaliar a reserva funcional
+do fígado. A classificação leva em conta cinco parâmetros:
+Bilirrubina sérica: níveis elevados indicam menor capacidade do fígado em
+processar bilirrubina.
+Albumina sérica: níveis baixos indicam menor capacidade do fígado em produzir
+albumina, uma proteína importante.
+Tempo de protrombina (ou INR): tempo prolongado indica menor capacidade do
+fígado em produzir fatores de coagulação.
+Ascite: presença de líquido na cavidade abdominal, indicando descompensação da
+cirrose.
+Encefalopatia hepática: disfunção cerebral devido à incapacidade do fígado em
+remover toxinas do sangue.
+Cada parâmetro recebe uma pontuação de 1 a 3, com base em seus valores ou
+gravidade. A soma total dos pontos classifica o paciente em uma das três classes.
+Visto que o paciente em questão possui: bilirrubina total de 4,5 mg/dL (VR: 0,2−1,2
+mg/dL) - isso pontua 3 pontos; albumina de 2,5 g/dL (VR: 3,5−5,5 g/dL) - isso
+pontua 3; INR: 1,8 (VR: 0,8−1,2) - isso pontua 2; ascite evidente - isso pontua 3;
+encefalopatia hepática caracterizada por confusão mental intermitente e flapping
+tremor, que é um sinal clássico de encefalopatia hepática de grau I-II, o que pontua
+2. Somando os pontos: 3 (Bilirrubina) + 3 (Albumina) + 2 (INR) + 3 (Ascite) + 2
+(Encefalopatia) = 13 pontos. Uma pontuação de 10-15 corresponde a Child-Pugh C.
+Pontuação do Child-Pugh A: 5-6. Pontuação do Child-Pugh B: 7-9.
+Referências:
+DANI, R. Gastroenterologia essencial. 4. ed. Rio de Janeiro. Guanabara Koogan,
+2011.
+GOLDMAN, L. ; SCHAFER, A. I. Goldman Cecil Medicina. 26. ed. Rio de Janeiro:
+Elsevier, 2022. 2 vols.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 2 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Gastroenterologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+ITPAC PORTO NACIONAL
+[Competências (Objetivos)]
+Interpretação de exames
+[Habilidades]
+Interpretar exames laboratoriais e de imagem na
+avaliação de complicações da cirrose,
+correlacionando com o escore de Child-Pugh.
+[Tema]
+Cirrose e complicações (PBE, Ascite, Encefalopatia
+hepática, Síndrome hepatorrenal)
+2ª QUESTÃO
+
+Código da questão:
+
+141949
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Caxias) Homem de 62 anos, hipertenso, diabético tipo 2 há 10 anos,
+apresenta edema de membros inferiores, pressão arterial de 170/100 mmHg e
+elevação progressiva da creatinina sérica nas últimas consultas. Nega uso de antiinflamatórios. Internado há 3 dias por dispneia e ganho de peso. O exame físico
+revela estertores bibasais e turgência jugular. Solicita-se função renal e proteinúria
+de 24 horas. Exames: creatinina: 2,4 mg/dL, ureia: 85 mg/dL, proteinúria de 24h:
+3,2 g, urina 1: proteinúria +++, hematúria +, FeNa: 1,2% e TFG estimada (CKD-EPI):
+33 mL/min/1,73m².
+Qual a conduta inicial mais adequada neste caso?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 3 de 72
+
+Alternativas:
+(alternativa A) (CORRETA)
+Diagnosticar DRC com síndrome nefrótica e iniciar IECA com controle pressórico.
+(alternativa B)
+Iniciar diurético de alça e encaminhar para biópsia renal urgente.
+(alternativa C)
+Solicitar eco cardíaco e esperar melhora clínica para iniciar tratamento específico.
+(alternativa D)
+Repetir exames em 48h para confirmar injúria renal aguda e suspender todos os
+anti-hipertensivos.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 4 de 72
+
+Resposta comentada:
+Alternativa correta: Diagnosticar DRC com síndrome nefrótica e iniciar IECA com
+controle pressórico.
+O paciente apresenta TFG < 60 mL/min/1,73m², proteinúria > 3 g/dia e achados
+urinários compatíveis com glomerulopatia crônica (proteinúria + hematúria). A TFG
+estimada por CKD-EPI e a evolução progressiva da creatinina em semanas são
+compatíveis com DRC. A conduta inicial deve focar em controle pressórico (alvo
+<130/80 mmHg) e bloqueio do sistema renina-angiotensina com IECA, fundamental
+no manejo de proteinúria.
+O paciente apresenta: TFG < 60 mL/min/1,73m², proteinúria nefrótica (> 3 g/dia),
+evolução progressiva da creatinina em semanas e achados urinários de
+glomerulopatia crônica (proteinúria + hematúria).
+Esses elementos, aliados ao histórico de diabetes de longa data e hipertensão,
+caracterizam Doença Renal Crônica (DRC) provavelmente secundária a nefropatia
+diabética, associada à síndrome nefrótica.
+Conduta inicial: controle pressórico com alvo < 130/80 mmHg com bloqueio do
+sistema renina-angiotensina (IECA ou BRA), fundamental para redução da
+proteinúria e proteção renal, controle rigoroso da glicemia e restrição moderada de
+sódio e tratamento de congestão com diurético de alça, se necessário, mas não é a
+prioridade isolada neste caso.
+Por que as demais alternativas estão incorretas:
+Biópsia renal não é indicada de forma imediata em casos típicos de nefropatia
+diabética avançada com proteinúria significativa.
+O quadro não é de injúria renal aguda; há evolução crônica e sinais de DRC
+estabelecida.
+Ecocardiograma pode fazer parte da avaliação de congestão, mas não substitui o
+tratamento específico da proteinúria e da DRC.
+Referências:
+Sociedade Brasileira de Nefrologia. Diretrizes para Avaliação e Estágio da Doença
+Renal Crônica, 2020.
+Barros, E.J.G., et al. Tratado de Nefrologia. Guanabara Koogan, 2.ª ed., 2014.
+KDIGO 2021 Clinical Practice Guideline for the Management of Glomerular Diseases.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 5 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Competências (Objetivos)]
+Prescrição médica
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO CAXIAS
+[Habilidades]
+Aplicar protocolos de investigação da função renal,
+incluindo avaliação da taxa de filtração glomerular e
+exames laboratoriais.
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e
+Glomerulopatias
+3ª QUESTÃO
+
+Código da questão:
+
+141619
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIREDENTOR) Paciente masculino, 35 anos, relata placas eritematoescamosas
+pruriginosas em couro cabeludo, cotovelos e joelhos há 8 meses. Ao exame,
+observa-se escamação espessa, bem delimitada, com base eritematosa. Qual das
+características clínicas abaixo é mais específica para o diagnóstico de psoríase em
+relação a outras dermatoses?
+Alternativas:
+(alternativa A) (CORRETA)
+Fenômeno de Koebner (aparecimento de lesões em áreas de trauma cutâneo).
+(alternativa B)
+Presença de escamas gordurosas e amareladas no couro cabeludo.
+(alternativa C)
+Vesículas com conteúdo purulento em áreas intertriginosas.
+(alternativa D)
+Lesões pruriginosas associadas a febre e mal-estar generalizado.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 6 de 72
+
+Resposta comentada:
+- "Lesões pruriginosas associadas a febre e mal-estar generalizado." Incorreta —
+Embora o prurido possa estar presente, febre e sintomas sistêmicos não são
+característicos das formas mais comuns de psoríase, exceto em formas graves
+como a eritrodérmica ou pustulosa generalizada.
+- "Presença de escamas gordurosas e amareladas no couro cabeludo." Incorreta —
+Escamas gordurosas e amareladas são típicas da dermatite seborreica, não da
+psoríase, que forma escamas secas, prateadas.
+- "Fenômeno de Koebner (aparecimento de lesões em áreas de trauma cutâneo)."
+Correta — O Fenômeno de Koebner (isomorfismo) é clássico da psoríase:
+surgimento de novas lesões nos locais de trauma ou atrito, como arranhões,
+tatuagens ou cicatrizes. Ajuda na distinção com outras dermatoses.
+- "Vesículas com conteúdo purulento em áreas intertriginosas." Incorreta —
+Vesículas purulentas podem aparecer na psoríase pustulosa, mas não em áreas
+intertriginosas isoladas — nestes locais, é mais comum a candidíase ou dermatite
+de contato.
+Referências:
+GELFAND, Joel M.; MEHTA, Nehal N.; LINSKY, Susan L. Psoriasis and other
+papulosquamous diseases. In: JAMESON, J. Larry; FAUCI, Anthony S.; KASPER, Dennis
+L.; HAUSER, Stephen L.; LONGO, Dan L.; LOSCALZO, Joseph. Harrison’s principles of
+internal medicine. 21. ed. New York: McGraw-Hill Education, 2022. Cap. 419.
+CARRASCAL, Susan D. Psoriasis. In: GOLDMAN, Lee; SCHAFER, Andrew I. GoldmanCecil medicine. 27. ed. Philadelphia: Elsevier, 2024. Cap. 434.
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Subáreas de Conhecimento]
+Reumatologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIREDENTOR
+[Habilidades]
+Identificar características clínicas da psoríase e
+dermatite atópica, diferenciando-as de outras
+dermatopatias com apresentação semelhante.
+[Tema]
+Doenças Eritematodescamativas (PSORÍASE,
+DERMATITE ATÓPICA)
+4ª QUESTÃO
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 7 de 72
+
+Código da questão:
+
+141958
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(ITPAC Porto Nacional) Paciente feminina de 62 anos foi admitida na enfermaria de
+clínica médica com dois dias de febre (39°C), calafrios, dor lombar direita, náuseas
+e vômitos. História pregressa de diabetes mellitus tipo 2, com nefropatia diabética
+leve e hipertensão arterial. Ao exame, está em anúria moderada, com taquicardia
+(FC 112 bpm) e hipotensão clínica modesta (PA 92x58 mmHg). Dor lombar direita à
+palpação (Giordano positivo). Sinais respiratórios normais; sem edema. Urinálise
+com piúria, leucocitúria, esterase leucocitária e bacteriúria. Hemograma: leucocitose
+com desvio à esquerda (aprox. 18.000/µL). Função renal: creatinina 1,8 mg/dL
+(eGFR reduzido). Ultrassom abdominal: sem dilatação urinária significativa; sem
+abscesso visível. Cultura de urina e de sangue foram solicitadas.
+Qual conduta inicial é adequada para o manejo deste caso?
+Alternativas:
+(alternativa A) (CORRETA)
+Internação com antibioticoterapia intravenosa de amplo espectro, reavaliação em
+48-72 horas, com transição para via oral quando o estado clínico estiver estável e
+culturas.
+(alternativa B)
+Tratar com antibiótico por via oral de amplo espectro e dar alta com
+acompanhamento ambulatorial em 48 horas.
+(alternativa C)
+Iniciar apenas analgesia com antiespasmótico e hidratação intravenosa vigorosa,
+com alta precoce após melhora clínica e sem antibióticos, reavaliando em 24 horas.
+(alternativa D)
+Proceder com cirurgia urgentemente para drenagem de abscesso renal ou
+nefrotomia, pois a conduta é sempre cirúrgica nesses casos.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 8 de 72
+
+Resposta comentada:
+"Tratar com antibiótico por via oral de amplo espectro e dar alta com
+acompanhamento ambulatorial em 48 horas." Incorreta. Embora muitos casos de
+pielonefrite não complicada possam ser tratados por via oral, este caso apresenta
+fatores de risco para complicação (idade >60, diabetes com nefropatia, sinais de
+instabilidade hemodinâmica leve). A conduta adequada é internação com antibiótico
+IV de amplo espectro, para controle inicial da infecção e monitorização, com
+transição para antibiótico oral somente quando houver melhoria clínica estável. A
+literatura e diretrizes aconselham hospitalização em pielonefrite aguda complicada
+com risco de sepse ou falha de tolerância à via oral.
+"Internação com antibioticoterapia intravenosa de amplo espectro, reavaliação em
+48-72 horas, com transição para via oral quando o estado clínico estiver estável e
+culturas." Correta. Reflete o manejo recomendado para pielonefrite aguda
+complicada: internação, antibiótico IV de amplo espectro que cubra Gram-negativos
+(p. ex., piperacilina-tazobactam, ceftriaxona ou carbapenem em contextos de
+resistência ou ESBL), avaliação de culturas (urinária e sanguínea) e monitorização
+hemodinâmica; reavaliação em 48-72 horas; passagem para via oral com fármacos
+de boa biodisponibilidade e susceptibilidade comprovada assim que o paciente
+estiver estável; e investigação de causas de complicação (obstrução urinária,
+abscesso, doença renal, desidratação, estado imunossupressor).
+"Iniciar apenas analgesia com antiespasmótico e hidratação intravenosa vigorosa,
+com alta precoce após melhora clínica e sem antibióticos, reavaliando em 24 horas."
+Incorreta. Não é aceitável tratar este caso apenas com analgésicos e hidratação
+sem antibióticos, dada a febre, a leucocitose, a disfunção renal relativa e os fatores
+de risco para evolução desfavorável; atraso no tratamento antibiótico pode levar a
+pior desfecho. Em pielonefrite aguda complicada, é necessário antibiótico, muitas
+vezes por via intravenosa, com internação.
+"Proceder com cirurgia urgentemente para drenagem de abscesso renal ou
+nefrotomia, pois a conduta é sempre cirúrgica nesses casos." Incorreta. Não é
+indicativa cirurgia de drenagem neste cenário sem evidência de obstrução urinária
+com abscesso ou falha terapêutica; pielonefrite aguda é, na maioria das vezes,
+tratada com antibióticos; cirurgia é reservada para complicações específicas
+(obstrução com abscesso, necrose renal, abscesso renal/vessicoso ou falha de
+tratamento com sinais de piora clínica).
+Referência:
+MARTINS, Mílton de Arruda et al. (ed.). Clínica médica: doenças hematológicas,
+oncologia, doenças renais. 2. ed. São Paulo: Manole, 2016. v. 3.
+GRABE, M. et al. Diretrizes para pielonefrite aguda da Sociedade Brasileira de
+Urologia. Disponível em: http://www.sbu.org.br/pdf/guidelines_EAU/infeccoesurologicas.pdf. Acesso em: 07 out. 2025.
+Federação Brasileira das Associações de Ginecologia e Obstetrícia (FEBRASGO).
+Infecção do trato urinário. São Paulo: FEBRASGO; 2021 (Protocolo FEBRASGOGinecologia, n. 49/ Comissão Nacional Especializada em Uroginecologia e Cirurgia
+Vaginal). Disponível em: https://sogirgs.org.br/area-do-associado/Infeccao-do-tratourinario-2021.pdf. Acesso em: 07 out. 2025.
+Feedback:
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 9 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+ITPAC PORTO NACIONAL
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Definir a abordagem da pielonefrite aguda
+complicada, estabelecendo critérios para internação
+hospitalar.
+[Tema]
+Infecção de Trato Urinário, Nefrolitíase
+5ª QUESTÃO
+
+Código da questão:
+
+141896
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(UNIDOMPEDRO) Mulher de 64 anos, diabética tipo 2, apresenta dor em queimação
+nos pés há 3 meses, pior à noite. Refere sensação de “choques” e dormência
+progressiva. Glicemia média de 170 mg/dL. Sem sinais de infecção.
+Qual é o tratamento mais apropriado para o quadro atual?
+Alternativas:
+(alternativa A)
+Tramadol continuo por tempo indeterminado.
+(alternativa B)
+Aumento da dose de insulina para melhora imediata da dor.
+(alternativa C)
+Prednisona 20 mg/dia por 15 dias.
+(alternativa D) (CORRETA)
+Amitriptilina ou duloxetina associadas ao controle glicêmico.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 10 de 72
+
+Resposta comentada:
+Resposta comentada.
+Correta: amitriptilina ou duloxetina associada ao controle glicêmico.
+Comentário: Neuropatia diabética dolorosa responde bem a antidepressivos
+tricíclicos (ex: amitriptilina) ou inibidores da recaptação de serotonina/noradrenalina
+(duloxetina). O controle glicêmico é essencial, mas não resolve rapidamente a dor.
+Incorreta: aumento da dose de insulina para melhora imediata da dor.
+O controle glicêmico é fundamental a longo prazo, mas não alivia a dor neuropática
+aguda. Além disso, esse paciente nem está em insulina atualmente, e não há dados
+de HbA1c nem hiperglicemia sintomática grave. Portanto, aumentar insulina
+isoladamente não trata a dor neuropática e não é indicado como estratégia inicial.
+Incorreta: prednisona 20 mg/dia por 15 dias.
+Corticoides não têm nenhuma indicação no tratamento de neuropatia diabética e
+podem piorar o controle glicêmico. Seu uso nesse contexto é totalmente
+contraindicado.
+Incorreta: tramadol contínuo por tempo indeterminado.
+O tramadol pode ser usado como opção adjuvante ou de resgate, mas não é
+tratamento de primeira linha. Seu uso crônico está associado à dependência,
+sedação, tolerância e constipação. As primeiras escolhas são: Duloxetina (IRSN),
+Amitriptilina (ADT), Pregabalina ou gabapentina (anticonvulsivantes).
+Referência:
+ROLIM, Luiz Clemente; THYSSEN, Patrícia J. ; FLUMIGNAN, Ronald L. G. ; ANDRADE,
+Daniel Ciampi de; DIB, Sérgio Atala; BERTOLUCI, Marcello. Diagnóstico e tratamento
+da neuropatia periférica diabética. In: SOCIEDADE BRASILEIRA DE DIABETES. Diretriz
+oficial da Sociedade Brasileira de Diabetes. São Paulo: Conectando Pessoas, 2022.
+DOI: https://doi.org/10.29327/557753.2022-14. Disponível em:
+https://diretriz.diabetes.org.br/prevencao-diagnostico-e-tratamento-da-neuropatiaperiferica-diabetica/. Acesso em: 8 ago. 2025.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 11 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIDOMPEDRO
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Definir condutas frente às complicações crônicas do
+diabetes, monitorando casos de retinopatia,
+nefropatia e neuropatia diabética.
+[Tema]
+Diabetes mellitus - Classificação, diagnóstico,
+tratamento e complicações
+
+6ª QUESTÃO
+Código da questão:
+
+141373
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Paciente de 54 anos relata ter iniciado há 7 dias quadro de dor torácica
+ventilatório-dependente, que alivia com anteriorização do tórax e piora em decúbito
+dorsal. Relacionou início dos sintomas com quadro de infecção de via aérea superior
+iniciada 5 dias antes. Não procurou atendimento médico, informando que sintomas
+melhoraram espontaneamente há 3 dias, concomitante com início de dispneia de
+caráter progressivo, associado a ortopneia e sensação de taquicardia. É admitido
+em setor de emergência, apresentando queda da pressão arterial, taquidispneia,
+exame físico demonstrando abafamento de bulhas cardíacas, turgência jugular
+evidente, com ausculta respiratória normal e ausência de edema de membros
+inferiores. Realizado ECG que demonstrou baixa voltagem do QRS associado à
+alternância elétrica.
+Baseado no caso clínico apresentado, qual é a alternativa correta?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 12 de 72
+
+Alternativas:
+(alternativa A)
+A melhora dos sintomas após 3 dias sugere resolução espontânea da pericardite
+apresentada pelo paciente, devendo ser indicado cateterismo cardíaco para melhor
+investigação.
+(alternativa B)
+O quadro relatado sugere a presença de perimiocardite, o que gerou no paciente o
+quadro de insuficiência cardíaca secundária a miocardite fulminante.
+(alternativa C)
+Paciente deve ser encaminhado para realização de angiotomografia de tórax de
+urgência para diagnóstico diferencial e melhor definição terapêutica.
+(alternativa D) (CORRETA)
+A realização de ecocardiografia à beira do leito, se disponível, auxilia na
+confirmação diagnóstica e ainda pode guiar a terapia definitiva.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 13 de 72
+
+Resposta comentada:
+Paciente apresenta quadro clínico típico de pericardite viral, porém não houve
+resolução espontânea (apesar de ser o mais comum), tendo a melhora dos sintomas
+no terceiro dia secundário ao início de derrame pericárdico (o derrame alivia o atrito
+entre as lâminas pericárdicas e, consequentemente, melhoram os sintomas). Evolui
+então, após, com sinais claros de tamponamento cardíaco, incluindo a tríade de
+Beck (hipotensão, hipofonese de bulhas e turgência jugular). Neste caso, se
+disponível, a ecocardiografia pode confirmar o tamponamento e ainda guiar a
+pericardiocentese de urgência.
+Analisando as alternativas:
+A realização de ecocardiografia à beira do leito, se disponível, auxilia na
+confirmação diagnóstica e ainda pode guiar a terapia definitiva - Correto - O
+paciente apresenta sinais de tamponamento cardíaco e, apesar de o diagnóstico
+neste caso ser clínico, a realização de ecocardiografia pode confirmar o diagnóstico.
+Paciente deve ser encaminhado para realização de angiotomografia de tórax de
+urgência para diagnóstico diferencial e melhor definição terapêutica - Incorreto Apesar de Tromboembolismo pulmonar estar no diagnóstico diferencial, neste caso,
+sem dúvida, tamponamento é o mais provável, não sendo necessária realização de
+tomografia. Além disso, o paciente se encontra instável (hipotenso), sem condições
+para exame deste tipo.
+O quadro relatado sugere a presença de perimiocardite, o que gerou no paciente o
+quadro de insuficiência cardíaca secundário a miocardite fulminante. - Incorreto - O
+quadro inicial se parece com pericardite, porém não há indícios de miocardite. Além
+disso, os sintomas do paciente não se relacionam com insuficiência cardíaca por
+miocardite fulminante; o paciente não possui sinais de congestão pulmonar, e sim
+sinais claros de tamponamento.
+A melhora dos sintomas após 3 dias sugere resolução espontânea da pericardite
+apresentada pelo paciente, devendo ser indicado cateterismo cardíaco para melhor
+investigação - Incorreto - A melhora dos sintomas em 3 dias, como relatado acima,
+ocorreu pelo derrame pericárdico que ocorreu, e não por resolução espontânea.
+Referência:
+Montera MW, Marcondes-Braga FG, Simões MV, Moura LAZ, Fernandes F, Mangine S,
+et al. Diretriz de Miocardites da Sociedade Brasileira de Cardiologia – 2022. Arq Bras
+Cardiol. 2022; 119(1):143-211.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 14 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cardiologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+FMIT
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Discutir a conduta diante de derrame pericárdico
+com risco de tamponamento cardíaco, justificando a
+indicação de pericardiocentese.
+[Tema]
+Doenças do Pericárdio, Miocardites e ENDOCARDITES
+7ª QUESTÃO
+
+Código da questão:
+
+127258
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDOMPEDRO) Uma paciente de 52 anos comparece à consulta de seguimento
+para o manejo do diabetes mellitus tipo 2, diagnosticado há três anos. Refere
+cansaço e polidipsia leve, mas nega episódios de hipoglicemia. O exame físico
+revela IMC de 30 kg/m² e pressão arterial de 138/86 mmHg. Os exames
+laboratoriais mostram HbA1c de 8,2% e função renal preservada (TFG estimada em
+85 mL/min). Atualmente, faz uso de metformina 1.000 mg duas vezes ao dia. Diante
+do quadro clínico, qual é a melhor conduta terapêutica para otimizar o controle
+glicêmico dessa paciente?
+Alternativas:
+(alternativa A)
+Iniciar insulina NPH ao deitar para melhor controle glicêmico.
+(alternativa B)
+Adicionar glibenclamida 5 mg/dia ao tratamento.
+(alternativa C) (CORRETA)
+Associar um inibidor do cotransportador de sódio e glicose tipo 2 (SGLT2), como
+empagliflozina.
+(alternativa D)
+Suspender a metformina e iniciar linagliptina em monoterapia.
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 15 de 72
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Correta: Associar um inibidor do cotransportador de sódio e glicose tipo 2 (SGLT2),
+como empagliflozina.
+Incorreta: Iniciar insulina NPH ao deitar para melhor controle glicêmico.
+A insulinização é indicada quando há falha terapêutica com múltiplos agentes orais
+ou descompensação importante, o que não é o caso desta paciente, que ainda pode
+se beneficiar de terapias orais adicionais.
+Incorreta: Adicionar glibenclamida 5 mg/dia ao tratamento. Sulfonilureias, como a
+glibenclamida, apresentam maior risco de hipoglicemia e ganho de peso, sendo
+menos indicadas para esta paciente com IMC elevado.
+Correta: Associar um inibidor do cotransportador de sódio e glicose tipo 2 (SGLT2),
+como empagliflozina. A paciente apresenta diabetes mellitus tipo 2 mal controlado,
+apesar do uso de metformina. Os inibidores de SGLT2, como a empagliflozina, são
+recomendados como terapia combinada devido à sua eficácia na redução da HbA1c,
+benefício na perda de peso e potencial efeito na redução do risco cardiovascular.
+Incorreta: Suspender a metformina e iniciar linagliptina em monoterapia.
+A metformina continua sendo a base do tratamento do DM2 e não deve ser
+suspensa sem justificativa clínica. Além disso, os inibidores da DPP-4, como a
+linagliptina, possuem efeito redutor de HbA1c inferior ao dos SGLT2, tornando-se
+uma opção menos eficaz para esta paciente.
+Referência:
+MARTINS, Mílton de Arruda et al. Clínica médica, doenças endócrinas e metabólicas,
+doenças osteometabólicas, doenças reumatológicas. V5. 2. ed. São Paulo: Manole,
+2016. [Livro eletrônico]. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447758. Acesso em:
+15 fev. 2025.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 16 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Competências (Objetivos)]
+Prescrição médica
+[Tema]
+Diabetes Mellitus – Classificação, Diagnóstico,
+Tratamento e Complicações
+[Habilidades]
+Prescrever o tratamento medicamentoso adequado
+para diabetes mellitus, reconhecendo as
+necessidades e condições individuais do paciente.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIDOMPEDRO
+
+8ª QUESTÃO
+Código da questão:
+
+146638
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) Paciente masc., 48 anos, portador de HAS primária há 2 anos,
+sem seguimento clínico e sem tratamento regular desde o diagnóstico. Procura
+atendimento médico de urgência, referindo intensa cefaleia e náuseas após o uso
+de cocaína em domicílio, sem alívio mesmo com o uso de analgésico comum. Na
+avaliação clínica, apresentava fácies de dor, confuso e letárgico. PA 220 x 130
+mmHg, FC 92 bpm, RCR, 2T, BNF, ausculta pulmonar sem ruídos adventícios,
+abdome indolor e MMIIs sem edema, panturrilhas livres. Força muscular preservada
+nos 4 membros, sem alterações na marcha e exame ocular exibindo papiledema.
+ECG com ritmo sinusal e sem sinais de isquemia. Analise o quadro hipertensivo do
+paciente e assinale a conduta clínica mais adequada.
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 17 de 72
+
+Alternativas:
+(alternativa A)
+Urgência hipertensiva, internação hospitalar e realização de tomografia de crânio
+antes de qualquer medida terapêutica.
+(alternativa B)
+Emergência hipertensiva, internação hospitalar e administração de droga
+endovenosa com objetivo de reduzir PA para valores normais em 12 – 24 horas.
+(alternativa C)
+Urgência hipertensiva, alta hospitalar e encaminhamento ao cardiologista para início
+rápido de terapia regular com anti-hipertensivo oral.
+(alternativa D) (CORRETA)
+Emergência hipertensiva, internação hospitalar e administração de droga
+endovenosa para redução da PA em 25% nas primeiras 2 horas.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 18 de 72
+
+Resposta comentada:
+"Emergência hipertensiva, internação hospitalar e administração de droga
+endovenosa para redução da PA em 25% nas primeiras 2 horas." (Correta). Paciente
+apresenta quadro clínico compatível com emergência hipertensiva por pico
+hipertensivo, com evidente comprometimento de órgão alvo compatível com
+encefalopatia hipertensiva pelas alterações neurológicas apresentadas e edema
+ocular. Este quadro pode ser precedido pelo uso de substâncias ilícitas como
+cocaína. Na encefalopatia hipertensiva, ocorre elevação abrupta da pressão arterial,
+ocasionando, em território cerebral, perda da autorregulação do fluxo sanguíneo e
+evidências de lesão vascular, lesões hemorrágicas dos vasos da retina e
+papiledema. É preciso uma redução rápida da PA em minutos a 2 horas no valor de
+25% e, se o paciente permanecer estável, reduzir para 160 x 100 mmHg nas
+próximas 2 a 6 horas.
+"Emergência hipertensiva, internação hospitalar e administração de droga
+endovenosa com objetivo de reduzir PA para valores normais em 12 – 24 horas."
+(Incorreta). Na emergência hipertensiva com encefalopatia, não é recomendada a
+redução da PA de forma abrupta para valores normais pelo maior risco de isquemia
+cerebral, cardíaca e renal.
+"Urgência hipertensiva, internação hospitalar e realização de tomografia de crânio
+antes de qualquer medida terapêutica." (Incorreta). Urgência hipertensiva refere-se
+a elevações acentuadas da pressão arterial, mas sem evidências de lesão em
+órgãos-alvo. O tratamento geralmente envolve a redução gradual da pressão
+arterial com medicamentos orais em um período de 24 a 48 horas. O paciente em
+questão apresenta pico hipertensivo com lesão de órgão-alvo, contrariando a
+definição de urgência hipertensiva.
+"Urgência hipertensiva, alta hospitalar e encaminhamento ao cardiologista para
+início rápido de terapia regular com anti-hipertensivo oral." (Incorreta). Não se trata
+de um relato de caso de urgência hipertensiva, porque estão presentes lesões de
+órgão-alvo cerebral e ocular, portanto, necessita de controle mais rápido de PA com
+drogas endovenosas.
+Referência:
+SOCIEDADE BRASILEIRA DE CARDIOLOGIA (SBC). Diretriz Brasileira de Hipertensão
+Arterial. Arq Bras Cardiol. 2020, 107(3 Supl. 3): 1-83. Disponível em:
+http://publicacoes.cardiol.br/2020/diretrizes/2020/05_HIPERTENSAO_ARTERIAL.pdf.
+Acesso em: 07 out. 2025.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 19 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cardiologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO BARRA
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Definir condutas específicas para encefalopatia
+hipertensiva e outras complicações graves,
+manejando casos complexos de hipertensão arterial
+sistêmica.
+[Tema]
+Hipertensão arterial sistêmica
+9ª QUESTÃO
+
+Código da questão:
+
+141624
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIREDENTOR) Paciente de 55 anos, em estágio 4 de doença renal crônica (DRC),
+apresenta níveis elevados de PTH intacto, hipocalcemia e hiperfosfatemia
+persistente. Qual das opções abaixo é o tratamento mais indicado para controle do
+hiperparatireoidismo secundário nesse contexto?
+Alternativas:
+(alternativa A)
+Administração de cálcio elementar em altas doses, sem outras medidas.
+(alternativa B) (CORRETA)
+Iniciar suplementação de vitamina D ativa (calcitriol) e quelantes de fósforo.
+(alternativa C)
+Prescrever diuréticos de alça para reduzir níveis de fósforo.
+(alternativa D)
+Restringir totalmente a ingestão de proteínas na dieta.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 20 de 72
+
+Resposta comentada:
+- "Administração de cálcio elementar em altas doses, sem outras medidas."
+Incorreta — A administração isolada de cálcio em altas doses não corrige
+adequadamente o estímulo hiperparatireoideo e pode causar hipercalcemia. O
+tratamento deve abordar também o controle do fósforo e o suporte de vitamina D
+ativa, que está deficiente na DRC.
+- "Iniciar suplementação de vitamina D ativa (calcitriol) e quelantes de fósforo."
+Correta — O tratamento do hiperparatireoidismo secundário na DRC baseia-se no
+controle da hiperfosfatemia (com restrição dietética e quelantes de fósforo) e na
+correção da deficiência de vitamina D ativa (com calcitriol ou análogos), o que reduz
+a secreção de PTH. É a abordagem de primeira linha.
+- "Restringir totalmente a ingestão de proteínas na dieta." Incorreta — Restringir
+proteínas totalmente não é recomendado, pois piora o estado nutricional. A
+restrição deve ser moderada e individualizada, visando ao controle de fósforo sem
+causar desnutrição.
+- "Prescrever diuréticos de alça para reduzir níveis de fósforo." Incorreta —
+Diuréticos de alça podem aumentar a excreção de cálcio, mas não são eficazes para
+controle de fósforo. O manejo da hiperfosfatemia depende de restrição dietética e
+quelantes.
+Referências:
+KHAN, Ali A.; JAMESON, J. Larry. Disorders of the parathyroid glands & calcium
+metabolism. In: JAMESON, J. Larry; FAUCI, Anthony S.; KASPER, Dennis L.; HAUSER,
+Stephen L.; LONGO, Dan L.; LOSCALZO, Joseph. Harrison’s principles of internal
+medicine. 21. ed. New York: McGraw-Hill Education, 2022. Cap. 424.
+BRIGGS, William A. Disorders of calcium, phosphate, and magnesium metabolism.
+In: GOLDMAN, Lee; SCHAFER, Andrew I. Goldman-Cecil medicine. 27. ed.
+Philadelphia: Elsevier, 2024. Cap. 118.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 21 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIREDENTOR
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Avaliar estratégias terapêuticas na DRC, incluindo
+controle pressórico, proteinúria e preparo para
+terapia renal substitutiva.
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e
+Glomerulopatias
+10ª QUESTÃO
+
+Código da questão:
+
+141950
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Caxias) João, 38 anos, sem histórico médico conhecido, comparece ao
+pronto atendimento com queixa de cefaleia holocraniana intensa há 7 dias,
+associada a febre não aferida, náuseas, episódios de vômitos, visão turva e
+sonolência progressiva. Relata também emagrecimento não intencional (9 kg em 3
+meses), episódios de diarreia líquida intermitente, candidíase oral recorrente e
+lesões papulosas na pele, semelhantes a acne, espalhadas por tronco e face. Nunca
+realizou teste para HIV.
+Ao exame físico: T.A.: 110x70 mmHg | FC: 104 bpm | Temp.: 38,6 ºC | SatO₂: 97%
+AA, nível de consciência: sonolento, responde com lentidão, rigidez de nuca
+presente, sem sinais focais e lesões papulonodulares, eritemovioláceas, algumas
+ulceradas, distribuídas em face e tronco.
+Exames iniciais: hemograma: anemia normocítica normocrômica, leucopenia;
+tomografia de crânio sem efeito de massa; e realizada punção lombar: pressão de
+abertura elevada, líquor límpido, proteínas aumentadas, glicose baixa, células
+mononucleares predominantes com tinta da China: positiva.
+Com base nos dados apresentados, assinale a alternativa correta quanto à hipótese
+diagnóstica, fase da doença de base e conduta inicial.
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 22 de 72
+
+Alternativas:
+(alternativa A) (CORRETA)
+O quadro é compatível com criptococose meníngea em paciente com
+imunossupressão grave, provavelmente HIV em fase AIDS; iniciar anfotericina B e
+flucitosina, e adiar TARV por pelo menos 4 semanas.
+(alternativa B)
+Trata-se de um paciente com infecção oportunista em fase sintomática precoce do
+HIV; iniciar TARV imediatamente após coleta de sorologia.
+(alternativa C)
+O paciente está na fase aguda de infecção viral, provavelmente viral comum. A
+conduta é analgésico e hidratação, com alta hospitalar.
+(alternativa D)
+Trata-se de um quadro sugestivo de neurotoxoplasmose; iniciar pirimetamina,
+sulfadiazina e ácido folínico, junto à TARV de imediato.
+
+Grau de dificuldade:
+
+Fácil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 23 de 72
+
+Resposta comentada:
+Resposta: O quadro é compatível com criptococose meníngea em paciente com
+imunossupressão grave, provavelmente HIV em fase AIDS; iniciar anfotericina B e
+flucitosina, e adiar TARV por pelo menos 4 semanas.
+O paciente apresenta manifestações clínicas típicas de meningite criptocócica
+associada ao HIV em fase avançada (AIDS):
+Cefaleia persistente, febre, náuseas, vômitos, rigidez de nuca e sonolência → quadro
+típico de meningite subaguda.
+Perda de peso, diarreia crônica, candidíase oral, lesões cutâneas sugestivas de
+criptococose disseminada.
+Exame do líquor: pressão de abertura elevada, hipoglicorraquia, positividade na
+Tinta da China.
+Não há sinais de efeito de massa na TC, o que permite o prosseguimento da punção
+lombar.
+Essas características indicam imunossupressão grave, provavelmente com CD4 <
+100 células/mm³.
+A TARV deve ser adiada por ao menos 4 semanas após o início do antifúngico para
+reduzir o risco de síndrome inflamatória de reconstituição imune (IRIS), que pode
+ser fatal.
+Referências:
+Ministério da Saúde do Brasil. Protocolo Clínico e Diretrizes Terapêuticas para
+manejo do HIV em adultos, 2023.
+Harrison’s Principles of Internal Medicine, 21ª ed. McGraw-Hill.
+CDC – Guidelines for the Prevention and Treatment of Opportunistic Infections in
+Adults and Adolescents with HIV, 2023.
+Perfect JR et al. Clinical Practice Guidelines for the Management of Cryptococcal
+Disease. Clin Infect Dis. 2010.
+Azulay, R.D.; Azulay, D.R.; Azulay-Abulafia, L. Dermatologia, 7ª ed. Guanabara
+Koogan.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 24 de 72
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+[Subáreas de Conhecimento]
+Infectologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO CAXIAS
+[Habilidades]
+Analisar esquemas terapêuticos com antidiabéticos
+orais e insulina, considerando perfil do paciente e
+diretrizes clínicas.
+Identificar sinais e sintomas do HIV em suas
+diferentes fases, reconhecendo a apresentação
+clínica da criptococose.
+[Tema]
+HIV e Criptococose
+11ª QUESTÃO
+
+Código da questão:
+
+141372
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Paciente de 56 anos, sexo masculino, com diagnóstico de DM2 há 8 anos e
+seguimento regular em unidade básica de saúde, procura pela primeira vez
+ambulatório especializado de endocrinologia para seguimento de sua patologia. Não
+possui outras comorbidades ou doença cardiovascular evidente. Relata que faz uso
+correto das medicações (Glifage e Gliclazida) e seus últimos exames mostram
+hemoglobina glicada de 7,6%.
+Sobre as medidas objetivando reduzir o risco de complicações macro e
+microvasculares, assinale a melhor alternativa:
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 25 de 72
+
+Alternativas:
+(alternativa A) (CORRETA)
+O controle glicêmico precoce (no primeiro ano do diagnóstico) e eficaz, com
+hemoglobina glicada menor que 7%, se mostrou efetivo na redução das
+complicações macrovasculares.
+(alternativa B)
+Paciente com DM2 deve ser estimulado quanto ao exercício físico aeróbico, sendo
+contraindicado exercícios resistidos pelo risco de desfecho cardiovascular.
+(alternativa C)
+As complicações microvasculares se relacionam diretamente ao tempo de
+diagnóstico do DM2, não sendo possível definir relação com o valor da hemoglobina
+glicada.
+(alternativa D)
+Estudos clínicos não demonstraram benefício da perda ponderal nos desfechos do
+paciente com DM2 e obesidade ou sobrepeso.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 26 de 72
+
+Resposta comentada:
+Resposta: Analisando as alternativas:
+O controle glicêmico precoce (no primeiro ano do diagnóstico) e eficaz, com
+hemoglobina glicada menor que 7%, se mostrou efetivo na redução das
+complicações macrovasculares - Correto - O controle glicêmico é essencial para a
+prevenção de complicações micro e macrovasculares relacionadas ao diabetes.
+Grandes ensaios clínicos randomizados (UKPDS, ADVANCE) mostraram a eficácia da
+redução sustentada da hemoglobina glicada (HbA1c) para abaixo de 7% em
+desfechos microvasculares, como retinopatia, doença renal e neuropatia.
+As complicações microvasculares se relacionam diretamente ao tempo de
+diagnóstico do DM2, não sendo possível definir relação com o valor da hemoglobina
+glicada - Incorreto - A redução de complicações macrovasculares, por sua vez,
+ocorre a longo prazo e é mais evidente quando o controle glicêmico é iniciado mais
+precocemente, ainda no primeiro ano após o diagnóstico.
+Estudos clínicos não demonstraram benefício da perda ponderal nos desfechos do
+paciente com DM2 e obesidade ou sobrepeso - Incorreto - Em pessoas com DM2 que
+apresentem sobrepeso ou obesidade, é recomendada a perda de, no mínimo, 5% do
+peso corporal inicial para melhora do controle glicêmico.
+Paciente com DM2 deve ser estimulado quanto ao exercício físico aeróbico, sendo
+contraindicado exercícios resistidos pelo risco de desfecho cardiovascular - Incorreto
+- É recomendado para pessoas com DM2 a prática de exercícios combinados,
+resistidos e aeróbicos: pelo menos um ciclo de 10 a 15 repetições de cinco ou mais
+exercícios, duas a três sessões por semana, em dias não consecutivos e, no mínimo,
+150 minutos semanais de caminhada moderada ou de alta intensidade, sem
+permanecer mais do que dois dias consecutivos sem atividade.
+Referência:
+Ruy Lyra, Luciano Albuquerque, Saulo Cavalcanti, Marcos Tambascia, Wellington S.
+Silva Júnior e Marcello Casaccia Bertoluci. Manejo da terapia antidiabética no DM2.
+Diretriz Oficial da Sociedade Brasileira de Diabetes (2024). DOI:
+10.29327/5412848.2024-7, ISBN: 10.29327/5412848.2024-7.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 27 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+FMIT
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Analisar estratégias de prevenção e manejo de
+complicações microvasculares e macrovasculares,
+promovendo o cuidado integral da pessoa com
+diabetes.
+[Tema]
+Diabetes mellitus - Classificação, diagnóstico,
+tratamento e complicações
+
+12ª QUESTÃO
+Código da questão:
+
+141478
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Durante o atendimento em um ambulatório de clínica médica, você
+avalia um paciente de 68 anos, ex-tabagista (40 maços/ano, cessou há 5 anos). Ele
+refere piora progressiva da dispneia aos esforços, mesmo com uso regular de uma
+"bombinha" prescrita pelo médico da Atenção Primária há 2 anos, relatando dispneia
+para andar 100 metros. Nega piora da tosse de forma abrupta ou infecção de vias
+aéreas nos últimos 12 meses e nunca foi hospitalizado por queixas respiratórias. Ao
+aplicar o questionário CAT (COPD Assessment Test), seu paciente obtém pontuação
+12. Espirometria recente mostra VEF1/CVF < 0,7, com VEF1 = 55% do previsto.
+Com base no sistema de classificação GOLD atualizado, marque a alternativa que
+apresenta a abordagem terapêutica mais adequada para esse paciente,
+considerando o rastreamento e manejo sintomático para sua principal hipótese
+diagnóstica.
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 28 de 72
+
+Alternativas:
+(alternativa A)
+Introduzir corticoide inalatório em monoterapia, visto que o VEF1 < 60% sugere
+inflamação significativa e risco de progressão.
+(alternativa B) (CORRETA)
+Iniciar tiotrópio (LAMA) associado a broncodilatador de longa ação (LABA), pois o
+paciente está no grupo B, não exacerbador, e esta é a escolha nessa fase.
+(alternativa C)
+Iniciar apenas broncodilatador de longa ação e repetir a espirometria em 6 meses,
+pois ele está no grupo A, sem necessidade de mudança terapêutica.
+(alternativa D)
+Prescrever associação LAMA + LABA + corticoide inalatório, visto que o paciente
+está no grupo dos exacerbadores, devendo receber terapia tripla.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O paciente apresenta sintomas (CAT ≥10), mas baixo risco de exacerbação (0 no
+último ano, sem hospitalização), o que o classifica no Grupo 2B do GOLD, não
+exacerbador. Para esse grupo, a conduta recomendada é iniciar LAMA
+(anticolinérgico de longa ação) MAIS LABA (beta-2 agonista de longa ação). Isso
+representa uma abordagem de rastreamento clínico funcional e sintomático, com
+início precoce do tratamento adequado.
+Corticoide inalatório está indicado nos pacientes que apresentem eosinofilia > 300
+(sangue periférico).
+Broncodilatador único (LAMA ou LABA) está indicado para pacientes estágio A.
+Referência:
+Global Initiative for Chronic Obstructive Lung Disease (GOLD). Global Strategy for
+the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary
+Disease: 2025 Report. 2025 [publicação na internet]. Disponível em:
+https://goldcopd.org/2025-gold-report. Acesso em: 07 out. 2025.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 29 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Pneumologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Rastreamento
+[Habilidades]
+Analisar a abordagem terapêutica da DPOC com
+base no ABCD do GOLD, justificando o uso de
+broncodilatadores e corticoides.
+[Tema]
+Asma e DPOC (Exame físico e exames
+complementares, incluindo espirometria, Tratamento
+da DPOC pelo ABE do GOLD, tratamento da
+exacerbação)
+13ª QUESTÃO
+
+Código da questão:
+
+141558
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Paciente, 68 anos, hipertenso e diabético, está internado na
+enfermaria com queixa de dispneia progressiva há 10 dias, ortopneia e edema em
+membros inferiores. Ao exame físico, apresenta estertores bibasais, turgência
+jugular e ritmo cardíaco regular, com B3 audível. PA = 110 x 70 mmHg, FC = 96
+bpm, SpO₂ = 92% em ar ambiente. O ecocardiograma mostra fração de ejeção de
+35%. Com base na fisiopatologia e alterações hemodinâmicas esperadas para a sua
+principal hipótese diagnóstica, marque a alternativa que apresenta a conduta
+médica inicial mais adequada neste caso.
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 30 de 72
+
+Alternativas:
+(alternativa A)
+Realizar expansão volêmica com soro fisiológico para aumentar o débito cardíaco e
+perfusão tecidual.
+(alternativa B)
+Prescrever beta-bloqueador em dose plena para reduzir o débito cardíaco e
+controlar a frequência cardíaca.
+(alternativa C)
+Iniciar digoxina e aguardar para iniciar IECA, devido ao risco de hipotensão em
+pacientes com fração de ejeção reduzida.
+(alternativa D) (CORRETA)
+Introduzir IECA e diurético de alça, visando reduzir pós-carga e congestão pulmonar.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 31 de 72
+
+Resposta comentada:
+A insuficiência cardíaca com fração de ejeção reduzida (ICFEr) decorre de disfunção
+sistólica, resultando na diminuição do débito cardíaco e aumento da pressão de
+enchimento ventricular, que levam à congestão pulmonar e sistêmica. A conduta
+inicial correta visa reduzir a sobrecarga de volume e melhorar a hemodinâmica com
+diurético de alça (como furosemida), além de iniciar IECA (inibidor da ECA) para
+reduzir pós-carga e remodelamento ventricular. Essa abordagem melhora sintomas
+e reduz mortalidade a longo prazo.
+Os beta-bloqueadores têm papel fundamental na IC crônica estável, mas não devem
+ser iniciados em dose plena durante a descompensação. Iniciar betabloqueador,
+nesse momento, piora a função ventricular, pois reduz o débito cardíaco em uma
+fase de fragilidade hemodinâmica.
+A digoxina pode ser usada em casos selecionados de IC com FA ou sintomas
+refratários, mas não substitui IECA. Além disso, suspender IECA priva o paciente de
+um dos medicamentos com maior impacto em sobrevida.
+A expansão volêmica está contraindicada em pacientes com sinais clínicos de
+congestão (edema, turgência jugular, estertores), pois piora o quadro
+hemodinâmico. A IC é, em geral, um estado de volume excessivo, não de
+hipovolemia.
+Referências:
+BRASIL. Protocolo Clínico e Diretrizes Terapêuticas – Insuficiência Cardíaca.
+Ministério da Saúde, 2022.
+McDonagh TA et al. 2021 ESC Guidelines for the diagnosis and treatment of acute
+and chronic heart failure. European Heart Journal, 2021.
+UpToDate. Treatment of acute decompensated heart failure in adults. Acesso em
+jul/2025.
+HARRISON, T. R. Principles of Internal Medicine. 21ª ed., McGraw Hill, 2022.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 32 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cardiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Compreender os mecanismos fisiopatológicos da IC,
+correlacionando com alterações hemodinâmicas.
+[Tema]
+Insuficiência cardíaca
+
+14ª QUESTÃO
+Código da questão:
+
+141375
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Paciente do sexo feminino, 56 anos, é admitida em atendimento de urgência
+e emergência, trazida por familiares, com história de ter iniciado há 4 dias quadro
+de disúria e polaciúria. Informa que há 1 dia evoluiu com febre alta, grande
+prostração, queda importante do estado geral, náuseas e sonolência. Nega afecções
+do trato urinário anteriormente. Ao exame, a paciente se encontra sonolenta,
+orientada, FC = 120 bpm, PA = 90 x 60 mmHg. Ausculta cardíaca e respiratórias
+normais. Presença de dor à punho, percussão lombar à direita. Exames
+complementares demonstram leucocitose com desvio à esquerda e formas
+imaturas, além de urina demonstrar leucocitúria.
+Sobre o caso clínico, assinale a alternativa que melhor demonstra a conduta.
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 33 de 72
+
+Alternativas:
+(alternativa A) (CORRETA)
+A paciente apresenta sinais clínicos de pielonefrite aguda, devendo ser internada
+em ambiente hospitalar, iniciada antibioticoterapia (ceftriaxona) e hidratação
+venosa, além de coleta de culturas.
+(alternativa B)
+Os sinais clínicos apresentados pela paciente sugerem infecção do trato urinário não
+complicada, devendo ser prescrita analgesia e antibióticoterapia domiciliar
+(fosfomicina).
+(alternativa C)
+Devido ao quadro clínico apresentado pela paciente, devemos indicar
+imediatamente a realização de ultrassonografia de rins e vias urinárias para definir
+o tratamento inicial.
+(alternativa D)
+Deve ser iniciada hidratação venosa, sintomáticos e solicitado, neste momento,
+urocultura com antibiograma. Somente após seu resultado, decidir o início de
+antibioticoterapia.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 34 de 72
+
+Resposta comentada:
+Resposta: paciente se apresenta com sinais clínicos clássicos de infecção do trato
+urinário que complicou com pielonefrite, visto febre, queda do estado geral e
+Giordano positivo. Além disso, sinais de gravidade, com alteração no nível de
+consciência e queda da pressão. A conduta deve ser internação hospitalar,
+hidratação, ATB venoso e coleta de culturas.
+Analisando as alternativas:
+A paciente apresenta sinais clínicos de pielonefrite aguda, devendo ser internada
+em ambiente hospitalar, iniciada antibioticoterapia (ceftriaxona) e hidratação
+venosa, além de coleta de culturas - Correta - paciente se apresenta com sinais
+clínicos clássicos de infecção do trato urinário que complicou com pielonefrite, visto
+febre, queda do estado geral e Giordano positivo. Além disso, sinais de gravidade,
+com alteração no nível de consciência e queda da pressão. A conduta deve ser
+internação hospitalar, hidratação, ATB venoso e coleta de culturas.
+Os sinais clínicos apresentados pela paciente sugerem infecção do trato urinário não
+complicada, devendo ser prescrita analgesia e antibióticoterapia domiciliar
+(fosfomicina) - Incorreta - paciente se apresenta com sinais clínicos clássicos de
+infecção do trato urinário que complicou com pielonefrite, visto febre, queda do
+estado geral e Giordano positivo. Além disso, sinais de gravidade, com alteração no
+nível de consciência e queda da pressão. A conduta deve ser internação hospitalar,
+hidratação, ATB venoso e coleta de culturas.
+Devido ao quadro clínico apresentado pela paciente, devemos indicar
+imediatamente a realização de ultrassonografia de rins e vias urinárias para definir
+o tratamento inicial - Incorreta - A indicação de realização de exame de imagem
+deve ser realizada em pacientes com história de manipulação de via urinária e
+principalmente naqueles que não respondem ao tratamento com ATB específico
+após 48h de seu início, sendo então indicado ultrassonografia ou tomografia
+computadorizada.
+Deve ser iniciada hidratação venosa, sintomáticos e solicitado, neste momento,
+urocultura com antibiograma. Somente após seu resultado, decidir o início de
+antibioticoterapia - Incorreta - A cultura deve ser realizada imediatamente, se
+possível até mesmo antes da primeira dose de ATB, porém, em hipótese alguma,
+aguardar seu resultado para iniciar ATB.
+Referência:
+VELASCO, Irineu Tadeu et al. Medicina de emergência: abordagem prática. Barueri,
+SP: Manole. 2019.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 35 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+FMIT
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Definir a abordagem da pielonefrite aguda
+complicada, estabelecendo critérios para internação
+hospitalar.
+[Tema]
+Infecção de Trato Urinário, Nefrolitíase
+15ª QUESTÃO
+
+Código da questão:
+
+141613
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIREDENTOR) Um paciente de 25 anos procura o pronto atendimento com quadro
+de febre alta há 3 dias, mialgia intensa, cefaleia retroorbital e exantema. Ao exame
+físico, apresenta PA de 110/70 mmHg, frequência cardíaca de 90 bpm, sem sinais
+de sangramento ativo. Laboratório mostra plaquetas de 95.000/mm³, hematócrito
+aumentado em 20% em relação ao basal, sem alterações de função hepática ou
+sinais de sangramento em mucosas.
+Com base nos critérios do Ministério da Saúde, qual é a forma clínica da dengue
+apresentada e a conduta indicada?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 36 de 72
+
+Alternativas:
+(alternativa A)
+Dengue com sinais de alarme: internação em Unidade de Terapia Intensiva.
+(alternativa B) (CORRETA)
+Dengue com sinais de alarme: observação em unidade de internação e hidratação
+venosa cautelosa.
+(alternativa C)
+Dengue sem sinais de alarme: manejo ambulatorial com hidratação oral.
+(alternativa D)
+Dengue grave: internação em UTI e suporte intensivo.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+"Dengue sem sinais de alarme - manejo ambulatorial com hidratação oral.": Apesar
+de não haver sangramento, o paciente apresenta sinal de alarme: aumento
+significativo do hematócrito com plaquetopenia, sugerindo extravasamento
+plasmático. Isso caracteriza dengue com sinais de alarme, que exige vigilância em
+ambiente hospitalar. Incorreta.
+"Dengue com sinais de alarme - observação em unidade de internação e hidratação
+venosa cautelosa.": O aumento do hematócrito associado à plaquetopenia indica
+extravasamento plasmático, um sinal de alarme que pode evoluir para choque
+hipovolêmico. Portanto, trata-se de dengue com sinais de alarme. A conduta é
+internação para monitoramento clínico rigoroso, hidratação venosa cautelosa e
+controle laboratorial seriado. Correta.
+"Dengue grave - internação em UTI e suporte intensivo.": Dengue grave implica em
+choque, sangramento grave ou comprometimento de órgãos (ex.: encefalopatia,
+hepatite grave, insuficiência cardíaca). Este paciente não apresenta nenhum desses
+critérios. Incorreta.
+"Dengue com sinais de alarme - Internação em Unidade de Terapia Intensiva.":
+Paciente não apresenta sinais de hipoperfusão tecidual (choque), não apresenta
+sangramento importante e não apresenta disfunção orgânica. Portanto, não está
+indicado nesse momento tratamento em unidade de Terapia Intensiva. Incorreta.
+Referência:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Dengue:
+diagnóstico e manejo clínico – adulto e criança. 4. ed. Brasília: Ministério da Saúde,
+2016.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 37 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Infectologia
+[Competências (Objetivos)]
+Prescrição médica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIREDENTOR
+[Habilidades]
+Aplicar critérios diagnósticos e de gravidade,
+utilizando fluxogramas clínicos e exames
+laboratoriais básicos.
+[Tema]
+Dengue, Zika, Chikungunya e FEBRE AMARELA
+
+16ª QUESTÃO
+Código da questão:
+
+142583
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+( BANCO AFYA) Um homem de 30 anos é avaliado em consulta ambulatorial após
+exame de rotina que revelou hematúria microscópica persistente. Está
+assintomático, sem histórico de infecção urinária ou trauma. Ao exame físico, não
+há alterações. Repetido o exame de urina tipo I, observa-se: densidade 1.020, pH 6,
+hematúria 40 hemácias/campo (90% dismórficas), ausência de leucócitos e cilindros,
+proteinúria de 350 mg/24h. A creatinina sérica é de 0,9 mg/dL.
+Com base nos dados clínico-laboratoriais, o exame complementar mais adequado
+para a investigação inicial da causa da hematúria é:
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 38 de 72
+
+Alternativas:
+(alternativa A)
+Ultrassonografia de vias urinárias, já que a hematúria deve sempre ser atribuída à
+presença de cálculos.
+(alternativa B)
+Urocultura, pois a infecção urinária é a principal causa de hematúria assintomática.
+(alternativa C)
+Prova de função hepática, para afastar doença sistêmica com repercussão renal.
+(alternativa D) (CORRETA)
+EAS com microscopia de fase para avaliação do dismorfismo eritrocitário, sugerindo
+origem glomerular.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+A presença de hematúria microscópica com alta porcentagem de hemácias
+dismórficas é sugestiva de origem glomerular, sendo a microscopia de fase um
+exame crucial para confirmar esse padrão. Esse achado diferencia causas
+glomerulares de causas urológicas (como litíase ou neoplasias). A proteinúria
+subnefrótica reforça a suspeita de envolvimento glomerular leve/moderado. A
+investigação inicial deve, portanto, incluir repetição do EAS com microscopia
+adequada, além de ponderar avaliação nefrológica.
+As demais alternativas não se justificam nesse cenário: urocultura é irrelevante na
+ausência de leucocitúria ou sintomas urinários; ultrassonografia é útil em
+hematúrias de origem urológica, não glomerular; provas hepáticas não são
+indicadas neste contexto específico; imunoeletroforese de proteínas é indicada
+apenas em casos suspeitos de gamopatias monoclonais, o que não se aplica aqui.
+Referência:
+BARRETT, K. E. et al. Fisiopatologia Médica de Ganong. 25. ed. Porto Alegre: AMGH,
+2023. SILVA, S. F. Nefrologia clínica. 5. ed. São Paulo: Manole, 2022.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 39 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Competências (Objetivos)]
+Exames complementares
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+[Habilidades]
+Analisar condutas terapêuticas nas formas agudas e
+crônicas das doenças, considerando o uso de
+antimicrobianos, anti-inflamatórios e suporte
+hemodinâmico.
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e
+Glomerulopatias
+17ª QUESTÃO
+
+Código da questão:
+
+142242
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FESAR) Durante atendimento em ambulatório de clínica médica, dois pacientes são
+atendidos com sintomas respiratórios crônicos:
+Paciente A: 23 anos, histórico de rinite alérgica, crises de chiado no peito desde a
+infância, com piora noturna. Espirometria com VEF1/CVF < 0,7 e melhora de 18% do
+VEF1 após broncodilatador.
+Paciente B: 67 anos, tabagista de longa data, tosse crônica produtiva e dispneia
+progressiva. Espirometria com VEF1/CVF < 0,7 e resposta mínima ao
+broncodilatador.
+Sobre a comparação entre os casos, levando em consideração as patologias asma e
+DPOC, analise a alternativa correta.
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 40 de 72
+
+Alternativas:
+(alternativa A)
+Ambas as doenças apresentam inflamação predominantemente eosinofílica, sendo a
+principal diferença a reversibilidade da obstrução ao fluxo aéreo.
+(alternativa B)
+O uso de corticoide inalatório é indicado rotineiramente na DPOC leve a moderada,
+independentemente do perfil inflamatório.
+(alternativa C)
+A asma cursa com destruição do parênquima pulmonar e perda de elasticidade
+alveolar, enquanto a DPOC é caracterizada por broncoconstrição reversível
+associada à exposição ambiental.
+(alternativa D) (CORRETA)
+A presença de reversibilidade significativa ao broncodilatador na espirometria
+sugere diagnóstico de asma, mas não exclui DPOC se houver fatores de risco e
+obstrução fixa.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 41 de 72
+
+Resposta comentada:
+"A presença de reversibilidade significativa ao broncodilatador na espirometria
+sugere diagnóstico de asma, mas não exclui DPOC se houver fatores de risco e
+obstrução fixa.": Correta – A reversibilidade ao broncodilatador é fortemente
+sugestiva de asma, mas formas graves de asma podem evoluir com obstrução fixa.
+Além disso, pacientes com DPOC podem apresentar reversibilidade parcial,
+especialmente em fenótipos mistos. Portanto, a resposta ao broncodilatador não é
+isoladamente suficiente para o diagnóstico definitivo, sendo necessário avaliar o
+contexto clínico e fatores de risco.
+Alternativas incorretas:
+"Ambas as doenças apresentam inflamação predominantemente eosinofílica, sendo
+a principal diferença a reversibilidade da obstrução ao fluxo aéreo.": Errada – A
+inflamação na asma é tipicamente eosinofílica, enquanto na DPOC é
+predominantemente neutrofílica. Portanto, não são iguais nesse aspecto.
+"O uso de corticoide inalatório é indicado rotineiramente na DPOC leve a moderada,
+independentemente do perfil inflamatório.": Errada – Corticoides inalatórios na DPOC
+são indicados em casos específicos, como presença de eosinofilia periférica (>300
+cél/mm³) ou exacerbações frequentes. Não são usados rotineiramente em formas
+leves/moderadas.
+"A asma cursa com destruição do parênquima pulmonar e perda de elasticidade
+alveolar, enquanto a DPOC é caracterizada por broncoconstrição reversível
+associada à exposição ambiental.": Errada – A destruição do parênquima com perda
+de elasticidade é característica da DPOC (especialmente enfisema). A asma cursa
+com hiperresponsividade brônquica e inflamação reversível, sem destruição
+alveolar.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas – Asma.
+Brasília: Ministério da Saúde, 2022. Disponível em: https://www.gov.br/saude.
+Acesso em: 07 out. 2025.
+GOLD – GLOBAL INITIATIVE FOR CHRONIC OBSTRUCTIVE LUNG DISEASE. Global
+Strategy for the Diagnosis, Management, and Prevention of COPD. 2024. Disponível
+em: https://goldcopd.org. Acesso em: 07 out. 2025.
+SOCIEDADE BRASILEIRA DE PNEUMOLOGIA E TISIOLOGIA (SBPT). Diretrizes para o
+manejo da asma e DPOC. 2023. Disponível em: https://www.sbpt.org.br. Acesso em:
+07 out. 2025.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 42 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Pneumologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+FESAR
+[Competências (Objetivos)]
+Educação em saúde
+[Habilidades]
+Analisar as diferenças fisiopatológicas e de resposta
+ao tratamento entre asma e DPOC, promovendo a
+individualização do cuidado.
+[Tema]
+Asma e DPOC (Exame físico e exames
+complementares, incluindo espirometria, Tratamento
+da DPOC pelo ABE do GOLD, tratamento da
+exacerbação)
+18ª QUESTÃO
+
+Código da questão:
+
+142587
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Paciente de 42 anos é diagnosticado com glomeruloesclerose
+segmentar e focal (GESF), confirmada por biópsia renal. Apresenta proteinúria de
+5,8 g/24h, creatinina sérica de 1,3 mg/dL e ausência de sinais de doenças
+sistêmicas associadas. O tratamento inicial inclui bloqueadores do sistema reninaangiotensina e medidas dietéticas, com melhora parcial da proteinúria após oito
+semanas. Contudo, a proteinúria persiste acima de 3,5 g/24h e há sinais de
+hipoalbuminemia progressiva.
+Nessa situação, a conduta terapêutica mais adequada é:
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 43 de 72
+
+Alternativas:
+(alternativa A)
+introduzir antibiótico empírico, visto que a proteinúria sugere infecção do trato
+urinário em curso.
+(alternativa B)
+manter abordagem conservadora, pois a função renal está preservada e não há
+necessidade de imunossupressão.
+(alternativa C)
+iniciar hemodiálise precoce para evitar progressão da insuficiência renal crônica.
+(alternativa D) (CORRETA)
+iniciar corticoterapia oral, pois há síndrome nefrótica persistente em paciente com
+GESF primária.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Na glomeruloesclerose segmentar e focal primária com síndrome nefrótica
+persistente, apesar do tratamento conservador otimizado, está indicada a
+introdução de corticoterapia oral, geralmente com prednisona por pelo menos 8 a
+16 semanas. O objetivo é alcançar remissão da proteinúria e preservar a função
+renal a longo prazo. O tratamento imunossupressor é especialmente relevante nos
+casos com proteinúria persistente significativa (>3,5 g/24h) e hipoalbuminemia.
+Manter conduta conservadora isolada, como propõe a alternativa incorreta, não é
+suficiente nesse cenário. O uso de antibiótico não é indicado sem sinais infecciosos.
+A hemodiálise não se aplica aqui, pois a função renal ainda está preservada. Repetir
+biópsia renal neste momento, sem critérios clínicos, não é necessário.
+Referência:
+SILVA, S. F. Nefrologia clínica. 5. ed. São Paulo: Manole, 2022. KDIGO. Clinical
+Practice Guideline for Glomerulonephritis. Kidney International Supplements, 2021.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 44 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+[Habilidades]
+Definir condutas frente às complicações crônicas do
+diabetes, monitorando casos de retinopatia,
+nefropatia e neuropatia diabética.
+[Tema]
+Infecção de Trato Urinário, Nefrolitíase
+19ª QUESTÃO
+
+Código da questão:
+
+142112
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Palmas) Mulher de 68 anos, com hipertensão controlada, apresenta febre há 2
+dias, mialgia e cefaleia. Nega vômitos ou dor abdominal. Está em uso de losartana e
+hidroclorotiazida (HCTZ). Ao exame: PA 125x70 mmHg, FC 88 bpm, sem sinais de
+sangramento. Com base nos critérios do Ministério da Saúde, essa paciente deve
+ser classificada como pertencente a qual grupo de risco e qual a conduta?
+Alternativas:
+(alternativa A)
+Grupo A; manejo ambulatorial com hidratação domiciliar.
+(alternativa B)
+Grupo A; iniciar antibioticoterapia profilática.
+(alternativa C) (CORRETA)
+Grupo B; observação por ser idosa e com comorbidade.
+(alternativa D)
+Grupo C; encaminhamento à UTI por ser grupo vulnerável.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 45 de 72
+
+Resposta comentada:
+Correta:
+Grupo B; observação por ser idosa e com comorbidade.
+Segundo o Guia de Manejo Clínico da Dengue (MS, 2024), os pacientes com suspeita
+de dengue, mesmo sem sinais de alarme, são classificados como Grupo B quando
+apresentam:
+Comorbidades associadas (como hipertensão arterial sistêmica),
+Idade ≥ 65 anos (população vulnerável),
+Uso de medicações que aumentam o risco de complicações, como diuréticos (caso
+da HCTZ).
+Embora a paciente esteja hemodinamicamente estável, sua idade avançada,
+associada ao uso de anti-hipertensivos e diuréticos, aumenta o risco de
+desidratação e complicações. Por isso, a conduta preconizada para pacientes do
+Grupo B é a hidratação venosa ou oral supervisionada, em unidade de observação,
+com reavaliação clínica frequente, mesmo na ausência de sinais de alarme.
+Incorretas:
+O Grupo A inclui pacientes com sintomas sugestivos de dengue, sem sinais de
+alarme, sem comorbidades e com boa aceitação oral. Além disso, o uso de
+antibióticos não está indicado em casos suspeitos de dengue, salvo se houver sinais
+claros de infecção bacteriana associada (o que não é o caso). O uso de antibióticos
+profiláticos em síndromes virais é contraindicado, por não trazer benefício e
+aumentar o risco de resistência bacteriana.
+O Grupo C é reservado para pacientes com sinais de alarme ou sinais iniciais de
+choque, como hipotensão, pulso fino, enchimento capilar lento, sonolência ou
+sangramentos importantes. Apesar de a paciente ser idosa e ter comorbidade, não
+há no caso relatado nenhum critério clínico ou laboratorial que indique instabilidade
+hemodinâmica ou alarme. Portanto, não há indicação de encaminhamento à UTI
+neste momento.
+Embora o quadro clínico em si pareça leve, a presença de fatores de risco (idade
+avançada e comorbidade hipertensiva com uso de diuréticos) exclui o
+enquadramento no Grupo A. Pacientes do Grupo A são aqueles sem comorbidades,
+sem sinais de alarme, com boa aceitação oral e ausência de fatores de risco.
+Portanto, essa paciente requer manejo mais cauteloso, com observação médica, e
+não deve ser tratada exclusivamente em casa.
+Referência:
+BRASIL. Ministério da Saúde. Guia de Manejo Clínico da Dengue: 2024 – Vigilância
+em Saúde.
+Brasília: Ministério da Saúde, Secretaria de Vigilância em Saúde, 2024. Disponível
+em: https://www.gov.br/saude/pt-br/assuntos/noticias/2024/guia-manejo-dengue.
+Acesso em: 2 ago. 2025.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 46 de 72
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+[Subáreas de Conhecimento]
+Infectologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA PALMAS
+[Habilidades]
+Diferenciar as fases clínicas da dengue e seus sinais
+de alarme, justificando a conduta em cada etapa.
+[Tema]
+Dengue, Zika, Chikungunya e FEBRE AMARELA
+20ª QUESTÃO
+
+Código da questão:
+
+148386
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Paciente do sexo masculino, 64 anos, procura atendimento médico em
+Unidade Básica de Saúde como retorno para avaliação de sua pressão arterial. Sua
+última consulta ocorreu há 3 meses e, nesse período, o paciente iniciou de forma
+correta medidas não farmacológicas para mudança do estilo de vida. Em sua
+avaliação há 3 meses, sua pressão estava próxima de 135 x 85 mmHg.
+Relata como antecedentes pessoais Acidente Vascular Encefálico do tipo isquêmico
+há 2 anos, fazendo uso de fora regular de AAS 100mg e Rosuvastatina 20mg. Traz
+controle de pressão realizado por profissional habilitado, com 5 medidas em dias
+diferentes, todas em torno de 135x85 mmHg. No momento se encontra
+assintomático, com exame físico mostrando FC = 72 bpm e PA = 136 x 86 mmHg,
+RCR em 2T, sem sopros.
+Sobre o caso clínico apresentado, qual alternativa demonstra a melhor conduta a
+ser indicada para este paciente, baseada nas últimas diretrizes do tema?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 47 de 72
+
+Alternativas:
+(alternativa A)
+O paciente deveria ter iniciado terapia farmacológica para hipertensão na sua
+primeira consulta, há 3 meses, com terapia dupla, Enalapril e hidroclorotiazida.
+(alternativa B)
+Devemos iniciar terapia dupla neste momento, sendo a melhor escolha
+hidroclorotiazida associado a anlodipino.
+(alternativa C)
+O paciente deve ter novamente orientações quanto à mudança do estilo de vida e
+reavaliação em mais 3 meses.
+(alternativa D) (CORRETA)
+O paciente deve, neste momento, receber terapia farmacológica para hipertensão,
+sendo Enalapril uma escolha possível.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Paciente com quadro de pré-HAS e muito alto risco cardiovascular. Neste caso,
+devemos promover mudança do estilo de vida por 3 meses e reavaliar, com
+indicação de monoterapia caso a meta não tenha sido atingida. Quanto à
+monoterapia, a melhor escolha ficaria com IECA ou BRA. Portanto, iniciar Enalapril,
+neste momento, seria a melhor opção.
+Terapia dupla não estaria indicada, visto pré-HAS e muito alto risco CV.
+Referência:
+Brandão AA, Rodrigues CIS, Bortolotto LA, Armstrong AC, Mulinari RA, Feitosa
+ADM, et al. Diretriz Brasileira de Hipertensão Arterial - 2025. Arq Bras Cardiol.
+2025;122(9):e20250624.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 48 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cardiologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+FMIT
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Reconhecer os critérios diagnósticos da hipertensão
+arterial sistêmica (HAS), incluindo classificação de
+risco cardiovascular.
+[Tema]
+Hipertensão arterial sistêmica
+21ª QUESTÃO
+
+Código da questão:
+
+141615
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIREDENTOR) Paciente de 58 anos, sexo feminino, apresenta fadiga, ganho de
+peso de 6 kg nos últimos 4 meses e constipação intestinal. Ao exame físico,
+apresenta pele seca, bradicardia e reflexos lentificados. Considerando o impacto
+clínico do hipotireoidismo, qual das condutas abaixo é a mais adequada para
+prevenir complicações graves associadas à condição?
+Alternativas:
+(alternativa A) (CORRETA)
+Solicitar TSH e T4 livre, avaliar função cardíaca antes de iniciar reposição com
+levotiroxina.
+(alternativa B)
+Solicitar dosagem de TSH e T4 livre, iniciar reposição empírica com levotiroxina
+imediatamente.
+(alternativa C)
+Observar evolução clínica por 6 meses antes de intervir, pois é uma condição
+autolimitada.
+(alternativa D)
+Iniciar reposição com liotironina, pois tem início de ação mais rápido.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 49 de 72
+
+Resposta comentada:
+Apesar de o quadro ser típico de hipotireoidismo, a reposição empírica imediata sem
+dosagem laboratorial é inadequada. Além disso, não considerar a função cardíaca,
+especialmente em pacientes mais velhos, pode precipitar angina ou arritmias, pois o
+aumento do metabolismo eleva a demanda cardíaca. Incorreta.
+A confirmação diagnóstica com TSH e T4 livre é essencial. Além disso, avaliar risco
+cardiovascular é crítico, pois o hipotireoidismo prolongado pode mascarar doença
+coronariana. A reposição deve ser feita com cautela, iniciando com doses baixas em
+pacientes com risco cardíaco. Correta.
+A liotironina (T3) tem ação rápida, mas não é recomendada de rotina para
+hipotireoidismo primário, por risco de maior impacto cardiovascular e dificuldade de
+ajuste fino. Incorreta.
+Hipotireoidismo não é autolimitado na grande maioria dos casos; negligenciar o
+tratamento pode levar a complicações como mixedema, dislipidemia e doença
+cardiovascular. Incorreta.
+Referências:
+JAMESON, J. Larry; MANDEL, Stanley J.; WEETMAN, Anthony P. Disorders of the
+thyroid gland. In: JAMESON, J. Larry; FAUCI, Anthony S.; KASPER, Dennis L.; HAUSER,
+Stephen L.; LONGO, Dan L.; LOSCALZO, Joseph. Harrison’s principles of internal
+medicine. 21. ed. New York: McGraw-Hill Education, 2022. Cap. 405.
+JONKLAAS, Jacqueline. Hypothyroidism. In: GOLDMAN, Lee; SCHAFER, Andrew I.
+Goldman-Cecil medicine. 27. ed. Philadelphia: Elsevier, 2024. Cap. 219.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 50 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIREDENTOR
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Analisar o impacto clínico de disfunções tireoidianas
+e hipofisárias, promovendo o cuidado integral em
+casos de hipotireoidismo, hipertireoidismo,
+prolactinoma e insuficiência hipofisária.
+[Tema]
+Doenças da hipófise e da tireoide - Rastreamento de
+nódulos tireoidianos
+22ª QUESTÃO
+
+Código da questão:
+
+141845
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FIP Guanambi) Paciente masculino, 34 anos, previamente hígido, encontra-se
+internado na enfermaria da Clínica Médica com quadro de febre há 7 dias, calafrios e
+sudorese noturna. Ao exame físico: temperatura 38,5 °C, PA 120×70 mmHg, sopro
+sistólico novo em foco mitral, presença de petéquias palpebrais, lesões de Janeway
+em plantas dos pés e nódulos de Osler em polpas digitais. Não há sinais de
+insuficiência cardíaca.
+Exames laboratoriais revelam:
+Leucocitose com desvio à esquerda.
+Hemoculturas: 3 amostras positivas para Staphylococcus aureus.
+Ecocardiograma transesofágico: vegetação em válvula mitral.
+Com base nos critérios de Duke modificados, qual das alternativas abaixo é correta
+em relação à situação diagnóstica?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 51 de 72
+
+Alternativas:
+(alternativa A) (CORRETA)
+O caso preenche dois critérios maiores e três critérios menores, configurando
+endocardite infecciosa definitiva.
+(alternativa B)
+Trata-se de um caso de endocardite infecciosa possível, pois são necessários dois
+critérios maiores e um menor para confirmação.
+(alternativa C)
+A positividade de hemocultura não configura critério maior se o paciente for
+previamente hígido.
+(alternativa D)
+O paciente apresenta apenas um critério maior e deve aguardar novo
+ecocardiograma para confirmar o diagnóstico definitivo de endocardite infecciosa.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Segundo os critérios de Duke modificados, o diagnóstico de endocardite infecciosa
+definitiva pode ser feito por:
+2 critérios maiores, ou
+1 critério maior + 3 critérios menores, ou
+5 critérios menores.
+Neste caso:
+2 critérios maiores:
+Hemoculturas positivas para patógeno típico (S. aureus em 3 amostras)
+Ecocardiograma positivo (vegetação em válvula mitral)
+3 critérios menores:
+Febre > 38 °C.
+Lesões vasculares (lesões de Janeway, petéquias)
+Fenômenos imunológicos (nódulos de Osler)
+Portanto, o diagnóstico é de endocardite infecciosa definitiva, conforme critérios
+validados.
+Referência:
+TARASOUTCHI, F. et al. Atualização das Diretrizes Brasileiras de Valvopatias –
+2020. Arquivos Brasileiros de Cardiologia, v. 115, n. 4, p. 720–775, out. 2020.
+Feedback:
+-000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 52 de 72
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+[Subáreas de Conhecimento]
+Cardiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+FIP GUANAMBI
+[Habilidades]
+Aplicar os critérios de Duke modificados,
+estabelecendo o diagnóstico de endocardite
+infecciosa.
+[Tema]
+Doenças do Pericárdio, Miocardites e ENDOCARDITES
+
+23ª QUESTÃO
+Código da questão:
+
+114395
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(BANCO AFYA) Uma paciente de 60 anos com diabetes mellitus tipo 2 mal
+controlado tem HbA1c de 9,0%, apesar do uso de metformina e glipizida. Ela relata
+ganho de peso recente e preocupação com hipoglicemias. O índice de massa
+corporal (IMC) é de 33 kg/m². Não tem histórico de doença cardiovascular, mas tem
+hipertensão controlada.
+Qual é a intervenção terapêutica mais apropriada para melhorar o controle
+glicêmico e minimizar o ganho de peso?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 53 de 72
+
+Alternativas:
+(alternativa A) (CORRETA)
+Substituir glipizida por liraglutida.
+(alternativa B)
+Adicionar pioglitazona.
+(alternativa C)
+Adicionar insulina basal.
+(alternativa D)
+Manter o tratamento atual.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Alternativa correta: Substituir glipizida por liraglutida.
+Justificativas:
+Alternativa "Substituir glipizida por liraglutida" (correta): A liraglutida, um agonista
+do GLP-1, melhora o controle glicêmico e promove perda de peso, ideal para
+pacientes com obesidade e preocupações com hipoglicemia.
+Alternativa "Adicionar insulina basal" (incorreta): Insulina pode melhorar o controle,
+mas pode causar ganho de peso adicional.
+Alternativa "Adicionar pioglitazona" (incorreta): Pioglitazona está associada a ganho
+de peso e retenção de líquidos.
+Alternativa "Manter o tratamento atual" (incorreta): O tratamento atual não é eficaz
+para controlar a glicemia e o peso.
+Referências:
+MARTINS, Mílton de Arruda et al. (ed.). Clínica médica: doenças endócrinas e
+metabólicas. 2. ed. São Paulo: Manole, 2016.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 54 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Referências Básicas e Complementares]
+Comprrender e manejar complicações agudas do
+diabetes, aplicando conhecimentos clínicos, exames
+diagnósticos e intervenções terapêuticas.
+[Competências (Objetivos)]
+Diagnóstico e tratamento
+[Tema]
+Diabetes mellitus - Classificação, diagnóstico e
+tratamento
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+24ª QUESTÃO
+
+Código da questão:
+
+141953
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(ITPAC Porto Nacional) Segundo a Diretriz Brasileira de Diabetes de 2024, a
+hiperglicemia é um fator de risco contínuo para desfechos micro e macrovasculares.
+No momento do diagnóstico do diabetes tipo 2, 8% a 16% dos pacientes já
+apresentam retinopatia, 17% a 22% já têm microalbuminúria e 14% a 48% já têm
+algum grau de neuropatia periférica.
+Qual das seguintes condutas é a mais adequada para o monitoramento e manejo
+das complicações crônicas do diabetes?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 55 de 72
+
+Alternativas:
+(alternativa A)
+É recomendado iniciar o rastreamento da retinopatia diabética em todos os
+pacientes com diabetes tipo 1 no momento do diagnóstico e no tipo 2 ao completar
+3 anos de duração da doença.
+(alternativa B) (CORRETA)
+O rastreamento da Doença Renal Crônica deve ser feito no diagnóstico do diabetes
+tipo 2, por meio da determinação da taxa de filtração glomerular estimada,
+determinada pela creatinina sérica.
+(alternativa C)
+Em indivíduos com diabetes tipo 1 ou 2, é recomendado buscar a meta de HbA1c de
+7 - 8%, quando a taxa de filtração glomerular for maior que 60 ml/min/1,73 m²
+para diminuir a mortalidade.
+(alternativa D)
+Uma vez estabelecida, a neuropatia periférica é irreversível e o manejo da dor
+baseia-se no uso crônico de antidepressivo tricíclico (amitriptilina) juntamente a um
+opioide fraco (tramadol).
+
+Grau de dificuldade:
+
+Difícil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 56 de 72
+
+Resposta comentada:
+"É recomendado iniciar o rastreamento da retinopatia diabética em todos os
+pacientes com diabetes tipo 1 no momento do diagnóstico e no tipo 2 ao completar
+3 anos de duração da doença." Incorreta. É recomendado iniciar o rastreamento da
+retinopatia diabética em todos os adultos com DM1 ao completar cinco anos de
+duração do diabetes e, em pessoas com DM2, iniciar o rastreamento de retinopatia
+diabética no momento do diagnóstico.
+"O rastreamento da Doença Renal Crônica deve ser no diagnóstico do diabetes tipo
+2, por meio da determinação da taxa de filtração glomerular estimada, determinada
+pela creatinina sérica." Correta. É recomendado que o primeiro rastreamento da
+DRC seja feito com amostra de urina aleatória para determinação da Razão
+Albumina Creatinina (RAC) e determinação da taxa de filtração glomerular estimada
+(TFGe) determinada pela creatinina sérica, a partir da equação CKD-EPI. O
+rastreamento deve ser feito logo ao diagnóstico no DM2 e, aos 5 anos do
+diagnóstico de DM1, e repetido 1 a 4 vezes ao ano.
+"Em indivíduos com diabetes tipo 1 ou 2, é recomendado buscar a meta de HbA1c 7
+- 8%, quando a taxa de filtração glomerular for maior que 60 ml/min/1,73 m²
+para diminuir a mortalidade." Incorreta. Em indivíduos com DM1 ou DM2, é
+recomendado buscar a meta de HbA1c 6,5-7%, quando a TFGe for maior que 60
+ml/min/1,73 m² e a RAC maior que 30 mg/g, para reduzir a progressão da
+albuminúria e a progressão da doença renal a longo prazo, e manter a meta de
+HbA1c entre 7-7,9% em indivíduos com DM1 ou DM2, quando a TFGe for menor que
+60 ml/min/1,73 m² ou o paciente estiver em diálise, para diminuir mortalidade.
+"Uma vez estabelecida, a neuropatia periférica é irreversível e o manejo da dor
+baseia-se no uso crônico de antidepressivo tricíclico (amitriptilina) juntamente a um
+opioide fraco (tramadol)." Incorreta. Todos os pacientes com DM devem ser
+examinados para pesquisa da neuropatia periférica diabética no momento do
+diagnóstico de DM2 e cinco anos após o diagnóstico de DM1. Pacientes cujo
+rastreamento foi negativo devem ser reavaliados anualmente. No tratamento
+sintomático da dor neuropática, as drogas de primeira linha com eficácia
+estabelecida e bom equilíbrio entre risco-benefício são os antidepressivos tricíclicos
+(ADT) (imipramina, nortriptilina e amitriptilina); antidepressivos duais (ADD)
+(duloxetina e venlafaxina) e anticonvulsivantes (AC) (gabapentina). Em casos
+selecionados, e a curto prazo, pode ser utilizado um opioide fraco (tramadol) como
+terapia de resgate da dor severa.
+Referência:
+SOCIEDADE BRASILEIRA DE DIABETES. Diretriz Brasileira de Diabetes. Sessão
+Complicações Crônicas e Comorbidades. Brasil, 2024. Disponível em:
+https://diretriz.diabetes.org.br/. Acesso em: 07 out. 2025.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 57 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+ITPAC PORTO NACIONAL
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Definir condutas frente às complicações crônicas do
+diabetes, monitorando casos de retinopatia,
+nefropatia e neuropatia diabética.
+[Tema]
+Diabetes mellitus - Classificação, diagnóstico,
+tratamento e complicações
+25ª QUESTÃO
+
+Código da questão:
+
+141621
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIREDENTOR) Paciente masculino, 40 anos, HIV positivo, com contagem de CD4
+de 50 células/mm³, procura o pronto atendimento com cefaleia progressiva, febre
+baixa e visão turva há duas semanas. Ao exame físico, apresenta rigidez de nuca
+discreta. Qual é o exame mais adequado para confirmar o diagnóstico de
+criptococose meníngea?
+Alternativas:
+(alternativa A)
+Tomografia de crânio antes da punção lombar.
+(alternativa B)
+Cultura de sangue para fungos.
+(alternativa C) (CORRETA)
+Teste de látex para antígeno criptocócico no líquor.
+(alternativa D)
+Sorologia para toxoplasmose.
+
+Grau de dificuldade:
+
+Médio
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 58 de 72
+
+Resposta comentada:
+"Cultura de sangue para fungos." Incorreta — A cultura de sangue pode ser positiva
+na criptococose disseminada, mas não é o principal exame diagnóstico para
+confirmar a meningite criptocócica, que exige investigação do líquor.
+"Tomografia de crânio antes da punção lombar." Incorreta — A tomografia de crânio
+pode ser indicada antes da punção lombar em pacientes com sinais de hipertensão
+intracraniana ou déficit focal, mas não confirma o diagnóstico de criptococose.
+"Teste de látex para antígeno criptocócico no líquor." Correta — O teste de látex (ou
+imunocromatográfico) para detecção de antígeno criptocócico no líquor é altamente
+sensível e específico para o diagnóstico de meningite por Cryptococcus neoformans.
+É o método mais utilizado, complementado pela cultura do líquor e coloração com
+tinta nanquim.
+"Sorologia para toxoplasmose." Incorreta — A toxoplasmose é um importante
+diagnóstico diferencial de SNC em pacientes HIV positivos, mas não explica o
+quadro de meningite subaguda com antígeno criptocócico positivo.
+Referências:
+PERFECT, John R.; BICANIC, Tihana. Cryptococcosis. In: JAMESON, J. Larry; FAUCI,
+Anthony S.; KASPER, Dennis L.; HAUSER, Stephen L.; LONGO, Dan L.; LOSCALZO,
+Joseph. Harrison’s principles of internal medicine. 21. ed. New York: McGraw-Hill
+Education, 2022. Cap. 241.
+PERFECT, John R. Cryptococcosis. In: GOLDMAN, Lee; SCHAFER, Andrew I. GoldmanCecil medicine. 27. ed. Philadelphia: Elsevier, 2024. Cap. 306.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Infectologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIREDENTOR
+[Competências (Objetivos)]
+Interpretação de exames
+[Habilidades]
+Analisar exames laboratoriais e sorológicos para HIV
+e líquor na criptococose, interpretando resultados
+como ELISA, Western Blot, carga viral e contagem de
+CD4.
+[Tema]
+HIV e Criptococose
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 59 de 72
+
+26ª QUESTÃO
+Código da questão:
+
+141954
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(ITPAC Porto Nacional) Doenças eritematodescamativas são um grupo de condições
+de pele caracterizadas por vermelhidão e descamação. Várias doenças podem
+causar essas características e, dentre elas, podemos destacar a psoríase e a
+dermatite atópica.
+Qual das alternativas abaixo apresenta corretamente as diferenças morfológicas e
+de distribuição das lesões na psoríase e na dermatite atópica?
+Alternativas:
+(alternativa A)
+Psoríase manifesta-se com lesões eritematosas, pruriginosas, com escamas,
+distribuídas de forma assimétrica, principalmente nas palmas das mãos e plantas
+dos pés; dermatite atópica apresenta lesões bem delimitadas, pruriginosas, com
+escamas finas, localizadas na face e nas dobras.
+(alternativa B) (CORRETA)
+Psoríase apresenta lesões bem delimitadas, placas eritematosas, escamas
+prateadas, mais comum em couro cabeludo, cotovelos e joelhos; dermatite atópica
+manifesta-se com lesões eritematosas, edema, vesículas e crostas distribuídas no
+rosto, dobras cutâneas e mãos.
+(alternativa C)
+Psoríase apresenta lesões eritematosas com descamação fina, de distribuição
+simétrica no tronco e face; dermatite atópica manifesta-se por lesões eritematosas,
+pruriginosas, com descamação fina, distribuídas principalmente nas áreas de dobras
+e face.
+(alternativa D)
+Psoríase caracteriza-se por lesões difusas, maculopapulares, com distribuição
+predominantemente facial e truncal; dermatite atópica apresenta placas escamosas,
+bem delimitadas, geralmente no couro cabeludo, cotovelos e joelhos.
+
+Grau de dificuldade:
+
+Fácil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 60 de 72
+
+Resposta comentada:
+"Psoríase apresenta lesões bem delimitadas, placas eritematosas, escamas
+prateadas, mais comum em couro cabeludo, cotovelos e joelhos; dermatite atópica
+manifesta-se com lesões eritematosas, edema, vesículas e crostas distribuídas no
+rosto, dobras cutâneas e mãos." Correta. A psoríase apresenta placas bem
+delimitadas, de coloração eritematosa com escamas prateadas, frequentemente
+localizadas no couro cabeludo, cotovelos e joelhos. Já a dermatite atópica
+caracteriza-se por lesões eritematosas, pruriginosas, com edema, vesículas e
+crostas, com distribuição favorecida por áreas de dobras, face e mãos, refletindo
+sua preferência por regiões de dobras cutâneas.
+"Psoríase caracteriza-se por lesões difusas, maculopapulares, com distribuição
+predominantemente facial e truncal; dermatite atópica apresenta placas escamosas,
+bem delimitadas, geralmente no couro cabeludo, cotovelos e joelhos." Incorreta. A
+descrição não condiz com os padrões clássicos de distribuição: a psoríase não
+costuma ser difusa no rosto ou tronco de forma predominante; a dermatite atópica
+não apresenta geralmente placas escamosas bem delimitadas no couro cabeludo,
+cotovelos e joelhos, mas sim lesões pruriginosas em áreas de dobras e face.
+"Psoríase apresenta lesões eritematosas com descamação fina, de distribuição
+simétrica no tronco e face; dermatite atópica manifesta-se por lesões eritematosas,
+pruriginosas, com descamação fina, distribuídas principalmente nas áreas de dobras
+e face." Incorreta. As descrições não refletem as características típicas das doenças:
+a psoríase costuma ter escamas grossas e prurido moderado, com distribuição
+simétrica, e a dermatite atópica é mais comum em áreas de dobras e rosto, com
+prurido intenso, não apresentando descamação fina como padrão principal.
+"Psoríase manifesta-se com lesões eritematosas, pruriginosas, com escamas,
+distribuídas de forma assimétrica, principalmente nas palmas das mãos e plantas
+dos pés; dermatite atópica apresenta lesões bem delimitadas, pruriginosas, com
+escamas finas, localizadas na face e nas dobras." Incorreta. A psoríase raramente
+manifesta-se de forma assimétrica nas palmas e plantas, e geralmente apresenta
+escamas prateadas e descamação grosseira. A dermatite atópica não costuma ser
+limitada às palmas e plantas, mas sim às áreas de dobras e face, com lesões
+pruriginosas e bem delimitadas.
+Referências:
+CARVALHO, Marco Antonio P.; Lanna, Cristina Costa D.; Bertolo, Manoel B.
+Reumatologia: diagnóstico e tratamento. 5. ed., Grupo GEN, 2019.
+MARTINS, Mílton de Arruda et al. Clínica médica: doenças endócrinas e metabólicas,
+doenças osteometabólicas; doenças reumatológicas. 2. ed., Manole, 2016.
+
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 61 de 72
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+[Subáreas de Conhecimento]
+Reumatologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+ITPAC PORTO NACIONAL
+[Habilidades]
+Reconhecer os padrões clínicos típicos da psoríase e
+da dermatite atópica, diferenciando morfologia e
+distribuição das lesões.
+[Tema]
+Doenças Eritematodescamativas (PSORÍASE,
+DERMATITE ATÓPICA)
+27ª QUESTÃO
+
+Código da questão:
+
+141847
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FIP Guanambi) Paciente feminina, 72 anos, hipertensa, diabética e com obesidade
+grau I, procura o ambulatório de cardiologia com queixas de dispneia aos pequenos
+esforços, episódios de ortopneia e edema em membros inferiores. Nega dor
+torácica. Relata piora progressiva dos sintomas nos últimos 3 meses. Está em uso
+de hidroclorotiazida, losartana e metformina.
+Ao exame: PA 140×85 mmHg, FC 80 bpm, crepitações bibasais e edema +/4+ em
+MMII.
+BNP = 380 pg/mL.
+ECG: ritmo sinusal, sem alterações isquêmicas ou arritmias.
+Ecocardiograma: FEVE = 61%, hipertrofia ventricular esquerda, disfunção diastólica
+grau II, átrio esquerdo aumentado.
+Com base no quadro clínico e nos dados complementares, qual é a hipótese
+diagnóstica mais provável?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 62 de 72
+
+Alternativas:
+(alternativa A)
+Dispneia de origem pulmonar, já que a fração de ejeção está preservada e não há
+arritmias.
+(alternativa B) (CORRETA)
+Insuficiência cardíaca com fração de ejeção preservada, com base na tríade:
+sintomas típicos, FEVE normal, disfunção diastólica com átrio esquerdo aumentado.
+(alternativa C)
+Insuficiência cardíaca com fração de ejeção intermediária (FE entre 40–49%), pela
+associação entre sintomas e leve aumento de BNP.
+(alternativa D)
+Insuficiência cardíaca com fração de ejeção reduzida (ICFER), pois o BNP está acima
+de 300 e há sintomas compatíveis.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A ICFER é caracterizada por FEVE < 40%, associada a sintomas e sinais de IC.
+Apesar do BNP elevado e da clínica sugestiva, a FEVE da paciente está preservada
+(61%), o que exclui ICFER. BNP alto não é exclusivo da disfunção sistólica, podendo
+estar elevado na ICFEP.
+A presença de FEVE preservada não afasta IC, especialmente quando há disfunção
+diastólica, sobrecarga de câmaras cardíacas e BNP elevado. Além disso, não há
+dados que apontem para doença pulmonar primária.
+A faixa de fração de ejeção intermediária (ICFEi) não se aplica, pois a FEVE está >
+50%. O conceito de ICFEi é usado para FE entre 41 e 49%, devendo haver
+evidências estruturais ou funcionais de anormalidade cardíaca.
+O diagnóstico de ICFEP requer: Sintomas e/ou sinais típicos de IC; FEVE ≥ 50%;
+Evidência de disfunção diastólica e/ou sobrecarga estrutural (HVE, aumento do AE);
+BNP elevado.
+A paciente cumpre todos os critérios e apresenta perfil típico de risco (mulher,
+idosa, hipertensa, obesa e diabética).
+Referências:
+MARCONDES-BRAGA, F. G. et al. Atualização de tópicos emergentes da Diretriz
+Brasileira de Insuficiência Cardíaca – 2021. Arquivos Brasileiros de Cardiologia , São
+Paulo, v. 116, n. 6, p. 1174-1212, 2021. Disponível em: https://abccardiol.org.
+Acesso em: 8 ago. 2025.
+MCDONAGH, T. A. et al. 2021 ESC Guidelines for the diagnosis and treatment of
+acute and chronic heart failure. European Heart Journal , Oxford, v. 42, n. 36, p.
+3599–3726, 2021. DOI: https://doi.org/10.1093/eurheartj/ehab368.
+PONIKOWSKI, P. et al. 2016 ESC Guidelines for the diagnosis and treatment of acute
+and chronic heart failure. European Heart Journal , Oxford, v. 37, n. 27, p. 2129-2200,
+2016. DOI: https://doi.org/10.1093/eurheartj/ehw128.
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 63 de 72
+
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cardiologia
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+FIP GUANAMBI
+[Habilidades]
+Diferenciar insuficiência cardíaca com fração de
+ejeção preservada e reduzida, correlacionando com
+tratamento específico.
+[Tema]
+Insuficiência cardíaca
+28ª QUESTÃO
+
+Código da questão:
+
+141850
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FIP Guanambi) Homem, 59 anos, etilista crônico, com diagnóstico prévio de cirrose
+hepática, procura a emergência por sonolência progressiva, fala arrastada e
+aumento do volume abdominal nas últimas semanas. Nega febre ou vômitos. Exame
+físico: desorientado no tempo, flapping positivo, ascite volumosa, PA 92x58 mmHg,
+FC 96 bpm, afebril. Exames laboratoriais: Na⁺ 127 mEq/L, creatinina 1,7 mg/dL
+(basal 0,9), sódio urinário <10 mEq/L, líquido ascítico com 310 células/mm³ (75%
+neutrófilos), cultura pendente.
+Qual é o diagnóstico mais provável e a conduta inicial recomendada neste caso?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 64 de 72
+
+Alternativas:
+(alternativa A)
+Encefalopatia hepática grau III e síndrome hepatorrenal tipo I; iniciar lactulose e
+expandir volume com albumina.
+(alternativa B)
+Síndrome hepatorrenal tipo II e encefalopatia hepática; iniciar midodrina, octreotide
+e suspender beta-bloqueadores.
+(alternativa C) (CORRETA)
+Peritonite bacteriana espontânea com sinais de encefalopatia e hiponatremia
+dilucional; iniciar cefotaxima EV e albumina.
+(alternativa D)
+Ascite refratária com hiponatremia severa e risco de peritonite bacteriana; indicar
+paracentese total e diurético de alça.
+
+Grau de dificuldade:
+
+Fácil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 65 de 72
+
+Resposta comentada:
+O paciente apresenta sinais de encefalopatia hepática (sonolência, flapping), ascite
+volumosa e instabilidade hemodinâmica, com leucocitose no líquido ascítico (≥250
+neutrófilos/mm³), caracterizando peritonite bacteriana espontânea (PBE). A conduta
+correta é iniciar antibioticoterapia empírica com cefotaxima intravenosa e expansão
+volêmica com albumina para reduzir o risco de síndrome hepatorrenal. A presença
+de sódio urinário <10 mEq/L e creatinina elevada indicam risco de disfunção renal
+iminente, mas ainda sem critérios formais de SHR.
+Apesar de o paciente apresentar encefalopatia hepática, o diagnóstico primário é
+PBE. Além disso, o quadro de disfunção renal ainda não cumpre critérios para
+síndrome hepatorrenal tipo I (aguda e rapidamente progressiva), que exige
+creatinina >2,5 mg/dL e ausência de melhora após expansão volêmica.
+Ascite refratária exige diuréticos com cautela, mas a presença de PBE contraindica
+paracentese total imediata sem antibiótico e pode piorar a perfusão renal. Além
+disso, não há indicação de paracentese de alívio no momento, sem desconforto
+respiratório ou risco de ruptura.
+A síndrome hepatorrenal tipo II é mais insidiosa e não se encaixa no contexto clínico
+agudo apresentado. O uso de midodrina/octreotide só é indicado após exclusão de
+causas reversíveis, como infecção — o que não foi feito ainda. O uso de betabloqueadores não está citado, sendo essa intervenção irrelevante no momento.
+Referências:
+BRASIL. Associação Brasileira para o Estudo do Fígado (ABEF); Associação Brasileira
+de Transplante de Órgãos (ABTO). Diretrizes para o manejo das complicações da
+cirrose hepática. São Paulo: ABEF, 2020.
+FERREIRA, A. R.; COELHO, H. S. M. Complicações da cirrose hepática. In: LOPES, A.
+C.; BRASILEIRO, S. L. F. (org.). Tratado de clínica médica. 3. ed. São Paulo: Atheneu,
+2022. v. 2, cap. 195.
+RUNYON, B. A. Introduction to the revised American Association for the Study of
+Liver Diseases practice guidelines for the management of adult patients with ascites
+due to cirrhosis. Hepatology [S.l.], v. 57, n. 4, p. 1651-1653, 2013. DOI:
+10.1002/hep.26359.
+UPTODATE. Ascites in adults with cirrhosis: Diagnosis and management. 2024.
+Disponível em: https://www.uptodate.com. Acesso em: 27 jul. 2025.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 66 de 72
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+[Subáreas de Conhecimento]
+Gastroenterologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+FIP GUANAMBI
+[Habilidades]
+Reconhecer os sinais clínicos e complicações da
+cirrose hepática, incluindo ascite, encefalopatia, PBE
+e síndrome hepatorrenal.
+[Tema]
+Cirrose e complicações (PBE, Ascite, Encefalopatia
+hepática, Síndrome hepatorrenal)
+29ª QUESTÃO
+
+Código da questão:
+
+141959
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(ITPAC Porto Nacional) Paciente masculino, 58 anos, portador de insuficiência
+cardíaca com fração de ejeção reduzida (FEVE 25%), classe funcional III pela NYHA,
+apesar de tratamento otimizado com betabloqueador, inibidor da ECA, antagonista
+de mineralocorticoide, inibidor de SGLT2 e diurético de alça. Apresenta múltiplas
+internações por congestão refratária no último ano, sem melhora clínica. Exames
+demonstram pressão arterial sistólica de 92 mmHg, BNP persistentemente elevado
+e ausência de isquemia miocárdica reversível. Avaliação por equipe multiprofissional
+indica baixo pico de consumo de oxigênio (VO₂ máx. < 12 mL/kg/min) no teste
+cardiopulmonar.
+Considerando o caso clínico e as diretrizes atuais, qual a conduta mais adequada
+em relação à abordagem invasiva para este paciente com insuficiência cardíaca
+refratária?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 67 de 72
+
+Alternativas:
+(alternativa A)
+Indicar implante de terapia de ressincronização cardíaca, pois apresenta fração de
+ejeção reduzida e sintomas graves, independentemente do padrão e duração do
+QRS observável no eletrocardiograma, requisitos dispensáveis para indicação desta
+terapia.
+(alternativa B)
+Manter exclusivamente o tratamento clínico, pois o risco cirúrgico poderia ser
+elevado, embora o quadro clínico refratário e os critérios prognósticos demonstrem
+necessidade de abordagem invasiva conforme recomendações.
+(alternativa C) (CORRETA)
+Encaminhar o paciente para avaliação em centro especializado em transplante
+cardíaco, pois apresenta insuficiência cardíaca avançada, baixo VO₂ máx., múltiplas
+internações no último ano e ausência de contraindicações aparentes, atendendo aos
+critérios estabelecidos nas diretrizes.
+(alternativa D)
+Indicar implante de dispositivo de assistência ventricular esquerda como terapia
+definitiva, mesmo havendo critérios para transplante cardíaco e sem informação de
+contraindicações, conduta não priorizada pelas diretrizes vigentes.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 68 de 72
+
+Resposta comentada:
+"Encaminhar o paciente para avaliação em centro especializado em transplante
+cardíaco, pois apresenta insuficiência cardíaca avançada, baixo VO₂ máx., múltiplas
+internações no último ano e ausência de contraindicações aparentes, atendendo aos
+critérios estabelecidos nas diretrizes." Correta. O paciente apresenta insuficiência
+cardíaca avançada, refratária ao tratamento otimizado, com VO₂ máx. < 12
+mL/kg/min, múltiplas internações e ausência de contraindicações aparentes. Esses
+elementos configuram forte indicação para encaminhamento à avaliação em centro
+de transplante cardíaco, conforme critérios da SBC e ACC/AHA.
+"Indicar implante de terapia de ressincronização cardíaca, pois apresenta fração de
+ejeção reduzida e sintomas graves, mesmo sem informação sobre ritmo e duração
+do QRS, requisitos indispensáveis segundo as diretrizes atuais." Incorreta. A terapia
+de ressincronização cardíaca exige critérios específicos: QRS ≥ 130 ms, padrão de
+bloqueio de ramo esquerdo e ritmo sinusal. O caso não informa duração do QRS,
+logo não é possível assumir indicação.
+"Manter exclusivamente o tratamento clínico, pois o risco cirúrgico poderia ser
+elevado, embora o quadro clínico refratário e os critérios prognósticos demonstrem
+necessidade de abordagem invasiva conforme recomendações." Incorreta. Manter
+tratamento clínico exclusivo não é conduta adequada, pois o paciente já está em
+estágio refratário, com alto risco de mortalidade. As diretrizes indicam considerar
+terapias avançadas nestas condições.
+"Indicar implante de dispositivo de assistência ventricular esquerda como terapia
+definitiva, mesmo havendo critérios para transplante cardíaco e sem informação de
+contraindicações, conduta não priorizada pelas diretrizes vigentes." Incorreta. O
+dispositivo de assistência ventricular esquerda pode ser usado como ponte para
+transplante ou terapia de destino em não candidatos, mas o paciente tem critérios
+claros para transplante e não apresenta contraindicação relatada, tornando esta
+opção inadequada como primeira escolha.
+Referência:
+SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Diretriz Brasileira de Insuficiência
+Cardíaca Crônica e Aguda. Arquivos Brasileiros de Cardiologia, São Paulo, v. 111, n.
+3, p. 436-539, 2018. DOI: https://doi.org/10.5935/abc.20180190.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 69 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cardiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+ITPAC PORTO NACIONAL
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Definir a necessidade de abordagem invasiva em
+pacientes com insuficiência cardíaca refratária,
+transplante ou ressincronizador, considerando
+critérios clínicos, prognósticos e resposta ao
+tratamento convencional.
+[Tema]
+Insuficiência cardíaca
+30ª QUESTÃO
+
+Código da questão:
+
+110840
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Um paciente de 40 anos é encaminhado ao endocrinologista devido a
+queixas de poliúria e polidipsia. Relata acordar várias vezes durante a noite para
+urinar e ter necessidade de beber grandes quantidades de água ao longo do dia. Ao
+realizar uma investigação inicial, é observada uma densidade urinária
+extremamente baixa (< 1,005) e uma osmolaridade plasmática elevada (> 300
+mOsm/kg). O teste de privação de água é realizado, e o paciente continua a
+excretar grandes volumes de urina diluída, mesmo após a privação de água.
+Com base no caso clínico apresentado, qual é o diagnóstico mais provável?
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 70 de 72
+
+Alternativas:
+(alternativa A)
+Síndrome de secreção inadequada de hormônio antidiurético (SIADH).
+(alternativa B)
+Diabetes insipidus nefrogênico.
+(alternativa C) (CORRETA)
+Diabetes insipidus central.
+(alternativa D)
+Poliúria primária.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O diabetes insipidus central é caracterizado por uma deficiência na produção ou
+liberação do hormônio antidiurético (ADH) pela neuro-hipófise. Isso leva à excreção
+excessiva de urina diluída (poliúria) e à necessidade de ingestão de grandes
+volumes de líquidos (polidipsia). No teste de privação de água, os pacientes com
+diabetes insipidus central continuarão a produzir grandes volumes de urina diluída,
+mesmo após a restrição de ingestão de líquidos, devido à falta de resposta do
+organismo à vasopressina.
+Referência:
+VILAR, L. Endocrinologia clínica. 7. ed. Rio de Janeiro: Guanabara Koogan, 2022.
+Feedback:
+--
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 71 de 72
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Tema]
+Doenças da hipófise e da tireoide - Rastreio de
+nódulos tireoidianos
+[Competências (Objetivos)]
+Diagnóstico
+[Habilidades]
+Definir diagnóstico de diabetes insipidus central.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+
+000174.520014.abc8af.f7e6c1.a9f2d4.15e1d4.1a6cb0.019e4
+
+Página 72 de 72
+
+

@@ -1,0 +1,294 @@
+DEVOLUTIVA DOS RECURSOS
+INTEGRADORA 2024.2
+Aluno(a),
+A etapa de recursos da Integradora visa assegurar a isonomia e a qualidade das
+avaliações aplicadas. Assim, encorajamos todos os alunos a utilizarem esse mecanismo
+de forma responsável e construtiva.
+Após a interposição dos recursos, a Comissão Local de sua IES revisa as solicitações
+de forma imparcial e objetiva, definindo quais recursos seguirão para a segunda etapa,
+que é a análise feita pela Comissão Nacional de professores especialistas das unidades
+Afya.
+Na etapa inicial, são deferidos ou indeferidos os recursos, com base nas normas
+previamente compartilhadas. Sendo elas:
+•
+•
+•
+•
+•
+
+O recurso interposto deve conter argumentação lógica e consistente sobre o
+gabarito da questão.
+O recurso com dados incompletos e sem justificativa consistente e
+fundamentada será automaticamente indeferido.
+O recurso deve ser de autoria própria. Recursos que apresentem redação e/ou
+trechos iguais aos de outros alunos serão automaticamente indeferidos.
+Recursos que apresentem cópia do enunciado da questão ou das alternativas
+serão automaticamente indeferidos.
+As referências que embasaram o recurso devem estar obrigatoriamente
+conforme normas ABNT/Vancouver.
+
+Para aqueles recursos interpostos dentro das normas acima estabelecidas, estes foram
+analisados, e o parecer final foi registrado neste caderno de recursos.
+Importante: A divulgação do caderno de recursos finaliza a etapa de contestação, não
+sendo possível a reabertura de novos recursos.
+
+Diretoria de Ensino
+
+PARECER
+QUESTÃO 26: CADERNO 01
+QUESTÃO 12: CADERNO 02
+QUESTÃO 30: CADERNO 03
+QUESTÃO 1: CADERNO 04
+EIXO: INTEGRADORA 1° PERÍODO
+PARECER: ALTERAÇÃO DE GABARITO
+EMBASAMENTO TEÓRICO:
+Inconsistência Conceitual Entre Imunidade Ativa e Passiva: A Figura 2, que
+representa o cavalo recebendo o antígeno inativado, descreve um processo que
+caracteriza imunidade ativa no animal. O cavalo é exposto ao antígeno inativo, seu
+sistema imunológico é ativado, e ele produz anticorpos específicos. A imunidade
+ativa é definida como: "O processo em que o próprio sistema imunológico é
+estimulado a produzir anticorpos ou células efetoras, seja por infecção natural ou
+vacinação." (Abbas et al., Imunologia Celular e Molecular). No entanto, o
+enunciado e a questão pedem que o aluno analise o conceito de imunidade
+passiva, que se refere à transferência dos anticorpos prontos para o paciente
+receptor. Essa mistura de conceitos no enunciado compromete a clareza da
+questão. Falta de Clareza no Foco do Enunciado: A descrição do cavalo recebendo
+o antígeno inativado é um detalhe desnecessário e pode desviar o aluno do foco
+principal da questão: o processo de imunidade no paciente que recebe o soro. Se
+o objetivo era avaliar a imunidade passiva, o enunciado deveria se concentrar
+apenas no paciente que recebe o soro hiperimune e eliminar informações sobre a
+imunização do cavalo, que é um exemplo de imunidade ativa. Confusão Gerada
+pela Figura: A inclusão da Figura 2 gera uma interpretação ambígua, pois o aluno
+pode inferir que a questão está avaliando o processo no cavalo (imunidade ativa),
+e não no paciente que recebe o soro (imunidade passiva). Segundo Tortora &
+Derrickson: "A imunidade passiva ocorre quando anticorpos prontos são
+transferidos para um organismo, fornecendo proteção imediata, sem ativação do
+sistema imunológico do receptor." No caso do cavalo, sua imunidade é ativa, pois
+ele próprio produz os anticorpos após a administração do antígeno inativado.
+Solicitação de Revisão ou Anulação: Anulação da Questão: Recomenda-se a
+anulação da questão, pois a figura e o enunciado misturam processos distintos de
+imunidade (ativa no cavalo e passiva no receptor), o que compromete a
+interpretação correta pelo aluno. Reformulação da Questão: Caso a questão seja
+reformulada, sugere-se que a descrição do processo no cavalo seja removida e o
+foco seja mantido no receptor humano e na imunidade passiva conferida pelo soro.
+JUSTIFICATIVA COMISSÃO NACIONAL:
+De fato, a imagem dois configura uma imunidade do tipo ativa, envolve a inoculação
+de antígenos que resultam na produção de anticorpos pelo organismo (no caso, o
+cavalo). Dessa forma, optamos pela troca de gabarito, e assim, a resposta correta
+será "representam a imunidade ativa."
+
+REFERÊNCIA:
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Celular e Molecular.
+10th ed. Rio de Janeiro: GEN Guanabara Koogan, 2023. E-book. p.1. ISBN
+9788595158924.Disponívelem:https://integrada.minhabiblioteca.com.br/reader/books/978
+8595158924/. Acesso em: 01 dez. 2024.
+
+QUESTÃO 2: CADERNO 01
+QUESTÃO 11: CADERNO 02
+QUESTÃO 10: CADERNO 03
+QUESTÃO 4: CADERNO 04
+EIXO: INTEGRADORA 1° PERÍODO
+PARECER: ANULAÇÃO DA QUESTÃO
+EMBASAMENTO TEÓRICO:
+A questão analisa a função das fibras cardíacas que o marcapasso artificial
+substitui em um paciente com bloqueio atrioventricular completo. Embora a
+alternativa D ("Fibras autoexcitáveis") seja apontada como correta no gabarito, a
+formulação da questão e a descrição das alternativas apresentam ambiguidade
+significativa, comprometendo a clareza do raciocínio clínico. Fundamentação do
+Recurso Imprecisão no Papel das Fibras Autoexcitáveis no Contexto Clínico: O
+bloqueio atrioventricular completo é caracterizado pela falha na condução do
+impulso elétrico entre os átrios e os ventrículos, impedindo a sincronização
+adequada do coração. Segundo Guyton e Hall, nessa condição: "Embora o nodo
+sinoatrial continue a gerar potenciais de ação normalmente, o bloqueio no nodo
+atrioventricular impede a propagação do estímulo, exigindo a atuação de
+marcapassos artificiais para conduzir o impulso aos ventrículos e restaurar a
+sincronia cardíaca." Assim, o foco da questão deveria estar tanto na geração
+quanto na condução do estímulo elétrico, sendo que as fibras de Purkinje
+(mencionadas na alternativa B) têm papel crítico nesse processo. Ignorar essa
+função fundamental torna a escolha da alternativa D incompleta para o caso
+descrito. Falta de Especificidade na Alternativa D: A alternativa D ("Fibras
+autoexcitáveis: geram espontaneamente potenciais de ação, controlando a
+frequência cardíaca") está correta no sentido amplo, mas não reflete de forma
+precisa o problema descrito no enunciado, que é um bloqueio na condução
+atrioventricular completa. Nesse contexto, a falha descrita no caso clínico também
+envolve as fibras de Purkinje, responsáveis por conduzir o potencial de ação aos
+ventrículos. A alternativa B ("Fibras de Purkinje: conduzem rapidamente os
+potenciais de ação pelo coração, coordenando a contração das câmaras
+cardíacas") é igualmente correta e mais específica no contexto clínico.
+Ambiguidade Gerada pelas Alternativas: A questão apresenta um cenário de
+bloqueio completo, mas não esclarece explicitamente se o foco está na geração
+dos potenciais de ação (fibras autoexcitáveis) ou na condução dos estímulos (fibras
+de Purkinje). Essa indefinição permite interpretações distintas, prejudicando a
+objetividade da resposta. Além disso, a alternativa D não considera o papel
+essencial das fibras de Purkinje na condução ventricular, o que pode ser
+interpretado como um erro de omissão. Referências Clínicas e Teóricas: A
+
+fisiologia cardíaca, conforme descrita por Tortora & Derrickson, ressalta que: "Em
+bloqueios atrioventriculares completos, o sistema de condução (incluindo fibras de
+Purkinje) não consegue transmitir estímulos dos átrios aos ventrículos. Um
+marcapasso artificial substitui essa função para restaurar a coordenação entre as
+câmaras cardíacas." Dessa forma, a alternativa D não reflete completamente o
+cenário clínico apresentado, o que compromete sua exclusividade como resposta
+correta.
+JUSTIFICATIVA COMISSÃO NACIONAL:
+A argumentação do aluno é consistente e fundamentada em referências científicas. A
+questão, ao não especificar claramente a função das fibras autoexcitáveis versus as fibras
+de Purkinje, pode ser considerada ambígua, e a ausência de uma alternativa específica
+sobre as fibras. Embora a alternativa A (fibras autoexcitáveis) esteja tecnicamente correta
+em um contexto geral, ela não aborda completamente a problemática do bloqueio
+atrioventricular completo, que envolve a falha na condução do impulso para os ventrículos.
+O marcapasso substitui tanto a função geradora do impulso quanto a de condução, sendo
+que as fibras de Purkinje têm um papel mais direto na condução dos impulsos, como
+mencionado pelo aluno. A falta das fibras de Purkinje entre as alternativas é uma omissão
+relevante.
+Recomendação: Anular a questã, levando em consideração a necessidade de maior
+precisão nas alternativas, especialmente em relação ao papel das fibras de Purkinje na
+condução do estímulo no contexto de um bloqueio atrioventricular completo.
+
+REFERÊNCIA:
+Guyton e Hall, Tratado de Fisiologia Médica, 14ª edição.
+Tortora & Derrickson, Princípios de Anatomia e Fisiologia, 15ª edição.
+
+QUESTÃO 39: CADERNO 01
+QUESTÃO 38: CADERNO 02
+QUESTÃO 23: CADERNO 03
+QUESTÃO 3: CADERNO 04
+EIXO: INTEGRADORA 1° PERÍODO
+PARECER: ALTERAÇÃO DE GABARITO
+EMBASAMENTO TEÓRICO:
+Gostaria de solicitar a anulação da questão referente à história da saúde pública
+no Brasil, pois a afirmativa III apresenta um erro conceitual. A afirmativa menciona
+que a descentralização do sistema de saúde seria “um desafio a ser superado” na
+Nova República, o que contraria os marcos legais e conceituais do Sistema Único
+de Saúde (SUS). A descentralização é, na verdade, um dos princípios
+fundamentais do SUS, conforme estabelecido pela Constituição Federal de 1988,
+que, em seu artigo 198, determina que as ações e serviços públicos de saúde
+sejam organizados com base na descentralização, no atendimento integral e na
+participação da comunidade. Além disso, a Lei nº 8.080/1990, que regulamenta o
+SUS, reforça que a gestão descentralizada é uma diretriz essencial, atribuindo
+competências específicas às esferas federal, estadual e municipal, com o objetivo
+de aproximar a gestão das realidades locais e promover maior eficiência e
+equidade. A afirmativa III, ao sugerir que a descentralização seria um obstáculo,
+revela um equívoco conceitual grave, uma vez que este modelo de gestão é
+consolidado e defendido como avanço desde a criação do SUS. Essa perspectiva
+está detalhada no livro “O que é o SUS”, da Fiocruz, que destaca como a
+descentralização foi fundamental para ampliar a eficiência do sistema e promover
+a autonomia dos estados e municípios. Portanto, a afirmativa III é incorreta,
+comprometendo a validade da questão, que deve ser anulada, visto que exige que
+todas as afirmativas estejam corretas.
+JUSTIFICATIVA COMISSÃO NACIONAL:
+Prezados, de antemão, gostaríamos de agradecer a colaboração na construção do
+Aprendizado. Após análise pela comissão nacional, sugere-se troca de gabarito devido
+erro no momento de seleção da alternativa correta. Considerar como alternativa correta:
+Com base no diálogo dos médicos é correto o que se afirma em: I e II.
+
+REFERÊNCIA:
+BASTOS G.A.N. et al. Abordagem comunitária: inserção comunitária. In: GUSSO,
+Gustavo;LOPES, José Mauro Ceratti (Org.). Tratado de medicina de família e comunidade:
+princípios, formação e prática. Porto Alegre: Artmed, 2 ed. 2019. Cap. 41.
+
+QUESTÃO 37: CADERNO 01
+QUESTÃO 37: CADERNO 02
+QUESTÃO 3: CADERNO 03
+QUESTÃO 33: CADERNO 04
+EIXO: INTEGRADORA 1° PERÍODO
+PARECER: ALTERAÇÃO DE GABARITO
+EMBASAMENTO TEÓRICO:
+Venho por meio deste solicitar a revisão da correção da **Questão 33** do caderno
+4, especificamente em relação à **alternativa b**, que foi considerada correta, mas
+apresenta erro.Baseando-me nas referências bibliográficas do Plano de Ensino e
+nas Diretrizes Atualizadas, apresento os seguintes pontos para reavaliação: A
+questão aborda o som da parte do tórax, sendo a resposta correta o estômago,
+porém, o órgão não se localiza na parte do tórax como se comprovado do livro
+PORTO. “O estômago é uma dilatação sacular do tubo digestório, interposta entre
+o esôfago e o duodeno, situada na *cavidade abdominal*, abaixo do
+diafragma.”(PORTO, Celmo Celeno. Semiologia médica 8ª edição. Rio de Janeiro
+- RJ: Guanabara Koogan 2019, p.569) Dessa forma, solicito que a **questão 33**
+seja considerada **errada e anulada**, em conformidade com as referências
+anatômicas descritas nos planos de ensino.
+JUSTIFICATIVA COMISSÃO NACIONAL:
+O timpânico obtido durante a percussão do tórax é geralmente associado à
+presença de ar em uma estrutura subjacente. Em um paciente adulto, a área onde
+se pode ouvir som timpânico na percussão torácica é mais comumente relacionada
+a:
+A: Pulmão ventilado ou, especificamente, a presença de ar em uma cavidade ou
+espaço,
+como
+uma
+bolha
+de
+ar
+ou
+emfisema
+subcutâneo.
+No entanto, um exemplo clássico é a presença de ar no espaço pleural, o que pode
+ocorrer em casos como pneumotórax. O som timpânico refere-se a um som alto e
+ressoante,típicodapresençadear.
+Assim, a estrutura mais provável correspondente à área timpânica percutida no
+tórax é o pulmão com ar (se o paciente não apresenta doença evidente e o som
+timpânico é encontrado). É importante observar a localização específica do som
+timpânico, pois ao longo do tórax, áreas de som timpânico podem indicar
+anormalidades patológicas ou variações normais, dependendo de fatores como a
+posição
+do
+paciente
+e
+a
+presença
+de
+doenças
+pulmonares.
+Portanto, ao considerar um paciente saudável, um pulmão ventilado saudável é a
+estrutura mais frequentemente associada ao som timpânico em um exame físico.
+
+REFERÊNCIA:
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico, 8ª edição . Rio de Janeiro:
+Guanabara Koogan, 2017. E-book. pág.1. ISBN 9788527731034. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527731034/. Acesso em: 06
+dez. 2024.
+
+QUESTÃO 21: CADERNO 01
+QUESTÃO 2: CADERNO 02
+QUESTÃO 18: CADERNO 03
+QUESTÃO 17: CADERNO 04
+EIXO: INTEGRADORA 1° PERÍODO
+PARECER: ANULAÇÃO DA QUESTÃO
+EMBASAMENTO TEÓRICO:
+Solicitação de Anulação da Questão sobre Basófilos Prezados (as), Venho, por
+meio deste, solicitar a anulação da questão nº 21 do caderno 1, que aborda urticária
+e prurido intenso relacionados à liberação de histamina. A solicitação baseia-se em
+inconsistências conceituais e na ambiguidade da formulação da questão. A
+questão apresenta um erro conceitual ao sugerir que os basófilos são as células
+mais diretamente associadas aos sintomas descritos (urticária e prurido),
+desconsiderando que, segundo a obra Imunologia Básica e Clínica, de Abbas,
+Lichtman e Pillai (6ª edição, 2022), os mastócitos são os principais efetores nas
+reações alérgicas localizadas no tecido. Esses sintomas são causados pela
+liberação de histamina a partir da degranulação dos mastócitos, sendo eles os
+responsáveis primários pelas manifestações clínicas, como urticária. Embora os
+basófilos também contenham histamina, sua atuação ocorre predominantemente
+na circulação sanguínea e é considerada secundária em comparação aos
+mastócitos. A questão não especifica a localização das células, o que compromete
+a clareza conceitual, já que o quadro descrito está relacionado diretamente aos
+mastócitos presentes nos tecidos e não aos basófilos na circulação. Além disso, a
+ausência dos mastócitos entre as alternativas disponíveis torna impossível uma
+resposta plenamente correta, induzindo os estudantes ao erro. A falta de precisão
+na formulação da questão compromete sua validade científica e prejudica a
+equidade da avaliação. Diante do exposto, solicito, respeitosamente, a anulação
+da questão, a fim de garantir uma avaliação justa e tecnicamente embasada.
+JUSTIFICATIVA COMISSÃO NACIONAL:
+O aluno argumenta que a questão não especifica a localização das células
+(circulação versus tecidos), o que pode gerar confusão. Realmente, a descrição do
+caso refere-se a uma reação localizada na pele (urticária), o que implica que os
+mastócitos no tecido dérmico desempenham um papel mais relevante que os
+basófilos, que estão principalmente na circulação. A descrição do caso está mais
+alinhada com a função dos mastócitos nos tecidos, e a formulação das alternativas
+não permite uma resposta correta, o que compromete a clareza e a validade da
+questão. O recurso pode ser aceito, sugerindo que a questão seja anulada.
+
+REFERÊNCIA:
+ABBAS, A. K.; LICHTMAN, A. H.; PILLAI, S. Imunologia Básica e Clínica. 6ª ed.
+RiodeJaneiro:Elsevier,2022.
+PARHAM, P. Imunologia: Conceitos Essenciais. 2ª ed. Porto Alegre: Artmed,
+2019.
+
+

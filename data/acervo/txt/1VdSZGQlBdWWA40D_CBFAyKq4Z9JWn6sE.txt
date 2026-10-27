@@ -1,0 +1,3368 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integradora 7º Período
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 28/11/2025
+
+INTEGRADORA - MEDICINA - 7º PERÍODO - 2025.2 - 1ª CHAMADA - 28/NOVEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 18024 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA ITABUNA) Um homem de 38 anos, portador de SIDA (ou AIDS) em estágio
+avançado (CD4 < 100 cél/mm³), procura a UBS relatando diarreia com sangue vivo, muco
+e tenesmo há 5 dias, associada a perda ponderal e febre intermitente. Nega uso regular
+da TARV. Ao exame: PA 110x70 mmHg, FC 98 bpm, palidez +/4+, abdome doloroso à
+palpação em hipogástrio, sem sinais de peritonite. O toque retal revela presença de
+sangue vermelho vivo e muco. Considerando o quadro e as possibilidades diagnósticas,
+qual das abordagens abaixo é a mais apropriada na UBS?
+Alternativas:
+(alternativa A)
+Reforçar hidratação oral e prescrever antidiarreicos, pois a maioria dos casos de HDB em
+pacientes com HIV é autolimitada e não requer investigação na atenção básica.
+(alternativa B)
+Iniciar empiricamente metronidazol e ciprofloxacina, colher exames laboratoriais básicos
+e encaminhar para colonoscopia eletiva visando descartar retocolite ulcerativa.
+(alternativa C)
+Encaminhar imediatamente para o pronto-socorro com suspeita de sangramento alto,
+uma vez que a diarreia com sangue vivo sugere HDA em imunossuprimido.
+(alternativa D) (CORRETA)
+Investigar etiologias infecciosas frequentes em imunossuprimidos, como Citomegalovírus,
+Shigella, Entamoeba histolytica e Cryptosporidium, iniciando coleta de parasitológico de
+fezes e pesquisa de leucócitos fecais, além de orientar reintrodução urgente da TARV.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 1 de 69
+
+Resposta comentada:
+Em pacientes com SIDA avançada, a diarreia com sangue pode ter causas infecciosas
+graves, como: CMV colite (muito comum em CD4 < 100); Shigella, Salmonella,
+Campylobacter (bactérias invasivas); Entamoeba histolytica (protozoário com potencial
+invasivo e ulcerativo); e Cryptosporidium (em geral causa diarreia aquosa, mas pode
+coexistir com outras infecções).
+A atenção básica pode e deve iniciar investigação com: parasitológico de fezes com
+pesquisa de leucócitos, avaliação clínica e anamnese detalhada, início da reintrodução ou
+adesão à TARV, medida essencial para controle imunológico, e encaminhamento para
+serviços especializados, se necessário.
+Embora parte do tratamento possa envolver antibióticos, a presunção de retocolite
+ulcerativa (autoimune) sem descartar causas infecciosas oportunistas em paciente com
+SIDA é inadequada. HDA (Hemorragia Digestiva Alta) costuma se manifestar com melena
+ou vômito com sangue – não com sangue vivo nas fezes. Uso de antidiarreicos em
+diarreia infecciosa com sangue é contraindicado, pois pode agravar a retenção de toxinas
+ou prolongar a infecção.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Manejo da
+Infecção pelo HIV em Adultos – Módulo I: Tratamento. Brasília: Ministério da Saúde, 2024.
+Disponível em: https://www.gov.br/aids/pt-br/central-deconteudo/pcdts/pcdt_hiv_modulo_1_2024.pdf. Acesso em: 16 nov. 2025.
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção
+Integral às Pessoas com Infecções Sexualmente Transmissíveis (IST). Brasília: Ministério
+da Saúde, 2024 (publicado em 06/02/2024). Disponível em: https://www.gov.br/saude/ptbr/assuntos/brasil-saudavel/transmissao-vertical. Acesso em: 16 nov. 2025.
+
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Um menino de 7 anos é levado ao pronto-socorro com história de astenia,
+taquidispneia, cansaço aos pequenos esforços e surgimento de edema discreto de
+membros inferiores. A mãe refere que há 10 dias apresentou quadro de febre, diarreia e
+vômitos. Nas últimas horas, evoluiu com piora da hipoatividade e surgimento de esforço
+respiratório. Ao exame físico observava-se:
+FC 168 bpm, FR 40 irpm, SpO₂ 92% em ar ambiente.
+PA 78/42 mmHg
+Perfusão: tempo de enchimento capilar 5s, extremidades frias, pulsos periféricos
+fracos.
+Turgência jugular, hepatomegalia 4 cm.
+Ausculta pulmonar com estertores subcreptantes em ambas as bases.
+Diurese < 0,5 mL/kg/h nas últimas 4 horas
+Iniciado oxigênio a 100% sob máscara com reservatório e administrados 10 mL/kg de
+cristaloide isotônico sem melhora hemodinâmica.
+Qual é a conduta imediata mais adequada?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 2 de 69
+
+Alternativas:
+(alternativa A)
+Repetir bolus de 20 mL/kg de cristaloide, seguido de, em 20 minutos, iniciar dopamina
+em infusão contínua.
+(alternativa B) (CORRETA)
+Iniciar epinefrina em infusão contínua em baixa dose, após ressuscitação volêmica
+cautelosa, considerando suporte inotrópico precoce.
+(alternativa C)
+Iniciar norepinefrina em acesso periférico como droga de primeira escolha para restaurar
+perfusão sistêmica.
+(alternativa D)
+Proceder à intubação orotraqueal imediata com propofol em bolus.
+
+Resposta comentada:
+Repetir 20 mL/kg de cristaloide + dopamina – Incorreta
+No choque cardiogênico, a reposição volêmica deve ser cautelosa (5–10 mL/kg, lenta e
+com reavaliação), pois volumes excessivos pioram a congestão pulmonar e a função
+ventricular. A dopamina não é recomendada como primeira linha em choque
+cardiogênico pediátrico; estudos mostram maior taxa de efeitos adversos e menor
+eficácia comparada à epinefrina.
+Norepinefrina como primeira escolha – Incorreta
+A norepinefrina é preferida no choque distributivo séptico (vasodilatado), pois aumenta a
+resistência vascular sistêmica. No choque cardiogênico, a prioridade é melhorar a
+contratilidade e o débito cardíaco com inotrópico (epinefrina/milrinona/dobutamina), e
+não apenas elevar a pós-carga.
+Epinefrina em baixa dose + volume cauteloso – Correta
+A epinefrina é a droga de escolha no choque cardiogênico pediátrico, pois oferece efeito
+inotrópico e cronotrópico com suporte vasopressor leve. Deve ser usada em baixa dose
+contínua, ajustada conforme resposta. O manejo volêmico deve ser restrito (bolus de 5–
+10 mL/kg), monitorando sinais de congestão.
+Intubação imediata com propofol em bolus – Incorreta e arriscada.
+Proceder à intubação sem estabilização hemodinâmica pode levar a colapso circulatório.
+Além disso, o propofol é contraindicado em choque e disfunção miocárdica, por causar
+vasodilatação e depressão miocárdica significativas. Se a via aérea for necessária,
+devem-se usar drogas hemodinamicamente estáveis (ex.: etomidato, ketamina com
+cautela) após otimização cardiovascular.
+Referência:
+American Heart Association. Pediatric Advanced Life Support (PALS) Guidelines, 2020 –
+Part 4: Pediatric Basic and Advanced Life Support.
+(Seção de choque e parada cardíaca em pediatria, recomendações específicas para
+choque cardiogênico).
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(UNIPTAN) Paciente masculino, 28 anos, admitido com injúria renal aguda (IRA)
+rapidamente progressiva secundária a uma glomerulonefrite de etiologia a esclarecer.
+Apesar da pulsoterapia com corticoides, o paciente evolui com piora. Exames
+laboratoriais atuais revelam creatinina sérica de 4,8 mg/dL e ureia de 130 mg/dL. O
+paciente queixa-se de fraqueza generalizada, porém nega náuseas, vômitos ou dor
+torácica. Ao exame, encontra-se orientado em tempo e espaço. O volume urinário nas
+últimas 24 horas foi de 500 mL. Uma gasometria arterial recente demonstra pH de 7,18,
+pCO₂ de 30 mmHg e bicarbonato de 12 mEq/L mesmo após medidas para controle.
+Considerando o caso apresentado, qual dos achados abaixo indica a necessidade
+imediata de iniciar terapia renal substitutiva?
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 3 de 69
+
+Alternativas:
+(alternativa A)
+Nível de creatinina acima de 4,0 mg/dL.
+(alternativa B) (CORRETA)
+Acidose metabólica refratária.
+(alternativa C)
+Nível de ureia acima de 100 mg/dL.
+(alternativa D)
+Débito urinário < 1L/dia.
+
+Resposta comentada:
+Justificativa da alternativa correta
+A questão busca reconhecer as indicações de hemodiálise de urgência, a saber: acidose
+metabólica refratária, hipercalemia refratária, hipervolemia refratária, intoxicações
+exógenas e sintomas urêmicos (pericardite, pleurite, náuseas, vômitos, encefalopatia).
+Dessa forma, correta a alternativa "Acidose metabólica refratária".
+Justificativa das alternativas incorretas
+
+Nível de creatinina acima de 4,0 mg/dL.
+Erro: A elevação da creatinina não é, isoladamente, indicação para início imediato de
+terapia renal substitutiva (TRS). O valor indica gravidade da disfunção renal, mas a
+decisão depende de manifestações clínicas e metabólicas refratárias ao tratamento
+conservador.
+
+Nível de ureia acima de 100 mg/dL.
+Erro: assim como a creatinina, a ureia elevada não constitui critério absoluto para iniciar
+TRS. O valor pode variar conforme o catabolismo e o estado de hidratação, devendo ser
+interpretado junto a sintomas urêmicos ou complicações metabólicas.
+
+Débito urinário < 1L/dia.
+Erro: Oligúria (< 400–500 mL/dia) é sinal de piora da função renal, mas não é critério
+isolado para diálise imediata. A decisão depende da presença de complicações graves
+(acidose, hipercalemia, uremia sintomática ou sobrecarga hídrica).
+Referência:
+GOLDMAN, Lee; SCHAFER, Andrew I. Goldman-Cecil Medicina. 26. ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2022. E-book. p.Capa. ISBN 9788595159297. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159297/. Acesso em: 22
+out. 2025.
+Feedback:
+-4ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 4 de 69
+
+Enunciado:
+(UNIGRANRIO CAXIAS) Mãe, 28 anos, primigesta, obesa, apresentou hipertensão durante
+a gravidez. O bebê nasceu de parto cesárea, com 37 semanas, pesando 3.200 g, líquido
+amniótico claro com grumos. Ao nascer, não chorou, apresentou tônus diminuído e é
+levado ao berço aquecido. Sob calor radiante, após secagem e estímulo tátil, aos 30
+segundos de vida apresenta respiração irregular e frequência cardíaca de 90 bpm.
+Qual é a conduta inicial adequada para esse recém-nascido?
+Alternativas:
+(alternativa A)
+Oferecer calor, iniciar compressões torácicas imediatas, aplicar VPP com oxigênio a cem
+por cento e prosseguir mesmo sem tentativa prévia de ventilação.
+(alternativa B)
+Prover calor, estimular vigorosamente por um minuto completo, administrar oxigênio
+suplementar a quarenta por cento e apenas depois iniciar ventilação.
+(alternativa C)
+Manter calor, aspirar boca e narinas de forma rotineira, oferecer oxigênio a 100% com
+máscara e aguardar reavaliação após trinta segundos.
+(alternativa D) (CORRETA)
+Garantir calor, posicionar a cabeça em leve extensão, aspirar somente se houver
+obstrução, iniciar VPP com ar ambiente devido à frequência cardíaca menor que cem.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 5 de 69
+
+Resposta comentada:
+Justificativa:
+Manter calor, aspirar boca e narinas de forma rotineira, oferecer oxigênio a 100% com
+máscara e aguardar reavaliação após trinta segundos. Errada. Em recém-nascido ≥34
+semanas levado ao berço aquecido por ausência de choro e tônus inadequado, as
+manobras iniciais corretas são: prover calor, posicionar a via aérea (leve extensão),
+secar/estimular e avaliar respiração e FC; aspiração é seletiva (somente se houver
+secreção obstrutiva/meconial com obstrução). Oxigênio a 100% de rotina não é indicado
+em termo; se houver respiração irregular e FC <100 bpm, a conduta é iniciar VPP com ar
+ambiente (21%), reavaliando em 30 s. A alternativa erra ao propor aspiração rotineira e
+O₂ a 100% antes de VPP. (SBP, Diretrizes de Reanimação Neonatal 2022)
+Garantir calor, posicionar a cabeça em leve extensão, aspirar somente se houver
+obstrução, iniciar VPP com ar ambiente devido à frequência cardíaca menor que cem.
+Certa. Em RN ≥ 34 semanas que não chorou e tem tônus diminuído, após 30 s de
+medidas iniciais, permanece com respiração irregular e FC 90 bpm: indica-se VPP com
+21% (ar ambiente), mantendo calor, posicionamento em leve extensão, aspiração apenas
+se obstrução, secagem/estímulo e avaliação seriada de respiração e FC. Esse
+encadeamento (A-B-C-D-E do passo a passo) está alinhado às Diretrizes SBP 2022 para
+≥34 semanas. (SBP, 2022)
+Prover calor, estimular vigorosamente por um minuto completo, administrar oxigênio
+suplementar a quarenta por cento e apenas depois iniciar ventilação. Errada. O estímulo
+prolongado por 1 minuto posterga o que importa (VPP) quando há respiração irregular e
+FC <100. Também não se recomenda oxigênio suplementar a 40% antes de VPP em
+termo. Para ≥34 semanas, o início é VPP com 21% quando indicado; O₂ suplementar é
+titulado conforme saturação/oximetria e resposta, não administrado empiricamente antes
+da VPP. (SBP, 2022)
+Oferecer calor, iniciar compressões torácicas imediatas, aplicar VPP com oxigênio a cem
+por cento e prosseguir mesmo sem tentativa prévia de ventilação. Errada. Compressões
+torácicas só são indicadas após 30 s de VPP eficaz se a FC permanecer <60 bpm. Neste
+caso, a FC é 90 bpm; portanto, a prioridade é VPP eficaz com 21%, sem compressões.
+Além disso, propor VPP com 100% de O₂ desde o início para termo não está de acordo
+com a recomendação para ≥34 semanas. (SBP, 2022)
+Referência:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Diretrizes 2022 para Reanimação Neonatal. 8. ed.
+São Paulo: SBP, 2022.
+AMERICAN HEART ASSOCIATION. SAVP: Suporte avançado de vida em pediatria:
+manual do profissional. Texas, USA: Orora Visual, 2021. 330 p. ISBN 978-1-61669-957-4.
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Uma médica recém-chegada a uma Unidade de Saúde Fluvial relata
+dificuldades para organizar o cuidado longitudinal de uma comunidade ribeirinha. As
+famílias vivem em áreas dispersas, sem energia elétrica, acesso à internet ou transporte
+terrestre. Há elevado número de gestantes sem pré-natal e altos índices de verminoses e
+doenças de pele nas crianças.
+Considerando os princípios do SUS e a PNSIPCF, qual deve ser a abordagem mais
+adequada da APS para a população ribeirinha descrita?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 6 de 69
+
+Alternativas:
+(alternativa A)
+Estabelecer parcerias com serviços de saúde urbanos, transferindo a população para
+tratamento e acompanhamento rotineiro.
+(alternativa B)
+Incentivar que a população busque atendimento nas cidades polos, a fim de facilitar o
+acesso a exames e consultas com especialistas.
+(alternativa C)
+Priorizar o uso de ferramentas digitais e atendimento remoto, dada a impossibilidade de
+acesso regular por via fluvial.
+(alternativa D) (CORRETA)
+Desenvolver ações em saúde por meio de equipes itinerantes, com articulação
+intersetorial e foco em vigilância em saúde, educação sanitária e fortalecimento do
+vínculo com a comunidade.
+
+Resposta comentada:
+Desenvolver ações em saúde por meio de equipes itinerantes, com articulação
+intersetorial e foco em vigilância em saúde, educação sanitária e fortalecimento do
+vínculo com a comunidade.
+Correta. Essa abordagem é central na PNSIPCF, que orienta o cuidado à população
+ribeirinha com base na APS itinerante, foco em ações de promoção, prevenção e
+educação em saúde e forte articulação com outras políticas públicas (saneamento,
+educação, assistência social), respeitando os modos de vida locais e promovendo o
+vínculo longitudinal com a equipe.
+Priorizar o uso de ferramentas digitais e atendimento remoto, dada a impossibilidade de
+acesso regular por via fluvial.
+Incorreta. O uso de ferramentas digitais é limitado por ausência de conectividade nessas
+áreas. A estratégia remota é inviável como abordagem principal.
+Estabelecer parcerias com serviços de saúde urbanos, transferindo a população para
+tratamento e acompanhamento rotineiro.
+Incorreta. A transferência para centros urbanos é excepcional. O cuidado deve ser
+garantido no território, com resolutividade da APS.
+Incentivar que a população busque atendimento nas cidades polos, a fim de facilitar o
+acesso a exames e consultas com especialistas.
+Incorreta. Essa lógica sobrecarrega os centros urbanos e fere os princípios de equidade e
+descentralização do SUS.
+Referências:
+Brasil. Ministério da Saúde. Política Nacional de Saúde Integral das Populações do Campo,
+da Floresta e das Águas. Brasília: MS; 2013.
+Brasil. Ministério da Saúde. Atenção Básica à Saúde das Populações Rurais e Ribeirinhas:
+Documento Orientador. Brasília: MS; 2014.
+Gusso G, Lopes JMC. Tratado de Medicina de Família e Comunidade . Artmed; 2021.
+
+Feedback:
+-6ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 7 de 69
+
+Enunciado:
+(UNIGRANRIO BARRA) Lactente de 1 ano e 8 meses, masculino, é trazido à emergência
+com taquipneia, sibilos difusos, retrações subcostais, batimento de asa de nariz e
+gemência. Está hipoativo no colo da mãe. Saturação de O₂: 90% em ar ambiente.
+Ausculta revela murmúrio vesicular diminuído e sibilos bilaterais.
+Qual é a conduta inicial mais adequada quanto ao tratamento e à forma de oferta de
+oxigênio?
+Alternativas:
+(alternativa A)
+Iniciar nebulização com solução salina hipertônica e oxigênio com máscara sem
+reservatório; o quadro é compatível com bronquiolite viral.
+(alternativa B)
+Fornecer oxigênio por cateter nasal, administrar corticosteroide sistêmico e, caso não
+haja resposta clínica, iniciar salbutamol por via inalatória.
+(alternativa C)
+Administrar oxigênio por máscara com reservatório para manter SpO₂ ≥ 94% e iniciar
+salbutamol inalatório isolado.
+(alternativa D) (CORRETA)
+Iniciar oxigênio por cateter nasal ou máscara com reservatório para manter SpO₂ ≥ 94%,
+associar salbutamol + brometo de ipratrópio inalados em doses repetidas e
+corticosteroide sistêmico.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 8 de 69
+
+Resposta comentada:
+Segundo o PALS, em crianças com insuficiência respiratória por broncoespasmo (como na
+asma ou bronquiolite grave), o tratamento inicial inclui oferta de oxigênio suplementar
+com o objetivo de manter SpO₂ ≥ 94%. O oxigênio deve ser administrado por máscara
+com reservatório ou máscara facial, conforme a gravidade, e deve-se iniciar
+broncodilatadores inalados (salbutamol) o quanto antes. A ventilação com bolsa-válvula é
+reservada para casos de falência respiratória.
+O lactente apresenta sinais de desconforto respiratório grave (retratação, BAT, gemência,
+hipoatividade) e hipoxemia (SpO₂ 90%). Conduta inicial em crise asmática grave/primeiro
+episódio sibilante grave:
+Oxigênio suplementar para manter SpO₂ ≥ 94%.
+Broncodilatadores inalados:
+Salbutamol + ipratrópio (3 doses na 1ª hora).
+Corticosteroide sistêmico precoce.
+Monitorização contínua.
+Restante das alternativas incorretas:
+Alternativa
+
+Erro
+
+Administrar oxigênio por máscara com
+reservatório para manter SpO₂ ≥ 94% e iniciar
+salbutamol inalatório isolado.
+
+Máscara com reservatório é para
+falência respiratória iminente;
+salbutamol deveria ser associado ao
+ipratrópio.
+
+Fornecer nebulização com solução salina
+hipertônica e observar em ar ambiente, pois o
+quadro é compatível com bronquiolite viral.
+
+Não é bronquiolite — há hipoxemia
+grave e sibilância responsiva a
+broncodilatador.
+
+Administrar apenas corticosteroide sistêmico
+inicialmente e aguardar resposta clínica para
+decidir sobre broncodilatador.
+
+Não se espera resposta sem
+broncodilatadores — risco de piora
+respiratória.
+
+Referências:
+AMERICAN HEART ASSOCIATION. Pediatric Advanced Life Support: Provider Manual.
+Dallas: American Heart Association, 2020.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(IESVAP) Em uma Unidade Básica de Saúde, uma adolescente de 16 anos, G1P0, com 37
+semanas e 3 dias de gestação, comparece relatando contrações regulares a cada 5
+minutos há aproximadamente 3 horas. Ao exame físico, apresenta colo apagado em 80%,
+dilatação de 5 cm, membranas íntegras e batimentos cardiofetais normais. Encontra-se
+calma, acompanhada de uma amiga, e informa não desejar que sua mãe seja
+comunicada.
+Considerando as diretrizes do Ministério da Saúde para o manejo do trabalho de parto na
+atenção primária, bem como os princípios de biossegurança e ética médica, qual deve ser
+a conduta mais adequada da equipe de saúde?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 9 de 69
+
+Alternativas:
+(alternativa A) (CORRETA)
+Respeitar o desejo da adolescente de não envolver familiares, adotar medidas de suporte
+inicial e encaminhá-la com segurança e comunicação prévia à maternidade de referência
+para continuidade do parto.
+(alternativa B)
+Encaminhar imediatamente ao hospital de referência e informar obrigatoriamente a mãe
+e o Conselho Tutelar sobre o caso, por se tratar de menor em trabalho de parto.
+(alternativa C)
+Realizar analgesia e amniotomia para acelerar o trabalho de parto, mantendo observação
+até o início do período expulsivo, e só então transferir.
+(alternativa D)
+Considerando que a paciente em questão encontra-se em trabalho de parto inicial, o
+ideal é observar a evolução do trabalho de parto na UBS até que a dilatação atinja 6 cm,
+garantindo suporte emocional e biossegurança antes de transferir para o hospital de
+referência.
+
+Resposta comentada:
+A gestante apresenta trabalho de parto ativo (≥ 3 cm de dilatação), o que exige
+transferência imediata e segura para unidade de referência obstétrica, conforme as
+Diretrizes Nacionais de Assistência ao Parto Normal e o Manual de Atenção ao Pré-Natal e
+Puerpério (MS, 2022).
+Na atenção primária, a equipe deve garantir acolhimento, suporte inicial (hidratação,
+medidas de conforto, avaliação de vitalidade fetal) e comunicação com o serviço de
+referência, assegurando transporte seguro e contínuo cuidado materno-fetal.
+As condutas invasivas (analgesia, amniotomia) ou a retenção da paciente em trabalho de
+parto ativo na UBS violam princípios de segurança e biossegurança.
+Do ponto de vista ético, a adolescente tem direito à privacidade e confidencialidade,
+especialmente quanto a aspectos pessoais, conforme o ECA e o Código de Ética Médica,
+devendo-se comunicar familiares apenas quando necessário à segurança clínica.
+
+Referências:
+Conselho Federal de Medicina (CFM). Resolução CFM nº 2.217/2018 – Código de Ética
+Médica. Brasília: CFM, 2018.
+Ministério da Saúde (Brasil). Manual de Atenção ao Pré-natal, Parto e Puerpério: Atenção
+Qualificada e Humanizada. 3.ª ed. Brasília: Ministério da Saúde, 2022.
+Ministério da Saúde (Brasil). Política Nacional de Atenção Integral à Saúde de
+Adolescentes e Jovens (PNAISAJ). Brasília: Ministério da Saúde, 2010.
+Feedback:
+-8ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 10 de 69
+
+Enunciado:
+(UNIDEP) Um homem de 32 anos, previamente saudável, procura atendimento médico
+em uma unidade de saúde após retornar de uma viagem a uma área rural da Amazônia,
+onde permaneceu por 3 semanas. Ele relata início de febre alta, calafrios intensos, dor de
+cabeça, mialgia, e sudorese há cerca de 5 dias. Refere também náuseas, mal-estar geral
+e que os episódios febris ocorrem de forma intermitente, geralmente a cada 48 horas. Ao
+exame físico, o paciente apresenta-se febril (38,8 °C), esplenomegalia leve e estado geral
+comprometido. Não há sinais de rigidez de nuca ou alterações neurológicas.
+Considerando as informações do caso, avalie as alternativas abaixo:
+I) O diagnóstico mais provável é de chikungunya e o exame a ser solicitado é a sorologia
+para chikungunya.
+II) O diagnóstico mais provável é de malária e o exame a ser solicitado é a microscopia
+da gota espessa.
+III) A malária é uma doença infecciosa aguda causada pelo Plasmodium.
+IV) Independente da hipótese diagnóstica, o manejo é apenas sintomático, não sendo
+necessário uso de medicações específicas.
+Estão corretas as afirmações contidas nas alternativas:
+Alternativas:
+(alternativa A)
+II e IV
+(alternativa B)
+I e III
+(alternativa C) (CORRETA)
+II e III
+(alternativa D)
+I e IV
+
+Resposta comentada:
+o quadro é sugestivo de malária, considerando os sinais clínicos e a história
+epidemiológica do paciente. A malária é causada pelo Plasmodium (vivax, falciparum,
+malarie e ovale). O Diagnóstico deve ser realizado pela microscopia da gota espessa que
+demonstra a quantidade de parasitas contados por campo. O manejo deve ser realizado
+com antimaláricos e primaquina.
+Referência:
+DUCAN, B, B. et al. Medicina ambulatorial: condutas de atenção primária baseadas
+em evidências.Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022. (Cap. 160).
+GUSSO, G, et al. Tratado de medicina de família e comunidade - 2 volumes: princípios,
+formação e prática. Disponível em: Minha Biblioteca, (2nd edição). Grupo A, 2019
+Feedback:
+-9ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 11 de 69
+
+Enunciado:
+(AFYA PARAÍBA) Um menino de 8 anos é trazido pela mãe à Unidade Básica de Saúde
+(UBS) com edema generalizado apresentado progressivamente há 2 semanas, sem
+história de febre recente ou infecção de vias respiratórias ou de urina espumosa visível.
+Ao exame: pressão arterial normal, sem hematúria visível, sem rash e com função renal
+preservada. Exame de urina: proteinúria maciça (++++), sem células ou cilindros
+vermelhos em número significativo. Proteína/creatinina urinária elevada, albumina sérica
+baixa, colesterol alto.
+Com base nesses achados clínicos e laboratoriais, qual o diagnóstico mais provável?
+
+Alternativas:
+(alternativa A)
+Glomeruloesclerose segmentar e focal (FSGS).
+(alternativa B)
+Nefropatia por IgA (IgA-nefropathy).
+(alternativa C)
+Glomerulonefrite pós‑estreptocócica (GNPE).
+(alternativa D) (CORRETA)
+Doença de lesões mínimas (MCD).
+
+Resposta comentada:
+Doença de lesões mínimas - MCD (alternativa correta): Esta é a causa mais comum de
+síndrome nefrótica idiopática em crianças (especialmente entre 2 e 10 anos),
+caracterizada por quadro clássico de edema, proteinúria maciça, hipoalbuminemia,
+hipercolesterolemia, sem hematúria ou hipertensão marcante, e geralmente boa resposta
+a corticoide.
+No cenário da questão — criança de 8 anos, quadro de edema lento, proteinúria maciça,
+sem sinais de glomerulonefrite (hematúria, hipertensão) — este diagnóstico encaixa
+muito bem.
+Glomerulonefrite pós-estreptocócica - GNPE (alternativa incorreta): Caracteriza-se
+tipicamente por história recente de infecção de garganta ou de pele (estreptococo),
+manifestação de síndrome nefrítica (hematuria, hipertensão, edema), diminuição de C3
+em muitos casos.
+No nosso caso: sem infecção recente, sem hematúria, pressão normal — isso torna GNPE
+improvável.
+Nefropatia por IgA - IgA- nefropathy (alternativa incorreta): Geralmente se manifesta em
+crianças/adolescentes com hematúria macroscópica (às vezes após infecção de vias
+respiratórias) ou micro-hematúria persistente, muitas vezes proteinúria leve/moderada, e
+curso mais crônico.
+Glomeruloesclerose segmentar e focal - FSGS (alternativa incorreta): Também pode se
+manifestar como síndrome nefrótica em crianças, especialmente se for resistente a
+tratamento ou em certas condições de risco. Embora seja possível, geralmente tem pior
+prognóstico, pode haver mais hipertensão, hematúria leve, e é menos “clássico” para o
+quadro típico puro de síndrome nefrótica em criança saudável .
+Referências:
+JÚNIOR, Dioclécio C.; BURNS, Dennis Alexander R.; LOPEZ, Fábio A. Tratado de pediatria.
+v. 2. Editora Manole, 2021. E-book. ISBN 9786555767483. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767483/.
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. Ebook. p.Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/.
+Feedback:
+-10ª QUESTÃO
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 12 de 69
+
+Enunciado:
+(AFYA BRAGANÇA) Um paciente de 72 anos, portador de diabetes mellitus tipo 2 e
+doença arterial coronariana estável, faz uso regular de metformina 850 mg 2x/dia e ácido
+acetilsalicílico 100 mg/dia. Foi agendada uma cirurgia eletiva de hernioplastia inguinal
+sob anestesia geral. Durante a avaliação pré-operatória, o cirurgião solicita parecer
+clínico quanto à continuidade ou suspensão das medicações. Considerando o perfil do
+paciente, as características da cirurgia e os riscos envolvidos, qual a conduta mais
+apropriada em relação às medicações durante o preparo pré-operatório?
+Alternativas:
+(alternativa A) (CORRETA)
+Manter o ácido acetilsalicílico para prevenir eventos isquêmicos e suspender a
+metformina 24 a 48 horas antes da cirurgia.
+
+(alternativa B)
+Suspender o ácido acetilsalicílico apenas no dia da cirurgia e manter a metformina para
+controle glicêmico intraoperatório.
+(alternativa C)
+Suspender o ácido acetilsalicílico cinco dias antes para evitar sangramento e manter a
+metformina até o dia da cirurgia.
+
+(alternativa D)
+Manter ambas as medicações, pois não interferem significativamente no risco cirúrgico e
+na possibilidade de complicações.
+
+Resposta comentada:
+O ácido acetilsalicílico não deve ser suspenso rotineiramente em pacientes com doença
+coronariana estável submetidos a cirurgias de baixo risco, como hernioplastias. Já a
+metformina deve ser suspensa antes da cirurgia por risco de acidose láctica, exigindo
+suspensão temporária antes de cirurgias com jejum prolongado, e o AAS deve ser
+mantido, mas não de forma irrestrita. A suspensão do AAS apenas no dia da cirurgia não
+é suficiente para reversão do efeito antiplaquetário, e manter a metformina no
+intraoperatório é contraindicado em jejum prolongado. Logo, a conduta ideal é manter o
+AAS, considerando seu benefício cardiovascular em paciente com DAC, e suspender a
+metformina devido ao risco de acidose láctica em situações de jejum ou uso de contraste.
+Referência:
+TOWNSEND, Courtney M.; BEAUCHAMP, R. Daniel; EVERS, B. Mark; MATTOX, Kenneth L.
+Sabiston. Tratado de Cirurgia: a base biológica da prática cirúrgica moderna. Tradução do
+Colégio Brasileiro de Cirurgiões. 21. ed. Rio de Janeiro: Guanabara Koogan, 2024. 2128 p.
+ISBN 978-85-9515-981-5.
+Feedback:
+-11ª QUESTÃO
+Enunciado:
+(BANCO AFYA) Lactente de 10 meses, previamente saudável, é levado à UBS após
+episódio de engasgo com pedaço de maçã durante a alimentação. Desde então, evoluiu
+com choro fraco, irritabilidade e piora progressiva do padrão respiratório. No exame: FC
+178 bpm, FR 56 irpm, PA 72/42 mmHg, SatO₂ 89% em ar ambiente, perfusão capilar > 4
+segundos, extremidades frias e turgência jugular discreta. Apresenta murmúrio vesicular
+globalmente diminuído, roncos audíveis e importante esforço respiratório, sem estertores
+ou sopros.
+Considerando o quadro clínico e os princípios de atendimento às emergências na Atenção
+Primária, qual o diagnóstico provável e a conduta inicial adequada?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 13 de 69
+
+Alternativas:
+(alternativa A)
+Choque distributivo, devido à taquicardia, má perfusão e instabilidade hemodinâmica;
+iniciar reposição volêmica vigorosa com cristaloides, ofertar oxigenoterapia suplementar
+e observar evolução clínica local antes de transferir.
+(alternativa B)
+Insuficiência respiratória aguda isolada, com hipóxia secundária à aspiração alimentar;
+iniciar broncodilatadores por nebulização, estimular hidratação e manter em observação
+até melhora clínica acompanhada de estabilidade vital.
+(alternativa C) (CORRETA)
+Choque obstrutivo secundário à aspiração de corpo estranho, pela presença de
+hipoperfusão, esforço respiratório, taquicardia e turgência jugular; garantir via aérea de
+forma imediata e acionar transporte emergencial para unidade com suporte avançado.
+(alternativa D)
+Choque cardiogênico decorrente de disfunção ventricular aguda, com hipotensão e má
+perfusão; administrar inotrópicos e suporte ventilatório na UBS, evitando intervenções na
+via aérea até exames complementares confirmarem etiologia.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 14 de 69
+
+Resposta comentada:
+justificativas
+A
+v
+a
+li
+a
+ç
+ã
+o
+
+Alternativa
+
+Justificativa
+
+Choque distributivo, devido à taquicardia, má perfusão
+e instabilidade hemodinâmica; iniciar reposição
+volêmica vigorosa com cristaloides, ofertar
+oxigenoterapia suplementar e observar evolução clínica
+local antes de transferir.
+
+Choque distributivo →
+E
+extremidades quentes,
+rr
+pulsos amplos. Aqui há
+a
+extremidades frias,
+d
+turgência jugular,
+a
+hipoperfusão
+
+Choque obstrutivo secundário à aspiração de corpo
+estranho, pela presença de hipoperfusão, esforço
+respiratório, taquicardia e turgência jugular; garantir via
+aérea de forma imediata e acionar transporte
+emergencial para unidade com suporte avançado.
+
+C Aspiração + sinais de
+o obstrução + choque
+rr (hipotensão, taquicardia,
+e perfusão lenta). Conduta:
+t via aérea + transferência
+a imediata
+
+Choque cardiogênico decorrente de disfunção
+ventricular aguda, com hipotensão e má perfusão;
+administrar inotrópicos e suporte ventilatório na UBS,
+evitando intervenções na via aérea até exames
+complementares confirmarem etiologia.
+
+Cardiogênico → estertores,
+E
+hepatomegalia, sem
+rr
+turgência jugular discreta
+a
+pós-aspiração; não se
+d
+posterga via aérea para
+a
+exames
+
+Não é apenas respiratório;
+Insuficiência respiratória aguda isolada, com hipóxia
+E
+há choque (hipotensão,
+secundária à aspiração alimentar; iniciar
+rr
+perfusão lenta,
+broncodilatadores por nebulização, estimular hidratação a
+extremidades frias),
+e manter em observação até melhora clínica
+d
+portanto conduta
+acompanhada de estabilidade vital.
+a
+expectante é inadequada
+Referências:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Suporte Avançado de Vida em Pediatria (SAVP) .
+SBP, 2022.
+AMERICAN HEART ASSOCIATION. Pediatric Advanced Life Support Guidelines . AHA, 2020.
+ATLS Committee. ATLS Manual. 10ª ed. Chicago: American College of Surgeons, 2022.
+BRASIL. Ministério da Saúde. Protocolo de Atenção às Urgências na APS — IESC . Brasília,
+2022.
+
+Feedback:
+-12ª QUESTÃO
+Enunciado:
+(ITPAC PORTO NACIONAL) Gestante de 28 anos, G2P1A0, com 9 semanas de gestação e
+ausência de BCF na ultrassonografia. Procura atendimento com febre (38,5 °C), dor
+abdominal intensa tipo cólica e secreção vaginal fétida associada a sangramento
+moderado. No exame físico, apresenta frequência cardíaca de 110 bpm, pressão arterial
+de 100/60 mmHg, útero doloroso à palpação e orifício cervical entreaberto.
+Qual é a conduta inicial mais adequada para essa paciente?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 15 de 69
+
+Alternativas:
+(alternativa A)
+Prescrever antibiótico oral e agendar o esvaziamento uterino para realização ambulatorial
+após melhora clínica.
+(alternativa B)
+Administrar medicação uterotônica para favorecer a expulsão espontânea dos produtos
+da concepção sem necessidade de antibiótico inicial.
+(alternativa C) (CORRETA)
+Iniciar antibioticoterapia intravenosa de amplo espectro, realizar estabilização clínica e
+proceder ao esvaziamento uterino de forma precoce em ambiente hospitalar.
+(alternativa D)
+Solicitar ultrassonografia pélvica e manter observação clínica por 24 horas, adiando
+medidas invasivas e antibióticos até confirmação diagnóstica.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 16 de 69
+
+Resposta comentada:
+
+Alternativa
+
+Análise
+
+Certa. Quadro compatível com
+Iniciar antibioticoterapia intravenosa de
+abortamento séptico. Conduta:
+amplo espectro, realizar estabilização
+antibioticoterapia IV imediata, estabilização
+clínica e proceder ao esvaziamento uterino
+e esvaziamento uterino precoce, conforme
+de forma precoce em ambiente hospitalar
+ALSO 2023.
+Prescrever antibiótico oral e agendar o
+esvaziamento uterino para realização
+ambulatorial após melhora clínica.
+
+Errada. Antibiótico oral e manejo
+ambulatorial são inadequados em quadro
+séptico com instabilidade clínica e infecção
+intrauterina.
+
+Administrar medicação uterotônica para
+favorecer a expulsão espontânea dos
+produtos da concepção sem necessidade
+de antibiótico inicial.
+
+Errada. Uterotônico não é indicado
+inicialmente em aborto séptico. Risco de
+piorar retenção e sepse. Prioridade é
+antibiótico + esvaziamento uterino.
+
+Solicitar somente ultrassonografia pélvica
+e manter observação clínica por 24 horas,
+adiando medidas invasivas e antibióticos
+até confirmação diagnóstica.
+
+Errada. A conduta não é expectante. Atraso
+terapêutico aumenta risco de choque
+séptico e óbito materno.
+
+Referências:
+ALSO – Advanced Life Support in Obstetrics.
+AMERICAN ACADEMY OF FAMILY PHYSICIANS (AAFP). ALSO Provider Manual. 2023.
+ACOG – Early Pregnancy Loss.
+THE AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS. Practice Bulletin No.
+200: Early Pregnancy Loss. Obstetrics & Gynecology, Washington, v. 132, n. 5, p. e197e207, 2018.
+FEBRASGO – Aborto Séptico e Manejo na Urgência.
+FEDERAÇÃO BRASILEIRA DAS ASSOCIAÇÕES DE GINECOLOGIA E OBSTETRÍCIA. Manual de
+Obstetrícia. 4. ed. São Paulo: FEBRASGO, 2022.
+Ministério da Saúde – Atenção ao Abortamento.
+BRASIL. Ministério da Saúde. Atenção ao abortamento: norma técnica . Brasília, DF: MS,
+2011.
+Suporte e Emergências Obstétricas – Manual brasileiro
+REZENDE, J.; MONTENEGRO, C. A. Obstetrícia. 14. ed. Rio de Janeiro: Guanabara Koogan,
+2023.
+
+Feedback:
+-13ª QUESTÃO
+Enunciado:
+(AFYA ABAETETUBA) Homem, 34 anos, previamente hígido, chega à UPA no 6.º dia de
+doença, com história prévia de febre, cefaleia, mialgia intensa e inapetência. Refere piora
+do estado geral nas últimas horas, com sonolência, sensação de desmaio, dor abdominal
+difusa e oligúria. Ao exame físico, está pálido, sudorético, confuso, taquicárdico (FC 128
+bpm), com pressão arterial 90/60 mmHg em decúbito e enchimento capilar lento.
+Extremidades frias e pulsos finos. Saturação de O₂ 96% em ar ambiente. Prova do laço
+positiva. Hemograma realizado na sala de emergência mostra hematócrito de 52% e
+plaquetas de 38.000/mm³.
+Considerando as classificações de dengue e o manejo adequado no setor de urgência,
+qual deve ser a conduta imediata?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 17 de 69
+
+Alternativas:
+(alternativa A) (CORRETA)
+Grupo D: tratar como choque hipovolêmico, iniciar reposição volêmica imediata com
+solução cristaloide em bolus, monitorização intensiva e transferência urgente para UTI.
+(alternativa B)
+Grupo A, choque séptico, iniciar antibiótico empírico de amplo espectro, reposição venosa
+conforme protocolo para sepse e manter observação até resultados laboratoriais
+específicos.
+(alternativa C)
+Grupo C: iniciar hidratação venosa com cristaloide em ritmo acelerado, monitorização
+contínua na unidade e transferência programada para hospital após estabilização inicial
+hemodinâmica.
+(alternativa D)
+Grupo B: administrar hidratação venosa moderada, manter observação clínica contínua
+na UPA, solicitar reavaliação laboratorial seriada e programar retorno após melhora
+clínica progressiva.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 18 de 69
+
+Resposta comentada:
+Quadro de justificativas
+Alternativa
+Grupo B: administrar hidratação venosa
+moderada, manter observação clínica
+contínua na UPA, solicitar reavaliação
+laboratorial seriada e programar retorno
+após melhora clínica progressiva.
+Grupo C: iniciar hidratação venosa com
+cristaloide em ritmo acelerado,
+monitorização contínua na unidade e
+transferência programada para hospital
+após estabilização inicial hemodinâmica.
+
+Interpretaç
+Por que está certa/errada
+ão
+
+Grupo B
+
+Errada — Grupo B não inclui
+choque; aqui há
+hipoperfusão, hipotensão,
+extremidades frias, Ht↑
+
+Grupo C
+
+Errada — Grupo C = sinais de
+alarme, porém sem choque;
+aqui existe choque
+estabelecido
+
+Grupo D: tratar como choque hipovolêmico,
+iniciar reposição volêmica imediata com
+Grupo D
+solução cristaloide em bolus, monitorização
+intensiva e transferência urgente para UTI.
+
+Correta — choque por
+dengue: taquicardia,
+hipotensão, Ht elevado,
+perfusão ruim → bolus +
+transferência imediata
+
+Grupo A, choque séptico, iniciar antibiótico
+empírico de amplo espectro, reposição
+venosa conforme protocolo para sepse e
+Grupo A
+manter observação até resultados
+laboratoriais específicos.
+
+Errada — quadro clássico de
+dengue grave, antibiótico
+não é primeira conduta e
+atrasaria o manejo
+
+Referências:
+GUSSO, G.; LOPES, J. M. C. Tratado de Medicina de Família e Comunidade. 2. ed. Porto
+Alegre: Artmed, 2018. (Cap. 257).
+DUNCAN, B. B. et al. Medicina Ambulatorial: Condutas de Atenção Primária Baseadas em
+Evidências. 5. ed. Grupo A, 2022. (Cap. 162).
+BRASIL. Ministério da Saúde. Dengue: Diagnóstico e Manejo Clínico – Adulto e Criança. 6.ª
+ed. 2024.
+SOCIEDADE BRASILEIRA DE INFECTOLOGIA. Protocolo de Manejo da Dengue . SBI, 2022.
+WHO. Dengue Guidelines for Diagnosis, Treatment, Prevention and Control . WHO, 2022.
+
+Feedback:
+-14ª QUESTÃO
+Enunciado:
+(BANCO AFYA) Gestante de 37 anos, G3P2, com 38 semanas, antecedente de cesariana
+prévia há 2 anos, é admitida na maternidade em trabalho de parto ativo. Após 6 horas de
+evolução, queixando-se de dor súbita e intensa no baixo ventre, seguida de mal-estar,
+palidez e sensação de desmaio iminente. Ao exame, encontram-se os seguintes sinais
+vitais: FC 128 bpm, PA 84×50 mmHg, sudorética, com abdome doloroso difusamente e
+dificuldade para palpar a apresentação fetal. A contratilidade uterina tornou-se ausente e
+a ausculta fetal revela BCF 80 bpm.
+Considerando o quadro, qual é o diagnóstico provável?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 19 de 69
+
+Alternativas:
+(alternativa A)
+Vasa prévia rota, por sangramento fetal indolor, rupturas de membranas, bradicardia
+fetal marcada e estabilidade hemodinâmica materna nas fases iniciais.
+(alternativa B) (CORRETA)
+Rotura uterina, por dor intensa súbita, instabilidade materna, parada da dinâmica uterina,
+bradicardia fetal e antecedente de cesariana prévia.
+(alternativa C)
+Placenta prévia, por sangramento vermelho vivo indolor, útero relaxado, vitalidade fetal
+preservada e associação com início espontâneo de trabalho de parto.
+(alternativa D)
+Descolamento prematuro de placenta, por dor abdominal progressiva, hipertonia uterina
+sustentada, sangramento evidente e sofrimento fetal com taquicardia inicial.
+
+Resposta comentada:
+Justificativa resumida
+Alternativa
+
+Justificativa
+
+Rotura uterina, por dor intensa súbita,
+instabilidade materna, parada da dinâmica
+uterina, bradicardia fetal e antecedente de
+cesariana prévia — Correta
+
+Dor súbita intensa, instabilidade
+materna, parada das contrações,
+bradicardia fetal, cicatriz uterina →
+quadro clássico de rotura uterina
+
+Descolamento prematuro de placenta, por dor
+abdominal progressiva, hipertonia uterina
+sustentada, sangramento evidente e sofrimento
+fetal com taquicardia inicial. — Incorreta
+
+DPP tem hipertonia uterina, dor
+contínua e sangramento; aqui há
+perda de tônus e palpação fetal difícil
+
+Placenta prévia, por sangramento vermelho vivo
+indolor, útero relaxado, vitalidade fetal
+preservada e associação com início espontâneo
+de trabalho de parto. — Incorreta
+
+Placenta prévia cursa com
+sangramento indolor, útero relaxado
+e vitalidade fetal preservada
+
+Vasa prévia rota, por sangramento fetal indolor,
+rupturas de membranas, bradicardia fetal
+marcada e estabilidade hemodinâmica materna
+nas fases iniciais. — Incorreta
+
+Vasa prévia → sangramento fetal,
+estabilidade materna inicial,
+bradicardia fetal após amniorrexe —
+não é o caso
+
+Referências:
+FEBRASGO. Manual de Obstetrícia. 4. ed. São Paulo: FEBRASGO, 2022.
+REZENDE, J.; MONTENEGRO, C. Obstetrícia Fundamental. 14. ed. Rio de Janeiro:
+Guanabara Koogan, 2023.
+
+Feedback:
+-15ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) Homem, 55 anos, chega à emergência com dor abdominal intensa no
+quadrante superior direito há 12 horas, febre de 38,5°C e icterícia há 24 horas. Relata
+colúria e episódios de calafrios. Tem histórico de cálculos biliares, sem acompanhamento
+médico recente. Ao exame, está ictérico e com dor à palpação no quadrante superior
+direito. Sinal de Murphy positivo. Exames laboratoriais mostram leucocitose de
+18.000/mm³, bilirrubina total de 6 mg/dL (predomínio de direta) e fosfatase alcalina
+elevada.
+Qual o primeiro exame de imagem seria indicado para confirmar o diagnóstico de
+colangite nesse paciente?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 20 de 69
+
+Alternativas:
+(alternativa A) (CORRETA)
+Ultrassonografia abdominal para avaliar dilatação da via biliar e presença de cálculos.
+(alternativa B)
+Colangiopancreatografia retrógrada endoscópica (CPRE) como exame diagnóstico inicial.
+(alternativa C)
+Colangiopancreatografia por ressonância magnética (CPRM) para detalhar a anatomia
+biliar.
+(alternativa D)
+Tomografia computadorizada de abdome para identificar cálculos biliares e obstrução
+biliar.
+
+Resposta comentada:
+CORRETA:
+A ultrassonografia abdominal é o exame inicial de escolha para pacientes com suspeita
+de colangite, pois permite avaliar a presença de cálculos e a dilatação das vias biliares. É
+não invasiva, de fácil acesso e eficaz no diagnóstico inicial.
+INCORRETAS:
+A CPRM é útil em casos onde a ultrassonografia não é conclusiva ou há dúvida sobre a
+anatomia biliar, mas não é o exame de escolha inicial.
+A tomografia computadorizada pode identificar cálculos ou outras causas de obstrução,
+mas tem menor sensibilidade que a ultrassonografia para cálculos biliares.
+A CPRE é preferencialmente usada para tratamento (desobstrução), sendo invasiva e
+associada a complicações; por isso, não é o exame diagnóstico inicial.
+Referência:
+KOWALSKI, F. M.; FREEMAN, M. L. Guidelines for Diagnosis and Management of Acute
+Cholangitis. The American Journal of Gastroenterology, v. 116, n. 1, p. 138-155,
+2022.
+Feedback:
+-16ª QUESTÃO
+Enunciado:
+(UNIGRANRIO BARRA) Um homem de 33 anos, médico residente, é levado à UPA por
+colegas após ser encontrado trancado em seu quarto, desacordado, com frascos vazios
+de clonazepam e etanol ao lado. Após estabilização clínica, desperta confuso, negando
+intenção suicida: “Foi só uma tentativa de dormir, eu não queria morrer”.
+Relata fadiga constante, culpa por erros profissionais, isolamento social, insônia,
+anedonia e ideação de morte frequente nas últimas semanas, embora afirme “não ter
+coragem de se matar”. Nega sintomas psicóticos. Refere histórico de episódio depressivo
+maior há três anos, tratado com venlafaxina, com abandono do tratamento há 6 meses.
+Seu pai cometeu suicídio aos 52 anos. Relata uso abusivo recente de benzodiazepínicos e
+álcool, iniciado após término de relacionamento.
+No exame mental, apresenta: humor deprimido, afeto restrito, lentificação psicomotora;
+discurso coerente, mas permeado por desesperança (“nada vai mudar”); juízo crítico
+parcialmente preservado; insight parcial (“acho que não estou bem, mas não sei se quero
+ajuda”).
+A mãe, presente, afirma que o filho “sempre foi perfeccionista, reservado e trabalha
+demais”. O serviço de emergência debate a necessidade de internação.
+Com base nos critérios do DSM-5 e nas diretrizes do Ministério da Saúde, assinale a
+alternativa que descreve, de forma mais completa e fundamentada, os principais fatores
+de risco para o suicídio neste paciente.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 21 de 69
+
+Alternativas:
+(alternativa A)
+Sexo masculino, insight preservado, adesão parcial ao tratamento e suporte familiar
+presente, sem sintomas psicóticos.
+(alternativa B)
+Uso de benzodiazepínicos e álcool, religiosidade incipiente, ausência de delírios e
+personalidade reservada, sem histórico familiar de suicídio.
+(alternativa C) (CORRETA)
+Sexo masculino, médico, isolamento social, desesperança, uso abusivo de substâncias,
+histórico familiar de suicídio e abandono de tratamento antidepressivo.
+(alternativa D)
+Transtorno depressivo maior, suporte familiar, presença de culpa e arrependimento após
+tentativa e capacidade crítica preservada.
+
+Resposta comentada:
+Este caso apresenta um perfil de risco suicida alto e multifatorial, cuja complexidade
+exige análise de dimensões biológicas, psicológicas e sociais. Os principais fatores de
+risco identificados são:
+1. Fatores demográficos e socioculturais
+• Sexo masculino: maior letalidade e menor probabilidade de buscar ajuda.
+• Alta escolaridade e profissão médica: acesso facilitado a meios letais e alto nível de
+estresse ocupacional.
+2. Fatores clínicos e psiquiátricos
+• Transtorno depressivo maior, com anedonia e desesperança (marcadores psicológicos
+de risco).
+• Histórico familiar de suicídio: herança genética e modelagem comportamental
+aumentam vulnerabilidade.
+• Uso abusivo de substâncias (álcool e benzodiazepínicos): eleva a impulsividade, reduz o
+julgamento e potencializa a letalidade.
+• Abandono de tratamento antidepressivo: perda do efeito protetor farmacológico e
+desregulação serotonérgica.
+• Tentativa prévia (intoxicação voluntária): melhor preditor de suicídio consumado.
+3. Fatores psicológicos e de personalidade
+• Perfeccionismo e autocrítica: associados a maior risco entre profissionais de saúde.
+• Desesperança cognitiva: preditor independente de suicídio.
+• Isolamento social e perda afetiva recente: eventos precipitantes críticos.
+4. Fatores ambientais
+• Acesso a meios letais (medicação controlada): aumenta risco de tentativa letal.
+Por que as demais alternativas estão incorretas:
+• Insight e suporte familiar são fatores de proteção, não de risco.
+• A alternativa omite fatores de risco decisivos (histórico familiar, desesperança,
+perfeccionismo).
+• A culpa e o arrependimento pós-tentativa não reduzem o risco imediato, e o suporte
+familiar isolado não neutraliza múltiplos fatores de alto risco.
+Referências:
+American Psychiatric Association. DSM-5 – Manual Diagnóstico e Estatístico de
+Transtornos Mentais. Porto Alegre: Artmed, 2014.
+Quevedo, João. Emergências psiquiátricas. Grupo A, 2020.
+Stahl, Stephen M. Fundamentos de Psicofarmacologia de Stahl: Guia de Prescrição. Grupo
+A, 2019.
+Stahl, Stephen M. Psicofarmacologia – Bases Neurocientíficas e Aplicações Práticas. Grupo
+GEN, 2014.
+Ministério da Saúde (Brasil). Linha de Cuidado para Prevenção do Suicídio e Promoção da
+Saúde Mental. Brasília: MS, 2023.
+Brasil. Lei nº 10.216/2001 – Proteção dos direitos das pessoas com transtornos mentais.
+Conselho Federal de Medicina. Código de Ética Médica. Resolução CFM nº 2.217/2018.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 22 de 69
+
+Feedback:
+-17ª QUESTÃO
+Enunciado:
+(FACIMPA) Um idoso de 68 anos, portador de hanseníase multibacilar em tratamento
+regular com rifampicina, dapsona e clofazimina, comparece à UBS relatando cansaço e
+palidez há duas semanas. Refere boa adesão medicamentosa e dieta pouco variada. Ao
+exame físico: mucosas hipocoradas, sem icterícia, sem esplenomegalia.
+O hemograma revelou:
+Parâmetro
+
+Resultado
+
+Valores de referência
+
+Hemoglobina 9,2 g/dL
+
+13–17 g/dL
+
+Hematócrito
+
+28%
+
+40–50%
+
+VCM
+
+110 fL
+
+80–96 fL
+
+Leucócitos
+
+6.800 /mm³
+
+4.000–10.000
+
+Plaquetas
+
+220.000 /mm³ 150.000–450.000
+
+Com base no quadro clínico e nos achados laboratoriais, qual deve ser a conduta mais
+adequada para este paciente na Atenção Primária à Saúde?
+Alternativas:
+(alternativa A)
+Interromper todo o tratamento da hanseníase e encaminhar o paciente para unidade
+hospitalar de urgência.
+(alternativa B) (CORRETA)
+Manter o esquema poliquimioterápico e investigar anemia megaloblástica associada ao
+uso de dapsona, com suplementação de ácido fólico.
+(alternativa C)
+Iniciar transfusão sanguínea imediata e suspender rifampicina, considerando anemia
+hemolítica induzida por fármaco.
+(alternativa D)
+Suspender imediatamente a dapsona e iniciar reposição de ferro oral por suspeita de
+anemia ferropriva secundária à dieta pobre em ferro.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 23 de 69
+
+Resposta comentada:
+Incorreta. A anemia ferropriva é microcítica e hipocrômica, enquanto o hemograma
+mostra macrocitose (VCM elevado).
+Correta. A dapsona pode causar hemólise leve e induzir anemia megaloblástica por
+deficiência de folato. O manejo na APS inclui investigar causas nutricionais e suplementar
+ácido fólico (5 mg/dia), mantendo a poliquimioterapia supervisionada.
+Incorreta. Não há critérios de urgência nem indicação para suspender o tratamento da
+hanseníase.
+Incorreta. A transfusão não é indicada neste contexto; a anemia é leve/moderada e
+requer abordagem ambulatorial.
+Referências:
+BRASIL. Ministério da Saúde. Guia prático sobre a hanseníase. Brasília: Ministério da
+Saúde, 2022.
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Hanseníase.
+Brasília: Ministério da Saúde, 2021.
+BRASIL. Ministério da Saúde. Caderno de Atenção Básica: Atenção Integral às Pessoas
+com Doenças de Interesse da Saúde Pública. Brasília: MS, 2019.
+GUYTON, A. C.; HALL, J. E. Tratado de fisiologia médica. 14. ed. Rio de Janeiro: Elsevier,
+2021.
+PORTO, C. C. Semiologia médica. 8. ed. Rio de Janeiro: Guanabara Koogan, 2019.
+Feedback:
+-18ª QUESTÃO
+Enunciado:
+(AFYA ITABUNA) Uma gestante de 20 semanas, atendida na UBS, apresenta sorologia
+positiva para toxoplasmose com IgM positivo e IgG positivo; realizou também teste de
+avidez com resultado compatível com baixa avidez. A ultrassonografia obstétrica não
+mostrou alterações fetais. Segundo as diretrizes atuais, qual o plano terapêutico mais
+adequado para essa paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar imediatamente o esquema com espiramicina 500 mg via oral, de 8/8 h, até o final
+da gestação.
+(alternativa B)
+Suspender a investigação, pois a presença de IgG indica imunidade e ausência de risco
+fetal.
+(alternativa C)
+Aguardar novo teste sorológico em 3 semanas para confirmar infecção ativa antes de
+iniciar tratamento.
+(alternativa D)
+Iniciar tratamento com sulfadiazina, pirimetamina e ácido folínico, independentemente da
+avaliação fetal.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 24 de 69
+
+Resposta comentada:
+Em caso de infecção aguda confirmada por IgM positivo + IgG com baixa avidez, o
+tratamento deve ser iniciado imediatamente com espiramicina, pois:
+A espiramicina reduz o risco de transmissão placentária do Toxoplasma gondii.
+O tratamento com sulfadiazina, pirimetamina e ácido folínico é reservado para
+casos em que a infecção fetal for confirmada por PCR positivo no líquido
+amniótico ou sinais sugestivos na ultrassonografia.
+Não se deve aguardar nova sorologia para iniciar o tratamento após confirmação
+laboratorial da infecção aguda.
+A presença de IgG com IgM positivo e baixa avidez indica infecção recente, com
+risco para o feto.
+Referências:
+FEDERAÇÃO BRASILEIRA DAS ASSOCIAÇÕES DE GINECOLOGIA E OBSTETRÍCIA
+(FEBRASGO). Toxoplasmose e gravidez. Protocolo FEBRASGO‑Obstetrícia, nº 23. São
+Paulo, 2021. Disponível em: https://www.febrasgo.org.br/images/pec/anticoncepcao/n23--O--Toxoplasmose-e-gravidez.pdf. Acesso em: 16 nov. 2025.
+Feedback:
+-19ª QUESTÃO
+Enunciado:
+(UNIREDENTOR) Um paciente de 74 anos comparece ao ambulatório de clínica médica
+para avaliação de função renal. Refere hipertensão arterial há 15 anos, em uso irregular
+de anti-hipertensivos. Nega diabetes. Apresenta creatinina sérica de 1,9 mg/dL, taxa de
+filtração glomerular estimada (TFGe) de 42 mL/min/1,73 m² e albuminúria de 250 mg/g.
+Com base nas diretrizes atuais da KDIGO, como deve ser classificada a DRC deste
+paciente?
+
+Alternativas:
+(alternativa A) (CORRETA)
+Estágio G3aA2 – DRC moderada, com albuminúria moderada.
+(alternativa B)
+Estágio G2A3 – DRC leve, com proteinúria nefrótica.
+(alternativa C)
+Estágio G1A2 – DRC leve, sem repercussão clínica.
+(alternativa D)
+Estágio G4A1 – DRC grave, sem albuminúria.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 25 de 69
+
+Resposta comentada:
+- “Estágio G1A2 – DRC leve, sem repercussão clínica”. Incorreta – TFGe < 60 mL/min/1,73
+m² exclui o estágio G1; além disso, a albuminúria está aumentada.
+- “Estágio G2A3 – DRC leve, com proteinúria nefrótica”. Incorreta – A albuminúria é
+moderada (A2: 30–300 mg/g), e não nefrótica (>300 mg/g).
+- “Estágio G3aA2 – DRC moderada, com albuminúria moderada”. Correta – TFGe entre 45–
+59 mL/min/1,73 m² → G3a; albuminúria entre 30–300 mg/g → A2. Portanto, DRC estágio
+G3aA2, considerada moderada.
+- “Estágio G4A1 – DRC grave, sem albuminúria.” Incorreta – TFGe não corresponde ao
+estágio G4 (<30 mL/min/1,73 m²), e o paciente apresenta albuminúria significativa.
+Referência:
+JALAL, Diana I.; TANGRI, Navdeep; NAGY, Karen. Brenner e Rector: O Rim. 12. ed. Rio de
+Janeiro: Elsevier, 2023.
+Feedback:
+-20ª QUESTÃO
+Enunciado:
+(UNISL PORTO VELHO) Um homem de 25 anos é atendido na UPA após uma tentativa de
+suicídio. Ele apresenta sintomas de síndrome depressiva, incluindo humor deprimido,
+anedonia, fadiga e dificuldade de concentração. Durante a avaliação, o paciente relata
+sentir-se desesperançado e afirma que acredita que sua vida não tem mais sentido. Ele
+menciona também a perda recente de um emprego e o término de um relacionamento. A
+equipe de saúde mental está avaliando a necessidade de internação e intervenções de
+tratamento.
+Considerando o quadro clínico apresentado, qual dos seguintes aspectos éticos e legais
+deve ser prioritariamente abordado pela equipe de saúde ao lidar com o paciente?
+Alternativas:
+(alternativa A)
+Respeito à autonomia do paciente em decidir sobre a implementação do tratamento,
+mesmo que ele esteja em crise durante avaliação.
+(alternativa B)
+A importância de assegurar que o paciente não tenha acesso a meios de suicídio, como
+medicamentos ou objetos cortantes.
+(alternativa C)
+A obrigatoriedade de notificar a família do paciente sobre sua condição imediatamente,
+independentemente do consentimento.
+(alternativa D) (CORRETA)
+A necessidade de avaliar o risco de suicídio e a possibilidade de internação involuntária
+se o paciente estiver em perigo iminente.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 26 de 69
+
+Resposta comentada:
+Resposta correta:
+A necessidade de avaliar o risco de suicídio e a possibilidade de internação
+involuntária se o paciente estiver em perigo iminente.
+Justificativa:
+Respeito à autonomia do paciente em decidir sobre a implementação do
+tratamento, mesmo que ele esteja em crise durante avaliação. - Incorreta
+Embora a autonomia seja um princípio importante, em situações de crise, pode ser
+necessário limitar essa autonomia para proteger a vida do paciente.
+A obrigatoriedade de notificar a família do paciente sobre sua condição
+imediatamente, independentemente do consentimento - Incorreta
+A notificação da família deve considerar o consentimento do paciente, especialmente em
+situações sensíveis.
+A necessidade de avaliar o risco de suicídio e a possibilidade de internação
+involuntária se o paciente estiver em perigo iminente - Correta
+Avaliar o risco de suicídio e considerar a internação involuntária são ações essenciais
+para garantir a segurança do paciente em situações de emergência.
+A necessidade de realizar uma avaliação neurológica completa para descartar
+condições que possam contribuir para os sintomas apresentados - Incorreta
+Embora uma avaliação neurológica possa ser relevante em alguns casos, a prioridade
+imediata deve ser a avaliação do risco de suicídio e a segurança do paciente.
+Referências bibliográficas:
+Manual diagnóstico e estatístico de transtornos mentais: DSM-5 / [American Psychiatric
+Association; tradução: Maria Inês Corrêa Nascimento...et al.]. 5. ed. Dados eletrônicos.
+Porto Alegre: Artmed, 2014.
+QUEVEDO, João. Emergências psiquiátricas. Grupo A, 2020. E-book. ISBN
+9788582715970. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582715970/. Acesso em: 28 de
+outubro de 2024.
+STAHL, Stephen M. Fundamentos de psicofarmacologia de Stahl: guia de prescrição.
+Grupo A, 2019. E-book. ISBN 9788582715307. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582715307/. Acesso em: 28 de
+outubro de 2024.
+STAHL, Stephen M. Psicofarmacologia – Bases Neurocientíficas e Aplicações Práticas.
+Grupo GEN, 2014. E-book. ISBN 978-85-277-2629-0. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2629-0/. Acesso em: 28 de
+outubro de 2024.
+
+Feedback:
+-21ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 27 de 69
+
+Enunciado:
+(AFYA PALMAS) Gestante com 32 anos, G3PN2A0, com idade gestacional de 39 semanas
+e 2 dias, datados a partir de ultrassonografia precoce, está sob assistência ao trabalho de
+parto e com evolução apresentada no partograma representado abaixo.
+A partir das informações do partograma qual o diagnóstico e a conduta?
+
+Alternativas:
+(alternativa A)
+Parada secundária da dilatação; fórceps de Kielland.
+(alternativa B)
+Parada secundária da dilatação e descida; fórceps de Simpson.
+(alternativa C) (CORRETA)
+Parada secundária da dilatação; cesariana.
+(alternativa D)
+Parada secundária da dilatação e descida; cesariana.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 28 de 69
+
+Resposta comentada:
+Parada da dilatação pois a paciente apresenta a mesma dilatação nas duas últimas
+avaliações com intervalo de 2 horas, mesmo com contrações efetivas, não demonstrando
+que a parada da dilatação fosse por falta de contrações.
+Importante notar que a frequência cardíaca fetal está em 90 batimentos por minuto,
+indicando bradicardia fetal. Sendo indicado resolução da gestação.
+A apresentação fetal encontra-se acima do estreito médio, no Plano 1 De Lee, sendo
+contraindicado o fórceps.
+A parada da descida fetal é caracterizada como ausência de descida/rotação com
+contrações uterinas adequadas e rotura de membranas:
+> 3h em nulíparas
+> 2h em multíparas
+Acrescentar 1 hora se analgesia peridural
+A paciente em questão estava com 7 cm de dilatação, por isso não podemos caracterizar
+como parada da descida.
+E uso de Fórceps não está indicado: não se enquadra nas indicações de aplicabilidade de
+fórceps:
+Plano positivo de De Lee.
+A parada da descida fetal é caracterizada como ausência de descida/rotação com
+contrações uterinas adequadas e rotura de membranas:
+> 3h em nulíparas
+> 2h em multíparas
+Acrescentar 1 hora se analgesia peridural
+A paciente em questão estava com 7 cm de dilatação, por isso não podemos caracterizar
+como parada da descida.
+Referência:
+Diretriz Nacional de Assistência ao Parto Normal, Ministério da Saúde . Brasília, 2022.
+Feedback:
+-22ª QUESTÃO
+Enunciado:
+(FACIMPA) P. M. N., 15 anos, sexo feminino, comparece à Unidade Básica de Saúde
+acompanhada pela mãe, relatando “fraqueza” súbita no membro inferior esquerdo há 24
+horas, que a impede de caminhar desde o episódio. Refere que, na manhã anterior, teve
+uma discussão intensa com colegas na escola e sentiu-se muito ansiosa. Ao exame físico:
+paciente consciente, orientada, sem déficit de fala ou envolvimento facial; marcha
+impossível por aparente fraqueza do
+membro inferior esquerdo. Ao teste de força, há resistência volitiva variável com
+“cedimento” (give-way) quando solicitada força máxima; reflexos tendinosos preservados
+e simétricos; sensibilidade tátil e dolorosa relatada como normal e sem padrão
+dermatomal claro; sinal de Babinski ausente; sinais vitais normais; não há relato de
+febre, cefaleia intensa, traumatismo ou infecção respiratória prévia. Não foram realizados
+exames complementares no UBS.
+Diante do caso, a hipótese diagnóstica mais provável seria
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 29 de 69
+
+Alternativas:
+(alternativa A)
+Síndrome de Guillain-Barré na fase inicial.
+(alternativa B)
+Miastenia gravis com acometimento pseudoperiférico.
+(alternativa C)
+Acidente vascular cerebral isquêmico hemisférico.
+(alternativa D) (CORRETA)
+Transtorno funcional neurológico (sintomas neurológicos funcionais).
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 30 de 69
+
+Resposta comentada:
+Resposta Comentada:
+O quadro apresenta início agudo de perda de função motora isolada em adolescente,
+frequentemente desencadeado por estresse psicossocial (a discussão na escola). Achados
+do
+exame que apontam para transtorno funcional neurológico incluem: inconsistência e
+variabilidade da fraqueza à prova de força, presença de “give-way” (cedimento) e sinal
+de
+Hoover positivo (sugestivo de esforço submáximo voluntário com preservação de ação
+antagonista), preservação dos reﬂexos e ausência de distribuição sensitiva em
+dermátomos,
+além de ausência de sinais neurológicos centrais, como alteração de linguagem ou sinal
+piramidal. A presença desses sinais clínicos compatíveis com incongruência entre história
+e
+exame é característica de transtornos funcionais neurológicos e torna essa hipótese a
+mais
+provável no contexto da UBS, antes de investigações complementares. O manejo inicial
+inclui
+reconhecimento, explicação clara e empática do diagnóstico, evitar termos que
+impliquem
+“simulação”, e encaminhamento para avaliação neurológica/psiquiátrica e reabilitação
+funcional.
+Acidente vascular cerebral isquêmico hemisférico.
+Argumentos contrários: AVC isquêmico em adolescente é muito menos provável que
+cause
+um quadro isolado de fraqueza com sinais inconsistentes; além disso, AVC costuma
+apresentar déﬁcit focal persistente com padrão neurológico compatível (déﬁcit motor
+com
+alteração de tônus, reﬂexos assimétricos, possíveis alterações de linguagem ou
+sensoriais em
+distribuição neuroanatômica), e não a variabilidade/inconsistência observada (give-way,
+Hoover positivo). Ademais, sinais vitais e história não indicam fatores de risco ou início
+súbito com progressão típica de isquemia. Em qualquer dúvida clínica sobre AVC, deverá
+ser
+considerada neuroimagem urgente, mas no cenário descrito os achados sem suporte
+anatômico favorecem transtorno funcional.
+Síndrome de Guillain-Barré na fase inicial.
+Argumentos contrários: Guillain-Barré tipicamente cursa com fraqueza progressiva,
+simétrica
+e ascendente, acometendo frequentemente ambos os membros inferiores, com
+redução/ausência
+de reﬂexos tendinosos (arreﬂexia) e possível envolvimento sensitivo e autonômico;
+costuma
+ter história de infecção recente (dias-semanas) e progressão ao longo de dias. No caso
+apresentado, a fraqueza é unilateral, os reﬂexos estão preservados e há inconsistência
+volitiva
+— achados incompatíveis com o padrão clássico de Guillain-Barré.
+Miastenia gravis com acometimento pseudoperiférico
+Argumentos contrários: Miastenia gravis costuma apresentar fatigabilidade muscular que
+piora com uso repetido, acometimento ocular (ptose, diplopia) e bulbar em muitos casos;
+a
+fraqueza é tipicamente flutuante ao longo do dia e relacionada ao esforço, não mostrando
+sinais de inconsistência voluntária, como Hoover positivo. Além disso, miastenia
+raramente se
+apresenta como fraqueza unilateral isolada do membro inferior como primeiro sinal em
+adolescentes; os reﬂexos tendinosos geralmente são preservados, mas a presença de
+sinal
+clínico de inconsistência (give-way) e desencadeamento psicossocial próximo apontam
+mais
+para transtorno funcional. Investigação com eletromiografia e testes farmacológicos
+ajudariam a excluir miastenia se houver suspeita.
+Referência:
+AMERICAN PSYCHIATRIC ASSOCIATION. Manual diagnóstico e estatístico de transtornos
+mentais: DSM-5. 5. ed. Porto Alegre: Artmed, 2014.
+Feedback:
+-000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 31 de 69
+
+23ª QUESTÃO
+Enunciado:
+(UNIGRANRIO CAXIAS) Gestante de 29 anos, G2P1A0, com 32 semanas, procura a
+maternidade por contrações regulares há cerca de 2 horas, a cada 5 minutos, com
+duração aproximada de 20 segundos. Refere perda de tampão mucoso, sem
+sangramento, febre ou perda de líquido. Encontra-se estável, com PA 110/70 mmHg e
+temperatura 36,8 °C. Ausculta fetal com BCF 150 bpm. Ao exame vaginal, apresenta colo
+uterino com 2 cm de dilatação, 50% de apagamento e bolsa íntegra. Ultrassonografia
+recente evidencia feto único vivo, peso estimado de 1.700 g, líquido amniótico normal e
+placenta posterior alta.
+Qual deve ser a conduta inicial adequada para esse caso?
+Alternativas:
+(alternativa A)
+Realizar cesariana imediata visando prevenir possível sofrimento fetal e reduzir risco
+materno-fetal associado à prematuridade.
+
+(alternativa B) (CORRETA)
+Instituir tocólise e corticosteroide para maturação pulmonar fetal, considerar sulfato de
+magnésio para neuroproteção e investigar fatores precipitantes antes de definir conduta
+definitiva.
+
+(alternativa C)
+Manter apenas observação clínica expectante, sem intervenção inicial, e reavaliar a
+paciente posteriormente somente se ocorrer rotura de membranas ou piora importante
+do quadro.
+(alternativa D)
+Administrar ocitocina para intensificar as contrações, acelerar o trabalho de parto e
+reduzir o tempo até o nascimento do recém-nascido.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 32 de 69
+
+Resposta comentada:
+Justificativas
+Alternativa
+
+Justificativa
+
+Cesárea não está indicada. Não há sofrimento
+Realizar cesariana imediata visando
+fetal nem contraindicação ao manejo
+prevenir possível sofrimento fetal e
+conservador. A cesariana não reduz riscos da
+reduzir risco materno-fetal associado à
+prematuridade e não é conduta inicial em TPP
+prematuridade.— Incorreta
+estável.
+Administrar ocitocina para intensificar
+as contrações, acelerar o trabalho de
+parto e reduzir o tempo até o
+nascimento do recém-nascido. —
+Incorreta
+
+Ocitocina está contraindicada em trabalho de
+parto prematuro sem indicação de interrupção
+imediata. A conduta é inibir contrações, não
+estimulá-las.
+
+Instituir tocólise e corticosteroide para
+maturação pulmonar fetal, associar
+sulfato de magnésio para
+neuroproteção e investigar fatores
+precipitantes antes de definir conduta
+definitiva. — Correta
+
+Conduta padrão: tocolíticos (se elegível),
+corticoterapia antenatal (24–34s), sulfato de
+magnésio para neuroproteção (até 32–34
+semanas) e investigação etiológica (IVU,
+infecções, etc.). Visa prolongar a gestação e
+reduzir a morbimortalidade neonatal.
+
+Manter apenas observação clínica
+expectante, sem intervenção inicial, e
+reavaliar a paciente posteriormente
+somente se ocorrer rotura de
+membranas ou piora importante do
+quadro.— Incorreta
+
+Conduta expectante isolada é inadequada.
+Necessita intervenção imediata (tocolítico +
+corticoide + MgSO₄) para reduzir complicações
+da prematuridade. Conduta de "esperar romper
+bolsa" é inapropriada e arriscada.
+
+Referência:
+ALSO Brasil – Advanced Life Support in Obstetrics: Manual e Programa de Estudos. São
+Paulo: Sarvier Editora de Livros Médicos, 2022.
+Feedback:
+-24ª QUESTÃO
+Enunciado:
+(UNISL PORTO VELHO) Criança de 8 anos é trazida à UBS pela mãe, que relata que o filho
+não interage bem com outras crianças, prefere brincar sozinho e apresenta
+comportamentos repetitivos, como alinhar objetos e insistir em rotinas específicas. Na
+escola, tem dificuldade em compreender regras sociais e responde de forma literal às
+instruções. O desenvolvimento motor foi normal, mas o atraso na fala foi notado até os 4
+anos de idade.
+Considerando o quadro clínico e os principais transtornos mentais da infância que
+repercutem no desenvolvimento neuropsíquico, o diagnóstico mais provável seria:
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 33 de 69
+
+Alternativas:
+(alternativa A) (CORRETA)
+Transtorno do espectro autista (TEA), pois o prejuízo na comunicação social e a presença
+de padrões restritos e repetitivos de comportamento são critérios diagnósticos.
+
+(alternativa B)
+Transtorno de déficit de atenção e hiperatividade (TDAH), pois a dificuldade de interação
+social e o comportamento repetitivo são manifestações comuns da impulsividade.
+
+(alternativa C)
+Transtorno de ansiedade social, pois a evitação de contato com colegas e o isolamento
+são característicos dessa condição.
+
+(alternativa D)
+Transtorno opositor desafiador, pois o comportamento inflexível e as dificuldades
+escolares indicam resistência ativa a regras.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 34 de 69
+
+Resposta comentada:
+Alternativa correta: Transtorno do espectro autista (TEA), pois o prejuízo na comunicação
+social e a presença de padrões restritos e repetitivos de comportamento são critérios
+diagnósticos.
+O Transtorno do Espectro Autista (TEA) é um transtorno do neurodesenvolvimento
+caracterizado por déficits persistentes na comunicação e interação social e por padrões
+restritos e repetitivos de comportamento, interesses ou atividades, de acordo com o
+DSM-5-TR (2022).
+No caso descrito, os atrasos na linguagem, a dificuldade de interação social recíproca, a
+falta de compreensão de regras sociais implícitas e os comportamentos repetitivos e
+inflexibilidade de rotinas são achados típicos do TEA.
+Outros transtornos mentais da infância também cursam com impacto no
+desenvolvimento neuropsíquico — como o TDAH, o transtorno de ansiedade, o transtorno
+opositor desafiador e o transtorno específico de aprendizagem —, mas não apresentam
+simultaneamente prejuízos sociais qualitativos e comportamentos repetitivos como no
+TEA.
+A abordagem inicial na UBS envolve identificação precoce, orientação familiar,
+encaminhamento para equipe multiprofissional (psiquiatria infantil, fonoaudiologia,
+psicologia e terapia ocupacional) e encaminhamento à rede especializada para
+confirmação diagnóstica.
+Alternativas incorretas — justificativa:
+• Transtorno de déficit de atenção e hiperatividade (TDAH), pois a dificuldade de
+interação social e o comportamento repetitivo são manifestações comuns da
+impulsividade: embora TDAH possa causar dificuldades sociais, o quadro central é
+desatenção/hiperatividade/impulsividade; não explica de forma qualitativa o prejuízo da
+reciprocidade social nem os padrões restritos e repetitivos típicos do TEA.
+• Transtorno de ansiedade social, pois a evitação de contato com colegas e o isolamento
+são característicos dessa condição; a evitação social na ansiedade é por medo de
+avaliação; não costuma incluir comportamentos estereotipados (alinhar objetos,
+insistência em rotinas) nem déficits qualitativos de comunicação (uso literal da
+linguagem).
+• Transtorno opositor desafiador, pois o comportamento inflexível e as dificuldades
+escolares indicam resistência ativa a regras: caracteriza-se por comportamento
+desafiador, hostil e desobediente; não descreve déficits precoces na comunicação social e
+comportamentos restritos repetitivos.
+Referências:
+AMERICAN PSYCHIATRIC ASSOCIATION (APA). Manual diagnóstico e estatístico de
+transtornos mentais: DSM-5-TR. 5. ed. rev. Porto Alegre: Artmed, 2022.
+BRASIL. Ministério da Saúde. Linha de cuidado para a atenção às pessoas com transtorno
+do espectro do autismo e suas famílias no Sistema Único de Saúde. Brasília: Ministério da
+Saúde, 2015.
+SILVA, M. T. A.; GAIÃO, L. R. Psiquiatria da infância e adolescência. 2. ed. Rio de Janeiro:
+Guanabara Koogan, 2021.
+Feedback:
+-25ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 35 de 69
+
+Enunciado:
+(FACIMPA) L.R.S., 14 anos, estudante, acompanhada da avó ao CAPS infantojuvenil,
+apresenta há 9 meses episódios recorrentes descritos como “desmaios”, dor abdominal
+intensa e ocasional urina “avermelhada” em casa. Teve múltiplas idas a prontos-socorros
+com exames sempre sem alterações relevantes (hemograma, PCR, eletrólitos, função
+tireoidiana, EEG e RM normais). Em duas visitas, trouxe amostras de urina com coloração
+rosada, porém no serviço as coletas supervisionadas foram claras, sem hematúria, e com
+densidade muito baixa. A adolescente demonstra amplo vocabulário médico, solicita
+exames e internação “para ficar no soro”, mantém contato frequente com a equipe e
+refere sentir-se “mais tranquila quando está sendo cuidada”. A escola relata frequência
+regular e desempenho estável; não houve pedidos de atestados prolongados ou
+benefícios. Em avaliação na unidade, os episódios não ocorreram sob observação
+contínua. O exame físico é inespecífico, notando-se discretas escoriações lineares
+recentes em coxa de fácil alcance; em seu estojo havia uma lanceta utilizada para
+artesanato. A família menciona histórico de procura de diferentes serviços por queixas
+semelhantes, sem diagnóstico orgânico definido. Com base no caso apresentado,
+pensando na hipótese diagnóstica mais provável, analise as afirmações abaixo e indique
+a opção que contempla a correta:
+I) O transtorno em questão é caracterizado por sintomas motores e/ou sensoriais
+incompatíveis com uma condição neurológica.
+II) Nesta condição, o paciente assume uma posição de doente e com necessidade de
+receber cuidados.
+III) Os exames complementares geralmente apresentam achados que sugerem alterações
+no sistema de condução do impulso nervoso.
+IV) A presença de exames repetidamente normais e a discrepância entre o relato da
+paciente e os achados objetivos são característicos.
+Alternativas:
+(alternativa A)
+I, II, III e IV.
+
+(alternativa B) (CORRETA)
+II e IV
+(alternativa C)
+I e II.
+
+(alternativa D)
+Apenas I.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 36 de 69
+
+Resposta comentada:
+Comentário:
+O quadro reúne elementos centrais: produção ou falsificação intencional de
+sinais/sintomas, busca ativa por procedimentos, ausência de incentivos externos
+claros (p. ex., ganhos financeiros, fuga de responsabilidades), história médica
+teatral e inconsistências entre relato e achados objetivos (amostras de urina alteradas
+fora do ambiente supervisionado; coletas no serviço sem alterações; presença de lanceta;
+escoriações em áreas acessíveis). O objetivo predominante é assumir o papel de doente e
+receber cuidados, compatível com início na adolescência e alto uso de serviços, conforme
+critérios descritos nos manuais diagnósticos contemporâneos. A assertiva I tem achados
+compatíveis com o transtorno conversivo, enquanto a assertiva III não é uma
+característica do transtorno factício.
+Referência:
+LOPES, Antonio C. Manual de Clínica Médica. Rio de Janeiro: Guanabara Koogan, 2020;
+DSM-5. Manual de Saúde Mental.
+Feedback:
+-26ª QUESTÃO
+Enunciado:
+Durante atendimento na Unidade de Saúde da Família, uma criança de 5 anos apresentase com dificuldade respiratória súbita após brincar com pequenas peças plásticas. Está
+ansiosa, pálida, com tiragem intercostal e estridor inspiratório. FC = 148 bpm, FR = 40
+irpm, PA = 90×55 mmHg, SpO₂ = 86% em ar ambiente, enchimento capilar 4 segundos.
+Considerando a avaliação inicial e as condutas frente às urgências e emergências
+médicas na APS, qual é a conduta mais adequada?
+Alternativas:
+(alternativa A) (CORRETA)
+Suspeitar de choque obstrutivo por corpo estranho, iniciar manobras de desobstrução e
+acionar o serviço de emergência para transporte imediato.
+(alternativa B)
+Prescrever broncodilatador inalatório e corticoterapia oral, orientando retorno em 24
+horas para reavaliação clínica.
+(alternativa C)
+Solicitar radiografia de tórax para confirmar o diagnóstico antes de qualquer intervenção
+ou encaminhamento.
+(alternativa D)
+Oferecer oxigênio sob máscara, observar a evolução por 30 minutos e encaminhar se não
+houver melhora clínica.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 37 de 69
+
+Resposta comentada:
+CORRETA: "Suspeitar de choque obstrutivo por corpo estranho..."- A criança apresenta
+sinais clássicos de choque obstrutivo secundário a obstrução de via aérea por corpo
+estranho: tiragem intensa, estridor, hipoxemia e perfusão lenta.
+A conduta correta é reconhecer a emergência, iniciar manobras de desobstrução
+(compressões torácicas ou abdominais, conforme idade), oferecer oxigênio suplementar e
+acionar o transporte imediato ao hospital de referência.
+As metas do tratamento incluem restaurar ventilação eficaz, oxigenação adequada (SpO₂
+> 94%) e perfusão tecidual.
+INCORRETAS:
+- "Oferecer oxigênio sob máscara..."- A simples observação frente a sinais de
+instabilidade hemodinâmica (hipotensão, taquicardia, hipoxemia e enchimento capilar
+lento) não é conduta segura. O quadro indica emergência respiratória e circulatória
+iminente.
+- "Prescrever broncodilatador inalatório..." - O quadro não é compatível com crise
+asmática: o início foi súbito e há estridor inspiratório, indicando obstrução alta. O uso de
+broncodilatador e corticóide não resolve obstrução mecânica e pode atrasar o
+atendimento emergencial.
+- "Solicitar radiografia de tórax..." - O pedido de radiografia em situação de instabilidade
+respiratória e circulatória retarda medidas salvadoras. Em emergências, o diagnóstico é
+clínico e a prioridade é garantir via aérea pérvia e oxigenação antes de qualquer exame
+complementar.
+GUSSO, G, et al. Tratado de medicina de família e comunidade - 2 volumes: princípios,
+formação e prática. Disponível em: Minha Biblioteca, (2nd edição). Grupo A, 2019.
+DUCAN, B, B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca, (5th edição). Grupo A, 2022.
+Feedback:
+-27ª QUESTÃO
+Enunciado:
+(UNIGRANRIO Barra) Joana, médica em uma unidade de saúde da família, atende Lucas,
+um homem de 28 anos, que procura atendimento após uma exposição de risco ao HIV
+ocorrida há 24 horas. Lucas relata que a camisinha estourou durante a relação sexual
+com uma pessoa de status sorológico desconhecido. Ele está ansioso e quer saber quais
+medidas preventivas deve adotar para evitar a infecção por HIV.
+Com base no contexto apresentado e nas referências sugeridas, qual das alternativas
+abaixo descreve a abordagem adequada para o manejo preventivo do usuário em
+questão?
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar orientações sobre riscos, prevenção e realizar profilaxia pós-exposição com uso
+do PEP no mesmo momento do atendimento.
+(alternativa B)
+Realizar aconselhamento sobre o uso correto de preservativos e oferecer teste de HIV e
+outras ISTs em um mês, caso não apresente sintomas.
+(alternativa C)
+Informar que medidas preventivas não são necessárias e que ele deve aguardar três
+meses para realizar o teste sorológico.
+(alternativa D)
+Sugerir exame de carga viral a ser coletado na própria unidade e esperar resultados para
+intervenção profilática.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 38 de 69
+
+Resposta comentada:
+Resposta correta: "Realizar orientações sobre riscos, prevenção e realizar profilaxia pósexposição com uso do PEP no mesmo momento do atendimento", pois a profilaxia pósexposição (PEP) deve ser iniciada até 72 horas após a exposição ao HIV e outras ISTs,
+conforme as diretrizes de saúde pública, complementando com orientação sobre
+prevenção futura. Essa abordagem garante eficácia na prevenção de infecções e está
+baseada nas melhores práticas descritas nas referências sugeridas.
+Alternativa "Informar que medidas preventivas não são necessárias e que ele deve
+aguardar três meses para realizar o teste sorológico" (errada): A afirmação de que não
+são necessárias medidas preventivas é incorreta e contraria as diretrizes estabelecidas
+na literatura médica. Segundo DUCAN et al. (2022), em casos de exposição ao HIV, é
+imprescindível a adoção de medidas imediatas para evitar a infecção, que incluem a
+profilaxia pré-exposição (PeP). A espera de três meses para o teste sorológico também é
+inadequada, uma vez que os testes podem ser realizados antes desse período, com
+orientações quanto à janela imunológica. Portanto, a orientação correta é iniciar a PeP o
+quanto antes.
+Alternativa "Realizar aconselhamento sobre o uso correto de preservativos e oferecer
+teste de HIV e outras ISTs em um mês caso não apresente sintomas" (errada): embora o
+aconselhamento sobre o uso correto de preservativos seja importante, essa abordagem é
+insuficiente e não considera a urgência da situação de Lucas, que se apresentou após
+uma exposição recente ao HIV. Conforme indicado pelas diretrizes de manejo preventivo,
+é essencial que ele receba a profilaxia pós-exposição (PeP) imediatamente e não em um
+mês, mesmo que não apresente sintomas. A oferta de testes de HIV e ISTs deve ocorrer
+imediatamente, junto com a PeP, como parte de um manejo abrangente para a
+prevenção da infecção, conforme destacado nas referências.
+Alternativa "Sugerir exame de carga viral a ser coletado na própria unidade e esperar
+resultados para intervenção profilática" (errada): A sugestão de realizar um exame de
+carga viral e esperar os resultados antes de iniciar qualquer intervenção profilática é
+inadequada. DUCAN et al. (2022) ressaltam que, em situações de exposição ao HIV, as
+medidas de profilaxia pós-exposição (PeP) devem ser iniciadas o mais rápido possível,
+preferencialmente dentro de 72 horas após a exposição. Além disso, adiantar a coleta de
+exames e aguardar resultados pode resultar em atrasos na proteção do paciente, o que
+vai contra as recomendações de intervenção imediata para prevenção do HIV.
+Referências:
+DUCAN, B., B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca (5.ª edição). Grupo A, 2022. (Cap. 156).
+Acesso em: 29 nov. 2024.
+Cuidado integral às pessoas que vivem com HIV pela Atenção Básica. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/cuidado_integral_hiv_manual_multiprofission
+al.pdf. Acesso em: 29 nov. 2024.
+Manejo da Infecção pelo HIV em Adultos. Disponível em: https://www.gov.br/aids/ptbr/central-de-conteudo/pcdts/pcdt_hiv_modulo_1_2024.pdf. Acesso em: 29 nov. 2024.
+Feedback:
+-28ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 39 de 69
+
+Enunciado:
+(FESAR) Paciente masculino cisgênero, 80 anos, é trazido ao pronto-socorro com fraqueza
+progressiva, náuseas e oligúria nas últimas 24 horas. Histórico: diabetes tipo 2 em uso de
+metformina. Ao exame: PA 90/60 mmHg, FC 110 bpm, FR 24 ipm e nível de consciência
+levemente rebaixado.
+Solicitada gasometria arterial e eletrólitos, obteve os seguintes resultados:
+Exame
+
+Valor
+
+Valores de referência
+
+pH
+
+7,25
+
+7,35–7,45
+
+PaCO₂
+
+26 mmHg
+
+35–45 mmHg
+
+HCO₃⁻
+
+11 mEq/L
+
+22–26 mEq/L
+
+Na⁺
+
+138 mEq/L 135–145 mEq/L
+
+K⁺
+
+4,2 mEq/L
+
+Cl⁻
+
+105 mEq/L 98–107 mEq/L
+
+3,5–5,0 mEq/L
+
+Lactato sérico 6,0 mmol/L 0,5–2,2 mmol/L
+
+Creatinina
+
+2,3 mg/dL
+
+0,6–1,3 mg/dL
+
+Com base no caso, analise os achados e identifique o distúrbio ácido-base mais provável
+e a conduta inicial.
+
+Alternativas:
+(alternativa A)
+Cetoacidose diabética, caracterizada por acidose metabólica de alto gap; iniciar infusão
+de insulina, reposição volêmica e monitorização de eletrólitos.
+(alternativa B)
+Acidose metabólica de gap normal, geralmente associada à diarreia; tratar com reposição
+de líquidos e eletrólitos, mantendo monitorização clínica.
+(alternativa C) (CORRETA)
+Acidose metabólica de alto anion gap, provavelmente por acidose láctica induzida por
+metformina; suspender a medicação, reanimar com líquidos IV e considerar hemodiálise
+emergencial.
+(alternativa D)
+Acidose respiratória aguda, secundária à insuficiência ventilatória; iniciar suporte
+ventilatório e ajustar parâmetros respiratórios conforme necessidade.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 40 de 69
+
+Resposta comentada:
+Ao analisar, observa-se que:
+Acidose metabólica: pH 7,25 e HCO₃⁻ 11 mEq/L → confirma.
+Cálculo do anion gap: AG = Na⁺ − (Cl⁻ + HCO₃⁻) = 138 − (105+11) = 22 mEq/L →
+elevado.
+Compensação respiratória: PaCO₂ esperada ≈ 1,5 × 11 + 8 ± 2 = 24,5 ± 2 mmHg →
+PaCO₂ medida = 26 mmHg → compensação adequada.
+Causa provável: paciente idoso, insuficiência renal, lactato elevado, uso de metformina →
+acidose láctica induzida por droga.
+Conduta inicial: suspender metformina, reanimar com cristaloides, suporte
+hemodinâmico, considerar hemodiálise.
+Por que as outras alternativas são incorretas: Cetoacidose diabética: hiperglicemia e
+cetonemia não relatadas; Acidose de gap normal: AG elevado descarta. Acidose
+respiratória: PaCO₂ baixo, compatível com compensação, não é primário.
+
+Referências:
+GUYTON, A. C.; HALL, J. E. Fisiologia Médica (Guyton & Hall). Rio de Janeiro: Elsevier,
+2020.
+LONGO, D. L. et al. Harrison — Medicina Interna. 20.ª ed., Rio de Janeiro: McGraw-Hill,
+2020.
+TINTINALLI, J. E. Medicina de Emergência. Rio de Janeiro: Guanabara Koogan, 2022.
+Feedback:
+-29ª QUESTÃO
+Enunciado:
+(AFYA ITACOATIARA) Mulher de 32 anos procura a Unidade Básica de Saúde informando
+que seu marido, com quem mantém relação estável há 8 anos, foi recentemente
+diagnosticado como soropositivo para HIV. Relata que tiveram relação sexual
+desprotegida (sem preservativo) nas últimas 48 horas, antes da revelação do diagnóstico.
+Ela está angustiada e deseja saber o que pode ser feito para evitar a infecção.
+Considerando os protocolos clínicos vigentes do Ministério da Saúde, qual a conduta mais
+adequada neste caso?
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar imediatamente a PEP com esquema de três antirretrovirais, preferencialmente em
+até 72 horas após a exposição.
+(alternativa B)
+Prescrever a PrEP de forma contínua, pois ela já esteve exposta ao risco de infecção.
+(alternativa C)
+Aguardar resultado de testagem rápida para HIV antes de iniciar qualquer tratamento,
+mesmo que ultrapasse 72 horas.
+(alternativa D)
+Não há indicação de intervenção medicamentosa, pois a exposição foi com parceiro fixo e
+estável.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 41 de 69
+
+Resposta comentada:
+Iniciar imediatamente a PEP com esquema de três antirretrovirais, preferencialmente em
+até 72 horas após a exposição.
+Correta: Descreve a conduta recomendada nos Protocolos Clínicos e Diretrizes
+Terapêuticas (PCDT) do Ministério da Saúde: iniciar profilaxia pós-exposição (PEP) o mais
+rápido possível, preferencialmente nas primeiras 2 horas, com limite de até 72 horas
+após a exposição, por 28 dias. O esquema inclui três antirretrovirais combinados.
+Aguardar resultado de testagem rápida para HIV antes de iniciar qualquer tratamento,
+mesmo que ultrapasse 72 horas.
+Incorreta: Aguardar testagem retarda a administração da PEP e compromete sua eficácia.
+O tratamento deve ser iniciado mesmo com sorologia inicial desconhecida.
+Prescrever a PrEP de forma contínua, pois ela já esteve exposta ao risco de infecção.
+Incorreta: A PrEP (profilaxia pré-exposição) é indicada para exposições futuras de risco,
+não sendo o protocolo inicial após uma exposição confirmada.
+Não há indicação de intervenção medicamentosa, pois a exposição foi com parceiro fixo e
+estável.
+Incorreta: Relação com parceiro fixo não exclui risco de transmissão, especialmente com
+carga viral detectável e relação desprotegida recente.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Profilaxia
+Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites virais. Brasília: MS,
+2021.
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Profilaxia
+Pré-Exposição (PrEP) de Risco à Infecção pelo HIV. Brasília: MS, 2022.
+Cunha, C. A. Doenças Infecciosas e Parasitárias. 9.ª ed. Rio de Janeiro: Guanabara
+Koogan, 2020.
+Feedback:
+-30ª QUESTÃO
+Enunciado:
+(FMIT) Um homem de 48 anos, etilista crônico, é admitido no pronto-socorro com dor
+abdominal intensa em faixa, irradiada para o dorso, associada a náuseas e vômitos há 12
+horas. Ao exame físico, apresenta abdome distendido, doloroso à palpação profunda, sem
+sinais de irritação peritoneal. Os exames laboratoriais mostram amilase e lipase séricas
+elevadas. O médico suspeita de pancreatite aguda e solicita exames de imagem para
+avaliar a gravidade do quadro.
+Qual é o método diagnóstico e de avaliação da gravidade mais apropriado neste
+momento?
+Alternativas:
+(alternativa A) (CORRETA)
+Tomografia computadorizada de abdome com contraste.
+(alternativa B)
+Ressonância magnética de abdome.
+(alternativa C)
+Dosagem sérica seriada de amilase e lipase.
+(alternativa D)
+Ultrassonografia endoscópica com doppler.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 42 de 69
+
+Resposta comentada:
+Alternativa: A tomografia é o exame de escolha para avaliar gravidade e complicações da
+pancreatite aguda, como necrose ou coleções. Deve ser feita após 48–72 horas, quando
+as alterações são melhor delimitadas.
+Alternativa: A ressonância é útil quando há contraindicação ao contraste iodado ou dúvida
+diagnóstica, mas não substitui a TC como primeira escolha em fase aguda. Além disso,
+não deve ser realizada antes da estabilização do paciente.
+Alternativa: A ultrassonografia endoscópica é excelente para avaliar microlitíase e
+pequenas lesões, mas não é indicada de rotina para diagnóstico nem para guiar decisão
+cirúrgica precoce na pancreatite aguda complicada.
+Alternativa: Embora úteis para diagnóstico inicial, amilase e lipase não avaliam
+gravidade. A determinação da extensão inflamatória e complicações requer exames de
+imagem, principalmente a tomografia contrastada.
+Referência:
+DOHERTY, Gerard M. CURRENT Cirurgia. 14. ed. Porto Alegre: AMGH, 2017. E-book. p.610.
+ISBN 9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580556018/. Acesso em: 19
+out. 2025.
+Feedback:
+-31ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Sr. Antenor, 78 anos, com histórico de hipertensão e diabetes tipo 2, está
+internado na enfermaria por quadro de infecção urinária complicada com sepse. Evoluiu
+com diminuição do débito urinário há 48 horas, aumento progressivo da creatinina (hoje:
+5,4 mg/dL) e ureia de 160 mg/dL, além de náuseas intensas, confusão mental e edema
+de membros inferiores. Gasometria com pH 7,21 e bicarbonato 13 mEq/L. Com base no
+quadro clínico, assinale a alternativa que melhor justifica a indicação de terapia dialítica
+neste paciente com insuficiência renal aguda.
+Alternativas:
+(alternativa A)
+O tratamento inicial deve ser aumento da hidratação venosa e diurético de alça, sem
+necessidade de terapia dialítica.
+(alternativa B)
+O paciente apresenta apenas alteração laboratorial de ureia e creatinina, sem indicação
+de diálise no momento.
+(alternativa C) (CORRETA)
+O paciente apresenta sinais clínicos e laboratoriais de uremia (náuseas, encefalopatia),
+além de acidose metabólica refratária, que configuram indicações clássicas de início de
+diálise.
+(alternativa D)
+A creatinina elevada é esperada em pacientes diabéticos idosos e não deve indicar
+diálise.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 43 de 69
+
+Resposta comentada:
+O paciente apresenta sinais clínicos e laboratoriais de uremia (náuseas, encefalopatia),
+além de acidose metabólica refratária, que configuram indicações clássicas de início de
+diálise.
+Correta. Este paciente preenche critérios clássicos de diálise conforme o mnemônico
+AEIOU:
+A (Acidose): pH 7,21 e bicarbonato < 15 mEq/L;
+E (Electrolytes): risco potencial;
+I (Intoxicação): não aplicável;
+O (Overload - sobrecarga volêmica): edema refratário;
+U (Uremia): náuseas e encefalopatia.
+Esses achados indicam insuficiência renal aguda grave com manifestações
+clínicas, sendo a diálise o tratamento de escolha.
+O paciente apresenta apenas alteração laboratorial de ureia e creatinina, sem indicação
+de diálise no momento.
+Incorreta. A presença de sintomas clínicos importantes (encefalopatia, náuseas, acidose,
+hipervolemia) é suficiente para indicar diálise, mesmo sem valores laboratoriais
+extremos.
+A creatinina elevada é esperada em pacientes diabéticos idosos e não deve indicar
+diálise.
+Incorreta. O valor de creatinina não deve ser interpretado isoladamente. O contexto
+clínico é o que determina a necessidade de diálise.
+O tratamento inicial deve ser aumento da hidratação venosa e diurético de alça, sem
+necessidade de terapia dialítica.
+Incorreta. Já houve falência do tratamento conservador, e há acidose e uremia
+sintomática, exigindo medidas mais efetivas.
+Referências:
+KDIGO. Clinical Practice Guidelines for Acute Kidney Injury and Chronic Kidney Disease .
+2021 Update.
+Ministério da Saúde. PCDT – Doença Renal Crônica – Sistema Único de Saúde – 2014 .
+UpToDate. Indications for Initiation of Dialysis in Acute and Chronic Kidney Disease .
+Guyton AC, Hall JE. Tratado de Fisiologia Médica. 14.ª ed. Elsevier; 2021.
+Feedback:
+-32ª QUESTÃO
+Enunciado:
+(UNIGRANRIO BARRA) Escolar, 7 anos, cuja mãe encontra-se em tratamento para
+tuberculose pulmonar, iniciou quadro de tosse e febre de 37,8-38 há cerca de 20 dias. Há
+10 dias evoluiu com piora do estado geral, recusa alimentar, desconforto respiratório e
+dor torácica retroesternal. O exame físico evidenciou criança emagrecida, frequência
+respiratória de 35 inc/min, frequência cardíaca = 120 bpm, pressão arterial abaixo do
+percentil 5 para idade, perfusão periférica de 4 segundos. Ausculta pulmonar com
+murmúrio vesicular audível bilateral e estertores creptantes em base direita. A ausculta
+cardíaca revelou bulhas hipofonéticas. Radiografia de tórax demonstrou: condensação
+em base direita e aumento de área cardíaca.
+A provável hipótese diagnóstica e a conduta inicial são:
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 44 de 69
+
+Alternativas:
+(alternativa A)
+Tuberculose ganglionar com choque cardiogênico; tratar ambulatorialmente com
+esquema RIPE e acompanhamento clínico e radiológico seriado sem necessidade de
+medidas invasivas.
+(alternativa B)
+Pneumonia complicada com choque séptico; iniciar antibioticoterapia de amplo espectro,
+expandir volume vigorosamente e considerar suporte vasopressor enquanto aguarda
+resposta clínica inicial.
+
+(alternativa C)
+Insuficiência cardíaca aguda por miocardite viral; iniciar suporte inotrópico e
+imunoglobulina intravenosa, postergando antibioticoterapia e investigação específica
+para tuberculose.
+(alternativa D) (CORRETA)
+Choque obstrutivo por tuberculose: internar em unidade com suporte, solicitar
+ecocardiograma, iniciar esquema RIPE com corticosteroide e realizar pericardiocentese se
+necessário.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 45 de 69
+
+Resposta comentada:
+Justificativas técnicas:
+Alternativa
+
+Correta?
+
+Justificativa
+
+Pneumonia complicada com
+choque séptico; iniciar
+antibioticoterapia de amplo
+espectro, expandir volume
+vigorosamente e considerar
+suporte vasopressor enquanto
+aguarda resposta clínica inicial.
+
+Incorreta
+
+Pneumonia bacteriana típica tem febre
+alta e evolução aguda. Volume
+vigoroso pode piorar choque
+obstrutivo no tamponamento.
+
+Insuficiência cardíaca aguda por
+miocardite viral; iniciar suporte
+inotrópico e imunoglobulina
+intravenosa, postergando
+antibioticoterapia e investigação
+específica para tuberculose.
+
+Incorreta
+
+Miocardite viral geralmente aguda e
+febril; adiar TB e iniciar IVIG seria
+prejudicial.
+
+Choque obstrutivo por tuberculose:
+internar em unidade com suporte,
+solicitar ecocardiograma, iniciar
+Correta
+esquema RIPE com corticosteroide
+e realizar pericardiocentese se
+necessário.
+
+Contato, febre arrastada,
+emagrecimento, cardiomegalia, bulhas
+hipofonéticas, hipotensão → TB
+pericárdica + tamponamento →
+choque obstrutivo. Conduta:
+internação + RIPE + corticoide + eco
++ possível drenagem urgente.
+
+Tuberculose ganglionar com
+choque cardiogênico; tratar
+ambulatorialmente com esquema
+Incorreta
+RIPE e acompanhamento clínico e
+radiológico seriado sem
+necessidade de medidas invasivas.
+
+Há choque e repercussão cardíaca.
+Não é TB ganglionar isolada. Não é
+caso ambulatorial.
+
+Referências:
+BRASIL. Ministério da Saúde. Manual de Recomendações para o Controle da Tuberculose ,
+2022.
+SBPT. Diretrizes para manejo da tuberculose em crianças e adolescentes , 2022.
+NELSON, W. E. Tratado de Pediatria. 21. ed. Rio de Janeiro: Elsevier, 2020.
+AMERICAN HEART ASSOCIATION. SAVP: Suporte avançado de vida em pediatria: manual
+do profissional. Texas, USA: Orora Visual, 2021. 330 p. ISBN 978-1-61669-957-4.
+
+Feedback:
+Referência:
+33ª QUESTÃO
+Enunciado:
+(AFYA BRAGANÇA) Você está em um ambulatório de revisão cirúrgica e atende um
+homem de 52 anos, submetido há 7 dias a uma hernioplastia inguinal com tela. Ele refere
+que a ferida operatória estava bem até o quinto dia, quando notou vermelhidão e calor
+local, leve dor e pequeno endurecimento ao redor da incisão. Nega febre e secreção
+purulenta, mas relata mal-estar leve. Ao exame físico: temperatura: 37,6 °C, ferida com
+hiperemia discreta e induração em cerca de 3 cm ao redor da sutura, sem drenagem
+purulenta, sem sinais de deiscência.
+Com base no caso descrito, qual interpretação e conduta são mais adequadas?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 46 de 69
+
+Alternativas:
+(alternativa A) (CORRETA)
+Diagnóstico de infecção superficial de ferida operatória; indicar curativo local e
+antibiótico oral, com acompanhamento ambulatorial.
+(alternativa B)
+Diagnóstico de infecção profunda de ferida operatória; indicar antibiótico endovenoso e
+internação imediata.
+(alternativa C)
+Diagnóstico de deiscência de ferida; indicar nova sutura e antibioticoterapia oral, com
+acompanhamento ambulatorial.
+(alternativa D)
+Diagnóstico de reação inflamatória normal ao processo de cicatrização; manter
+observação sem conduta específica.
+
+Resposta comentada:
+O paciente apresenta sinais locais leves de infecção superficial da ferida operatória:
+hiperemia, dor leve, calor e induração restrita à pele e subcutâneo, sem drenagem
+purulenta, febre alta ou sinais sistêmicos.
+Esses achados caracterizam infecção superficial de ferida operatória, conforme a
+classificação CDC (Centers for Disease Control and Prevention).
+Condutas principais:
+Curativo com limpeza local com soro fisiológico e antisséptico.
+Antibiótico oral direcionado à flora de pele (geralmente cefalexina ou amoxicilina
++ clavulanato).
+Acompanhamento ambulatorial em 48–72h para reavaliação.
+Orientar paciente sobre sinais de alerta: febre, drenagem purulenta, dor intensa
+ou aumento da área de vermelhidão.
+A infecção profunda é a que afeta a aponeurose e camadas musculares, geralmente com
+gravidade maior que a do caso descrito.
+A deiscência da ferida corresponde à abertura dos pontos de sutura, o que não foi
+descrito.
+
+Referências:
+Ministério da Saúde. Protocolo de Prevenção de Infecção do Sítio Cirúrgico. Brasília:
+ANVISA, 2021.
+FELICIANO, David V.; MATTOX, Kenneth L.; MOORE, Ernest E. Trauma e Cirurgia de
+Emergência. ed. Rio de Janeiro: Guanabara Koogan, 2020.
+TOWNSEND, Courtney M. Sabiston – Tratado de Cirurgia: A Base Biológica da Prática
+Cirúrgica Moderna. ed. Rio de Janeiro: Elsevier, 2022.
+Feedback:
+-34ª QUESTÃO
+Enunciado:
+(FMIT) Homem de 45 anos procura o pronto-atendimento relatando dor intensa na região
+anal há três dias, piorando ao sentar-se. Refere febre baixa e sensação de peso local. Ao
+exame físico, observa-se área eritematosa e endurecida, mas com área de flutuação à
+palpação no quadrante posterior direito da região perianal, extremamente dolorosa, sem
+exteriorização de secreção. Com base nesse quadro, qual é a conduta mais adequada
+para o manejo inicial desse paciente?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 47 de 69
+
+Alternativas:
+(alternativa A)
+Realizar toque retal e, se houver dor intensa, postergar a avaliação até que a inflamação
+melhore com analgésicos e repouso local.
+(alternativa B)
+Solicitar colonoscopia eletiva para investigação de doenças inflamatórias intestinais,
+iniciando antibioticoterapia profilática.
+(alternativa C)
+Iniciar tratamento clínico com anti-inflamatórios e banho de assento, reservando a
+drenagem apenas se ocorrer fistulização espontânea.
+(alternativa D) (CORRETA)
+Indicar drenagem cirúrgica imediata do abscesso, associada a analgesia e
+antibioticoterapia de cobertura para germes anaeróbios e gram-negativos.
+
+Resposta comentada:
+Alternativa: Indicar drenagem cirúrgica imediata do abscesso, associada a analgesia e
+antibioticoterapia de cobertura para germes anaeróbios e gram-negativos.
+Comentário: Essa conduta está correta. O quadro é compatível com abscesso perianal,
+cuja terapêutica é drenagem cirúrgica precoce. O uso de antibióticos é complementar em
+casos com febre, celulite extensa ou imunossupressão. Não se deve aguardar a
+supuração espontânea, mas drenar o abscesso.
+Alternativa: Iniciar tratamento clínico com anti-inflamatórios e banho de assento,
+reservando a drenagem apenas se ocorrer fistulização espontânea.
+Comentário: Conduta incorreta. O tratamento clínico isolado não é eficaz em abscessos
+perianais, pois há coleção purulenta que necessita drenagem. A espera por fistulização
+pode agravar o quadro e levar a complicações.
+Alternativa: Realizar toque retal e, se houver dor intensa, postergar a avaliação até que a
+inflamação melhore com analgésicos e repouso local.
+Comentário: Conduta inadequada. Embora o toque retal seja parte da avaliação, ele pode
+ser desnecessário em casos evidentes e dolorosos. A prioridade é aliviar o quadro com
+drenagem, e não adiar o exame.
+Alternativa: Solicitar colonoscopia eletiva para investigação de doenças inflamatórias
+intestinais, iniciando antibioticoterapia profilática.
+Comentário: Conduta incorreta. A colonoscopia não é indicada na fase aguda de abscesso
+perianal. O exame pode ser considerado posteriormente, caso haja suspeita de doença
+de base (como doença de Crohn), após resolução do processo infeccioso.
+Referência:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024. E-book. p.2497. ISBN 9786558040231.
+Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040231/.
+Acesso em: 19 out. 2025.
+
+Feedback:
+-35ª QUESTÃO
+Enunciado:
+(FMIT) Uma criança de 4 anos é levada ao pronto atendimento com história de tosse e
+febre há dois dias, apresentando piora progressiva do padrão respiratório nas últimas
+horas. Ao exame físico, a criança está em posição de tripé, com batimento de asa nasal,
+tiragem subcostal, frequência respiratória de 48 irpm, saturação periférica de oxigênio
+(SpO₂) de 88% em ar ambiente e frequência cardíaca de 140 bpm. A ausculta pulmonar
+revela sibilos difusos e murmúrio vesicular globalmente diminuído.
+Considerando o quadro descrito, qual deve ser a conduta inicial mais adequada para esta
+criança, considerando o manejo do desconforto e da insuficiência respiratória?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 48 de 69
+
+Alternativas:
+(alternativa A)
+Administrar sedativo leve para reduzir o esforço respiratório, realizar gasometria arterial
+e radiografia de tórax.
+(alternativa B)
+Ofertar oxigenoterapia com máscara de Venturi em concentração fixa de 21% e observar
+evolução clínica nas primeiras horas.
+
+(alternativa C) (CORRETA)
+Iniciar oxigenoterapia suplementar com máscara não reinalante, monitorizar sinais vitais
+e preparar suporte ventilatório, se necessário.
+(alternativa D)
+Colocar a criança em decúbito dorsal, iniciar antibioticoterapia empírica intravenosa e
+aguardar resposta inicial antes de outras intervenções.
+
+Resposta comentada:
+Iniciar oxigenoterapia suplementar com máscara não reinalante, monitorar sinais vitais e
+preparar suporte ventilatório, se necessário. Certa
+O quadro é compatível com insuficiência respiratória aguda com hipoxemia (SpO₂ 88%),
+sinais de esforço respiratório importante (tripé, tiragem, BAN) e sibilância. A conduta
+imediata inclui oxigênio suplementar com alta fração inspirada (máscara não reinalante
+ou cânula de alto fluxo), monitorização contínua e preparo para suporte ventilatório
+avançado se não houver resposta inicial. Trata-se de emergência respiratória e requer
+intervenção rápida para evitar falência respiratória.
+Administrar sedativo leve para reduzir o esforço respiratório, realizar gasometria arterial
+e radiografia de tórax. Errada.
+Sedação em criança com esforço respiratório grave pode precipitar apneia e parada
+respiratória, sendo contraindicação sem via aérea protegida. Gasometria e radiografia
+podem ser úteis, porém não devem atrasar o suporte ventilatório e a oxigenoterapia. A
+prioridade é intervenção imediata.
+Ofertar oxigenoterapia com máscara de Venturi em concentração fixa de 21% e observar
+evolução clínica nas primeiras horas. Errada.
+Máscara de Venturi a 21% fornece apenas ar ambiente, inadequada para hipoxemia
+grave. A criança necessita de FiO₂ elevada e estabilização imediata. A conduta proposta
+representa atraso potencialmente fatal.
+Colocar a criança em decúbito dorsal, iniciar antibioticoterapia empírica intravenosa e
+aguardar resposta inicial antes de outras intervenções. Errada.
+Decúbito dorsal piora a mecânica respiratória em desconforto respiratório.
+Antibioticoterapia pode ser necessária posteriormente, mas não constitui medida inicial
+prioritária. A resposta clínica não deve ser aguardada sem suporte ventilatório adequado.
+Referências:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Diretrizes de Suporte Respiratório Pediátrico . SBP,
+2022.
+AMERICAN ACADEMY OF PEDIATRICS. Pediatric Acute Respiratory Distress Guidelines .
+AAP, 2021.
+AMERICAN HEART ASSOCIATION. PALS Provider Manual. AHA, 2020.
+Feedback:
+-36ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 49 de 69
+
+Enunciado:
+(IESVAP) Mulher, 42 anos, residente de área urbana, procura a Unidade Básica de Saúde
+relatando febre alta há três dias, associada a dor intensa nas articulações dos punhos,
+tornozelos e joelhos, além de erupção cutânea leve no tronco. Relata que seus vizinhos
+também apresentaram sintomas semelhantes recentemente. Ao exame físico, há edema
+articular e limitação de movimento devido à dor, sem sinais de artrite purulenta. A equipe
+de saúde suspeita de arbovirose.
+Com base nas Diretrizes do Ministério da Saúde (2023) e nas características clínicas das
+arboviroses, qual a conduta mais adequada na Atenção Primária à Saúde diante desse
+quadro?
+Alternativas:
+(alternativa A)
+Prescrever corticosteroide oral precoce para evitar cronificação das artralgias e solicitar
+PCR para Zika vírus.
+(alternativa B) (CORRETA)
+Considerar o diagnóstico de Chikungunya, orientar hidratação, repouso, uso de
+paracetamol ou dipirona para controle da dor e febre e acompanhamento ambulatorial.
+(alternativa C)
+Diagnosticar como dengue, evitar qualquer analgésico, iniciar hidratação vigorosa venosa
+e comunicar vigilância epidemiológica apenas após confirmação laboratorial.
+(alternativa D)
+Solicitar sorologia IgM para Chikungunya, iniciar anti-inflamatórios não esteroides (AINEs)
+e encaminhar para hospital de referência devido ao risco de choque.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 50 de 69
+
+Resposta comentada:
+Prescrever corticosteroide oral precoce para evitar cronificação das artralgias e solicitar
+PCR para Zika vírus. Incorreta. Corticosteroides são contraindicados na fase aguda da
+Chikungunya, pois podem agravar o quadro e aumentar o risco de complicações. Seu uso
+é reservado à fase subaguda ou crônica (após 14 dias), e somente se persistirem
+artralgias importantes. O quadro clínico não sugere Zika, pois a dor articular na Zika é
+leve e predomina o exantema.
+Solicitar sorologia IgM para Chikungunya, iniciar AINEs e encaminhar para hospital de
+referência devido ao risco de choque. Incorreta. O quadro não sugere dengue grave nem
+risco de choque hipovolêmico. A Chikungunya raramente cursa com choque,
+diferentemente da Dengue. O uso de AINEs deve ser evitado na fase aguda, enquanto
+houver possibilidade de coinfecção com dengue, devido ao risco de sangramento.
+Considerar o diagnóstico de Chikungunya, orientar hidratação, repouso, uso de
+paracetamol ou dipirona para controle da dor e febre e acompanhamento ambulatorial. O
+diagnóstico de Chikungunya é essencialmente clínico e epidemiológico, especialmente
+em surtos. O manejo inicial na APS inclui: Hidratação oral adequada; Repouso relativo;
+analgésicos e antitérmicos seguros (dipirona, paracetamol); Evitar AINEs e corticoides nas
+primeiras 2 semanas; Acompanhamento clínico para monitorar dor articular persistente
+(fase subaguda/crônica). Comunicação à vigilância epidemiológica é obrigatória diante de
+caso suspeito.
+Diagnosticar como dengue, evitar qualquer analgésico, iniciar hidratação venosa e
+comunicar vigilância apenas após confirmação laboratorial. Incorreta. A clínica (intensa
+dor articular e edema) é mais compatível com Chikungunya do que com Dengue. O
+diagnóstico e notificação devem ser clínicos e imediatos, sem necessidade de
+confirmação laboratorial para notificar. A hidratação venosa só se indica em sinais de
+alarme ou desidratação grave, o que não ocorre aqui.
+Referências:
+GUSSO, G. LOPES, J. M. C. Tratado de Medicina de Família e Comunidade - Princípios,
+Formação e Prática. 2. ed. Porto Alegre: Artmed. 2018. Cap. 257. Acesso em: 07 mai.
+2025.
+DUCAN, B., B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca (5th edição). Grupo A, 2022. (Cap. 162).
+Acesso em: 07 mai. 2025.
+Dengue. Disponível em: https://www.gov.br/saude/pt-br/centrais-deconteudo/publicacoes/svsa/dengue/dengue-diagnostico-e-manejo-clinico-adulto-e-crianca.
+Acesso em: 07 maio 2025.
+Zyca. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/virus_zika_brasil_resposta_sus.pdf. Acesso
+em: 07 maio 2025.
+Chikungunya. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/chikungunya_manejo_clinico.pdf. Acesso em:
+07 maio 2025.
+Plano de ação arboviroses. Disponível em: https://www.gov.br/saude/pt-br/centrais-deconteudo/publicacoes/guias-e-manuais/2024/guia-plano-de-acao-para-reducao-dadengue-e-outras-arboviroses.pdf/view. Acesso em: 07 de maio 2025.
+
+Feedback:
+-37ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Durante uma visita domiciliar, o médico da Unidade Básica de Saúde
+(UBS) avalia um idoso de 75 anos. A família relata febre, tosse produtiva e prostração há
+5 dias. Ele tem histórico de Hipertensão Arterial Sistêmica e é tabagista (20 maços-ano).
+Ao exame físico, apresenta-se sonolento, PA: 88 x 54 mmHg; FC: 118 bpm; FR: 28 irpm;
+temperatura axilar 38,9 °C e StO₂: 90% em ar ambiente. A ausculta pulmonar revela
+roncos e crepitações difusas na base esquerda.
+Assinale a alternativa que representa a condição clínica provável do paciente e a conduta
+adequada nesse momento.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 51 de 69
+
+Alternativas:
+(alternativa A) (CORRETA)
+Sepse de foco pulmonar: iniciar ressuscitação volêmica com cristaloides na UBS enquanto
+aguarda transferência para UPA.
+
+(alternativa B)
+Pneumonia adquirida na comunidade: indicar internação hospitalar para início de
+tratamento com antibiótico e corticoide sistêmico.
+(alternativa C)
+Exacerbação aguda de DPOC: iniciar tratamento ambulatorial com corticoide,
+broncodilatador e antibiótico via oral.
+(alternativa D)
+Choque séptico: encaminhar o paciente à UPA para início de tratamento com antibiótico
+venoso e suporte hemodinâmico com drogas vasoativas.
+
+Resposta comentada:
+A sepse é uma condição grave caracterizada por uma infecção suspeita ou confirmada
+que leva à disfunção de um ou mais órgãos. No caso do paciente, há um provável foco de
+infecção nos pulmões, e os sinais de disfunção orgânica desse paciente incluem:
+saturação de oxigênio (StO₂) igual ou inferior a 90%
+alteração do nível de consciência
+pressão arterial sistólica (PAS) igual ou inferior a 90 mmHg
+Choque séptico é definido pela presença de hipotensão não responsiva à utilização de
+fluídos.
+Em um cenário de UBS, deve-se iniciar a ressuscitação volêmica enquanto aguarda a
+transferência para UPA.
+Referência:
+INSTITUTO LATINO-AMERICANO DE SEPSE (ILAS). Implementação de protocolo gerenciado
+de sepse: protocolo clínico. Atendimento ao paciente adulto com sepse/choque séptico.
+São Paulo: ILAS, 2018. Disponível em: https://ilas.org.br/wpcontent/uploads/2022/02/protocolo-de-tratamento.pdf
+Feedback:
+-38ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Na UBS, médico atende paciente de 42 anos, auxiliar de serviços gerais, que
+comparece após ser encaminhada pela equipe de enfermagem devido à “falta de
+vontade de viver”. Relata tristeza persistente há cerca de 4 meses, com insônia terminal,
+fadiga, perda do interesse pelas atividades habituais e pensamentos recorrentes de que
+“sua vida não tem mais sentido”. Nega plano suicida definido, mas afirma ter pensado
+“em tomar todos os comprimidos de casa”. Apresenta histórico de transtorno depressivo
+recorrente, tendo usado fluoxetina 20 mg/dia por 6 meses há dois anos, com melhora.
+Parou o medicamento por conta própria há 1 ano. Nega uso atual de álcool ou drogas
+ilícitas. Pressão arterial 120/70 mmHg, frequência cardíaca 76 bpm, demais elementos do
+exame físico sem alterações.
+A conduta mais adequada é:
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 52 de 69
+
+Alternativas:
+(alternativa A)
+encaminhar diretamente ao pronto-socorro psiquiátrico, pois qualquer relato de ideação
+suicida é emergência, sem necessidade de iniciar tratamento na UBS.
+(alternativa B)
+reiniciar fluoxetina 20 mg/dia e manter seguimento mensal, uma vez que a ausência de
+plano suicida definido descarta risco imediato.
+(alternativa C) (CORRETA)
+retomar fluoxetina em dose inicial de 10 mg/dia por 1 semana, aumentar para 20 mg/dia
+conforme tolerância, estabelecer vínculo terapêutico, monitorar ideação suicida
+semanalmente.
+(alternativa D)
+prescrever amitriptilina 25 mg à noite para melhorar o sono e o humor, evitando
+encaminhamento precoce, pois antidepressivos tricíclicos têm boa resposta terapêutica
+inicial.
+
+Resposta comentada:
+A alternativa "Reiniciar fluoxetina 20 mg/dia e manter seguimento mensal, uma vez que a
+ausência de plano suicida definido descarta risco imediato" está incorreta, uma vez que a
+ausência de plano suicida não elimina o risco. O acompanhamento mensal é insuficiente,
+pois nas primeiras semanas o risco de suicídio pode aumentar após início do
+antidepressivo.
+A alternativa "Prescrever amitriptilina 25 mg à noite para melhorar o sono e o humor,
+evitando encaminhamento precoce, pois antidepressivos tricíclicos têm boa resposta
+terapêutica inicial" está incorreta, pois a amitriptilina não é recomendada na atenção
+primária em pacientes com ideação suicida, devido à alta letalidade em overdose e aos
+efeitos adversos anticolinérgicos.
+A alternativa "Retomar fluoxetina em dose inicial de 10 mg/dia por 1 semana, aumentar
+para 20 mg/dia conforme tolerância, estabelecer vínculo terapêutico, monitorar ideação
+suicida semanalmente" está correta, visto que a fluoxetina é segura e eficaz na atenção
+primária, especialmente em pacientes que já responderam previamente. Iniciar em dose
+baixa e monitorar semanalmente é a conduta mais segura e alinhada às diretrizes do
+Ministério da Saúde e da OMS.
+A alternativa "Encaminhar diretamente ao pronto-socorro psiquiátrico, pois qualquer
+relato de ideação suicida é emergência, sem necessidade de iniciar tratamento na UBS"
+está incorreta, já que a ideação suicida sem plano estruturado pode ser acompanhada na
+UBS com monitoramento ativo. Encaminhar de imediato rompe o vínculo e não é
+necessário nesse caso".
+Referências:
+Zisook S, Domingues I, Compton J. Pharmacologic Approaches to Suicide Prevention.
+Focus (Am Psychiatr Publ). 2023; 21(2): 137-144. PMID: 37201142.
+Gabriel FC et al. Pharmacological Treatment of Depression: A Systematic Review
+Comparing Clinical Practice Guideline Recommendations. PLoS One.
+2020;15(4):e0231700. PMID: 32315333
+Brasil. Ministério da Saúde. Caderno de Atenção Básica nº 34 – Saúde Mental. Brasília:
+MS, 2013.
+WHO. mhGAP Intervention Guide. 2nd ed. Geneva: World Health Organization, 2023.
+
+Feedback:
+-39ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 53 de 69
+
+Enunciado:
+(IESVAP) Mulher de 30 anos, G2P1A1, é admitida na maternidade com história de febre
+há 48 horas, dor pélvica intensa e eliminação de secreção vaginal fétida após aborto
+incompleto há três dias.
+Na admissão, apresenta PA 85/45 mmHg, FC 125 bpm, FR 28 irpm, T 39°C, pele fria e
+pegajosa, enchimento capilar lento (>4 s) e nível de consciência rebaixado.
+Os exames laboratoriais iniciais mostram:
+Na⁺ = 128 mEq/L
+K⁺ = 3,0 mEq/L
+HCO₃⁻ = 15 mEq/L
+Lactato = 5,5 mmol/L
+Creatinina = 2,1 mg/dL
+Hemoglobina = 8,8 g/dL
+Leucócitos = 18.000/mm³ com desvio à esquerda.
+O ultrassom pélvico evidencia conteúdo uterino compatível com restos ovulares.
+Considerando o quadro clínico e laboratorial apresentado, qual hipótese diagnóstica e
+conduta inicial são mais adequadas para essa paciente?
+Alternativas:
+(alternativa A)
+Hiponatremia e anemia leve sem repercussão hemodinâmica, conduta expectante e
+acompanhamento ambulatorial.
+(alternativa B)
+Insuficiência renal aguda isolada por desidratação, tratada apenas com hidratação oral e
+observação clínica.
+(alternativa C) (CORRETA)
+Choque séptico secundário a aborto infectado, com necessidade de reposição volêmica
+imediata com cristaloides, antibioticoterapia intravenosa de amplo espectro e correção
+dos distúrbios eletrolíticos.
+(alternativa D)
+Sepse por aborto infectado, requerendo antibiótico oral e correção eletrolítica após
+estabilização térmica.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 54 de 69
+
+Resposta comentada:
+
+Sepse por aborto infectado, requerendo antibiótico oral e correção eletrolítica
+após estabilização térmica.
+Errada. Paciente apresenta instabilidade hemodinâmica grave (PA < 90 mmHg, lactato
+elevado) → choque séptico. Antibiótico oral e espera pela estabilização térmica não são
+adequados.
+
+Choque séptico secundário a aborto infectado, com necessidade de reposição
+volêmica imediata com cristaloides, antibioticoterapia intravenosa de amplo
+espectro e correção dos distúrbios eletrolíticos.
+Correta. Esta é a conduta recomendada pelo Ministério da Saúde e protocolos
+internacionais para choque séptico obstétrico.
+
+Insuficiência renal aguda isolada por desidratação, tratada apenas com
+hidratação oral e observação clínica.
+Errada. A IRA é secundária à hipoperfusão por choque séptico, não é isolada. Hidratação
+oral não seria suficiente.
+
+Hiponatremia e anemia leve sem repercussão hemodinâmica, conduta
+expectante e acompanhamento ambulatorial.
+Errada. Paciente apresenta instabilidade hemodinâmica grave e acidose metabólica, com
+risco imediato de morte. Conduta expectante seria inapropriada e perigosa.
+Conclusão
+Hipótese diagnóstica: Choque séptico secundário a aborto infectado.
+Conduta inicial adequada: reposição volêmica rápida com cristaloides; antibioticoterapia
+intravenosa de amplo espectro (ex.: cefalosporina de 3ª geração + metronidazol ou
+esquema recomendado por protocolos obstétricos); correção de distúrbios eletrolíticos e
+suporte hemodinâmico; avaliação e eventual esvaziamento uterino após estabilização
+inicial.
+
+Referências:
+BRASIL. Ministério da Saúde. Protocolo de Atenção Obstétrica à Sepse Materna. Brasília:
+Ministério da Saúde, 2022. Disponível em: https://www.gov.br/saude/pt-br. Acesso em: 16
+nov. 2025.
+
+Feedback:
+-40ª QUESTÃO
+Enunciado:
+(ITPAC PORTO NACIONAL) Durante o acompanhamento em uma Unidade Básica de
+Saúde, uma criança de 9 anos é trazida pela mãe, que relata dificuldade de
+concentração, agitação excessiva e baixo rendimento escolar. A professora menciona que
+o aluno interrompe constantemente as atividades e tem dificuldade de seguir instruções.
+A equipe multiprofissional (médico, enfermeiro e psicólogo) realiza a avaliação inicial e
+descarta outras causas clínicas (como distúrbios da visão, audição e epilepsia).
+A mãe relata que a criança dorme mal e passa horas em jogos eletrônicos. Não há
+histórico de uso de substâncias, mas o pai refere comportamento ansioso e impulsivo
+desde a infância.
+Diante do quadro, qual deve ser o plano de cuidado mais adequado para essa criança na
+UBS, considerando os principais transtornos mentais da infância com repercussões no
+desenvolvimento neuropsíquico?
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 55 de 69
+
+Alternativas:
+(alternativa A)
+Solicitar avaliação neurológica e prescrever benzodiazepínico de curta duração para
+reduzir a hiperatividade noturna.
+(alternativa B)
+Encaminhar diretamente para o psiquiatra infantil e suspender o acompanhamento na
+UBS até avaliação especializada.
+(alternativa C)
+Iniciar tratamento farmacológico com metilfenidato, sem necessidade de suporte
+psicossocial, pois a farmacoterapia é suficiente para controle do comportamento.
+(alternativa D) (CORRETA)
+Implementar um plano de cuidado interdisciplinar, incentivo à rotina estruturada e
+higiene do sono, acompanhamento e encaminhamento ao psiquiatra infantil quando
+necessário.
+
+Resposta comentada:
+O encaminhamento direto ao psiquiatra sem continuidade do cuidado na UBS interrompe
+o vínculo e desconsidera a atenção integral e longitudinal preconizada pela Atenção
+Primária à Saúde. A UBS deve atuar no manejo inicial, orientação familiar e
+acompanhamento, integrando-se à Rede de Atenção Psicossocial (RAPS).
+O tratamento do TDAH não se baseia exclusivamente em farmacoterapia. A abordagem
+deve ser multidimensional, incluindo intervenções psicossociais, estratégias educacionais
+e apoio familiar. Medicamentos podem ser indicados, mas sob avaliação de especialista.
+Essa alternativa reflete o plano de cuidado recomendado pelas diretrizes clínicas:
+abordagem interdisciplinar, psicoeducação, terapia cognitivo-comportamental,
+orientações para rotina estruturada e promoção da saúde mental no ambiente familiar e
+escolar. A UBS tem papel central no acolhimento, acompanhamento e articulação com a
+RAPS. Essa conduta favorece o desenvolvimento neuropsíquico saudável e o manejo de
+comorbidades, como ansiedade e transtornos de conduta.
+Uso de benzodiazepínicos em crianças com TDAH é contraindicado, pois pode agravar a
+desatenção e causar dependência. Além disso, a avaliação neurológica só é indicada
+quando há sinais neurológicos associados (como convulsões), o que não ocorre neste
+caso.
+Referências:
+BRASIL. Ministério da Saúde. Linha de cuidado para a atenção às pessoas com
+Transtornos do Espectro do Autismo e Transtorno de Déficit de Atenção e Hiperatividade.
+Brasília: Ministério da Saúde, 2023.
+AMERICAN PSYCHIATRIC ASSOCIATION. DSM-5 – Manual Diagnóstico e Estatístico de
+Transtornos Mentais. 5. ed. Porto Alegre: Artmed, 2014.
+BRASIL. Política Nacional de Saúde Mental Infantojuvenil: Diretrizes e Práticas. Brasília:
+Ministério da Saúde, 2021.
+WORLD HEALTH ORGANIZATION. mhGAP Intervention Guide for mental, neurological and
+substance use disorders in non-specialised health settings. Geneva: WHO, 2022.
+
+Feedback:
+
+41ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 56 de 69
+
+Enunciado:
+(BANCO AFYA) Gestante de 30 anos, G2P1, 34 semanas, previamente saudável, procura a
+maternidade por cefaleia intensa, escotomas visuais e dor em epigástrio iniciados há
+algumas horas. Relata edema em mãos e face progressivo nos últimos dias, com
+dificuldade para retirar anéis. No exame, apresenta PA 170×110 mmHg, FC 98 bpm, BCF
+145 bpm, hiper-reflexia patelar e edema com cacifo em dorso das mãos e região
+periorbital. Nega sangramento vaginal e mantém movimentos fetais.
+Qual mecanismo explica o achado clínico desta paciente?
+Alternativas:
+(alternativa A)
+Edema por compressão uterina sobre veias abdominais profundas, aumento da
+resistência ao retorno venoso e estase circulatória, com hiperemia local associada à
+posição materna.
+(alternativa B)
+Edema por vasodilatação periférica acentuada, aumento fisiológico do volume sanguíneo
+e maior pressão hidrostática capilar, com retenção líquida compatível com adaptação
+normal da gestação.
+(alternativa C) (CORRETA)
+Edema por disfunção endotelial, aumento da permeabilidade vascular e extravasamento
+de proteínas para o interstício, com redução da pressão oncótica plasmática típica da préeclâmpsia.
+(alternativa D)
+Edema por ativação acentuada do sistema renina-angiotensina-aldosterona, maior
+reabsorção renal de sódio e água e vasodilatação renal própria das modificações
+fisiológicas tardias da gestação.
+
+Resposta comentada:
+Justificativas resumidas
+Alternativa
+
+Análise
+
+Edema por disfunção endotelial, aumento da
+permeabilidade vascular e extravasamento de
+proteínas para o interstício, com redução da pressão
+oncótica plasmática típica da pré-eclâmpsia.—
+Correta
+
+Pré-eclâmpsia → lesão endotelial,
+↑ permeabilidade, perda proteica,
+↓ oncótica → edema. Sintomas
+neurológicos e PA grave reforçam.
+
+Edema por vasodilatação periférica acentuada,
+aumento fisiológico do volume sanguíneo e maior
+pressão hidrostática capilar, com retenção líquida
+compatível com adaptação normal da gestação. —
+Errada
+
+Descreve adaptação fisiológica da
+gestação; edema leve, sem
+sintomas graves ou hipertensão
+acentuada.
+
+Edema por ativação acentuada do sistema reninaangiotensina-aldosterona, maior reabsorção renal de RAAS está reduzido na présódio e água e vasodilatação renal própria das
+eclâmpsia, não hiperativado; não
+modificações fisiológicas tardias da gestação. —
+explica sinais de gravidade.
+Errada
+Edema por compressão uterina sobre veias
+abdominais profundas, aumento da resistência ao
+retorno venoso e estase circulatória, com hiperemia
+local associada à posição materna. — Errada
+
+Compressão mecânica → edema
+dependente (MMII), sem cefaleia,
+hiperreflexia ou hipertensão
+grave.
+
+Referências:
+FEBRASGO. Hipertensão na Gestação: Manual de Práticas Clínicas . São Paulo, 2022.
+REZENDE, J.; MONTENEGRO, C. Obstetrícia Fundamental. 14. ed. Rio de Janeiro:
+Guanabara Koogan, 2023.
+Feedback:
+-000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 57 de 69
+
+42ª QUESTÃO
+Enunciado:
+(UNIPTAN) Homem de 42 anos, agricultor, residente na zona rural do norte de Minas
+Gerais, procura a Unidade Básica de Saúde relatando palpitações intermitentes, fadiga
+aos esforços e edema vespertino de membros inferiores há alguns meses. Refere ter
+morado em casa de taipa na infância e relata que sua mãe “teve o mesmo problema no
+coração”. Ao exame físico, apresenta pressão arterial de 100x60 mmHg, pulso irregular e
+bulhas cardíacas com extrassístoles. O eletrocardiograma mostra bloqueio de ramo
+direito e hemibloqueio anterior esquerdo.
+Qual deve ser a conduta mais apropriada na Atenção Primária à Saúde para este
+paciente, considerando a hipótese diagnóstica e os determinantes de saúde envolvidos?
+Alternativas:
+(alternativa A) (CORRETA)
+Solicitar sorologia para Trypanosoma cruzi por dois métodos distintos, encaminhar ao
+cardiologista para avaliação e manter acompanhamento multiprofissional na APS.
+(alternativa B)
+Solicitar sorologia para Trypanosoma cruzi e iniciar imediatamente benznidazol em dose
+empírica, independentemente do resultado.
+(alternativa C)
+Prescrever antibiótico de amplo espectro e encaminhar ao pronto atendimento devido à
+suspeita de miocardite infecciosa bacteriana.
+(alternativa D)
+Solicitar ecocardiograma e iniciar tratamento com corticoide e diurético até confirmação
+diagnóstica.
+
+Resposta comentada:
+Justificativa:
+O paciente apresenta sinais compatíveis com cardiopatia chagásica crônica, sendo
+prioritário confirmar o diagnóstico por sorologia com dois testes de metodologias
+diferentes (ELISA, imunofluorescência indireta, hemaglutinação indireta). Após
+confirmação, deve-se garantir seguimento conjunto entre APS e atenção especializada,
+com abordagem integral dos determinantes sociais e medidas de prevenção secundária e
+terciária.
+Por que as outras alternativas estão incorretas:
+Solicitar sorologia para Trypanosoma cruzi e iniciar imediatamente benznidazol em dose
+empírica, independentemente do resultado.
+- O tratamento etiológico com benznidazol é indicado após confirmação sorológica, não
+de forma empírica na fase crônica.
+Prescrever antibiótico de amplo espectro e encaminhar ao pronto atendimento devido à
+suspeita de miocardite infecciosa bacteriana.
+- O quadro não sugere miocardite bacteriana, e antibióticos não têm papel na doença de
+Chagas.
+Solicitar ecocardiograma e iniciar tratamento com corticoide e diurético até confirmação
+diagnóstica.
+- O uso de corticoides não é indicado, e o ecocardiograma, embora útil, não substitui a
+sorologia para diagnóstico etiológico.
+Referências:
+BRASIL. Ministério da Saúde. Diretrizes para vigilância, atenção e controle da doença de
+Chagas. 2. ed. Brasília: Ministério da Saúde, 2022.
+DIAS, J. C. P. et al. Doença de Chagas: aspectos clínicos e manejo na Atenção Primária à
+Saúde. Rev Soc Bras Med Trop, v. 56, supl. 1, p. e20230116, 2023. doi:10.1590/00378682-116-2023.
+Feedback:
+--
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 58 de 69
+
+43ª QUESTÃO
+Enunciado:
+(BANCO AFYA) Uma gestante de 29 semanas em trabalho de parto prematuro evolui com
+nascimento vaginal. O recém-nascido (RN) não chora ao nascer e apresenta tônus
+diminuído e respiração irregular, sendo realizado clampeamento imediato do cordão
+devido à instabilidade do recém-nascido. Peso de nascimento: 1180g. O bebê é levado ao
+berço aquecido, com temperatura axilar inicial de 36,3 °C e pele úmida. Colocado touca e
+saco plástico. Mantém gemência e algum esforço ventilatório espontâneo.
+Qual é a conduta inicial adequada para este recém-nascido?
+Alternativas:
+(alternativa A)
+Realizar secagem vigorosa do corpo e cabeça para estímulo, colocar manta aquecida e
+touca simples, administrar oxigênio suplementar de rotina e evitar pressão positiva
+inicial.
+(alternativa B)
+Deixar sob calor radiante e iniciar oxigênio a 40% com máscara, realizar aspiração
+rotineira das vias aéreas e iniciar massagem cardíaca sincronizada com ventilação
+positiva.
+(alternativa C)
+Iniciar ventilação invasiva imediata e surfactante precoce para todos os prematuros <34
+semanas, manter apenas calor radiante e evitar o uso de saco plástico devido ao risco de
+hipertermia.
+(alternativa D) (CORRETA)
+Manter o RN envolto em saco plástico até o pescoço sem secagem prévia, usar touca
+dupla e calor radiante, posicionar a cabeça, monitorizar temperatura desde o início e
+ventilação positiva.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 59 de 69
+
+Resposta comentada:
+Justificativas detalhadas
+Manter o RN envolto em saco plástico até o pescoço sem secagem prévia, usar touca
+dupla e calor radiante, posicionar a cabeça, monitorar temperatura desde o início e
+ventilação positiva. Certa.
+SBP 2022 para <34 semanas — medidas adicionais iniciais:
+Saco plástico até o pescoço sem secar
+Touca dupla
+Calor radiante
+Monitorização térmica contínua
+Posição neutra
+CPAP precoce se respiração irregular e movimentos espontâneos presentes
+→ VPP só se falha ventilatória clara / FC <100 / apneia
+Temperatura de 36,3 °C reforça que manta não substitui saco plástico e não confunde o
+candidato.
+Realizar secagem vigorosa do corpo e cabeça, colocar manta aquecida e touca simples,
+administrar oxigênio suplementar de rotina e evitar pressão positiva inicial para reduzir
+risco de barotrauma. ERRADA
+Secagem vigorosa não se faz em <34s sob risco de hipotermia.
+Manta não substitui barreira térmica selada.
+Oxigênio suplementar rotineiro incorreto.
+CPAP precoce reduz VPP e intubação — não evitar.
+Deixar sob calor radiante e iniciar oxigênio a 40% com máscara, realizar aspiração
+rotineira das vias aéreas e iniciar massagem cardíaca sincronizada com ventilação
+positiva. Errada.
+Calor radiante isolado é insuficiente.
+Aspiração não é rotineira.
+Esperar apneia é atraso terapêutico.
+Iniciar ventilação invasiva imediata e surfactante precoce para todos os prematuros <34
+semanas, manter apenas calor radiante e evitar o uso de saco plástico devido ao risco de
+hipertermia. Errada.
+Surfactante não é universal na sala.
+Saco plástico é recomendado.
+CPAP precoce preferível à intubação imediata.
+Referência:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Diretrizes 2022 para Reanimação Neonatal —
+Recém-nascido < 34 semanas. 8. ed. São Paulo: SBP, 2022.
+Feedback:
+-44ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 60 de 69
+
+Enunciado:
+(AFYA ABAETETUBA) Uma mulher de 36 anos procura o pronto atendimento com febre
+(38,7 °C), calafrios, dor lombar esquerda e mal-estar há 24 horas. Relata disúria e
+urgência miccional nos últimos dias. Ao exame físico: Giordano positivo à esquerda, FC
+102 bpm, PA 118/76 mmHg, sem sinais de choque. Exames laboratoriais: leucocitose
+(14.800/mm³), urina tipo I com piúria (+++) e nitrito positivo. Não há comorbidades e a
+paciente tolera via oral.
+Considerando o caso acima, após coleta de urocultura, assinale a alternativa que indica a
+conduta terapêutica inicial mais adequada.
+Alternativas:
+(alternativa A)
+Internação e antibioticoterapia endovenosa com ceftriaxona até resultado da urocultura.
+(alternativa B)
+Encaminhar para avaliação cirúrgica imediata devido à dor lombar intensa e febre alta.
+(alternativa C) (CORRETA)
+Tratamento ambulatorial com antibiótico oral (ciprofloxacino ou cefalexina), hidratação e
+controle sintomático.
+(alternativa D)
+Suspender antibiótico e aguardar cultura, pois o quadro pode ser apenas cistite febril.
+
+Resposta comentada:
+A alternativa correta é a que indica “Tratamento ambulatorial com antibiótico oral
+(ciprofloxacino ou cefalexina), hidratação e controle sintomático.” A paciente apresenta
+pielonefrite aguda não complicada, pois é jovem, estável hemodinamicamente e tolera a
+via oral. Nessas condições, o tratamento pode ser realizado ambulatorialmente, com
+antibióticos orais eficazes contra bacilos entéricos gram-negativos, como ciprofloxacino
+(500 mg VO 12/12 h) ou cefalexina (500 mg VO 6/6 h), por 7 a 14 dias, além de
+hidratação e analgesia. A urocultura é essencial para confirmar o agente e ajustar a
+terapia conforme o antibiograma.
+As demais alternativas estão incorretas:
+A alternativa que indica “Internação e antibioticoterapia endovenosa com
+ceftriaxona até resultado da urocultura” é incorreta. Essa conduta é reservada
+para casos complicados (gestantes, idosos frágeis, obstrução, vômitos, sepse ou
+comorbidades graves), o que não se aplica à paciente descrita.
+A alternativa que indica “Suspender antibiótico e aguardar cultura, pois o quadro
+pode ser apenas cistite febril” é incorreta. O quadro clínico (febre, dor lombar,
+Giordano positivo) caracteriza pielonefrite, e o início imediato do antibiótico é
+fundamental para evitar complicações.
+A alternativa que indica “Encaminhar para avaliação cirúrgica imediata devido à
+dor lombar intensa e febre alta” é incorreta. Não há indícios de abscesso,
+obstrução ou sepse que justifiquem abordagem cirúrgica emergencial.
+Referência:
+RIELLA, Miguel C. Princípios de Nefrologia e Distúrbios Hidroeletrolíticos . 6. ed. Grupo
+GEN, 2018. E-book. ISBN 9788527733267.
+Feedback:
+-45ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 61 de 69
+
+Enunciado:
+(AFYA PALMAS) Homem, 50 anos, trabalhador rural, procura a Unidade Básica de Saúde
+(UBS) com febre alta há seis dias, cefaleia intensa, mialgia em dorso e panturrilhas,
+náuseas e dois episódios de vômitos escuros. Relata que esteve em área de mata há
+cerca de duas semanas para atividade agrícola, onde moradores relataram morte recente
+de macacos. Não apresenta cartão de vacina. Ao exame: T 38,7 °C (VR = 36,0 °C e 37,5
+°C), FC 104 bpm (VR = 60 e 100 bpm), PA 105/68 mmHg (VC = menor que 120/80
+mmHg), icterícia ++/4+ e hepatomegalia dolorosa. Testes rápidos para dengue e
+hepatites virais não reagentes.
+Exames laboratoriais:
+Plaquetas: 82.000/mm³ (150.000 - 450.000/mm³)
+Bilirrubina total: 7,2 mg/dL (até 1,2 mg/dL)
+AST (TGO): 860 U/L (5 - 40 U/L)
+ALT (TGP): 210 U/L ( 7 - 56 U/L)
+Creatinina: 1,8 mg/dL (0,7 - 1,3 mg/dL
+Tempo de protrombina: alargado ( 10 - 14 segundos
+Qual é a conduta adequada, na Atenção Primária de Saúde (APS), diante deste caso?
+
+Alternativas:
+(alternativa A)
+Administrar vitamina K para coagulopatia, orientar repouso domiciliar e agendar retorno
+ambulatorial para controle clínico.
+(alternativa B)
+Solicitar sorologia confirmatória específica, observar evolução clínica e definir conduta
+após o resultado dos exames.
+(alternativa C) (CORRETA)
+Encaminhar como febre amarela grave, iniciar estabilização clínica e acionar vigilância
+para bloqueio vacinal na área.
+(alternativa D)
+Prescrever antibiótico direcionado para leptospirose, manter hidratação venosa na UBS e
+reavaliar a evolução clínica.
+
+Resposta comentada:
+Correta:
+Quadro clínico e laboratorial compatível com febre amarela na forma grave (icterohemorrágica): febre + icterícia + plaquetopenia + alteração de TGO/TGP (AST muito
+maior que ALT) + disfunção renal + contexto epidemiológico com exposição silvestre +
+ausência de vacinação. No manejo da APS, a prioridade é estabilização inicial, notificação
+imediata e encaminhamento urgente para unidade de referência, além de acionar
+bloqueio vacinal comunitário como política pública de vigilância.
+Incorretas:
+A conduta não depende de confirmação laboratorial. Em doenças de vigilância imediata,
+o SUS atua pelo critério clínico-epidemiológico e a investigação não pode atrasar as
+ações de controle e proteção coletiva.
+Embora leptospirose seja diferencial, a combinação de exposição silvestre + epizootias +
+lesão hepática intensa favorece febre amarela. Ficar apenas no tratamento
+antimicrobiano atrasa o manejo adequado.
+Não há espaço para manejo ambulatorial. Há sinais de gravidade e risco de evolução
+rápida para insuficiência hepática e choque. Requer nível hospitalar imediato.
+Referência:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; HAUSER, Stephen L.; LONGO,
+Dan L.; JAMESON, J. Larry (ed.). Harrison’s Principles of Internal Medicine . 21. ed. New
+York: McGraw-Hill Education/Medical, 2022. ISBN 978-1-264-26850-4
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 62 de 69
+
+Feedback:
+-46ª QUESTÃO
+Enunciado:
+(FESAR) Um paciente de 35 anos é admitido no setor de emergência após sofrer um
+acidente automobilístico de alta velocidade. Ao exame primário (ABCDE) inicial, você
+observa que o paciente está agitado, com estridor inspiratório progressivo e utiliza
+musculatura acessória para respirar. A frequência respiratória é de 28 incursões por
+minuto, superficial, e a saturação de oxigênio (SpO2) em ar ambiente é de 88%. Há
+evidências de hematoma na região anterior do pescoço e crepitação subcutânea. O
+paciente está consciente, mas ansioso e com dificuldade para falar frases completas.
+Qual das seguintes opções representa a conduta mais apropriada e a interpretação
+correta dos achados clínicos neste momento, considerando os princípios do ATLS para
+manejo de vias aéreas e região cervical?
+Alternativas:
+(alternativa A)
+Tentar a intubação orotraqueal com visualização direta da laringe utilizando um
+laringoscópio com lâmina Macintosh, mantendo a imobilização cervical com colar e
+blocos laterais. Se a intubação for bem-sucedida, conectar o paciente a um ventilador
+mecânico e monitorar a adequação da ventilação com gasometria arterial e EtCO₂.
+(alternativa B) (CORRETA)
+Preparar para cricotireoidostomia cirúrgica de emergência, considerando a presença de
+estridor, hematoma cervical e crepitação, que sugerem obstrução das vias aéreas
+superiores possivelmente relacionada a lesão laríngea ou traqueal. A intubação
+orotraqueal pode ser difícil ou impossível neste cenário e agravar a lesão.
+(alternativa C)
+Administrar oxigênio suplementar com máscara não reinalante a 15 L/min e monitorar
+continuamente a SpO₂ e o dióxido de carbono ao final da expiração (EtCO₂). A agitação
+pode ser secundária à hipoxemia, e a oxigenoterapia agressiva pode melhorar a
+ventilação e a oxigenação antes de considerar procedimentos invasivos. A monitorização
+do EtCO₂ ajudará a confirmar a adequação da ventilação.
+(alternativa D)
+Realizar imediatamente intubação orotraqueal com sequência rápida de intubação (SRI),
+garantindo imobilização cervical manual em linha reta durante o procedimento. A SpO2
+baixa e o estridor indicam falha iminente das vias aéreas, tornando a intubação a
+prioridade máxima, mesmo antes da confirmação da lesão cervical por imagem.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 63 de 69
+
+Resposta comentada:
+Resposta correta: preparar para cricotireoidostomia cirúrgica de emergência,
+considerando a presença de estridor, hematoma cervical e crepitação, que sugerem
+obstrução das vias aéreas superiores possivelmente relacionada a lesão laríngea ou
+traqueal. A intubação orotraqueal pode ser difícil ou impossível neste cenário e agravar a
+lesão.
+Explicação detalhada:
+Estridor inspiratório progressivo, uso de musculatura acessória e dificuldade para falar
+frases completas: são sinais clássicos de obstrução das vias aéreas superiores, indicando
+um comprometimento significativo do fluxo de ar.
+Hematoma cervical e crepitação subcutânea: sugerem lesão direta na laringe ou traqueia,
+com possível extravasamento de ar para os tecidos subcutâneos. Tentar a intubação
+orotraqueal em um cenário como este pode ser extremamente difícil, traumático e até
+mesmo impossível, podendo piorar a lesão existente ou levar à perda completa das vias
+aéreas.
+A agitação e a SpO₂ de 88% em ar ambiente reforçam a hipóxia secundária à
+inadequação da ventilação. Embora a oxigenoterapia seja importante, neste caso, a
+obstrução mecânica é a principal causa da hipoxemia, e a oxigenação isolada não
+resolverá o problema.
+A cricotireoidostomia cirúrgica de emergência: é o procedimento de escolha em situações
+de "não se consegue intubar, não se consegue ventilar" (cannot intubate, cannot
+ventilate - CICV) causadas por obstrução das vias aéreas superiores acima da laringe. A
+rapidez na realização deste procedimento pode ser crucial para salvar a vida do paciente.
+Por que as outras opções estão incorretas:
+Intubação orotraqueal imediata com SRI: embora a intubação seja frequentemente
+necessária em pacientes traumatizados, tentar a intubação em um cenário de provável
+lesão laríngea ou traqueal com sinais de obstrução significativa pode ser perigoso e
+infrutífero. A SRI não resolve o problema mecânico da obstrução.
+Oxigenoterapia com máscara não reinalante e monitorização de EtCO 2: a oxigenoterapia
+é um componente importante do manejo, mas não aborda a causa da obstrução. A
+monitorização do EtCO₂ é útil para confirmar a adequação da ventilação APÓS o
+estabelecimento de uma via aérea segura, o que ainda não ocorreu neste paciente.
+Tentar intubação orotraqueal com visualização direta: dada a alta probabilidade de lesão
+das vias aéreas superiores e obstrução, tentar a intubação orotraqueal pode ser arriscado
+e atrasar a realização de um procedimento que garanta uma via aérea definitiva
+(cricotireoidostomia).
+Referências:
+AMERICAN COLLEGE OF SURGIONS COMMITTEE ON TRAUMA . Advanced Trauma Life
+Suport - ATLS. 10 ed. , 2018.
+NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS. PHTLS - Atendimento
+pré-hospitalar ao traumatizado. 9. ed., 2020.
+Feedback:
+
+47ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 64 de 69
+
+Enunciado:
+(AFYA ITABUNA) Sr. Antônio, 74 anos, foi submetido a uma colectomia direita eletiva por
+neoplasia há 3 dias. Encontra-se internado na enfermaria cirúrgica e evoluiu nas últimas 6
+horas com rebaixamento do nível de consciência, hipotensão arterial (PA 84x50 mmHg),
+taquicardia (FC 122 bpm), taquipneia (FR 26 irpm) e febre de 38,9 °C. O débito urinário
+caiu para 15 mL/h. Apresenta abdome discretamente distendido e doloroso à palpação.
+Exames laboratoriais mostram:
+Leucograma: 17.500/mm³
+Lactato: 3,2 mmol/L
+Creatinina: 2,1 mg/dL (basal: 1,1 mg/dL)
+PCR: 165 mg/L
+Gasometria: pH 7,31; HCO₃⁻: 18 mEq/L; BE: -5
+SatO₂: 92% em ar ambiente
+Com base no caso acima, assinale a alternativa que apresenta o diagnóstico mais
+provável e a conduta inicial adequada.
+Alternativas:
+(alternativa A)
+Obstrução intestinal pós-operatória; indicar reabordagem cirúrgica imediata.
+(alternativa B) (CORRETA)
+Choque séptico; iniciar antibiótico empírico, expansão com cristaloide e considerar
+vasopressor se necessário.
+
+(alternativa C)
+Insuficiência renal aguda pós-operatória; realizar hemodiálise e manter observação.
+(alternativa D)
+Sepse grave; iniciar oxigenoterapia, sonda vesical de demora e analgesia.
+
+Resposta comentada:
+O paciente apresenta disfunção de múltiplos órgãos (renal, neurológica) e hipotensão
+persistente com lactato elevado (>2 mmol/L), caracterizando choque séptico (definição
+atual do Sepsis-3). A conduta imediata deve incluir:
+Expansão volêmica com cristaloides (30 mL/kg nas primeiras 3 horas).
+Coleta de culturas e início imediato de antibiótico de amplo espectro.
+Considerar vasopressor (noradrenalina) se não responder à hidratação.
+Monitoramento em ambiente com suporte intensivo, se possível.
+Referências:
+Campanha de Sobrevivência à Sepse: Diretrizes Internacionais para o Manejo da Sepse e
+Choque Séptico 2021. Disponível em: https://www.sccm.org/sccm/media/PDFs/SurvivingSepsis-Campaign 2021-Portuguese-Translation.pdf. Acesso em: 28 mar. 2023.
+VELASCO, Irineu T. ; NETO, Rodrigo Antonio B. ; SOUZA, Heraldo Possolo de; et al.
+Medicina de emergência: abordagem prática. Editora Manole, 2022. E-book. ISBN
+9786555765977. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555765977/. Acesso em: 28 mar.
+2023.
+Feedback:
+-48ª QUESTÃO
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 65 de 69
+
+Enunciado:
+(FESAR) Homem de 34 anos procura a Unidade Básica de Saúde com febre alta há cinco
+dias, cefaleia, mialgia intensa em panturrilhas, náuseas e olhos “amarelados” há um dia.
+Relata ter ajudado na limpeza de casa após enchente recente, com acúmulo de lixo,
+esgoto e presença de ratos. Trabalha como coletor de resíduos.
+Ao exame: paciente prostrado, ictérico, com sufusão conjuntival, PA 90/60 mmHg, FC 104
+bpm, temperatura 38,5 °C. Fígado palpável e doloroso a 3 cm do rebordo costal direito.
+Sem sinais meníngeos.
+Exames disponíveis na UBS:
+Leucocitose discreta, plaquetopenia leve;
+TGO/TGP elevadas;
+Creatinina 2,1 mg/dL;
+Urina com proteína e hemoglobina.
+Com base nas informações clínicas, laboratoriais e epidemiológicas, assinale a alternativa
+que apresenta a conduta mais adequada para o cenário da atenção primária.
+Alternativas:
+(alternativa A)
+Considerar dengue grave como principal hipótese, indicar repouso, hidratação oral e uso
+de analgésicos, reservando antibioticoterapia apenas após confirmação laboratorial.
+(alternativa B)
+Tratar empiricamente como hepatite viral aguda, mantendo acompanhamento
+ambulatorial e solicitando sorologia específica apenas se houver piora clínica.
+(alternativa C)
+Presumir intoxicação alimentar, instituir tratamento sintomático, orientar retorno se
+persistirem sintomas e não realizar notificação, pois não há confirmação diagnóstica.
+(alternativa D) (CORRETA)
+Suspeitar de leptospirose, iniciar antibioticoterapia precoce e hidratação oral vigorosa,
+notificar o caso imediatamente e encaminhar ao hospital devido a sinais de gravidade.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 66 de 69
+
+Resposta comentada:
+O paciente apresenta quadro compatível com leptospirose, uma zoonose bacteriana
+causada pela Leptospira interrogans, transmitida pela urina de roedores, especialmente
+após enchentes ou contato com água e lama contaminadas.
+Elementos-chave do caso:
+Exposição epidemiológica: limpeza após enchente + presença de ratos.
+Quadro clínico: febre alta, cefaleia, mialgia intensa em panturrilhas, icterícia e
+sufusão conjuntival (sinal clássico da forma grave).
+Exames: plaquetopenia leve, elevação de transaminases, aumento da creatinina
+e proteinúria/hematúria — indicativos de comprometimento hepatorrenal
+(síndrome de Weil).
+Sinais de gravidade: hipotensão, icterícia, prostração → necessidade de
+internação hospitalar.
+Conduta na Atenção Básica:
+Iniciar antibioticoterapia precoce (penicilina cristalina EV ou doxiciclina em casos
+leves, conforme protocolo).
+Garantir hidratação adequada.
+Notificar imediatamente (doença de notificação compulsória).
+Encaminhar ao hospital, pois há sinais de forma grave (icterícia + insuficiência
+renal + hipotensão).
+Referências:
+BRASIL. Ministério da Saúde. Vigilância em Saúde: zoonoses. Brasília: Ministério da Saúde,
+2009. (Cadernos de Atenção Básica, n. 22) (Série A. Normas e Manuais Técnicos).
+DUCAN, B., B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca (5th edição). Grupo A, 2022.
+Feedback:
+-49ª QUESTÃO
+Enunciado:
+(UNIPTAN) Uma paciente de 65 anos, admitida na UTI com diagnóstico de pneumonia,
+apresenta evolução com sonolência, náuseas e vômitos. Seu sódio sérico é de 112
+mEq/L, osmolaridade plasmática de 260 mOsm/kg e osmolaridade urinária de 500
+mOsm/kg. O exame físico revela normovolemia. Após a análise minuciosa do quadro
+clínico e dos exames laboratoriais, qual das condutas abaixo é mais apropriada para
+manejar imediatamente esse caso de hiponatremia?
+Alternativas:
+(alternativa A)
+Iniciar restrição hídrica rigorosa e monitorar a evolução do sódio, sem qualquer outra
+intervenção nas primeiras 24 horas.
+(alternativa B) (CORRETA)
+Iniciar correção com solução salina hipertônica 3%, visando aumento de 4-6 mEq/L do
+sódio sérico nas primeiras 6 horas, monitorando clínica e laboratorialmente e evitando
+correção excessiva.
+(alternativa C)
+Administrar diuréticos de alça associados à reposição de sódio, independentemente da
+etiologia da hiponatremia.
+(alternativa D)
+Administrar solução salina isotônica 0,9% até que o sódio atinja valores normais, para
+evitar complicações neurológicas.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 67 de 69
+
+Resposta comentada:
+- A correção rápida para valores normais (<24h) aumenta expressivamente o risco de
+mielinólise pontina central, uma complicação grave e irreversível.
+- Embora a restrição hídrica seja parte do manejo em hiponatremias euvolêmicas (como a
+SIADH), em pacientes sintomáticos graves a correção com solução hipertônica é
+fundamental para reduzir complicações neurológicas agudas.
+- Solução salina isotônica pode ser ineficaz ou até contraproducente na hiponatremia
+euvolêmica secundária à secreção inapropriada de ADH (SIADH), pois pode agravar a
+retenção hídrica.
+- A recomendação atual, diante de sintomas graves (neurológicos), é correção inicial com
+solução salina hipertônica visando elevação gradual e segura do sódio, evitando
+correções rápidas e monitorando continuamente o paciente.
+- Diuréticos de alça são recomendados em algumas situações específicas, mas o uso
+indiscriminado, especialmente sem conhecer a etiologia, pode trazer riscos e não são
+primeira linha na emergência sintomática.
+Referências:
+Verbalis JG, Goldsmith SR, Greenberg A, et al. "Diagnosis, evaluation, and treatment of
+hyponatremia: expert panel recommendations." Am J Med. 2013 Oct;126(10 Suppl 1):S1–
+S42.
+www.amjmed.com
+UpToDate: "Overview of the treatment of hyponatremia in adults" – Atualizado em 2024.
+Adrogué, HJ; Madias, NE. "Hyponatremia." N Engl J Med. 2000 May; 342(21):1581-1589.
+Feedback:
+-50ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Mulher de 23 anos, descobriu recentemente que estava grávida e iniciou
+o pré-natal na UBS do seu bairro. Ela retorna para sua segunda consulta com idade
+gestacional de 13 semanas e 4 dias, trazendo exames laboratoriais solicitados pela
+enfermeira: Toxoplasmose IgG e IgM: não reagentes; Teste rápido para HIV: não
+reagente; Teste rápido para sífilis - HBsAg: não reagente; Anti- HBsAg: não reagente;
+VDRL: 1:32; Glicemia de jejum: 79mg/dl.
+Qual a conduta que deve ser efetivada neste caso?
+Alternativas:
+(alternativa A) (CORRETA)
+Prescrever benzilpenicilina benzatina, 2,4 milhões UI, IM, semanal, por três semanas.
+(alternativa B)
+Prescrever penicilina G benzatina, ceftriaxona ou doxiciclina, para a paciente.
+(alternativa C)
+Solicitar FTA-ABS para acompanhamento da paciente.
+(alternativa D)
+Indicar abstinência sexual durante o tratamento medicamentoso.
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 68 de 69
+
+Resposta comentada:
+Comentário: A benzilpenicilina benzatina é o medicamento de escolha e a única droga
+com eficácia durante a gestação, devendo ser prescrita da seguinte forma: 2,4 milhões
+UI, IM, (1,2 milhão UI em cada glúteo), semanal, por três semanas, para que o tratamento
+seja considerado adequado. Os parceiros sexuais deverão ser tratados para sífilis
+independentemente do resultado dos seus exames. O VDRL é um exame com alta
+sensibilidade para sífilis, enquanto o FTA-ABS é o exame com alta especificidade. No
+entanto, com teste rápido positivo já é indicado tratamento da gestante, não devendo
+aguardar resultado de nenhum outro exame devido aos riscos possíveis para o feto. O
+FTA-ABS, por ser muito específico, descarta a doença quando é negativo.
+Referências:
+Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com
+Infecções Sexualmente Transmissíveis (IST) – Ministério da Saúde – 2022.
+https://www.gov.br/aids/pt-br/centrais-deconteudo/pcdts/2022/ist/pcdt-ist-2022_isbn1.pdf/@@download/file/pcdt-ist-2022_isbn.pdf
+Feedback:
+--
+
+000180.240012.c10fe1.a44585.0c53c4.716843.e710f8.3d267
+
+Página 69 de 69
+
+

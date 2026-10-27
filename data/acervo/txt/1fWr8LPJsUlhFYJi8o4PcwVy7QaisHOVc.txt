@@ -1,0 +1,837 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Sistemas Orgânicos Integrados I
+Professor (es):
+Período: 202402
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_1 PERIODO_23 SETEMBRO_2024.2_PROVA_SOI
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 13522 - CADERNO 003
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+Enunciado:
+(FMIT) Uma paciente, de 35 anos, foi ao consultório médico para a realização de um check-up.
+Durante a consulta, o médico realizou a ausculta cardíaca e explicou que os sons cardíacos que
+ele ouvia estavam associados a eventos mecânicos do ciclo cardíaco. Para facilitar a
+compreensão, o médico utilizou o Diagrama de Wiggers, mostrando à paciente as variações de
+pressão, volume, sons cardíacos e a relação com os eventos das válvulas cardíacas. Ele
+ressaltou que os dois principais sons cardíacos ("bulhas") indicavam o fechamento das válvulas.
+Qual dos eventos abaixo está corretamente associado ao primeiro som cardíaco (B1)?
+Alternativas:
+(alternativa A)
+A abertura das valvas atrioventriculares, indicando o início da diástole.
+(alternativa B)
+A abertura das válvulas semilunares, indicando o início da sístole ventricular.
+(alternativa C) (CORRETA)
+O fechamento das valvas atrioventriculares, indicando o início da sístole ventricular.
+(alternativa D)
+O fechamento das válvulas semilunares, indicando o início da diástole.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 1 de 23
+
+Resposta comentada:
+Comentários sobre as alternativas:
+O fechamento das válvulas semilunares, indicando o início da diástole.
+Incorreto. O fechamento das válvulas semilunares gera o segundo som cardíaco (B2), e isso
+ocorre no final da sístole, indicando o início da diástole.
+O fechamento das válvulas atrioventriculares, indicando o início da sístole ventricular.
+Correto. O primeiro som cardíaco (B1) é gerado pelo fechamento das válvulas atrioventriculares
+(mitral e tricúspide), indicando o início da sístole ventricular, quando o coração começa a bombear
+o sangue para as artérias.
+A abertura das válvulas atrioventriculares, indicando o início da diástole.
+Incorreto. A abertura das válvulas atrioventriculares não está associada a um som audível
+durante a ausculta cardíaca, e ocorre no início da diástole, mas não gera o primeiro som cardíaco.
+A abertura das válvulas semilunares, indicando o início da sístole ventricular.
+Incorreto. A abertura das válvulas semilunares permite que o sangue seja ejetado do coração,
+mas esse evento também não está associado a sons cardíacos audíveis durante a ausculta.
+Referência:
+SILVERTHORN, Dee U. Fisiologia humana. Porto Alegre: Grupo A, [2017]. E-book. ISBN
+9788582714041. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582714041/. Acesso em: 11 set. 2024.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Durante uma atividade física vigorosa, um atleta bem-treinado consegue
+atingir um débito cardíaco que é o dobro do débito de uma pessoa sedentária. Neste sentido, a
+prática regular de exercícios físicos também ajuda a reduzir a pressão arterial, a ansiedade e a
+depressão; controlar o peso corporal e aumentar a capacidade do corpo de dissolver coágulos.
+Considerando essa situação, avalie as asserções a seguir e a relação proposta entre elas:
+
+I - O treinamento promove hipertrofia, que consiste no aumento do órgão em decorrência do
+aumento do tamanho/volume das células do coração. Essa condição é denominada
+Cardiomegalia Patológica ou Hipertrofia Patológica.
+PORQUE
+II - A prática sustentada de exercícios físicos aumenta a demanda muscular por oxigênio. O
+atendimento a essa demanda depende sobretudo da adequação do débito cardíaco e do
+funcionamento apropriado do sistema respiratório.
+A respeito das asserções acima, assinale a alternativa correta:
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 2 de 23
+
+Alternativas:
+(alternativa A)
+As asserções I e II são proposições verdadeiras, mas a II não justifica corretamente a I.
+(alternativa B)
+As asserções I e II são proposições verdadeiras, e a II justifica corretamente a I.
+(alternativa C)
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+(alternativa D) (CORRETA)
+A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+Resposta comentada:
+A asserção I se apresenta como falsa uma vez que retrata a Hipertrofia relacionada à prática de
+exercícios físicos como sendo patológica, no entanto, é sabido que a mesma se apresenta sim
+como uma adaptação celular, a Hipertrofia, porém de forma Fisiológica.
+A asserção II é verdadeira, uma vez que, a prática sustentada de exercícios físicos aumentam
+sim a demanda muscular por oxigênio.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de anatomia e fisiologia. 14. ed. Rio
+de Janeiro: Guanabara Koogan, 2019.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(UNIPTAN) Durante uma aula prática de histologia, os alunos examinaram lâminas que
+apresentavam cortes transversais de vasos linfáticos. Esses vasos, ao lado de vasos
+sanguíneos, mostraram-se com características estruturais distintas. Após a observação, o
+professor discutiu a importância do sistema linfático e da linfa e seu retorno ao sistema
+circulatório, bem como seu papel na resposta imunológica. Além disso, o professor explicou o
+processo de formação da linfa e transporte através do corpo.
+Considerando o que foi discutido em aula e observado nas lâminas histológicas, faça o que se
+pede nos itens a seguir.
+A) Descreva as características histológicas dos vasos linfáticos que os diferenciam dos vasos
+sanguíneos.
+B) Explique como a linfa é formada a partir do líquido intersticial e descreva o caminho que ela
+percorre até retornar à circulação sanguínea.
+Alternativas:
+--
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 3 de 23
+
+Resposta comentada:
+A) Os vasos linfáticos apresentam paredes finas e uma disposição irregular das células
+endoteliais, em contraste com os vasos sanguíneos que possuem paredes mais espessas e
+organizadas. Além disso, os vasos linfáticos frequentemente contêm válvulas que impedem o
+refluxo da linfa, enquanto nos vasos sanguíneos, essas válvulas são encontradas principalmente
+nas veias.
+B) A linfa é formada quando o líquido intersticial, contendo proteínas, células imunes e resíduos
+celulares, é absorvido pelos capilares linfáticos devido à pressão osmótica. Esse fluido, agora
+chamado linfa, é transportado através de vasos linfáticos maiores, passando por linfonodos onde
+ocorre a filtragem e a resposta imunológica. A linfa continua seu caminho até os ductos linfáticos
+principais, como o ducto torácico, onde finalmente é drenada de volta à circulação sanguínea,
+especificamente nas junções das veias subclávias com as veias jugulares.
+Referências:
+GRAY, H. Anatomia. 29. ed. Rio de Janeiro: Guanabara Koogan, 2012.
+JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Histologia Básica. 13. ed. Rio de Janeiro:
+Guanabara Koogan, 2017.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(UNITPAC) A hemoglobina é uma proteína globular presente nas hemácias, responsável pelo
+transporte de oxigênio dos pulmões para os tecidos e de dióxido de carbono dos tecidos para os
+pulmões. Sua estrutura é formada por quatro subunidades (cadeias polipeptídicas), que variam ao
+longo da vida e em diferentes condições patológicas. Os principais tipos de hemoglobina no ser
+humano são a hemoglobina A (HbA), hemoglobina fetal (HbF), hemoglobina A2 (HbA2) e
+hemoglobina S (HbS), cada uma desempenhando um papel específico e apresentando
+características estruturais distintas.
+Considerando os diferentes tipos de hemoglobina, suas estruturas e suas funções, analise as
+assertivas a seguir:
+I. A hemoglobina A (HbA), composta por duas cadeias alfa (α) e duas cadeias beta (β), é
+predominante em adultos e tem afinidade moderada por oxigênio, o que permite liberação eficiente
+para os tecidos.
+II. A hemoglobina fetal (HbF), composta por duas cadeias alfa (α) e duas cadeias gama (γ),
+possui maior afinidade por oxigênio em relação à HbA, facilitando a transferência de oxigênio da
+circulação materna para o feto.
+III. A hemoglobina S (HbS), característica da anemia falciforme, apresenta uma substituição de
+aminoácido na cadeia beta (β), o que resulta em uma conformação anômala quando
+desoxigenada, levando à falcização das hemácias e à diminuição da capacidade de transporte de
+oxigênio.
+IV. A hemoglobina A2 (HbA2), é composta por uma cadeia alfa (α) e três cadeias beta (δ), é uma
+variante minoritária da hemoglobina em adultos, cuja função é idêntica à da HbA.
+Marque a alternativa correta.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 4 de 23
+
+Alternativas:
+(alternativa A) (CORRETA)
+Apenas as afirmativas I, II e III estão corretas.
+(alternativa B)
+Apenas as afirmativas III e IV estão corretas.
+(alternativa C)
+Apenas as afirmativas II e III estão corretas.
+(alternativa D)
+Apenas as afirmativas II, III e IV estão corretas.
+
+Resposta comentada:
+Resposta Correta: Apenas as afirmativas I, II e III estão corretas.
+Justificativa:
+I está correta. A hemoglobina A (HbA) é a forma predominante nos adultos e é
+composta por duas cadeias alfa e duas cadeias beta. Sua afinidade moderada por
+oxigênio é crucial para o equilíbrio entre captação nos pulmões e liberação nos tecidos.
+II está correta. A hemoglobina fetal (HbF), com suas cadeias gama, tem maior
+afinidade por oxigênio, permitindo a troca eficiente de oxigênio da mãe para o feto
+através da placenta.
+III está correta. A hemoglobina S (HbS) tem uma mutação na cadeia beta, onde o ácido
+glutâmico é substituído pela valina, o que provoca alterações estruturais na
+hemoglobina desoxigenada, levando à deformação das hemácias e à característica
+"falcização" observada na anemia falciforme.
+IV está incorreta. A hemoglobina A2 (HbA2) é uma pequena porção da hemoglobina
+adulta (cerca de 2,5%), composta por duas cadeias alfa e duas cadeias delta.
+Referências:
+Hall, John E. Guyton E Hall Tratado De Fisiologia Médica. GEN Guanabara Koogan. Edição do
+Kindle.
+Feedback:
+-5ª QUESTÃO
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 5 de 23
+
+Enunciado:
+(UNISL JI-PARANÁ) Um trabalhador de 45 anos foi admitido na emergência após sofrer um
+acidente de trabalho com um objeto cortante. Ele apresenta sinais de infecção grave no braço
+direito, com febre alta, dor intensa, rubor, calor e edema no local da ferida. Exames laboratoriais
+indicam leucocitose e aumento de marcadores inflamatórios.
+Considerando o papel do sistema complemento na resposta imune inata e sua função na infecção
+observada, analise as alternativas abaixo e escolha a que melhor descreve a importância da
+ativação do sistema complemento na resposta inflamatória e no controle da infecção aguda neste
+paciente.
+Alternativas:
+(alternativa A)
+A via da lectina do sistema complemento atua na resposta inflamatória ao se ligar a lipídeos
+microbianos na superfície dos patógenos, iniciando a cascata do complemento e promovendo a
+inflamação. No entanto, esta via tem um papel secundário em comparação com a via alternativa
+na opsonização dos patógenos no caso de infecções agudas como a do paciente.
+(alternativa B) (CORRETA)
+A via alternativa do sistema complemento é ativada diretamente em superfícies microbianas
+presentes na ferida do paciente, promovendo a opsonização dos patógenos. O fragmento C3b
+resultante dessa ativação se liga aos microrganismos, facilitando sua fagocitose pelos neutrófilos
+e macrófagos e contribuindo para a resolução da infecção e controle da inflamação local.
+(alternativa C)
+A via clássica do sistema complemento é a principal via ativada na resposta imune inata,
+contribuindo para a opsonização dos patógenos na ferida do paciente. Entretanto, esta via requer
+a presença de anticorpos para sua ativação e não é a via predominante na resposta inicial à
+infecção aguda observada no paciente.
+(alternativa D)
+Na resposta imune inata, o sistema complemento é responsável pela regulação da temperatura
+corporal e pela produção de citocinas que mediam a inflamação. A opsonização dos patógenos e
+a lise celular são funções não relacionadas ao papel primário do sistema complemento na
+resposta inflamatória aguda no caso do paciente.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 6 de 23
+
+Resposta comentada:
+Alternativa correta: A via alternativa do sistema complemento é ativada diretamente em
+superfícies microbianas presentes na ferida do paciente, promovendo a opsonização dos
+patógenos. O fragmento C3b resultante dessa ativação se liga aos microrganismos, facilitando
+sua fagocitose pelos neutrófilos e macrófagos e contribuindo para a resolução da infecção e
+controle da inflamação local.
+Justificativa: Esta alternativa está correta porque descreve com precisão o papel da
+via alternativa do sistema complemento na resposta imune inata. A via alternativa é
+ativada diretamente em superfícies microbianas, como as presentes na ferida do
+paciente. O fragmento C3b promovido pela ativação do complemento se liga aos
+patógenos, facilitando sua opsonização e subsequente fagocitose por neutrófilos e
+macrófagos, ajudando a controlar a infecção e a inflamação local.
+Alternativa incorreta: A via clássica do sistema complemento é a principal via ativada na resposta
+imune inata, contribuindo para a opsonização dos patógenos na ferida do paciente. Entretanto,
+esta via requer a presença de anticorpos para sua ativação e não é a via predominante na
+resposta inicial à infecção aguda observada no paciente.
+Justificativa: A via clássica não é a principal via da resposta imune inata, pois é
+ativada por anticorpos e, portanto, está mais associada à resposta adaptativa. A via
+alternativa é a mais relevante na resposta inata inicial, especialmente em infecções
+agudas, como a observada no paciente.
+Alternativa incorreta: A via da lectina do sistema complemento atua na resposta inflamatória ao se
+ligar a lipídeos microbianos na superfície dos patógenos, iniciando a cascata do complemento e
+promovendo a inflamação. No entanto, esta via tem um papel secundário em comparação com a
+via alternativa na opsonização dos patógenos no caso de infecções agudas como a do paciente.
+Justificativa: A via da lectina atua na resposta inflamatória ao se ligar a carboidratos
+microbianos na superfície dos patógenos, e embora seja importante na resposta imune
+inata, não é secundária à via alternativa. Ambas as vias desempenham papéis cruciais
+na opsonização e na resposta inflamatória, mas a via alternativa é frequentemente a
+mais relevante na resposta inicial a infecções agudas.
+Alternativa incorreta: Na resposta imune inata, o sistema complemento é responsável pela
+regulação da temperatura corporal e pela produção de citocinas que mediam a inflamação. A
+opsonização dos patógenos e a lise celular são funções não relacionadas ao papel primário do
+sistema complemento na resposta inflamatória aguda no caso do paciente.
+Justificativa: O sistema complemento não é responsável pela regulação da
+temperatura corporal nem pela produção de citocinas. Suas principais funções incluem
+opsonização, promoção da inflamação e lise celular dos patógenos, que são essenciais
+para a resposta imune inata e para o controle da infecção.
+Referência:
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Celular e Molecular. Rio de
+Janeiro: Grupo GEN, 2023. E-book. ISBN 9788595158924. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158924/. Acesso em: 11 set. 2024.
+Feedback:
+-6ª QUESTÃO
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 7 de 23
+
+Enunciado:
+(UNIPTAN) Um pesquisador está desenvolvendo um novo tratamento para melhorar a
+regeneração de células sanguíneas e linfócitos após um tratamento agressivo contra o câncer.
+Ele formula a hipótese de que a manipulação dos níveis de citocinas específicas, como a
+Interleucina-3 (IL-3) e a Interleucina-6 (IL-6), pode otimizar a recuperação do sistema
+hemolinfopoético, acelerando a regeneração celular e melhorando o prognóstico dos pacientes.
+Considerando o exposto, avalie as asserções a seguir e a relação proposta entre elas.
+I. A IL-3 desempenha um papel crucial na proliferação e diferenciação das células progenitoras
+hematopoéticas, o que pode contribuir para a regeneração eficiente do sistema hemolinfopoético
+após tratamentos agressivos contra o câncer.
+PORQUE
+II. A IL-6 promove a inflamação e a diferenciação dos linfócitos B em plasmócitos, sendo um fator
+essencial para a resposta imune adaptativa e para a regeneração do tecido hematopoético.
+A respeito das asserções acima, assinale a opção correta.
+Alternativas:
+(alternativa A)
+As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+(alternativa B) (CORRETA)
+As asserções I e II são proposições verdadeiras, mas a II não apresenta relação com a asserção
+I.
+(alternativa C)
+As asserções I e II são proposições falsas.
+(alternativa D)
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+
+Resposta comentada:
+A IL-3 é, de fato, crucial para a proliferação e diferenciação das células progenitoras
+hematopoéticas, desempenhando um papel central na regeneração do sistema hemolinfopoético.
+A IL-6 também é importante, mas seu papel está mais relacionado à promoção da inflamação e
+diferenciação dos linfócitos B em plasmócitos. Embora ambas as citocinas sejam relevantes para
+a recuperação hematopoética, o papel da IL-6 na inflamação e diferenciação dos linfócitos não
+justifica diretamente o efeito da IL-3 na proliferação das células progenitoras hematopoéticas.
+Referência:
+ABBAS, A. K.; LICHTMAN, A. H.; PILLAI, S. Cellular and Molecular Immunology. 9th ed.
+Philadelphia: Elsevier, 2018.
+Feedback:
+-7ª QUESTÃO
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 8 de 23
+
+Enunciado:
+( FIPGUANAMBI) Uma gestante de 32 anos, na 12ª semana de gestação, comparece à consulta
+de pré-natal preocupada com o desenvolvimento cardíaco do feto, pois sua família possui um
+histórico de cardiopatias congênitas. Durante o exame, ela pergunta ao obstetra sobre o estágio
+de desenvolvimento do coração do feto e a possibilidade de detecção precoce de anomalias.
+Com base no caso descrito acima e em seus conhecimentos sobre embriogênese cardíaca e
+histologia cardíaca, o coração do feto, nesse estágio:
+
+Alternativas:
+(alternativa A) (CORRETA)
+já está anatomicamente formado e dividido em quatro câmaras cardíacas: dois átrios e dois
+ventrículos.
+(alternativa B)
+não corre o risco de apresentar defeitos congênitos, pois o septo atrial ainda está em processo de
+formação.
+(alternativa C)
+ainda não possui as válvulas cardíacas formadas, pois ainda não há fluxo sanguíneo vindo dos
+pulmões.
+(alternativa D)
+ainda não sofreu o giro, sendo apenas formado pelo bulbo cardíaco, tronco arterioso, átrio
+primitivo.
+
+Resposta comentada:
+Na 12a semana do desenvolvimento, o coração fetal está totalmente dividido em quatro câmaras
+e funciona de maneira semelhante ao coração de um recém-nascido. As válvulas já estão
+formadas e o coração já sofreu o giro, que geralmente ocorre entre a 4ª e 8ª semana de gestação.
+A septação do coração já está substancialmente completa, embora pequenos ajustes e
+desenvolvimentos possam continuar até o nascimento.
+Referências:
+SADLER, T. W. Langman: Embriologia Médica. 14. ed. Rio de Janeiro: Guanabara Koogan,
+2021.
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de anatomia e fisiologia. 14. ed. Rio
+de Janeiro: Guanabara Koogan, 2019.
+Feedback:
+-8ª QUESTÃO
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 9 de 23
+
+Enunciado:
+(FMIT) Durante uma aula prática de fisiologia cardiovascular, os alunos foram divididos em
+grupos para estudar os diferentes tipos de vasos sanguíneos (artérias, arteríolas, capilares,
+vênulas e veias) e suas características. O professor apresentou gráficos e modelos que
+demonstram como a pressão, o fluxo, o volume e a resistência variam entre esses vasos. Foi
+discutido que a hemodinâmica é essencial para a regulação da pressão arterial e que cada vaso
+desempenha um papel específico na distribuição e regulação do sangue. Dadas as
+características hemodinâmicas dos vasos sanguíneos, qual das correlações a seguir está
+correta?
+Alternativas:
+(alternativa A)
+Artérias: alta pressão, baixa resistência, baixo volume, fluxo contínuo; Capilares: baixa pressão,
+alta resistência, baixo volume, fluxo contínuo.
+(alternativa B)
+Artérias: alta pressão, alta resistência, alto volume, fluxo contínuo; Veias: baixa pressão, alta
+resistência, baixo volume, fluxo pulsátil.
+(alternativa C)
+Artérias: alta pressão, alta resistência, baixo volume, fluxo pulsátil; Capilares: baixa pressão,
+resistência mínima, alto volume, fluxo contínuo.
+(alternativa D) (CORRETA)
+Artérias: alta pressão, baixa resistência, baixo volume, fluxo pulsátil; Veias: baixa pressão, baixa
+resistência, alto volume, fluxo contínuo.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 10 de 23
+
+Resposta comentada:
+Comentário sobre as alternativas:
+Alternativa "Artérias: alta pressão, alta resistência, baixo volume, fluxo pulsátil;
+Capilares: baixa pressão, resistência mínima, alto volume, fluxo contínuo" - Incorreta.
+Embora as artérias apresentem alta pressão e fluxo pulsátil, a resistência nas artérias é
+baixa, e os capilares têm resistência moderada, não mínima, além de baixo volume e
+fluxo contínuo.
+Alternativa "Artérias: alta pressão, baixa resistência, baixo volume, fluxo contínuo;
+Capilares: baixa pressão, alta resistência, baixo volume, fluxo contínuo" - Incorreta. As
+artérias têm alta pressão e fluxo pulsátil, não contínuo, e apresentam baixa resistência,
+não alta. Capilares, por sua vez, têm alta resistência, mas baixo volume, com fluxo
+contínuo.
+Alternativa "Artérias: alta pressão, baixa resistência, baixo volume, fluxo pulsátil; Veias:
+baixa pressão, baixa resistência, alto volume, fluxo contínuo" - Correta. As artérias
+apresentam alta pressão, baixa resistência, baixo volume e fluxo pulsátil, enquanto as
+veias apresentam baixa pressão, baixa resistência, alto volume e fluxo contínuo.
+Alternativa "Artérias: alta pressão, alta resistência, alto volume, fluxo contínuo; Veias:
+baixa pressão, alta resistência, baixo volume, fluxo pulsátil" - Incorreta. As artérias têm
+alta pressão, mas a resistência nelas é baixa e o volume é baixo, não alto. As veias
+possuem baixa pressão e baixa resistência, com alto volume, e fluxo contínuo, não
+pulsátil.
+Referência:
+SILVERTHORN, Dee U. Fisiologia humana. Porto Alegre: Grupo A, [2017]. E-book. ISBN
+9788582714041.Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582714041/. Acesso em: 11 set. 2024.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(UNISL JI-PARANÁ) Um paciente de 40 anos apresenta-se na emergência com uma infecção
+bacteriana aguda. O médico explica que o sistema imunológico do paciente está envolvido em
+uma resposta complexa que inclui tanto a imunidade inata quanto a imunidade adaptativa. Para
+combater a infecção, é importante entender como esses dois tipos de resposta imunológica
+colaboram.
+Selecione a alternativa que melhor descreve como a imunidade inata e a imunidade adaptativa
+interagem e se complementam na resposta a uma infecção do paciente.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 11 de 23
+
+Alternativas:
+(alternativa A)
+A imunidade adaptativa é ativada exclusivamente após a imunidade inata ter eliminado a infecção.
+A imunidade inata é responsável pela produção de anticorpos e citocinas que neutraliza os
+patógenos, enquanto a imunidade adaptativa coordena a resposta inflamatória e a eliminação ativa
+dos patógenos.
+(alternativa B) (CORRETA)
+A imunidade inata proporciona uma resposta inicial rápida através da ativação de fagócitos e a
+liberação de citocinas, que ajudam a controlar a infecção até que a imunidade adaptativa possa se
+desenvolver. A imunidade adaptativa então assume o controle através da produção de anticorpos
+e a ativação de linfócitos T, que são específicos para o patógeno.
+(alternativa C)
+A imunidade adaptativa é responsável pela resposta inicial imediata ao patógeno, enquanto a
+imunidade inata é ativada mais tarde e atua na produção de anticorpos que neutralizam o
+patógeno. A interação entre esses dois tipos de imunidade não é significativa na resposta ao
+patógeno.
+(alternativa D)
+A imunidade inata e a imunidade adaptativa não interagem entre si. A imunidade inata lida com
+patógenos extracelulares através da atuação dos anticorpos, enquanto a imunidade adaptativa é
+responsável apenas por patógenos intracelulares utilizando o sistema complemento para o
+processo de neutralização.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 12 de 23
+
+Resposta comentada:
+Alternativa correta: A imunidade inata proporciona uma resposta inicial rápida através da ativação
+de fagócitos e a liberação de citocinas, que ajudam a controlar a infecção até que a imunidade
+adaptativa possa se desenvolver. A imunidade adaptativa então assume o controle através da
+produção de anticorpos e a ativação de linfócitos T, que são específicos para o patógeno.
+Justificativa: Esta alternativa está correta. A imunidade inata fornece uma resposta
+inicial rápida e não específica ao patógeno, através de células como macrófagos e
+neutrófilos, além da liberação de citocinas que ajudam a conter a infecção. À medida
+que a resposta inata evolui, a imunidade adaptativa se desenvolve, oferecendo uma
+resposta mais específica através da produção de anticorpos pelos linfócitos B e da
+ativação dos linfócitos T. Assim, as duas formas de imunidade colaboram e se
+complementam na resposta ao patógeno.
+Alternativa incorreta: A imunidade adaptativa é responsável pela resposta inicial imediata ao
+patógeno, enquanto a imunidade inata é ativada mais tarde e atua na produção de anticorpos que
+neutralizam o patógeno. A interação entre esses dois tipos de imunidade não é significativa na
+resposta ao patógeno.
+Justificativa: A imunidade adaptativa não é responsável pela resposta inicial imediata. A
+resposta inicial é mediada pela imunidade inata. A imunidade adaptativa se desenvolve
+mais lentamente e, embora envolva a produção de anticorpos, a interação entre os dois
+tipos de imunidade é crucial para uma resposta eficaz.
+Alternativa incorreta: A imunidade adaptativa é ativada exclusivamente após a imunidade inata ter
+eliminado a infecção. A imunidade inata é responsável pela produção de anticorpos e citocinas
+que neutraliza os patógenos, enquanto a imunidade adaptativa coordena a resposta inflamatória e
+a eliminação ativa dos patógenos.
+Justificativa: A imunidade adaptativa não é ativada exclusivamente após a imunidade
+inata ter eliminado a infecção. Em vez disso, a imunidade adaptativa começa a se
+desenvolver enquanto a imunidade inata está agindo, e ambas interagem na resposta à
+infecção. A imunidade inata não é responsável pela produção de anticorpos.
+Alternativa incorreta: A imunidade inata e a imunidade adaptativa não interagem entre si. A
+imunidade inata lida com patógenos extracelulares através da atuação dos anticorpos, enquanto a
+imunidade adaptativa é responsável apenas por patógenos intracelulares utilizando o sistema
+complemento para o processo de neutralização.
+Justificativa: A imunidade inata e adaptativa interagem e se complementam. A
+imunidade inata atua contra patógenos extracelulares e intracelulares, e a imunidade
+adaptativa também pode lidar com ambos os tipos de patógenos, dependendo da
+situação.
+Referência:
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Celular e Molecular. Rio de
+Janeiro: Grupo GEN, 2023. E-book. ISBN 9788595158924. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158924/. Acesso em: 11 set. 2024.
+Feedback:
+-10ª QUESTÃO
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 13 de 23
+
+Enunciado:
+(AFYA MANACAPURU) Durante uma consulta de rotina, um paciente que é corredor amador
+relata ao médico que sente dor nas pernas após longos períodos de treino. O médico decide
+explicar como a morfofisiologia da vascularização dos membros inferiores pode influenciar essa
+condição, bem como as adaptações que podem ocorrer com o treinamento físico regular. Com
+base nesse contexto, identifique corretamente a(s) assertiva(s) a seguir:
+I - A artéria femoral, principal responsável pelo suprimento sanguíneo dos membros inferiores, se
+ramifica em artérias menores, como a artéria poplítea e as artérias tibiais anterior e posterior,
+garantindo a irrigação adequada das diferentes regiões das pernas e dos pés.
+II - Durante exercícios intensos, a demanda aumentada por oxigênio nos músculos causa uma
+dilatação dos capilares, melhorando a perfusão sanguínea e facilitando a remoção de metabólitos,
+como o ácido lático, o que ajuda a reduzir a fadiga muscular.
+III - O treinamento físico regular estimula a angiogênese, ou seja, a formação de novos capilares
+nos músculos esqueléticos dos membros inferiores, aumentando a densidade capilar e
+contribuindo para uma melhor oxigenação e recuperação muscular.
+IV - As veias profundas dos membros inferiores, como a veia femoral, possuem válvulas que
+previnem o refluxo sanguíneo. Durante atividades físicas prolongadas, como a corrida, essas
+válvulas são essenciais para facilitar o retorno venoso, prevenindo estase sanguínea e condições
+como trombose venosa profunda.
+V - A regulação da pressão arterial durante o exercício é crucial, e o sistema nervoso simpático
+desempenha um papel importante ao induzir vasoconstrição nas artérias dos membros inferiores,
+garantindo que a pressão arterial sistêmica se mantenha adequada para suprir as necessidades
+do corpo durante o esforço físico.
+Assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Apenas as assertivas I, II e V estão corretas.
+(alternativa B)
+Apenas as assertivas I, III e IV estão corretas.
+(alternativa C)
+Apenas as assertivas III, IV e V estão corretas.
+(alternativa D) (CORRETA)
+Apenas as assertivas II, III e IV estão corretas.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 14 de 23
+
+Resposta comentada:
+RESPOSTA CORRETA: Apenas as assertivas II, III e IV estão corretas.
+Assertiva I: Está correta ao afirmar que a artéria femoral e suas ramificações são responsáveis
+pela irrigação dos membros inferiores, mas a resposta está incompleta para ser considerada
+totalmente correta.
+Assertiva II: Correta ao afirmar que a dilatação dos capilares durante o exercício facilita a
+perfusão sanguínea e a remoção de metabólitos, essencial para o desempenho e recuperação
+muscular.
+Assertiva III: Correta ao mencionar que o treinamento físico promove a angiogênese,
+aumentando a densidade capilar nos músculos esqueléticos, o que melhora a oxigenação e
+recuperação muscular.
+Assertiva IV: Correta ao descrever a função das válvulas nas veias profundas, que previnem o
+refluxo e ajudam no retorno venoso durante exercícios prolongados, prevenindo condições como
+trombose venosa.
+Assertiva V: Incorreta, pois durante o exercício físico, ocorre vasodilatação das artérias nos
+membros inferiores para aumentar o fluxo sanguíneo, e não vasoconstrição, como afirmado.
+Referências:
+MOORE, K. L.; DALLEY, A. F. Anatomia orientada para a clínica. 8. ed. Rio de Janeiro:
+Guanabara Koogan, 2017.
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de anatomia e fisiologia. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2019.
+VAN DE GRAAFF, Kent M. Anatomia humana. 6. ed. Barueri, SP: Manole, 2003.
+JUNQUEIRA, Luiz Carlos Uchoa; CARNEIRO, José. Histologia básica: texto e atlas. 13. ed. Rio
+de Janeiro: Guanabara Koogan, 2018.
+
+Feedback:
+-11ª QUESTÃO
+Enunciado:
+( ITPAC PORTO NACIONAL) No laboratório de anatomia humana os alunos identificam as
+artérias coronárias e comentam entre si que a obstrução destas é a causa do infarto agudo do
+miocárdio. O professor, ao ouvir a conversa, acrescenta que os infartos anteriores tendem a ter
+pior prognóstico e que muitos destes eventos estão associados ao ramo interventricular
+anterior, também conhecido na cardiologia como descendente anterior. Tendo em vista o
+exposto, responda às perguntas abaixo:
+a) O vaso citado origina-se de qual artéria coronária?
+b) Que regiões do coração são supridas por esse importante ramo?
+Alternativas:
+--
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 15 de 23
+
+Resposta comentada:
+a) Artéria coronária esquerda.
+Comentário: A Artéria coronária esquerda surge do seio aórtico esquerdo. Ao entrar no sulco
+coronário divide-se em dois ramos terminais, o ramo interventricular anterior e o ramo
+circunflexo.
+b) Dois terços anteriores do septo interventricular e partes adjacentes do ventrículo direito e
+esquerdo.
+Comentário: O ramo interventricular anterior segue pelo sulco interventricular anterior em direção
+ao ápice do coração. Em seu trajeto, supre as porções próximas a ele na parede anterior dos dois
+ventrículos. Além disto, faz o suprimento dos dois terços anteriores do septo interventricular, por
+meio dos ramos interventriculares septais.
+Referência:
+MOORE, K.L. et al. Anatomia orientada para a clínica. 7ª. Edição. Rio de Janeiro: Guanabara
+Koogan, 2014.
+Feedback:
+-12ª QUESTÃO
+Enunciado:
+( AFYA PALMAS) Os tecidos musculares cardíaco e esquelético são estriados devido a repetição
+de sarcômeros das miofibrilas contidas nas fibras musculares destes tecidos. Porém, há
+características histológicas que os diferenciam e contribuem com a função contrátil dos mesmos.
+Assinale a alternativa que descreve corretamente essas características, diferenciando os tecidos
+acima, e que esteja relacionada à sua função.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 16 de 23
+
+Alternativas:
+(alternativa A)
+O músculo estriado cardíaco é composto por células fusiformes e mononucleadas, possuem
+junções comunicantes (junções gap) entre as células que permitem a rápida propagação do
+impulso elétrico, sincronizando a contração muscular. Essas características são distintas do
+músculo estriado esquelético, que é formado por células multinucleadas e não possui junções
+gap.
+(alternativa B)
+O músculo estriado cardíaco possui células multinucleadas e as junções comunicantes (junções
+gap) entre as células cardíacas que permitem a rápida propagação do impulso elétrico,
+sincronizando a contração muscular. Essas características são distintas do músculo estriado
+esquelético, que é formado por células uninucleadas e não possui junções gap.
+(alternativa C)
+As células do músculo estriado cardíaco são cilíndricas e multinucleadas, unidas por discos
+intercalares que permitem rápida propagação do impulso elétrico de uma célula para outra,
+coordenando a contração do músculo cardíaco. Essas características diferenciam o músculo
+cardíaco do esquelético, que possui células mononucleadas e ausência de discos intercalares.
+(alternativa D) (CORRETA)
+O músculo estriado cardíaco é caracterizado por células cilíndricas, com um a dois núcleos
+centrais e os discos intercalares garantem a rápida propagação do impulso elétrico entre as
+células, facilitando a contração coordenada do coração. Essas características diferem do
+músculo estriado esquelético, onde os discos intercalares estão ausentes e os núcleos são
+periféricos.
+
+Resposta comentada:
+O músculo estriado cardíaco é formado por células alongadas cilíndricas, curtas, com um a dois
+núcleos centrais. Possui junções comunicantes (junções gap) que permitem a rápida propagação
+do impulso elétrico entre as células que fazem parte dos discos intercalares, estruturas visíveis
+na microscopia, características exclusivas deste tecido, que unem as células cardíacas
+garantindo uma contração coordenada do coração.
+O músculo estriado esquelético possui células cilíndricas, alongadas, multinucleadas, com
+núcleos periféricos e não apresentam discos intercalares.
+Referência:
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. Grupo GEN,
+2023. E-book. ISBN 9788527739283. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527739283/. Acesso em: 20 fev. 2024.
+Feedback:
+-13ª QUESTÃO
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 17 de 23
+
+Enunciado:
+(UNISL JI-PARANÁ) Uma mãe chega ao pronto socorro com o seu filho de 2 anos com um
+pequeno corte na mão, ao analisar o corte o médico nota que ocorreu apenas uma pequena lesão
+em um vaso de pequeno calibre.
+Diante desse quadro, considere as seguintes asserções sobre o processo hemostático:
+Asserção I: No caso desse paciente, a formação do tampão plaquetário é um mecanismo
+hemostático efetivo na prevenção da perda de sangue.
+Por que
+Asserção II: O tampão plaquetário pode interromper por completo a perda de sangue se o orifício
+no vaso sanguíneo não for demasiado grande.
+Assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Asserção I é incorreta e a Asserção II é correta.
+(alternativa B)
+Asserção I e II são corretas, mas a Asserção II não é uma explicação correta para a Asserção I.
+(alternativa C) (CORRETA)
+Asserção I é correta e a Asserção II é uma explicação correta para a Asserção I.
+(alternativa D)
+Asserção I é correta e a Asserção II é incorreta.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 18 de 23
+
+Resposta comentada:
+Asserção I: "No caso desse paciente, a formação do tampão plaquetário é um mecanismo
+hemostático efetivo na prevenção da perda de sangue."
+Esta asserção é verdadeira. A formação do tampão plaquetário é um dos primeiros mecanismos
+hemostáticos que atuam quando há lesão de um vaso de pequeno calibre, como no caso clínico
+apresentado. A função do tampão é promover a adesão, ativação e agregação de plaquetas, que
+se acumulam no local da lesão para interromper a perda de sangue de forma rápida e eficiente,
+especialmente em vasos pequenos.
+Asserção II: "O tampão plaquetário pode interromper por completo a perda de sangue se o orifício
+no vaso sanguíneo não for demasiado grande."
+Esta asserção também é verdadeira. O tampão plaquetário é eficaz em parar o sangramento
+quando a lesão é pequena e o vaso sanguíneo afetado não é de grande calibre. Se o orifício no
+vaso é pequeno, o tampão plaquetário pode ser suficiente para selar a lesão, sem a necessidade
+de mecanismos adicionais, como a coagulação.
+Relação entre as asserções: A Asserção II explica corretamente o porquê da Asserção I ser
+verdadeira. A Asserção I afirma que o tampão plaquetário é efetivo no caso do paciente, enquanto
+a Asserção II justifica essa eficácia ao esclarecer que o tampão é capaz de interromper a perda
+de sangue em vasos pequenos, contanto que o orifício não seja demasiado grande.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de Anatomia e Fisiologia. Rio de
+Janeiro: Grupo GEN, 2023. E-book. ISBN 9788527739368. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527739368/. Acesso em: 12 set. 2024.
+Feedback:
+-14ª QUESTÃO
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 19 de 23
+
+Enunciado:
+(IESVAP) A frequência cardíaca e o débito cardíaco são fatores essenciais para a eficiência da
+função cardíaca. O débito cardíaco é determinado pelo volume sistólico e pela frequência
+cardíaca, sendo influenciado por fatores como pré-carga, pós-carga e contratilidade cardíaca. No
+contexto das respostas rápidas e lentas do coração, íons e canais iônicos têm papéis específicos
+na geração de potenciais de ação.
+
+Fonte: Tortora, G. J., & Derrickson, B. (2017). Princípios de Anatomia e Fisiologia (14ª ed.). Rio de
+Janeiro: Guanabara Koogan. Figura 20.11.
+Com base nesse conhecimento e na figura apresentada, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O influxo de íons Na⁺ é responsável pela repolarização das fibras cardíacas do miocárdio
+ventricular, contribuindo para o término do potencial de ação nas respostas rápidas.
+(alternativa B)
+A repolarização durante o potencial de ação é impulsionada pelo influxo de Na⁺, restabelecendo o
+potencial de membrana negativo nas fibras do nó SA.
+(alternativa C)
+A repolarização das células cardíacas é dependente do influxo de íons K⁺, e a sua entrada
+promove o retorno do potencial de membrana ao estado negativo nas respostas rápidas e lentas.
+(alternativa D) (CORRETA)
+O influxo de íons Ca²⁺ e a abertura dos canais lentos de cálcio são características das fibras
+contráteis durante a fase de platô dos potenciais de ação rápidos.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 20 de 23
+
+Resposta comentada:
+O influxo de íons Na⁺ é responsável pela repolarização das fibras cardíacas do miocárdio
+ventricular, contribuindo para o término do potencial de ação nas respostas rápidas.
+Justificativa: INCORRETA. A repolarização nas fibras cardíacas ocorre devido ao efluxo de íons
+K⁺, não pelo influxo de Na⁺. O sódio é responsável pela despolarização rápida no início do
+potencial de ação, não pelo seu término.
+O influxo de íons Ca²⁺ e a abertura dos canais lentos de cálcio são características das
+fibras contráteis durante a fase de platô dos potenciais de ação rápidos.
+Justificativa: CORRETA. Nas fibras cardíacas contráteis, durante a fase de platô do potencial de
+ação, há um influxo sustentado de íons Ca²⁺ através de canais de cálcio do tipo L, o que mantém
+a despolarização prolongada e permite que o músculo cardíaco continue contraído, garantindo
+uma ejeção efetiva de sangue.
+A repolarização durante o potencial de ação é impulsionada pelo influxo de Na⁺,
+restabelecendo o potencial de membrana negativo nas fibras do nó SA.
+Justificativa: INCORRETA. A repolarização do potencial de ação nas células cardíacas, tanto
+nas respostas rápidas como lentas, é causada pelo efluxo de íons K⁺, não pelo influxo de Na⁺. O
+Na⁺ está envolvido principalmente na fase inicial de despolarização nas respostas rápidas.
+A repolarização das células cardíacas é dependente do influxo de íons K⁺, e a sua entrada
+promove o retorno do potencial de membrana ao estado negativo nas respostas rápidas e
+lentas.
+Justificativa: INCORRETA. A repolarização nas células cardíacas é causada pelo efluxo de íons
+K⁺, não pelo influxo. A saída de potássio restabelece o potencial negativo de membrana após a
+despolarização.
+Referência:
+Tortora, G. J., & Derrickson, B. (2017). Princípios de Anatomia e Fisiologia (14ª ed.). Rio de
+Janeiro: Guanabara Koogan.
+Feedback:
+-15ª QUESTÃO
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 21 de 23
+
+Enunciado:
+(UNIREDENTOR) Durante uma aula prática de anatomia e histologia, um grupo de estudantes de
+medicina analisou lâminas histológicas e peças anatômicas de diferentes órgãos linfoides. A partir
+das observações realizadas, foram elaboradas as seguintes afirmativas:
+I - Ao analisar um linfonodo, os estudantes identificaram a presença de nódulos linfáticos
+primários e secundários na região cortical, sendo que nos secundários é possível observar o
+centro germinativo rico em linfócitos B.
+II - Na análise histológica do timo, os estudantes observaram a presença de corpúsculos de
+Hassall na medula, que são estruturas tímicas características, formadas por células reticulares
+epiteliais.
+III - Ao examinarem o baço, os estudantes identificaram a polpa branca, rica em macrófagos e
+eritrócitos, e a polpa vermelha, constituída principalmente por tecido linfoide.
+IV - Analisando uma peça anatômica, os estudantes observaram que a drenagem do Baço, via
+veia esplênica, juntamente com as veias Mesentérica Superior e Mesentérica Inferior compõe a
+Veia Porta.
+Assinale a alternativa abaixo, que contém apenas as afirmativas corretas sobre a histologia e a
+anatomia dos órgãos linfoides.
+
+Alternativas:
+(alternativa A)
+Apenas I e III estão corretas.
+(alternativa B)
+Apenas I, III e IV estão corretas.
+(alternativa C) (CORRETA)
+Apenas I, II e IV estão corretas.
+(alternativa D)
+Apenas II e IV estão corretas.
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 22 de 23
+
+Resposta comentada:
+Análise das assertivas:
+I - Correta: Os nódulos linfáticos primários e secundários são característicos da região cortical
+dos linfonodos. O centro germinativo dos nódulos linfáticos secundários é rico em linfócitos B em
+processo de proliferação e diferenciação.
+II - Correta: Os corpúsculos de Hassall são estruturas tímicas características, localizadas na
+medula do timo, e são formados por células reticulares epiteliais que se degeneram e sofrem
+queratinização.
+III - Incorreta: A polpa branca do baço é rica em tecido linfoide, principalmente linfócitos, e é onde
+ocorrem as respostas imunes. A polpa vermelha, por sua vez, é rica em sinusoides esplênicos e
+macrófagos, sendo responsável pela filtração do sangue.
+IV - Correta: A Veia Porta é composta a partir da tributação da Veia Esplênica com a Veia
+Mesentérica Inferior, e que depois recebe a drenagem venosa da Veia Mesentérica Superior.
+Referências:
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. Rio de Janeiro:
+Grupo GEN, 2023. E-book. ISBN 9788527739283. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527739283/. Acesso em: 22 ago. 2024.
+PAWLINA, Wojciech. Ross Histologia - Texto e Atlas. Rio de Janeiro: Grupo GEN, 2021. E-book.
+ISBN 9788527737241. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527737241/. Acesso em: 22 ago. 2024.
+MOORE, Keith L.; DALLEY, Arthur F.; AGUR, Anne M. Anatomia orientada para a clínica. 9.
+ed. Rio de Janeiro: Guanabara Koogan, 2024.
+Feedback:
+--
+
+000135.220013.a877cc.682b8b.920549.a536f6.d7a679.f5916
+
+Pgina 23 de 23
+
+

@@ -1,0 +1,1568 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Estágio em Atenção Ambulatorial e Hospitalar em
+Clínica Médica
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data: 30/04/2025
+
+N2 INTERNATO - MEDICINA - CM - 2025.1 - ROT 2 - 30/ABRIL
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15642 - CADERNO 001
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+Enunciado:
+(AFYA Paraíba) Um paciente de 60 anos comparece ao consultório com queixas de fadiga,
+sudorese noturna e perda de peso não intencional nos últimos três meses. O hemograma revela
+anemia normocítica normocrômica, leucocitose significativa com desvio à esquerda e
+trombocitose. A bioquímica evidencia aumento de desidrogenase lática (LDH). A pesquisa da
+mutação BCR-ABL por PCR foi positiva. Com base nesses achados laboratoriais, marque a
+alternativa que apresenta o diagnóstico mais provável.
+Alternativas:
+(alternativa A)
+Leucemia Linfocítica Crônica (LLC).
+(alternativa B)
+Leucemia Mieloide Aguda (LMA).
+(alternativa C)
+Linfoma de Hodgkin (LH).
+(alternativa D) (CORRETA)
+Leucemia Mieloide Crônica (LMC).
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 1 de 43
+
+Resposta comentada:
+Alternativa correta: Leucemia Mieloide Crônica (LMC).
+A LMC é caracterizada pela presença do cromossomo Filadélfia (translocação t(9;22)), que leva à
+fusão do gene BCR-ABL, resultando em produção descontrolada de leucócitos. O quadro clínico
+clássico inclui leucocitose com desvio à esquerda, trombocitose e sintomas constitucionais como
+fadiga e sudorese noturna. A positividade do BCR-ABL no PCR confirma o diagnóstico.
+Alternativa: Leucemia Linfocítica Crônica (LLC).
+A LLC geralmente apresenta linfocitose isolada e progressiva, sem desvio à esquerda no
+hemograma. Além disso, a mutação BCR-ABL não está associada à LLC. Marcadores típicos da
+LLC incluem CD5 e CD23 positivos na imunofenotipagem, o que não foi mencionado no caso.
+Alternativa: Leucemia Mieloide Aguda (LMA).
+A LMA se apresenta com blastos no sangue periférico e insuficiência medular (anemia,
+trombocitopenia e neutropenia), enquanto a LMC costuma ter leucocitose significativa com células
+em vários estágios da maturação. Além disso, a LMA não está associada ao BCR-ABL, mas sim
+a outras mutações, como FLT3 e NPM1.
+Alternativa: Linfoma de Hodgkin.
+Embora o Linfoma de Hodgkin possa causar sintomas constitucionais (febre, sudorese noturna,
+perda de peso), ele não cursa com leucocitose intensa e não apresenta a mutação BCR-ABL. O
+diagnóstico é feito por biópsia de linfonodo, evidenciando células de Reed-Sternberg.
+Referências:
+KASPER, D. L. ; FAUCI, A. S. ; HAUSER, S. L. ; LONGO, D. L. ; JAMESON, J. L. ; LOSCALZO,
+J. Harrison’s Principles of Internal Medicine. 21ª edição. New York: McGraw Hill, 2022.
+BRASIL. Diretrizes Diagnósticas e Terapêuticas das Neoplasias Hematológicas. Ministério da
+Saúde, 2021. Disponível em: http://bvsms.saude.gov.br. Acesso em: 18 abr. 2025.
+2ª QUESTÃO
+Enunciado:
+(FACIMPA) João, 52 anos, sem comorbidades, chega na Unidade de Pronto Atendimento e, ao
+ser aferidos os sinais vitais, apresenta pressão arterial de 210/120mmHg, sem provocar sintomas
+agudos ou lesão em órgãos-alvo em exames laboratoriais e de imagem.
+Diante deste cenário de crise hipertensiva, segundo as últimas diretrizes para manejo de
+hipertensos, qual é a conduta clínica adequada?
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 2 de 43
+
+Alternativas:
+(alternativa A)
+Administração urgente de nitroprussiato de sódio para redução da pressão arterial.
+(alternativa B)
+Redução da pressão arterial em até 25% nas primeiras 2 horas com uso de anti-hipertensivos por
+via oral.
+(alternativa C)
+Internação para monitorização da pressão arterial e início de anti-hipertensivos parenterais.
+(alternativa D) (CORRETA)
+Redução progressiva da pressão arterial nas próximas 24 a 48 horas, aumentando o esquema de
+anti-hipertensivos de uso crônico.
+
+Resposta comentada:
+Administração urgente de nitroprussiato de sódio para redução da pressão arterial. Incorreta. A
+administração de nitroprussiato de sódio é recomendada para situações de emergência
+hipertensiva, que se caracterizam por elevação da pressão arterial associada a lesões agudas de
+órgãos-alvo, o que não é o caso.
+Redução da pressão arterial em até 25% nas primeiras 2 horas com uso de anti-hipertensivos por
+via oral. Incorreta. A redução agressiva da pressão arterial pode levar a isquemia em órgãos vitais
+e não se encaixa no manejo de crise hipertensiva sem lesão aguda em órgãos-alvo.
+Redução progressiva da pressão arterial nas próximas 24 a 48 horas, aumentando o esquema de
+anti-hipertensivos de uso crônico. Correta. Segundo as diretrizes, a crise hipertensiva sem
+sintomas ou lesões agudas em órgãos-alvo deve ser manejada com redução progressiva da
+pressão arterial, otimizando o tratamento anti-hipertensivo de uso crônico.
+Internação para monitorização da pressão arterial e início de anti-hipertensivos parenterais.
+Incorreta. A internação para monitorização e uso de anti-hipertensivos parenterais não é
+necessária no manejo da crise hipertensiva sem lesão aguda em órgãos-alvo.
+Referência:
+Ministério da Saúde do Brasil. Departamento de Atenção Básica. Hipertensão Arterial Sistêmica
+para o Sistema Único de Saúde. Brasília: Ministério da Saúde, 2018 (Série A. Normas e Manuais
+Técnicos) (Cadernos de Atenção Básica, n. 37).
+3ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 3 de 43
+
+Enunciado:
+(FMIT) Paciente de 72 anos procura atendimento médico com queixa de perda ponderal há 6
+meses, ainda não investigada. Relata discreta adinamia, negando dispneia ou ortopneia. Nega
+outras queixas. Exame físico sem alterações importantes, exceto mucosas hipocoradas. Traz
+exame de hemograma demonstrando:
+Hemoglobina: 9,5 g/dL (VR: 13,5-17,5 g/dL)
+Hematócrito: 30% (VR: 40-50%)
+VCM: 72 fL (VR: 80-100 fL)
+RDW: 16,2% (VR: 11,5-14,5%)
+Ferro sérico: 40 µg/dL (VR: 60-170 µg/dL)
+Ferritina: 18 ng/mL (VR: 30-400 ng/mL)
+Sobre o caso clínico, assinale a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+O paciente apresenta sinais de anemia ferropriva e devemos investigar a etiologia de
+sangramento em tubo digestivo.
+(alternativa B)
+O paciente deve ser submetido a biópsia de medula óssea, visto o emagrecimento e risco de
+neoplasia hematológica como principal hipótese.
+
+(alternativa C)
+Com os achados laboratoriais, devemos iniciar imediatamente a reposição de ferro, não sendo
+necessária a investigação etiológica da anemia.
+(alternativa D)
+Os achados clínicos e laboratoriais sugerem anemia por deficiência de vitamina B12, devendo ser
+solicitada endoscopia para avaliação de gastrite atrófica.
+
+Resposta comentada:
+Paciente com quadro de emagrecimento e anemia ferropriva (microcítica com RDW aumentado,
+ferritina baixa). Neste caso, devemos sim repor ferro, porém precisamos investigar a etiologia da
+anemia, sempre pensando no tubo digestivo. Não há sinais de anemia por deficiência de B12 nem
+achados para doença hematológica neoplásica.
+Referências:
+PORTO, Celmo C.; PORTO, Arnaldo L. Clínica Médica na Prática Diária. 2. ed. Rio de Janeiro:
+Guanabara Koogan, 2022. E-book. ISBN 9788527738903. Disponível em: Minha Biblioteca.
+Acesso em: 26 jan. 2025.
+RODGERS, Griffin P.; YOUNG, Neal S. Manual Bethesda de Hematologia Clínica. 3. ed. Rio de
+Janeiro: Thieme Revinter, 2017. E-book. p. 4. ISBN 9788554650476. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788554650476/. Acesso em: 07 fev. 2025.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 4 de 43
+
+4ª QUESTÃO
+Enunciado:
+(UNIDOMPEDRO) Uma paciente de 68 anos, com diagnóstico de leucemia mieloide aguda
+refratária ao tratamento, encontra-se internada para o manejo de sintomas em cuidados paliativos.
+Apresenta fadiga intensa, dispneia em repouso, dor óssea difusa e episódios de confusão
+intermitente.
+O exame físico revela palidez cutaneomucosa, taquipneia leve e confusão moderada. Os exames
+laboratoriais mostram anemia grave (Hb 6,5 g/dL), plaquetopenia (20.000/mm³) e creatinina sérica
+de 1,8 mg/dL. A equipe médica discute estratégias para otimizar o controle sintomático e
+proporcionar conforto à paciente.
+Diante desse cenário, qual é a melhor conduta para o manejo sintomático em cuidados paliativos?
+Alternativas:
+(alternativa A) (CORRETA)
+Administração de morfina em doses progressivas para o controle da dispneia e da dor, associada
+a medidas de conforto.
+(alternativa B)
+Transfusão de concentrado de hemácias para manter a Hb acima de 10 g/dL, reduzindo a fadiga e
+a dispneia.
+(alternativa C)
+Hemodiálise para o controle da insuficiência renal e a melhora da sobrevida, garantindo qualidade
+de vida.
+(alternativa D)
+Uso de dexametasona para a reversão da confusão mental e a melhora da fadiga, associada à
+quimioterapia paliativa.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 5 de 43
+
+Resposta comentada:
+Resposta correta: Administração de morfina em doses progressivas para controle da dispneia e
+dor, associada a medidas de conforto.
+Justificativa:
+A morfina é o fármaco de escolha para controle de dispneia em pacientes com doenças
+avançadas, além de ser fundamental para o alívio da dor. Cuidados paliativos visam proporcionar
+conforto ao paciente, priorizando o alívio sintomático sem intervenções desproporcionais.
+Explicação das alternativas incorretas:
+Transfusão de concentrado de hemácias para manter Hb acima de 10 g/dL, reduzindo
+fadiga e dispneia: Não há evidência de benefício na transfusão para alvos elevados em
+pacientes paliativos. A decisão de transfundir deve ser individualizada, considerando
+sintomas e prognóstico.
+Uso de dexametasona para reversão da confusão mental e melhora da fadiga,
+associado à quimioterapia paliativa: Embora os corticosteroides possam ser úteis para
+fadiga e anorexia, não há indicação de quimioterapia em doença refratária quando o
+objetivo é apenas controle sintomático.
+Hemodiálise para controle da insuficiência renal e melhora da sobrevida, garantindo
+qualidade de vida: a insuficiência renal terminal em pacientes paliativos não justifica a
+indicação de hemodiálise, uma vez que essa intervenção pode não trazer benefício
+significativo na qualidade de vida e pode aumentar o sofrimento.
+Referência:
+MARTINS, Mílton de Arruda et al. Clínica médica, doenças endócrinas e metabólicas,
+doenças osteometabólicas, doenças reumatológicas. 2. ed. São Paulo: Manole, 2016. v. 5.
+Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788520447758. Acesso
+em: 05 fev. 2024.
+
+5ª QUESTÃO
+Enunciado:
+(UNITPAC) Segundo o ROMA IV, os sintomas dispépticos devem ser divididos em dois grupos
+principais: o primeiro, onde se identifica uma causa orgânica, uma doença sistêmica ou
+metabólica, através de meios diagnósticos habituais, que melhoram ou desaparecem quando
+tratada ou curada a causa base (o Consenso Roma IV orienta que nos casos de infecção pelo
+Helicobacter pylori, cujos sintomas se resolvem após o tratamento da bactéria, são classificados
+como dispépticos associados à presença do H. pylori); o segundo grupo, onde não se identifica
+nenhuma patologia, por anamnese, exame físico ou qualquer outro meio complementar de
+diagnóstico, incluindo a endoscopia digestiva alta, que justifique os sintomas dispépticos; estes
+são classificados como funcionais.
+Tanto nas dispepsias de origem cloridropéptica, como de causa funcional, os chamados “sinais
+de alarme” norteiam a abordagem diagnóstica e terapêutica.
+De acordo com estas considerações, assinale a alternativa correta.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 6 de 43
+
+Alternativas:
+(alternativa A) (CORRETA)
+A avaliação clínica do paciente dispéptico e o tratamento, de acordo com o Consenso Roma IV,
+baseia-se primordialmente nos dados obtidos a partir de anamnese detalhada, exame físico
+abrangente a todos os sistemas orgânicos, considerando aspectos psiconeurológicos e sociais,
+incluindo abordagem imediata dos sinais de alarme.
+(alternativa B)
+As drogas procinéticas estimulam a motilidade gastroduodenal e aceleram o trânsito do conteúdo
+intraluminal. Estão incluídas neste grupo a metoclopramida, a bromoprida, a domperidona e a
+prucaloprida. Na recidiva dos sintomas após tratamento, sendo esse um sinal de alarme
+importante, indica-se endoscopia digestiva alta imediatamente.
+(alternativa C)
+Os inibidores da secreção gástrica de ácido, os IBPs (inibidores da bomba de prótons), são
+empregados no tratamento da dispepsia funcional. A melhora da epigastralgia ocorre em 90% dos
+casos, indicando para estes pacientes a monoterapia, dispensando a endoscopia digestiva alta,
+mesmo se mantidos vômitos persistentes.
+(alternativa D)
+Os fatores psicossociais devem ser explorados e identificadas as desordens de origem psíquica
+que possam interferir nos distúrbios do aparelho digestivo. Todavia, apesar de influenciar, não há
+relação de causalidade com nível de evidência estabelecido nas dispepsias orgânicas e
+funcionais, evitando-se a abordagem psiquiátrica desnecessária.
+
+Resposta comentada:
+A dispepsia funcional é definida como condição clínica com grande impacto na rotina do paciente,
+apresentando pelo menos um dos seguintes sintomas: dor epigástrica, ardor epigástrico, plenitude
+pós-prandial ou saciedade precoce, sem evidências de doenças sistêmica, orgânica ou
+metabólica, sem alterações estruturais, após investigação clínica, laboratorial, radiológica,
+incluindo a endoscopia digestiva alta, que justifiquem os sintomas (diagnóstico de exclusão).
+Dani (2006), sobre a dispepsia funcional, comenta:
+"A Dispepsia Funcional (DF) é definida pela presença de dor e/ou desconforto,
+persistente ou recorrente, localizada na região central e superior do abdome
+(epigás trio), na ausência de anormalidades estruturais ou irregularidades
+metabólicas e bioquím icas que justifiquem a sintomatologia. CRITÉRIOS
+DIAGNÓSTICOS PARA DISPEPSIA FUNCIONAL: CONSENSO ROMA III. 1.
+Queixas dispépticas durante os últimos 3 meses e que se iniciaram, no mínimo, 6
+meses antes. 2. É fundamental a presença de um ou mais dos seguintes sintomas:
+a) empachamento pós -prandial; b) saciedade precoce; c) dor epigás trica; d)
+queimação epigás trica.3. É fundamental a ausência de lesões estruturais (incluindo
+a realização de endoscopia digestiva alta) que possam justificar os sintomas. Para
+uma melhor orientação propedêutica e terapêutica, os pacientes portadores de DF
+devem ser classificados de acordo com o sintoma principal em duas síndromes: 1)
+Síndrome do Desconforto Pós -prandial (predomina sintoma de empachamento pós prandial e/ou saciedade precoce, que ocorre várias vezes por semana, nos últimos
+3 meses e/ou; 2) Síndrome da Dor Epigás trica (predomina dor ou queimação
+localizada no epigás trio, moderada a intensa, intermitente e que ocorre, no mínimo, 1
+vez/semana, nos últimos 3 meses). [...] A maneira mais apropriada de tratar o
+paciente é através de uma abordagem ampla e global, tentando identificar fatores
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 7 de 43
+
+desencadeantes ou agravantes da sintomatologia, inerentes a cada paciente. Muitos
+pacientes obtêm melhora com simples mudanças em seu estilo de vida e adoção de
+hábitos salutares em seu cotidiano como a dieta mais saudáv el, atividade fís ica
+regular e exercíc ios de relaxamento. Devemos sempre recomendar hábitos
+dietéticos saudáv eis (comer devagar, mais vezes/dia, menor quantidade), evitandose alimentos gordurosos, condimentados, ác idos, café, cigarro e álcool em excesso.
+O empachamento pós -prandial em geral melhora com a retirada de alimentos
+gordurosos da dieta, enquanto a saciedade precoce pode ser aliviada com o
+fracionamento das refeições. A utilização de medicamentos está indicada para as
+fases sintomáticas, cuja duração é variáv el, esperando-se pelos períodos de
+melhora clínica em que deverão ser suspensos. O tratamento medicamentoso
+preconizado visa a aliviar o sintoma predominante. Os fatores emocionais devem
+ser abordados em todos os grupos de pacientes, através de uma conversa franca e
+aberta, tentando também esclarecer ao paciente a prováv el associação de seus
+sintomas com distúrbios emocionais. Muitas vezes, está indicada a psicoterapia, ou
+outras téc nicas que objetivem a redução do estresse, sendo observada excelente
+resposta em alguns subgrupos de pacientes."
+Os sintomas, como explicado por Dani (2006), devem estar presentes nos últimos três meses e
+ter iniciado pelo menos 6 meses antes do diagnóstico. A abordagem terapêutica atual da
+dispepsia funcional (porque a de causa orgânica é tratada a patologia específica, com o já
+amplamente estabelecido) baseia-se no aspecto sintomático, todavia seguindo o proposto no
+Consenso ROMA IV, observando-se o nível de evidência das indicações terapêuticas,
+individualizando-se os casos de acordo com os sintomas dominantes, separando-os nos
+subgrupos clínicos conhecidos: síndrome da dor epigástrica ou do desconforto pós-prandial (ou
+mista).
+Referência:
+DANI, Renato. Gastroenterologia essencial. In: Gastroenterologia essencial. 2006. p. x, 1203-x,
+1203.
+6ª QUESTÃO
+Enunciado:
+(FASA VIC) Joana, 58 anos, hipertensa não tratada, chega ao pronto-socorro com queixa de
+dispneia progressiva nas últimas 6 horas e ortopneia. Ela também relata cefaleia severa,
+náuseas, visão turva e sensação de angústia. Ao exame físico, a paciente apresenta sinais de
+desconforto respiratório, pressão arterial de 220/120 mmHg, frequência cardíaca de 110 bpm,
+estertores crepitantes bilaterais, saturação de oxigênio de 88% e leve cianose periférica.
+Considerando o quadro clínico apresentado, qual é a principal hipótese diagnóstica em relação à
+emergência hipertensiva que a paciente está apresentando?
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 8 de 43
+
+Alternativas:
+(alternativa A)
+Dissecção de aorta com comprometimento pulmonar secundário.
+(alternativa B)
+Miocardiopatia dilatada com insuficiência cardíaca descompensada.
+(alternativa C) (CORRETA)
+Edema Agudo de Pulmão (EAP) secundário à hipertensão não controlada.
+(alternativa D)
+Acidente Vascular Cerebral (AVC) com encefalopatia hipertensiva.
+
+Resposta comentada:
+A paciente apresenta quadro compatível com Edema Agudo de Pulmão (EAP), uma complicação
+comum de hipertensão mal controlada. Os sintomas de dispneia progressiva, ortopneia,
+estertores pulmonares e níveis pressóricos elevados reforçam essa hipótese.
+Análise das demais alternativas.
+Alternativa incorreta: Dissecção de Aorta com comprometimento pulmonar secundário.
+Embora a dissecção da aorta possa causar dor torácica intensa e, em alguns casos, levar a
+complicações respiratórias, como o comprometimento pulmonar, não é a apresentação típica. A
+dissecção geralmente se manifesta com dor excruciante, e a alteração da pressão arterial seria
+mais variável, dependendo da extensão da dissecção e do envolvimento das artérias. Além disso,
+a paciente apresenta estertores crepitantes e sinais típicos de EAP, que não são comumente
+associados à dissecção aórtica.
+Alternativa incorreta: Acidente Vascular Cerebral (AVC) com encefalopatia hipertensiva.
+Embora um AVC possa ser uma complicação de hipertensão severa e possa incluir sintomas
+como cefaleia severa e distúrbios visuais, a descrição da ortopneia, dispneia progressiva e
+estertores pulmonares não se encaixa bem nessa condição. Além disso, a saturação de oxigênio
+e a cianose periférica são mais indicativas de comprometimento respiratório, típico do EAP.
+Alternativa incorreta: Miocardiopatia dilatada com insuficiência cardíaca descompensada.
+Embora a miocardiopatia dilatada possa levar à insuficiência cardíaca e edema pulmonar, a
+descrição não apresenta elementos típicos de uma condição crônica. A apresentação aguda e a
+severidade dos sintomas sugerem que a causa é uma hipertensão não controlada, resultando em
+EAP, em vez de uma descompensação crônica de uma miocardiopatia já estabelecida.
+Em resumo, as alternativas incorretas não abordam adequadamente a combinação de sintomas
+respiratórios, hipertensão extrema e sinais clínicos observados, que são mais claramente
+relacionados ao Edema Agudo de Pulmão (EAP) na paciente em questão.
+Referências:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024. E-book. p. 1070. ISBN 9786558040231. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040231/. Acesso em: 03 fev.
+2025.
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 9 de 43
+
+7ª QUESTÃO
+Enunciado:
+(FACIMPA) Uma paciente de 55 anos foi admitida no hospital com queixas de febre, suores
+noturnos e um emagrecimento não intencional de 5 quilos nos últimos 4 meses. Após uma série
+de exames, uma infecção pulmonar foi suspeitada e uma biópsia pleural foi realizada, que
+confirmou o diagnóstico de tuberculose.
+Considerando os métodos de diagnóstico invasivo para tuberculose, qual das seguintes
+afirmativas é correta?
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 10 de 43
+
+Alternativas:
+(alternativa A)
+Nenhum procedimento invasivo é necessário para o diagnóstico de tuberculose.
+(alternativa B)
+A biópsia pleural tem sempre menor sensibilidade quando comparada à broncoscopia com
+lavagem broncoalveolar.
+(alternativa C) (CORRETA)
+A biópsia pleural e a broncoscopia com lavagem broncoalveolar podem fornecer informações
+complementares no diagnóstico de tuberculose.
+(alternativa D)
+A broncoscopia com lavagem broncoalveolar é sempre a melhor escolha para o diagnóstico de
+tuberculose.
+
+Resposta comentada:
+A biópsia pleural tem sempre menor sensibilidade quando comparada à broncoscopia com
+lavagem broncoalveolar. Incorreta. A sensibilidade da biópsia pleural e da broncoscopia com
+lavagem broncoalveolar pode variar de acordo com diversos fatores, incluindo o estágio da
+doença e a habilidade do profissional que realiza o procedimento.
+A broncoscopia com lavagem broncoalveolar é sempre a melhor escolha para o diagnóstico de
+tuberculose. Incorreta. A escolha do método de diagnóstico invasivo para a tuberculose depende
+de uma série de fatores, incluindo a apresentação clínica do paciente, sua condição de saúde
+global e o tipo de informação que se espera obter.
+A biópsia pleural e a broncoscopia com lavagem broncoalveolar podem fornecer informações
+complementares no diagnóstico de tuberculose. Correta. Ambos os métodos podem fornecer
+informações valiosas e complementares. Por exemplo, a biópsia pleural pode fornecer
+informações sobre o envolvimento do espaço pleural, enquanto a broncoscopia com lavagem
+broncoalveolar pode fornecer informações sobre o envolvimento dos bronquíolos e alvéolos.
+Nenhum procedimento invasivo é necessário para o diagnóstico de tuberculose. Incorreta. Em
+muitos casos, métodos invasivos como a biópsia pleural e a broncoscopia com lavagem
+broncoalveolar podem ser necessários para confirmar o diagnóstico de tuberculose e avaliar a
+extensão da doença.
+Referências:
+Shrestha, Prakash, et al. "Precisão diagnóstica de amostras de lavagem broncoalveolar em
+comparação com padrões clínicos para o diagnóstico de tuberculose." The Journal of Clinical
+Tuberculosis and Other Mycobacterial Diseases, vol. 12, 2018.
+Nahid, Payam, et al. "Resumo executivo: Diretrizes de prática clínica oficiais da American
+Thoracic Society/Centers for Disease Control and Prevention/Infectious Diseases Society of
+America: Tratamento da tuberculose suscetível a medicamentos." Clinical Infectious Diseases,
+vol. 63, no. 7, 2016, pp. 853-867.
+8ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 11 de 43
+
+Enunciado:
+(FMIT) Paciente, 52 anos, comparece à consulta com queixas de dor e rigidez matinal em
+articulações das mãos, punhos e joelhos há cerca de 6 meses. Relata piora da dor ao longo do
+tempo. No exame físico, observa-se edema e calor em articulações metacarpofalangeanas e
+interfalangeanas proximais. Exames laboratoriais mostram fator reumatoide (FR) e anti-CCP
+positivos, além de PCR e VHS elevados.
+Com base nas diretrizes atuais, qual é a conduta medicamentosa mais indicada para essa
+paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Metotrexato, iniciado na dose de 10-15 mg/semana, podendo ser ajustado até 25 mg/semana,
+associado a ácido fólico.
+
+(alternativa B)
+Hidroxicloroquina 400 mg/dia como monoterapia, pois é suficiente para controle da doença.
+
+(alternativa C)
+Uso isolado de anti-inflamatórios não esteroides (AINEs), pois a AR não requer tratamento
+modificador da doença.
+
+(alternativa D)
+Início direto de terapia biológica com inibidores de TNF, como adalimumabe, sem necessidade de
+DMARDs sintéticos convencionais.
+
+Resposta comentada:
+Paciente com quadro típico de artrite reumatoide, sintomático, sendo solicitado o tratamento
+inicial. Observe que o paciente apresenta atividade da doença, com PCR e VHS elevados. Nesse
+caso, o tratamento inicial deve ser feito com drogas modificadoras da doença, como o
+Metotrexato, este devendo sempre ser acompanhado de ácido fólico.
+Demais alternativas: tratamento inicial apenas com AINE não está indicado por não haver
+modificadores de doença no esquema terapêutico. Uso de hidroxicloroquina isolado não deve ser
+indicado. O uso de imunobiológicos deve ser indicado na falha terapêutica de esquemas
+anteriores (incluindo metotrexato).
+Referência:
+Martins, Mílton de Arruda; Carrilho, Flair José; Alves, Venâncio Avancini Ferreira; Castilho,
+Euclides Ayres de; Cerri, Giovanni Guido (eds). Clínica Médica [2. ed. ampl. rev.], BARUERI:
+Manole, 2016. 5967 p.
+9ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 12 de 43
+
+Enunciado:
+(FACIMPA) Um homem de 45 anos, com histórico familiar de diabetes mellitus, é encaminhado
+para avaliação devido a glicemia de jejum de 160 mg/dL e HbA1c de 7,2%. Relata fadiga e ganho
+de peso progressivo nos últimos anos. Ao exame físico, apresenta IMC de 31 kg/m², acantose
+nigricans em região cervical e pressão arterial de 145/90 mmHg. Qual é o diagnóstico mais
+provável e a conduta inicial?
+Alternativas:
+(alternativa A)
+Diabetes mellitus tipo 1 – iniciar insulina basal e prandial.
+(alternativa B) (CORRETA)
+Diabetes mellitus tipo 2 – iniciar metformina e orientar mudanças no estilo de vida.
+(alternativa C)
+Diabetes mellitus secundário à pancreatite – solicitar TC de abdome e iniciar insulinoterapia.
+(alternativa D)
+Diabetes mellitus tipo LADA – solicitar autoanticorpos e iniciar insulina basal.
+
+Resposta comentada:
+A resposta correta é: "Diabetes mellitus tipo 2 – iniciar metformina e orientar mudanças no estilo
+de vida."
+O paciente tem características típicas de DM2, incluindo obesidade, resistência insulínica
+(evidenciada por acantose nigricans) e histórico familiar positivo (Goldman; Schafer, 2022). A
+primeira linha de tratamento para DM2 é a metformina associada a mudanças no estilo de vida,
+como dieta e atividade física.
+A alternativa que aborda diabetes mellitus tipo 1 e a instituição de insulina basal e prandial como
+tratamento é incorreta. DM1 geralmente ocorre em pacientes mais jovens (Goldman; Schafer,
+2022) e tem início mais abrupto, com perda de peso e cetose, o que não é observado neste caso.
+A alternativa que aborda LADA está incorreta. LADA (Latent Autoimmune Diabetes in Adults)
+ocorre em adultos, mas geralmente sem obesidade ou resistência insulínica significativa
+(Goldman; Schafer, 2022). Além disso, a progressão para insulinodependência é mais lenta,
+denominada de “fase de lua de mel”.
+A alternativa que cita o diabetes mellitus secundário à pancreatite como diagnóstico e sugere
+solicitar TC de abdome e iniciar insulinoterapia, também é incorreta. Diabetes pancreatogênico
+geralmente ocorre após pancreatite crônica, cirurgia pancreática ou uso crônico de álcool, fatores
+ausentes no histórico do paciente (Goldman; Schafer, 2022).
+Referências:
+GOLDMAN, L. ; SCHAFER, A. I. Goldman Cecil Medicina [recurso eletrônico]. 26. ed. Rio de
+Janeiro: Elsevier, 2022. 2 vols. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 10 fev. 2025.
+Rodacki M, Teles M, Gabbay M, Montenegro R, Bertoluci M, Rodrigo Lamounier. Classificação do
+diabetes. Diretriz Oficial da Sociedade Brasileira de Diabetes (2023). DOI: 10.29327/557753.20221, ISBN: 978-85-5722-906-8.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 13 de 43
+
+10ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Um homem de 29 anos vem ao consultório com queixa de cefaleia unilateral
+recorrente nas últimas 4 semanas. O paciente tem apresentado uma média de 2 episódios diários
+de dor intensa em região supraorbital e temporal direita, com cada episódio tendo duração
+aproximada de 1 hora. Durante as crises de dor, costuma ficar inquieto e apresenta hiperemia
+conjuntival, lacrimejamento e congestão nasal à direita. O exame neurológico é normal. Assinale a
+alternativa que descreve o diagnóstico mais provável e uma opção de tratamento farmacológico
+preventivo adequado para o caso, considerando a ausência de contraindicações.
+Alternativas:
+(alternativa A)
+Hemicrania paroxística; indometacina.
+(alternativa B)
+Migrânea com aura; topiramato.
+(alternativa C) (CORRETA)
+Cefaleia em salvas; verapamil.
+(alternativa D)
+Migrânea sem aura; amitriptilina.
+
+Resposta comentada:
+Paciente preenche critérios diagnósticos para cefaleia em salvas (pelo menos 5 crises de dor
+intensa unilateral em região orbital, supraorbital e/ou temporal, com duração de 15 a 180 minutos,
+associadas a sinais autonômicos cranianos ipsilaterais e/ou sensação de inquietude ou agitação).
+A oxigenioterapia é a terapia aguda de primeira linha para a crise de cefaleia em salvas, não
+sendo tratamento preventivo. Para a maioria dos pacientes com cefaleia em salvas, o verapamil é
+o agente de escolha para a terapia preventiva inicial.
+Referência:
+PORTO, Celmo C. ; PORTO, Arnaldo L. Clínica Médica na Prática Diária. 2. ed. Rio de Janeiro:
+Guanabara Koogan, 2022. E-book, p. 112 a 114 e Capítulo 494. ISBN 9788527738903.
+11ª QUESTÃO
+Enunciado:
+(AFYA Santa Inês) A hemorragia digestiva alta é uma condição médica que se refere ao
+sangramento que ocorre no trato gastrointestinal superior, que inclui o esôfago, estômago e
+duodeno. Essa condição pode ser causada por diversas patologias e apresenta sintomas
+característicos.
+Considerando os aspectos relacionados à hemorragia digestiva alta, assinale a alternativa correta.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 14 de 43
+
+Alternativas:
+(alternativa A)
+A presença de sangue nas fezes é um sinal característico de hemorragia digestiva alta,
+independentemente da quantidade de sangue perdido.
+(alternativa B)
+A hemorragia digestiva alta é sempre acompanhada de dor abdominal intensa e não pode ocorrer
+sem a presença de sintomas visíveis.
+(alternativa C) (CORRETA)
+As causas mais comuns de hemorragia digestiva alta incluem úlceras pépticas, varizes
+esofágicas e gastrite, sendo importante a identificação precoce para o tratamento adequado.
+(alternativa D)
+O tratamento da hemorragia digestiva alta é sempre cirúrgico, pois não existem opções de
+tratamento clínico eficazes.
+
+Resposta comentada:
+A hemorragia digestiva alta é sempre acompanhada de dor abdominal intensa e não pode ocorrer
+sem a presença de sintomas visíveis: Incorreto. A hemorragia digestiva alta pode ocorrer sem dor
+abdominal intensa e pode não apresentar sintomas visíveis em todos os casos, especialmente
+em sangramentos leves ou crônicos.
+As causas mais comuns de hemorragia digestiva alta incluem úlceras pépticas, varizes
+esofágicas e gastrite, sendo importante a identificação precoce para o tratamento adequado:
+Correto. As úlceras pépticas, varizes esofágicas e gastrite são algumas das causas mais
+frequentes de hemorragia digestiva alta. A identificação precoce é crucial para o manejo adequado
+e a prevenção de complicações.
+O tratamento da hemorragia digestiva alta é sempre cirúrgico, pois não existem opções de
+tratamento clínico eficazes: Incorreto. O tratamento da hemorragia digestiva alta pode ser clínico,
+incluindo a administração de medicamentos, endoscopia e, em casos mais graves, cirurgia. A
+abordagem depende da causa e da gravidade do sangramento.
+A presença de sangue nas fezes é um sinal característico de hemorragia digestiva alta,
+independentemente da quantidade de sangue perdido: Incorreto. A presença de sangue nas fezes
+(melena) é um sinal de hemorragia digestiva alta, mas a quantidade de sangue e a apresentação
+clínica podem variar. Sangue vermelho vivo nas fezes geralmente indica hemorragia digestiva
+baixa.
+Referência:
+BRASIL. Ministério da Saúde. Protocólo de Manejo da Hemorragia Digestiva Alta. Brasília, 2021.
+Disponível em: https://www.gov.br/saude/pt-br. Acesso em: 20 out. 2023.
+WORLD HEALTH ORGANIZATION. Management of Gastrointestinal Bleeding. Geneva, 2022.
+Disponível em: https://www.who.int/publications/i/item/9789240061234. Acesso em: 20 out. 2023.
+12ª QUESTÃO
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 15 de 43
+
+Enunciado:
+(UNITPAC) Um paciente de 50 anos, sem comorbidades, apresenta-se no pronto-socorro com
+edema unilateral da perna esquerda iniciados há 8 horas, associado a dor e empastamento da
+panturrilha. O ultrassom Doppler venoso confirma a presença de trombose venosa profunda
+(TVP) distal.
+Com base no quadro, qual a conduta terapêutica inicial mais adequada, considerando a
+dose correta do anticoagulante.
+Alternativas:
+(alternativa A)
+Enoxaparina 1,0 mg/kg, via subcutânea, a cada 24 horas, sem necessidade de monitorização
+laboratorial de rotina.
+(alternativa B) (CORRETA)
+Rivaroxabana 15 mg, via oral, duas vezes ao dia, por 21 dias, seguido de 20 mg, uma vez ao dia.
+
+(alternativa C)
+Edoxabana 30 mg, via oral, uma vez ao dia, precedido de 5-10 dias do anticoagulando parenteral
+(alternativa D)
+Heparina não fracionada (HNF) em bolus de 50 UI/kg, seguido de infusão contínua de 18
+UI/kg/hora, com ajuste subsequente baseado no TTPA
+
+Resposta comentada:
+Podem ser tratados ambulatorialmente paciente que preencham os seguintes critérios :
+estabilidade clinica + baixo risco sangramento + função renal normal + bom nível entendimento e
+TVP distal (veias profundas da panturrilha) a indicação inicial é a anticoagulação oral com
+acompanhamento ambulatorialmente, com ultrassonografia semanal.
+A rivaroxabana que é um anticoagulante oral direto (DOAC) e pode ser utilizado como
+monoterapia no tratamento da TVP aguda, sem a necessidade de terapia de ponte com heparina.
+A dose inicial de 15 mg duas vezes ao dia por 21 dias, seguidos de 20 mg por mais 3 meses.
+As demais opções apresentam doses e/ou esquemas de administração incorretos para o
+tratamento inicial da TVP aguda.
+Referência bibliográfica:
+Khan F, Tritschler T, Kahn SR, et al. Venous thromboembolism. Lancet. 2021; 398(10294):64-77.
+Sociedade Brasileira de Angiologia e de Cirurgia Vascular (SBACV). Consenso Brasileiro de
+Trombose Venosa Profunda e Embolia Pulmonar. 2017. Disponível em: https://www.sbacv.org.br.
+Ferri, M. Ferri's Clinical Advisor 2021: 5 Books in 1. Elsevier.
+13ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 16 de 43
+
+Enunciado:
+(FMIT) Paciente do sexo masculino, 60 anos, com história de cardiopatia hipertensiva, em
+seguimento regular. Procura atendimento no ambulatório de cardiologia relatando dispneia aos
+moderados esforços, como subir pequenos lances de escada, sem ortopneia ou dispneia
+paroxística noturna. Nega edema de MMII. No exame físico, observamos RCR, 2T, BNF, FC =
+80 bpm, PA = 120x70 mmHg. Ausência de turgência jugular a 45 graus. Ausculta respiratória sem
+alterações. Traz ecocardiograma demonstrando FEVE = 32%. Faz uso de Metoprolol 50mg ao
+dia, Enalapril 20mg 2x ao dia, Espironolactona 25mg ao dia.
+Sobre o caso clínico relatado, assinale a alternativa que representa a melhor conduta neste
+momento.
+Alternativas:
+(alternativa A)
+Devemos aumentar a dose da espironolactona e associar furosemida, pois ambos alteram a
+sobrevida nesse caso.
+
+(alternativa B) (CORRETA)
+Devemos aumentar a dose do metoprolol e associar dapagliflozina, ambas medicações que
+alteram a sobrevida.
+
+(alternativa C)
+Devemos associar ao esquema terapêutico sacobitril + valsartana do paciente em questão, sem
+suspender os medicamentos em uso.
+(alternativa D)
+Devemos suspender o uso do enalapril e iniciar a furosemida, pois o paciente se apresenta em
+quadro descompensado.
+
+Resposta comentada:
+Paciente com quadro de insuficiência cardíaca com FEVE reduzida, ainda com sintomas e não
+apresentando terapêutica otimizada. Devemos, portanto, aumentar a dose do betabloqueador
+(metoprolol) e associar Dapgliflozina SGLT-2, pois eles alteram a mortalidade no paciente com IC
+sintomático. Furosemida apenas altera sintoma, não alterando mortalidade, e não devemos
+suspender o betabloqueador. Além disso, o início de sacubitril+valsartan só pode ocorrer após
+suspender IECA (enalapril) por 36h.
+Referência:
+Comitê Coordenador da Diretriz de Insuficiência Cardíaca. Diretriz Brasileira de Insuficiência
+Cardíaca Crônica e Aguda. Arq Bras Cardiol. 2018; 111(3):436-539.
+14ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 17 de 43
+
+Enunciado:
+(FMIT) Paciente de 32 anos procura atendimento em unidade básica de saúde, relatando quadro
+de cefaleia, de caráter recorrente, desde aproximadamente seus 16 anos de idade. Informa que a
+dor se inicia de caráter progressivo, raramente pela manhã, com característica pulsátil, unilateral,
+associada a fotofobia. Em alguns momentos, a cefaleia se associa a náuseas. Informa grande
+prejuízo das suas atividades diárias. No momento, está com dor, 8/10, características
+semelhantes. No exame físico, encontra-se lúcido e orientado, ausência de déficit motor,
+ausência de rigidez de nuca, fundoscopia sem alteração. PA=140x90mmHg, FC=88bpm.
+Sobre o caso clínico, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A presença de fotofobia, bem como náuseas em algumas crises, são sinais de alarme de cefaleia
+secundária, devendo ser internado e solicitado tomografia de crânio.
+(alternativa B) (CORRETA)
+As características da patologia, bem como seu exame físico, sugerem cefaleia primária, devendo
+ser prescrito analgesia e medicamento para inibir novas crises.
+(alternativa C)
+Mesmo na ausência de rigidez de nuca, é provável caso de irritação meníngea devido às
+características da dor e início do quadro, com indicação de coleta de líquor.
+(alternativa D)
+O paciente apresenta sinais duvidosos de cefaleia primária, sendo, portanto, necessária
+internação para melhor investigação da etiologia da cefaleia.
+
+Resposta comentada:
+Paciente com quadro típico de cefaleia primária, sem sinais de alarme, devendo receber
+tratamento analgésico abortivo da crise, bem como profilaxia para novas crises. Fotofobia e
+náuseas são comuns na cefaleia primária (migrânea). Não há sinais de irrigação meníngea no
+presente caso clínico.
+Referência:
+VELASCO, Irineu Tadeu et al. Medicina de emergência: abordagem prática. Barueri, SP:
+Manole. 2019.
+15ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 18 de 43
+
+Enunciado:
+(FMIT) Paciente de 56 anos, previamente com diagnóstico de insuficiência cardíaca de etiologia
+hipertensiva, possui ecocardiograma com FEVE de 32%, com bom seguimento. Apresenta-se na
+urgência com quadro de piora da dispneia, nos últimos 7 dias, com caráter progressivo, se
+tornando em repouso, além de ortopneia e confusão mental. Ao exame físico, possui RCR,
+FC=72bpm, PA=88x66mmHg, ausculta respiratória com estertores bilaterais, até terço médio.
+Possui ainda tempo de enchimento capilar aumentado (acima de 3 segundos), edema de MMII e
+turgência jugular em 45º.
+
+Sobre o caso clínico, assinale a alternativa correta.
+
+Alternativas:
+(alternativa A)
+O paciente se apresenta em classe funcional NYHA III, caracterizando padrão “congesto” e
+“seco”, em perfil hemodinâmico B.
+
+(alternativa B)
+A presença de tempo de enchimento capilar aumentado, bem como queda da pressão arterial,
+são sinais de congestão sistêmica.
+(alternativa C)
+Os achados de exame físico são sugestivos de insuficiência de ventrículo direito isolada,
+configurando cor pulmonalle.
+
+(alternativa D) (CORRETA)
+O paciente se apresenta com quadro de Insuficiência Cardíaca descompensada, perfil
+hemodinâmico C, classe funcional de NYHA IV.
+
+Resposta comentada:
+Paciente com quadro de insuficiência cardíaca com FEVE reduzida, com sinais de congestão
+sistêmica e pulmonar, além de baixa perfusão periférica, caracterizando assim perfil
+hemodinâmico C. Além disso, se apresenta com sintomas em repouso, ou seja, classe funcional
+NYHA IV. O tempo de enchimento capilar aumentado é sinal de baixa perfusão periférica (e não
+de congestão sistêmica). Congestão pulmonar são sinais de disfunção do VE.
+
+Referência:
+2020;141(5):352-61. Diretriz Brasileira da Insuficiência Cardíaca Crônica e Aguda. Arq Bras
+Cardiol. 2018; Arquivos Brasileiros de Cardiologia.
+16ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 19 de 43
+
+Enunciado:
+(FACIMPA) Você é médico em uma Unidade Básica de Saúde de uma cidade de médio porte no
+interior do Brasil. Um paciente de 68 anos, pedreiro aposentado, comparece à consulta com
+queixa de dispneia progressiva aos esforços, tosse crônica produtiva e episódios frequentes de
+exacerbações respiratórias, especialmente durante o inverno. Relata histórico de tabagismo
+desde os 15 anos, com carga tabágica estimada em 50 maços/ano. Atualmente, faz uso regular
+de uma combinação de broncodilatadores de longa ação e corticosteroide inalatório (LABA + CI).
+Ao exame físico, apresenta índice de massa corporal (IMC) de 22 kg/m², frequência respiratória
+de 22 irpm, saturação de oxigênio em ar ambiente de 91%, tórax em barril com murmúrio
+vesicular diminuído difusamente e presença de sibilos expiratórios. A espirometria revela um
+VEF1 pós-broncodilatador de 45% do previsto, com relação VEF1/CVF de 0,55. Hemograma
+evidencia contagem de eosinófilos de 80 células/µL.
+Proposição 1: Em pacientes com DPOC e contagem de eosinófilos sanguíneos abaixo de 100
+células/µL, as diretrizes GOLD 2025 recomendam a suspensão do corticosteroide inalatório.​
+Proposição 2: A terapia combinada de broncodilatadores de longa ação (LABA + LAMA) é
+preferida em pacientes com DPOC que apresentam baixa contagem de eosinófilos e histórico de
+exacerbações.​
+Proposição 3: A manutenção do corticosteroide inalatório é indicada em todos os pacientes com
+DPOC grave, independentemente da contagem de eosinófilos.
+Alternativas:
+(alternativa A) (CORRETA)
+As proposições 1 e 2 são verdadeiras, e a proposição 2 justifica a proposição 1.
+(alternativa B)
+As proposições 1 e 3 são verdadeiras, e a proposição 1 justifica a proposição 3.
+(alternativa C)
+Apenas a proposição 3 é verdadeira e ela não justifica nenhuma das demais.
+(alternativa D)
+As três proposições são verdadeiras, mas nenhuma justifica diretamente as demais.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 20 de 43
+
+Resposta comentada:
+As diretrizes GOLD 2025 atualizam as recomendações terapêuticas para DPOC com base na
+contagem de eosinófilos sanguíneos. Em pacientes com contagem de eosinófilos abaixo de 100
+células/µL, sugere-se a suspensão do corticosteroide inalatório devido ao menor benefício e maior
+risco de efeitos adversos. Nesses casos, a combinação de broncodilatadores de longa ação
+(LABA + LAMA) é preferida para reduzir exacerbações e melhorar sintomas. Portanto, as
+proposições 1 e 2 são verdadeiras e complementares, com a proposição 2 justificando a
+proposição 1. Já a proposição 3 é incorreta, pois a manutenção do corticosteroide inalatório não é
+universalmente indicada em todos os pacientes com DPOC grave; a decisão deve considerar
+fatores como a contagem de eosinófilos e o histórico de exacerbações.
+Referências:
+Global Initiative for Chronic Obstructive Lung Disease (GOLD). Global Strategy for the Diagnosis,
+Management, and Prevention of Chronic Obstructive Pulmonary Disease: 2025 Report.
+Disponível em: https://goldcopd.org/2025-gold-report​Best Practice. Acesso em: 18 abr. 2025.
+Medscape. Atualizações do relatório GOLD 2025. Disponível em:
+https://portugues.medscape.com/verartigo/6512100​M edscape Português+1Medway+1. Acesso
+em: 18 abr. 2025.
+Ministério da Saúde (Brasil). Protocolo Clínico e Diretrizes Terapêuticas da Doença Pulmonar
+Obstrutiva Crônica (DPOC). Disponível em: https://www.gov.br/conitec/ptbr/midias/protocolos/resumidos/20220912_PCDT_Resumido_DPOC_final.pdf. Acesso em: 18
+abr. 2025.
+
+17ª QUESTÃO
+Enunciado:
+(UNIREDENTOR) Um paciente de 67 anos, com histórico de insuficiência cardíaca com fração
+de ejeção reduzida (ICFEr), é admitido no hospital com dispneia aos mínimos esforços, ortopneia
+e edema de membros inferiores. No exame físico, encontra-se orientado, sem rebaixamento do
+nível de consciência, apresenta pressão arterial de 100x70 mmHg, frequência cardíaca de 88
+bpm, estertores bibasais e turgência jugular. A creatinina sérica é de 1,5 mg/dL (basal de 1,2
+mg/dL) e o potássio é de 4,8 mEq/L.
+Qual das alternativas abaixo representa conduta possível para otimizar o tratamento da
+insuficiência cardíaca descompensada desse paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar furosemida 40 mg IV e ajustar a dose conforme resposta diurética.
+(alternativa B)
+Suspender o beta-bloqueador e administrar dobutamina para melhora da perfusão.
+(alternativa C)
+Administrar soro fisiológico para corrigir a hipotensão e otimizar a diurese.
+(alternativa D)
+Iniciar espironolactona 50 mg/dia para controle do edema e melhora da função cardíaca.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 21 de 43
+
+Resposta comentada:
+- Iniciar furosemida 40 mg IV e ajustar a dose conforme resposta diurética.
+Alternativa correta. O paciente apresenta sinais clássicos de congestão em insuficiência cardíaca
+descompensada. O diurético de alça IV, como a furosemida, é a terapia de escolha para aliviar os
+sintomas congestivos e melhorar a dispneia. A dose pode ser ajustada conforme a resposta
+clínica e a diurese.
+- Suspender o beta-bloqueador e administrar dobutamina para melhora da perfusão.
+Alternativa incorreta. Beta-bloqueadores não devem ser suspensos abruptamente em pacientes
+estáveis hemodinamicamente. Dobutamina só é indicada em cenários de choque cardiogênico ou
+hipoperfusão significativa, o que não é o caso deste paciente.
+- Iniciar espironolactona 50 mg/dia para controle do edema e melhora da função cardíaca.
+Alternativa incorreta. A espironolactona tem papel na terapia crônica da ICFEr, mas sua
+introdução na fase aguda não é prioritária, principalmente com creatinina elevada e potássio já no
+limite superior, devido ao risco de hipercalemia.
+- Administrar soro fisiológico para corrigir a hipotensão e otimizar a diurese.
+Alternativa incorreta. Apesar da pressão arterial relativamente baixa, o paciente apresenta
+sobrecarga volêmica. A administração de volume pode piorar a congestão pulmonar e levar à
+piora clínica.
+Referência:
+PEREIRA, Baruzzi E.; CARVALHO, Antonio C. Tratado de Cardiologia – SOCESP. 3. ed. São
+Paulo: Manole, 2021.
+18ª QUESTÃO
+Enunciado:
+(UNITPAC) Uma paciente de 52 anos com diagnóstico de artrite reumatoide há 6 meses
+apresenta dor e edema em articulações metacarpofalângicas e interfalângicas proximais, com
+rigidez matinal de 2 horas. Ela iniciou tratamento com metotrexato (MTX) 15 mg/semana há 3
+meses, mas mantém sinais de atividade inflamatória (PCR 15 mg/L, VHS 40 mm/h).
+Qual é a conduta mais adequada neste momento?
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 22 de 43
+
+Alternativas:
+(alternativa A)
+Associar um corticoide em baixa dose, até 10 mg/dia, para controle dos sintomas.
+(alternativa B)
+Iniciar terapia biológica com um inibidor de TNF-alfa.
+(alternativa C)
+Aumentar a dose de metotrexato para 30 mg/semana.
+(alternativa D) (CORRETA)
+Associar leflunomida ao esquema atual com metotrexato.
+
+Resposta comentada:
+Alternativa correta: "Associar leflunomida ao esquema atual com metotrexato."
+A combinação de dois DMARDs sintéticos é o próximo passo no manejo de AR moderada a
+grave, caso o metotrexato isolado não seja suficiente (Carvalho; Lanna; Bertolo, 2019). Essa
+abordagem é eficaz antes de considerar terapia biológica.
+A alternativa "Aumentar a dose de metotrexato para 30 mg/semana" está errada. A dose máxima
+de metotrexato é geralmente de 25 mg/semana. Caso o paciente já esteja em doses adequadas e
+não tenha resposta, a recomendação é combinar outro DMARD ou considerar terapia biológica
+(Ministério da Saúde, 2021).
+A alternativa "Associar um corticoide em baixa dose até 10 mg/dia para controle dos sintomas"
+encontra-se equivocada, pois corticoides podem ser sim usados como terapia de ponte, mas não
+são suficientes para controlar a progressão da doença em longo prazo (Carvalho; Lanna; Bertolo,
+2019). A associação de outro DMARD ou biológico é mais apropriada (Carvalho; Lanna; Bertolo,
+2019).
+A alternativa "Iniciar terapia biológica com um inibidor de TNF-alfa" encontra-se errada, pois a
+terapia biológica é indicada apenas após falha de dois DMARDs sintéticos, como metotrexato e
+leflunomida, salvo contraindicações ou doença muito grave (Londono et al., 2012).
+Referências:
+CARVALHO, Marco Antonio P. ; LANNA, Cristina Costa D. ; BERTOLO, Manoel B.
+Reumatologia.
+[recurso eletrônico]: diagnóstico e tratamento. 5. ed. Grupo GEN, 2019. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527735285. Acesso em: 05 fev. 2024.
+LONDONO, J. et al. Eficácia terapêutica e segurança de metotrexato + leflunomida em pacientes
+colombianos com artrite reumatoide ativa refratária ao tratamento convencional. Revista
+Brasileira de Reumatologia, v. 52, p. 837–845, 1 dez. 2012.
+MINISTÉRIO DA SAÚDE. Artrite Reumatoide. Agosto/2021 No 654. [s.l: s.n.]. Disponível em:
+https://www.gov.br/conitec/pt-br/midias/relatorios/2021/20210910_relatorioartrite_reumatoide_final_654_2021.pdf. Acesso em: 18 abr. 2025.
+19ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 23 de 43
+
+Enunciado:
+(FACIMPA) Paciente de 50 anos dá entrada em Pronto-Socorro apresentando quadro de
+desidratação e dor abdominal. Refere ser diabético há cerca de 5 anos, em uso de uma
+medicação que “faz urinar açúcar”. Sobre o antidiabético citado, assinale a alternativa que
+corresponde à classe medicamentosa e ao efeito adverso relacionado.
+Alternativas:
+(alternativa A)
+Biguanida. Acidose hiperglicêmica.
+(alternativa B) (CORRETA)
+Inibidor do SGLT2. Cetoacidose euglicêmica.
+(alternativa C)
+Inibidor do DPP4. Ganho de peso.
+(alternativa D)
+Análogo de GLP1. Hipotensão.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 24 de 43
+
+Resposta comentada:
+Alternativa correta: Inibidor do SGLT2. Cetoacidose euglicêmica.
+Dos antidiabéticos orais, a única classe medicamentosa que leva à glicosúria é a classe dos
+inibidores do SGLT2. Os principais efeitos adversos dessa classe são infecção do trato urinário e
+cetoacidose euglicêmica (mais temida).
+A biguanida pode levar a acidose lática, e não acidose hiperglicêmica.
+Efeitos adversos:
+Formulação de liberação imediata: Diarreia, náuseas e vômitos (> 10%)
+Formulação de liberação estendida (XR): Diarreia, náuseas e vômitos (< 10%)
+Ambas as formulações: Deficiência de vitamina B12, dor abdominal, constipação,
+distensão abdominal, dispepsia, pirose, flatulência, tonturas, cefaleia, alteração do
+paladar (< 10%).
+Acidose lática (rara).
+Os inibidores do DPP4 são neutros em relação ao ganho de peso.
+Efeitos colaterais:
+Angioedema e urticária.
+Probabilidade de pancreatite aguda.
+Aumento das hospitalizações por IC (saxagliptina).
+Os análogos de GLP-1 não causam hipotensão.
+Efeitos adversos:
+Náusea, vômitos e diarreia.
+Hipoglicemia (quando associada a secretagogos).
+Aumento discreto da frequência cardíaca.
+Pancreatite aguda (rara, observada apenas nos AR GLP-1 injetáveis).
+Referência:
+Ruy Lyra, Luciano Albuquerque, Saulo Cavalcanti, Marcos Tambascia, Wellington S. Silva Júnior
+e Marcello Casaccia Bertoluci. Manejo da terapia antidiabética no DM2. Diretriz Oficial da
+Sociedade Brasileira de Diabetes (2024). DOI: 10.29327/5412848.2024-7, ISBN:
+10.29327/5412848.2024-7.
+20ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 25 de 43
+
+Enunciado:
+(FESAR) A Doença do Refluxo Gastroesofágico (DRGE) é uma condição comum que afeta o
+trato gastrointestinal, com uma ampla gama de sintomas. Em relação ao diagnóstico e
+características dessa doença, analise as assertivas a seguir:
+I) A pirose e a regurgitação são os principais sintomas associados à DRGE, embora a dor
+epigástrica e a dispepsia também possam ser relatadas com frequência pelos pacientes.
+II) É comum observar linfonodomegalia cervical em pacientes com DRGE, o que geralmente
+indica a progressão da doença e está relacionado a sintomas extraesofágicos.
+III) A endoscopia digestiva alta sem sinais de esofagite de refluxo é suficiente para descartar o
+diagnóstico de DRGE.
+IV) O diagnóstico de DRGE pode ser confirmado pela presença de sintomas típicos e pela
+melhora desses sintomas após o tratamento com inibidores da bomba de prótons (IBPs).
+Com base na análise das assertivas, estão corretas:
+Alternativas:
+(alternativa A) (CORRETA)
+apenas as I e IV.
+
+(alternativa B)
+apenas a IV.
+(alternativa C)
+apenas as I, III e IV.
+(alternativa D)
+apenas as II e III.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 26 de 43
+
+Resposta comentada:
+Analisando as assertivas:
+I) A pirose e a regurgitação são os principais sintomas associados à DRGE, embora a dor
+epigástrica e a dispepsia também possam ser relatadas com frequência pelos pacientes.
+Correto. A pirose (azia) e a regurgitação são os sintomas mais característicos da DRGE. Outros
+sintomas, como dor epigástrica e dispepsia, também podem estar presentes, embora sejam
+menos específicos.
+II) É comum observar linfonodomegalia cervical em pacientes com DRGE, o que geralmente
+indica a progressão da doença e está relacionado a sintomas extraesofágicos.
+Incorreto. A DRGE não está tipicamente associada à linfonodomegalia cervical. Se houver
+linfonodomegalia, deve-se considerar outras causas, como infecções, neoplasias ou doenças
+inflamatórias.
+III) A endoscopia digestiva alta sem sinais de esofagite de refluxo é suficiente para descartar o
+diagnóstico de DRGE.
+Incorreto. A endoscopia pode ser normal em pacientes com DRGE, especialmente na forma não
+erosiva da doença (DRGE não erosiva). O diagnóstico muitas vezes é clínico ou confirmado por
+testes como pHmetria esofágica.
+IV) O diagnóstico de DRGE pode ser confirmado pela presença de sintomas típicos e pela
+melhora desses sintomas após o tratamento com inibidores da bomba de prótons (IBPs).
+Correto. A resposta positiva ao teste terapêutico com IBPs é um critério diagnóstico amplamente
+utilizado para DRGE.
+Referência:
+DANI, R. Gastroenterologia essencial. 4ª ed. Rio de Janeiro: Guanabara Koogan, 2011.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-1970-4. Acesso em:
+18 abr. 2025.
+21ª QUESTÃO
+Enunciado:
+(AFYA Santa Inês) A tuberculose (TB) é uma doença infecciosa crônica que continua a ser um
+importante problema de saúde pública em várias partes do mundo. A resistência aos
+medicamentos é um desafio crescente no tratamento da tuberculose.
+Considerando os mecanismos de resistência e as características da doença, assinale a
+alternativa que apresenta a afirmação correta sobre a tuberculose e sua resistência
+medicamentosa.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 27 de 43
+
+Alternativas:
+(alternativa A) (CORRETA)
+A resistência à rifampicina, um dos principais medicamentos utilizados no tratamento da
+tuberculose, é frequentemente associada a mutações no gene rpoB, que codifica a subunidade
+beta da RNA polimerase.
+(alternativa B)
+A tuberculose é exclusivamente uma doença pulmonar e não pode afetar outros órgãos, como os
+rins ou os ossos.
+(alternativa C)
+O tratamento da tuberculose multirresistente (MDR-TB) é o mesmo que o tratamento da
+tuberculose sensível, sem necessidade de ajustes na dosagem ou ajustes na duração do
+tratamento.
+(alternativa D)
+A vacina BCG é 100% eficaz na prevenção da tuberculose em todas as populações,
+independentemente de fatores como idade e estado de saúde.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 28 de 43
+
+Resposta comentada:
+A resistência à rifampicina, um dos principais medicamentos utilizados no tratamento da
+tuberculose, é frequentemente associada a mutações no gene rpoB, que codifica a subunidade
+beta da RNA polimerase: Correta. A resistência à rifampicina é um dos principais mecanismos de
+resistência na tuberculose e está frequentemente relacionada a mutações no gene rpoB, crucial
+para a síntese de RNA nas bactérias.
+A tuberculose é exclusivamente uma doença pulmonar e não pode afetar outros órgãos, como os
+rins ou os ossos: Incorreta. A tuberculose pode afetar não apenas os pulmões, mas também
+outros órgãos, como os rins, ossos, sistema nervoso central e linfonodos, caracterizando a
+tuberculose extrapulmonar.
+O tratamento da tuberculose multirresistente (MDR-TB) é o mesmo que o tratamento da
+tuberculose sensível, sem necessidade de ajustes na dosagem ou ajustes na duração do
+tratamento: Incorreta. O tratamento da tuberculose multirresistente (MDR-TB) requer uma
+abordagem diferente, com medicamentos de segunda linha e um regime de tratamento mais
+longo e complexo, devido à resistência aos medicamentos de primeira linha.
+A vacina BCG é 100% eficaz na prevenção da tuberculose em todas as populações,
+independentemente de fatores como idade e estado de saúde: Incorreta. A vacina BCG não é
+100% eficaz e sua eficácia pode variar dependendo de fatores como idade, estado de saúde e
+prevalência da doença na população. Ela é mais eficaz na prevenção de formas graves de
+tuberculose em crianças.
+Referências:
+BRASIL. Ministério da Saúde. Equipamentos – Utilização e monitoramento em unidades
+hemoterápicas e laboratórios de saúde pública. Brasília, DF: MS, 1998. (Série TELELAB).
+COLLINS, C. H. ; GRANGE, J. M. ; YATES, M. D. Tuberculosis bacteriology – Organization and
+Practice. Oxford: Butterworth-Heinemann, 1997.
+SELVAKUMAR, N. et al. Processing sputum specimens in a refrigerated centrifuge does not
+increase the rate of isolation of Mycobacterium tuberculosis. Journal of Clinical Microbiology, v.
+41, p. 469-471, 2003.
+22ª QUESTÃO
+Enunciado:
+(FASA VIC) João, um paciente de 62 anos, fumante por 40 anos, apresenta quadro de dispneia
+progressiva nos últimos dois anos, além de episódios frequentes de tosse. Após avaliação
+espirométrica, ao exame físico observa-se murmúrio vesicular diminuído difusamente sem ruídos
+adventícios, sem outras alterações.
+Espirometria pré-broncodilatador: CVF: 108% do previsto (4,14 L); VEF: 62% (1,91 L); VEF1/CVF:
+0,44; FEF 25--75%: 53% (1,68 L/s).
+Espirometria pós-broncodilatador: depois de 15 minutos da inalação de salbutamol, 2 jatos, houve
+incremento de 0,17 L do VEF1, equivalente a 9% do valor basal. O valor de CVF aumentou 2%.
+CVF: Capacidade Vital Forçada; VEF1: Volume Expiratório Forçado no primeiro segundo; FEF 2575%: Fluxo Expiratório Forçado dos 25 aos 75% da CVF.
+Após avaliação clínica, ele apresenta um score de CAT (teste de avaliação da condição do
+DPOC) de 18 pontos. João ainda não teve exacerbações no último ano. A partir desses dados,
+seu médico decide iniciar um tratamento farmacológico.
+Qual é a escolha terapêutica mais adequada para João?
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 29 de 43
+
+Alternativas:
+(alternativa A)
+Classe E: Uma combinação de broncodilatador de longa ação (LABA) associado a anticolinérgico
+de longa ação (LAMA) e corticosteroide inalatório.
+(alternativa B)
+Classe C: Uma combinação de broncodilatador de longa ação (LABA) associado a anticolinérgico
+de longa ação (LAMA).
+(alternativa C)
+Classe A: Um beta-agonista de curta ação (SABA) apenas, com reavaliação para escalonamento
+se necessário.
+(alternativa D) (CORRETA)
+Classe B: Um broncodilatador de longa ação (LABA) associado a anticolinérgico de longa ação
+(LAMA).
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 30 de 43
+
+Resposta comentada:
+O tratamento de João deve ser baseado na sua classificação GOLD. O escore de CAT de 18
+pontos indica um grau moderado de sintomatologia. Além disso, ele não teve exacerbação no
+último ano.
+Com esses dados, a classificação de João se encaixa mais na Classe B, que é caracterizada por
+sintomas moderados e risco baixo de exacerbações. A abordagem terapêutica para pacientes da
+Classe B, de acordo com o GOLD 2024, é o uso de um broncodilatador de longa ação (LABA)
+associado a um anticolinérgico de longa ação (LAMA).
+Análise das demais alternativas:
+A alternativa "Classe A: Um beta-agonista de curta ação (SABA) apenas, com reavaliação para
+escalonamento se necessário." está incorreta, pois a Classe A do GOLD é indicada para
+pacientes com poucos sintomas e baixo risco de exacerbações, sendo suficiente o uso de um
+beta-agonista de curta ação (SABA) conforme necessário. No caso de João, o CAT de 18 pontos
+indica sintomas mais significativos, exigindo broncodilatadores de longa ação.
+A alternativa "Classe C: Uma combinação de broncodilatador de longa ação (LABA) associado a
+anticolinérgico de longa ação (LAMA)." está incorreta, pois a Classe C do GOLD é indicada para
+pacientes com alto risco de exacerbações, o que não se aplica a João, que não teve
+exacerbações no último ano. Além disso, a Classe C prioriza o uso de um LAMA isolado antes da
+associação com LABA.
+A alternativa "Classe E: Uma combinação de broncodilatador de longa ação (LABA) associado a
+anticolinérgico de longa ação (LAMA) e corticosteroide inalatório." está incorreta, pois a Classe E
+do GOLD corresponde a pacientes com risco elevado e maior comprometimento pulmonar,
+necessitando de uma abordagem mais agressiva com LABA, LAMA e corticosteroide inalatório
+(ICS). João, apesar dos sintomas moderados, não apresenta histórico de exacerbações que
+justifique essa abordagem.
+Referência:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024. E-book. p. 1070. ISBN 9786558040231. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040231/. Acesso em: 03 fev.
+2025.
+23ª QUESTÃO
+Enunciado:
+(AFYA Ipatinga) Paciente, 65 anos, diagnosticado recentemente com artrite reumatoide, se
+consulta por anemia de 6 meses de evolução. Apresenta os seguintes exames: hemograma hemoglobina: 8,5 g/dl; VCM: 68 fl; leucócitos: 7.250 mm³; plaquetas: 230.000/mm³; ferro sérico: 32
+mcg/dl (referência 50-150); ferritina: 500 ng/dl (referência 20-250).
+Qual é a hipótese diagnóstica mais apropriada para esta anemia?
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 31 de 43
+
+Alternativas:
+(alternativa A) (CORRETA)
+Anemia de doença crônica.
+
+(alternativa B)
+Anemia por deficiência de vitamina B12.
+
+(alternativa C)
+Anemia ferropriva.
+
+(alternativa D)
+Anemia perniciosa.
+
+Resposta comentada:
+Paciente idosa, com doença crônica, artrite reumatóide. Apresenta anemia com microcitose e
+ferro baixo, porém com ferritina elevada. Diante do contexto clínico e da cinética de ferro, a
+paciente apresenta anemia associada à doença crônica.
+Referência:
+ZAGO, MA, FALCÃO, RP, PASQUINI, R. Tratado de Hematologia. 1ª ed. Rio de Janeiro:
+Atheneu, 2013.
+24ª QUESTÃO
+Enunciado:
+(FACIMPA) Na enfermaria de cirurgia, um homem de 65 anos apresenta-se com febre, tosse
+produtiva e dor torácica. Ele relata que foi internado no hospital há 10 dias para uma cirurgia de
+vesícula biliar. Os exames complementares confirmaram a hipótese de pneumonia. O médico
+coleta amostra de hemocultura.
+Com a hipótese de pneumonia nosocomial, qual é a maneira mais eficaz de prescrever o
+tratamento?
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 32 de 43
+
+Alternativas:
+(alternativa A)
+Iniciar monoterapia com amoxicilina-clavulanato, pois cobre patógenos comunitários comuns e
+reduz a resistência bacteriana.
+(alternativa B)
+Utilização de levofloxacino em monoterapia, pois tem boa penetração pulmonar e cobre a maioria
+dos patógenos nosocomiais.
+(alternativa C)
+Aguardar o resultado da cultura antes de iniciar o antibiótico, evitando resistência antimicrobiana
+desnecessária.
+(alternativa D) (CORRETA)
+Prescrever vancomicina associada a piperacilina-tazobactam para cobrir Staphylococcus aureus
+resistente à meticilina (MRSA) e bacilos Gram-negativos multirresistentes.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 33 de 43
+
+Resposta comentada:
+Iniciar monoterapia com amoxicilina-clavulanato, pois cobre patógenos comunitários comuns e
+reduz a resistência bacteriana. Incorreta. A amoxicilina-clavulanato tem bom espectro para
+infecção comunitária, mas não cobre MRSA nem Pseudomonas aeruginosa, patógenos comuns
+em pneumonia hospitalar. Além disso, não é um tratamento recomendado para HAP, pois não
+tem atividade contra bacilos Gram-negativos multirresistentes.
+Prescrever vancomicina associada a piperacilina-tazobactam para cobrir Staphylococcus aureus
+resistente à meticilina (MRSA) e bacilos Gram-negativos multirresistentes. Correta. A pneumonia
+adquirida no hospital (PAH) ocorre após 48 horas de internação e tem alto risco de envolvimento
+por patógenos multirresistentes, incluindo Staphylococcus aureus resistente à meticilina (MRSA)
+e bacilos Gram-negativos (como Pseudomonas aeruginosa, Klebsiella pneumoniae e
+Acinetobacter). O esquema de vancomicina + piperacilina-tazobactam cobre essas bactérias e é
+recomendado para pacientes com fatores de risco para resistência.
+Utilização de levofloxacino em monoterapia, pois tem boa penetração pulmonar e cobre a maioria
+dos patógenos nosocomiais. Incorreta. Levofloxacino cobre alguns bacilos Gram-negativos e
+atípicos, mas tem baixa eficácia contra MRSA e pode não ser suficiente para patógenos
+resistentes.
+Aguardar o resultado da cultura antes de iniciar o antibiótico, evitando resistência antimicrobiana
+desnecessária. Incorreta. Aguardar o resultado da cultura antes de iniciar o antibiótico não é
+recomendado em casos de pneumonia nosocomial, pois pode levar à piora clínica do paciente. A
+HAP é uma infecção grave, e o tratamento empírico deve ser iniciado imediatamente com
+cobertura para patógenos resistentes, ajustando-se depois com base nos resultados da cultura e
+do antibiograma. O atraso no tratamento aumenta a mortalidade, especialmente em idosos e
+pacientes com comorbidades.
+Referências:
+Bartlett JG, Gorbach S. Pneumonia adquirida em hospital. Em: Mandell GL, Bennett JE, Dolin R,
+eds. Princípios e prática de doenças infecciosas. 7ª edição. Elsevier Churchill Livingstone, 2010,
+p. 987–994.
+Sociedade Torácica Americana; Sociedade de Doenças Infecciosas da América. Diretrizes para o
+tratamento de adultos com pneumonia adquirida em hospital, associada a ventilador e associada
+a assistência médica. Am J Respir Crit Care Med 2005; 171:388.
+25ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 34 de 43
+
+Enunciado:
+(UNINOVAFAPI) Homem de 62 anos, hipertenso, tabagista e com histórico de câncer de próstata
+tratado há 1 ano, é admitido no hospital por dor torácica pleurítica, dispneia súbita e hemoptise
+iniciadas há 6 horas. Ao exame físico, apresenta taquicardia (FC 118 bpm), pressão arterial
+105/70 mmHg, frequência respiratória 26 irpm e saturação de O₂ em 89% (ar ambiente).
+Exames laboratoriais:
+D-dímero elevado.
+Gasometria arterial: pO₂ = 65 mmHg, pCO₂ = 33 mmHg.
+ECG: taquicardia sinusal, padrão S1Q3T3.
+Radiografia de tórax: discreta oligoemia pulmonar à direita.
+Exames de imagem:
+Angiotomografia de tórax: defeitos de enchimento bilaterais nas artérias pulmonares
+segmentares.
+Com base no quadro clínico e nos achados de imagem, qual é a conduta terapêutica inicial mais
+apropriada?
+Alternativas:
+(alternativa A)
+Trombólise com alteplase IV devido ao alto risco de mortalidade.
+(alternativa B)
+Aspirina e clopidogrel, pois o tromboembolismo é decorrente de aterotrombose pulmonar.
+(alternativa C) (CORRETA)
+Anticoagulação imediata com heparina de baixo peso molecular (HBPM) ou heparina não
+fracionada (HNF).
+(alternativa D)
+Inserção de filtro de veia cava inferior para prevenir recorrência do TEP.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 35 de 43
+
+Resposta comentada:
+O paciente apresenta tromboembolismo pulmonar (TEP) de risco intermediário, evidenciado por
+taquicardia, hipoxemia e defeitos de enchimento na angiotomografia de tórax, sem instabilidade
+hemodinâmica (PA ≥ 90 mmHg).
+Conduta baseada em diretrizes:
+Anticoagulação imediata é a primeira linha de tratamento para prevenir a progressão do trombo e
+reduzir a mortalidade:
+HBPM (ex.: enoxaparina 1 mg/kg SC 12/12h) → Preferida para pacientes estáveis.
+HNF IV se houver risco de trombólise ou necessidade de reversão rápida.
+✔ Monitorização rigorosa para avaliar sinais de deterioração hemodinâmica.
+✔ Transição para anticoagulantes orais (ex.: rivaroxabana, apixabana ou varfarina).
+Justificativa das alternativas:
+Incorreta: Trombólise com alteplase IV: Indicada apenas em TEP de alto risco
+(instabilidade hemodinâmica com choque ou hipotensão refratária). Este paciente está
+hemodinamicamente estável (PA 105/70 mmHg).
+Incorreta: Filtro de veia cava inferior: indicado apenas quando há contraindicação à
+anticoagulação ou episódios recorrentes de TEP mesmo com tratamento adequado.
+Incorreta: Aspirina e clopidogrel: O TEP não é decorrente de aterotrombose, e sim de
+tromboembolismo venoso, que exige anticoagulação.
+Referência:
+Sobreira ML, Marques MA, Paschoa AF, et al. Diretrizes sobre trombose venosa profunda da
+Sociedade Brasileira de Angiologia e Cirurgia Vascular. J Vasc Bras. 2024;23:e20230107.
+https://doi.org/10.1590/1677-449.202301071.
+26ª QUESTÃO
+Enunciado:
+(AFYA Paraíba) Um homem de 58 anos, tabagista e etilista crônico, procura atendimento na
+emergência de um hospital devido a episódio de hematêmese associado a tontura e sudorese fria.
+Ele relata uso recente e recorrente de anti-inflamatórios, apresentando azia frequente e dor
+epigástrica há meses, que piora em jejum e melhora após alimentação. No exame físico,
+apresenta palidez cutâneo-mucosa e pressão arterial de 100/60 mmHg. Com base no quadro
+clínico, marque a alternativa que apresenta a causa mais provável da hemorragia digestiva nesse
+paciente.
+Alternativas:
+(alternativa A) (CORRETA)
+Úlcera péptica sangrante.
+(alternativa B)
+Laceração de Mallory-Weiss.
+(alternativa C)
+Neoplasia gástrica ulcerada.
+(alternativa D)
+Varizes esofágicas.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 36 de 43
+
+Resposta comentada:
+Alternativa correta: Úlcera péptica sangrante.
+A úlcera péptica é uma das principais causas de hemorragia digestiva alta. O paciente apresenta
+fatores de risco como uso de AINE, tabagismo e etilismo, além de sintomas prévios sugestivos
+de doença ulcerosa péptica (dor epigástrica que piora em jejum e melhora com alimentação). A
+hematêmese sugere sangramento ativo de uma lesão gastroduodenal.
+Alternativa incorreta: Varizes esofágicas.
+Embora o etilismo crônico seja um fator de risco para hipertensão portal e varizes esofágicas, o
+paciente não apresenta outros sinais clínicos de hepatopatia avançada, como ascite,
+encefalopatia ou circulação colateral. Além disso, seus sintomas prévios não são compatíveis
+com hipertensão portal.
+Alternativa incorreta: Laceração de Mallory-Weiss.
+O quadro clássico de síndrome de Mallory-Weiss ocorre após episódios repetidos de vômito
+vigoroso, levando a lacerações na mucosa do esôfago distal ou da junção esofagogástrica. O
+paciente não relatou vômitos prévios, o que torna essa hipótese menos provável.
+Alternativa incorreta: Neoplasia gástrica ulcerada.
+Embora uma neoplasia gástrica possa causar sangramento digestivo, a apresentação clínica
+tende a ser mais insidiosa, com sangramentos ocultos e anemia ferropriva. O perfil do paciente e
+a evolução do quadro são mais sugestivos de úlcera péptica do que de um câncer gástrico
+sangrante.
+Referências:
+FELDMAN, M.; FRIEDMAN, L. S.; BRANDT, L. J. Sleisenger and Fordtran’s Gastrointestinal
+and Liver Disease. 11ª edição. Elsevier, 2020.
+BRASIL. Protocolo Clínico e Diretrizes Terapêuticas – Hemorragia Digestiva Alta. Ministério
+da Saúde, 2022. Disponível em: http://bvsms.saude.gov.br. Acesso em: 18 abr. 2025.
+27ª QUESTÃO
+Enunciado:
+(UNIGRANRIO Caxias) Paciente de 45 anos procura ambulatório de clínica médica com queixas
+de tosse produtiva purulenta há 3 dias, cefaleia frontal há 2 dias, dor torácica ventilatóriodependente em base de hemitórax direito, além de dispneia aos grandes esforços há 4 dias.
+Refere febre de 39ºC há 2 dias.
+Diante deste fato, quais dos seguintes sinais e sintomas são comumente associados à
+pneumonia bacteriana e qual exame deve ser solicitado para auxiliar no diagnóstico?
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 37 de 43
+
+Alternativas:
+(alternativa A)
+Dor abdominal, tosse não produtiva, diarreia e náuseas – solicitar radiografia de tórax AP e Perfil.
+(alternativa B)
+Cefaleia, dispneia, fadiga e erupção cutânea – solicitar radiografia de seios da face e tórax PA e
+Perfil.
+(alternativa C)
+Congestão nasal, dor de garganta, tosse não produtiva e febre baixa – solicitar radiografia de
+seios da face.
+(alternativa D) (CORRETA)
+Febre alta, tosse produtiva purulenta, dor torácica e dispneia – solicitar radiografia de tórax PA e
+Perfil.
+
+Resposta comentada:
+Os sinais e sintomas característicos de pneumonia bacteriana são: febre alta, tosse produtiva
+purulenta, dor torácica e dispneia. Além disso, o exame que auxilia no diagnóstico é a radiografia
+de tórax nas incidências PA e Perfil. Fadiga, cefaleia, náuseas e vômitos podem também estar
+presentes no quadro clínico, mas são considerados sinais e sintomas associados e não
+característicos.
+Referência:
+Corrêa RA, Costa AN, Lundgren F, Michelim L, et al. Recomendações para o manejo da
+pneumonia adquirida na comunidade 2018. J Bras Pneumol. 2018;44(5):405-423.
+28ª QUESTÃO
+Enunciado:
+(AFYA Santa Inês) A Doença Inflamatória Intestinal (DII) é um termo que abrange condições
+crônicas que causam inflamação do trato gastrointestinal, sendo as duas formas mais comuns a
+Doença de Crohn e a Colite Ulcerativa. Essas condições podem levar a sintomas significativos e
+complicações.
+Considerando os aspectos relacionados à DII, assinale a alternativa correta.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 38 de 43
+
+Alternativas:
+(alternativa A) (CORRETA)
+Os sintomas da DII incluem diarreia, dor abdominal e perda de peso, e podem variar em
+intensidade ao longo do tempo.
+(alternativa B)
+A DII é uma condição que não apresenta relação com fatores genéticos ou ambientais, sendo
+exclusivamente causada por infecções.
+(alternativa C)
+O tratamento da DII é sempre cirúrgico, pois não existem opções de tratamento medicamentoso
+eficazes.
+(alternativa D)
+A Doença de Crohn afeta apenas o cólon, enquanto a Colite Ulcerativa pode afetar qualquer parte
+do trato gastrointestinal.
+
+Resposta comentada:
+A Doença de Crohn afeta apenas o cólon, enquanto a Colite Ulcerativa pode afetar qualquer parte
+do trato gastrointestinal: Incorreta! A Doença de Crohn pode afetar qualquer parte do trato
+gastrointestinal, desde a boca até o ânus, enquanto a Colite Ulcerativa afeta principalmente o
+cólon e o reto.
+Os sintomas da DII incluem diarreia, dor abdominal e perda de peso, e podem variar em
+intensidade ao longo do tempo: Correta! Os sintomas da DII, como diarreia, dor abdominal e perda
+de peso, são comuns e podem variar em intensidade, com períodos de remissão e exacerbação.
+A DII é uma condição que não apresenta relação com fatores genéticos ou ambientais, sendo
+exclusivamente causada por infecções: Incorreta! A DII tem uma forte associação com fatores
+genéticos e ambientais, e não é causada exclusivamente por infecções. Fatores como dieta,
+estresse e microbiota intestinal também desempenham papéis importantes.
+O tratamento da DII é sempre cirúrgico, pois não existem opções de tratamento medicamentoso
+eficazes: Incorreta! O tratamento da DII pode incluir medicamentos anti-inflamatórios,
+imunossupressores e biológicos, além de intervenções cirúrgicas em casos mais graves, mas
+não é sempre cirúrgico.
+Referência:
+BRASIL. Ministério da Saúde. Doenças Inflamatórias Intestinais: Guia de Manejo. Brasília, 2021.
+Disponível em: <https://www.gov.br/saude/pt-br/assuntos/saude-da-pessoa/saudedigestiva/doencas-inflamatorias-intestinais>. Acesso em: 20 out. 2023.
+WORLD HEALTH ORGANIZATION. Inflammatory Bowel Disease. Geneva, 2022. Disponível em:
+<https://www.who.int/news-room/fact-sheets/detail/inflammatory-bowel-disease>. Acesso em: 20
+out. 2023.
+29ª QUESTÃO
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 39 de 43
+
+Enunciado:
+(FASA VIC) Luana, 28 anos, foi diagnosticada com Doença de Crohn há 5 anos. Após o
+diagnóstico, ela foi tratada com imunossupressores e agentes biológicos, mas nos últimos meses
+tem sentido dor abdominal intensa e dificuldades intestinais, além de notar sangramentos ao
+evacuar. No exame físico, são observadas fissuras anais e sinais de distensão abdominal. O
+médico alerta para a importância do acompanhamento regular para monitorar as complicações a
+longo prazo dessa doença.
+Qual alternativa abaixo indica complicações comuns a longo prazo na doença de Luana e como
+elas devem ser conduzidas?
+
+Alternativas:
+(alternativa A)
+Fissuras anais e estenoses intestinais – Monitoramento por colonoscopia para avaliação de
+lesões e estreitamentos intestinais, com manejo sintomático das fissuras por imunossupressores
+e analgésicos tópicos.
+(alternativa B)
+Doença perianal e manifestações articulares – Avaliação de fístulas e abscessos por ressonância
+magnética, com controle da inflamação intestinal e articular por imunobiológicos e antiinflamatórios.
+(alternativa C)
+Úlceras bucais e hipertensão portal – Exames de tomografia para avaliação hepática,
+monitoramento da mucosa oral e tratamento da hipertensão portal com betabloqueadores e
+diuréticos.
+(alternativa D) (CORRETA)
+Obstruções intestinais e fístulas perianais – Exames de ressonância magnética para avaliação de
+fístulas anais, enterotomografia ou enterorressonância para avaliar estenoses e uso de
+antibióticos sistêmicos para controle de fístulas perianais.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 40 de 43
+
+Resposta comentada:
+Alternativa correta: Obstruções intestinais e fístulas perianais – Exames de ressonância
+magnética para avaliação de fístulas anais, enterotomografia ou enterorressonância para avaliar
+estenoses e uso de antibióticos sistêmicos para controle de fístulas perianais.
+Justificativa: As obstruções intestinais ocorrem devido a estenoses fibróticas causadas pela
+inflamação crônica da Doença de Crohn, e a melhor forma de monitorá-las é por enterotomografia
+ou enterorressonância. As fístulas perianais, comuns na doença, são melhor avaliadas por
+ressonância magnética de pelve, e o tratamento inclui antibióticos sistêmicos, imunossupressores
+e, em alguns casos, cirurgia.
+Alternativa incorreta: Fissuras anais e estenoses intestinais – Monitoramento por colonoscopia
+para avaliação de lesões e estreitamentos intestinais, com manejo sintomático das fissuras por
+imunossupressores e analgésicos tópicos.
+Justificativa: Embora fissuras anais possam ocorrer na Doença de Crohn, elas não são a
+complicação mais relevante a longo prazo. A colonoscopia pode avaliar inflamação intestinal, mas
+não é o melhor exame para estenoses fibróticas. Além disso, imunossupressores não são o
+tratamento principal para fissuras, sendo preferível abordagem local ou cirúrgica em casos
+refratários.
+Alternativa incorreta: Úlceras bucais e hipertensão portal – Exames de tomografia para avaliação
+hepática, monitoramento da mucosa oral e tratamento da hipertensão portal com
+betabloqueadores e diuréticos.
+Justificativa: Úlceras bucais podem ocorrer na Doença de Crohn como manifestação
+extraintestinal, mas hipertensão portal não é uma complicação comum da doença. A tomografia
+pode ser usada para avaliar o fígado em casos de colangite esclerosante primária associada,
+mas não é um exame de rotina no acompanhamento.
+Alternativa incorreta: Doença perianal e manifestações articulares – Avaliação de fístulas e
+abscessos por ressonância magnética, com controle da inflamação intestinal e articular por
+imunobiológicos e anti-inflamatórios.
+Justificativa: Manifestações articulares, como artrite, são comuns na Doença de Crohn, mas não
+são consideradas complicações intestinais diretas. O tratamento pode envolver imunobiológicos,
+mas o acompanhamento primário da doença se baseia no controle das manifestações intestinais,
+como fístulas e estenoses.
+Referência:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024. E-book. p. 1070. ISBN 9786558040231. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040231/. Acesso em: 03 fev.
+2025.
+30ª QUESTÃO
+Enunciado:
+(FACIMPA) Um homem de 64 anos, diabético há cerca de 15 anos, é encaminhado para
+avaliação na atenção primária. Refere que há cerca de 5 anos parou de usar medicações para o
+diabetes, pois seu vizinho informou que o remédio causava “problema nos rins”. Relata espumúria
+de longa data, redução do volume urinário e urina “muito amarela”.
+Sobre as complicações crônicas do diabetes tipo 2, assinale a alternativa correta.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 41 de 43
+
+Alternativas:
+(alternativa A)
+A avaliação da retinopatia diabética deve ser realizada anualmente por meio da avaliação da
+acuidade visual.
+
+(alternativa B) (CORRETA)
+O monofilamento de 10 g pode ser considerado para triagem da neuropatia diabética e indica pé
+em risco de úlcera.
+(alternativa C)
+Para avaliação da nefropatia diabética, é necessário dosar a creatinina urinária de 24h.
+
+(alternativa D)
+O rastreio deve ser realizado após 5 anos do diagnóstico e, após, anualmente.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 42 de 43
+
+Resposta comentada:
+Pacientes com DM2 devem rastrear complicações crônicas (retinopatia, nefropatia e neuropatia
+diabética) AO diagnóstico e anualmente. Pacientes com DM1 que devem iniciar rastreio de
+complicações crônicas após 5 anos do diagnóstico.
+Para avaliação da retinopatia diabética, é necessário exame de retinografia ou mapeamento de
+retina e biomicroscopia de fundo.
+Para avaliação da nefropatia diabética, é RECOMENDADO rastreamento com amostra de urina
+aleatória para determinação da Razão Albumina Creatinina (RAC) ou microalbuminúria e
+determinação da taxa de filtração glomerular estimada (TFGe) determinada pela creatinina sérica,
+a partir da equação CKD-EPI.
+Para rastreamento da neuropatia diabética, os melhores testes são o biotesiômetro e a
+sensibilidade térmica. Já, para o diagnóstico definitivo da NPD, a SBD recomenda o Escore de
+Comprometimento Neuropático (ECN). Entretanto, o uso do monofilamento de 10 g deve ser
+utilizado com cautela para o rastreio da neuropatia precoce em razão de sua baixa sensibilidade,
+porém pode ser considerado para triagem do pé diabético (pé em risco de úlcera).
+Referências:
+João Roberto Sá, Luis Henrique Canani, Érika Bevilaqua Rangel, Andrea Carla Bauer, Gustavo
+Monteiro Escott, Themis Zelmanovitz, Sandra Pinho Silveiro, Carolina de Castro Rocha Betônico,
+Márcio Weissheimer Lauria, Rodrigo Nunes Lamounier, Thyago Proença de Moraes. Avaliação e
+tratamento da doença renal do diabetes tipo 2. Diretriz Oficial da Sociedade Brasileira de Diabetes
+(2024). DOI: 10.29327/5412848.2024-6, ISBN: 978-65-272-0704-7.
+Malerbi F, Andrade R, Morales P, Travassos S, Rodacki M, Bertoluci M. Manejo da retinopatia
+diabética. Diretriz Oficial da Sociedade Brasileira de Diabetes (2023). DOI: 10.29327/557753.202217, ISBN: 978-85-5722-906-8.
+Rolim L, Thyssen P, Flumignan R, Andrade D, Dib S, Bertoluci M. Diagnóstico e tratamento da
+neuropatia periférica diabética.
+Diretriz Oficial da Sociedade Brasileira de Diabetes (2023). DOI: 10.29327/557753.2022-14, ISBN:
+978-85-5722-906-8.
+
+000156.420014.bc4405.434d96.8afab0.92ab30.e497a3.b6d4d
+
+Pgina 43 de 43
+
+

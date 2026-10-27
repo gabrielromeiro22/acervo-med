@@ -1,0 +1,3066 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Estágio Curricular em Urgências e Emergências e
+Saúde Mental
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 26/08/2025
+
+N2 INTERNATO - MEDICINA - UESM - 2025.2 - ROT 1 - 26/AGOSTO - 12
+TEMAS
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16962 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+141859
+
+Tipo da questão:
+
+Múltipla Escolha
+
+acervo.top / acervotop.com
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FACIMPA) Homem, 72 anos, tabagista de longa data, alta carga tabágica, portador de DPOC
+GOLD IV, é admitido na sala de emergência com queixa de dispneia progressiva, sonolência e
+confusão mental (Glasgow 14) há 1 dia. Está em uso domiciliar de O₂ contínuo. No exame físico:
+FR 10 irpm, uso de musculatura acessória, SpO₂ 91% com O₂ a 5 L/min, ausculta com roncos
+difusos e murmúrio vesicular diminuído, mantendo via aérea protegida, sem vômitos/aspiração,
+hemodinamicamente estável. Gasometria arterial coletada em ar ambiente: pH: 7,28; PaO₂: 58
+mmHg; PaCO₂: 66 mmHg; HCO₃⁻: 29 mEq/L; SatO₂: 88%.
+Considerando o quadro clínico e os achados gasométricos do paciente, qual deve ser a conduta
+inicial mais adequada?
+Alternativas:
+(alternativa A) (CORRETA)
+Manter suporte ventilatório com VNI (BIPAP), iniciando FiO₂ ajustada para manter SatO₂ entre
+88–92%, e reavaliar em até 1 hora.
+(alternativa B)
+Iniciar oxigenoterapia com FiO₂ de 100% por máscara não reinalante e observar resposta clínica
+e gasométrica nas primeiras duas horas.
+(alternativa C)
+Realizar intubação orotraqueal imediata, devido ao risco de acidose respiratória descompensada
+e rebaixamento do nível de consciência.
+(alternativa D)
+Suspender imediatamente o oxigênio, devido à hipercapnia, mantendo apenas suporte clínico com
+broncodilatadores e hidratação venosa.
+
+Grau de dificuldade:
+
+Médio
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 1 de 75
+
+Resposta comentada:
+Gabarito oficial: "Manter suporte ventilatório com VNI (BIPAP), iniciando FiO₂ ajustada para
+manter SatO₂ entre 88–92%, e reavaliar em até 1 hora".
+Interpretação do caso: Trata-se de paciente DPOC GOLD IV, oxigenodependente, tabagista,
+quadro agudo de dispneia + sonolência/confusão, exame físico: FR baixa (10 irpm →
+hipoventilação), uso de musculatura acessória, SpO₂ 91% com O₂ suplementar, murmúrio
+diminuído, roncos difusos. Glasgow 14. Gasometria (ar ambiente): pH: 7,28 → acidose; PaCO₂:
+66 mmHg → hipercapnia; HCO₃⁻: 29 mEq/L → aumento (compensação renal crônica → acidose
+respiratória crônica); PaO₂: 58 mmHg → hipoxemia; SatO₂: 88%; Conclusão gasométrica:
+acidose respiratória agudizada sobre quadro crônico, com retenção de CO₂ e hipoxemia.
+Raciocínio clínico: DPOC grave + acidose respiratória descompensada não é indicação
+automática de IOT se o paciente está hemodinamicamente estável + mantém via aérea protegida
++ nível de consciência ainda preserva proteção. A VNI (BIPAP) é a intervenção inicial de escolha
+em exacerbação hipercápnica de DPOC, pois reduz trabalho respiratório, melhora troca gasosa,
+reduz mortalidade e necessidade de intubação.
+Análise das alternativas:
+Iniciar oxigenoterapia com FiO₂ 100% por máscara não reinalante: Incorreta. FiO₂ alta em
+paciente com DPOC grave pode piorar a retenção de CO₂ por alterar a relação V/Q e reduzir o
+estímulo ventilatório. Diretrizes recomendam alvo de SatO₂ 88–92%, não hiperóxia.
+Intubação orotraqueal imediata: Incorreta. Indicação de IOT na exacerbação da DPOC: falha de
+VNI, instabilidade hemodinâmica grave, incapacidade de proteger via aérea, coma hipercápnico
+profundo (Glasgow < ou igual a 8). Aqui, o paciente está confuso, mas não comatoso, com via
+aérea protegida e estável. Melhor tentar VNI antes.
+Manter suporte ventilatório com VNI (BIPAP), FiO₂ ajustada para SatO₂ 88–92%: Correta.
+Conduta de escolha segundo GOLD 2025 e ERS/ATS 2020. Permite correção da hipoventilação e
+melhora da hipoxemia controlada. Reavaliação em até 1 hora é fundamental — se piorar,
+considerar IOT.
+Suspender imediatamente o oxigênio: Incorreta. Suspender totalmente levaria à piora da
+hipoxemia (PaO₂ 58 mmHg), risco de hipóxia tecidual. O correto é manter O₂ titulado para alvo
+88–92%.
+Referências:
+GLOBAL INITIATIVE FOR CHRONIC OBSTRUCTIVE LUNG DISEASE – GOLD. Global
+strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease:
+2025 report. [S. l.]: GOLD, 2025. Disponível em: https://goldcopd.org/2025-gold-report/. Acesso
+em: 10 ago. 2025.
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024
+Araújo, M.S.; Silva, J.C.; Souza, R.R.; et al. (2024). Orientações Práticas em Ventilação
+Mecânica: Uma Abordagem Baseada em Evidências. AMIB/SBPT. Disponível em:
+https://d1xe7tfg0uwul9.cloudfront.net/amib-portal/wpcontent/uploads/2024/09/18120131/Orientacoes-Praticas-de-Ventilacao-Mecanica-Interativo-SET17.pdf. Acesso em: 18 ago. 2025.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 2 de 75
+
+Filtros da questão:
+
+[Tema]
+Insuficiência respiratória (tipo I – hipoxêmica / tipo II –
+hipercápnica/mista)
+[Subáreas de Conhecimento]
+Emergências clínicas
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+[Habilidades]
+Reconhecer os sinais clínicos e parâmetros laboratoriais da
+insuficiência respiratória aguda, diferenciando os tipos I e II.
+[Competências (Objetivos)]
+Cuidados paliativos
+
+2ª QUESTÃO
+Código da questão:
+
+141278
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNINOVAFAPI) Homem de 72 anos, com histórico de hipertensão e insuficiência cardíaca, é
+internado por quadro de descompensação clínica com hipotensão, edema periférico e redução do
+débito urinário nas últimas 24 horas. Exames laboratoriais mostram ureia de 98 mg/dL, creatinina
+de 2,3 mg/dL (basal de 1,1 mg/dL), sódio urinário de 12 mEq/L, osmolaridade urinária de 520
+mOsm/kg e relação ureia/creatinina > 40:1. EAS sem alterações significativas.
+Com base nos dados clínicos e laboratoriais, qual é a etiologia mais provável da lesão renal
+aguda?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 3 de 75
+
+Alternativas:
+(alternativa A)
+LRA de causa pós-renal (obstrução urinária bilateral).
+(alternativa B)
+LRA por glomerulonefrite aguda difusa.
+(alternativa C)
+LRA de causa renal (necrose tubular aguda).
+(alternativa D) (CORRETA)
+LRA de causa pré-renal (hipoperfusão renal).
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Comentário das alternativas:
+Alternativa correta: O quadro clínico associado à hipotensão, débito urinário reduzido e
+marcadores laboratoriais como baixo sódio urinário e alta osmolaridade urinária são típicos de
+lesão renal aguda pré-renal. A elevação da ureia de forma desproporcional em relação à creatinina
+reforça essa hipótese.
+Necrose tubular aguda: Geralmente associada a insultos mais prolongados e caracterizada por
+sódio urinário elevado (> 40 mEq/L) e osmolaridade urinária baixa (< 350 mOsm/kg), o que não
+corresponde aos achados laboratoriais do caso.
+Obstrução urinária (pós-renal): Embora possa cursar com oligúria, é frequentemente
+acompanhada por sinais de distensão vesical e alterações ao exame físico ou ultrassonografia,
+ausentes neste cenário.
+Glomerulonefrite aguda: Manifesta-se com hematúria, proteinúria e cilindros hemáticos, além de
+síndrome nefrítica clássica, o que não está presente neste caso.
+Referência:
+NETO, Rodrigo Antonio B.; SOUZA, Heraldo Possolo de; MARINO, Lucas O.; et al. Medicina de
+emergência: abordagem prática. São Paulo – SP: Editora Manole, 2023. E-book. ISBN
+9788520464380. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464380/. Acesso em: 25 abr. 2024. Cap.
+20, p. 627–635.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 4 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Tema]
+Lesão renal aguda (pré-renal, renal e pós-renal)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNINOVAFAPI
+[Habilidades]
+Reconhecer os sinais clínicos e alterações laboratoriais sugestivas
+de lesão renal aguda (LRA), diferenciando suas etiologias.
+[Competências (Objetivos)]
+Cuidados paliativos
+3ª QUESTÃO
+
+Código da questão:
+
+141801
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(ITPAC Porto Nacional) Um agricultor de 45 anos é trazido ao pronto-socorro por familiares após
+ser encontrado confuso, extremamente sudoreico, apresentando vômitos, dor abdominal e
+dificuldade respiratória. No exame físico, observa-se: PA: 100/70 mmHg, FC: 49 bpm, FR: 28
+rpm, SatO₂: 88% em ar ambiente. Ausculta respiratória com creptos difusos. Pupilas mióticas,
+sialorreia intensa, fasciculações musculares generalizadas.
+Com base no quadro clínico apresentado, qual é a síndrome tóxica e a conduta imediata mais
+adequada?
+Alternativas:
+(alternativa A) (CORRETA)
+Síndrome anticolinesterásica. Tratamento proposto: Atropina 2-5 mg IV.
+(alternativa B)
+Síndrome adrenérgica. Tratamento proposto: Midazolam 5mg IV.
+(alternativa C)
+Síndrome anticolinérgica. Tratamento proposto: Fisostigmina 0,02 mg/kg IV.
+(alternativa D)
+Síndrome simpaticomimética. Tratamento proposto: Propranolol 1 mg/kg IV.
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 5 de 75
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+"Síndrome anticolinérgica. Tratamento proposto: Fisostigmina 0,02 mg/kg IV." Errado.
+Anticolinérgicos causam midríase, pele seca, taquicardia e delirium (oposto do caso). Pode ser
+causada pelo uso de antidepressivos tricíclicos, antipsicóticos, anti-histamínicos,
+antiespasmódicos. Fisostigmina é contraindicada em intoxicação por organofosforados (risco de
+crise colinérgica grave).
+"Síndrome adrenérgica. Tratamento proposto: Midazolam 5mg IV." Errado. Síndrome adrenérgica
+cursa com taquicardia, hipertensão, hipertermia, hiperreflexia, sudorese excessiva, midríase,
+cefaleia, náuseas, vômitos e hipersecretividade. Causada mais comumente por abuso de
+substâncias como anfetaminas. No contexto do caso clínico, paciente agricultor nos faz ter um
+raciocínio voltado para organofosforados, além disso, síndrome adrenérgica cursa com midríase,
+enquanto o paciente está miótico.
+"Síndrome anticolinesterásica. Tratamento proposto: Atropina 2-5 mg IV." Correta. Casos típicos
+de intoxicação por organofosforados apresentam sintomas como salivação, lacrimejamento,
+diarreia, fasciculações, bradicardia, broncorreia, miose. O tratamento inicial é com atropina para
+antagonizar os efeitos muscarínicos, podendo-se associar pralidoxima para regenerar a
+acetilcolinesterase.
+"Síndrome simpaticomimética. Tratamento proposto: Propranolol 1 mg/kg IV." Errado. Síndrome
+simpaticomimética causa taquicardia, hipertensão, hipertermia, Hiper-reflexia, sudorese
+excessiva, midríase, cefaleia, náuseas, vômitos e hipersecretividade. Não é o caso do paciente
+em questão. Além disso, o uso de betabloqueadores é perigoso em bradicardia por piorar o
+choque colinérgico, bem como ser contraindicados também nos quadros de síndrome
+adrenérgica / simpaticomimética.
+Referências:
+NETO, Rodrigo Antonio B.; SOUZA, Heraldo Possolo de; MARINO, Lucas O.; et al. Medicina de
+emergência: abordagem prática. São Paulo – SP - Editora Manole, 2023. E- book. ISBN
+9788520464380. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464380/. Acesso em: 25
+abr. 2024.
+MARTINS, Mílton de Arruda et al (ed.). Clínica médica [recurso eletrônico]: doenças
+cardiovasculares, doenças respiratórias, emergências e terapia intensiva. 2. ed. São Paulo:
+Manole, 2016. v. 2. Disponível
+em:https://integrada.minhabiblioteca.com.br/#/books/9788520447727. Acesso em: 05 fev. 2024.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 6 de 75
+
+Filtros da questão:
+
+[Tema]
+Intoxicações exógenas agudas
+[Subáreas de Conhecimento]
+Transtornos por uso de substâncias (TUS)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+ITPAC PORTO NACIONAL
+[Habilidades]
+Reconhecer os principais sinais e sintomas clínicos associados às
+intoxicações exógenas agudas, correlacionando com o agente
+envolvido.
+4ª QUESTÃO
+
+Código da questão:
+
+141601
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(IESVAP) Paciente, 32 anos, sexo feminino, comparece ao Ambulatório de Psiquiatria, com
+queixa de inicio insidioso de tristeza persistente há 3 meses, acompanhada de perda de interesse
+por atividades habituais, fadiga constante, dificuldade de concentração, insônia e sentimento de
+culpa e desesperança. Durante a avaliação dessa paciente, deve ser realizado o Exame do
+Estado Mental (EEM) detalhado. Qual das alternativas descreve corretamente um componente do
+EEM e sua forma de avaliação?
+Alternativas:
+(alternativa A) (CORRETA)
+Pensamento (processo e conteúdo) – O processo do pensamento refere-se à organização lógica
+e coerente do discurso, enquanto o conteúdo abrange ideias delirantes, obsessivas ou temores
+irracionais.
+(alternativa B)
+Humor e afeto – O humor é determinado exclusivamente pela observação do examinador,
+enquanto o afeto é descrito subjetivamente pelo paciente.
+(alternativa C)
+Aparência e comportamento – Avaliado com base apenas no conteúdo verbal relatado pelo
+paciente durante a entrevista clínica.
+(alternativa D)
+Sensorium e cognição – Investigam orientação, atenção, memória e julgamento, sendo utilizados
+apenas em quadros com queixa cognitiva.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 7 de 75
+
+Resposta comentada:
+Resposta correta:
+Justificativa:
+"Aparência e comportamento – Avaliado com base apenas no conteúdo verbal relatado pelo
+paciente durante a entrevista clínica." (incorreta): A avaliação da aparência e comportamento é
+feita pela observação direta do examinador, e não com base apenas no relato verbal do paciente.
+Inclui postura, vestimenta, higiene, contato visual, entre outros.
+"Humor e afeto – O humor é determinado exclusivamente pela observação do examinador,
+enquanto o afeto é descrito subjetivamente pelo paciente." (incorreta): O humor é a experiência
+emocional subjetiva do paciente (avaliado pelo relato verbal), enquanto o afeto é a expressão
+emocional observada pelo examinador (amplitude, congruência, reatividade). A alternativa inverte
+os conceitos.
+"Sensorium e cognição – Investigam orientação, atenção, memória e julgamento, sendo utilizados
+apenas em quadros com queixa cognitiva." (incorreta): O sensorium e cognição são avaliados em
+todos os pacientes, não apenas na presença de queixas cognitivas. Aspectos como atenção,
+orientação temporal e espacial, memória imediata e julgamento são fundamentais na avaliação
+básica.
+"Pensamento (processo e conteúdo) – O processo do pensamento refere-se à organização lógica
+e coerente do discurso, enquanto o conteúdo abrange ideias delirantes, obsessivas ou temores
+irracionais." (correta): O EEM diferencia o processo do pensamento (como o indivíduo organiza e
+expressa suas ideias – lógica, coerência, tangencialidade, fuga de ideias, bloqueios, etc.) e o
+conteúdo do pensamento (temas ou ideias presentes, como delírios, obsessões, ideação
+paranoide, etc.). É uma distinção fundamental na prática psiquiátrica.
+Referência:
+SADOCK, B. J.; SADOCK, V. A.; RUIZ, P. Compêndio de Psiquiatria: Ciência do Comportamento
+e Psiquiatria Clínica. 11ª ed. Porto Alegre: Artmed, 2017.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 8 de 75
+
+Filtros da questão:
+
+[Tema]
+Psicopatologia e exame do estado mental – principais conceitos de
+psicopatologia, exame do estado mental, incluindo as
+manifestações clínicas nas principais desordens (esquizofrenia,
+transtornos afetivos e transtornos de ansiedade)
+[Subáreas de Conhecimento]
+Psicopatologia e Exame Mental
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+IESVAP
+[Habilidades]
+Reconhecer a importância da escuta qualificada e do vínculo
+terapêutico, fortalecendo a avaliação psicopatológica em contextos
+agudos ou crônicos.
+5ª QUESTÃO
+
+Código da questão:
+
+142008
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Itabuna) Em um atendimento ambulatorial, uma paciente de 65 anos, com histórico de
+hipertensão controlada e queixa de tristeza persistente, apatia, insônia e perda de interesse, é
+diagnosticada com episódio depressivo maior. Ao considerar a introdução de um antidepressivo,
+o médico opta por evitar medicamentos com efeitos anticolinérgicos marcantes e impacto
+cardiovascular, priorizando um fármaco com bom perfil de segurança e tolerabilidade para a faixa
+etária. Qual das opções a seguir representa a escolha mais segura nesse contexto clínico?
+Alternativas:
+(alternativa A)
+Amitriptilina, por seu efeito sedativo e eficácia em idosos com insônia associada.
+(alternativa B)
+Clomipramina, por ser eficaz em depressão e transtornos ansiosos associados.
+(alternativa C)
+Imipramina, por ser eficaz na depressão e ter ação rápida mesmo em idosos.
+(alternativa D) (CORRETA)
+Sertralina, por seu baixo risco cardiovascular e perfil favorável em idosos.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 9 de 75
+
+Resposta comentada:
+Correta: Sertralina é um inibidor seletivo da recaptação de serotonina (ISRS) com boa
+tolerabilidade em idosos, baixo risco anticolinérgico e mínimo impacto cardiovascular, sendo
+frequentemente recomendado como primeira linha em atenção primária e ambulatórios de saúde
+mental.
+Amitriptilina, imipramina e clomipramina são antidepressivos tricíclicos (ATCs), eficazes, mas
+com alto potencial de efeitos adversos em idosos, como:
+Efeitos anticolinérgicos (boca seca, retenção urinária, constipação);
+Risco de hipotensão ortostática e arritmias;
+Maior sedação e risco de quedas.
+Incorreta: Amitriptilina: não recomendada para idosos devido ao alto risco anticolinérgico e
+sedativo.
+Incorreta: Imipramina: eficaz, mas potencial cardiotóxico e anticolinérgico elevado.
+Incorreta: Clomipramina: usada em TOC e depressão, mas também com efeitos adversos
+significativos em idosos.
+Referências:
+BRASIL. Ministério da Saúde. Caderno de Atenção Básica nº 31: Saúde Mental. Brasília: MS,
+2013.
+STAHL, Stephen M. Psicofarmacologia: bases neurocientíficas e aplicações práticas. 5. ed.
+Guanabara Koogan, 2022.
+GOODMAN & GILMAN. As Bases Farmacológicas da Terapêutica. 14. ed. Rio de Janeiro:
+McGraw-Hill, 2018.
+SADOCK, Benjamin J.; SADOCK, Virginia A.; RUIZ, Pedro. Compêndio de Psiquiatria: Ciência do
+Comportamento e Psiquiatria Clínica. Artmed Editora, 2016. E-book.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 10 de 75
+
+Filtros da questão:
+
+[Tema]
+Psicofarmacologia – antidepressivos (tricíclicos, inibidores da
+MAO, atípicos, moduladores de serotonina, inibidores seletivos de
+recaptação de serotonina)
+[Subáreas de Conhecimento]
+Psicofarmacologia (antidepressivos)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ITABUNA
+[Habilidades]
+Compreender a farmacocinética e os efeitos adversos dos
+antidepressivos mais utilizados, relacionando com o perfil do
+paciente.
+[Competências (Objetivos)]
+Emergências em psiquiatria
+6ª QUESTÃO
+
+Código da questão:
+
+141858
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FACIMPA) Paciente do sexo masculino, 59 anos, com antecedentes de DRC estágio 4 e DM2,
+está internado na UTI por sepse de origem pulmonar. No 3º dia de internação, evolui com
+rebaixamento do nível de consciência (Glasgow 12), taquipneia (FR 26 irpm), PA 100x60 mmHg e
+SpO₂ 95% em O₂ a 3 L/min. Glicemia capilar: 146 mg/dL. Exames laboratoriais: pH: 7,1; PaCO₂:
+22 mmHg; HCO₃⁻: 8 mEq/L; BE: –20 mEq/L; Na⁺: 136 mEq/L; K⁺: 5,2 mEq/L; Cl⁻: 102 mEq/L;
+Lactato: 7,1 mmol/L. Ureia 182 mg/dL. Creatinina 4,2 mg/dL.
+Diante desse quadro clínico e dos achados laboratoriais, qual é a conduta adequada em relação
+ao distúrbio ácido-básico?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 11 de 75
+
+Alternativas:
+(alternativa A)
+Corrigir primeiramente a hiperventilação com sedação e suporte ventilatório, uma vez que a
+alcalose respiratória secundária agrava o distúrbio de base.
+(alternativa B) (CORRETA)
+Está indicada reposição venosa de bicarbonato de sódio em infusão lenta, com monitorização
+clínica-laboratorial rigorosa.
+(alternativa C)
+Não está indicada reposição de bicarbonato de sódio, uma vez que este pode aumentar risco de
+hipervolemia, hipernatremia e hipocalcemia.
+(alternativa D)
+Administrar solução salina hipertônica associada à insulina para correção do potássio e acidose
+metabólica, visto que há hipocalemia oculta por desvio extracelular.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 12 de 75
+
+Resposta comentada:
+Gabarito oficial: "Está indicada reposição venosa de bicarbonato de sódio em infusão lenta, com
+monitorização clínica-laboratorial rigorosa".
+Trata-se de um quadro de acidose metabólica grave com hiato aniônico elevado (AG = 136 − 102
+− 8 = 26 mEq/L) por lactato 7,1 mmol/L (secundário à sepse). A hiperventilação (PaCO₂ 22
+mmHg) é compensatória (fórmula de Winter: 1,5 × 8 + 8 = 20 ± 2 → compatível).
+Alternativa por alternativa:
+“Não está indicada reposição de bicarbonato…” – Incorreta. Riscos existem (hipernatremia,
+hipocalcemia, sobrecarga volêmica), mas não contraindicam o uso quando há acidemia grave. No
+BICAR-ICU (pH ≤7,20; HCO₃⁻ ≤20), o bicarbonato não melhorou o desfecho primário no
+conjunto, mas reduziu mortalidade, falência orgânica e necessidade de diálise no subgrupo com
+AKI moderada/grave (AKIN 2–3), além de corrigir melhor o pH; eventos adversos foram mais
+frequentes, porém não graves.
+“Corrigir primeiro a hiperventilação…” – Incorreta. A PaCO₂ baixa é resposta compensatória da
+acidose. Sedar/paralisar e “corrigir” a hiperventilação elevaria a PaCO₂ e pioraria o pH.
+“Reposição venosa de bicarbonato em infusão lenta…” – Correta. Com pH 7,12 e HCO₃⁻ 8, há
+indicação de bicarbonato EV como terapia adjuvante enquanto se trata a causa (sepse) e se
+avalia TRS. O estudo BICAR-ICU utilizou bicarbonato 4,2% em bolos de 125 – 250 mL em 30
+min, repetidos para alvo de pH ≥ 7,30, com monitorização estreita (gasometrias seriadas, Na⁺,
+Ca²⁺, balanço/volume; atenção ao CO₂ gerado). Benefício clínico foi mais claro em pacientes
+com AKI moderada/grave, com menos diálise e menor mortalidade nesse subgrupo. Obs.: o
+estudo excluiu DRC estágio IV puro; ainda assim, a prática usual aceita bicarbonato em acidemia
+muito grave ou AKI/AKI-on-CKD, com vigilância rigorosa.
+“SF hipertônica + insulina por hipocalemia oculta…” – Incorreta.
+Não há “hipocalemia oculta”: o K⁺ está 5,2 (leve hipercalemia pela acidemia). SF hipertônica não
+trata acidose láctica; insulina é reservada para hipercalemia significativa (≥ 6,0 ou com ECG).
+Conclusão: Iniciar bicarbonato EV (4,2% em doses fracionadas), com monitorização clínica e
+laboratorial rigorosa, enquanto se corrige a causa (sepse) e se avalia TRS conforme critérios. O
+BICAR-ICU respalda essa estratégia em acidemia grave, sobretudo quando há insuficiência renal
+aguda moderada a grave.
+Referências:
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP] : Manole, 2024.
+JABER, S. et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the
+intensive care unit (BICAR-ICU): a multicentre, open-label, randomised controlled, phase 3 trial.
+The Lancet, [s. l.], v. 392, n. 10141, p. 31-40, 2018. DOI: https://doi.org/10.1016/S01406736(18)31080-8.
+Medicina intensiva: revisão rápida / editores Bruno Adler Maccagnan Pinheiro Besen, Antonio
+Paulo Nassar Junior, Luciano César Pontes de Azevedo. - 2. ed. - Santana de Parnaíba [SP]:
+Manole, 2023.
+
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 13 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Emergências
+[Tema]
+Distúrbios do equilíbrio ácido-básico
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+[Habilidades]
+Indicar a correção dos distúrbios com medidas específicas,
+respeitando limites de segurança e reversão da causa base.
+[Competências (Objetivos)]
+Emergências metabólicas
+7ª QUESTÃO
+
+Código da questão:
+
+141675
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDEP) No atendimento em sala de emergência, a identificação rápida de risco iminente é
+fundamental para garantir a segurança do paciente e da equipe. Qual dos sinais ou sintomas
+abaixo indica maior risco de comportamento suicida ou agressivo e demanda intervenção
+imediata?
+Alternativas:
+(alternativa A)
+Ideação delirante de grandiosidade, com pensamento desorganizado, mas sem comportamento
+agressivo.
+(alternativa B) (CORRETA)
+Agitação psicomotora, discurso desorganizado, ameaça verbal de suicídio, com plano detalhado e
+acesso a meios letais.
+(alternativa C)
+Presença de rebaixamento do nível de consciência, pupilas contraídas e bradicardia, sem
+agressividade aparente.
+(alternativa D)
+Manifestação de humor eufórico, loquacidade e aumento da autoestima, sem a presença de
+sinais de agressividade.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 14 de 75
+
+Resposta comentada:
+Correta:
+- Agitação psicomotora, discurso desorganizado, ameaça verbal de suicídio, com plano detalhado
+e acesso a meios letais. - Comentário: São sinais clássicos de risco iminente em urgências
+psiquiátricas: agitação psicomotora, discurso sem organização e, principalmente, uma ameaça
+verbal de suicídio acompanhada de plano detalhado e acesso a meios letais. Esses fatores
+indicam necessidade de intervenção imediata para proteção do paciente e dos outros, pois existe
+risco elevado de autoextermínio.
+Incorretas:
+- Humor eufórico e loquacidade – Comentário: Sintoma sem evidência direta e iminente de risco
+para si ou para terceiros.
+- Ideação delirante de grandiosidade, sem sinais de auto ou heteroagressividade – Comentário:
+Geralmente não vêm acompanhados de risco iminente.
+- Rebaixamento do nível de consciência, pupilas contraídas, bradicardia – Comentário: Indica
+urgência clínica, não especificamente psiquiátrica.
+Referências:
+Portnoi, J. R., & Diehl, A. “Emergências Psiquiátricas.” In: Tratado de Psiquiatria, 4ª ed., Porto
+Alegre: Artmed, 2023.
+Tintinalli, J. E. Emergências em Psiquiatria. In: Tintinalli, J.E., et al. Medicina de Emergência, 8ª
+ed. Porto Alegre: AMGH, 2023.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Emergências em psiquiatria
+[Tema]
+Emergências em Psiquiatria (tentativa de autoextermínio, crise de
+ansiedade e surto psicótico)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIDEP
+[Habilidades]
+Reconhecer os sinais e sintomas de risco iminente nas urgências
+psiquiátricas, diferenciando comportamentos suicidas, crises
+ansiosas e surtos psicóticos.
+[Competências (Objetivos)]
+Emergências em psiquiatria
+8ª QUESTÃO
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 15 de 75
+
+Código da questão:
+
+141651
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNITPAC) Paciente de 84 anos, com diagnóstico de neoplasia avançada de pâncreas, sem
+possibilidade de cura, internado por piora do estado geral e recusa alimentar. A equipe médica
+considera que o quadro é de terminalidade. Um dos familiares solicita “tudo o que for possível”
+para prolongar a vida do paciente, incluindo nova internação em UTI.
+Diante desse cenário, qual conduta está eticamente mais adequada com base nos princípios do
+cuidado paliativo e do conceito de terminalidade?
+Alternativas:
+(alternativa A)
+Encaminhar o paciente para tratamento oncológico mais agressivo, já que ainda não houve
+falência de múltiplos órgãos e não se esgotaram todas as possibilidades terapêuticas.
+(alternativa B) (CORRETA)
+Focar em cuidados paliativos, explicando que intervenções desproporcionais são consideradas
+medidas fúteis (não benéficas) e não estão alinhadas ao objetivo de conforto.
+(alternativa C)
+Iniciar medidas de suporte intensivo, como ventilação mecânica e nutrição parenteral, por respeito
+à autonomia da família do paciente, uma vez que é direito deles.
+(alternativa D)
+Realizar exames diversos para esclarecimento diagnóstico, garantindo exaustão de
+possibilidades antes de definir terminalidade. Depois das confirmações, instituir medidas de
+conforto.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 16 de 75
+
+Resposta comentada:
+A alternativa correta: "Optar por cuidados paliativos, explicando que intervenções
+desproporcionais são consideradas medidas não benéficas e não estão alinhadas ao objetivo de
+conforto".
+Essa alternativa respeita os princípios fundamentais dos cuidados paliativos, especialmente os da
+proporcionalidade terapêutica, não maleficência e dignidade no fim de vida. Quando um paciente
+encontra-se em fase de terminalidade, como no caso de uma neoplasia avançada sem
+possibilidade de cura, o foco da assistência deve deixar de ser a cura e passar a ser o alívio do
+sofrimento, a qualidade de vida e o apoio integral à pessoa e à sua família. Nesse contexto,
+medidas invasivas e desproporcionais, como ventilação mecânica e internação em UTI,
+geralmente não oferecem benefício clínico real e tendem apenas a prolongar o processo de
+morrer, causando mais sofrimento físico e emocional. Ao optar pelos cuidados paliativos, a equipe
+reconhece os limites da medicina curativa e valoriza o direito do paciente a um final de vida mais
+confortável e humanizado.
+Análise das alternativas incorretas:
+Iniciar medidas de suporte intensivo, como ventilação mecânica e nutrição parenteral, por respeito
+à autonomia da família do paciente, uma vez que é direito deles: incorreta, pois, apesar do
+respeito à família ser importante, não se sobrepõe à boa prática médica e ao princípio da
+beneficência. Ventilação mecânica e nutrição parenteral em contexto de fim de vida não trazem
+benefício real, podendo apenas prolongar o sofrimento.
+Realizar exames diversos para esclarecimento diagnóstico, garantindo exaustão de
+possibilidades antes de definir terminalidade. Depois das confirmações, instituir medidas de
+conforto: incorreta, pois o conceito de terminalidade não exige exaustão de todos os recursos
+diagnósticos, mas sim reconhecimento do limite terapêutico. Exames muitas vezes só aumentam
+o sofrimento sem alterar a conduta. Em terminalidade reconhecida, exames sem impacto
+terapêutico postergam alívio e aumentam a iatrogenia.
+Encaminhar o paciente para tratamento oncológico mais agressivo, já que ainda não houve
+falência de múltiplos órgãos e não se esgotaram todas as possibilidades terapêuticas: incorreta,
+uma vez que a proposta de intensificar tratamento oncológico não é indicada em fase de
+terminalidade. Além de fútil, essa abordagem pode prolongar o processo de morte, ao invés de
+garantir uma morte digna e tranquila.
+Referências:
+BRASIL. Conselho Federal de Medicina. Resolução CFM nº 1.805/2006 – Define cuidados ao
+paciente em fase terminal. Brasília, 2006. Disponível em: https://portal.cfm.org.br. Acesso em: 31
+jul 2025.
+WORLD HEALTH ORGANIZATION. Palliative care: key facts. Geneva: WHO, 2020. Disponível
+em: https://www.who.int/news-room/fact-sheets/detail/palliative-care. Acesso em: 31 jul 2025.
+LIMA, L. D.; SILVA, M. J. P. Cuidados paliativos e terminalidade da vida: ética, comunicação e
+humanização. Revista Bioética, Brasília, v. 28, n. 1, p. 150–158, 2020. Disponível em:
+https://revistabioetica.cfm.org.br/index.php/revista_bioetica/article/view/2271. Acesso em: 18 ago.
+2025.
+PESSINI, L.; BARCHIFONTAINE, C. P. Bioética clínica: desafios éticos da prática clínica. São
+Paulo: Loyola, 2014.
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 17 de 75
+
+Feedback:
+A resolução da questão pede uma compreensão ética e humanística do cuidado em fim de vida,
+além de conhecimento dos princípios dos cuidados paliativos. É essencial saber reconhecer os
+limites da intervenção médica e priorizar medidas proporcionais que respeitem a dignidade do
+paciente. Também se exige habilidade para comunicar-se com a família de forma empática e
+clara, explicando as condutas com base em evidências e no melhor interesse do paciente. A
+tomada de decisão deve estar alinhada aos princípios da bioética, como beneficência, não
+maleficência e autonomia.
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cuidados paliativos
+[Tema]
+Cuidados paliativos e manejo da dor
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNITPAC
+[Habilidades]
+Interpretar o conceito de terminalidade, diferenciando entre
+tratamento fútil e conforto no fim da vida.
+[Competências (Objetivos)]
+Cuidados paliativos
+
+9ª QUESTÃO
+Código da questão:
+
+141999
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Cruzeiro do Sul) Ulisses, 8 anos de idade, portador de câncer gástrico metastático, sem
+proposta terapêutica cirúrgica curativa ou paliativa. Paciente com síndrome consumptiva
+avançada, internado há 5 dias para medidas de conforto, evolui com quadro de dor abdominal
+intensa refratária à analgesia potente. Familiares estão resistentes à discussão sobre cuidados
+proporcionais e terminalidade. Durante o estágio nessa enfermaria de oncologia pediátrica, seu
+preceptor pediu que você elaborasse a melhor abordagem para o caso?
+Diante das alternativas abaixo, qual é a melhor opção para condução dessa situação?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 18 de 75
+
+Alternativas:
+(alternativa A)
+Informar aos familiares a terminalidade do paciente e iniciar sedação paliativa profunda para
+conforto do paciente e controle de sintomas por decisão médica.
+(alternativa B) (CORRETA)
+Orientar sobre a possibilidade de confortar o paciente, explicar o objetivo da sedação paliativa e
+acompanhar o início do processo junto aos familiares.
+(alternativa C)
+Discutir com a equipe a suspensão de qualquer intervenção no paciente, ressaltando a negativa
+dos familiares em aceitar condutas proporcionais.
+(alternativa D)
+Informar à família que não há nenhuma intervenção possível, visto que as medicações mais
+potentes para dor foram ineficazes.
+
+Grau de dificuldade:
+
+Médio
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 19 de 75
+
+Resposta comentada:
+A sedação paliativa objetiva aliviar o sofrimento do paciente. Discutir com a equipe, familiares e
+paciente é essencial para proporcionar o melhor cuidado possível. A dor é um dos sintomas que
+leva à decisão de sedação paliativa que, no caso em questão, estaria bem indicada. A negativa da
+família em aceitar cuidados proporcionais, na maioria dos casos, está relacionada à má
+informação ou relação com a equipe médica, algo que a presença do médico e o detalhamento
+dos procedimentos tendem a resolver esse problema.
+Análise das alternativas incorretas:
+Informar aos familiares a terminalidade do paciente e iniciar sedação paliativa profunda para
+conforto do paciente e controle de sintomas por decisão médica: Problema ético/comunicacional:
+embora a sedação seja indicada para dor refratária, iniciar unilateralmente (“por decisão médica”)
+sem alinhamento/consentimento dos responsáveis é inadequado na pediatria (salvo extrema
+urgência, o que não foi descrito). Pode gerar complicações ético-legais por violar o processo de
+decisão compartilhada.
+Discutir com a equipe a suspensão de qualquer intervenção no paciente, ressaltando a negativa
+dos familiares em aceitar condutas proporcionais: Abandono terapêutico. A negativa de discutir
+não autoriza suspender medidas de conforto; devemos insistir em comunicação empática e
+oferecer sedação quando indicada.
+Informar à família que não há nenhuma intervenção possível, visto que as medicações mais
+potentes para dor foram ineficazes: Há sim intervenção possível e eficaz: sedação paliativa
+proporcional para dor refratária; além de ajustes analgésicos, bloqueios, etc.
+Orientar sobre a possibilidade de confortar o paciente, explicar o objetivo da sedação paliativa e
+acompanhar o início do processo junto aos familiares. Correta. Reflete decisão compartilhada:
+educar a família sobre o que é sedação (proporcional/profunda), sua finalidade e logística, obter
+consentimento e iniciar com a família presente/participando, mantendo analgesia e medidas de
+conforto.
+Referência:
+Cuidados paliativos na emergência / edição Irineu Tadeu Velasco, Sabrina Corrêa da Costa
+Ribeiro – 1. ed. – Barueri [SP]: Manole, 2021.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 20 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cuidados paliativos
+[Tema]
+Cuidados paliativos e manejo da dor
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA CRUZEIRO DO SUL
+[Habilidades]
+Realizar condutas de sedação paliativa e limitações terapêuticas,
+respeitando princípios bioéticos e autonomia do paciente.
+[Competências (Objetivos)]
+Cuidados paliativos
+
+10ª QUESTÃO
+Código da questão:
+
+141922
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Numa manhã de terça-feira, chega à sua ESF um paciente de 32 anos,
+diagnosticado com transtorno depressivo maior há 6 meses. Ele iniciou tratamento com
+escitalopram 10 mg/dia há 8 semanas, prescrito pelo psiquiatra. Durante a consulta, o paciente
+relata que tolerou bem o medicamento e percebeu alguma melhora nos sintomas depressivos nas
+primeiras semanas, mas agora se sente estagnado. Ele também menciona sentir cansaço
+excessivo e dificuldade para se concentrar. Exames laboratoriais de rotina estão normais.
+Considerando o caso, sobre a abordagem mais adequada para transtorno depressivo, é correto
+afirmar que deve-se:
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 21 de 75
+
+Alternativas:
+(alternativa A)
+introduzir mirtazapina junto com o escitalopram, aproveitando seus efeitos sedativos para
+melhorar o cansaço e aumentar o apetite, que pode estar relacionado à baixa energia.
+(alternativa B)
+manter a dose atual de escitalopram e adicionar bupropiona, um antidepressivo que pode ajudar a
+aliviar os sintomas de cansaço e dificuldade de concentração.
+(alternativa C)
+trocar o escitalopram por sertralina, pois o paciente não respondeu adequadamente após 8
+semanas e terá uma resposta melhor a outro inibidor seletivo da recaptação de serotonina (ISRS).
+(alternativa D) (CORRETA)
+aumentar a dose de escitalopram para 15 mg/dia, já que o paciente apresentou alguma resposta
+inicial ao tratamento, sugerindo que uma dose maior pode ser mais eficaz.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A resposta correta é aumentar a dose de escitalopram para 15 mg/dia porque o paciente tolerou
+bem o medicamento e teve resposta inicial ao tratamento (a dose máxima permitida seria até
+30mg). Logo, um ajuste de dose é a abordagem usual e segura para melhorar a eficácia do
+tratamento antes de considerar a adição de outros medicamentos ou a mudança para outro
+antidepressivo.
+Assertiva incorreta: Trocar o esquema terapêutico (por sertralina) não se justifica porque a dosealvo do medicamento em uso não foi atingida, o medicamento em uso segue bem tolerado e
+obteve efeito parcial, e toda troca de psicofármaco envolve adaptação, espera pelo efeito
+terapêutico e possível incidência de efeitos adversos.
+Assertivas incorretas: Adicionar outro psicofármaco (bupropiona ou mirtazapina) ao tratamento
+buscando potencialização não se justifica porque a dose-alvo do medicamento em uso não foi
+atingida, o medicamento em uso segue bem tolerado e obteve efeito parcial, e toda adição de
+psicofármaco novo medicamento ao esquema medicamentoso envolve adaptação, espera pelo
+efeito terapêutico e possível incidência de efeitos adversos do medicamento adicionado.
+Referências:
+BALDAÇARA, Leonardo; TUNG, Teng Chei. Condutas em psiquiatria. São Paulo: Manole, 2020.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/ 9786555763096. Acesso em: 25
+abr. 2024.
+SALLET, Paulo Clemente. Manual do residente de psiquiatria. São Paulo: Manole, 2023.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788520464649. Acesso em: 25
+abr. 2024.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 22 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Emergências em psiquiatria
+Psicofarmacologia (antidepressivos)
+[Tema]
+Psicofarmacologia – antidepressivos (tricíclicos, inibidores da
+MAO, atípicos, moduladores de serotonina, inibidores seletivos de
+recaptação de serotonina)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Habilidades]
+Avaliar sinais clínicos de resposta terapêutica e efeitos adversos,
+ajustando dose ou trocando a medicação antidepressiva quando
+necessário.
+[Competências (Objetivos)]
+Transtornos do humor
+11ª QUESTÃO
+
+Código da questão:
+
+141860
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FACIMPA) Paciente do sexo feminino, 38 anos, em acompanhamento na atenção primária por
+transtorno depressivo maior, faz uso regular de sertralina há cerca de 8 semanas. Refere melhora
+parcial dos sintomas, mas ainda apresenta insônia, falta de apetite e pensamentos pessimistas.
+Nega ideação suicida. Exame físico sem alterações, e o acompanhamento multiprofissional está
+ativo. Relata que, às vezes, esquece de tomar a medicação e sente "efeitos colaterais no
+estômago".
+Considerando o uso de antidepressivos em contexto ambulatorial, qual deve ser a conduta
+médica mais adequada frente ao caso descrito?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 23 de 75
+
+Alternativas:
+(alternativa A) (CORRETA)
+Reforçar a adesão ao tratamento, revisar efeitos colaterais, orientar quanto à continuidade da
+medicação e programar reavaliação.
+(alternativa B)
+Aumentar a dose da sertralina imediatamente para potencializar a resposta terapêutica.
+(alternativa C)
+Suspender a medicação, pois o tempo de uso já foi suficiente para avaliar resposta total ao
+tratamento.
+(alternativa D)
+Substituir por um antidepressivo tricíclico, como amitriptilina, devido à falha terapêutica precoce.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+"Aumentar a dose da sertralina imediatamente para potencializar a resposta terapêutica."
+Incorreta. Aumento precoce de dose sem avaliação de adesão e tempo terapêutico completo
+pode agravar efeitos colaterais e gerar abandono, com consequente piora do transtorno em pauta.
+"Substituir por um antidepressivo tricíclico, como amitriptilina, devido à falha terapêutica precoce."
+Incorreta. Os tricíclicos possuem maior perfil de efeitos adversos e não são a primeira escolha
+nesse contexto.
+"Reforçar a adesão ao tratamento, revisar efeitos colaterais, orientar quanto à continuidade da
+medicação e programar reavaliação." Correta. O caso descreve resposta parcial com adesão
+irregular. O ideal é reforçar adesão, manejar efeitos adversos leves e manter seguimento
+contínuo.
+"Suspender a medicação, pois o tempo de uso já foi suficiente para avaliar resposta total ao
+tratamento." Incorreta. O tempo mínimo de resposta plena pode variar até 12 semanas.
+Suspender agora seria precipitado.
+Referências:
+BRASIL. Ministério da Saúde. Caderno de Atenção Básica: Saúde Mental. Brasília: MS, 2013.
+DSM-5. Manual Diagnóstico e Estatístico de Transtornos Mentais. 5. ed. Porto Alegre: Artmed,
+2014.
+KAPLAN, H. I.; SADOCK, B. J.; SADOCK, V. A.; RUIZ, P. Transtornos Dissociativos. In:
+Compêndio de Psiquiatria: Ciência do Comportamento e Psiquiatria Clínica. 11. ed. Porto Alegre:
+Artmed, 2018. E-book
+NARDI, Antonio Egidio; DA SILVA, Antônio Geraldo; QUEVEDO, João. Tratado de psiquiatria da
+Associação Brasileira de Psiquiatria. Artmed Editora, 2021. E-book.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 24 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Emergências em psiquiatria
+[Tema]
+Psicofarmacologia – antidepressivos (tricíclicos, inibidores da
+MAO, atípicos, moduladores de serotonina, inibidores seletivos de
+recaptação de serotonina)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+[Habilidades]
+Avaliar a importância do seguimento longitudinal em pacientes em
+uso de antidepressivos, promovendo adesão e monitoramento
+seguro.
+[Competências (Objetivos)]
+Emergências em psiquiatria
+12ª QUESTÃO
+
+Código da questão:
+
+141842
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Ipatinga) Paciente masculino, 22 anos, estudante universitário, é levado à emergência
+psiquiátrica, pois há 6 meses seus pais notaram isolamento, abandono dos estudos e fala
+desorganizada. Nas últimas 3 semanas, houve piora com insônia, delírios persecutórios e
+alucinações auditivas de comando. Houve um incidente em via pública devido a uma "ameaça"
+imaginária. O jovem não aceita sua condição e recusa medicação. O exame psíquico revela
+humor indiferente, afeto embotado e pensamento desorganizado. Sem histórico de uso de
+substâncias. Após breve internação e melhora parcial dos sintomas agudos, o paciente mantém
+pouca crítica e resistência à medicação. A equipe considera alta, mas os pais estão apreensivos
+com a continuidade do tratamento e com a reinserção social e acadêmica.
+Diante do caso apresentado, qual a estratégia de cuidado mais abrangente a ser proposta após a
+alta hospitalar para garantir a continuidade do tratamento?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 25 de 75
+
+Alternativas:
+(alternativa A) (CORRETA)
+Encaminhar ao CAPS para Projeto Terapêutico Singular multidisciplinar com foco na adesão
+medicamentosa, psicoeducação familiar e reabilitação para reinserção acadêmica e social.
+(alternativa B)
+Propor alta com foco na prescrição de antipsicótico de depósito na UBS e retorno ambulatorial
+com intervalo de 6 meses, solicitando aos pais e familiares o monitoramento dos sintomas e da
+adesão.
+(alternativa C)
+Manter internação em enfermaria de longa permanência, avaliando alta conforme recuperação da
+crítica à condição e à aceitação do tratamento farmacológico com foco na remissão dos
+sintomas.
+(alternativa D)
+Priorizar terapia cognitivo-comportamental (TCC) com foco na reestruturação de delírios e manejo
+de alucinações, além da redução gradual do antipsicótico em um período de 2 meses após a alta.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+A melhor estratégia o encaminhamento para um Centro de Atenção Psicossocial (CAPS) pois
+oferece o Projeto Terapêutico Singular (PTS) e equipe multidisciplinar que garante medicação,
+apoio familiar e reabilitação psicossocial na comunidade.
+As demais opções são inadequadas porque:
+Alta com UBS/6 meses: Insuficiente suporte e acompanhamento muito espaçado.
+Internação prolongada: Contrária aos princípios da desinstitucionalização e prejudica a reinserção
+social.
+TCC/redução de medicação: Medicação é fundamental e a descontinuação precoce é de alto
+risco para recaídas.
+Referências:
+AMERICAN PSYCHIATRIC ASSOCIATION. Manual diagnóstico e estatístico de transtornos
+mentais: DSM-5-TR. 5. ed. Texto revisado. Porto Alegre: Artmed, 2023.
+SADOCK, Virginia Alcott; RUIZ, Pedro. Compêndio de psiquiatria: ciências comportamentais e
+psiquiatria clínica de Kaplan & Sadock. 12. ed. Porto Alegre: Artmed, 2022.
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações
+Programáticas Estratégicas. Cadernos de Saúde Mental: Política de Saúde Mental. Brasília, DF:
+Ministério da Saúde, 2013.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 26 de 75
+
+Filtros da questão:
+
+[Tema]
+Esquizofrenia e outros transtornos psicóticos (transtorno delirante,
+esquizoafetivo, psicótico)
+[Subáreas de Conhecimento]
+Esquizofrenia e outros transtornos psicóticos Esquizofrenia e
+outros transtornos psicóticos
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA IPATINGA
+[Habilidades]
+Realizar encaminhamentos e estratégias de cuidado contínuo e
+interdisciplinar, promovendo adesão ao tratamento e reinserção
+social.
+[Competências (Objetivos)]
+Emergências em psiquiatria
+13ª QUESTÃO
+
+Código da questão:
+
+141676
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDEP) Um paciente de 25 anos foi admitido no pronto-socorro após ingestão voluntária de
+grande quantidade de um composto químico. Ele apresenta bradicardia, miose, salivação
+excessiva, sudorese intensa, além de dificuldade respiratória. Baseando-se no exame físico, o
+quadro foi classificado como grave.
+Com base no quadro apresentado, assinale a alternativa correta sobre o mecanismo
+fisiopatológico, principais efeitos sistêmicos, diagnóstico e conduta clínica desta intoxicação
+aguda.
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 27 de 75
+
+Alternativas:
+(alternativa A)
+Trata-se de intoxicação por benzodiazepínicos, cursando com hipertensão arterial, convulsões e
+conduta baseada em diálise de urgência.
+(alternativa B) (CORRETA)
+Trata-se de intoxicação por organofosforados, que inibem a acetilcolinesterase, produzindo crise
+colinérgica, com manejo inicial baseado no uso de atropina e pralidoxima.
+(alternativa C)
+Trata-se de intoxicação por opiáceos, caracterizada por taquicardia, midríase, agitação
+psicomotora, sendo a naloxone o antídoto específico.
+(alternativa D)
+Trata-se de intoxicação por paracetamol, cujo principal efeito é a hepatotoxicidade, com manejo
+inicial baseado na administração de carvão ativado.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 28 de 75
+
+Resposta comentada:
+Análise da alternativa correta:
+- Trata-se de intoxicação por organofosforados, que inibem a acetilcolinesterase, produzindo crise
+colinérgica, com manejo inicial baseado no uso de atropina e pralidoxima. - Comentário: A
+síndrome colinérgica aguda, caracterizada por bradicardia, miose, hipersalivação, hiperhidrose e
+broncorreia, é típica das intoxicações por organofosforados. Estes compostos inibem
+irreversivelmente a acetilcolinesterase, levando ao acúmulo de acetilcolina nas sinapses, o que
+explica os sintomas muscarínicos e nicotínicos. O manejo clínico contempla estabilização das
+vias aéreas, administração de atropina (antagonista muscarínico), associada à pralidoxima
+(reativador da acetilcolinesterase), tratamento que deve ser iniciado precocemente para reduzir
+morbimortalidade.
+"Na intoxicação por organofosforados (OF) e carbamatos, os sintomas decorrem da inibição da
+acetilcolinesterase (síndrome colinérgica). A terapia específica consiste na administração de
+atropina endovenosa e deve ser realizada o mais cedo possível. A pralidoxima é indicada em
+pacientes com intoxicações por OF moderadas ou graves".
+Análise das alternativas incorretas:
+- Trata-se de intoxicação por paracetamol, cujo principal efeito é a hepatotoxicidade, com manejo
+inicial baseado na administração de carvão ativado. – Comentário: Intoxicação por paracetamol
+causa hepatotoxicidade sem sintomas colinérgicos.
+- Trata-se de intoxicação por opiáceos, caracterizada por taquicardia, midríase, agitação
+psicomotora, sendo a naloxone o antídoto específico. – Comentário: Intoxicação por opiáceos
+leva à depressão respiratória, miose e bradicardia, sendo naloxone o antídoto.
+- Trata-se de intoxicação por benzodiazepínicos, cursando com hipertensão arterial, convulsões e
+conduta baseada em diálise de urgência. – Comentário: Benzodiazepínicos raramente causam
+crise hipertensiva ou convulsões e raramente precisam de diálise.
+Referências:
+BRASIL. Ministério da Saúde. Manual de Toxicologia Clínica: orientações para assistência e
+vigilância das intoxicações agudas. Organizadores: Edna Maria Miello Hernandez, Roberto
+Moacyr. São Paulo: Prefeitura do Município de São Paulo, 2017.
+TINTINALLI, J. E. et al. Medicina de Emergência: abordagem prática. 18. ed. Porto Alegre:
+AMGH, 2022.
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 29 de 75
+
+Filtros da questão:
+
+[Tema]
+Intoxicações exógenas agudas
+[Subáreas de Conhecimento]
+Emergências clínicas
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIDEP
+[Habilidades]
+Compreender os mecanismos fisiopatológicos das intoxicações,
+relacionando com os efeitos sistêmicos predominantes.
+[Competências (Objetivos)]
+Emergências em psiquiatria
+14ª QUESTÃO
+
+Código da questão:
+
+141330
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 30 de 75
+
+Enunciado:
+(UNIPTAN) Homem de 25 anos é trazido pela mãe à unidade básica de saúde devido a
+mudanças comportamentais importantes nos últimos 9 meses. Segundo o relato familiar, o
+paciente passou a se isolar em casa, abandonou os estudos e evita interações sociais. Fala
+sozinho, apresenta risos imotivados e, frequentemente, comenta que escuta vozes que falam
+dele. Refere que acredita que os vizinhos estão controlando seus pensamentos por meio da
+televisão. A mãe nega uso de substâncias psicoativas. O exame clínico e neurológico não
+apresenta alterações. Durante a entrevista, o paciente mantém pouco contato visual, fala de
+forma desorganizada e tem expressão facial reduzida.
+Com base no caso apresentado, analise as afirmativas a seguir:
+I. A presença de alucinações auditivas e delírios persecutórios sugere sintomas positivos do
+transtorno psicótico.
+II. A redução da expressão facial e o isolamento social são considerados sintomas negativos da
+esquizofrenia.
+III. A ausência de uso de drogas e de sintomas de euforia ajuda a diferenciar este caso de psicose
+induzida por substâncias ou transtorno bipolar.
+IV. O diagnóstico é confirmado apenas após exclusão de causas clínicas e neurológicas, e exige
+obrigatoriamente internação hospitalar.
+V. O seguimento em serviços de atenção psicossocial, como CAPS, é recomendado para
+manejo integral e contínuo do paciente.
+Com base no caso clínico e nas afirmativas acima, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Apenas as afirmativas II, IV e V estão corretas.
+(alternativa B) (CORRETA)
+Apenas as afirmativas I, II, III e V estão corretas.
+(alternativa C)
+Apenas as afirmativas I, II e IV estão corretas.
+(alternativa D)
+Apenas as afirmativas I, III e V estão corretas.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 31 de 75
+
+Resposta comentada:
+Afirmativa I – Correta. Alucinações auditivas e delírios persecutórios fazem parte dos sintomas
+positivos da esquizofrenia.
+Afirmativa II – Correta. Isolamento social, embotamento afetivo e redução da expressividade são
+sintomas negativos típicos.
+Afirmativa III – Correta. A ausência de substâncias e sintomas afetivos ajuda a afastar outras
+possíveis condições com sintomas psicóticos, como psicose induzida por substâncias ou
+transtorno bipolar.
+Afirmativa IV – Incorreta. O diagnóstico não exige obrigatoriamente internação hospitalar; muitas
+vezes é feito em ambiente ambulatorial.
+Afirmativa V – Correta. CAPS é indicado para acompanhamento contínuo de pacientes com
+transtornos psicóticos.
+Referência:
+AMERICAN PSYCHIATRIC ASSOCIATION. Manual diagnóstico e estatístico de transtornos
+mentais: DSM-5-TR. 5. ed. rev. e ampl. Porto Alegre: Artmed, 2023.
+Feedback:
+-Filtros da questão:
+
+[Tema]
+Esquizofrenia e outros transtornos psicóticos (transtorno delirante,
+esquizoafetivo, psicótico)
+[Subáreas de Conhecimento]
+Esquizofrenia e outros transtornos psicóticos Esquizofrenia e
+outros transtornos psicóticos
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIPTAN
+[Habilidades]
+Reconhecer os sintomas positivos, negativos e cognitivos da
+esquizofrenia e de outros transtornos psicóticos, diferenciando-os
+de outros quadros psiquiátricos.
+15ª QUESTÃO
+
+Código da questão:
+
+141717
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 32 de 75
+
+Enunciado:
+(UNISL Porto Velho) Dona Maria, 75 anos, com câncer avançado em cuidados paliativos,
+encontra-se internada com aumento súbito da dor oncológica, intensidade 8/10 pela Escala Visual
+Analógica (EVA), sem resposta satisfatória à analgesia oral. Sua família demonstra grande
+angústia e dificuldade em compreender a situação. Diante disso, a equipe multiprofissional
+(médico, enfermeiro e psicólogo) reúne-se para reavaliar o plano de cuidados.
+Considerando o conceito de “dor total” e a importância da comunicação empática em cuidados
+paliativos, analise a situação e indique a conduta mais apropriada.
+Alternativas:
+(alternativa A)
+Aumentar a dose do opioide venoso, informando à família que a dor é inerente à doença avançada
+e que o objetivo neste estágio da doença é a sedação para conforto, sem promover diálogo
+estruturado com a família.
+(alternativa B)
+Inserir fármaco opioide de alta potência e solicitar que a família busque o serviço de dor crônica
+ambulatorial, alegando que o ambiente hospitalar não dispõe de recursos ou tempo para
+discussões de plano de cuidados.
+(alternativa C) (CORRETA)
+Reunir-se com a família utilizando o protocolo SPIKES, validando emoções e explicando de forma
+clara o manejo da dor total, construindo um plano de cuidados conjunto com reavaliações
+periódicas.
+(alternativa D)
+Reunir-se com a família explicando detalhadamente a fisiopatologia da dor neuropática e
+nociceptiva, utilizando linguagem excessivamente técnica para justificar a dificuldade de controle
+da dor.
+
+Grau de dificuldade:
+
+Médio
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 33 de 75
+
+Resposta comentada:
+Alternativa correta:
+Reunir-se com a família, utilizando o protocolo SPIKES, validando emoções e explicando de
+forma clara o manejo da dor total, construindo um plano de cuidados conjunto com reavaliações
+periódicas.
+Justificativa:
+Esta alternativa reflete a melhor prática nos cuidados paliativos. O conceito de “dor total”,
+introduzido por Cicely Saunders, engloba as dimensões física, psicológica, social e espiritual da
+dor, demandando uma abordagem multidimensional e um plano individualizado. O uso do
+protocolo SPIKES garante uma comunicação estruturada, envolvendo: preparação, avaliação da
+percepção dos familiares, convite ao diálogo, transmissão de informações de forma clara,
+acolhimento das emoções e definição conjunta de estratégias de manejo com reavaliações
+periódicas. Esta abordagem alinha-se às diretrizes de cuidados centrados no paciente e na
+família.
+Alternativa incorreta:
+Aumentar a dose do opioide venoso, informando à família que a dor é inerente à doença avançada
+e que o objetivo neste estágio da doença é a sedação para conforto, sem promover diálogo
+estruturado com a família. Justificativa: Embora o ajuste de opioides seja frequentemente
+necessário, esta conduta reduz a abordagem da dor apenas ao aspecto farmacológico e
+desconsidera a dimensão biopsicossocial e espiritual da “dor total”. Além disso, comunicar que o
+objetivo é apenas sedação, sem diálogo estruturado, contraria os princípios de autonomia,
+empatia e construção compartilhada do plano de cuidados.
+Reunir-se com a família, explicando detalhadamente a fisiopatologia da dor neuropática e
+nociceptiva, utilizando linguagem excessivamente técnica para justificar a dificuldade de controle
+da dor. Justificativa: A explicação científica detalhada sem adaptação ao nível de compreensão
+da família pode gerar confusão e aumentar a angústia. A comunicação em cuidados paliativos
+deve ser empática, clara e acessível, priorizando a escuta ativa e a compreensão da família em
+vez de se concentrar apenas em demonstrar conhecimento técnico.
+Inserir fármaco opioide de alta potência e solicitar que a família busque o serviço de dor crônica
+ambulatorial, alegando que o ambiente hospitalar não dispõe de recursos ou tempo para
+discussões de plano de cuidados. Justificativa: O manejo da dor em pacientes internados deve
+ser realizado pela equipe multiprofissional presente, com comunicação adequada e planejamento
+conjunto. Transferir a responsabilidade para outro serviço sem discussão com a família fragmenta
+o cuidado e desconsidera a urgência do sofrimento atual do paciente.
+Referência:
+VELASCO, Irineu T.; RIBEIRO, Sabrina Corrêa da Cunha. Cuidados paliativos na emergência.
+São Paulo: Editora Manole, 2020.
+
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 34 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cuidados paliativos
+[Tema]
+Cuidados paliativos e manejo da dor
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNISL PORTO VELHO
+[Habilidades]
+Analisar o papel da equipe multiprofissional nos cuidados
+paliativos, integrando a comunicação empática e o apoio familiar.
+[Competências (Objetivos)]
+Cuidados paliativos
+16ª QUESTÃO
+
+Código da questão:
+
+141329
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 35 de 75
+
+Enunciado:
+(AFYA Paraíba) Paciente masculino, 29 anos, previamente hígido, é atendido em uma Unidade de
+Pronto Atendimento (UPA) após apresentar dor torácica súbita de forte intensidade, seguida de
+colapso, sendo identificado em parada cardiorrespiratória (PCR) em atividade elétrica sem pulso
+(AESP). A equipe iniciou rapidamente o protocolo de ressuscitação cardiopulmonar (RCP) com
+medidas avançadas, incluindo intubação orotraqueal, capnografia e investigação de causas
+reversíveis com ultrassonografia point-of-care (POCUS).
+Durante o atendimento, os seguintes achados foram observados:
+Capnografia: ETCO₂ = 10 mmHg.
+Expansão torácica visível apenas à esquerda.
+Ausência de deslizamento pleural à direita.
+Presença de deslizamento pleural à esquerda.
+Presença de linha A e ausência de linha B no hemitórax direito e esquerdo.
+Presença de lung point (ponto pulmonar) em hemitórax direito.
+Veia cava inferior distendida, sem colabamento.
+Ausência de contratilidade cardíaca e ventrículo direito não dilatado.
+Nenhum histórico de trauma torácico, arritmia ventricular ou uso de drogas.
+Considerando o quadro clínico e os achados do POCUS, avalie as condutas mais apropriadas e
+imediatas durante a ressuscitação, é correto afirmar que deve:
+Alternativas:
+(alternativa A)
+suspender RCP, realizar toracocentese e administrar atropina por via intravenosa.
+(alternativa B)
+indicar drenagem torácica bilateral e administrar bicarbonato de sódio por via intravenosa.
+(alternativa C)
+realizar ventilação manual com oxigênio a 100% e administrar dopamina por via intravenosa.
+(alternativa D) (CORRETA)
+realizar toracocentese descompressiva sem interromper a RCP e administrar epinefrina IV.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 36 de 75
+
+Resposta comentada:
+A alternativa correta relata o caso sugestivo fortemente de pneumotórax hipertensivo à direita,
+causa reversível de AESP. O ultrassom demonstra ausência de deslizamento pleural, linha A
+isolada e veia cava distendida sem colabamento, achados típicos desse diagnóstico. A
+toracocentese descompressiva deve ser realizada de forma imediata no hemitórax direito sem
+interromper a RCP, e a epinefrina 1 mg IV deve ser mantida a cada 3 a 5 minutos conforme
+diretrizes do ACLS.
+A alternativa (Realizar ventilação manual com oxigênio a 100% e administrar dopamina por via
+intravenosa) está incorreta, pois dopamina não é a droga vasoativa indicada no protocolo inicial de
+AESP. A prioridade é tratar causas reversíveis e administrar epinefrina.
+A alternativa (Indicar drenagem torácica bilateral com selo d’água e administrar bicarbonato de
+sódio por via intravenosa) está incorreta, pois a drenagem torácica bilateral com selo d’água é um
+procedimento definitivo, porém não imediato. Além disso, não seria bilateral, mas sim unilateral,
+afinal o hemitórax esquerdo está com deslizamento pleural e linhas A. A toracocentese
+descompressiva é a intervenção inicial mais apropriada. O uso de bicarbonato de sódio é
+reservado a casos específicos (acidose metabólica grave, hipercalemia ou intoxicação por
+antidepressivos tricíclicos), o que não é evidenciado aqui.
+A alternativa (Suspender as compressões torácicas para realizar toracocentese e administrar
+atropina por via intravenosa) está incorreta, pois nunca se deve suspender as compressões
+torácicas durante a ressuscitação, exceto para avaliação rítmica rápida. Além disso, a atropina
+não tem mais papel no tratamento de AESP.
+Referências:
+AMERICAN HEART ASSOCIATION. SAVC: Suporte Avançado de Vida Cardiovascular: manual
+do profissional. Texas, USA: Orora Visual, 2021.
+Manual do Internato AFYA Paraíba 2025.2 – Estágio em Urgência e Emergência Médica
+(conteúdo sobre PCR, causas reversíveis e procedimentos prioritários).
+USP. Tratado de Medicina de Emergência da USP, 2ª ed. Barueri: Manole, 2020. Cap. 11 e 52.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 37 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Emergências
+[Tema]
+Suporte básico de vida e avançado: BLS e ACLS
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Habilidades]
+Avaliar indicações de fármacos e intervenções clínicas,
+administrando recursos terapêuticos durante a ressuscitação
+cardiopulmonar avançada.
+[Competências (Objetivos)]
+Emergências cardiológicas
+17ª QUESTÃO
+
+Código da questão:
+
+141276
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNINOVAFAPI) Mulher de 46 anos, previamente hígida, dá entrada no pronto atendimento com
+febre alta há 2 dias, tosse seca, mialgia intensa, dispneia progressiva e saturação de O₂ em 89%
+em ar ambiente. Ao exame físico, apresenta frequência respiratória de 32 irpm, uso de
+musculatura acessória e crepitações em bases pulmonares. A radiografia de tórax mostra
+infiltrado bilateral difuso. Foi colhido RT-PCR para SARS-CoV-2 e outros vírus respiratórios. Está
+em ambiente de emergência geral, com outros pacientes em observação clínica.
+Considerando a suspeita de Síndrome Respiratória Aguda Grave (SRAG) por agente infeccioso
+de alta transmissibilidade, qual deve ser a conduta inicial mais adequada com relação ao manejo
+clínico e medidas de saúde pública?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 38 de 75
+
+Alternativas:
+(alternativa A)
+Manter paciente em observação clínica com máscara cirúrgica e aguardar resultado do RT-PCR
+para iniciar medidas de isolamento.
+(alternativa B)
+Iniciar antibioticoterapia empírica, realizar gasometria arterial e administrar oxigênio por cateter
+nasal comum, sem necessidade de isolamento respiratório imediato.
+(alternativa C)
+Internar diretamente na UTI e iniciar ventilação mecânica invasiva, independentemente do grau de
+desconforto respiratório e sem necessidade de notificação imediata.
+(alternativa D) (CORRETA)
+Instituir isolamento respiratório com precauções de aerossóis, notificar o caso imediatamente às
+autoridades de saúde e iniciar suporte com oxigenoterapia conforme necessidade clínica.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 39 de 75
+
+Resposta comentada:
+Gabarito:
+Instituir isolamento respiratório com precauções de aerossóis, notificar o caso imediatamente às
+autoridades de saúde e iniciar suporte com oxigenoterapia conforme necessidade clínica.
+Comentário das alternativas:
+· Alternativa correta: Diante de quadro sugestivo de SRAG por agente respiratório potencialmente
+pandêmico (ex. SARS-CoV-2 ou influenza), é obrigatória a instituição imediata do isolamento
+respiratório com precaução de aerossóis, a notificação compulsória imediata às autoridades
+sanitárias e o início de suporte ventilatório conforme critérios clínicos. A conduta é preventiva e
+não depende da confirmação laboratorial.
+· Aguardar RT-PCR sem isolamento: Essa conduta expõe outros pacientes e profissionais de
+saúde ao risco de contágio. As medidas de isolamento devem ser pré-testagem, baseadas no
+quadro clínico e epidemiológico.
+· Apenas antibiótico e oxigênio comum: O manejo da SRAG exige abordagem sindrômica e
+epidemiológica, incluindo medidas de isolamento e notificação compulsória. A simples
+oxigenoterapia e antibiótico empírico sem barreiras de proteção são insuficientes.
+· Internação imediata em UTI com VM invasiva: Nem todo paciente com SRAG requer ventilação
+mecânica ou vaga de UTI de imediato. A escalada de suporte depende da gravidade. Além disso,
+a notificação precoce e o isolamento adequado não devem ser negligenciados.
+Referência:
+CORREIA, Vinícius M.; OLIVEIRA, Lucas Lentini Herling de; OLIVEIRA, Vinicius Zofoli de; et al.
+Manual de condutas na COVID-19. São Paulo - SP: Editora Manole, 2021. E-book. ISBN
+9786555765113. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555765113/. Acesso em: 25 abr. 2024. Cap.
+2, p. 18–25.
+NETO, Rodrigo Antonio B.; SOUZA, Heraldo Possolo de; MARINO, Lucas O.; et al. Medicina de
+emergência: abordagem prática. São Paulo – SP: Editora Manole, 2023. E-book. ISBN
+9788520464380. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520464380/. Acesso em: 25 abr. 2024. Cap.
+10, p. 413–422.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 40 de 75
+
+Filtros da questão:
+
+[Tema]
+Síndrome respiratória aguda grave
+[Subáreas de Conhecimento]
+Emergências respiratórias
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNINOVAFAPI
+[Habilidades]
+Adotar medidas de isolamento e notificação compulsória,
+conduzindo o manejo clínico de casos de SRAG por agentes
+infecciosos de alta transmissibilidade.
+
+18ª QUESTÃO
+Código da questão:
+
+141997
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 41 de 75
+
+Enunciado:
+(AFYA Cruzeiro do Sul) Paciente, 50 anos, 60kg, internada em enfermaria da ginecologia para
+tratamento de DIP complicada, estágio 3. Após 4 dias do tratamento antimicrobiano com
+ampicilina + gentamicina e hidratação venosa, a paciente apresentou indicação cirúrgica por
+abscesso ovariano volumoso, sendo encaminhada para UTI no pós-operatório. No 3º dia de pósoperatório, pela manhã, você é chamado com urgência para avaliar a paciente, pois ela apresenta
+dor no peito de grande intensidade, confortável apenas quando prostrada e com tronco inclinado
+para frente no leito. Ao exame físico: dados vitais estáveis, ausculta pulmonar com crepitações
+bilbasais, ausculta cardíaca com atrito pericárdico.
+Pelo prontuário, você percebe que ela manteve o mesmo esquema antibiótico realizado em
+enfermaria e que a enfermagem anotou a diurese da paciente no prontuário:
+6h
+
+40 ml em SVD – esvaziado
+
+12h
+
+30 ml em SVD – esvaziado
+
+18h
+
+10 ml em SVD – esvaziado
+
+6h
+
+10 ml em SVD – esvaziado
+
+Devido à dor torácica, foi realizado eletrocardiograma de 12 derivações que revelou
+supradesnivelamento difuso do segmento ST, depressão de intervalo PR e sinal de Spodick. Ao
+POCUS (Point-of-care ultrasound) evidenciou-se derrame pericárdico pequeno, sem
+comprometimento de câmaras direitas, pulmões com lung sliding (deslizamento pleural) e linhas
+B bilateralmente 1/3 inferiores, veia cava inferior colabando < 50%.
+O plantonista administrou furosemida 03 amps (60mg) IV, sem resposta diurética.
+Considerando o diagnóstico mais provável, qual é a conduta mais adequada para resolução da
+descompensação da paciente?
+Alternativas:
+(alternativa A)
+Hidratação volêmica, considerando Ringer lactato ou Plasma Lyte.
+(alternativa B) (CORRETA)
+Realização de hemodiálise de urgência
+(alternativa C)
+Complementar dose do diurético de alça (furosemida), realizando mais 03 amps IV (60mg).
+(alternativa D)
+Pericardiocentese seguido de avaliação da cirurgia cardíaca para pericardiectomia.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 42 de 75
+
+Resposta comentada:
+Resposta correta: Realização de hemodiálise de urgência.
+Análise do caso descrito: Trata-se de paciente em pós-operatório de infecção pélvica grave (DIP
+complicada), em uso do mesmo esquema antibiótico da enfermaria, inclusive com uso de
+antibiótico potencialmente nefrotóxico (aminoglicosídeo gentamicina), com quadro clínico atual
+de dor torácica intensa, alívio quando inclinada para frente → típico de pericardite aguda. ECG
+revelou supra de ST difuso + depressão do PR + sinal de Spodick → confirmam hipótese de
+pericardite aguda. POCUS: derrame pericárdico pequeno, sem sinais de tamponamento. Diurese:
+extremamente baixa nas últimas 24h (40 + 30 + 10 + 10 mL = 90 mL/dia → oligúria grave). Foi
+realizado teste de estresse com furosemida 1mg/kg, sem resposta adequada.
+Pergunta-se: "Considerando o diagnóstico mais provável, qual a conduta mais adequada para
+resolução da descompensação da paciente".
+Diante dos dados descritos, o diagnóstico que se impõe é de injúria/lesão renal aguda kdigo 3
+com sinais de pericardite urêmica.
+A pericardite urêmica é indicação absoluta de diálise imediata, independentemente do nível da
+ureia, porque é uma manifestação grave de uremia, não melhora com hidratação isolada e pode
+evoluir para tamponamento se não tratada. A melhora clínica da dor e a resolução do processo
+inflamatório pericárdico costumam ocorrer após poucas sessões de hemodiálise.
+Analisando as alternativas incorretas:
+Pericardiocentese seguida de avaliação da cirurgia cardíaca para pericardiectomia: incorreta, pois
+não há sinal de tamponamento cardíaco. Aqui a prioridade é a hemodiálise de urgência.
+Complementar a dose do diurético de alça (furosemida), realizando mais 03 amps IV (60mg):
+incorreta, pois já foi tentado o teste de estresse com furosemida 1mg/kg (60kg = 60mg) sem
+resposta diurética. Paciente tem sinais de hipervolemia, indicando hemodiálise de urgência.
+Hidratação volêmica, considerando Ringer lactato ou Plasma Lyte: incorreta, pois paciente tem
+sinais de hipervolemia, indicando hemodiálise de urgência.
+Referências:
+Medicina intensiva: revisão rápida / editores Bruno Adler Maccagnan Pinheiro Besen, Antonio
+Paulo Nassar Junior, Luciano César Pontes de Azevedo. - 2. ed. - Santana de Parnaíba [SP]:
+Manole, 2023.
+AMIB – Associação de Medicina Intensiva Brasileira. Tratado de Medicina Intensiva AMIB. 1. ed.
+São Paulo: AMIB Editora, 2025.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 43 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Tema]
+Lesão renal aguda (pré-renal, renal e pós-renal)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA CRUZEIRO DO SUL
+[Habilidades]
+Indicar encaminhamento para nefrologia e terapia renal
+substitutiva, reconhecendo casos graves ou refratários de lesão
+renal aguda.
+[Competências (Objetivos)]
+Emergências metabólicas
+19ª QUESTÃO
+
+Código da questão:
+
+141656
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNITPAC) Durante atendimento de emergência, um paciente homem de 45 anos, vítima de
+trauma crânio-facial grave, apresenta rebaixamento do nível de consciência (Glasgow 6),
+necessidade urgente de proteção da via aérea, mas as tentativas de intubação orotraqueal falham
+após múltiplas tentativas por profissional experiente. A ventilação com máscara e bolsa-valva
+também não é efetiva, mesmo com uso de cânula orofaríngea. Há muita secreção sanguinolenta
+abundante na via aérea e cavidade oro e nasofaríngea. Mantendo-se a imobilização adequada da
+coluna cervical e, apesar da manobra de liberação como jaw-thrust, a saturação está em queda
+progressiva (< 85%).
+Dentre as opções abaixo, qual deve ser a conduta imediata mais adequada para garantir
+oxigenação nesse cenário?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 44 de 75
+
+Alternativas:
+(alternativa A)
+Reposicionar o paciente, administrar sedação profunda e bloqueador neuromuscular e aguardar
+relaxamento muscular para facilitar nova intubação.
+(alternativa B)
+Aspirar vias aéreas com aspirador rígido e aguardar chegada de médico cirurgião para realizar
+traqueostomia de emergência.
+(alternativa C) (CORRETA)
+Realizar cricotireoidotomia cirúrgica de emergência, por tratar-se de situação de “não intubo, não
+ventilo”.
+(alternativa D)
+Nova tentativa de intubação com tubo menor e videolaringoscópio, enquanto se mantém
+ventilação com bolsa-válvula-máscara com pressão positiva.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 45 de 75
+
+Resposta comentada:
+Gabarito oficial: "Realizar cricotireoidotomia cirúrgica de emergência, por tratar-se de situação de
+“não intubo, não ventilo”.
+Cenário descrito: Trauma crânio-facial grave → anatomia distorcida + sangramento ativo na via
+aérea, Glasgow 6 → indica proteção imediata da via aérea, falha em múltiplas tentativas de
+intubação por profissional experiente, ventilação com máscara e bolsa-válvula inefetiva, mesmo
+com cânula orofaríngea e jaw-thrust., secreção sanguinolenta → dificulta visualização para nova
+intubação, SpO₂ < 85% → hipoxemia grave, situação não intubo, não ventilo.
+Segundo DAS, 2022 (Difficult Airway Society) e ATLS 10ª edição, quando ocorre o cenário
+"cannot intubate, cannot oxygenate" (CICO), a prioridade é garantir oxigenação imediata por via
+invasiva. Pode ser tentado dispositivo extraglótico (DEG) antes, mas não estava entre as opções
+de alternativas e, além disso, o relato de secreção sanguinolenta abundante em via aérea e risco
+de broncoaspiração e a necessidade de imobilização constante e segura da coluna cervical
+dificultando a técnica de passagem do DEG, tornam essa opção não adequada na prática.
+Portanto, dentre as alternativas descritas, a opção recomendada é o acesso cirúrgico
+emergencial à via aérea → cricotireoidotomia (cirúrgica ou por punção, dependendo da expertise e
+material). Traqueostomia não é indicada nesse momento, pois é um procedimento mais
+demorado e tecnicamente difícil em emergência pré-hospitalar ou no PS. Novas tentativas de
+intubação não devem ser feitas nesse ponto, pois atrasam a oxigenação e aumentam o risco de
+parada cardíaca por hipóxia.
+Analisando alternativas
+Nova tentativa de intubação com tubo menor + videolaringoscópio → já houve múltiplas tentativas,
+paciente está em CICO, tentativa adicional apenas atrasaria a oxigenação e pioraria hipóxia.
+Cricotireoidotomia cirúrgica de emergência → conduta correta no cenário “não intubo, não ventilo”
+com dessaturação rápida. É o procedimento definitivo mais rápido para restabelecer a
+oxigenação.
+Aspirar e esperar cirurgião para traqueostomia → tempo perdido, risco iminente de PCR por
+hipóxia.
+Reposicionar, sedar e paralisar → risco de apneia prolongada e parada antes da via aérea ser
+estabelecida, além de já haver relato de que as tentativas de intubação orotraqueal falham após
+múltiplas tentativas por profissional experiente.
+Referências:
+Medicina de emergência: abordagem prática / editores Ludhmila Abrahão Hajjar ... [et al.]. - 18.
+ed., rev. e atual. - Santana de Parnaíba [SP]: Manole, 2024.
+AMERICAN HEART ASSOCIATION (AHA). 2020 Guidelines for Cardiopulmonary Resuscitation
+and Emergency Cardiovascular Care. Part 7: Respiratory Support. Circulation, v. 142, n.
+16_suppl_2, p. S92–S139, 2020.
+MINISTÉRIO DA SAÚDE (BR). Diretrizes para Atendimento ao Politraumatizado nas Urgências e
+Emergências. Brasília: MS, 2022. • WALLACE, T. M.; KARINYA, V. Manual de Via Aérea Difícil.
+São Paulo: Manole, 2019.
+Manual de Walls para o manejo da via aérea na emergência [recurso eletrônico] / Organizadores,
+Calvin A. Brown III, John C. Sakles, Nathan W. Mick; tradução: André Garcia Islabão; revisão
+técnica: Denis Colares Siqueira de Oliveira, Hélio Penna Guimarães. – 5. ed. – Porto Alegre:
+Artmed, 2019.
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 46 de 75
+
+Feedback:
+-Filtros da questão:
+
+[Tema]
+Vias aéreas básica e avançada (Extraglótica + Via aérea definitiva)
+[Subáreas de Conhecimento]
+Emergências respiratórias
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNITPAC
+[Habilidades]
+Indicar alternativas de via aérea cirúrgica, como cricotireoidotomia,
+reconhecendo situações de falha na intubação e na ventilação.
+[Competências (Objetivos)]
+Emergências cardiológicas
+20ª QUESTÃO
+
+Código da questão:
+
+141851
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FIP Guanambi) Uma mulher de 32 anos é atendida no ambulatório de saúde mental por
+encaminhamento do serviço de atenção primária. Segundo familiares, ela apresenta mudanças
+comportamentais nas últimas semanas, com progressivo isolamento social, fala desconexa e
+episódios de agressividade verbal. Durante a entrevista, a paciente mostra-se inquieta, com
+discurso tangencial, risos imotivados e ideias de que está sendo observada e perseguida por
+vizinhos. Demonstra baixa crítica em relação ao seu estado mental e reluta em responder a
+perguntas mais diretas.
+Com base nesse quadro, qual conduta o médico deve priorizar para realizar de forma adequada o
+exame do estado mental?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 47 de 75
+
+Alternativas:
+(alternativa A)
+Limitar a entrevista à queixa principal, evitando aprofundamento para não gerar desconforto no
+paciente.
+(alternativa B)
+Solicitar exames laboratoriais para avaliação direta da função mental.
+(alternativa C)
+Aplicar algumas escalas psicométricas para mensurar o nível de delírio.
+(alternativa D) (CORRETA)
+Utilizar técnicas de entrevista e observação clínica estruturada, com descrição objetiva dos sinais
+e sintomas.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O exame do estado mental (EEM) é um componente essencial da avaliação psiquiátrica e deve
+ser conduzido de forma sistemática e objetiva, por meio da entrevista clínica estruturada e
+observação direta do comportamento, fala, pensamento, humor, afetividade, sensopercepção,
+insight, julgamento, entre outros aspectos. A descrição dos achados deve evitar interpretações
+subjetivas, focando nos sinais e sintomas observáveis. Isso permite formular hipóteses
+diagnósticas mais precisas e estabelecer planos terapêuticos adequados.
+As escalas psicométricas podem ser úteis em contextos específicos, como rastreamento ou
+monitoramento de sintomas (ex.: CAM para delirium, PANSS para esquizofrenia), mas não
+substituem o exame clínico sistemático do estado mental. No primeiro atendimento, o essencial é
+realizar uma avaliação estruturada por meio de entrevista e observação clínica, não apenas
+aplicar instrumentos padronizados.
+Limitar a entrevista à queixa principal, evitando aprofundamento para não gerar desconforto no
+paciente, é uma abordagem inadequada, especialmente em um quadro psicótico. O exame do
+estado mental exige abordagem completa, mesmo que o paciente apresente resistência.
+Técnicas de entrevista empática, uso do rapport terapêutico e manejo adequado da comunicação
+são essenciais para garantir uma avaliação segura e abrangente. Evitar aprofundamento
+compromete a qualidade diagnóstica.
+Não existem exames laboratoriais que avaliem diretamente a função mental. Exames
+complementares (ex.: eletrólitos, função hepática, TSH, drogas na urina) são importantes para
+investigação de causas orgânicas ou delirium, mas o exame clínico e a entrevista estruturada
+continuam sendo o principal método de avaliação do estado mental.
+Referência:
+DALGALARRONDO, Paulo. Psicopatologia e semiologia dos transtornos mentais. 3ª ed. Porto
+Alegre: Artmed, 2019.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 48 de 75
+
+Filtros da questão:
+
+[Tema]
+Psicopatologia e exame do estado mental – principais conceitos de
+psicopatologia, exame do estado mental, incluindo as
+manifestações clínicas nas principais desordens (esquizofrenia,
+transtornos afetivos e transtornos de ansiedade)
+[Subáreas de Conhecimento]
+Psicopatologia e Exame Mental
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FIP GUANAMBI
+[Habilidades]
+Utilizar técnicas de entrevista e observação clínica, conduzindo de
+forma sistemática o exame do estado mental.
+[Competências (Objetivos)]
+Emergências em psiquiatria
+
+21ª QUESTÃO
+Código da questão:
+
+141653
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNITPAC) Homem de 76 anos, hipertenso e diabético, é admitido na enfermaria com quadro de
+vômitos intensos e diarreia há 3 dias. Há diminuição do volume urinário no último dia (débito
+urinário menor que 0,5 mL/kg/hora nas últimas 24 horas). Assim que chegou ao pronto-socorro foi
+prescrito: Soro fisiológico 0,9% (a 7 gotas por minuto - equipo de macrogotas), Bromoprida 10 mg
+de 8h/8h, Omeprazol 40 mg ao dia, Loperamida 2 mg 2 x ao dia e Saccharomyces boulardii-17
+200 mg ao dia, além das medicações habituais de uso para HAS e um esquema de insulina
+conforme glicemia capilar. A prescrição foi mantida da mesma forma que a descrita anteriormente
+na manhã do dia em que você avalia o paciente (apenas repetiram o que foi feito no dia anterior).
+Ao exame, no dia da sua avaliação (24 horas após a admissão) encontra-se hipotenso (PA 90x60
+mmHg), com mucosas secas e turgor diminuído. Creatinina de 2,3 mg/dL (basal: 1,0 mg/dL) e
+ureia de 102 mg/dL. Exame de urina sem proteinúria ou hematúria. Fração de excreção de sódio
+(FeNa) = 0,5%.
+Qual é a medida clínica de suporte inicial mais adequada para este paciente?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 49 de 75
+
+Alternativas:
+(alternativa A) (CORRETA)
+Aumentar hidratação venosa com cristaloide isotônico, visando restaurar a perfusão renal.
+(alternativa B)
+Iniciar furosemida endovenosa para estimular diurese e prevenir sobrecarga volêmica.
+(alternativa C)
+Indicar biópsia renal para investigação etiológica da lesão renal.
+(alternativa D)
+Introduzir inibidor da ECA para proteger função glomerular e reduzir a progressão da injúria renal.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+A resposta correta está contemplada na alternativa que fala em: "Aumentar hidratação venosa
+com cristaloide isotônico, visando restaurar a perfusão renal".
+A questão apresentada descreve um quadro clínico clássico de lesão renal aguda (LRA) do tipo
+pré-renal, desencadeada por perda de volume extracelular devido a vômitos e diarreia
+persistentes em um paciente idoso, diabético e hipertenso. Os achados de hipotensão arterial,
+mucosas secas, oligúria, ausência de alterações significativas no exame de urina e uma fração
+excretada de sódio (FeNa) de 0,5% reforçam o diagnóstico de hipoperfusão renal funcional, ainda
+potencialmente reversível com suporte adequado.
+O paciente recebeu aproximadamente 504 mL de soro em 24 horas, o que é claramente
+insuficiente para reverter um quadro de hipovolemia com injúria renal aguda em curso.
+Etapas do cálculo:
+Para calcular o volume de soro que o paciente recebeu em 24 horas, partimos da informação de
+que a infusão foi realizada a uma velocidade de 7 gotas por minuto, utilizando um equipo de
+macrogotas. Sabe-se que, nesse tipo de equipo, 20 gotas correspondem a 1 mL. Com isso,
+dividimos a quantidade de gotas por minuto pelo número de gotas que formam 1 mL, obtendo: 7
+dividido por 20, o que resulta em 0,35 mL por minuto.
+A seguir, multiplicamos esse valor pelo número de minutos em uma hora (60) e depois pelo total
+de horas no dia (24), para saber quanto foi infundido ao longo das 24 horas. O cálculo completo é:
+0,35 mL/min × 60 min/h × 24 h, resultando em um volume total de 504 mL.
+Essa subinfusão (apenas ~500 mL em 24h) pode ter contribuído para a persistência da injúria
+renal, justificando ainda mais a necessidade de corrigir a conduta com uma reposição volêmica
+mais adequada.
+A alternativa correta, portanto, é aquela que propõe aumentar a hidratação venosa com cristaloide
+isotônico, com o objetivo de restaurar a perfusão renal. Esse manejo é respaldado pelas diretrizes
+da KDIGO (2012) e pelas recomendações clínicas atuais, que orientam a reposição volêmica
+como primeira linha de conduta diante da LRA pré-renal. Ao corrigir a hipovolemia, restaura-se o
+fluxo sanguíneo renal, o que pode levar à recuperação da taxa de filtração glomerular sem
+necessidade de medidas mais invasivas ou medicamentosas.
+As demais alternativas estão incorretas por diferentes motivos clínicos e fisiopatológicos. A
+alternativa que sugere iniciar furosemida endovenosa para estimular diurese desconsidera que o
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 50 de 75
+
+paciente encontra-se hipovolêmico, por isso está incorreta. O uso de diurético nesse contexto
+pode agravar ainda mais a perfusão renal, piorar a função renal e precipitar uma evolução para
+necrose tubular aguda. A diurese não deve ser forçada em pacientes com sinais clínicos de
+desidratação e sem sinais de sobrecarga de volume.
+"Indicar biópsia renal para investigação etiológica da lesão renal": incorreta, pois sugerir indicar
+biópsia renal para investigação etiológica da lesão é inadequado neste cenário. A biópsia é
+reservada para casos de LRA sem causa evidente, com sedimento urinário ativo ou ausência de
+resposta à hidratação. O quadro atual é funcional, tem fator precipitante bem definido, ausência de
+alterações urinárias e alto potencial de reversibilidade com conduta clínica simples.
+"Introduzir inibidor da ECA para proteger função glomerular e reduzir a progressão da injúria
+renal": incorreta, pois a proposta de introduzir inibidor da enzima conversora da angiotensina
+(IECA) parte mais de um raciocínio válido em contextos de nefroproteção crônica, como na
+nefropatia diabética. No entanto, em LRA aguda com hipoperfusão, o IECA pode reduzir ainda
+mais a pressão de filtração glomerular, pois bloqueia a vasoconstrição da arteríola eferente,
+fundamental para manter a TFG em condições de baixo fluxo. Isso pode agravar a lesão renal.
+Dessa forma, a única conduta compatível com o quadro clínico e com os princípios terapêuticos
+atuais da LRA pré-renal é a reposição volêmica com soro fisiológico, justificando a escolha da
+alternativa correta.
+Referências:
+MEDEIROS, M. T. P. et al. Lesão renal aguda: diagnóstico e manejo clínico. Jornal Brasileiro de
+Nefrologia, São Paulo, v. 40, n. 3, p. 279–288, 2018. Disponível em:
+https://www.scielo.br/j/jbn/a/5gHLJz3g5bfCVDZYZ5pmT5b/. Acesso em: 1 ago. 2025.
+BARROS, E. J. G. et al. Nefrologia: princípios e prática. 2. ed. Rio de Janeiro: Guanabara Koogan,
+2016.
+KIDNEY DISEASE: Improving Global Outcomes (KDIGO). Clinical practice guideline for acute
+kidney injury. Kidney International Supplements, [S. l.], v. 2, n. 1, p. 1–138, 2012. Disponível em:
+https://kdigo.org/wp-content/uploads/2016/10/KDIGO-2012-AKI-Guideline-English.pdf. Acesso em:
+1 ago. 2025.
+Feedback:
+A resolução da questão exige entendimento da lesão renal aguda, especialmente no contexto prérenal, além de habilidade para correlacionar sinais clínicos como hipotensão, desidratação e
+oligúria com dados laboratoriais como creatinina, ureia e fração de excreção de sódio. É
+fundamental saber interpretar exames complementares e reconhecer condutas baseadas em
+diretrizes clínicas. A capacidade de analisar criticamente a prescrição inicial e propor ajustes
+terapêuticos seguros, considerando risco/benefício, também é essencial para a tomada de
+decisão clínica adequada.
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 51 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Tema]
+Lesão renal aguda (pré-renal, renal e pós-renal)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNITPAC
+[Habilidades]
+Definir condutas clínicas de suporte, atuando na reversão da
+causa subjacente da lesão renal aguda.
+[Competências (Objetivos)]
+Emergências metabólicas
+22ª QUESTÃO
+
+Código da questão:
+
+141298
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIFIPMOC) Paciente masculino, 56 anos, previamente hígido, é admitido na UTI com
+diagnóstico de pneumonia viral grave por influenza A. Está intubado e sedado, sob ventilação
+mecânica com os seguintes parâmetros: volume corrente (VC) de 6 mL/kg de peso predito, FiO₂
+0,8, PEEP 12 cmH₂O. Gasometria arterial recente mostra: pH 7,39 / pCO₂ 42 mmHg / PaO₂ 58
+mmHg / HCO₃⁻ 24 mEq/L. Relação PaO₂/FiO₂: 72,5. Ausência de pneumotórax ou instabilidade
+hemodinâmica. Exame físico mostra hipoxemia refratária, sem sinais de congestão ou
+barotrauma.
+Qual é a melhor conduta a ser adotada neste momento?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 52 de 75
+
+Alternativas:
+(alternativa A)
+Aumentar o volume corrente para 8 mL/kg para melhorar a troca gasosa alveolar.
+(alternativa B) (CORRETA)
+Iniciar posição prona por pelo menos 16 horas, associada à manutenção da ventilação protetora.
+(alternativa C)
+Substituir por ventilação com pressão de suporte para evitar lesão induzida por ventilação
+mecânica.
+(alternativa D)
+Reduzir a PEEP para 8 cmH₂O, evitando hiperinsuflação e risco de barotrauma.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Gabarito oficial:
+Iniciar posição prona por pelo menos 16 horas, associada à manutenção da ventilação protetora.
+Justificativa
+O paciente apresenta SDRA grave (PaO₂/FiO₂ < 100) e está sob ventilação protetora otimizada,
+com PEEP adequada. A pronação precoce e prolongada (≥ 16 horas/dia) está indicada nesse
+cenário, conforme evidências robustas (estudo PROSEVA) e diretrizes da Surviving Sepsis / ATS
+/ ESICM. A posição prona melhora a recrutabilidade alveolar, oxigenação e mortalidade,
+especialmente em SDRA grave.
+Análise das alternativas incorretas:
+Aumentar o volume corrente para 8 mL/kg para melhorar a troca gasosa alveolar: O aumento do
+volume corrente viola a estratégia de ventilação protetora (VC de 4–6 mL/kg de peso predito),
+amplamente recomendada para pacientes com SDRA, conforme ARDSNet trial. Aumentar o
+volume corrente aumenta o risco de barotrauma e volutrauma, além de elevar a mortalidade.
+Reduzir a PEEP para 8 cmH₂O, evitando hiperinsuflação e risco de barotrauma: A PEEP de 12
+cmH₂O está dentro do recomendado para SDRA moderada a grave. Reduzir a PEEP poderia
+comprometer a oxigenação e aumentar a atelectrauma, piorando a hipoxemia. A titulação de
+PEEP deve ser individualizada, mas não se reduz empiricamente em pacientes hipoxêmicos.
+Substituir por ventilação com pressão de suporte para evitar lesão induzida por ventilação
+mecânica: A ventilação com pressão de suporte (modo espontâneo) está contraindicada em
+pacientes com SDRA grave, principalmente em fase aguda, sob sedação e hipoxemia refratária.
+Nesses casos, deve-se manter ventilação controlada, com ajuste de PEEP, FiO₂ e manobras
+como pronação e recrutamento alveolar.
+Referência:
+AZEVEDO, Luciano César Pontes de; TANIGUCHI, Leandro Utino; LADEIRA, José Paulo (eds.).
+Medicina Intensiva: Abordagem Prática. 5. ed. Barueri: Manole, 2022.
+Feedback:
+-000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 53 de 75
+
+Filtros da questão:
+
+[Tema]
+Síndrome respiratória aguda grave
+[Subáreas de Conhecimento]
+Emergências clínicas
+Emergências respiratórias
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIFIPMOC
+[Habilidades]
+Implementar estratégias de suporte ventilatório, oxigenoterapia e
+medidas protetoras, seguindo diretrizes no manejo da síndrome
+respiratória aguda grave.
+23ª QUESTÃO
+
+Código da questão:
+
+142046
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FESAR) Um homem de 72 anos, tabagista ativo, portador de DPOC GOLD IV e insuficiência
+cardíaca congestiva, é admitido no pronto-socorro por dispneia progressiva nas últimas horas.
+Encontra-se com os seguintes dados vitais: PA 140/80 mmHg, FC 120 bpm (sinusal regular); FR
+28 irpm (com esforço respiratório leve-moderado, tiragem intercostal), TAx 36,2ºC, glicemia
+capilar 102 mg/dL, nível de consciência: sonolência e confusão mental, Glasgow 14. Está
+recebendo oxigenoterapia suplementar via cateter nasal a 5 L/min. Ausculta respiratória com
+sibilos difusos bilateralmente, crepitações em 2/3 inferiores bilateralmente, edema de membros
+inferiores e turgência jugular.
+A gasometria arterial revelou os seguintes dados:
+pH: 7,28.
+PaCO₂: 68 mmHg.
+PaO₂: 52 mmHg.
+HCO₃⁻: 30 mEq/L.
+SatO₂: 84%
+Com base nos achados clínicos e laboratoriais, analise as alternativas e assinale a classificação
+da insuficiência respiratória e a conduta inicial mais adequada.
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 54 de 75
+
+Alternativas:
+(alternativa A)
+Trata-se de insuficiência respiratória tipo I (hipoxêmica); deve-se aumentar o fluxo de oxigênio
+para MAF 15 L/min, visando corrigir rapidamente a hipoxemia para SpO2 94-98% e prevenir
+hipóxia tecidual.
+(alternativa B) (CORRETA)
+O quadro configura insuficiência respiratória tipo mista, com acidose respiratória parcialmente
+compensada; está indicada a introdução de ventilação não invasiva (VNI), associada à
+monitorização idealmente em CTI.
+(alternativa C)
+A gasometria indica insuficiência respiratória predominantemente tipo I, associada a retenção
+significativa de CO₂; a prioridade é intensificar a oxigenoterapia, broncodilatadores, corticoide
+endovenoso, sulfato de magnésio, aminofilina EV e aguardar resposta clínica.
+(alternativa D)
+O paciente apresenta insuficiência respiratória mista; entretanto, a confusão mental e a acidose
+são contraindicações absolutas à VNI, sendo priorizada a intubação orotraqueal imediata para
+estabilização.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Gabarito oficial: "O quadro configura insuficiência respiratória tipo mista, com acidose respiratória
+parcialmente compensada; está indicada a introdução de ventilação não invasiva (VNI),
+associada à monitorização idealmente em CTI."
+Análise do caso clínico: Trata-se de um paciente com DPOC GOLD IV + sinais de insuficiência
+cardíaca (edema, turgência jugular, crepitações 2/3 inferiores). Gasometria: pH 7,28 (acidemia),
+PaCO₂ 68 (hipercapnia), PaO₂ 52 (hipoxemia), HCO₃⁻ 30 (parcial compensação), indicando
+insuficiência respiratória mista, com predomínio hipercápnico (tipo II descompensada). Estado
+mental: GCS 14 (sonolento/confuso, mas desperta), sem sinais de perda de proteção de via
+aérea descritos. O₂ em cateter 5 L/min ainda com SpO₂ baixa, indicando que ele precisa de
+suporte ventilatório, não apenas mais oxigênio.
+Na exacerbação de DPOC com IRpA predominantemente hipercápnica com pH ≤ 7,35: VNI
+(BiPAP) é primeira linha, salvo contraindicações (incapacidade de proteger via aérea, vômitos
+ativos, agitação intratável, choque instável, arritmia grave, trauma facial). Oxigênio: devemos
+titular para SpO₂ 88–92% (evitar hiperóxia e piora da hipercapnia). IC congestiva/edema agudo de
+pulmão: VNI também reduz trabalho respiratório e melhora congestão. Adjuvantes:
+broncodilatadores (SABA/SAMA) por nebulização, corticosteroide sistêmico de curto curso,
+antibiótico se infecção provável; diurético/nitrato se congestão franca. Reavaliar em 30–60 min:
+melhora de FR, pH/PaCO₂, esforço e conforto. Se falhar → considerar IOT.
+Análise das alternativas:
+"Trata-se de insuficiência respiratória tipo I (hipoxêmica); deve-se aumentar o fluxo de oxigênio
+para MAF 15 L/min, visando corrigir rapidamente a hipoxemia para SpO2 94-98% e prevenir
+hipóxia tecidual": Incorreta. Não é só tipo I: há hipercapnia com acidemia (tipo II). Dar FiO₂ muito
+alta pode piorar CO₂; o problema central é hipoventilação → requer VNI.
+"O quadro configura insuficiência respiratória tipo mista, com acidose respiratória parcialmente
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 55 de 75
+
+compensada; está indicada a introdução de ventilação não invasiva (VNI), associada à
+monitorização idealmente em CTI": Correta. Classifica bem a IRpA (mista) e apresenta uma
+conduta alinhada: VNI (BiPAP) em ambiente monitorado (CTI/UTI).
+"A gasometria indica insuficiência respiratória predominantemente tipo I, associada a retenção
+significativa de CO₂; a prioridade é intensificar a oxigenoterapia, broncodilatadores, corticoide
+endovenoso, sulfato de magnésio, aminofilina EV e aguardar resposta clínica": Incorreta. Rotula
+mal (há tipo II com acidemia), omite VNI e inclui aminofilina EV (não recomendada rotineiramente,
+com perfil de efeitos adversos). “Aguardar” sem suporte ventilatório é arriscado.
+"O paciente apresenta insuficiência respiratória mista; entretanto, a confusão mental e a acidose
+são contraindicações absolutas à VNI, sendo priorizada a intubação orotraqueal imediata para
+estabilização": Incorreta. GCS 14 e confusão leve não são contraindicações absolutas; a VNI
+pode e deve ser tentada se há cooperação mínima e sem perda de proteção de via
+aérea/instabilidade.
+Referências:
+ASSOCIAÇÃO DE MEDICINA INTENSIVA BRASILEIRA; SOCIEDADE BRASILEIRA DE
+PNEUMOLOGIA E TISIOLOGIA. Orientações Práticas em Ventilação Mecânica. 2024.
+BRASIL. Diretrizes para o Manejo da Doença Pulmonar Obstrutiva Crônica (DPOC). Brasília:
+Ministério da Saúde, 2021. Disponível em: https://www.gov.br/saude/. Acesso em: 31 jul. 2025.
+SOCIETY OF CRITICAL CARE MEDICINE (SCCM); EUROPEAN RESPIRATORY SOCIETY
+(ERS). Guidelines for the use of noninvasive ventilation in acute respiratory failure. Intensive Care
+Med, v. 27, p. 166–178, 2001.
+WEST, J. B. Fisiologia respiratória moderna. 3. ed. São Paulo: Manole, 1990.
+Feedback:
+-Filtros da questão:
+
+[Tema]
+Insuficiência respiratória (tipo I – hipoxêmica / tipo II –
+hipercápnica/mista)
+[Subáreas de Conhecimento]
+Emergências respiratórias
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FESAR
+[Habilidades]
+Utilizar critérios clínicos para suporte ventilatório não invasivo ou
+invasivo, manejando adequadamente os diferentes tipos de
+insuficiência respiratória.
+[Competências (Objetivos)]
+Emergências metabólicas
+24ª QUESTÃO
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 56 de 75
+
+Código da questão:
+
+141337
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Caxias) Um restaurante aciona o SAMU por homem de 48 anos que, durante a
+refeição, levanta-se abruptamente levando as mãos ao pescoço, com aparente dificuldade para
+respirar. A equipe chega em 6 minutos e encontra o paciente consciente, em pé, ansioso, incapaz
+de falar e emitindo apenas sons respiratórios mínimos. Apresenta tosse ineficaz, cianose perioral
+e sialorreia. Saturação no oxímetro: 82% em ar ambiente; FC 118 bpm; FR 24 irpm com esforço,
+porém fluxo aéreo muito reduzido. Não há deformidades torácicas, sem obesidade central.
+Tentativas iniciais de orientação para tossir não produzem melhora. Enquanto um membro da
+equipe prepara o oxímetro e monitor, outro confirma rapidamente que não há corpo estranho
+visível na cavidade oral.
+Diante desse quadro descrito, qual é a conduta emergencial imediata mais apropriada?
+Alternativas:
+(alternativa A)
+Iniciar as compressões torácicas como em uma parada cardiorrespiratória.
+(alternativa B) (CORRETA)
+Realizar compressões abdominais (manobra de Heimlich) até a desobstrução ou perda de
+consciência.
+(alternativa C)
+Posicionar o paciente em decúbito dorsal, realizar sedoanalgesia e bloqueioneuromuscular para
+intubação orotraqueal de emergência.
+(alternativa D)
+Posicionar o paciente em decúbito dorsal e realizar ventilação com dispositivo bolsa válvulamáscara.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 57 de 75
+
+Resposta comentada:
+Gabarito oficial: Realizar compressões abdominais (manobra de Heimlich) até a desobstrução ou
+perda de consciência.
+Diante de um paciente com obstrução respiratória como o apresentado, com cianose,
+incapacidade para falar e tosse ineficaz, a manobra de Heimlich deve ser instituída para que haja
+a desobstrução das vias aéreas num adulto consciente. Se o adulto estiver inconsciente,
+devemos iniciar as manobras de ressuscitação cardiopulmonar.
+Manobra de Heimlich (compressões abdominais) - Técnica passo a passo (adulto não gestante,
+sem obesidade central):
+Posicione-se atrás do paciente e coloque um pé entre os dele para estabilidade.
+Envolva a cintura; feche um punho e posicione-o logo acima do umbigo e abaixo do apêndice
+xifoide (linha média).
+Segure o punho com a outra mão e aplique trações rápidas “para dentro e para cima” (movimento
+de J).
+Reavalie após cada compressão; continue até a desobstrução ou até o paciente perder a
+consciência.
+Se perder a consciência: acomode no chão com cuidado e inicie RCP (compressões torácicas),
+checando a boca entre ciclos e removendo corpo estranho visível; tente ventilar após as
+compressões.
+Contraindicações/variações: em gestantes e obesidade central, substitua por compressões
+torácicas no centro do esterno.
+Analisando as demais alternativas:
+Posicionar o paciente em decúbito dorsal e realizar ventilação com dispositivo bolsa válvulamáscara: incorreta!
+Ineficaz em obstrução completa: o ar não passará pelo bloqueio.
+Risco de insuflação gástrica e vômito/aspiração.
+BVM só tem papel após desobstrução ou em paciente inconsciente com manobras adequadas de
+via aérea.
+Iniciar as compressões torácicas como em uma parada cardiorrespiratória: incorreta.
+Indicado se o paciente estiver inconsciente (ou em gestantes/obesidade central no lugar do
+Heimlich).
+Neste caso, está consciente; a conduta prioritária é Heimlich.
+Posicionar o paciente em decúbito dorsal, realizar sedoanalgesia e bloqueio neuromuscular para
+intubação orotraqueal de emergência: incorreta.
+Quebra do algoritmo recomendado: em engasgo consciente e obstrução completa, a conduta
+imediata é manobra de Heimlich até desobstruir ou até perda de consciência. Intubação não é
+primeira linha nesse cenário.
+Referência:
+BERNOCHE, Claudia et al. Atualização da Diretriz de Ressuscitação Cardiopulmonar e Cuidados
+Cardiovasculares de Emergência da Sociedade Brasileira de Cardiologia – 2019. Arquivos
+Brasileiros de Cardiologia, São Paulo, v. 113, n. 3, p. 449–663, 2019. DOI: 10.5935/abc.20190203.
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 58 de 75
+
+Feedback:
+-Filtros da questão:
+
+[Tema]
+Vias aéreas básica e avançada (Extraglótica + Via aérea definitiva)
+[Subáreas de Conhecimento]
+Emergências respiratórias
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO CAXIAS
+[Habilidades]
+Reconhecer sinais de obstrução de vias aéreas e necessidade de
+intervenção emergencial, garantindo oxigenação adequada.
+[Competências (Objetivos)]
+Emergências metabólicas
+25ª QUESTÃO
+
+Código da questão:
+
+141277
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNINOVAFAPI) Paciente masculino, 25 anos, sem histórico psiquiátrico conhecido, é trazido ao
+pronto-socorro pela equipe do SAMU após ser encontrado em local público com comportamento
+agressivo, agitado, gritando frases desconexas e tentando se machucar. Durante a avaliação
+inicial, recusa-se a fornecer informações, não reconhece os familiares e tenta agredir os
+profissionais de saúde. A família relata que ele estava há dias sem dormir, muito desconfiado, e
+que abandonou abruptamente o trabalho. Não há sinais de intoxicação por substâncias no
+momento, e os sinais vitais estão estáveis. Considerando o caso descrito, qual deve ser a
+conduta adequada em relação ao processo de internação psiquiátrica deste paciente, conforme a
+legislação brasileira vigente?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 59 de 75
+
+Alternativas:
+(alternativa A)
+Liberar o paciente após estabilização clínica, considerando que ele se encontra consciente e
+orientado em parte da avaliação.
+(alternativa B)
+Internar compulsoriamente com autorização da equipe médica local, sem necessidade de
+autorização judicial.
+(alternativa C)
+Encaminhar para acompanhamento ambulatorial no CAPS, já que a internação involuntária só é
+permitida em quadros crônicos e refratários.
+(alternativa D) (CORRETA)
+Realizar a internação involuntária, sendo esta autorizada por familiar e comunicada ao Ministério
+Público em até 72 horas.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 60 de 75
+
+Resposta comentada:
+Gabarito:
+Realizar a internação involuntária, sendo esta autorizada por familiar e comunicada ao Ministério
+Público em até 72 horas.
+Comentário das alternativas:
+· Alternativa correta: O caso configura grave risco à integridade do paciente e de terceiros, com
+sinais de psicose aguda, o que justifica a internação involuntária com base na Lei nº 10.216/2001.
+A internação involuntária deve ser autorizada por familiar ou responsável legal e a unidade de
+saúde tem a obrigação de comunicar ao Ministério Público em até 72 horas.
+· Encaminhar para CAPS: O CAPS é um importante recurso na atenção psicossocial, mas a
+gravidade do quadro exige internação imediata para contenção e estabilização. A recusa do
+paciente e o risco iminente contraindicam o seguimento ambulatorial imediato.
+· Internar compulsória sem autorização judicial: A internação compulsória exige autorização
+judicial. Já a involuntária é a indicada neste caso, desde que autorizada por responsável legal e
+comunicada ao MP em tempo hábil.
+· Liberar o paciente após estabilização clínica: A liberação do paciente com comportamento
+psicótico, agressivo e em surto psicótico agudo, sem avaliação psiquiátrica completa e sem
+suporte terapêutico, configura negligência e risco ético-legal.
+Referências:
+NETO, Rodrigo Antonio B.; SOUZA, Heraldo Possolo de; MARINO, Lucas O.; et al. Medicina de
+emergência: abordagem prática. São Paulo: Editora Manole, 2023. E-book. ISBN 9788520464380.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788520464380/. Acesso em: 25
+abr. 2024. Cap. 18, p. 563–573.
+BRASIL. Lei nº 10.216, de 6 de abril de 2001. Dispõe sobre a proteção e os direitos das pessoas
+portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental.
+Disponível em: http://www.planalto.gov.br/ccivil_03/leis/LEIS_2001/L10216.htm. Acesso em: 25
+abr. 2024.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 61 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Emergências em psiquiatria
+[Tema]
+Emergências em Psiquiatria (tentativa de autoextermínio, crise de
+ansiedade e surto psicótico)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNINOVAFAPI
+[Habilidades]
+Executar encaminhamentos e internações psiquiátricas
+involuntárias, respeitando os critérios legais e éticos vigentes.
+[Competências (Objetivos)]
+Emergências em psiquiatria
+26ª QUESTÃO
+
+Código da questão:
+
+141327
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 62 de 75
+
+Enunciado:
+(AFYA Paraíba) Homem de 62 anos, com histórico de DPOC e diabetes tipo 2, é admitido no
+pronto-socorro com rebaixamento do nível de consciência, encontrando-se sonolento, mas
+responsivo ao chamado. Ao exame físico, apresenta respiração superficial, taquicardia, saturação
+de O₂ em 88% em ar ambiente, frequência respiratória de 10 irpm e pressão arterial de 98/64
+mmHg. O choque index está acima de 1,0. Foi realizada gasometria arterial com os seguintes
+resultados:
+pH: 7,21.
+PaCO₂: 58 mmHg.
+HCO₃⁻: 18 mEq/L.
+Excesso de base: –8.
+Lactato: 8 mmol/L.
+Glicemia: 340 mg/dL.
+Creatinina: 2,1 mg/dL.
+Na⁺: 138 mEq/L.
+K⁺: 5,3 mEq/L.
+Cl⁻: 100 mEq/L.
+Considerando os achados laboratoriais e clínicos, sobre a principal alteração ácido-básica e a
+conduta mais adequada frente ao distúrbio identificado, é correto o que se afirmar em qual
+alternativa a seguir?
+Alternativas:
+(alternativa A)
+Trata-se de uma alcalose respiratória compensada por acidose metabólica; deve-se manter
+oxigenioterapia e repetir exames em 2 horas.
+(alternativa B) (CORRETA)
+Trata-se de um distúrbio misto com acidose metabólica e respiratória; deve-se iniciar suporte
+ventilatório invasivo e investigar hipoperfusão.
+(alternativa C)
+Trata-se de uma acidose respiratória pura em paciente com hipoventilação; deve-se iniciar
+ventilação não invasiva e invetigação das causas.
+(alternativa D)
+Trata-se de uma acidose metabólica com anion gap aumentado isolada; deve-se indicar infusão
+de bicarbonato de sódio e avaliar hipoperfusão.
+
+Grau de dificuldade:
+
+Médio
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 63 de 75
+
+Resposta comentada:
+A alternativa (Distúrbio misto com acidose metabólica e acidose respiratória; iniciar suporte
+ventilatório e investigar hipoperfusão.) está correta. A análise gasométrica revela acidemia (pH
+7,21), com PaCO₂ elevado (58 mmHg) e HCO₃⁻ reduzido (18 mEq/L), configurando dois
+distúrbios acidóticos primários — uma acidose respiratória (pela hipoventilação) e uma acidose
+metabólica com anion gap aumentado (AG = 138 – [100 + 18] = 20), associada à elevação do
+lactato. A ausência de compensação respiratória esperada para a acidose metabólica (PaCO₂
+deveria estar em torno de 35 mmHg) confirma o diagnóstico de distúrbio misto verdadeiro. A
+presença de rebaixamento do nível de consciência, hipoventilação e choque justifica a
+necessidade de suporte ventilatório imediato e investigação da causa da hipoperfusão tecidual,
+como sepse ou descompensação diabética.
+A alternativa (Acidose respiratória pura em paciente com hipoventilação; iniciar ventilação não
+invasiva imediatamente.) está incorreta por indicar acidose respiratória isolada, desconsiderando
+o componente metabólico presente.
+A alternativa (Acidose metabólica com anion gap aumentado isolada; indicar infusão de
+bicarbonato de sódio.) está incorreta ao propor bicarbonato de sódio como primeira medida, sem
+considerar a hipoventilação grave e o risco de piora da acidemia intracelular.
+A alternativa (Alcalose respiratória compensada por acidose metabólica; manter oxigenioterapia e
+repetir exames em 2 horas.) está incorreta por indicar alcalose respiratória compensada, o que
+não é compatível com os valores apresentados (PaCO₂ aumentado e pH acidótico).
+Referências:
+USP. Tratado de Medicina de Emergência da USP. 2. ed. Barueri: Manole, 2020. Capítulo:
+Distúrbios ácido-básicos.
+Manual do Internato AFYA Paraíba, 2025.2 – Estágio em Urgência e Emergência Médica.
+Feedback:
+-Filtros da questão:
+
+[Tema]
+Distúrbios do equilíbrio ácido-básico
+[Subáreas de Conhecimento]
+Emergências clínicas
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Habilidades]
+Interpretar dados laboratoriais, identificando distúrbios mistos e
+necessidade de intervenção urgente.
+[Competências (Objetivos)]
+Emergências metabólicas
+27ª QUESTÃO
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 64 de 75
+
+Código da questão:
+
+141299
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIFIPMOC) Paciente masculino, 63 anos, com SDRA moderado secundário a pneumonia
+bacteriana, encontra-se sedado e intubado sob ventilação mecânica controlada a volume (VCV),
+com volume corrente de 6 mL/kg (peso predito), PEEP 10 cmH₂O, FiO₂ 0,6. Evolui com pH 7,26,
+PaCO₂ 58 mmHg, PaO₂ 70 mmHg. Está hemodinamicamente estável, sedado, com boa
+sincronia com o ventilador. Lactato 1,5 mmol/L.
+Dentre as alternativas abaixo e diante do quadro acima descrito, qual conduta está mais
+adequada neste momento?
+Alternativas:
+(alternativa A) (CORRETA)
+Manter os parâmetros ventilatórios, pois o quadro configura hipercapnia permissiva aceitável.
+(alternativa B)
+Aumentar a frequência respiratória apenas se a PaCO₂ ultrapassar 70 mmHg,
+independentemente do pH.
+(alternativa C)
+Aumentar o volume corrente para melhorar a ventilação alveolar e corrigir a hipercapnia.
+(alternativa D)
+Iniciar bicarbonato de sódio para corrigir o pH ácido secundário à retenção de CO₂.
+
+Grau de dificuldade:
+
+Médio
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 65 de 75
+
+Resposta comentada:
+Gabarito oficial:
+Manter os parâmetros ventilatórios, pois o quadro configura hipercapnia permissiva aceitável.
+Justificativa:
+Trata-se de hipercapnia permissiva, um conceito bem estabelecido na SDRA, em que se aceita
+uma elevação da PaCO₂ para proteger os pulmões, desde que o pH permaneça acima de 7,20 e
+o paciente esteja hemodinamicamente estável, sem contraindicações absolutas (ex: hipertensão
+intracraniana, acidose metabólica grave). Neste caso, o pH de 7,26 e a estabilidade clínica
+permitem manter os ajustes ventilatórios atuais.
+Análise das alternativas incorretas:
+Aumentar o volume corrente para melhorar a ventilação alveolar e corrigir a hipercapnia: Essa
+conduta viola o princípio da ventilação protetora, cujo objetivo é limitar o volume corrente (4–6
+mL/kg) para reduzir o risco de barotrauma e volutrauma. Mesmo diante de hipercapnia leve a
+moderada, não se deve elevar o VC se o pH estiver tolerável (> 7,20).
+Iniciar bicarbonato de sódio para corrigir o pH ácido secundário à retenção de CO₂: O uso de
+bicarbonato de sódio não está indicado em acidose respiratória pura leve a moderada, como
+neste caso. Pode inclusive causar sobrecarga volêmica, alcalose de rebote e agravamento da
+ventilação alveolar. Só seria considerado em acidose mista grave com pH < 7,1 segundo
+algumas referências.
+Aumentar a frequência respiratória apenas se a PaCO₂ ultrapassar 70 mmHg,
+independentemente do pH: A PaCO₂ isolada não é o critério principal para intervenção. O que guia
+a conduta é o pH e a repercussão clínica. Além disso, elevar a FR em excesso pode levar à
+autoPEEP e hiperinflação dinâmica, o que deve ser evitado em SDRA.
+Referência:
+AZEVEDO, Luciano César Pontes de; TANIGUCHI, Leandro Utino; LADEIRA, José Paulo (eds.).
+Medicina Intensiva: Abordagem Prática. 5. ed. Barueri: Manole, 2022.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 66 de 75
+
+Filtros da questão:
+
+[Tema]
+Síndrome respiratória aguda grave
+[Subáreas de Conhecimento]
+Emergências clínicas
+Emergências respiratórias
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIFIPMOC
+[Habilidades]
+Implementar estratégias de suporte ventilatório, oxigenoterapia e
+medidas protetoras, seguindo diretrizes no manejo da síndrome
+respiratória aguda grave.
+28ª QUESTÃO
+
+Código da questão:
+
+141313
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) Um homem de 27 anos é admitido no pronto-socorro após ingestão
+intencional de aproximadamente 40 comprimidos de clonazepam (2 mg) há cerca de 2 horas.
+Está sonolento, mas responde ao chamado verbal. Os sinais vitais mostram: PA 110 × 70
+mmHg, FC 82 bpm, FR 10 irpm, SpO₂ 91% em ar ambiente. Pupilas normais, sem rigidez ou
+reflexos patológicos. Não há histórico de uso crônico de benzodiazepínicos.
+Qual das alternativas abaixo representa a indicação mais adequada de conduta inicial quanto à
+internação?
+Alternativas:
+(alternativa A)
+Encaminhamento imediato para avaliação psiquiátrica e posterior alta com familiar responsável.
+(alternativa B)
+Alta hospitalar com orientação e prescrição de carvão ativado domiciliar.
+(alternativa C)
+Internação em enfermaria com vigilância de enfermagem e controle de sinais vitais.
+(alternativa D) (CORRETA)
+Internação em CTI pela necessidade de monitoramento da ventilação e risco de rebaixamento
+neurológico progressivo.
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 67 de 75
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Paciente ainda apresenta depressão do nível de consciência e hipoventilação leve (FR
+Errada 10, SpO2 91%). Além disso, a administração de carvão ativado fora do ambiente
+hospitalar é contraindicada.
+
+A enfermaria não possui monitoramento contínuo de oximetria e ventilação, nem
+Errada suporte imediato em caso de necessidade de via aérea avançada. A hipoventilação é
+um critério de risco.
+
+pacientes com intoxicação por benzodiazepínicos e rebaixamento do nível de
+Corret
+consciência com sinais de hipoventilação devem ser internados em CTI para
+a
+monitorização respiratória contínua e possível suporte ventilatório.
+
+Errada
+
+A avaliação psiquiátrica deve ocorrer após estabilização clínica. O paciente ainda
+apresenta depressão neurológica, o que contraindica alta hospitalar imediata.
+
+Referência:
+VELASCO, Irineu Tadeu; BRANDÃO NETO, Rodrigo Antonio; SOUZA, Heraldo Possolo de;
+MARINO, Lucas Oliveira; MARCHINI, Julio Flávio Meirelles; ALENCAR, Júlio César Garcia de
+(eds.). Medicina de Emergência: Abordagem Prática [18. ed.]. Santana de Parnaíba, SP: Manole,
+2024. 1712p
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 68 de 75
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Emergências
+Emergências em psiquiatria
+Medicina Intensiva
+Emergências clínicas
+Transtornos por uso de substâncias (TUS)
+[Tema]
+Intoxicações exógenas agudas
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO BARRA
+[Habilidades]
+Analisar exames laboratoriais e parâmetros clínicos, monitorando
+a gravidade e a evolução dos casos de intoxicação exógena
+aguda.
+Analisar critérios de encaminhamento para unidade de terapia
+intensiva, indicando necessidade de suporte avançado.
+[Competências (Objetivos)]
+Emergências em psiquiatria
+
+29ª QUESTÃO
+Código da questão:
+
+141610
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Paciente do sexo feminino, 27 anos, é trazida à emergência por familiares devido a
+comportamento estranho iniciado há 3 dias. Refere ouvir vozes comentando suas ações, acredita
+que sua mente está sendo monitorada por uma “tecnologia do governo” e mostra-se desconfiada
+com a equipe. Ao exame, apresenta discurso desorganizado, pensamento tangencial, sem
+consciência crítica do quadro. Nega uso de substâncias e não possui antecedentes psiquiátricos
+conhecidos.
+Com base na avaliação psicopatológica, analise qual é a hipótese diagnóstica mais provável?
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 69 de 75
+
+Alternativas:
+(alternativa A)
+Transtorno de personalidade paranoide, com padrão crônico de desconfiança e ausência de
+alucinações auditivas.
+(alternativa B)
+Transtorno delirante persistente, com delírios encapsulados e preservação da organização formal
+do pensamento.
+(alternativa C)
+Episódio depressivo maior com sintomas psicóticos congruentes com o humor, como culpa e
+ruína.
+(alternativa D) (CORRETA)
+Episódio psicótico agudo, caracterizado por alterações no conteúdo do pensamento,
+sensopercepção e julgamento.
+
+Grau de dificuldade:
+
+Médio
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 70 de 75
+
+Resposta comentada:
+Justificativas:
+"Episódio psicótico agudo, caracterizado por alterações no conteúdo do pensamento,
+sensopercepção e julgamento". Correta. O quadro é compatível com episódio psicótico agudo,
+com início recente, presença de delírios de influência (monitoramento), alucinações auditivas e
+desorganização do pensamento (tangencialidade). Há alteração do juízo crítico, e o quadro
+demanda investigação etiológica (primário ou secundário). A apresentação aguda favorece o
+diagnóstico de transtorno psicótico breve ou esquizofreniforme, dependendo da duração.
+"Transtorno delirante persistente, com delírios encapsulados e preservação da organização
+formal do pensamento." Incorreta. O transtorno delirante persistente cursa com delírios bem
+sistematizados, sem alterações evidentes do curso do pensamento, nem alucinações marcadas.
+O paciente costuma manter funcionalidade e discurso coerente fora do tema do delírio. Neste
+caso, há desorganização formal do pensamento e alucinações, o que contraindica esse
+diagnóstico.
+"Episódio depressivo maior com sintomas psicóticos congruentes com o humor, como culpa e
+ruína." Incorreta. No episódio depressivo maior com sintomas psicóticos, os delírios ou
+alucinações costumam ser congruentes com o humor (ex: ruína, culpa, punição). Aqui, os
+sintomas psicóticos são bizarros e incongruentes com humor deprimido, além da ausência de
+relato de humor deprimido proeminente.
+"Transtorno de personalidade paranoide, com padrão crônico de desconfiança e ausência de
+alucinações auditivas." Incorreta. O transtorno de personalidade paranoide é um padrão crônico e
+estável de desconfiança, geralmente sem alucinações auditivas ou alterações formais do
+pensamento. O quadro do caso é agudo, com psicose franca, o que descarta transtorno de
+personalidade como diagnóstico principal.
+Referência:
+ASSOCIATION, American P. Manual Diagnóstico e Estatístico de Transtornos Mentais - DSM-5TR: Texto Revisado . 5. ed. Porto Alegre: ArtMed, 2023. E-book. pi ISBN 9786558820949.
+Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9786558820949/. Acesso
+em: 23 jul. 2025.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 71 de 75
+
+Filtros da questão:
+
+[Tema]
+Psicopatologia e exame do estado mental – principais conceitos de
+psicopatologia, exame do estado mental, incluindo as
+manifestações clínicas nas principais desordens (esquizofrenia,
+transtornos afetivos e transtornos de ansiedade)
+[Subáreas de Conhecimento]
+Psicopatologia e Exame Mental
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Habilidades]
+Interpretar alterações em aspectos como humor, pensamento,
+sensopercepção e julgamento, fundamentando hipóteses
+diagnósticas.
+30ª QUESTÃO
+
+Código da questão:
+
+141336
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Caxias) Paciente de 65 anos, sem relato de comorbidades, apresentando quadro
+de coriza nasal, odinofagia e febre há cerca de 4 dias, evoluindo com dor torácica, dispneia e
+prostração. Foi atendido no serviço de Emergência, apresentando Sa02 76 % em ar ambiente, FR
+35 irpm, FC 110 bpm, PA 70/50 mmHg. Cianótico, hipocorado + 1/+ 4. Sonolento, escala de coma
+de Glasgow: 10.
+Aparelho respiratório: MVUA com roncos e estertores em bases.
+Aparelho cardiovascular: RCR 2T BNF sem sopros.
+Tomografia de tórax com padrão de vidro-fosco difuso em ambos os pulmões.
+Gasometria arterial com pO2 50 mmHg Sa02 76 %, pH: 7,2 HCO3 24, Pco2 55. Teste para
+Influenza A positivo.
+Sobre o quadro clínico e abordagem terapêutica, podemos afirmar que:
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 72 de 75
+
+Alternativas:
+(alternativa A)
+temos um quadro de pneumonia viral, sendo indicação de internação em enfermaria e
+suplementação de oxigênio.
+(alternativa B)
+temos um quadro de síndrome respiratória aguda grave, sendo indicado admissão em Terapia
+Intensiva e ventilação mecânica não invasiva.
+(alternativa C) (CORRETA)
+temos um quadro de síndrome respiratória aguda grave, sendo indicação de internação em
+ambiente de Terapia Intensiva além de ventilação mecânica invasiva.
+(alternativa D)
+temos um quadro de pneumonia viral, sendo indicado internação em Terapia Intensiva e
+ventilação não invasiva.
+
+Grau de dificuldade:
+
+Médio
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 73 de 75
+
+Resposta comentada:
+Temos um paciente com síndrome gripal, cuja definição seria a presença de febre, de início
+abrupto, associada a tosse ou odinofagia e pelo menos um dos sintomas: mialgia, cefaleia ou
+artralgia.
+O teste para Influenza foi positivo, mas temos um quadro clínico mais grave, com o paciente
+apresentando sinais de desconforto respiratório, caracterizando a Síndrome Respiratória Aguda
+Grave (SRAG).
+A SRAG é definida pela presença de síndrome gripal com dispneia ou os sinais de gravidade,
+como Sa02 < 95 %, sinais de desconforto respiratório ou aumento da frequência respiratória, piora
+das condições clínicas da doença de base ou hipotensão em relação à pressão habitual do
+paciente, podendo acometer indivíduo de qualquer idade.
+A presença de sinais de agravamento, com indicação de internação em ambiente de Terapia
+Intensiva, são:
+Sinais e sintomas de insuficiência respiratória.
+Hipoxemia, com necessidade de oferta de O2 > 3 L/ min para manutenção de Sa02 >
+90 %.
+Relação P/ F < 300.
+Alterações do nível de consciência.
+Instabilidade hemodinâmica.
+Sinais de comprometimento radiológico.
+O paciente em questão possui critérios de SRAG, com quadro de P/F < 300, sinais de
+comprometimento radiológico, instabilidade hemodinâmica e alteração do nível de consciência,
+que configuram indicações de internação em ambiente de Terapia Intensiva.
+Ele apresenta alteração do nível de consciência, instabilidade hemodinâmica e acidose
+respiratória, sendo indicação de intubação orotraqueal e ventilação mecânica invasiva.
+Referência:
+BRASIL. Ministério da Saúde. Secretaria de Estado de Saúde de Minas Gerais. Protocolo de
+Síndrome Gripal e Síndrome Respiratória Aguda Grave com ênfase em Influenza. Belo Horizonte:
+SES-MG, 2013. Disponível em: https://www.saude.mg.gov.br/gripe. Acesso em: 18 ago. 2025.
+Feedback:
+--
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 74 de 75
+
+Filtros da questão:
+
+[Tema]
+Síndrome respiratória aguda grave
+[Subáreas de Conhecimento]
+Emergências respiratórias
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO CAXIAS
+[Habilidades]
+Avaliar indicações de intubação orotraqueal e ventilação mecânica
+invasiva, definindo critérios para admissão em UTI em pacientes
+com síndrome respiratória aguda grave.
+[Competências (Objetivos)]
+Emergências metabólicas
+
+000169.620014.003b96.61dd7d.215e4d.f5f5a6.28420a.72cb5
+
+Pgina 75 de 75
+
+

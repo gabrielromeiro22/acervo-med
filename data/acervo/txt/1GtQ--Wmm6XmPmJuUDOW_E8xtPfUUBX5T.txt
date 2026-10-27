@@ -1,0 +1,703 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade
+V
+Professor (es):
+
+Período: 202601
+
+Turma:
+
+Data: 06/04/2026
+
+N1 ESPECÍFICA - MEDICINA - IESC V - 2026.1 - 1ª
+CHAMADA - 06/ABRIL
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19118 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Em consulta de seguimento na Unidade Básica de Saúde, um
+homem de 82 anos, com insuficiência cardíaca estável, diabetes mellitus tipo 2 e
+doença renal crônica estágio 3, refere fadiga progressiva, dificuldade para levantarse da cadeira sem apoio dos braços e redução da participação em atividades
+comunitárias. Nos últimos doze meses apresentou perda ponderal não intencional
+de cinco quilogramas, duas quedas e maior dependência para compras e preparo
+de refeições. Ao exame, observa-se diminuição de massa muscular periférica. A
+força de preensão palmar encontra-se abaixo do ponto de corte recomendado para
+sexo e idade. A bioimpedância demonstra redução de massa magra apendicular
+ajustada para estatura. A velocidade de marcha está inferior a 0,8 metros por
+segundo. A equipe discute classificação diagnóstica segundo o Consenso Europeu
+de Sarcopenia de 2018, diferenciação entre estágios da doença e relação com
+declínio funcional e síndrome do idoso frágil na Atenção Primária à Saúde.
+
+acervo.vip
+
+Com base no algoritmo diagnóstico do EWGSOP2 (2018) e na correlação entre
+força, massa muscular, desempenho físico e funcionalidade, assinale a alternativa
+correta.
+Alternativas:
+(alternativa A)
+A redução isolada da massa muscular apendicular, mesmo com força preservada e
+desempenho físico adequado, é suficiente para definir sarcopenia confirmada
+segundo critérios atuais.
+(alternativa B)
+A perda ponderal não intencional associada à multimorbidade define sarcopenia
+secundária independentemente da mensuração objetiva de força ou quantidade
+muscular.
+(alternativa C) (CORRETA)
+A presença concomitante de baixa força muscular, redução da massa magra
+apendicular e lentificação da marcha caracteriza sarcopenia grave, estágio
+associado a maior risco de incapacidade funcional.
+(alternativa D)
+A diminuição da velocidade de marcha constitui critério inicial obrigatório para
+suspeição diagnóstica, sendo a força muscular utilizada apenas para classificação
+prognóstica subsequente.
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 1 de 15
+
+Resposta comentada:
+“A presença concomitante de baixa força muscular, redução da massa magra
+apendicular e lentificação da marcha caracteriza sarcopenia grave, estágio
+associado a maior risco de incapacidade funcional.”
+A assertiva está correta, pois está plenamente alinhada à definição operacional
+proposta pelo EWGSOP2 (2018), que estabelece um algoritmo diagnóstico
+progressivo, centrado prioritariamente na força muscular como principal
+determinante clínico da sarcopenia.
+De acordo com o consenso:
+Baixa força muscular → indica sarcopenia provável , sendo o parâmetro inicial de
+rastreio e o mais fortemente associado a desfechos adversos.
+Baixa força + baixa massa muscular → confirma o diagnóstico de sarcopenia.
+Baixa força + baixa massa muscular + baixo desempenho físico (como redução da
+velocidade de marcha) → define sarcopenia grave .
+A redução da velocidade de marcha constitui marcador objetivo de
+comprometimento do desempenho físico e reflete falência funcional mais avançada
+do sistema músculo-esquelético. Esse estágio associa-se de forma consistente a
+maior risco de quedas, fraturas, hospitalizações, incapacidade para ABVD e AIVD,
+institucionalização e aumento da mortalidade.
+Assim, a classificação de sarcopenia grave não apenas descreve maior
+comprometimento estrutural e funcional, mas também sinaliza pior prognóstico
+clínico, demandando intervenção imediata e abordagem multidisciplinar focada em
+reabilitação, exercício resistido, adequação nutricional e manejo de comorbidades.
+“A redução isolada da massa muscular apendicular, mesmo com força preservada e
+desempenho físico adequado, é suficiente para definir sarcopenia confirmada
+segundo critérios atuais.”
+Está incorreta porque o EWGSOP2 retirou a centralidade da massa muscular
+isolada. A força reduzida é o critério inicial obrigatório para suspeição diagnóstica.
+“A diminuição da velocidade de marcha constitui critério inicial obrigatório para
+suspeição diagnóstica, sendo a força muscular utilizada apenas para classificação
+prognóstica subsequente.”
+Está incorreta porque o desempenho físico reduzido define gravidade, não sendo
+critério inicial de suspeição no algoritmo atual.
+“A perda ponderal não intencional associada a multimorbidade define sarcopenia
+secundária independentemente da mensuração objetiva de força ou quantidade
+muscular.”
+Está incorreta porque a classificação etiológica (primária ou secundária) não
+substitui critérios diagnósticos objetivos baseados em força e massa muscular.
+Referências:
+PONTES, V. C. B. Sarcopenia: rastreio, diagnóstico e manejo clínico. Journal of
+Hospital Sciences. 2022; 2(1): 4-14.
+FREITAS, Elizabete Viana de; MOHALLEM, Kalil L.; GAMARSKI, Roberto; et al. Manual
+Prático de Geriatria, 2.ª edição. Rio de Janeiro: Guanabara Koogan, 2017.
+Feedback:
+-2ª QUESTÃO
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 2 de 15
+
+Enunciado:
+(AFYA ITABUNA) Sr. Manoel, 55 anos, é um paciente que comparece à Unidade de
+Saúde da Família com queixas de dor lombar há aproximadamente 9 meses. Ele
+relata que a dor é constante, piorando ao final do dia e após longos períodos na
+posição sentada. Sr. Manoel refere também que a dor interfere no seu sono e nas
+atividades diárias. Até o momento, ele usou analgésicos diversos com alívio parcial
+da dor. Após a consulta, a médica de família da unidade refere que o quadro clínico
+apresentado é compatível com dor crônica leve e prossegue com as devidas
+orientações ao paciente.
+Considerando a abordagem da dor crônica na Atenção Primária à Saúde e a Escada
+Analgésica proposta pela OMS, assinale a alternativa que apresenta a conduta
+adequada.
+Alternativas:
+(alternativa A)
+Iniciar tratamento com opioide forte e recomendar repouso absoluto para prevenir o
+agravamento da dor.
+(alternativa B)
+Recomendar tratamento exclusivamente medicamentoso com paracetamol, sem
+necessidade de intervenções adicionais.
+(alternativa C) (CORRETA)
+Prescrever AINEs e iniciar medidas de reabilitação, como exercícios físicos
+supervisionados, orientação postural e TCC.
+(alternativa D)
+Encaminhar o paciente para consulta ortopédica imediata e avaliação de possível
+intervenção cirúrgica.
+
+Resposta comentada:
+O tratamento da dor lombar crônica na Atenção Primária deve ser multifacetado,
+combinando tratamento farmacológico com intervenções não farmacológicas. No
+presente caso, a utilização de AINEs pode ser indicada para alívio da dor crônica
+leve, associada a analgésico simples. Além disso, é fundamental associar medidas
+não farmacológicas, como exercícios físicos supervisionados, orientação postural e
+intervenções psicossociais, como a terapia cognitivo-comportamental, para
+promover uma abordagem integral e melhorar a qualidade de vida do paciente.
+Opioides são indicados a partir de dor moderada, sendo os fortes reservados para
+dor intensa. Repouso absoluto é, geralmente, contraindicado, e a avaliação
+cirúrgica imediata é reservada para casos específicos com sinais de gravidade.
+Referência:
+GUSSO, Gustavo; LOPES, José M.C. DIAS, Lêda C. (Orgs.). Tratado de Medicina de
+Família e Comunidade: Princípios, Formação e Prática. Porto Alegre: ARTMED, 2018,
+p. 2388, cap. 103.
+Feedback:
+-3ª QUESTÃO
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 3 de 15
+
+Enunciado:
+(AFYA ITACOATIARA) Na UBS, durante consulta de rotina, uma idosa de 78 anos
+comparece acompanhada do filho, que responde às perguntas por ela e demonstra
+impaciência. A médica da unidade observa higiene corporal precária, equimoses em
+membros superiores e relato da idosa de que “às vezes fica sozinha o dia todo, sem
+alimentação adequada”. A família depende financeiramente da aposentadoria da
+paciente.
+Considerando o caso descrito, identifique os tipos de violência presentes, bem como
+a prevalência e fatores de risco associados à violência contra a pessoa idosa.
+Alternativas:
+(alternativa A) (CORRETA)
+Violência física, negligência e possível violência psicológica; trata-se de agravo
+frequente, geralmente praticado por familiares, associado à dependência funcional
+e financeira.
+(alternativa B)
+Violência psicológica; a principal prevalência ocorre em instituições de longa
+permanência, sendo a UBS pouco relevante para identificação desses casos.
+(alternativa C)
+Violência institucional; é a principal causa de violência e está relacionada em
+grande parte à falha estrutural dos serviços de saúde, devido à falta de políticas
+públicas adequadas.
+(alternativa D)
+Violência física e negligência; a violência física contra idosos é evento raro na
+Atenção Primária em Saúde e não possui associação com fatores familiares ou
+dependência financeira.
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 4 de 15
+
+Resposta comentada:
+"Violência física e negligência; a violência física contra idosos é evento raro na
+Atenção Primária em Saúde e não possui associação com fatores familiares ou
+dependência financeira."
+A alternativa está incorreta, embora identifique corretamente a violência física
+(equimoses) e negligência (higiene precária e ausência de alimentação adequada),
+afirma equivocadamente que a violência contra idosos é evento raro e sem
+associação com fatores familiares ou dependência financeira. A violência contra a
+pessoa idosa é frequente, subnotificada e ocorre predominantemente no ambiente
+doméstico, estando associada à dependência funcional, sobrecarga do cuidador e
+dependência financeira.
+"Violência psicológica; a principal prevalência ocorre em instituições de longa
+permanência, sendo a UBS pouco relevante para identificação desses casos."
+A alternativa está incorreta, o caso apresenta sinais claros de violência física e
+negligência, não apenas violência psicológica. Além disso, embora a violência possa
+ocorrer em instituições, a maior prevalência ocorre no ambiente familiar, sendo a
+Atenção Primária à Saúde o serviço estratégico para identificação precoce desses
+casos.
+"Violência física, negligência e possível violência psicológica; trata-se de agravo
+frequente, geralmente praticado por familiares, associado à dependência funcional
+e financeira."
+A alternativa está correta; o caso evidencia violência física (equimoses), negligência
+(higiene inadequada e ausência de alimentação) e indícios de violência psicológica
+(filho responde por ela, impaciência e possível controle). A literatura aponta que a
+violência contra a pessoa idosa é frequente, geralmente praticada por familiares,
+especialmente filhos, e está associada a fatores como dependência funcional,
+dependência financeira e vulnerabilidade social.
+"Violência institucional é a principal causa de violência e está relacionada em
+grande parte à falha estrutural dos serviços de saúde, devido à falta de políticas
+públicas adequadas."
+A alternativa está incorreta; o caso não descreve violência institucional, que se
+refere a falhas ou abusos ocorridos dentro de instituições ou serviços. O cenário
+apresentado evidencia violência doméstica/familiar. Além disso, a violência contra
+idosos é multifatorial, não estando relacionada exclusivamente à estrutura dos
+serviços de saúde.
+Referência:
+GUSSO, Gustavo; LOPES, José M.C.; DIAS, Lêda C. (Orgs.). Tratado de Medicina de
+Família e Comunidade: Princípios, Formação e Prática. Porto Alegre: ARTMED, 2019,
+p. 2388. (Cap. 83.)
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA GUANAMBI) Durante visita domiciliar, estudantes acompanham a equipe da
+ESF na avaliação de um homem de 78 anos, hipertenso e diabético, que relata duas
+quedas no último ano, sem fraturas. Refere tontura ao se levantar da cama, utiliza
+quatro medicamentos contínuos e apresenta dificuldade visual. No domicílio,
+observam tapetes soltos na sala, iluminação insuficiente no corredor e ausência de
+barras de apoio no banheiro. O idoso deambula sem auxílio e não realiza atividade
+física regular. A equipe discute medidas para reduzir o risco de novas quedas.
+Considerando a situação apresentada, a conduta mais adequada na Atenção
+Primária à Saúde para prevenção de novas quedas desse paciente é:
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 5 de 15
+
+Alternativas:
+(alternativa A)
+prescrever suplemento vitamínico de rotina, encaminhar para fisioterapia motora e
+recomendar repouso domiciliar para evitar novas quedas.
+(alternativa B)
+encaminhar para avaliação ortopédica especializada, independentemente da
+investigação de fatores ambientais e clínicos.
+(alternativa C)
+manter acompanhamento habitual das doenças crônicas do idoso, sem necessidade
+de intervenções específicas relacionadas às quedas em visita domiciliar.
+(alternativa D) (CORRETA)
+orientar retirada de tapetes soltos, revisar medicações em uso, avaliar possível
+hipotensão postural e estimular exercícios para fortalecimento e equilíbrio.
+
+Resposta comentada:
+A prevenção de quedas na APS envolve abordagem multifatorial, incluindo
+identificação de fatores de risco clínicos (polifarmácia, hipotensão postural,
+alterações visuais), avaliação ambiental (iluminação, tapetes, ausência de barras de
+apoio) e intervenções comportamentais, como estímulo a exercícios de
+fortalecimento muscular e treino de equilíbrio. A alternativa correta contempla a
+revisão medicamentosa, avaliação clínica direcionada e adequação do ambiente
+domiciliar, compondo estratégia integral de prevenção.
+A suplementação vitamínica isolada e o repouso não abordam os principais fatores
+de risco e podem inclusive favorecer perda funcional. O encaminhamento imediato
+ao especialista, sem avaliação inicial na APS, desconsidera o papel coordenador do
+cuidado. A manutenção do acompanhamento habitual, sem intervenção específica,
+ignora o risco aumentado de novas quedas e suas complicações.
+Referências:
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de
+Atenção Básica. Envelhecimento e saúde da pessoa idosa. Ministério da Saúde,
+Secretaria de Atenção à Saúde, Departamento de Atenção Básica. Brasília:
+Ministério da Saúde, 2007. 192 p.: il. – (Série A. Normas e Manuais Técnicos)
+(Cadernos de Atenção Básica; n. 19).
+FREITAS, Elizabete Viana de; MOHALLEM, Kalil L.; GAMARSKI, Roberto; et al. Manual
+Prático de Geriatria. 2. ed. Rio de Janeiro: Guanabara Koogan, 2017. E-book, p. 31.
+ISBN 9788527731843. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527731843/. 20 out.
+2025.
+Feedback:
+-5ª QUESTÃO
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 6 de 15
+
+Enunciado:
+(AFYA GARANHUNS) Em discussão clínica ampliada na Unidade Básica de Saúde
+Paulo Freire, a equipe da Estratégia Saúde da Família analisa o caso de uma mulher
+de 84 anos, acompanhada longitudinalmente por multimorbidade, incluindo
+hipertensão arterial sistêmica, diabetes mellitus tipo 2, fibrilação atrial em uso de
+anticoagulação, osteoporose e doença pulmonar obstrutiva crônica leve. Nos
+últimos oito meses, apresentou perda ponderal não intencional, redução da força de
+preensão manual, lentificação da marcha, dois episódios de queda, maior
+dependência para banho e preparo de alimentos, esquecimento de compromissos,
+dificuldade para organizar medicamentos e tristeza persistente após falecimento de
+irmã. Mora sozinha, com apoio intermitente de vizinha. Observa-se domicílio com
+iluminação precária e ausência de barras de apoio. Utiliza nove medicamentos
+contínuos. A equipe reconhece que a compreensão do caso exige abordagem
+estruturada que considere capacidade intrínseca, funcionalidade, vulnerabilidades
+contextuais e interação entre domínios do envelhecimento.
+Com base nos fundamentos da avaliação multidimensional da pessoa idosa na
+Atenção Primária à Saúde, assinale a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+A avaliação multidimensional estrutura-se na investigação integrada das dimensões
+clínica, funcional, cognitiva, emocional, nutricional, ambiental e social,
+reconhecendo interação dinâmica entre capacidade intrínseca, autonomia e
+vulnerabilidade.
+(alternativa B)
+A avaliação multidimensional prioriza a identificação do fenótipo de fragilidade
+física e da sarcopenia, entendendo que alterações cognitivas e sociais representam
+consequências tardias dessas condições.
+(alternativa C)
+A avaliação multidimensional deve organizar-se a partir da análise das morbidades
+e da estabilidade clínica, compreendendo funcionalidade e contexto social como
+desdobramentos secundários do controle biomédico adequado.
+(alternativa D)
+A avaliação multidimensional fundamenta-se principalmente na aplicação de
+instrumentos padronizados de rastreio cognitivo e depressivo, considerando
+capacidade funcional como variável dependente dessas mensurações.
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 7 de 15
+
+Resposta comentada:
+Essa afirmação está correta porque a avaliação multidimensional na Atenção
+Primária à Saúde constitui um processo estruturado, sistemático e integrado de
+análise do estado global de saúde, baseado na inter-relação de domínios clínicos,
+funcionais, cognitivos, emocionais e sociais. Não se trata de uma simples soma de
+aspectos isolados, mas de uma leitura ampliada e articulada da condição do
+indivíduo em seu contexto de vida.
+O paradigma contemporâneo incorpora a avaliação da capacidade intrínseca, da
+funcionalidade (ABVD e AIVD), da cognição, do humor, do estado nutricional, das
+condições ambientais e da rede de suporte social, reconhecendo que autonomia,
+vulnerabilidade e risco clínico emergem da interação dinâmica entre fatores
+biológicos, psicológicos e determinantes sociais da saúde.
+Dessa forma, a prática assistencial desloca o foco exclusivo na doença para uma
+abordagem centrada na funcionalidade, na preservação da independência e na
+otimização da qualidade de vida, orientando intervenções individualizadas,
+preventivas e longitudinalmente acompanhadas no âmbito da APS.
+Incorretas:
+“A avaliação multidimensional deve organizar-se a partir da análise das morbidades
+e da estabilidade clínica, compreendendo funcionalidade e contexto social como
+desdobramentos secundários do controle biomédico adequado.”
+Essa proposição é incorreta porque reduz a avaliação ao modelo biomédico
+tradicional. Funcionalidade e contexto social não são desdobramentos secundários,
+mas componentes estruturantes da avaliação geriátrica na APS, influenciando
+diretamente prognóstico, risco de incapacidade e planejamento do cuidado.
+“A avaliação multidimensional prioriza a identificação do fenótipo de fragilidade
+física e da sarcopenia, entendendo que alterações cognitivas e sociais representam
+consequências tardias dessas condições.”
+Essa afirmação é incorreta porque a fragilidade física é apenas um dos domínios
+possíveis. Alterações cognitivas, emocionais e sociais não são necessariamente
+consequências tardias da fragilidade; podem coexistir, preceder ou interagir de
+forma bidirecional, exigindo avaliação simultânea e integrada.
+“A avaliação multidimensional fundamenta-se principalmente na aplicação de
+instrumentos padronizados de rastreio cognitivo e depressivo, considerando
+capacidade funcional como variável dependente dessas mensurações.”
+Essa proposição é incorreta porque instrumentos de rastreio são ferramentas
+auxiliares. A funcionalidade não depende exclusivamente de cognição e humor,
+sendo influenciada por mobilidade, nutrição, comorbidades, ambiente físico e rede
+de apoio, exigindo avaliação clínica ampliada.
+Referências:
+DUCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas
+em evidências. Disponível em: Minha Biblioteca (5.ª edição). Grupo A, 2022.
+GUSSO, G. et al. Tratado de Medicina de Família e Comunidade — 2 volumes:
+princípios, formação e prática. Disponível em: Minha Biblioteca (2.ª edição). Grupo
+A, 2019.
+Feedback:
+-6ª QUESTÃO
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 8 de 15
+
+Enunciado:
+(AFYA PATO BRANCO) Na APS, você acompanha Dona Marta (52 anos), cuidadora
+principal do pai, Sr. João (79 anos), com limitação funcional leve após uma queda.
+Ela relata cansaço extremo, irritabilidade, insônia e diz que “não confia em
+ninguém para ajudar”. Afirma que o pai “não pode fazer nada sozinho”, então ela
+faz todas as atividades e não permite que ele caminhe sem segurar seu braço.
+Quando a equipe sugere dividir tarefas com a irmã, Marta responde que “se algo
+acontecer, a culpa vai ser minha”. O idoso diz que “quer tentar fazer algumas
+coisas”, mas a filha o impede por medo. A ACS percebe que Marta evita sair de casa
+e sente-se “negligenciada” pela família.
+Com base nas questões de sobrecarga do cuidador e prevenção desse cenário,
+assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Reforçar que o cuidador não deve delegar tarefas a familiares, pois isso tende a
+aumentar conflitos; portanto, a estratégia mais eficaz é manter o cuidado
+concentrado em uma única pessoa.
+(alternativa B)
+Manter a assistência integral em todas as atividades, pois a principal forma de
+prevenir sobrecarga é evitar que o idoso realize tarefas sozinho, reduzindo riscos e
+responsabilidades.
+(alternativa C)
+Focar apenas em orientar o cuidador a “descansar mais” e prescrever medidas para
+o sono, sem explorar detalhes do cuidado, para evitar tensão familiar e preservar a
+rotina atual.
+(alternativa D) (CORRETA)
+Investigar os pormenores do cuidado para diferenciar assistência de supervisão,
+identificar medos/falta de conhecimento e sentimento de negligência, planejar
+delegação de tarefas e estimular autonomia segura do idoso, valorizando aspectos
+positivos do cuidado.
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 9 de 15
+
+Resposta comentada:
+A alternativa — investigar os pormenores do cuidado para diferenciar assistência de
+supervisão, identificar medos/falta de conhecimento e sentimento de negligência,
+planejar delegação de tarefas e estimular autonomia segura do idoso, valorizando
+aspectos positivos do cuidado — está correta. Está alinhada à sobrecarga que pode
+decorrer de excesso de assistência quando bastaria supervisão, além de medo, falta
+de conhecimento e sentimento de negligência que impedem delegar tarefas. O
+profissional deve questionar o grau de assistência e os pormenores do cuidado,
+promover autonomia segura e fortalecer aspectos positivos
+(reconhecimento/apoio), reduzindo sobrecarga.
+Justificativa das alternativas incorretas:
+“Manter assistência integral em todas as atividades…”
+Essa conduta:
+Aumenta a sobrecarga do cuidador;
+Favorece dependência desnecessária do idoso;
+Pode acelerar perda funcional;
+Não promove autonomia nem corresponsabilização;
+A prevenção da sobrecarga não ocorre por hiperassistência, mas por organização e
+compartilhamento do cuidado.
+“Focar apenas em orientar o cuidador a descansar…”
+Essa abordagem é superficial porque:
+Não investiga causas estruturais da sobrecarga;
+Não aborda superproteção;
+Não intervém na dinâmica familiar;
+Trata apenas o sintoma (insônia), não o problema central;
+A APS deve atuar de forma ampliada, e não apenas sintomática.
+“Não delegar tarefas a familiares…”
+Essa conduta:
+Mantém a centralização do cuidado;
+Aumenta risco de esgotamento;
+Contraria princípios de apoio familiar e rede de cuidado;
+Impede corresponsabilização;
+Delegar tarefas, quando bem planejado, reduz sobrecarga e melhora a qualidade do
+cuidado.
+Referência:
+DINIZ, Lucas R.; GOMES, Daniel Christiano de A.; KITNER, Daniel. Geriatria. Rio de
+Janeiro: MedBook Editora, 2019. E-book. p.496. ISBN 9786557830048. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9786557830048/.
+Acesso em: 25 mar. 2026.
+Feedback:
+-7ª QUESTÃO
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 10 de 15
+
+Enunciado:
+(AFYA MONTES CLAROS) Em uma Unidade Básica de Saúde (UBS), durante visita
+domiciliar, a equipe acompanha um homem de 78 anos, dependente para
+atividades básicas da vida diária após acidente vascular cerebral. Sua filha, 52 anos,
+é a cuidadora principal, reside no mesmo domicílio e relata cansaço persistente,
+dificuldade para dormir, abandono de atividades de lazer e sensação frequente de
+sobrecarga. Refere não receber ajuda de outros familiares. Considerando a
+importância da identificação precoce de sofrimento do cuidador no contexto da
+Atenção Primária à Saúde, a equipe decide aplicar a Escala de Sobrecarga de Zarit
+(versão completa, 22 itens). O resultado obtido foi de 46 pontos.
+De acordo com recomendações do Ministério da Saúde para o cuidado da pessoa
+idosa e apoio ao cuidador no âmbito do SUS, a interpretação mais adequada do
+resultado e a conduta inicial indicada são, respectivamente:
+Alternativas:
+(alternativa A)
+sobrecarga leve; e reforçar apenas orientações educativas, sem necessidade de
+acompanhamento específico.
+(alternativa B) (CORRETA)
+sobrecarga moderada a severa; e incluir a cuidadora em acompanhamento
+sistemático na APS, com escuta qualificada, orientação e apoio psicossocial.
+(alternativa C)
+sobrecarga severa; e encaminhamento imediato exclusivo para atenção terciária,
+sem manutenção do acompanhamento pela equipe da UBS.
+(alternativa D)
+ausência de sobrecarga; e manter apenas monitoramento anual em consulta de
+rotina.
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 11 de 15
+
+Resposta comentada:
+Sobrecarga leve; reforçar apenas orientações educativas, sem necessidade de
+acompanhamento específico. Errada:
+Por quê: 46 pontos não correspondem a sobrecarga leve. Na interpretação mais
+utilizada para a ZBI-22, 41–60 indica sobrecarga moderada a severa.
+Conduta inadequada: “apenas orientações educativas, sem acompanhamento” é
+insuficiente quando há sobrecarga importante relatada + escore elevado, pois o
+cuidador também precisa de plano de cuidado, acompanhamento longitudinal e
+suporte pela APS.
+Sobrecarga moderada a severa; incluir a cuidadora em acompanhamento
+sistemático na APS, com escuta qualificada, orientação e apoio psicossocial. Certa:
+Por quê (interpretação): 46 pontos se enquadram em 41–60 = moderada a severa,
+portanto a interpretação do item está correta.
+Por quê (conduta): diretrizes do MS para o cuidado à pessoa idosa reforçam que a
+APS deve reconhecer necessidades do cuidador, monitorar sofrimento/sobrecarga e
+organizar apoio/ações (escuta, orientação, rede de apoio/grupos,
+acompanhamento), mantendo a coordenação do cuidado.
+Além disso, o próprio material do MS sobre envelhecimento explicita a importância
+de avaliar estresse do cuidador e discutir planejamento assistencial quando há
+“altos escores”.
+Sobrecarga severa; encaminhamento imediato exclusivo para atenção terciária,
+sem manutenção do acompanhamento pela equipe da UBS. Errada.
+Por quê (interpretação): 46 pontos não é “severa” na classificação mais usada
+(severa geralmente 61–88).
+Por quê (rede/coordenação): encaminhar “exclusivamente” para nível terciário e
+retirar o acompanhamento da UBS contraria o princípio de coordenação e
+longitudinalidade da APS; mesmo com encaminhamentos, a APS segue responsável
+pelo seguimento e articulação do cuidado.
+
+Ausência de sobrecarga; manter apenas monitoramento anual em consulta de
+rotina. Errada.
+Por quê: 46 pontos é incompatível com “ausência de sobrecarga”. Na interpretação
+de escore, ausência/pouca sobrecarga fica até 0–21 (ou <21).
+Conduta inadequada: “apenas monitoramento anual” ignora sinais clínicos e
+psicossociais descritos (insônia, abandono de lazer, cansaço persistente, sem
+apoio), que demandam abordagem ativa e acompanhamento.
+
+Referência:
+Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de
+Atenção Básica. Envelhecimento e saúde da pessoa idosa / Ministério da Saúde,
+Secretaria de Atenção à Saúde, Departamento de Atenção Básica – Brasília:
+Ministério da Saúde, 2006.
+
+Feedback:
+-8ª QUESTÃO
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 12 de 15
+
+Enunciado:
+(AFYA IPATINGA) Mulher, 56 anos, comparece à Unidade Básica de Saúde (UBS) para
+consulta de acompanhamento. Relata dor lombar há cerca de 2 anos, de início
+insidioso, com piora progressiva. A dor é diária, com intensidade moderada de 6/10,
+piora com atividades domésticas e já levou à redução de suas atividades físicas e
+sociais. Refere fadiga e sono não reparador. Nega sinais de alarme (febre, perda
+ponderal, déficit neurológico). Já fez uso eventual de dipirona, com alívio parcial. Ao
+exame físico, não há alterações neurológicas ou sinais inflamatórios. O impacto
+funcional e emocional da dor é evidente.
+Considerando o manejo da dor crônica na Atenção Primária à Saúde e utilizando
+como referência a escada analgésica da dor, qual é a conduta mais adequada neste
+momento?
+Alternativas:
+(alternativa A)
+Priorizar o tratamento farmacológico com opioide forte em dose fixa, visando
+controle rápido da dor, associado a repouso físico prolongado e encaminhamento
+precoce para serviço especializado em dor.
+(alternativa B)
+Manter analgesia apenas sob demanda com analgésicos simples, orientar redução
+das atividades físicas para evitar piora da dor e reavaliar somente se houver
+agravamento dos sintomas.
+(alternativa C)
+Encaminhar o paciente para avaliação especializada antes de qualquer ajuste
+terapêutico, suspendendo intervenções medicamentosas e não medicamentosas
+até definição diagnóstica conclusiva.
+(alternativa D) (CORRETA)
+Introduzir opioide fraco, associado a analgésicos não opioides e a estratégias não
+medicamentosas, como atividade física orientada e educação em dor, com
+monitoramento regular de eficácia e efeitos adversos.
+
+Resposta comentada:
+O uso precoce de opioides fortes não respeita a lógica da escada analgésica e
+aumenta o risco de eventos adversos. O repouso prolongado é prejudicial na dor
+musculoesquelética crônica e o encaminhamento precoce não substitui o papel
+coordenador da APS.
+A analgesia exclusivamente sob demanda e a orientação de evitar atividade física
+desconsideram a natureza crônica da dor e seu impacto biopsicossocial, além de
+favorecer perda funcional, piora da dor e comprometimento da autonomia.
+Diante da persistência de dor moderada a intensa, apesar do uso adequado de
+analgésicos não opioides, está indicada a progressão para o segundo degrau da
+escada analgésica, com introdução de opioide fraco, preferencialmente associado a
+analgésicos simples e a intervenções não medicamentosas. Essa conduta respeita
+os princípios de segurança, individualização, cuidado centrado na pessoa e
+acompanhamento longitudinal na APS.
+Na ausência de sinais de alarme, o manejo inicial da dor crônica deve ocorrer na
+APS. Postergar intervenções terapêuticas até avaliação especializada fragmenta o
+cuidado e contraria os princípios da integralidade e da longitudinalidade.
+Referência:
+GUSSO, Gustavo; LOPES, José M.C. DIAS, Lêda C. (Orgs.). Tratado de Medicina de
+Família e Comunidade: Princípios, Formação e Prática. Porto Alegre: ARTMED, 2018,
+p. 2388, cap. 103.
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 13 de 15
+
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(AFYA MONTES CLAROS) Em uma Unidade Básica de Saúde (UBS), a equipe
+acompanha o Sr. J.R.S., 74 anos, residente no território, com diagnóstico de
+hipertensão arterial sistêmica, diabetes mellitus tipo 2, osteoartrite de joelhos e
+depressão leve. Apresenta queixas de dor crônica, dificuldade para caminhar,
+esquecimentos frequentes, uso irregular de medicações e relato da filha de que tem
+se isolado socialmente. Vive com a esposa, também idosa, e possui renda familiar
+limitada. Faz uso de cinco medicamentos contínuos.
+Considerando os princípios do cuidado integral à pessoa idosa na APS.
+A) Identifique as principais dimensões da avaliação multidimensional que devem ser
+consideradas nesse caso. (0,75)
+B) Proponha um plano de cuidado compatível com a APS, contemplando manejo
+clínico, intervenções não farmacológicas, organização do acompanhamento e
+possíveis articulações na rede de atenção. (0,75)
+Alternativas:
+-Resposta comentada:
+Item A:
+Deve contemplar:
+✔ Dimensão clínica (controle HAS/DM, dor crônica, polifarmácia);
+✔ Dimensão funcional (mobilidade, risco de quedas, AVD/AIVD);
+✔ Dimensão cognitiva (queixas de memória → rastreio cognitivo);
+✔ Dimensão psicológica (depressão, isolamento);
+✔ Dimensão social/familiar (rede de apoio, renda, sobrecarga da esposa);
+✔ Uso de medicamentos/polifarmácia.
+
+Item B:
+Deve contemplar:
+✔ Revisão medicamentosa (risco de polifarmácia);
+✔ Educação em saúde e adesão terapêutica;
+✔ Intervenções não farmacológicas (atividade física adaptada, grupo de idosos);
+✔ Acompanhamento longitudinal pela equipe;
+✔ Articulação com NASF/psicologia/fisioterapia (se disponível);
+✔ Coordenação do cuidado, mesmo com possíveis encaminhamentos.
+
+Referências:
+Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de
+Atenção Básica.
+Envelhecimento e saúde da pessoa idosa / Ministério da Saúde, Secretaria de
+Atenção à Saúde, Departamento de Atenção Básica – Brasília: Ministério
+da Saúde, 2006.
+Feedback:
+-000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 14 de 15
+
+10ª QUESTÃO
+Enunciado:
+(AFYA VITÓRIA DA CONQUISTA) Durante uma visita domiciliar, a equipe de Saúde da
+Família avalia um idoso de 82 anos, viúvo, que vive sozinho em sua residência. Ele
+apresenta hipertensão arterial sistêmica, diabetes tipo 2 e osteoartrose de joelhos.
+Relata perda de 6 kg nos últimos 8 meses, diminuição do apetite, dificuldade para
+carregar objetos do mercado e episódios de desequilíbrio, com duas quedas no
+último semestre. Ao exame físico, observa-se marcha lenta, redução da força de
+preensão palmar à dinamometria e dificuldade em realizar o teste de sentar e
+levantar da cadeira.
+Sabendo que a sarcopenia é uma condição prevalente no idoso e que a Atenção
+Primária deve atuar de forma integrada na sua prevenção, diagnóstico e manejo,
+responda aos itens a seguir.
+1. Defina sarcopenia e explique sua relevância clínica no envelhecimento
+populacional. (0,75)
+2. Identifique os fatores predisponentes para sarcopenia e fragilidade óssea
+presentes na história clínica descrita. (0,75)
+Alternativas:
+-Resposta comentada:
+Item 1 (pontuação total: 50%):
+- Definição de sarcopenia: 25%.
+- Relevância clínica da sarcopenia: 25%.
+Sarcopenia: é uma síndrome caracterizada pela perda progressiva e generalizada
+da massa muscular, força e desempenho físico.
+A relevância clínica da sarcopenia no envelhecimento populacional decorre de seu
+papel como uma das principais causas de declínio funcional em idosos, ao aumentar
+o risco de quedas, fraturas, institucionalização e mortalidade.
+Item 2 (pontuação total: 50%):
+- Ao menos 5 itens da lista abaixo: 50%.
+- 4 itens da lista abaixo: 40%.
+- 3 itens da lista abaixo: 30%.
+- 2 itens da lista abaixo: 20%.
+- 1 item da lista abaixo: 10%.
+Os fatores predisponentes presentes no caso são:
+idade avançada;
+doenças crônicas (diabetes e/ou hipertensão e/ou osteoartrose);
+perda ponderal não intencional;
+diminuição do apetite e/ou desnutrição;
+quedas recorrentes;
+sedentarismo;
+isolamento social.
+Referência:
+FREITAS, Elizabete Viana de; MOHALLEM, Kalil L.; GAMARSKI, Roberto; et al. Manual
+Prático de Geriatria, 2.ª edição. Rio de Janeiro: Guanabara Koogan, 2017. E-book, p.
+369. ISBN 9788527731843. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527731843/. Acesso em: 01
+set. 2025.
+Feedback:
+--
+
+000191.18001c.53f780.87b16b.da3729.ca0677.3fa384.3b43d
+
+Página 15 de 15
+
+

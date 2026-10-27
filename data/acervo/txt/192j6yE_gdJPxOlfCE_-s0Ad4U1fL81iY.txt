@@ -1,0 +1,900 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina II
+Professor (es):
+Período: 202402
+
+Turma:
+
+Data:
+
+2°PERÍODO_MCM II_28NOVEMBRO 2024
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 14505 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA BRANGANÇA) Em uma comunidade de baixa renda localizada na zona periférica de uma
+cidade brasileira, a falta de saneamento básico adequado é um grande desafio para a saúde
+pública. Os moradores não possuem água encanada e utilizam água proveniente de córregos
+próximos, muitas vezes contaminados por esgoto doméstico não tratado. Nesse cenário, a
+esquistossomose, uma doença parasitária causada pelo Schistosoma mansoni é uma condição
+comum. O ciclo de vida desse parasita envolve a contaminação da água por fezes humanas
+contendo seus ovos, permitindo que as larvas infectem caramujos, que servem como
+hospedeiros intermediários. As pessoas são infectadas ao entrarem em contato com a água
+contaminada durante suas atividades diárias.
+Sabendo que a presença do esgoto a céu aberto e de caramujos em águas contaminadas são
+fatores (sociais e ambientais, respectivamente) que favorecem o surgimento da
+esquistossomose, identifique em qual fase da história natural da doença ocorre a interação entre
+os fatores sociais, ambientais e o agente causador da doença, e qual tipo de prevenção é indicada
+para evitar sua instalação.
+Alternativas:
+(alternativa A)
+A interação entre os fatores expostos ocorre durante a fase patogênica, e a prevenção adequada
+para evitar a instalação da esquistossomose é a secundária.
+(alternativa B)
+A interação entre os fatores expostos ocorre durante a fase patogênica, e a prevenção adequada
+para evitar a instalação da esquistossomose é a primária.
+(alternativa C)
+A interação entre os fatores expostos ocorre durante a fase de convalescença, e a prevenção
+adequada para evitar a instalação da esquistossomose é a terciária.
+(alternativa D) (CORRETA)
+A interação entre os fatores expostos ocorre durante a fase pré-patogênica, e a prevenção
+adequada para evitar a instalação da esquistossomose é a primária.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 1 de 26
+
+Resposta comentada:
+A alternativa correta é a afirma que a interação entre os fatores expostos ocorre durante a fase
+pré-patogênica, e a prevenção adequada para evitar a instalação da esquistossomose é a
+primária.
+A fase pré-patogênica, período anterior ao desenvolvimento da doença, é quando a interação
+entre os fatores ambientais (água contaminada, presença de caramujos) e sociais (falta de
+saneamento) ocorre, criando as condições propícias para a infecção pelo agente causado da
+esquistossomose. Nessa fase, ainda não há sintomas no indivíduo, mas a doença pode ser
+evitada por meio de intervenções que reduzam a exposição ao agente patogênico. Essas
+intervenções incluem a prevenção primária que envolve medidas que evitam que a infecção
+ocorra. No caso da esquistossomose, isso inclui o fornecimento de saneamento básico, controle
+de caramujos e tratamento adequado da água. Essas medidas impedem o contato da população
+com o parasita, evitando a instalação da doença.
+As outras respostas estão incorretas porque na fase patogênica a doença já está instalada, o que
+não corresponde ao momento em que os fatores sociais e ambientais interagem com o agente
+causador.
+A fase de convalescença é a fase final da doença, quando o paciente já está se recuperando dos
+sintomas ou sequelas da infecção. Nesse ponto, os fatores ambientais e sociais já não têm mais
+relação direta com o surgimento da doença, pois ela já ocorreu.
+Com relação às medidas de prevenção, as outras respostas estão incorretas porque a prevenção
+secundária envolve a detecção precoce da doença (como exames diagnósticos) e o tratamento
+para evitar sua progressão, o que já seria uma intervenção após a infecção. Já a prevenção
+terciária envolve reabilitação e medidas para minimizar danos ou incapacidades causados pela
+doença, o que não é o foco da questão, que trata da prevenção da instalação da doença.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. 8 ed. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+2ª QUESTÃO
+Enunciado:
+(UNIGRANRIO BARRA) Um estudo de coorte retrospectiva foi realizado para caracterizar o
+efeito da adição de imunoglobulina intravenosa (IVIG) no tratamento padrão em pacientes com
+COVID-19 grave. Os pacientes foram selecionados aleatoriamente de vários hospitais. Depois
+foram classificados em dois grupos: um grupo que havia recebido apenas o tratamento padrão,
+enquanto o outro grupo recebeu o tratamento padrão mais IVIG. O objetivo do estudo foi comparar
+a recuperação dos pacientes entre os dois grupos. Com base nos resultados obtidos na amostra,
+os pesquisadores utilizaram técnicas de inferência estatística para tirar conclusões sobre a
+eficácia da IVIG na população geral.
+Com base nesse cenário, qual das seguintes afirmações reflete corretamente o uso da inferência
+estatística?
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 2 de 26
+
+Alternativas:
+(alternativa A)
+A inferência estatística garante que os resultados obtidos na amostra se apliquem a todos os
+pacientes com COVID-19.
+(alternativa B) (CORRETA)
+A inferência estatística permite utilizar os resultados da amostra para fazer estimativas sobre a
+população de pacientes com COVID-19.
+(alternativa C)
+A inferência estatística é usada para descrever exclusivamente os dados observados na amostra
+não-probabilística.
+(alternativa D)
+A inferência estatística só pode ser aplicada se todos os pacientes com COVID-19 forem
+incluídos no estudo.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 3 de 26
+
+Resposta comentada:
+A inferência estatística permite utilizar os resultados da amostra para fazer estimativas
+sobre a população de pacientes com COVID-19. Correta: A inferência estatística permite que
+os resultados da amostra sejam generalizados para a população mais ampla, levando em
+consideração um grau de incerteza. Com isso, os pesquisadores podem inferir que a IVIG pode
+ter o mesmo efeito positivo em outros pacientes com COVID-19 fora do estudo.
+A inferência estatística garante que os resultados obtidos na amostra se apliquem a todos
+os pacientes com COVID-19. Incorreta: A inferência estatística não garante que os resultados
+obtidos na amostra se apliquem a todos os indivíduos da população. Ela permite estimar o
+comportamento da população com base nos dados amostrais, mas sempre há incertezas
+envolvidas.
+A inferência estatística só pode ser aplicada se todos os pacientes com COVID-19 forem
+incluídos no estudo. Incorreta: A inferência estatística não exige que toda a população seja
+estudada. Ela é, na verdade, uma ferramenta que permite fazer generalizações a partir de uma
+amostra representativa.
+A inferência estatística é usada para descrever exclusivamente os dados observados na
+amostra não-probabilística. Incorreta: A inferência estatística não se limita a descrever os
+dados da amostra. Ela visa extrapolar esses dados para a população em geral, permitindo fazer
+previsões ou generalizações baseadas nos resultados observados na amostra probabilística.
+Referências:
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática para as
+ciências da saúde. Rio de Janeiro: Grupo A. E-book. ISBN 9788584291007. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/. Acesso em: 09 ago. 2023.
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre: Artmed, 2021.
+E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 08 ago. 2023.
+ZANETTA, D. M. T Conceitos básicos de inferência estatística: apostila. São Paulo:
+USP/UNIVESP, s/d. Disponível em:
+https://midia.atp.usp.br/plc/plc0503/impressos/plc0503_02.pdf Acesso em: 17 maio 2024.
+3ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 4 de 26
+
+Enunciado:
+(FASA VIC) O Ministério da Saúde disponibilizou, através do DATASUS, os seguintes dados
+sobre a taxa de mortalidade infantil e taxa de natalidade para dois estados brasileiros em dois
+períodos diferentes.
+Estado A:
+2010: Taxa de mortalidade infantil: 18,5 por mil nascidos vivos; Taxa de natalidade: 14,2
+por mil habitantes.
+2020: Taxa de mortalidade infantil: 12,3 por mil nascidos vivos; Taxa de natalidade: 12,7
+por mil habitantes.
+Estado B:
+2010: Taxa de mortalidade infantil: 25,1 por mil nascidos vivos; Taxa de natalidade: 16,8
+por mil habitantes.
+2020: Taxa de mortalidade infantil: 15,6 por mil nascidos vivos; Taxa de natalidade: 13,4
+por mil habitantes.
+Com base na análise dos dados apresentados, compare as taxas de mortalidade infantil e de
+natalidade dos dois estados em 2010 e 2020 e identifique a alternativa correta.
+
+Alternativas:
+(alternativa A)
+A taxa de mortalidade infantil aumentou em ambos os estados, mas a taxa de natalidade diminuiu
+no Estado B e permaneceu constante no Estado A.
+(alternativa B) (CORRETA)
+Ambos os estados apresentaram redução nas taxas de mortalidade infantil e de natalidade entre
+2010 e 2020, mas o Estado A teve menor redução na mortalidade infantil que o Estado B.
+(alternativa C)
+O Estado A apresentou uma redução na taxa de mortalidade infantil entre 2010 e 2020, enquanto
+sua taxa de natalidade se manteve constante.
+(alternativa D)
+O Estado B teve uma redução maior na taxa de mortalidade infantil comparado ao Estado A entre
+2010 e 2020, mas sua taxa de natalidade se manteve estável.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 5 de 26
+
+Resposta comentada:
+Alternativa Correta “Ambos os estados apresentaram redução nas taxas de mortalidade
+infantil e de natalidade entre 2010 e 2020, mas o Estado A teve redução menos acentuada
+na mortalidade infantil que o Estado B.”. Ambos os estados apresentaram redução tanto na
+taxa de mortalidade infantil quanto na taxa de natalidade entre 2010 e 2020. No entanto, o Estado
+A apresentou uma redução menos acentuada na mortalidade infantil, cerca de 33,5%, comparado
+ao Estado B, que reduziu 37,8%.
+Alternativa “O Estado A apresentou uma redução na taxa de mortalidade infantil entre 2010 e
+2020, enquanto a taxa de natalidade se manteve constante”. Incorreta. Embora o Estado A tenha
+apresentado uma redução na taxa de mortalidade infantil de 18,5 para 12,3 por mil nascidos vivos
+entre 2010 e 2020, a taxa de natalidade não se manteve constante; ela diminuiu de 14,2 para 12,7
+por mil habitantes.
+Alternativa “O Estado B teve uma redução maior na taxa de mortalidade infantil comparado ao
+Estado A entre 2010 e 2020, mas sua taxa de natalidade se manteve estável.” Incorreta. Embora
+o Estado B tenha apresentado uma redução maior na taxa de mortalidade infantil, de 25,1 para
+15,6 por mil nascidos vivos, a taxa de natalidade não permaneceu estável; ela diminuiu de 16,8
+para 13,4 por mil habitantes. Além disso, o Estado A também apresentou uma redução na
+mortalidade infantil.
+Alternativa “A taxa de mortalidade infantil aumentou em ambos os estados, mas a taxa de
+natalidade diminuiu no Estado B e permaneceu constante no Estado A.” Incorreta.
+A taxa de mortalidade infantil não aumentou em nenhum dos estados; pelo contrário, ambos
+apresentaram redução. A taxa de natalidade diminuiu tanto no Estado A quanto no Estado B, e
+não permaneceu constante no Estado A.
+Referências:
+BRASIL. Ministério da Saúde, DATASUS. Disponível em: http://datasus.saude.gov.br. Acesso
+em: 2024.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+
+4ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 6 de 26
+
+Enunciado:
+(UNISL PVH) Um estudo epidemiológico realizado em uma comunidade encontrou uma alta
+prevalência de doenças respiratórias entre os trabalhadores de uma fábrica. Esses trabalhadores
+relataram, em um inquérito, a exposição constante a poeira e vapores químicos no ambiente de
+trabalho. A análise dos dados sugeriu uma forte correlação entre a exposição ocupacional e o
+aumento de casos de doenças respiratórias.
+Nesse contexto analise as asserções a seguir e a possível relação proposta entre elas.
+I. A exposição à poeira e vapores químicos no ambiente de trabalho pode ser considerada a
+causa do aumento das doenças respiratórias na população de trabalhadores.
+PORQUE
+II. A causalidade, em Epidemiologia, refere-se à relação de causa e efeito entre uma exposição e
+um desfecho, sendo necessário demonstrar que a exposição precede o efeito e que a associação
+não é explicada por outros fatores.
+Acerca dessas asserções, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+As asserções I e II são verdadeiras, mas a II não é uma justificativa correta da I.
+(alternativa B) (CORRETA)
+A asserção I é falsa e a asserção II é verdadeira.
+(alternativa C)
+A asserção I é verdadeira e a asserção II é falsa.
+(alternativa D)
+As asserções I e II são verdadeiras, e a II é uma justificativa correta da I.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 7 de 26
+
+Resposta comentada:
+A asserção I é falsa e a asserção II é verdadeira. CORRETA.
+A asserção I é falsa, pois, no caso descrito, a exposição à poeira e vapores químicos
+provavelmente precede o aumento de doenças respiratórias, porém como o estudo apresentado é
+um estudo de prevalência (transversal) onde os dados são coletados em um único momento, o
+nível de evidência não é suficiente para determinar a relação causal, como em estudos
+longitudinais como o de coorte. No contexto da Epidemiologia, a exposição ocupacional pode ser
+considerada uma causa potencial de doenças respiratórias se houver evidência de uma relação
+temporal adequada e eliminação de possíveis fatores de confusão. Como o texto informa que os
+dados foram coletados diretamente com os trabalhadores em um inquérito (por questionário, por
+exemplo), elimina-se a possibilidade de um estudo ecológico transversal (que utiliza dados
+agregados e não individuais).
+A asserção II é verdadeira, pois está de acordo com a definição de causalidade em
+Epidemiologia, destacando a necessidade de estabelecer uma relação de causa e efeito, de modo
+que a exposição preceda o desfecho e que a associação observada não seja atribuída a outros
+fatores.
+Referência:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre: Artmed, 2021.
+E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 08 ago. 2023.
+5ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 8 de 26
+
+Enunciado:
+(FASA VIC) No Brasil, a esquistossomose, causada pelo Schistosoma mansoni, é conhecida
+popularmente como “xistose”, “barriga d’água” ou “doença dos caramujos”. O período de
+incubação, ou seja, tempo que os primeiros sintomas começam a aparecer a partir da exposição,
+é de duas a seis semanas. A infecção por esquistossomose é prevalente em áreas tropicais e
+subtropicais, em comunidades carentes sem acesso a água potável e sem saneamento
+adequado. Milhões de pessoas em todo o mundo sofrem de patologias graves em consequência
+da esquistossomose. A magnitude de sua prevalência, associada à severidade das formas
+clínicas e a sua evolução, conferem a esquistossomose uma grande preocupação como
+problema de saúde pública.
+Fonte: BRASIL. Ministério da Saúde. Saúde de A a Z. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saudede-a-a-z/e/esquistossomose.
+
+Com base nessa situação, avalie as afirmativas sobre os conceitos relacionados a doenças e
+agravos e identifique as afirmativas relacionadas à esquistossomose.
+I. Doenças transmissíveis são aquelas causadas por um agente infeccioso específico, ou seus
+produtos tóxicos, que se manifesta pela transmissão desse agente ou de seus produtos, de uma
+pessoa ou animal infectados ou de um reservatório a um hospedeiro suscetível, direta ou
+indiretamente, por meio de um hospedeiro intermediário, de natureza vegetal ou animal, de um
+vetor ou do meio ambiente inanimado.
+II. Doenças crônicas são caracterizadas por progressão lenta e de longa duração, como
+hipertensão e diabetes, e não estão diretamente ligadas à transmissão por agentes infecciosos.
+III. Agravos à saúde são qualquer dano à integridade física, mental e social dos indivíduos
+provocado por circunstâncias nocivas, como acidentes, intoxicações, abuso de drogas e lesões
+auto ou heteroinfligidas.
+IV. Doenças infecciosas emergentes são as que surgiram recentemente numa população ou as
+que ameaçam expandir-se em futuro próximo.
+Está correto o que se afirma em
+
+Alternativas:
+(alternativa A)
+apenas I, II e IV.
+(alternativa B) (CORRETA)
+apenas I, III e IV.
+(alternativa C)
+apenas I e III.
+(alternativa D)
+apenas II e III.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 9 de 26
+
+Resposta comentada:
+As afirmativas I, III e IV estão corretas. A esquistossomose é uma doença parasitária
+transmissível (I), a falta de saneamento relacionada com a alta prevalência da esquistossomose
+pode ser considerada um agravo à saúde (III), e trata-se de uma doença tropical emergente (IV)
+comum em populações com baixas condições socioeconômicas. Afirmativa II trata de doenças
+crônicas, o que não se aplica à situação de esquistossomose.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 12 nov. 2024.
+6ª QUESTÃO
+Enunciado:
+(UNISL JPR) Em um estudo, os pesquisadores investigaram a possível relação entre o uso de
+um suplemento nutricional isolado e o desenvolvimento de uma doença hepática rara. No estudo,
+foram incluídos dois grupos de participantes: um grupo composto por indivíduos que já haviam
+sido diagnosticados com a doença e outro grupo de indivíduos saudáveis, sem o diagnóstico.
+Ambos os grupos foram questionados sobre o uso prévio do suplemento nutricional, na tentativa
+de identificar se o uso do suplemento estaria associado ao desenvolvimento da doença.
+Qual tipo de estudo foi utilizado na pesquisa acima?
+Alternativas:
+(alternativa A)
+Ensaio clínico randomizado.
+(alternativa B) (CORRETA)
+Estudo de caso-controle.
+(alternativa C)
+Estudo de corte transversal.
+(alternativa D)
+Estudo de coorte.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 10 de 26
+
+Resposta comentada:
+Estudo de caso-controle (correta).
+O estudo de caso-controle é um tipo de pesquisa observacional que compara dois grupos: o
+grupo de casos, composto por indivíduos com a doença, e o grupo de controles, formado por
+indivíduos sem a doença. Neste tipo de estudo, os pesquisadores investigam retrospectivamente
+a exposição a um fator de risco, como o uso de um suplemento nutricional, para verificar se essa
+exposição está associada ao desenvolvimento da doença. Esse método é especialmente útil para
+estudar doenças raras, como a mencionada no enunciado.
+No caso apresentado, os pesquisadores avaliaram o uso anterior do suplemento em ambos os
+grupos (casos e controles), o que caracteriza claramente um estudo de caso-controle, em que a
+exposição (uso do suplemento) é verificada após a identificação dos casos e controles.
+Estudo de coorte (incorreta).
+Um estudo de coorte envolve acompanhar um grupo de indivíduos saudáveis expostos e outro de
+não expostos a um determinado fator de risco ao longo do tempo para observar o
+desenvolvimento de uma condição ou doença. O estudo de coorte começa com a exposição e
+segue para o desfecho, enquanto o caso-controle começa com o desfecho (doença) e investiga a
+exposição retrospectivamente.
+Ensaio clínico randomizado (incorreta).
+Um ensaio clínico randomizado envolve a alocação aleatória de participantes em grupos que
+recebem a intervenção (neste caso, seria o suplemento) ou um placebo para comparar os efeitos
+da intervenção em relação a um desfecho. Este método é experimental e prospectivo, enquanto o
+enunciado descreve um estudo observacional, sem intervenção ou randomização. Não houve
+controle experimental no estudo mencionado, apenas a análise da associação entre a exposição
+e a doença.
+Estudo de corte transversal (incorreta).
+No estudo de corte transversal, tanto a exposição quanto a presença ou ausência da doença são
+avaliadas simultaneamente, em um único ponto no tempo, sem distinção entre grupos de casos e
+controles como no caso-controle. Embora estudos transversais sejam úteis para medir a
+prevalência de uma doença e fatores de risco em uma população (sem estabelecer relação
+causal), eles não investigam retrospectivamente a exposição em relação ao desfecho como no
+caso descrito. Portanto, não é o tipo de estudo indicado neste contexto.
+Referências:
+BONITA, R.; BEAGLEHOLE, R.; KJELLSTRÖM, T. Epidemiologia básica. 2. ed. São Paulo:
+Grupo Editorial Nacional, 2010. 230 p. Disponível em:
+https://edisciplinas.usp.br/mod/resource/view.php?id=3046312&forceview=1. Acesso em: 10 ago.
+2023.
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre: Artmed, 2021.
+E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 08 ago. 2023.
+7ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 11 de 26
+
+Enunciado:
+(AFYA ITACOATIARA) Um grupo de pesquisadores está investigando se há associação entre o
+consumo diário de um suplemento vitamínico específico e a redução no risco de desenvolver
+doenças cardíacas em uma população de adultos acima de 50 anos. Para isso, eles conduzem
+um estudo de coorte. A hipótese nula (H₀) é de que o suplemento não tem efeito sobre o risco de
+doenças cardíacas, e a hipótese alternativa (H1) é de que o suplemento reduz esse risco.
+Diante dessa situação, identifique o tipo de erro que os pesquisadores podem estar sujeitos ao
+interpretar os resultados.
+Alternativas:
+(alternativa A)
+Erro Tipo I, caso aceitem a hipótese nula e, de fato, o suplemento reduza o risco de doenças
+cardíacas.
+(alternativa B) (CORRETA)
+Erro Tipo I, caso rejeite a hipótese nula, e de fato, o suplemento não reduz o risco de doenças
+cardíacas.
+(alternativa C)
+Erro Tipo II, caso rejeite a hipótese nula, mas o suplemento realmente reduz o risco de doenças
+cardíacas.
+(alternativa D)
+Erro Tipo II, caso aceitem a hipótese nula, e de fato, o suplemento não reduz o risco de doenças
+cardíacas.
+
+Resposta comentada:
+Diante dessa situação, identifique o tipo de erro que os pesquisadores podem estar sujeitos ao
+interpretar os resultados: Erro Tipo I, caso rejeite a hipótese nula, e de fato, o suplemento não
+reduz o risco de doenças cardíacas.
+Erro Tipo I (Erro Alfa): ocorre quando os pesquisadores rejeitam a hipótese nula (H₀), que afirma
+que o suplemento não tem efeito sobre o risco de doenças cardíacas, quando, na verdade, essa
+hipótese é verdadeira. Esse erro significa concluir que há uma associação entre o suplemento e a
+redução do risco de doenças cardíacas quando, na realidade, não existe essa associação. Em
+outras palavras, seria um falso positivo. Isso pode acontecer, por exemplo, ao obter um valor-p
+menor que 0,05 e rejeitar H0 erroneamente.
+Erro Tipo II (Erro Beta): ocorre quando os pesquisadores não rejeitam a hipótese nula (H₀), ou
+seja, concluem que o suplemento não tem efeito sobre o risco de doenças cardíacas, quando, na
+verdade, a hipótese alternativa (H1) é verdadeira. Isso significa que eles deixariam de identificar
+uma associação verdadeira entre o suplemento e a redução do risco, resultando em um falso
+negativo.
+As demais alternativas contém definições equivocadas do tipo de erro e/ou da sua interpretação.
+Assim, a única resposta possível é a resposta aquela que indica Erro tipo I, aquele que "rejeita" a
+hipótese nula quando esta é verdadeira, ou seja, o pesquisador acredita que o suplemento tem
+efeito quando na verdade ele não tem. Para facilitar o entendimento:
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 12 de 26
+
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre: Artmed, 2021.
+E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820161/epubcfi/6/42[%3Bvnd.vst.id
+ref%3DC13.xhtml]!/4[FLETCHER_Completo-16]/2/34/2/2/2/4. Acesso em: 19 out. 2024.
+ZANETTA, D. M. T Conceitos básicos de inferência estatística: apostila. São Paulo:
+USP/UNIVESP, s/d. Disponível em:
+https://midia.atp.usp.br/plc/plc0503/impressos/plc0503_02.pdf. Acesso em: 19 out. 2024.
+
+8ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 13 de 26
+
+Enunciado:
+(UNIREDENTOR) Os estudos de coorte permitem investigar a relação entre uma exposição e
+um desfecho específico ao longo do tempo. Acompanhe os exemplos abaixo:
+Coorte Prospectiva: Um grupo de trabalhadores de indústrias químicas é acompanhado
+por 15 anos para verificar se a exposição prolongada a solventes orgânicos está
+associada ao desenvolvimento de doenças neurológicas.
+Coorte Retrospectiva: Registros de pacientes com diagnóstico de hipertensão entre
+2005 e 2015 são analisados para investigar se o uso contínuo de anti-hipertensivos
+reduziu a ocorrência de acidentes vasculares cerebrais (AVC).
+Com base nesses exemplos, analise as afirmativas a seguir:
+I - Nos estudos retrospectivos, o desfecho de interesse já ocorreu no início do estudo, enquanto
+nos prospectivos o acompanhamento é feito até que o desfecho ocorra.
+II - Estudos retrospectivos são mais rápidos e econômicos, pois utilizam dados já existentes.
+III - Estudos prospectivos permitem maior controle sobre as variáveis de exposição e minimizam
+viés de aferição.
+IV - Uma limitação dos estudos de coorte prospectiva é que a perda de participantes ao longo do
+seguimento pode comprometer os resultados.
+Está correto o que se afirma em
+Alternativas:
+(alternativa A)
+I e II, apenas.
+
+(alternativa B) (CORRETA)
+I, II, III e IV.
+(alternativa C)
+I e IV, apenas.
+
+(alternativa D)
+II, III e IV, apenas.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 14 de 26
+
+Resposta comentada:
+A afirmativa I está correta, pois o desfecho já é conhecido em estudos retrospectivos, enquanto
+nos prospectivos o desfecho ainda será observado.
+A afirmativa II está correta, destacando que os estudos retrospectivos são mais rápidos e menos
+onerosos.
+A afirmativa III está correta, já que os estudos prospectivos oferecem maior controle sobre as
+variáveis investigadas e consequentemente diminuem viés de aferição na análise dos dados.
+A afirmativa IV está correta, pois a perda de participantes em estudos prospectivos é um desafio
+que pode introduzir vieses e afetar a validade dos resultados.
+Referências:
+BONITA, R.; BEAGLEHOLE, R.; KJELLSTRÖM, T. Epidemiologia básica. 2. ed. São Paulo:
+Grupo Editorial Nacional, 2010. 230 p. Disponível em:
+https://edisciplinas.usp.br/mod/resource/view.php?id=3046312&forceview=1. Acesso em: 10 ago.
+2023.
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre: Artmed, 2021.
+E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 08 ago. 2023.
+9ª QUESTÃO
+Enunciado:
+(AFYA CZS) Em uma determinada região, foram registrados dados epidemiológicos sobre a
+dengue na cidade A e uma doença crônica não-transmissível na cidade B. No último ano, a
+dengue apresentou um total de 500 casos novos, enquanto a população cidade A é de 50.000
+habitantes. Por outro lado, a doença crônica apresentou 20 casos conhecidos na população da
+cidade B, que corresponde a 10.000 pessoas.
+Com base nas informações apresentadas, calcule a taxa de incidência da dengue na cidade A e a
+taxa de prevalência da doença crônica na cidade B e identifique a alternativa que apresenta os
+resultados corretos.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 15 de 26
+
+Alternativas:
+(alternativa A) (CORRETA)
+A taxa de incidência da dengue na cidade A é de 10 casos para cada 1.000 habitantes, e a
+prevalência da doença crônica na cidade B é de 0,2% na população.
+(alternativa B)
+A taxa de incidência da dengue na cidade A é de 1 caso para cada 100 habitantes, e a prevalência
+da doença crônica na cidade B é de 0,02% na população.
+(alternativa C)
+A taxa de incidência da dengue na cidade A é de 5 casos para cada 1.000 habitantes, e a
+prevalência da doença crônica na cidade B é de 0,5% na população.
+(alternativa D)
+A taxa de incidência da dengue na cidade A é de 5 casos para cada 100 habitantes, e a
+prevalência da doença crônica na cidade B é de 0,5% na população.
+
+Resposta comentada:
+A taxa de incidência da dengue na cidade A é de 10 casos para cada 1.000 habitantes, e a
+prevalência da doença crônica na cidade B é de 0,2% na população.
+A fórmula para calcular a taxa de incidência é dada pela razão entre o número de novos casos da
+doença durante esse período e a população em risco de contrair a doença nesse mesmo período.
+Essa razão é então multiplicada por uma constante, geralmente 1.000 ou 100.000, para expressar
+a taxa em termos de um número específico de pessoas.
+tx incidência da dengue = (500 / 50.000) * 10n = 1 para cada 100 hab. OU 1% OU 10 casos para
+cada 1000hab.
+A prevalência de uma doença é a proporção de indivíduos afetados por essa doença em relação à
+população total em um determinado momento. Para calcular a prevalência, se divide o número
+total de casos existentes da doença pela população total e multiplica o resultado por 100 para
+obter a porcentagem.
+tx prevalência doença crônica = (20 / 10.000) * 10n = 0,2 por 100 hab. = 0,2%; OU 2 por 1000
+hab.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+10ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 16 de 26
+
+Enunciado:
+(AFYA SANTA INÊS) Nos últimos anos, o Brasil tem enfrentado mudanças significativas em seu
+perfil de morbimortalidade, envelhecendo rapidamente, e apresentando um aumento nas
+desigualdades socioeconômicas. Segundo a Teoria da Transição Epidemiológica, espera-se um
+aumento na prevalência de doenças crônico-degenerativas, como doenças cardiovasculares e
+diabetes, enquanto as doenças infecciosas, como tuberculose e malária, tendem ao declínio.
+Com base nas informações apresentadas acima, identifique a alternativa que apresenta as
+principais mudanças no perfil de morbimortalidade do Brasil.
+Alternativas:
+(alternativa A)
+Aumento das doenças infecciosas e declínio das doenças crônico-degenerativas, refletindo uma
+transição epidemiológica para doenças não transmissíveis.
+(alternativa B)
+Envelhecimento populacional e aumento das desigualdades socioeconômicas, refletindo uma
+transição epidemiológica.
+(alternativa C)
+Declínio das doenças infecciosas e aumento das doenças crônico-degenerativas, refletindo uma
+transição epidemiológica para doenças não transmissíveis.
+(alternativa D) (CORRETA)
+Persistência das doenças infecto parasitárias e aumento das doenças crônico degenerativas,
+demonstrando que o Brasil não se enquadra no padrão de substituição das doenças.
+
+Resposta comentada:
+No caso do Brasil, a transição epidemiológica tem características particulares. Embora a teoria da
+transição epidemiológica preveja um declínio nas doenças infecciosas com o aumento das
+doenças crônico-degenerativas, no Brasil ocorre uma dupla carga de doenças: há persistência
+das doenças infecto-parasitárias, como dengue, tuberculose e leishmaniose, ao mesmo tempo
+que aumenta a prevalência das doenças crônico-degenerativas, como doenças cardiovasculares,
+diabetes e câncer.
+A alternativa "Envelhecimento populacional e aumento das desigualdades socioeconômicas,
+refletindo uma transição epidemiológica" está incorreta no contexto da questão porque, embora
+descreva corretamente aspectos da realidade brasileira, ela não aborda diretamente as mudanças
+no perfil de morbimortalidade - foco principal da pergunta.
+Referência:
+MEDRONHO, R. A. (Ed.). Epidemiologia. 2. ed. São Paulo: Atheneu, 2008.
+11ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 17 de 26
+
+Enunciado:
+(AFYA GARANHUS) Um menino de 8 anos foi levado ao pronto-socorro com sintomas de
+vômitos, diarreia, dor abdominal e febre leve. A mãe informou que os sintomas ocorreram 12
+horas após uma festa escolar, onde ele consumiu sanduíches de frango, salada de maionese e
+bolo. Durante a investigação epidemiológica, foi constatado que outras crianças participantes da
+festa também apresentaram sintomas semelhantes.
+Com base nesse caso, identifique a alternativa que apresenta a possível fonte de infecção, o
+mecanismo de transmissão e o período de incubação da doença.
+Alternativas:
+(alternativa A)
+Bolo contaminado com vírus respiratório; transmissão vertical; 24 a 48 horas.
+(alternativa B) (CORRETA)
+Salada de maionese contaminada por patógeno; transmissão horizontal; 6 a 24 horas.
+(alternativa C)
+Contato com brinquedos contaminados na festa; contato direto com fômites; 4 a 6 horas.
+(alternativa D)
+Consumo de água não tratado na festa; transmissão por via respiratória; 2 a 5 dias.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 18 de 26
+
+Resposta comentada:
+Resposta correta: Salada de maionese contaminada por patógeno; transmissão horizontal; 6
+a 24 horas.
+Fonte provável de infecção: Alimentos contaminados são uma causa comum de surtos de
+gastroenterite em ambientes como escolas, onde muitas crianças compartilham refeições. Água
+e outros tipos de alimentos como bolos, também poderiam ser fontes de infecção, contudo as
+vias de transmissão não estão corretas. Contato com brinquedos contaminados é uma possível
+fonte, mas de menor importância epidemiológica comparada a ingestão de alimentos
+contaminados.
+Mecanismo de contágio: A transmissão horizontal através da via fecal-oral, é o modo mais
+provável de disseminação da infecção, ocorrendo pela ingestão de alimentos ou água
+contaminados de indivíduos infectados. A via de transmissão vertical só seria possível da mãe
+para o feto ou via sexual, o que não é o caso. Contato direto com fômites e a via respiratória
+também podem ser vias de transmissão, mas comparada a transmissão horizontal são de menor
+importância epidemiológica para o caso.
+Período de incubação: O período de incubação curto de 6-24 horas é compatível com diversos
+agentes causadores de gastroenterite, como vírus e bactérias, e explica o rápido início dos
+sintomas após a exposição ao agente infeccioso. Os períodos de 24-48 horas e 2 a 5 dias são
+muito longos comparados com o início dos sintomas da criança, enquanto o período de 4 a 6
+horas é muito curto, já que o período de 12h foi relatado como início dos sintomas da criança.
+Referências:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde - Fundamentos, Métodos
+e Aplicações. Rio de Janeiro: Grupo GEN, Cap. 2, 2011. E-book. ISBN 978-85-277-2119-6.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2119-6/. Acesso em:
+16 out. 2024.
+Organização Pan-Americana da Saúde (OPAS). Módulos de Princípios de Epidemiologia para
+o Controle de Enfermidades. Módulo 2: Saúde e doença na população. 48p, v.7 2010.
+Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/modulo_principios_epidemiologia_2.pdf Acesso em
+13 out. 2024.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, Caps. 1 e 2, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 out. 2024.
+12ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 19 de 26
+
+Enunciado:
+(AFYA PORTO NACIONAL) A poliomielite é uma doença viral infectocontagiosa de importância
+clínica significativa devido ao alto índice de infecciosidade e a ausência de tratamento específico
+que viabilize a cura clínica dos indivíduos infectados. Esta doença possui endemicidade ligada às
+condições de saneamento básico e desenvolvimento econômico. Ademais, os padrões de
+endemicidade foram alterados a partir da década de 50, após do desenvolvimento de vacinas
+seguras e eficazes que possibilitaram a implementação de uma rede de prevenção e controle da
+doença. No entanto, tais estratégias mostraram-se diferentes entre os países, principalmente em
+locais onde o acesso aos imunobiológicos era comprometido por questões financeiras e
+geográficas. Contudo, a OMS recomenda que os países mantenham um percentual de cobertura
+vacinal acima de 95%. Dessa forma, Maciel e colaboradores publicaram um artigo cujo objetivo
+foi caracterizar a distribuição temporal e espacial da cobertura da vacina contra poliomielite nas
+regiões brasileiras. Alguns dos resultados são apresentados no gráfico abaixo.
+Adaptado de Maciel et. al. Distribuição temporal e espacial da cobertura vacinal contra poliomielite no Brasil entre
+1997 e 2021. Revista Brasileira Epidemiologia, n. 26, 2023.
+
+Cobertura vacinal da poliomielite, segundo regiões brasileiras. Brasil, 1997-2021.
+
+Analise as asserções a seguir com base nos dados apresentados.
+I. O gráfico permite afirmar que a cobertura vacinal de poliomielite demonstrou uma
+tendência de queda na última década do estudo, na maioria das regiões.
+II. Os dados apresentados permitem concluir que as questões financeiras e geográficas
+foram relevantes para a queda da cobertura vacinal.
+III. A cobertura vacinal ficou dentro do percentual definido como recomendado pela OMS
+na Região Norte, entre os anos de 2000 e 2011.
+IV. A partir do ano de 2014 a porcentagem de cobertura vacinal se manteve abaixo do
+limite recomendado pela OMS em todas as regiões brasileiras, até o fim do estudo.
+V. Todas as regiões brasileiras têm se mantido, nos últimos seis anos do estudo com o
+percentual de cobertura vacinal abaixo do recomendado pela OMS.
+Está correto o que se afirma em
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 20 de 26
+
+Alternativas:
+(alternativa A) (CORRETA)
+I, III e V, apenas.
+(alternativa B)
+II, III e IV, apenas.
+(alternativa C)
+I, II, IV e V, apenas.
+(alternativa D)
+I, III, IV e V, apenas.
+
+Resposta comentada:
+Está correto o que se afirma em I, III e V, apenas.
+É possível observar que a cobertura vacinal de poliomielite demonstrou uma tendência de queda
+na última década do estudo (2011 a 2021). Além disso, Região Norte se manteve dentro da meta
+recomendada pela OMS (95%) entre os anos de 2000 e 2011. E, nos últimos seis anos (2016 a
+2021) todas as regiões estiveram com a cobertura vacinal abaixo de 95%.
+Por outro lado, os autores não podem concluir que as questões geográficas foram relevantes para
+a queda da cobertura vacinal, pois regiões mais afastadas (como a Região Norte) e mais
+centralizadas (como a Região Sudeste) reduziram o percentual de cobertura vacinal da mesma
+forma. E por fim, em 2014 a porcentagem de cobertura vacinal da região centro-oeste foi de
+quase 100%, ou seja dentro do limite recomendado pela OMS.
+Referências:
+MACIEL et. al. Distribuição temporal e espacial da cobertura vacinal contra poliomielite no Brasil
+entre 1997 e 2021. Revista Brasileira Epidemiologia, n. 26, 2023. Disponível em:
+https://doi.org/10.1590/1980-549720230037.2
+MOORE D, NOTZ WI, FLIGNER MA. A Estatística Básica e sua Prática. 9. ed. Rio de Janeiro:
+LTC, 2023. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521638612/.
+Acesso em: 17 maio 2024.
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. Rio de janeiro:
+Grupo GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em: 17 maio 2024.
+Caps. 6, 19 e 20.
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 17 maio 2024.
+13ª QUESTÃO
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 21 de 26
+
+Enunciado:
+(UNINOVAFAPI) Um estudo foi realizado com o objetivo de avaliar a prevalência de diabetes
+mellitus tipo 2 em uma população de adultos em uma cidade do Brasil. Os dados foram coletados
+em um único momento, por meio de consulta ao DATASUS/Tabnet/Hiperdia. O estudo também
+comparou os níveis de prevalência de diabetes com fatores ambientais, como a presença de
+áreas verdes e níveis de poluição atmosférica em cada bairro.
+Com base no delineamento do estudo descrito, analise as asserções abaixo e a relação proposta
+entre elas
+I. O estudo apresentado é um estudo ecológico transversal
+PORQUE
+II. A comparação dos níveis de prevalência de diabetes, neste caso, com fatores ambientais,
+como áreas verdes e poluição, a partir de dados agregados, coletados em um único momento,
+caracteriza o estudo como ecológico transversal.
+
+Alternativas:
+(alternativa A)
+A assertiva I é falsa, e a assertiva II é verdadeira.
+(alternativa B) (CORRETA)
+As assertivas I e II são verdadeiras, e a II é uma justificativa correta para a I.
+(alternativa C)
+A assertiva I é verdadeira, e a assertiva II é falsa.
+(alternativa D)
+As assertivas I e II são verdadeiras, mas a II não é uma justificativa correta para a I.
+
+Resposta comentada:
+As assertivas I e II são verdadeiras, e a II é uma justificativa correta para a I é a resposta correta.
+A assertiva I é verdadeira, uma vez que o estudo apresentado utilizou dados foram coletados de
+uma base de dados agregados, em um único momento no tempo, o que caracteriza um estudo
+observacional do tipo ecológico transversal.
+A assertiva II também é verdadeira e justifica a assertiva I porque a comparação dos níveis de
+prevalência de diabetes, neste caso, com fatores ambientais, como áreas verdes e poluição, a
+partir de dados agregados, coletados em um único momento, caracterizam um estudo como
+ecológico transversal.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+14ª QUESTÃO
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 22 de 26
+
+Enunciado:
+(AFYA CZS) Variável é a característica de interesse que é medida em cada elemento da amostra
+ou população. As variáveis podem ter valores numéricos ou não, e nem sempre uma variável
+representada por números é quantitativa. As afirmativas abaixo apresentam variáveis de um
+estudo que avaliou se o hábito de fumar poderia estar associado a um maior risco
+cardiovascular.
+I) Classificação do risco cardiovascular, número de cigarros fumados, idade, sexo.
+II) Nível de colesterol, número de cigarros fumados, sexo, classificação do risco cardiovascular.
+III) Nível de colesterol, pressão arterial sistólica, sexo, número de cigarros fumados.
+Neste contexto, analise as alternativas abaixo e identifique aquela(s) que classifica(m)
+corretamente as variáveis apresentadas respectivamente como exemplos de variável quantitativa
+contínua, quantitativa discreta, qualitativa nominal e qualitativa ordinal.
+
+Alternativas:
+(alternativa A)
+I, apenas.
+(alternativa B)
+I e II.
+(alternativa C) (CORRETA)
+II, apenas.
+(alternativa D)
+III, apenas.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 23 de 26
+
+Resposta comentada:
+A única alternativa que classificou corretamente as variáveis apresentadas, respectivamente,
+como exemplos de variável quantitativa contínua, quantitativa discreta, qualitativa nominal e
+qualitativa ordinal foi a assertiva II.
+II) Nível de colesterol, número de cigarros fumados, sexo, classificação do risco
+cardiovascular.
+Abaixo a classificação de todas as variáveis apresentadas:
+Quantitativa contínua: Nível de colesterol e pressão arterial sistólica (pode assumir
+qualquer valor dentro de um intervalo).
+Quantitativa discreta: Número de cigarros fumados e idade (assume valores inteiros e
+não fracionários).
+Qualitativa nominal: Sexo (não há ordem intrínseca entre as categorias).
+Qualitativa ordinal: Classificação do risco cardiovascular (há uma ordem natural entre
+as categorias: baixo, moderado, alto).
+Referência:
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 17 maio 2024.
+15ª QUESTÃO
+Enunciado:
+(FESAR) Um estudo avaliou o escore de superação de pacientes vítimas de acidente vascular
+cerebral e de ataque cardíaco e obteve os resultados demonstrados no diagrama de caixas
+(boxplot) abaixo.
+
+Com base nos dados apresentados e nas características das medidas de tendência central e
+dispersão, analise as alternativas abaixo e identifique a correta.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 24 de 26
+
+Alternativas:
+(alternativa A)
+Nenhum dos dois grupos apresentou dados discrepantes (outliers). Cabe salientar que a mediana
+é influenciada por esses valores extremos, o que a afastaria do seu valor real, assim, trata-se de
+uma limitação desta medida.
+(alternativa B)
+É possível afirmar que a amplitude, medida de tendência central, no seu conceito geral
+considerando os escores mínimos e máximos, é maior para os pacientes do grupo vítimas de
+ataque cardíaco, aproximadamente 39.
+(alternativa C) (CORRETA)
+Os escores de superação para os pacientes vítimas de acidente vascular cerebral apresentaram
+uma variabilidade maior do que para os pacientes vítimas de ataque cardíaco, é possível afirmar
+isso ao se analisar o tamanho da caixa.
+(alternativa D)
+Analisando a mediana, é possível afirmar que os escores de superação são menores para os
+pacientes vítimas de ataque cardíaco, aproximadamente 24; e maiores para os pacientes vítimas
+de acidente vascular cerebral, aproximadamente 28.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 25 de 26
+
+Resposta comentada:
+A alternativa correta é aquela que afirma que os escores de superação para os pacientes
+vítimas de acidente vascular cerebral apresentaram uma variabilidade maior do que para os
+pacientes vítimas de ataque cardíaco, é possível afirmar isso ao se analisar o tamanho da
+caixa. (Correto, ao se observar a altura da caixa nota-se uma maior variabilidade entre o grupo
+vítimas de AVC. Na interpretação do boxplot, quanto maior a caixa, maior a dispersão ou
+variabilidade dos dados).
+Nenhum dos dois grupos apresentou dados discrepantes (outliers). Cabe salientar que a mediana
+é influenciada por esses valores extremos, o que a afastaria do seu valor real, assim, trata-se de
+uma limitação desta medida. (Errado, Uma medida de tendência central que não é influenciada
+por escores extremos de um conjunto de dados é a mediana – o escore central, em um conjunto
+de dados, após terem sido colocados em ordem. Desse modo, enquanto cada escore do conjunto
+é utilizado no cálculo da média, isso não ocorre com a mediana, o que significa que escores muito
+altos ou muito baixos não tem impacto no resultado. Logo, é a média que pode ser afetada por
+outliers.
+Analisando a mediana, é possível afirmar que os escores de superação são menores para os
+pacientes vítimas de ataque cardíaco, aproximadamente 24; e maiores para os pacientes vítimas
+de acidente vascular cerebral, aproximadamente 28. (Errado, observando a mediana que marca
+o centro da distribuição, nota-se que os escores de superação são maiores para os pacientes
+vítimas de ataque cardíaco, aproximadamente 28; e menores para os pacientes vítimas de
+acidente vascular cerebral, aproximadamente 24;
+É possível afirmar que a amplitude, medida de tendência central, no seu conceito geral
+considerando os escores mínimos e máximos, é maior para os pacientes do grupo vítimas de
+ataque cardíaco, aproximadamente 39. (Errado, visto que a amplitude nos diz qual é a diferença
+entre os escores mínimo e máximo em uma amostra e é representada, de forma simples, pelo
+escore máximo menos o mínimo. Além disso, trata-se de uma medida de dispersão ou
+variabilidade. Assim, a amplitude para os pacientes que tiveram um acidente vascular cerebral é
+40 – 1 = 39; a amplitude para os que sofreram um ataque cardíaco é 35 – 22 = 13.
+Referências:
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática para as
+ciências da saúde. Rio de Janeiro: Grupo A. E-book. ISBN 9788584291007. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/. Acesso em: 09 ago. 2023.
+MOORE D, NOTZ WI, FLIGNER MA. A Estatística Básica e sua Prática. 9. ed. Rio de Janeiro:
+LTC, 2023. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788521638612/.
+Acesso em: 17 mai. 2024.
+
+000145.050018.2c9866.559d10.bcd721.67c5a7.dff8cb.3832a
+
+Pgina 26 de 26
+
+

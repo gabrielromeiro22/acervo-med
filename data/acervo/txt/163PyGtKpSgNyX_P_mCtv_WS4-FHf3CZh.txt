@@ -1,0 +1,898 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Clínica Integrada II
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_7 PERIODO_15ABRIL_2025.1_CI II
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15599 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(AFYA GARANHUNS) Um paciente masculino, 72 anos, hipertenso e diabético controlado,
+comparece à unidade de pronto atendimento com queixa de febre alta há dois dias, calafrios, dor
+lombar à direita e disúria. Relata também fadiga intensa e episódios de náuseas e vômitos. Ao
+exame físico, apresenta-se febril (38,9°C), FC 105 bpm, PA 130x85 mmHg e dor à palpação do
+flanco direito. O exame de urina tipo 1 evidencia piúria e bacteriúria, e a urocultura está em
+andamento.
+Com base nesse quadro clínico:
+1. Liste os principais diagnósticos diferenciais para o quadro apresentado pelo paciente e
+indique o diagnóstico mais provável, justifique sua escolha com base na fisiopatologia e
+apresentação clínica.
+2. Elabore um plano terapêutico inicial para este paciente, incluindo as principais classes
+de antimicrobianos recomendadas empiricamente para o tratamento da condição
+diagnosticada.
+Alternativas:
+--
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 1 de 24
+
+Resposta comentada:
+Diagnósticos diferenciais:
+Pielonefrite aguda (diagnóstico mais provável): febre alta, dor lombar unilateral, disúria e
+sintomas sistêmicos.
+Nefrolitíase complicada: pode causar dor lombar intensa, mas geralmente não cursa
+com febre alta, a menos que esteja associada a pielonefrite obstrutiva.
+Abscesso renal ou perinéfrico: quadro infeccioso persistente, com sintomas
+semelhantes à pielonefrite, mas evolução mais arrastada e sem melhora com
+antibioticoterapia inicial.
+Prostatite aguda: pode cursar com febre e sintomas urinários, mas comumente há
+desconforto perineal e dificuldade miccional mais pronunciada.
+Plano terapêutico inicial:
+Hidratação intravenosa.
+Antibiótico empírico de amplo espectro adequado para o tratamento empírico de
+pielonefrite em adultos:
+Ceftriaxona (Cefalosporina de terceira geração)
+Levofloxacina/Ciprofloxacina (fluoroquinolonas).
+Ajuste do esquema antibiótico conforme resultado da urocultura e testes de
+sensibilidade.
+Monitoramento da resposta clínica e critérios para internação (hipotensão, incapacidade
+de ingestão oral, piora do estado geral).
+Referência:
+Nelson Z, Aslan AT, Beahm NP, et al. Guidelines for the Prevention, Diagnosis, and Management
+of Urinary Tract Infections in Pediatrics and Adults: A WikiGuidelines Group Consensus
+Statement. JAMA Netw Open. 2024;7(11):e2444495. doi:10.1001/jamanetworkopen.2024.44495
+
+2ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) Um paciente encontra-se no centro cirúrgico para realizar uma colecistectomia
+videolaparoscópica. No momento da anestesia, o anestesista optou por realizar anestesia geral
+associada à peridural. Dentre as possív eis complicações, assinale a alternativa correta.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 2 de 24
+
+Alternativas:
+(alternativa A)
+No centro cirúrgico, após intubação orotraqueal o anestesista deve levar o paciente para o setor
+de radiologia para realizar radiografia de tórax, antes do procedimo cirúrgico, para checar o
+posicionamento do tubo orotraqueal.
+
+(alternativa B)
+Pacientes com pneumonia devem realizar suas cirurgias eletiva normalmente, visto que
+pneumonia não altera o desfecho de anestesia geral em comparação com pacientes sem
+pneumonia. E adiar o procedimento poderia oferecer risco ao paciente.
+(alternativa C)
+Se o paciente apresentar temperatura acima de 37,8 durante o intraoperatório, trata-se de febre, e
+deve ser tratado com dipirona, visto que a antibioticoterapia deve ser iniciada o mais breve
+possív el, e não existem outras causas graves que levam ao aumento da temperatura.
+(alternativa D) (CORRETA)
+Distância entre os dentes incisivos, Mallampati, obesidade, presença de dentes, barba e
+mobilidade cervical são critérios que devem ser observados antes de realizar intubação por
+serem preditivos de via aérea difíc il.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 3 de 24
+
+Resposta comentada:
+A alternativa correta é a: Distância entre os dentes incisivos, Mallampati, obesidade, presença de
+dentes, barba e mobilidade cervical são critérios que devem ser observados antes de realizar
+intubação por serem preditivos de via aérea difíc il.
+Explicação:
+O aumento da temperatura no intraoperatório pode ter diversas causas, incluindo hipertermia
+maligna, resposta inflamatória à manipulação cirúrgica, reação a anestésicos ou infecção. A
+hipertermia maligna, por exemplo, é uma emergência anestésica e não deve ser tratada apenas
+com dipirona. Além disso, antibioticoterapia não deve ser iniciada sem indicação clínica.
+A avaliação prévia da via aérea é essencial para evitar complicações durante a intubação. Fatores
+como distância interincisiva, classificação de Mallampati, obesidade, presença de dentes, barba e
+mobilidade cervical são importantes preditores de via aérea difícil.
+Após a intubação orotraqueal, a checagem do posicionamento do tubo deve ser feita no próprio
+centro cirúrgico, utilizando métodos como ausculta pulmonar bilateral, capnografia e observação
+da expansão torácica. Não é necessário levar o paciente para o setor de radiologia antes do
+procedimento cirúrgico.
+Pneumonia ativa é um fator de risco significativo para complicações pulmonares no pósoperatório, podendo aumentar a morbidade e mortalidade. Cirurgias eletivas devem ser adiadas
+até que a infecção esteja resolvida.
+Referência:
+SAAD JUNIOR, Roberto; SALLES, Ronaldo Antonio Reis Vianna; CARVALHO, Walter Roriz de;
+MAIA, Accyoli Moreira; CASTRO FILHO, Heládio Feitosa de; VON BAHTEN, Luiz Carlos (Orgs.).
+Tratado de Cirurgia do CBC. 3. ed. São Paulo: Atheneu, 2022. ISBN 9786555865394.
+3ª QUESTÃO
+Enunciado:
+(UNISL PORTO VELHO) Uma gestante de 12 semanas, 25 anos, comparece à Unidade Básica
+de Saúde para consulta de pré-natal. Está assintomática e não possui comorbidades. Durante a
+investigação laboratorial inicial, os exames sorológicos para toxoplasmose apresentam os
+seguintes resultados:
+•
+•
+•
+
+IgM para Toxoplasma gondii: Reagente.
+IgG para Toxoplasma gondii: Reagente.
+Avidade da IgG: Baixa.
+
+A paciente nega sintomas como febre, linfadenopatia ou mal-estar recente. Com base nesses
+achados, qual é a melhor conduta a ser tomada?
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 4 de 24
+
+Alternativas:
+(alternativa A)
+Solicitar nova sorologia em 3 semanas e tratar somente se houver aumento do IgG.
+(alternativa B)
+Administrar sulfadiazina, pirimetamina e ácido folínico imediatamente, pois há infecção
+confirmada.
+(alternativa C) (CORRETA)
+Iniciar tratamento com espiramicina e solicitar amniocentese para PCR de Toxoplasma gondii a
+partir da 18ª semana.
+(alternativa D)
+Tranquilizar a paciente, pois a presença de IgG indica imunidade e não há risco fetal.
+
+Resposta comentada:
+Resposta correta: Iniciar tratamento imediato com espiramicina e solicitar amniocentese para
+PCR de Toxoplasma gondii a partir da 18ª semana.
+Justificativa:
+A presença de IgM reagente com IgG reagente e baixa avidez sugere infecção aguda ou recente,
+o que pode indicar risco de transmissão vertical. Como ainda não há confirmação de infecção
+fetal, o protocolo adequado é:
+1. Iniciar espiramicina (1g a cada 8h) para reduzir o risco de transmissão placentária.
+2. Realizar amniocentese com PCR para Toxoplasma gondii a partir da 18ª semana para
+investigar infecção fetal.
+3. Se PCR positivo, trocar para sulfadiazina + pirimetamina + ácido folínico, que são mais
+eficazes no tratamento fetal.
+Respostas incorretas:
+- Tranquilizar a paciente: a baixa avidez indica infecção recente, sendo necessário tratamento e
+investigação fetal.
+- Aguardar nova sorologia antes de tratar: o tratamento deve ser iniciado precocemente para
+reduzir a transmissão.
+- Iniciar sulfadiazina + pirimetamina imediatamente: essa combinação é reservada para casos
+com infecção fetal confirmada.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo de Atenção à Gestante com Infecção por Toxoplasma
+gondii, 2023.
+Red Book – American Academy of Pediatrics, 2021.
+Cunningham et al. Williams Obstetrics, 26ª edição, 2023.
+4ª QUESTÃO
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 5 de 24
+
+Enunciado:
+(UNIFIPMOC) Caso 1: A.P.J., 66 anos, refere "pele amarelada", parestesia progressiva em
+membros inferiores e ardência na língua. É portador de diabetes mellitus tipo 2 e gastrite, usando
+Metformina 850 mg 3x/dia e Omeprazol 20 mg pela manhã em jejum. Sem outros sinais e
+sintomas associados. No exame físico foi observado atrofia de papilas linguais. Exames
+laboratoriais: hemograma: Hb: 8,8 g/dL, Ht: 26%, VCM: 112 fL (VN: 80-95 fL), leucócitos:
+3.200/uL, plaquetas: 124.000/uL; Contagem absoluta de reticulócitos: 22.000/uL (VN: 25.000105.000/uL); ferro sérico: 97 ug /dL (VN: 40-160 ug/dL); TIBC: 325 ug/dL (VN: 300-360 ug/dL);
+saturação da transferrina: 30%; ferritina: 120 ng/mL (VN: 6-159 ng/mL); LDH: 5.460 U/L (VN < 460
+U/L); bilirrubinas totais: 1,8 mg/dL (VN <1,0 mg/dL); Coombs direto: negativo; TSH: 4,0 mU/L (VN:
+0,5 -5,0 mU/L). Hematoscopia: presença de neutrofilos hipersegmentados.
+Caso 2: P.S.S., de 4 anos de idade, compareceu a consulta rotina de puericultura. Pais não
+relatavam queixas clínicas neste atendimento. Possui alimentação ruim, mas bom
+desenvolvimento global. Peso e estatura ambos nos percentis 50 (P50) para idade e sexo.
+Observou-se mucosas hipocoradas (+/4+) ao exame físico. O paciente retorna após uma
+semana para avaliação de resultado de exames laboratoriais solicitados previamente. Traz o
+seguinte laudo de exame hematimétrico: eritrócitos 5,55 milhões/mm3 (VN: 3,6 a 5,2);
+hemoglobina 10,40 g/dL (VN: 11 a 13,1 g/dL); hematócrito 32,10% (VN: 35,0 - 43,0%); VCM 57,83
+fL (VN: 74,0 a 102,0 fL); HCM 18,73 pg (VN: 23,0 a 31,0 pg); CHCM 32,39 g/dL (VN: 26,0 a 34,0
+g/dL) RDW 13,6% (VN: 11,5 a 14,5%). Série vermelha: microcitose e hipocromia discretas;
+ausência de anisocitose. Contagem de reticulócitos: 110.000 de reticulócitos absolutos.
+A conduta mais apropriada em cada caso seria:
+Alternativas:
+(alternativa A)
+Caso 1: prescrever vitamina B12 intramuscular.
+Caso 2: prescrever ácido fólico por via oral.
+
+(alternativa B)
+Caso 1: prescrever vitamina ácido fólico por via oral.
+Caso 2: prescrever ferro por via oral.
+
+(alternativa C)
+Caso 1: solicitar dosagem de vitamina B12.
+Caso 2: prescrever ferro por via endovenosa.
+
+(alternativa D) (CORRETA)
+Caso 1: solicitar dosagem de vitamina B12.
+Caso 2: solicitar eletroforese de hemoglobina.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 6 de 24
+
+Resposta comentada:
+Caso 1: trata-se de um quadro é absolutamente clássico de anemia megaloblástica (VCM > 110
+fl); existe glossite atrófica, um sinal inespecífico de anemia carencial, mas a cinética de ferro
+normal afasta a possibilidade de ferropenia; existe um sinal importante que é a presença de
+neutrofilos hipersegmentados à hematoscopia. A anemia megaloblástica é causada por
+deficiência de folato e ou de vitamina B12, mas é importante salientar que a deficiência de B12
+justifica manifestações neurológicas como fraqueza e parestesia em membros inferiores.
+Ademais, há fatores de risco para má-absorção de B12 (idade avançada e uso de Metformina).
+Desse modo, recomenda-se dosar vitamina B12 e seguir com a reposição.
+Caso 2: o caso apresenta anemia microcítica e hipocrômica. Assim, a principal hipótese
+diagnóstica é de anemia ferropriva. Porém, note que o RDW é normal. Assim, é fundamental
+considerar a possibilidade de beta-talassemia minor, forma clínica da doença que cursa com
+discreta redução da hemoglobina, que não traz repercussões clínicas. Além disso, a microcitose
+da talassemia costuma ser mais marcante que a da ferropriva (VCM = 57). Portanto, é preciso
+solicitar uma eletroforese de hemoglobina para confirmá-la a principal hipótese de betatalassemina minor.
+Referências:
+Lorenzi, Therezinha F. Manual de Hematologia - Propedêutica e Clínica, 4ª edição. Disponível em:
+Minha Biblioteca, Grupo GEN, 2006.
+Hoffbrand, A., V. e P. A. H. Moss. Fundamentos em hematologia de Hoffbrand. Disponível em:
+Minha Biblioteca, (7th edição). Grupo A, 2018.
+5ª QUESTÃO
+Enunciado:
+(UNIGRANRIO CAXIAS) Uma mulher de 45 anos apresenta dor abdominal em cólica no
+quadrante superior direito, irradiando para o ombro direito, associada a náuseas e vômitos há 24
+horas. Ela relata episódios semelhantes no passado, mas nunca com essa intensidade. Durante o
+exame físico, há dor à palpação no hipocôndrio direito com sinal de Murphy positivo. Os exames
+laboratoriais mostram leucocitose com desvio à esquerda, elevação discreta das enzimas
+hepáticas e bilirrubinas normais. A ultrassonografia abdominal revelou espessamento da parede
+da vesícula biliar, presença de cálculo impactado no infundíbulo e líquido pericolecístico.
+Com base no caso clínico, qual é a conduta mais apropriada para esse quadro?
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 7 de 24
+
+Alternativas:
+(alternativa A)
+Iniciar antibioticoterapia, realizar drenagem percutânea da vesícula biliar e agendar
+colecistectomia eletiva.
+(alternativa B) (CORRETA)
+Diagnóstico de colecistite aguda complicada; iniciar antibioticoterapia, suporte clínico e indicar
+colecistectomia laparoscópica de urgência.
+(alternativa C)
+Realizar apenas manejo clínico com dieta zero e hidratação, pois os sintomas sugerem colelitíase
+sem sinais de gravidade.
+(alternativa D)
+Iniciar antibioticoterapia e acompanhamento ambulatorial, pois o quadro é compatível com
+colecistite leve sem necessidade de intervenção cirúrgica.
+
+Resposta comentada:
+O caso descrito é compatível com colecistite aguda, diagnosticada por meio dos sintomas (dor
+em hipocôndrio direito com sinal de Murphy positivo), dos achados laboratoriais (leucocitose) e da
+ultrassonografia (espessamento da vesícula, cálculo impactado). A conduta indicada em casos
+de colecistite aguda com sinais de complicação (como líquido pericolecístico) é a colecistectomia
+laparoscópica de urgência, associada ao manejo clínico com antibioticoterapia. A drenagem
+percutânea é reservada para pacientes com contraindicação cirúrgica imediata.
+Referência:
+DOHERTY, Gerard M. CURRENT Cirurgia. 14ª ed. Porto Alegre: AMGH, 2017. E-book. p. 1270.
+ISBN 9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580556018/. Acesso em: 07 mar.
+2025.
+6ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Menina de 3 anos iniciou com quadro de edema periorbitário especialmente
+matutino e bilateral há 4 dias, inicialmente tratada como angioedema, sem resposta. O médico
+considerou a hipótese de Síndrome Nefrótica embasado em outras alterações clínicas e
+laboratoriais adicionais.
+Marque a alternativa que corresponde às alterações encontradas que são comuns e confirmariam
+a hipótese diagnóstica do médico.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 8 de 24
+
+Alternativas:
+(alternativa A)
+Hipertensão arterial, cilindros granulosos, antidesoxirribonuclease B positiva.
+(alternativa B) (CORRETA)
+Oligúria, hipoalbuminemia, hipercolesterolemia.
+(alternativa C)
+C3 e CH50 aumentados, cilindros hemáticos, urina espumosa.
+(alternativa D)
+C3 e CH50 reduzidos, hiperlipidemia, leucocitúria.
+
+Resposta comentada:
+Resposta correta: Oligúria, hipoalbuminemia, hipercolesterolemia.
+As anormalidades presentes mais comumente na Síndrome Nefrótica seriam hiperlipidemia, urina
+espumosa com presença de cilindros hialinos, oligúria, hipoalbuminemia devido a proteinúria alta.
+A alteração de C3 e CH50 (redução), hipertensão arterial, urina cor de coca-cola representando
+hematúria, presença de cilindros hemáticos e dismorfismo eritrocitário, antidesoxirribonuclease B
+positiva são indicativos da Síndrome Nefrítica.
+
+Referências:
+Diagnóstico e tratamento de glomerulonefrite pós-infecciosa – revisão narrativa - REAS/EJCH |
+Vol. Sup. n. 59 | e4254 | DOI: https://doi.org/10.25248/reas.e4254.2020.
+Sociedade Brasileira de Pediatria de São Paulo. Atualização de condutas em pediatria: Síndrome
+Nefrótica. Junho de 2019.
+7ª QUESTÃO
+Enunciado:
+(UNITPAC) Uma mulher de 32 anos, previamente saudável, procura atendimento após seu
+marido, com quem mantém um relacionamento há cinco anos, ter sido diagnosticado com HIV
+positivo em um exame de rotina. Relata que sempre utilizaram preservativo, mas há 48 horas
+tiveram a primeira relação sexual desprotegida desde o início do relacionamento.
+Ela está assintomática, e um teste rápido para HIV realizado no atendimento resulta negativo.
+Questionada sobre o estado de saúde do marido, ela informa que ele desconhece sua carga viral
+e ainda não iniciou tratamento antirretroviral.
+Considerando o contexto clínico e a melhor conduta baseada em evidências, qual a alternativa
+dentre as abaixo mencionadas traz a abordagem mais adequada para o caso? Além disso, quais
+inferências são corretas sobre a evolução da AIDS, a história do adoecimento da infecção pelo
+HIV e suas formas de transmissão?
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 9 de 24
+
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar profilaxia pós-exposição (PEP) com um esquema antirretroviral triplo, visto que a
+exposição ocorreu dentro do período indicado, o status da carga viral do parceiro é desconhecido
+e há risco de transmissão. O parceiro não necessariamente tem o diagnóstico de AIDS e pode
+não estar manifestando sintomas. Em indivíduos não tratados, estima-se que o tempo médio
+entre o contágio e o aparecimento da doença esteja em torno de dez anos.
+(alternativa B)
+Aguardar um novo teste de HIV em 30 dias antes de indicar qualquer intervenção, pois a paciente
+pode já estar na janela imunológica e a PEP seria ineficaz se a infecção já tiver ocorrido. Os
+modos de transmissão da infecção são principalmente o contato sexual e exposição a sangue
+(transfusão de sangue e hemoderivados, compartilhamento de agulhas). Na história clínica do
+enunciado, caso a infecção pelo HIV se confirme, a forma de transmissão responsável terá sido a
+sexual.
+(alternativa C)
+Investigar a carga viral do marido antes de decidir pela PEP, pois, caso ele tenha carga viral
+indetectável, a profilaxia não seria necessária, reduzindo o risco de exposição desnecessária a
+antirretrovirais. O companheiro da paciente pode estar na fase de infecção assintomática que
+pode durar anos, até o aparecimento de infecções oportunistas (tuberculose, neurotoxoplasmose,
+neurocriptococose) e algumas neoplasias (linfomas não-Hodgkin e sarcoma de Kaposi).
+(alternativa D)
+Iniciar profilaxia pré-exposição (PrEP), pois, embora a paciente tenha tido uma exposição
+desprotegida recente, a PrEP é mais apropriada para prevenir infecção futura do que a PEP neste
+caso. O parceiro da paciente pode estar na fase de latência clínica, fase essa em que o exame
+físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção aguda. A
+presença de linfadenopatia generalizada persistente é frequente.
+
+Resposta comentada:
+Correta: Iniciar profilaxia pós-exposição (PEP) com um esquema antirretroviral triplo, visto que a
+exposição ocorreu dentro do período indicado, o status da carga viral do parceiro é desconhecido
+e há risco de transmissão. O parceiro não necessariamente tem o diagnóstico de AIDS e pode
+não estar manifestando sintomas. Em indivíduos não tratados, estima-se que o tempo médio
+entre o contágio e o aparecimento da doença esteja em torno de dez anos.
+A profilaxia pós-exposição (PEP) deve ser administrada até 72 horas após a exposição, pois há
+evidências de que a replicação do HIV pode ser bloqueada nesse período. Neste caso, a paciente
+teve uma relação desprotegida há 48 horas com um parceiro de status virológico desconhecido, o
+que configura uma exposição de risco significativa. O tratamento deve ser iniciado imediatamente,
+sem aguardar exames adicionais, com um esquema triplo de antirretrovirais por 28 dias, seguido
+de testes para HIV em 30 e 90 dias. Sobre o restante, de fato, o parceiro não necessariamente
+tem o diagnóstico de AIDS, até porque não há informações suficientes no enunciado da questão
+para afirmar isso. E realmente, pode não estar manifestando sintomas, pois, conforme diz o
+Protocolo Clínico e Diretrizes Terapêuticas para Manejo da Infecção pelo HIV em Adultos (2018):
+“em indivíduos não tratados, estima-se que o tempo médio entre o contágio e o aparecimento da
+doença esteja em torno de dez anos”.
+Incorreta: Aguardar um novo teste de HIV em 30 dias antes de indicar qualquer intervenção, pois
+a paciente pode já estar na janela imunológica e a PEP seria ineficaz se a infecção já tiver
+ocorrido. Os modos de transmissão da infecção são principalmente o contato sexual e exposição
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 10 de 24
+
+a sangue (transfusão de sangue e hemoderivados, compartilhamento de agulhas). Na história
+clínica do enunciado, caso a infecção pelo HIV se confirme, a forma de transmissão responsável
+terá sido a sexual.
+A infecção pelo HIV segue um curso de replicação inicial antes da soroconversão, e a PEP atua
+justamente antes que o vírus se estabeleça no organismo (Brasil, 2021). Aguardar para testar
+novamente não impede a infecção e contradiz as diretrizes atuais, que recomendam início
+imediato da profilaxia sempre que houver uma exposição de risco recente. Os modos de
+transmissão da infecção pelo HIV são realmente o contato sexual e exposição a sangue
+(transfusão de sangue e hemoderivados, compartilhamento de agulhas). Na história clínica do
+enunciado, pode ter havido, de fato, transmissão pelo contato sexual (Brasi, 2018). No entanto,
+apesar de serem verdadeiras as afirmações retroreferidas, a conduta de aguardar um teste com
+30 dias torna a alternativa equivocada.
+Incorreta: Investigar a carga viral do marido antes de decidir pela PEP, pois, caso ele tenha carga
+viral indetectável, a profilaxia não seria necessária, reduzindo o risco de exposição desnecessária
+a antirretrovirais. O companheiro da paciente pode estar na fase de infecção assintomática que
+pode durar anos, até o aparecimento de infecções oportunistas (tuberculose, neurotoxoplasmose,
+neurocriptococose) e algumas neoplasias (linfomas não-Hodgkin e sarcoma de Kaposi).
+Embora pacientes com carga viral indetectável não transmitam o HIV (princípio U=U –
+"Indetectável = Intransmissível"), o parceiro ainda não realizou exames complementares para
+determinar sua viremia. A PEP não deve ser adiada enquanto se aguarda essa informação, pois o
+risco de transmissão, mesmo que potencialmente reduzido, ainda existe. O companheiro da
+paciente, de fato, pode estar na fase de infecção assintomática que pode durar anos, até o
+aparecimento de infecções oportunistas (tuberculose, neurotoxoplasmose, neurocriptococose) e
+algumas neoplasias (linfomas não-Hodgkin e sarcoma de Kaposi) (Brasil, 2018). No entanto, a
+imposição da investigação da carga viral do marido antes do início da PEP torna a alternativa
+errada.
+Incorreta: Iniciar profilaxia pré-exposição (PrEP), pois, embora a paciente tenha tido uma
+exposição desprotegida recente, a PrEP é mais apropriada para prevenir infecção futura do que a
+PEP neste caso. O parceiro da paciente pode estar na fase de latência clínica, fase essa em que
+o exame físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção
+aguda. A presença de linfadenopatia generalizada persistente é frequente.
+Fato é que o parceiro da paciente pode estar na fase de latência clínica, e nessa fase o exame
+físico costuma ser normal. Verdade é também que a presença de linfadenopatia generalizada
+persistente é frequente na fase de latência clínica (Brasil, 2018), no entanto, o erro da alternativa
+reside no fato de indicar PrEP. É sabido que a profilaxia pré-exposição (PrEP) é indicada para
+pessoas em risco contínuo (Brasil, 2021), não substituindo a PEP em exposições recentes. A
+PrEP poderia ser uma opção futura após a conclusão do esquema de PEP, mas, no momento, a
+prioridade é interromper a replicação viral inicial caso tenha havido contaminação.
+A PEP deve ser iniciada imediatamente, pois a paciente teve uma exposição recente e
+significativa ao HIV. O atraso na decisão pode comprometer sua eficácia. A testagem para HIV
+deve ser repetida após 30 e 90 dias (Brasil, 2021), e a PrEP pode ser considerada futuramente
+para evitar novas exposições.
+Referências:
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de vigilância,
+prevenção e controle das infecções sexualmente transmissíveis, do HIV/AIDS e das hepatites
+virais. Protocolo clínico e diretrizes terapêuticas para profilaxia pós-exposição (PEP) de
+risco à infecção pelo HIV, IST e hepatites virais. 2021.
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Protocolo clínico e diretrizes
+terapêuticas para manejo da infecção pelo HIV em adultos. 2018.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 11 de 24
+
+8ª QUESTÃO
+Enunciado:
+(IESVAP) Um paciente idoso, 78 anos, foi submetido a uma cirurgia de emergência devido a uma
+obstrução intestinal. No pós-operatório, 48 horas após a cirurgia, ele apresenta os seguintes
+sinais e sintomas: febre de 39°C, frequência cardíaca de 110 bpm, pressão arterial de 85/50
+mmHg, frequência respiratória de 35 irpm e alteração do estado mental (confusão).
+Com base no protocolo de sepse, qual das seguintes opções é a mais adequada para o
+diagnóstico de choque séptico e as condutas iniciais a serem adotadas?
+
+Alternativas:
+(alternativa A)
+Diagnóstico de choque séptico; iniciar antibióticos intravenosos, realizar expansão volêmica com
+solução salina, iniciar drogas vasoativas e realizar tomografia computadorizada do abdômen.
+
+(alternativa B) (CORRETA)
+Diagnóstico de choque séptico; iniciar ressuscitação volêmica com cristaloides, iniciar antibióticos
+intravenosos e monitorar a resposta clínica.
+
+(alternativa C)
+Diagnóstico de sepse; iniciar antibióticos endovenosos, oxigênio suplementar, hidratação venosa
+de manutenção e monitorar sinais vitais.
+
+(alternativa D)
+Diagnóstico de sepse; escalonar antibioticoterapia, realizar expansão volêmica com cristaloides e
+monitorizar respostas.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 12 de 24
+
+Resposta comentada:
+O paciente apresenta sinais claros de choque séptico, incluindo febre, taquicardia, hipotensão e
+alteração do estado mental.
+- Condutas Iniciais:
+- Ressuscitação Volêmica: A administração de cristaloides é fundamental para corrigir a
+hipotensão e melhorar a perfusão tecidual. A ressuscitação volêmica deve ser iniciada
+rapidamente em casos de choque séptico.
+- Antibióticos Intravenosos: A administração precoce de antibióticos intravenosos é crucial para o
+tratamento da infecção subjacente, que é a causa do choque séptico.
+- Monitoramento: A monitorização contínua dos sinais vitais e da resposta à ressuscitação é
+essencial para avaliar a eficácia das intervenções e ajustar o tratamento conforme necessário.
+- Exames de imagem, apesar de fundamentais, não são a prioridade; a prioridade inicial é a
+estabilização clínica do paciente.
+- O uso de drogas vasoativas se faz necessário apenas se houver refratariedade do choque à
+infusão de cristaloides.
+Referência:
+DOHERTY, Gerard M. CURRENT Cirurgia. 14. ed. Porto Alegre: AMGH, 2017. E-book. p. 83.
+ISBN 9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580556018/. Acesso em: 14 mar.
+2025.
+
+9ª QUESTÃO
+Enunciado:
+(FACIMPA0 J. C., 54 anos, sexo masculino, com histórico de etilismo crônico e diagnóstico
+prévio de cirrose hepática, comparece ao ambulatório para seguimento clínico. Refere episódio
+recente de hematêmese volumosa há três semanas, sendo internado e tratado com sucesso. No
+momento, está hemodinamicamente estável, sem novos episódios de sangramento, e nega
+melena ou dor abdominal. Apresenta função hepática preservada e exame físico sem alterações
+relevantes. A endoscopia digestiva alta realizada durante a internação evidenciou varizes
+esofágicas de médio calibre, sem sinais de alto risco de sangramento. Indique a alternativa que
+contempla a conduta correta para a patologia em questão.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 13 de 24
+
+Alternativas:
+(alternativa A)
+Uso de inibidor da bomba de prótons em dose plena por tempo indeterminado.
+
+(alternativa B)
+Cirurgia de derivação portossistêmica para descompressão portal.
+
+(alternativa C)
+Uso isolado de betabloqueador seletivo para redução da pressão portal.
+(alternativa D) (CORRETA)
+Ligadura elástica endoscópica associada a betabloqueador não seletivo.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 14 de 24
+
+Resposta comentada:
+O paciente apresenta histórico de cirrose hepática e episódio recente de hemorragia digestiva
+alta, com varizes esofágicas de médio calibre identificadas na endoscopia digestiva. Em casos de
+hemorragia varicosa prévia, a profilaxia secundária é fundamental para reduzir o risco de
+recorrência, uma vez que a taxa de ressangramento pode atingir 60% em um ano sem tratamento
+adequado.
+A estratégia mais eficaz para prevenção de novos episódios de hemorragia é a associação de
+ligadura elástica endoscópica com betabloqueadores não seletivos (BBNS), como propranolol ou
+nadolol. A ligadura elástica reduz o calibre das varizes e diminui o risco de rompimento, enquanto
+os BBNS atuam na redução da pressão portal por meio da vasoconstrição esplâncnica e da
+diminuição do débito cardíaco. Essa combinação demonstrou superioridade em relação ao uso
+isolado de cada uma dessas intervenções, tornando-se a abordagem padrão na profilaxia
+secundária do sangramento varicoso.
+O uso prolongado de inibidores da bomba de prótons (IBPs) não é indicado como medida
+preventiva para varizes esofágicas. Embora os IBPs sejam úteis no tratamento de esofagite
+erosiva e úlceras pépticas, eles não reduzem a pressão portal nem previnem o sangramento
+varicoso, não sendo recomendados para esse paciente.
+A cirurgia de derivação portossistêmica (TIPS - Transjugular Intrahepatic Portosystemic Shunt) é
+uma alternativa para casos refratários à terapia convencional ou quando há contraindicações ao
+uso de betabloqueadores e ligadura elástica. No entanto, TIPS não é a primeira escolha para
+profilaxia secundária, pois pode desencadear complicações, como encefalopatia hepática, e é
+reservada para situações em que o tratamento convencional falha.
+O uso isolado de betabloqueadores seletivos (ex.: atenolol, metoprolol) não é recomendado para
+controle da hipertensão portal. Diferentemente dos betabloqueadores não seletivos, eles não
+reduzem de maneira significativa o fluxo sanguíneo esplâncnico, não sendo eficazes na
+prevenção de hemorragia varicosa.
+Portanto, a conduta correta para esse paciente é a associação de ligadura elástica endoscópica
+com betabloqueador não seletivo, abordagem com melhor evidência na profilaxia secundária da
+hemorragia digestiva alta por varizes esofágicas.
+Referências:
+GARCIA-TSAO, Guadalupe; SANYAL, Arun J.; GRACE, Norman D.; CAREY, William. Prevention
+and management of gastroesophageal varices and variceal hemorrhage in cirrhosis. Hepatology,
+v. 46, n. 3, p. 922-938, 2007.
+LOPES, A. C. Manual de Clínica Médica. 8ª ed. Rio de Janeiro: Guanabara Koogan, 2020.
+VILLA, E.; GROTTIERO, L.; BUTTAZZONI, M.; FRANZE, A. β-blockers and variceal bleeding:
+The right drug for the right patient. Hepatology International, v. 14, p. 482-494, 2020.
+10ª QUESTÃO
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 15 de 24
+
+Enunciado:
+(AFYA GARANHUNS) Uma gestante de 22 anos, no terceiro trimestre da gravidez (30 semanas),
+comparece à consulta de pré-natal em uma unidade básica de saúde. Ela não apresenta sintomas
+e informa que essa é sua primeira gestação. Durante a avaliação laboratorial de rotina, os exames
+sorológicos revelam:
+• VDRL: Reagente, título 1:16 • Teste treponêmico (FTA-ABS): Reagente
+Ao revisar seu pré-natal, observa-se que não havia exames prévios de sífilis registrados. O
+parceiro da paciente não compareceu às consultas de pré-natal e não há informações sobre seu
+status sorológico.
+Com base neste caso, analise e responda:
+a) Qual é o diagnóstico da paciente e como a sífilis deve ser classificada neste caso? Justifique
+sua resposta com base nos achados laboratoriais e clínicos.
+b) Qual deve ser o tratamento para essa gestante, levando em consideração a segurança do feto
+e a prevenção da transmissão vertical? Como deve ser realizado o seguimento dessa paciente
+até o parto?
+Alternativas:
+--
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 16 de 24
+
+Resposta comentada:
+a) Diagnóstico e Classificação da Sífilis.
+A paciente é diagnosticada com sífilis na gestação, conforme os critérios laboratoriais. A
+presença de VDRL positivo (1:16) e teste treponêmico reagente (FTA-ABS) confirma a infecção
+por Treponema pallidum. A classificação da sífilis pode ser baseada no tempo de infecção e
+sintomas clínicos: • Sífilis recente (primária, secundária ou latente recente – até 1 ano de
+infecção): Quando há sinais clínicos como úlcera genital (cancro duro) ou erupções cutâneas e o
+VDRL apresenta títulos elevados. • Sífilis tardia (latente tardia ou terciária – mais de 1 ano ou
+tempo indeterminado): Quando não há sintomas e não se pode determinar com segurança o
+tempo da infecção. Neste caso, a paciente é assintomática e não há registro de testes prévios no
+pré-natal. Portanto, a sífilis deve ser tratada como latente tardia ou de tempo indeterminado,
+conforme as diretrizes para gestantes.
+b) Tratamento e Seguimento.
+O tratamento recomendado para sífilis na gestação segue os protocolos estabelecidos para evitar
+a transmissão vertical e proteger o feto: • Medicação: Penicilina benzatina (Benzetacil®) •
+Esquema Terapêutico: • Para sífilis recente (até 1 ano de infecção): 2,4 milhões de unidades IM
+em dose única. • Para sífilis tardia ou de tempo indeterminado: 3 doses de 2,4 milhões de
+unidades IM, administradas semanalmente. • Segurança: A penicilina é o único antibiótico eficaz
+na prevenção da sífilis congênita e não deve ser substituída, exceto em casos raros de alergia
+grave, nos quais a dessensibilização pode ser necessária. Seguimento até o parto •
+Monitoramento sorológico: VDRL mensalmente até o parto para avaliar a resposta ao tratamento.
+Espera-se uma redução progressiva do título. • Avaliação fetal: gestantes com sífilis têm risco
+aumentado de complicações obstétricas, incluindo parto prematuro e óbito fetal. Deve-se
+monitorar com ultrassonografia obstétrica e Doppler para sinais de infecção congênita
+(hepatomegalia, ascite, hidropsia fetal). • Tratamento do parceiro: O parceiro deve ser rastreado e
+tratado com o mesmo esquema para evitar reinfecção materna e falha terapêutica. Conduta
+Neonatal • O recém-nascido deve ser avaliado com VDRL e exame clínico ao nascimento. Se
+houver sinais de sífilis congênita ou títulos elevados, exames complementares (hemograma,
+líquor, raio-X de ossos longos) e antibioticoterapia são indicados.
+Referências:
+Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para a Prevenção da
+Transmissão Vertical de HIV, Sífilis, Hepatites Virais e HTLV. Brasília, 2022.
+Organização Mundial da Saúde (OMS). Eliminação da sífilis congênita como problema de saúde
+pública. Genebra, 2020.
+Centers for Disease Control and Prevention (CDC). Sexually Transmitted Infections Treatment
+Guidelines. Atlanta, 2021.
+11ª QUESTÃO
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 17 de 24
+
+Enunciado:
+(IESVAP) Uma paciente do sexo feminino, 62 anos, portadora de diabetes melito tipo 2,
+hipertensão arterial, úlcera gástrica, insuficiência renal crônica, utiliza insulina, enalapril,
+anlodipino, hidroclorotiazida, omeprazol, metformina. Ela suspendeu o uso de omeprazol (não era
+fornecido pelo posto de saúde) e ácido acetilsalicílico 100mg (AAS). Este último foi iniciado há
+cerca de 2 semanas. Após um final de semana em que ingeriu bebida alcoólica e feijoada, a
+paciente começou a ter quadro de mal-estar geral e fraqueza. Na admissão à unidade de
+emergência, apresentou-se gemente, hipocorada, com pressão arterial de 110x70 mmHg,
+frequência cardíaca de 72 bpm, bulhas normorrítmicas e normofonéticas, taquidispneica, sem
+alterações da ausculta pulmonar, dor à palpação epigástrica, sem sinais de irritação peritoneal.
+Os exames laboratoriais realizados e seus respectivos resultados foram os seguintes: glicemia
+de 150 mg/dL, ureia de 56 mg/dL (Normal: 20-50 mg/dL), creatinina de 1,4 mg/dL (Normal: 0,6 a
+1,30 mg/dL), sódio de 135 mEq/L (Normal: 135-145 mEq/L), potássio de 4,8 mEq/L (Normal: 3,5-5
+mEq/L), gasometria arterial: pH: 7,30; pCO2: 27; HCO3: 13; Na: 135; K: 4,8; Cl: 101 (Valor normal:
+98 - 107 mEq/L).
+Frente a essa gasometria, estamos diante de uma:
+
+Alternativas:
+(alternativa A)
+acidose metabólica com anion gap aumentado devido a ácidos não tituláveis.
+(alternativa B)
+acidose respiratória aguda.
+(alternativa C)
+alcalose metabólica associada a acidose respiratória.
+(alternativa D) (CORRETA)
+acidose metabólica com ânion gap normal.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 18 de 24
+
+Resposta comentada:
+Alcalose metabólica associada a acidose respiratória: Errada. Trata-se de uma acidose quando
+temos uma pCO2 aumentada ou um bicarbonato baixo. No caso em questão, é uma acidose.
+Acidose metabólica com anion gap aumentado devido a ácidos não tituláveis: Errada. À frente de
+uma acidose, temos que calcular o anion gap (ag: na – (cl+hco3)). Na questão, o anion gap está
+normal (é necessário seu cálculo, pois pode existir ácidos não tituláveis circulantes).
+Acidose metabólica com anion gap normal: Correta.
+Acidose respiratória aguda: Errada. A pCO2 baixa é compensação ou distúrbio respiratório
+associado? Temos que calcular a pCO2 esperada pela fórmula: 1,5 x HCO3 + 8 (+ou -2) – no
+caso, é compensação.
+Referências:
+Manual Nefropapers de distúrbios hidreletrolíticos e do equilíbrio ácido-básico - Sales Montezuma,
+G.T. & Pitrobom, I.G. 1ª ed. Rio de Janeiro - Editora Rubio - 2024.
+DOHERTY, Gerard M. CURRENT Cirurgia. 14ª ed. Porto Alegre: AMGH, 2017. E-book. p. 27.
+ISBN 9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580556018/. Acesso em: 14 mar.
+2025.
+12ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) Homem de 47 anos, obeso, com hábito etílico crônico de longa data e
+diagnóstico prévio de colelitíase assintomática em acompanhamento conservador. Ele é admitido
+no pronto-socorro com dor abdominal intensa no andar superior do abdome, irradiando para o
+dorso, acompanhada de náuseas e vômitos há 24 horas. No exame físico, apresenta abdome
+distendido, hipersensível à palpação profunda em epigástrio, sem sinais de irritação peritoneal. Os
+exames laboratoriais mostram amilase e lipase três vezes acima do valor de referência. A
+tomografia computadorizada evidenciou aumento difuso do pâncreas e sinais de edema
+peripancreático, sem coleções organizadas. Qual deve ser a melhor abordagem terapêutica inicial
+para esse paciente?
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 19 de 24
+
+Alternativas:
+(alternativa A) (CORRETA)
+Hidratação vigorosa com cristaloides, analgesia e jejum, com progressão para dieta oral conforme
+tolerância, monitorando complicações e colecistectomia na mesma internação.
+
+(alternativa B)
+Administração precoce de antibióticos de amplo espectro e indicação cirúrgica imediata para
+drenagem do pâncreas inflamado e retirada da vesícula biliar.
+
+(alternativa C)
+Remoção cirúrgica emergencial do pâncreas necrosado, seguida de nutrição parenteral exclusiva
+e suporte intensivo.
+(alternativa D)
+Cirurgia de Whipple devido à alta probabilidade de malignidade pancreática, devido a ser do sexo
+masculino e maior de 45 anos de idade, associado ao uso de álcool.
+
+Resposta comentada:
+A base do tratamento inicial da pancreatite aguda inclui hidratação vigorosa com cristaloides,
+analgesia adequada (preferencialmente com opioides), suporte nutricional com jejum inicial e
+reintrodução alimentar conforme tolerância. Monitoramento rigoroso das complicações, como
+necrose pancreática e insuficiência orgânica, é essencial. A colecistectomia deve sempre que
+possível ser realizada na mesma internação (antes da alta).
+Justificativas das incorretas:
+Antibióticos de amplo espectro não são indicados rotineiramente na pancreatite aguda
+não complicada. O uso deve ser restrito a casos com suspeita de infecção associada
+(por exemplo, necrose infectada). Cirurgia imediata não é recomendada.
+A cirurgia de Whipple é indicada para tumores periampulares e não para pancreatite
+aguda.
+A remoção cirúrgica emergencial do pâncreas não é uma abordagem inicial, sendo
+reservada para casos selecionados com necrose infectada refratária. Além disso, a
+nutrição enteral precoce é preferida à parenteral sempre que possível.
+Referências:
+Sabiston, Tratado de Cirurgia: A base biológica da prática cirúrgica moderna, 19ª ed. Saunders,
+Elsevier.
+American Gastroenterological Association (AGA) Guidelines on Acute Pancreatitis (2021).
+UpToDate - Approach to Acute Pancreatitis (2023).
+
+13ª QUESTÃO
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 20 de 24
+
+Enunciado:
+(FESAR) Um homem de 59 anos, hipertenso e diabético tipo 2, procura o atendimento no prontosocorro acompanhado de sua esposa, referindo fadiga intensa, adinamia progressiva, bem como
+não sabe identificar o local em que está, não lembra o seu nome e o dia da semana. Ademais, a
+esposa revela que o companheiro tem evoluído com quadro de polidipsia e polaciúria nas últimas
+semanas. Entretanto, nega episódios de vômitos, diarreia ou ingestão excessiva de líquidos. Ao
+exame físico, encontra-se desidratado (++/4), PA: 110/70 mmHg, frequência cardíaca de 100
+bpm e frequência respiratória de 20 irpm. A ausculta pulmonar é normal, sem sinais de
+insuficiência cardíaca. A avaliação neurológica revela diminuição dos reflexos profundos e
+sonolência.
+De acordo com o caso acima, assinale a alternativa que contenha o distúrbio hidroeletrolítico e a
+conduta inicial mais indicada para o paciente.
+Alternativas:
+(alternativa A)
+Hipernatremia hipertônica devido à diabetes insipidus nefrogênica; iniciar reidratação com solução
+salina isotônica.
+(alternativa B)
+Hipernatremia hiperosmolar devido à desidratação; iniciar reidratação com solução salina
+isotônica.
+(alternativa C)
+Hiponatremia hipotônica devido à insuficiência renal aguda; iniciar administração de furosemida e
+restrição hídrica.
+(alternativa D) (CORRETA)
+Hiponatremia hipotônica devido à síndrome de secreção inapropriada de hormônio antidiurético
+(SIADH); administrar solução salina hipertônica.
+
+Resposta comentada:
+A resposta correta é: a) Hiponatremia hipotônica devido à síndrome de secreção inapropriada de
+hormônio antidiurético (SIADH); iniciar administração de solução salina hipertônica.
+Neste caso, o paciente apresenta sintomas de hiponatremia, como fraqueza muscular, fadiga,
+confusão mental e diminuição dos reflexos profundos. A hiponatremia hipotônica é mais sugestiva
+de SIADH, uma condição na qual há excesso de secreção de hormônio antidiurético, resultando
+em retenção de água e diluição do sódio sérico. A conduta inicial envolve a administração de
+solução salina hipertônica para corrigir gradualmente a hiponatremia e evitar a ocorrência de
+desmielinização osmótica. A opção b) está incorreta, pois a hipernatremia é uma condição de
+excesso de sódio no sangue, o oposto do que é observado neste caso. A opção c) está incorreta
+pois Diabetes insipidus nefrogênica não causa hipernatremia hipertônica, bem como, o emprego
+de solução salina isotônica pode agravar a hipernatremia. A opção d) está incorreta, pois a
+administração de furosemida e a restrição hídrica podem agravar a hiponatremia.
+FAUCI, A. S.; BRAUNWALD, E.; KASPER, D. L.; HAUSER, S. L.; LONGO, D. L.; JAMESON, J.
+L.; LOSCALZO, J. Medicina interna de Harrison. 21. ed. Porto Alegre: AMGH Editora, 2021.
+STERNS, RICHARD H. Overview of the treatment of hyponatremia in adults. UpToDate, Inc.,
+2024. Acesso em: 22 abril. 2024.
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 21 de 24
+
+14ª QUESTÃO
+Enunciado:
+(FIP GUANAMBI) João, 32 anos, comparece à Unidade Básica de Saúde (UBS) com queixas de
+fadiga intensa, dor óssea recorrente e episódios frequentes de icterícia nos últimos meses. Relata
+que, desde a infância, tem crises dolorosas esporádicas, principalmente em momentos de
+estresse ou exposição ao frio. No exame físico, apresenta conjuntivas descoradas, icterícia
+discreta e esplenomegalia. Os exames laboratoriais revelam: hemoglobina: 8,2 g/dL, VCM: 85 fL,
+reticulócitos: 6,5%, presença de drepanócitos no esfregaço sanguíneo, bilirrubina indireta
+aumentada.
+Com base no caso apresentado, julgue os itens a seguir:
+I - A provável patologia está relacionada à mutação no gene da beta-globina, levando à formação
+de hemoglobina S.
+II - O principal mecanismo da anemia é a deficiência de ferro decorrente da hemólise crônica.
+III - O diagnóstico pode ser confirmado por eletroforese de hemoglobina, demonstrando
+predomínio da hemoglobina S.
+IV - O tratamento curativo para essa condição é o uso crônico de hidroxiureia.
+V - Pacientes com esta condição apresentam risco aumentado de infecções, especialmente por
+bactérias encapsuladas.
+São corretas as alternativas:
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 22 de 24
+
+Alternativas:
+(alternativa A)
+I , III e V, apenas.
+(alternativa B) (CORRETA)
+I, III e V, apenas.
+(alternativa C)
+II, III e IV, apenas.
+(alternativa D)
+I, II, IV e V, apenas.
+
+Resposta comentada:
+A anemia falciforme é uma doença genética caracterizada pela presença da hemoglobina S, que
+leva à deformação das hemácias, resultando em hemólise crônica e crises vaso-oclusivas. O
+diagnóstico é confirmado por eletroforese de hemoglobina, e o manejo envolve medidas
+preventivas, como vacinação e antibióticos profiláticos, além do uso de hidroxiureia para reduzir a
+frequência das crises.
+A mutação no gene HBB leva à produção de hemoglobina S, que polimeriza sob hipóxia,
+causando falcização das hemácias.
+A anemia falciforme é causada pela hemólise intravascular e extravascular, e não por deficiência
+de ferro.
+A eletroforese de hemoglobina demonstra aumento significativo da hemoglobina S, confirmando o
+diagnóstico.
+A hidroxiureia é um tratamento que reduz crises vaso-oclusivas, mas o único tratamento curativo
+é o transplante de medula óssea.
+Devido à disfunção esplênica, os pacientes têm maior risco de infecções por Streptococcus
+pneumoniae e Haemophilus influenzae.
+Referências:
+NAOUM, Paulo César. Hemoglobinopatias: clínica, laboratórios, diagnóstico molecular e
+tratamento. São Paulo: Editora Sarvier, 2014.
+SERJEANT, Graham R. Sickle Cell Disease. Oxford: Oxford University Press, 2019.
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas – Doença Falciforme.
+Brasília, 2022.
+15ª QUESTÃO
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 23 de 24
+
+Enunciado:
+(FESAR) Uma adolescente de 15 anos foi encaminhada ao CAPS (Centro de Atenção
+Psicossocial) devido a episódios recorrentes de paralisia temporária em um dos membros
+inferiores e dificuldades para andar, sem causa orgânica aparente. Durante a consulta, a paciente
+relatou ansiedade intensa e estresse relacionado a situações familiares e escolares. Ao exame
+clínico, não foram observadas alterações neurológicas ou musculares. A paciente também
+apresentou crises de choro frequentes e hipersensibilidade emocional.
+Analise as afirmativas a seguir:
+I. O transtorno conversivo é caracterizado por sintomas neurológicos, como paralisia, sem
+explicação médica, frequentemente associados a estresse psicológico.
+II. A ansiedade e o estresse emocional são fatores comuns que podem desencadear os sintomas
+observados no transtorno conversivo.
+III. O diagnóstico do transtorno conversivo é confirmado apenas após a exclusão de qualquer
+condição médica orgânica que possa justificar os sintomas.
+IV. O tratamento para transtorno conversivo geralmente envolve psicoterapia para ajudar a
+paciente a lidar com o estresse e os conflitos emocionais.
+Com base nisso, podemos julgar que as afirmativas
+Alternativas:
+(alternativa A)
+III e IV estão corretas.
+(alternativa B) (CORRETA)
+I, II e IV estão corretas.
+(alternativa C)
+I, II e III estão corretas.
+
+(alternativa D)
+II, III e IV estão corretas.
+
+Resposta comentada:
+As afirmativas I, II e IV estão corretas. O transtorno conversivo envolve sintomas neurológicos
+sem explicação médica (afirmativa I), frequentemente relacionados ao estresse (afirmativa II), e o
+tratamento é focado em psicoterapia (afirmativa IV). A afirmativa III está incorreta, pois o
+diagnóstico é baseado nos sintomas clínicos, sendo necessária a exclusão de outras condições
+médicas, mas não "confirmado apenas após a exclusão".
+Referências:
+BOTEGA, Neury J. Prática psiquiátrica no hospital geral. Grupo A, 2017. E-book. ISBN
+9788582714317. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582714317/. Acesso em: 10 abr. 2025.
+FIRST, Michael B. Manual de diagnóstico diferencial do DSM-5. Grupo A, 2015. E-book. ISBN
+9788582712078. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582712078/. Acesso em: 10 abr. 2025.
+
+000155.99001f.219586.c9e765.f29daf.550994.c90d13.27eb7
+
+Pgina 24 de 24
+
+

@@ -1,0 +1,548 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Clínica Cirúrgica IV
+Professor (es):
+Período: 202402
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_8 PERIODO_01OUTUBRO_2024.2_PROVA_CC
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 13662 - CADERNO 001
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+Enunciado:
+( IESVAP) Uma paciente, 45 anos, hipertensa, com histórico de trombose venosa profunda
+proximal em membro inferior direito há 8 anos, comparece à Unidade Básica de Saúde para sua
+consulta de rotina, apresentando edema crônico em perna direita associado a varizes e dermatite
+ocre. Conforme o caso clínico apresentado, qual a classificação CEAP segundo a clínica e
+etiologia da doença venosa crônica?
+Alternativas:
+(alternativa A)
+C3 e etiologia primária.
+(alternativa B) (CORRETA)
+C4 e etiologia secundária.
+(alternativa C)
+C3 e etiologia secundária.
+(alternativa D)
+C4 e etiologia primária.
+
+Resposta comentada:
+Para determinar a classificação CEAP (Clínica, Etiologia, Anatomia e Patofisiologia) da paciente
+com base no caso clínico, é necessário analisar cada componente:
+1. Clínica (C): Refere-se ao estágio clínico da doença. Os estágios são classificados de acordo
+com os sinais e sintomas observados na avaliação física. As categorias são:
+• C0: Sem sinais visíveis ou palpáveis de doença venosa.
+• C1: Telangiectasias ou veias reticulares.
+• C2: Varizes.
+• C3: Edema.
+• C4: Alterações da pele associadas à doença venosa:
+• C4a: Alterações da pigmentação (dermatite ocre, hiperpigmentação).
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 1 de 14
+
+• C4b: Eczemas, lipodermatoesclerose, atrofia branca.
+• C5: Úlcera cicatrizada.
+• C6: Úlcera ativa.
+2. Etiologia (E): Refere-se à causa da doença venosa crônica. As categorias são:
+• E0: Etiologia desconhecida.
+• E1: Primária (sem causa conhecida, geralmente relacionada a fatores genéticos e ambientais).
+• E2: Secundária (resultante de condições ou eventos que afetam as veias, como trombose
+venosa profunda ou síndrome pós-trombótica).
+3. Anatomia (A): Descreve as veias afetadas pela doença. As categorias são:
+• A1: Veias superficiais.
+• A2: Veias perfurantes.
+• A3: Veias profundas.
+• A4: Múltiplas veias afetadas (superficiais, perfurantes e profundas).
+4. Patofisiologia (P): Indica os mecanismos patológicos subjacentes. As categorias são:
+• P1: Refluxo venoso.
+• P2: Obstrução venosa.
+• P3: Refluxo e obstrução venosa.
+Com base na classificação:
+1. Clínica (C):
+• A paciente apresenta edema crônico, varizes e dermatite ocre em membro inferior direito.
+• Com base nesses sinais clínicos, a classificação clínica seria C4a. Esta classificação inclui
+alterações cutâneas venosas, como dermatite ocre e edema, sem úlcera ativa.
+2. Etiologia (E):
+• A etiologia é classificada como secundária (Es) devido ao histórico de trombose venosa
+profunda (TVP) proximal no membro inferior direito.
+• A trombose venosa profunda é um fator etiológico secundário comum em doença venosa
+crônica.
+3. Anatomia (A):
+• A presença de varizes sugere que há envolvimento de veias superficiais (As), com possível
+comprometimento das veias perfurantes e profundas, dado o histórico de TVP e o edema crônico.
+• Se houver exames complementares, como ultrassonografia Doppler, esses podem confirmar o
+comprometimento anatômico específico.
+4. Fisiopatologia (P):
+• A paciente provavelmente apresenta refluxo venoso (Pr), dado o desenvolvimento de varizes e a
+progressão da dermatite ocre. Também é possível que haja uma obstrução venosa (Po), dada a
+história de TVP.
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 2 de 14
+
+Classificação CEAP solicitada da paciente é:
+• Clínica (C): C4a (Edema crônico, dermatite ocre, varizes)
+• Etiologia (E): Es (Secundária a TVP)
+• Anatomia (A): As (Veias superficiais, com possível envolvimento de veias perfurantes e
+profundas)
+• Patofisiologia (P): Pr, Po (Refluxo e Obstrução)
+Classificação final: CEAP C4a, Es, As, Pr, Po.
+Com base em evidências:
+A classificação CEAP é amplamente utilizada para categorizar a gravidade da doença venosa
+crônica, com base em critérios clínicos, etiológicos, anatômicos e patofisiológicos, conforme
+recomendado pelas diretrizes internacionais e pela Sociedade Internacional de Flebologia. A
+presença de edema crônico, dermatite ocre e varizes, associada a um histórico de TVP, são
+fatores que indicam uma doença venosa crônica avançada, com risco de progressão para
+úlceras venosas se não tratada adequadamente.
+Bibliografia em formato ABNT:
+• EKLÖF, Bo; RUTHERFORD, Robert B.; BERGAN, John J.; et al. Revision of the CEAP
+classification for chronic venous disorders: consensus statement. Journal of Vascular Surgery, St.
+Louis, v. 40, n. 6, p. 1248-1252, 2004.
+• PAPPAS, P.J.; LABROPULOS, N. The CEAP classification system: overview, limitations, and
+future directions. In: The Venous System in Health and Disease. CRC Press, 2022. p. 132-140.
+• SOCIEDADE BRASILEIRA DE ANGIOLOGIA E DE CIRURGIA VASCULAR. Diretrizes para o
+tratamento da Doença Venosa Crônica. Rio de Janeiro: SBACV, 2021.
+A classificação CEAP é importante na conduta do paciente com doença venosa crônica,
+identificando os sinais de doença mais avançada. Essa classificação engloba 4 itens, sendo eles
+a clínica, a etiologia, a anatomia (identificação da veia acometida) e a fisiopatologia. A
+classificação clínica é a mais utilizada, apresentando-se da seguinte forma:
+C0 – sem sinais de doença venosa crônica
+C1 – Teleangiectasias e/ ou veias reticulares
+C2 – Varizes sem edema
+C3 – Varizes com edema
+C4 – Dermatite ocre ou lipodermatoesclerose
+C5 – Úlcera venosa cicatrizada
+C6 – Úlcera venosa ativa
+A classificação etiológica é definida em primária, secundária (trombose, trauma ou fistula
+arteriovenosa:) ou idiopática.
+Referências:
+Cirurgia Vascular: Cirurgia Endovascular – Angiologia, 4ª edição, Editora Thieme Revinter, Rio de
+Janeiro, 2020;
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 3 de 14
+
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+( UNITPAC) Um paciente do sexo masculino, 60 anos, hipertenso e fumante, foi diagnosticado
+com um aneurisma da aorta abdominal de 3,5 cm de diâmetro durante um exame de imagem
+realizado como parte de um check-up de rotina. O paciente não apresenta sintomas relacionados
+ao aneurisma e, após o diagnóstico, está preocupado com a necessidade de tratamento imediato.
+1) Com base nas diretrizes mais atuais, descreva a conduta apropriada para o manejo deste
+paciente. (1,25 ponto)
+2) Inclua em sua resposta o critério para a necessidade de intervenção cirúrgica e a frequência
+recomendada para o acompanhamento deste tipo de aneurisma. (1,25 ponto)
+Alternativas:
+-Resposta comentada:
+1) Com base nas diretrizes mais atuais, descreva a conduta apropriada para o manejo deste
+paciente. (1,25 ponto)
+Acompanhamento com exames de imagem a cada 12 meses para monitorar o crescimento do
+aneurisma.
+É crucial controlar fatores de risco cardiovasculares, como hipertensão e tabagismo, que podem
+acelerar a expansão do aneurisma. Para o paciente descrito, que é hipertenso e fumante, deve-se
+intensificar o controle da pressão arterial com medicação adequada e aconselhar fortemente a
+cessação do tabagismo, pois ambos os fatores aumentam o risco de expansão e ruptura do
+aneurisma.
+2) Inclua em sua resposta o critério para a necessidade de intervenção cirúrgica. (1,25
+ponto)
+A intervenção cirúrgica é geralmente recomendada para aneurismas da aorta abdominal quando o
+diâmetro é igual ou superior a 5,5 cm em homens ou 5,0 cm em mulheres, ou quando o
+aneurisma está crescendo rapidamente (mais de 0,5 cm em 6 meses ou mais de 1 cm por ano),
+independentemente do diâmetro. A necessidade de intervenção também é indicada se o paciente
+apresentar aneurisma sacular ou sintomas atribuíveis ao aneurisma, como dor abdominal ou
+lombar persistente, que pode sugerir uma expansão iminente ou ruptura.
+Referências:
+SOCIEDADE BRASILEIRA DE CIRURGIA VASCULAR E ENDOVASCULAR (SBACV).
+Diretrizes Brasileiras para Tratamento de Aneurisma da Aorta Abdominal. Jornal Vascular
+Brasileiro, São Paulo, v. 16, n. 2, p. 130-139, 2017.
+JOHNSTON, K. W.; RUTHERFORD, R. B.; TILSON, M. D.; SHAH, D. M.; HOLLIER, L.;
+STANLEY, J. C. Suggested standards for reporting on arterial aneurysms. Journal of Vascular
+Surgery, Amsterdam, v. 13, n. 3, p. 452-458, 1991.
+HIRATZKA, L. F.; BAKRIS, G. L.; BECKMAN, J. A.; BERSIN, R. M.; CARR, V. F.; CASEY, D. E.;
+AMERICAN COLLEGE OF CARDIOLOGY FOUNDATION (ACCF); AMERICAN HEART
+ASSOCIATION (AHA). 2010 ACCF/AHA/AATS/ACR/ASA/SCA/SCAI/SIR/STS/SVM Guidelines
+for the Diagnosis and Management of Patients With Thoracic Aortic Disease. Circulation, Dallas,
+v. 121, n. 13, p. 266-369, 2010.
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 4 de 14
+
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+( UNIPTAN) Um paciente, de 65 anos, sexo masculino, procura o pronto-socorro com dor intensa
+e inchaço no pênis, iniciados há cerca de 6 horas após a manipulação do prepúcio durante a
+higiene íntima. Ele relata que, após retrair o prepúcio, não conseguiu reposicioná-lo sobre a
+glande, e desde então, o inchaço tem piorado progressivamente. Ao exame físico, observa-se um
+anel edemaciado de tecido prepucial apertado atrás da glande, que está ingurgitada.
+Diante do quadro clínico descrito, indique a conduta mais adequada para este paciente no prontosocorro.
+Alternativas:
+(alternativa A) (CORRETA)
+Compressão manual do edema e reposicionamento do prepúcio.
+(alternativa B)
+Prescrição de antibióticos e observação.
+(alternativa C)
+Realização imediata de postectomia.
+(alternativa D)
+Administração de anti-inflamatórios e alta com orientação para retorno.
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 5 de 14
+
+Resposta comentada:
+A resposta correta é Compressão manual do edema e reposicionamento do prepúcio. A
+parafimose é uma emergência urológica que ocorre quando o prepúcio retraído não pode ser
+recolocado sobre a glande, resultando em constrição do fluxo sanguíneo. A conduta inicial é tentar
+reduzir o edema através de compressão manual e reposicionar o prepúcio. Se essa manobra não
+for bem-sucedida, pode ser necessária uma intervenção cirúrgica.
+Por que as outras alternativas estão incorretas:
+Prescrição de antibióticos e observação: Embora infecções possam ocorrer, o
+tratamento antibiótico não resolve a parafimose e pode retardar a intervenção
+necessária, exacerbando o quadro.
+Realização imediata de postectomia: A postectomia pode ser indicada em alguns
+casos, especialmente se a redução manual falhar ou se o paciente tiver episódios
+recorrentes, mas não é a primeira abordagem no pronto-socorro.
+Administração de anti-inflamatórios e alta com orientação para retorno: Antiinflamatórios podem ajudar no controle da dor e inflamação, mas não resolvem o
+problema mecânico subjacente da parafimose. A alta sem redução do quadro seria
+inadequada e perigosa.
+Referência:
+WEIN, Alan J. et al. Campbell-Walsh urologia. Revisão científica e tradução de Wilson F. S.
+Busato Jr. et al. 11. ed. Rio de Janeiro: Elsevier, 2019.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+( UNITPAC) Um jovem de 14 anos chega ao pronto-socorro com dor intensa e súbita no testículo
+direito há cerca de 6 horas. Ele descreve a dor como localizada, sem melhora com repouso, e
+associada a náusea e vômito. Ao exame físico, observa-se o testículo direito elevado, em posição
+horizontal, com sensibilidade intensa à palpação e ausência do reflexo cremastérico no lado
+afetado. Qual é a conduta imediata mais adequada para este paciente?
+Alternativas:
+(alternativa A)
+Realizar ultrassonografia com Doppler escrotal para confirmar o diagnóstico.
+(alternativa B) (CORRETA)
+Encaminhar o paciente imediatamente para exploração cirúrgica.
+(alternativa C)
+Administrar analgésicos e observar a evolução clínica por 24 horas.
+(alternativa D)
+Solicitar exame de urina e iniciar tratamento com antibióticos.
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 6 de 14
+
+Resposta comentada:
+A torção testicular é uma emergência urológica que requer intervenção cirúrgica imediata para
+preservar a viabilidade do testículo. O quadro clínico clássico inclui dor súbita, testículo elevado,
+ausência de reflexo cremastérico e sintomas sistêmicos como náusea. A confirmação
+diagnóstica por imagem não deve atrasar o tratamento, sendo a exploração cirúrgica urgente a
+melhor conduta baseada nas evidências.
+BMJ Best Practice. Escroto agudo. 2024
+BRODERICK, G. A.; KANOF, P. A. Emergency diagnosis and management of testicular torsion.
+American Family Physician, [s.l.], v. 90, n. 12, p. 835-840, 2014.
+MELTZER, J. A.; GUERDERMAN, C. G. Testicular torsion: Diagnosis, evaluation, and
+management. Urology Clinics of North America, [s.l.], v. 47, n. 4, p. 623-631, 2020.
+WALZ, J. M.; KRITZINGER, K. J.; COST, N. G. Testicular torsion: A review of diagnosis and
+management in the emergency setting. Journal of Emergency Medicine, [s.l.], v. 59, n. 3, p. 409417, 2020.
+LIEBERMAN, S.; MELAMED, H. Acute scrotum in children: Overview and management. Pediatric
+Emergency Care, [s.l.], v. 36, n. 10, p. 1-5, 2020.
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+( UNITPAC) Um paciente diabético de 70 anos, com histórico de hipertensão e tabagismo,
+apresenta dor intensa na perna direita que piora ao caminhar e persiste mesmo em repouso. No
+exame físico, você nota que a perna afetada está fria, pálida e sem pulsos perceptíveis. O
+paciente também tem uma pequena ferida plantar direita que não cicatriza.
+1) Quais são os passos iniciais que você deve seguir para planejar o tratamento deste paciente?
+(1,25 ponto)
+2) Quais são as principais intervenções que você recomendaria para evitar a perda do membro e
+melhorar a circulação sanguínea? (1,25 ponto)
+Alternativas:
+-Resposta comentada:
+PADRÃO DE RESPOSTA ESPERADA:
+Quais são os passos iniciais que você deve seguir para planejar o tratamento deste
+paciente? (1,25 ponto)
+Avaliação clínica detalhada: A primeira etapa é realizar uma história clínica completa e um
+exame físico minucioso. Identifique a duração e progressão dos sintomas, o histórico médico
+completo, incluindo diabetes, hipertensão, tabagismo e possíveis comorbidades. Durante o
+exame físico, avalie sinais de isquemia crítica, como ausência de pulsos, palidez, frieza, e
+presença de úlceras que não cicatrizam.
+Confirmação do diagnóstico com o Índice Tornozelo-Braquial (ITB): O ITB é um exame não
+invasivo que compara a pressão arterial no tornozelo com a pressão no braço. O caso sugere um
+valor < 0,4 que indica isquemia crítica, um estágio avançado da Doença Arterial Periférica (DAP)
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 7 de 14
+
+e que se confirmado exige intervenção urgente para prevenir a perda do membro.
+Estratificação do risco: É crucial determinar o risco de perda do membro e mortalidade.
+Pacientes com ITB inferior a 0,4 e sintomas como dor em repouso e úlceras isquêmicas estão
+em alto risco e podem necessitar de intervenções cirúrgicas urgentes, como revascularização. A
+estratificação ajuda a decidir entre manejo cirúrgico imediato ou abordagem médica inicial
+intensiva.
+Quais são as principais intervenções que você recomendaria para evitar a perda do
+membro e melhorar a circulação sanguínea? (1,25 ponto)
+
+Terapia médica intensiva:
+Controle rigoroso da glicemia: A hiperglicemia piora a DAP e interfere na cicatrização
+de úlceras. Portanto, é essencial ajustar o tratamento antidiabético para manter a
+glicemia em níveis-alvo.
+Terapia antitrombótica: Medicamentos como aspirina ou clopidogrel são
+recomendados para reduzir o risco de eventos trombóticos e ajudar a manter a
+circulação sanguínea.
+Estatinas: O uso de estatinas é indicado para controlar os níveis de colesterol,
+estabilizar placas ateroscleróticas e reduzir o risco de eventos cardiovasculares.
+Medicação antihipertensiva: Controlar a pressão arterial é fundamental para prevenir
+complicações adicionais e melhorar a perfusão sanguínea.
+Intervenção cirúrgica:
+Revascularização: A revascularização é a intervenção de escolha em casos de
+isquemia crítica. Procedimentos como angioplastia, endarterectomia ou bypass
+cirúrgico podem ser necessários para restaurar o fluxo sanguíneo ao membro afetado e
+prevenir a amputação.
+Cuidados com a úlcera: A úlcera isquêmica deve ser tratada com cuidados locais
+adequados, incluindo desbridamento (remoção de tecido morto), uso de curativos
+especializados, e, se indicado, terapia com oxigênio hiperbárico para promover a
+cicatrização.
+Cessação do tabagismo: Como o tabagismo é um dos principais fatores de risco modificáveis
+para a DAP, é crucial que o paciente receba apoio para parar de fumar, o que pode reduzir a
+progressão da doença e melhorar a eficácia do tratamento.
+Com base em evidências:
+O controle rigoroso da glicemia e o uso de estatinas são recomendados pelas diretrizes
+internacionais para o manejo da DAP em pacientes diabéticos, com o objetivo de
+estabilizar a doença e prevenir complicações cardiovasculares adicionais.
+A revascularização é indicada em casos de isquemia crítica para evitar amputações,
+conforme estabelecido por estudos clínicos e diretrizes vasculares, que demonstram
+que intervenções cirúrgicas precoces podem melhorar a perfusão e salvar o membro.
+
+Referências:
+SOCIEDADE BRASILEIRA DE DIABETES. Diretrizes da Sociedade Brasileira de Diabetes 20222023. São Paulo: Clannad, 2022.
+HIRATA, Marcia Hitomi; CASTRO, Icaro. Abordagem clínica e terapêutica da doença arterial
+periférica. In: BIBLIOTECA DE DIRETRIZES MÉDICAS. Porto Alegre: Medbook, 2023. p. 58-73.
+NORRIS, T.G.; HACKETT, D. Current management strategies for critical limb ischemia. Journal
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 8 de 14
+
+of Vascular Surgery, St. Louis, v. 70, n. 1, p. 87-95, 2023.
+AMERICAN DIABETES ASSOCIATION. Standards of Medical Care in Diabetes—2024. Diabetes
+Care, Arlington, v. 47, Suplemento 1, p. S34-S45, 2024.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+( FESAR) Mulher, de 25 anos, procura a emergência médica de sua cidade com relato de cólica
+nefrética, náuseas e vômitos com início há 4 horas. Após a realização de um TC de abdome, foi
+possível constatar um cálculo de 5 mm na região distal do ureter direito e a 1,8 cm da junção
+ureterovesical, bem como a presença de uma hidronefrose leve. Os exames laboratoriais não
+detectaram sinais de infecção.
+Identifique dentre as alternativas abaixo, a conduta recomendada para o tratamento.
+Alternativas:
+(alternativa A)
+Implante de cateter de Duplo-J para resolução da hidronefrose.
+(alternativa B)
+Tratamento cirúrgico imediatamente em decorrência ao tamanho do cálculo.
+(alternativa C) (CORRETA)
+Administrar anti-inflamatório mais terapia expulsiva medicamentosa.
+(alternativa D)
+Iniciar analgesia, anti-inflamatório, e antibiótico pelo risco de sepse.
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 9 de 14
+
+Resposta comentada:
+O tratamento conservador, com o uso de analgésicos e anti-inflamatórios, é a primeira linha de
+tratamento para cálculos renais menores e em pacientes sem sinais de infecção ou
+complicações. Os anti-inflamatórios ajudam a reduzir a dor e a inflamação causada pela
+passagem do cálculo pelos ureteres. O uso de medicamentos que promovem a relaxação do
+ureter, como os alfa-bloqueadores, pode aumentar as chances de expulsão espontânea do
+cálculo. Esses medicamentos atuam relaxando a musculatura lisa do ureter, facilitando a
+passagem do cálculo. Tratamento cirúrgico imediato.
+A cirurgia é indicada em casos de falha do tratamento conservador, cálculos muito grandes,
+obstrução prolongada ou infecção urinária. A realização de um procedimento cirúrgico nesse
+momento seria precoce e poderia expor a paciente a riscos desnecessários. Antibioticoterapia.
+A antibioticoterapia é indicada em casos de infecção urinária. Como os exames de Maria não
+demonstraram infecção, o uso de antibióticos não é necessário nesse momento.
+A hidronefrose leve indica obstrução parcial não havendo necessidade de colocação de cateter
+de Duplo-J.
+Referência:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. Porto Alegre: Grupo A, 2024. E-book. ISBN 9786558040231.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+( UNITPAC) Um paciente diabético de 65 anos apresenta dor na panturrilha direita ao caminhar
+curtas distâncias, aliviada com repouso. Relata ainda sensação de frio e formigamento no pé
+direito, com piora progressiva nas últimas semanas. Ao exame físico, observa-se palidez no pé
+direito, diminuição dos pelos, pele fria e ausência de pulsos periféricos palpáveis. O índice
+tornozelo-braquial (ITB) medido foi de 0,4. Qual é a próxima conduta diagnóstica e terapêutica
+mais adequada?
+Alternativas:
+(alternativa A)
+Encaminhar para reabilitação física e prescrever anti-inflamatórios para alívio da dor.
+(alternativa B)
+Orientar o uso de meias compressivas para melhorar a circulação periférica.
+(alternativa C) (CORRETA)
+Solicitar angiografia para avaliação do fluxo arterial e considerar revascularização.
+(alternativa D)
+Iniciar tratamento com antibióticos para prevenir infecção e orientar repouso absoluto.
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 10 de 14
+
+Resposta comentada:
+De acordo com as diretrizes da SBACV, pacientes com isquemia crítica (ITB < 0,4) e sinais de
+comprometimento grave, como ausência de pulsos e dor em repouso, são candidatos a uma
+avaliação mais aprofundada para intervenção revascularizadora. A angiografia (ou
+angiotomografia, dependendo da disponibilidade) é o exame padrão para mapear a obstrução
+arterial e planejar a abordagem cirúrgica ou endovascular, visando restabelecer o fluxo arterial e,
+assim, evitar a perda do membro. Este é o manejo correto com base no quadro clínico e o ITB.
+Distratores:
+Essa abordagem seria adequada para pacientes com claudicação intermitente leve a moderada,
+onde o tratamento conservador, como a reabilitação física supervisionada (caminhada controlada)
+e controle da dor, pode ser eficaz. No entanto, o ITB de 0,4 indica isquemia crítica, que não se
+beneficia apenas de medidas conservadoras. Anti-inflamatórios não são recomendados para o
+manejo da dor nesse contexto, uma vez que o problema é vascular e a dor é de origem
+isquêmica. A intervenção cirúrgica ou endovascular é preferível nesse estágio avançado da
+doença.
+Embora pacientes com isquemia crítica possam estar em risco de infecção em casos de úlceras
+ou necrose, o paciente apresentado não tem sinais de infecção (ausência de febre, secreção
+purulenta ou úlceras abertas). Portanto, o uso preventivo de antibióticos não é indicado sem sinais
+clínicos de infecção. Além disso, o repouso absoluto pode piorar a perfusão, pois o exercício
+moderado pode ajudar a promover a circulação colateral. A prioridade deve ser revascularização,
+não o repouso prolongado.
+O uso de meias compressivas é contraindicado em pacientes com Doença Arterial Periférica
+(DAP) avançada, especialmente com ITB abaixo de 0,5. A compressão pode agravar a isquemia
+ao aumentar a resistência ao fluxo arterial em membros já comprometidos. Meias compressivas
+são indicadas para condições venosas, como insuficiência venosa crônica, e não para DAP em
+estágio avançado.
+• SOCIEDADE BRASILEIRA DE ANGIOLOGIA E DE CIRURGIA VASCULAR (SBACV).
+Diretrizes Clínicas para o Diagnóstico e Tratamento da Doença Arterial Obstrutiva Periférica.
+Revista Brasileira de Angiologia e Cirurgia Vascular, 2015.
+BMJ Best Practice. Doença arterial periférica. 2024
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+( AFYA CRUZEIRO DO SUL) Menino, de 6 anos, é levado a uma consulta pelos pais devido a
+um histórico de sono agitado, roncos intensos e frequentes despertares noturnos. Durante o dia, a
+criança apresenta sonolência excessiva, dificuldades de concentração na escola e irritabilidade.
+No exame físico, o médico identifica hipertrofia das adenoides e amígdalas, além de uma leve
+retração torácica durante a inspiração. Após a realização de uma polissonografia, foi
+diagnosticada apneia obstrutiva do sono moderada. Diante do quadro clínico e dos achados
+diagnósticos do menino, qual é a conduta terapêutica mais indicada para o manejo do caso?
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 11 de 14
+
+Alternativas:
+(alternativa A)
+Iniciar tratamento com corticosteroides intranasais e acompanhar a evolução clínica por 6 meses
+antes de considerar cirurgia.
+(alternativa B)
+Indicar o uso de pressão positiva contínua nas vias aéreas (CPAP) durante o sono como
+tratamento inicial de escolha.
+(alternativa C) (CORRETA)
+Indicar adenotonsilectomia como tratamento de primeira linha, visando a resolução da apneia
+obstrutiva do sono e das dissonias associadas.
+(alternativa D)
+Recomendar mudanças no estilo de vida, como perda de peso e melhora da higiene do sono,
+como terapia primária.
+
+Resposta comentada:
+Adenotonsilectomia é considerada a terapia de primeira linha para crianças com apneia obstrutiva
+do sono moderada a grave, especialmente quando associada a hipertrofia das amígdalas e
+adenoides. Este procedimento é eficaz na resolução da obstrução das vias aéreas superiores, o
+que melhora significativamente os sintomas respiratórios noturnos e as dissonias, além de
+prevenir complicações neurocognitivas e comportamentais decorrentes do sono inadequado. As
+outras alternativas, embora possam ser usadas em casos específicos ou como complementares,
+não substituem a necessidade de intervenção cirúrgica em um quadro como o apresentado.
+Referências:
+TOY, Eugene C. et al. Casos clínicos em medicina de família e comunidade. Tradução: Fabiana
+Buassaly Leistner. Revisão técnica: Carla Helena Augustin Schwanke, Winston Weber Benjamin.
+Porto Alegre: AMGH, 2015.
+BMJ Best Practice. Dissonias em Criança. Última atualização: 14 mar. 2023.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+( UNIREDENTOR) Paciente do sexo masculino, 25 anos, comparece a um ambulatório de
+cirurgia com queixas de aumento progressivo do volume escrotal, há cerca de 5 anos, sem
+outras queixas associadas. Nega comorbidade e nega fazer uso de medicamentos contínuos.
+Possui alergia a iodopovidine. Nega tabagismo e etilismo. No exame físico, encontramos aumento
+do volume escrotal, com massa flutuante e teste da transluminação positiva. Pensando na
+principal hipótese diagnóstica, qual das seguintes características é mais típica dessa patologia?
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 12 de 14
+
+Alternativas:
+(alternativa A)
+Sinais flogísticos locais.
+(alternativa B) (CORRETA)
+Aumento de volume no escroto que não reduz.
+(alternativa C)
+Dor intensa e constante na bolsa escrotal.
+(alternativa D)
+Presença de nódulo fixo e duro no testículo acometido.
+
+Resposta comentada:
+A hipótese diagnóstica é de hidrocele, uma patologia que se caracteriza pela presença de
+aumento da bolsa escrotal que não se reduz a noite, presença de massa flutuante (seria o
+testículo no meio líquido) e teste da transluminação local positiva.
+Referência:
+SMITH, Donald R.; TANAGHO, Emil A.; MCANINCH, Jack W. Smith Urologia geral. 13. ed. Rio
+de Janeiro: Guanabara Koogan, 1994. 559 p. ISBN 8527702738 (broch.).
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+( UNITPAC) Um homem de 65 anos, com histórico de infarto do miocárdio há dois anos, sem
+novos eventos cardíacos desde então, consulta seu médico por causa de disfunção erétil. O
+paciente não apresenta sintomas de angina e está estável do ponto de vista cardiovascular,
+tomando uma estatina e um inibidor da ECA. O médico considera prescrever um inibidor da 5fosfodiesterase. Qual dos seguintes fatores é mais importante para determinar se o paciente pode
+iniciar o tratamento com segurança?
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 13 de 14
+
+Alternativas:
+(alternativa A)
+Função hepática.
+(alternativa B)
+Função renal.
+(alternativa C) (CORRETA)
+Capacidade funcional cardiovascular.
+(alternativa D)
+Nível de testosterona.
+
+Resposta comentada:
+Para pacientes com histórico de doença cardiovascular, como infarto do miocárdio, a avaliação
+da capacidade funcional cardiovascular é crucial antes de iniciar o tratamento com inibidores da
+PDE5. O paciente deve ser capaz de realizar atividades físicas de intensidade moderada, como
+subir dois lances de escada, sem apresentar sintomas de angina ou outros sinais de insuficiência
+cardíaca. Esta avaliação ajuda a determinar se o coração do paciente pode suportar a atividade
+sexual, que aumenta a demanda cardíaca.
+
+Bibliografia:
+KIRBY, M. et al. Erectile dysfunction and cardiovascular disease: Public health implications.
+*European Heart Journal*, v. 34, n. 27, p. 2034-2046, 2013.
+Feedback:
+--
+
+000136.62001c.4f14ae.f8d920.d0f322.0dc51d.45be40.9d1bd
+
+Pgina 14 de 14
+
+

@@ -1,0 +1,389 @@
+HAM VI - 2023.2
+
+Esse PDF foi gerado com o intuito de fazer as provas em Tablets/iPads: todos os
+enunciados/alternativas estão em uma página, e o gabarito e resposta comentada
+em outra.
+PDF gerado em 19/10/2025, 06:40
+Confira a última versão em acervo.top/ham-vi ou acervotop.com/ham-vi
+
+PIX: doe@acervo.top
+ajuda eu! :)
+
+↓ ↓ ↓
+
+Questão 1
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Mulher de 57 anos é atendida na unidade de pronto atendimento com tontura e mal estar. Ao exame físico são
+identificados os seguintes achados: pele fria, viscosa e diaforética, FC 38 bpm, PA 70/40 mmHg e SpO2 90%.
+Realizado eletrocardiograma que é apresentado abaixo:
+
+Mediante o caso citado, são feitas as seguintes afirmativas:
+I. O ECG evidencia uma taquicardia atrial sendo necessária a cardioversão elétrica devido à instabilidade clínica
+da paciente.
+II. O achado do ECG é um bloqueio átrio ventricular 2º grau mobitz 2 sendo indicado marcapasso definitivo.
+III. A paciente deverá ser submetida à atropina 1mg IV, podendo ser repetida até 3mg, e caso não responda,
+deverá ser submetida à marcapasso transcutâneo em emergência.
+IV. É um caso de bradicardia instável com ECG evidenciando um BAV 2º grau mobitz 1.
+Marque a alternativa que indica a resposta correta.
+A) Apenas a afirmativa II está correta.
+B) Apenas as afirmativas III e IV estão corretas.
+C) Apenas as afirmativas II e III estão corretas.
+D) Apenas as afirmativas II, III, IV estão corretas.
+
+Resposta comentada:
+Alternativa Correta: B
+As afirmativas III e IV estão corretas.
+Trata-se de um quadro de bradicardia instável com o ECG evidenciando um bloqueio
+átrio ventricular 2º grau tipo 1, onde nós vemos um aumento gradativo do PR seguido
+de uma onda P sem QRS - onda P bloqueada, sendo de melhor prognóstico. Portanto
+devido à instabilidade clinica há indicação de tratamento com atropina 1mg IV até 3 mg
+no máximo, e se não obtiver resposta será submetido à marcapasso transcutâneo e ou
+transvenoso.
+Referência
+ACLS
+American Heart Association, Suporte Avançado de Vida Cardiovascular - Manual para
+profissionais de saúde. 2020.
+
+Questão 2
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Um estudante de medicina está jogando uma partida de futebol do campeonato da sua faculdade quando um
+dos colegas de 35 anos perde subitamente a consciência. O cenário é seguro para todos.
+a) Liste as etapas do atendimento a ser realizado seguindo o algoritmo do suporte básico de vida do
+ACLS 2020.
+
+Questão Dissertativa
+Resposta comentada:
+
+[Acervo do Rique - Aviso: As diretrizes de Suporte Avançado de Vida em Cardiologia
+(ACLS) fazem parte das recomendações de Ressuscitação Cardiopulmonar (CPR) e
+Cuidados Cardiovasculares de Emergência (ECC) da American Heart Association,
+atualizadas em ciclos quinquenais. A próxima revisão, que abrangerá todas as seções
+— incluindo ACLS, BLS e PALS — está programada para 22 de outubro de 2025
+(segundo https://cpr.heart.org/en/-/media/CPR2-Files/News-and-Events/Scienceand-Guidelines/2025-AHA-CPR-and-ECC-Guidelines-Email-Announcement.pdf?
+sc_lang=en). Durante o ciclo de 5 anos existem pequenas atualizações (como
+houveram em 2023). Verifique sempre a recomendação mais atual em
+https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines ou outros
+sites relacionados.]
+
+Após checar segurança da cena, devem ser seguidos os seguintes passos:
+- Verificar a responsividade da vítima.
+- Após identificar a não responsividade, buscar um DEA, se disponível, ou encarregar
+alguém de acionar o sistema medico de emergência e/ou buscar um DEA.
+- Verificar o pulso central carotídeo e a expansibilidade toracica da vítima por no minimo
+5 e no máximo 10 segundos.
+Na constatação de ausência de pulso, o socorrista deve iniciar as compressões
+torácicas de qualidade.
+- Realizar 30 compressões para 2 ventilações.
+- Realizar compressões com 5-6 cm profundidade, deixando retornar completamente o
+tórax.
+- Realizar 100-120 compressões por minuto.
+- Checar pulso e o ritmo (se possível) a cada 2 minutos.
+- Trocar de massagista a cada 2 minutos ou quando este estiver cansado.
+- Minimizar as interrupções.
+- Verificar se há ritmo chocável com um DEA assim que ele chegar.
+- Aplicar choques, conforme indicado.
+
+- Iniciar RCP imediatamente após cada choque, começando com as compressões.
+Referências
+GONZALEZ M.M., TIMERMAN S., GIANOTTO-OLIVEIRA R., POLASTRI T.F., CANESIN
+M.F., LAGE S.G., et al. Sociedade Brasileira de Cardiologia. I Diretriz de Ressuscitação
+Cardiopulmonar e Cuidados Cardiovasculares de Emergência da Sociedade Brasileira
+de Cardiologia. Arq. Bras. Cardiol. 2013, Volume 101, 2, Supl. 3, Agosto 2013. Disponível
+em: http://publicacoes.cardiol.br/consenso/2013/Diretriz_Emergencia.pdf.
+MORAES, Márcia Vilma Gonçalvez de. Atendimento pré-hospitalar: treinamento da
+brigada de emergência do suporte básico ao avançado. São Paulo: látria, 2010. 1
+recurso online. ISBN 9788576140849. Disponível em:
+<https://integrada.minhabiblioteca.com.br/books/9788576140849>. Acesso em: 19 set.
+2017.
+
+Questão 3
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Adulto, masculino, 53 anos, obeso, tabagista e hipertenso foi levado à Unidade de Pronto Atendimento com
+relato de dor torácica em opressão, com irradiação para o membro superior esquerdo, de início há 40 minutos.
+A equipe de enfermagem verificou os sinais vitais: PA 124/76 mmHg, FC 56 bpm, FR 22 irpm e SpO2 de 96%.
+Um ECG é obtido e mostrado abaixo.
+
+Considerando o exposto, responda:
+a) Cite o diagnóstico do paciente incluindo a área acometida. (valor 1 ponto)
+b) Descreva o plano terapêutico inicial. (valor 1,5 pontos)
+
+Questão Dissertativa
+Resposta comentada:
+
+a) O paciente em questão é portador de infarto agudo do miocárdio (IAM) em parede
+anterior extensa com provável comprometimento da artéria descendente anterior, ramo
+coronária esquerda.
+b) O tratamento inicial consiste em dupla antiagregação plaquetária ofertando para o
+paciente AAS 200 a 300 mg via oral de forma mastigável, clopidogrel 300 a 600 mg via
+oral e heparina endovenosa na primeira hora. A oferta de oxigênio não se faz
+necessario nesse momento pois o paciente possui saturação de 96% em ar ambiente. O
+paciente em questão tem indicação de Angioplastia primária por
+cineneangiocoronariografia em até 120 minutos com repercussão de melhor prognostico
+com indicação de tratamento de intervensão percutânea. A fibrinólise com alteplase
+pode ser considerada na indisponibilidade do serviço da Hemodinâmica.
+Referências
+GONZALEZ M.M., TIMERMAN S., GIANOTTO-OLIVEIRA R., POLASTRI T.F., CANESIN
+M.F., LAGE S.G., et al. Sociedade Brasileira de Cardiologia. I Diretriz de Ressuscitação
+Cardiopulmonar e Cuidados Cardiovasculares de Emergência da Sociedade Brasileira
+de Cardiologia. Arq. Bras. Cardiol. 2013, Volume 101, № 2, Supl. 3, Agosto 2013.
+Disponível em: http://publicacoes.cardiol.br/consenso/2013/Diretriz_Emergencia.pdf.
+MORAES, Márcia Vilma Gonçalvez de. Atendimento pré-hospitalar: treinamento da
+brigada de emergência do suporte básico ao avançado. São Paulo: látria, 2010. 1
+recurso online. ISBN 9788576140849. Disponível em:
+<https://integrada.minhabiblioteca.com.br/books/9788576140849>. Acesso em: 19 set.
+2017.
+
+Questão 4
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Homem, 35 anos, é trazido às pressas para a unidade de pronto atendimento após um acidente de trânsito. Ele
+estava em uma motocicleta quando colidiu violentamente com um veículo. No momento da chegada, ele está
+inconsciente, com ferimentos graves na cabeça, tórax e abdômen. A equipe médica rapidamente inicia a
+avaliação e os procedimentos de ressuscitação. Durante a avaliação inicial, a equipe identifica que o paciente
+apresenta dificuldade respiratória aguda e a saturação de oxigênio é baixa. No entanto, a situação piora
+rapidamente e o paciente desenvolve alterações graves no ritmo cardíaco monitorizado. O eletrocardiograma
+revela o ritmo a seguir:
+
+Assinale a alternativa que apresenta a sequência correta de procedimentos para o caso.
+A) Iniciar compressões torácicas de alta qualidade, administrar um choque de 200J, reavaliar o ritmo
+eletrocardiográfico, considerar e tratar as causas reversíveis e coordenar esforços para tentar
+restaurar a circulação sanguínea do paciente.
+B) Administrar um choque imediatamente, iniciar compressões torácicas de alta qualidade, administrar
+epinefrina, considerar e tratar as causas reversíveis e coordenar esforços para tentar restaurar a
+circulação sanguínea do paciente.
+C) Iniciar compressões torácicas de alta qualidade, administrar epinefrina, reavaliar o ritmo
+eletrocardiográfico, considerar e tratar as causas reversíveis e coordenar esforços para tentar
+restaurar a circulação sanguínea do paciente.
+D) Iniciar compressões torácicas de alta qualidade, administrar um choque de 360J, infundir amiodarona
+300 mg, considerar e tratar as causas reversíveis e coordenar esforços para tentar restaurar a
+circulação sanguínea do paciente.
+
+Resposta comentada:
+Alternativa Correta: C
+No atendimento a uma parada cardiorrespiratória (PCR), é crucial seguir um protocolo
+preciso e coordenado. Portanto, o procedimento inclui iniciar imediatamente
+compressões torácicas de alta qualidade para manter o fluxo sanguíneo mínimo,
+administrar epinefrina para estimular o coração e elevar a pressão arterial, reavaliar o
+ritmo a cada ciclo, identificar e tratar quaisquer causas reversíveis que possam
+contribuir para a PCR. No ritmo apresentado, atividade elétrica sem pulso, não se
+administra terapia elétrica e amiodarona.
+Referência
+GONZALEZ M.M., TIMERMAN S., GIANOTTO-OLIVEIRA R., POLASTRI T.F., CANESIN
+M.F., LAGE S.G., et al. Sociedade Brasileira de Cardiologia. I Diretriz de Ressuscitação
+Cardiopulmonar e Cuidados Cardiovasculares de Emergência da Sociedade Brasileira
+de Cardiologia. Arq. Bras. Cardiol. 2013, Volume 101, 2, Supl. 3, Agosto 2013. Disponível
+em: http://publicacoes.cardiol.br/consenso/2013/Diretriz_Emergencia.pdf.
+
+Questão 5
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Homem, 32 anos, estava disputando o campeonato de futebol da sua cidade quando evoluiu com perda súbita
+da consciência. Um estudante de medicina presenciou o ocorrido, e após checar a segurança do local verificou
+que o paciente estava irresponsivo, com pulso e respiração ausentes. Além disso, o estudante solicitou a um
+amigo que acionasse o SAMU e buscasse um DEA.
+Assinale a alternativa que corresponde ao próximo passo do atendimento ao paciente acima:
+A) Realizar compressões contínuas, sem ventilação. Realizar compressões de qualidade com 3 cm
+profundidade, com frequência de 80-100 compressões por minuto. Lembrar de trocar de massagista
+a cada 2 minutos ou quando este estiver cansado e minimizar as interrupções.
+B) Realizar 30 compressões para 1 ventilação. Realizar compressões de qualidade com 2-3 cm
+profundidade, com frequência de 80-100 compressões por minuto. Lembrar de trocar de massagista
+a cada 1 minuto ou quando este estiver cansado e minimizar as interrupções.
+C) Realizar 30 compressões para 2 ventilações. Realizar compressões de qualidade com 5-6 cm
+profundidade, com frequência de 100-120 compressões por minuto. Lembrar de trocar de massagista
+a cada 2 minutos ou quando este estiver cansado e minimizar as interrupções.
+D) Realizar compressões contínuas, sem ventilação. Realizar compressões de qualidade com 3 cm
+profundidade, com frequência de 80-100 compressões por minuto. Lembrar de não trocar de
+massagista para minimizar as interrupções.
+
+Resposta comentada:
+Alternativa Correta: C
+Segundo a American Heart Association deve-se realizar 30 compressões para 2
+ventilações. Realizar compressões de qualidade com 5-6 cm profundidade, com
+frequência de 100-120 compressões por minuto. Lembrar de trocar de massagista a
+cada 2 minutos ou quando este estiver cansado e minimizar as interrupções.
+Referência
+ACLS, 2020.
+
+Questão 6
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Homem, 64 anos, é levado à sala de emergência do Pronto Atendimento devido a infarto agudo do miocárdio.
+Pouco tempo após as medidas iniciais, evoluiu com perda da consciência, ausência de pulso e respiração. O
+time de resposta rápida já foi acionado e o desfibrilador solicitado. O monitor mostra o ritmo cardíaco
+demonstrado abaixo:
+
+Assinale a alternativa correspondente ao próximo passo no atendimento ao paciente.
+A) Administrar amiodarona 300 mg intravenoso em bolus, assim que acesso venoso disponível.
+B) Administrar epinefrina 1mg intravenoso em bolus, assim que acesso venoso disponível.
+C) Chamar por ajuda e realizar intubação orotraqueal assim que material disponível.
+D) Iniciar manobras de ressucitação e desfibrilação com carga máxima assim que disponível.
+
+Resposta comentada:
+Alternativa Correta: D
+O traçado de eletrocardiograma evidencia a presença de um ritmo chocável
+(taquicardia ventricular) em um paciente vítima de parada cardiorespiratória. Sempre
+iniciar as manobras de ressucitação cardiopulmonar imediatamente e priorizar a
+desfibrilação com carga máxima, sendo essa medida modificadora do prognóstico de
+pacientes em ritmos chocáveis, auxiliando o retorno à circulação espontânea.
+Referência
+AEHLERT, Barbara J. ACLS - Suporte Avançado de Vida em Cardiologia. [Digite o Local
+da Editora]: Grupo GEN, 2017. E-book. ISBN 9788595151376. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595151376/. Acesso em: 05 ago.
+2023.
+
+Questão 7
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Mulher, 57 anos, encontra-se internada na sala de emergência de uma unidade de pronto atendimento devido
+dor torácica. Apresentou parada cardiorrespiratória (PCR) e ao monitor foi visto ritmo de fibrilação ventricular.
+Foi submetida a desfibrilação e reanimação cardiopulmonar, com retorno a circulação espontânea após o 3º
+ciclo de reanimação.
+Sobre os cuidados imediatos pós-PCR são feitas as seguintes afirmativas:
+I. Garantir via aérea adequada, a fim de manter saturação de oxigênio maior ou igual a 94%.
+II. Iniciar controle direcionado de temperatura.
+III. Garantir uma saturação de oxigênio adequada, devendo-se hiperventilar a paciente, pois promove uma
+melhora dos parâmetros hemodinâmicos.
+IV. Assegurar que a pressão arterial sistólica esteja acima de 90 mmHg, utilizando para isso bolus de fluidos
+e/ou infusão de vasopressor.
+Marque a alternativa que indica a resposta correta:
+A) Apenas os itens I e II estão corretos.
+B) Apenas os itens I, II e III estão corretos.
+C) Apenas o item III está correto.
+D) Apenas os itens I, II e IV estão corretos.
+
+Resposta comentada:
+Alternativa Correta: D
+Os itens da questão trazem cuidados pós-PCR, com excessão do item III. A
+hiperventilação deve ser evitada em virtude da possibilidade de efeitos hemodinâmicos
+adversos. A hiperventilação aumenta a pressão intratorácica, o que reduz a pré-carga e
+diminui o débito cardíaco.
+Referência
+Suporte Avançado de Vida Cardiovascular. American Heart Association. 2020.
+
+Questão 8
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Homem 54 anos, hipertenso e diabético, chega ao pronto atendimento sudoreico, relatando dor precordial e
+palpitações iniciadas há 30 minutos. Ao exame físico encontra-se diaforético, PA 88x40 mmHg, crepitações
+pulmonares em bases bilateralmente e SpO2 88%. Consciente e orientado, sem déficits neurológicos.
+Puncionado acesso periférico, instalada a máscara de O2 e após a monitorização do paciente evidenciou-se o
+ritmo abaixo representado:
+
+Assinale a alternativa correspondente à conduta adequada.
+A) Realizar adenosina 6 mg EV em bolus e após, administrar 20 ml de água destilada.
+B) Realizar cardioversão elétrica sincronizada com 100J após leve sedação do paciente.
+C) Administrar amiodarona 150mg diluída em solução de glicose 5% e infundir EV em 10 minutos.
+D) Infundir metoprolol 5mg diluído em 10ml de água destilada EV em 10 minutos.
+
+Resposta comentada:
+Alternativa Correta: B
+Após análise do quadro clínico e do eletrocardiograma apresentado pode-se concluir
+que trata-se de um paciente com taquiardia instável (hipotensão e congestão
+pulmonar). Portanto, deve-se orientar o paciente, proceder com a sedação, sincronizar
+o cardioversor e realizar a cardioversão elétrica com 100J, pois trata-se de uma
+taquicardia ventricular instável.
+Referência
+ACLS, 2020.
+
+Questão 9
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Paciente, sexo feminino, 26 anos, é trazida ao pronto atendimento por familiar que a encontrou caída na
+garagem de casa. Existe a suspeita de autoextermínio, pois a garagem estava fechada e o carro estava ligado.
+Além disso, familiar informa que a paciente estava em tratamento para depressão. A avaliação primária da
+paciente evidenciou irresponsividade, ausência de pulso e de respiração. São iniciadas as manobras de
+ressuscitação cardiopulmonar (RCP) e a monitorização do ritmo cardíaco está representada abaixo.
+
+Assinale a alternativa que representa sequência correta de tratamento para esta paciente.
+A) Manter a ressuscitação cardiopulmonar com 100 a 120 compressões torácicas/minuto e 1 ventilação
+com bolsa-válvula-máscara a cada 30 compressões. Administrar dose de 300 mg de amiodarona EV,
+reavaliando o ritmo cardíaco a cada 2 minutos.
+B) Manter a ressuscitação cardiopulmonar com 100 a 120 compressões torácicas/minuto e 2 ventilações
+com bolsa-válvula-máscara a cada 30 compressões. Administrar dose de 1 mg de epinefrina EV,
+reavaliando o ritmo cardíaco a cada 2 minutos.
+C) Realizar a desfibrilação cardíaca (200 Joules bifásico) e prosseguir com a ressuscitação
+cardiopulmonar de alta qualidade. Administrar precocemente atropina 1 mg EV e reavaliar o ritmo a
+cada 2 minutos.
+D) Realizar a intubação traqueal enquanto a equipe realiza as compressões cardíacas contínuas (100 a
+120/minuto). Após intubação, realizar a desfibrilação cardíaca (200 Joules bifásico) e prosseguir com
+a ressuscitação cardiopulmonar de alta qualidade.
+
+Resposta comentada:
+Alternativa Correta: B
+Trata-se de um caso de PCR por assistolia, cujas causas prováveis para esta paciente
+são a intoxicação por monóxido de carbono e a hipóxia. O algoritmo de assistolia da
+American Heart Association (2020) é o mesmo para a AESP. Uma das prioridades no
+suporte avançado de vida deve ser a administração precoce de epinefrina, além das
+manobras de ressuscitação de alta qualidade. Não há indicação de desfibrilação
+cardíaca.
+Referência
+Suporte Avançado de Vida Cardiovascular. American Heart Association. 2020.
+
+Questão 10
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Mulher, 59 anos, diabética, hipertensa, dislipidêmica e ex-tabagista, adentra a sala vermelha com quadro de dor
+torácica de forte intensidade, em aperto, com irradiação para o braço esquerdo, epigástrio e mandíbula,
+acompanhada de enjôo e sudorese profusa, com inicio há 30 minutos. Sinais vitais: PA: 190x110 mmHg, FC
+90bpm, SpO2 94%, auscultas cardíaca e pulmonar sem anormalidades.
+Foi solicitado o ECG a seguir:
+
+Diante do exposto, o diagnostico provável e o tratamento mais indicado são:
+A) Infarto agudo do miocárdio. Trombólise com alteplase ou tenecteplase.
+B) Infarto agudo do miocárdio. Trombólise com AAS e Clopidogrel.
+C) Insuficiência cardíaca crônica. Trombólise com AAS e Clopidogrel.
+D) Insuficiência cardíaca crônica. Trombólise com alteplase ou tenecteplase.
+
+Resposta comentada:
+Alternativa Correta: A
+O paciente supracitado apresenta um quadro clinico e o ECG sugestivos de IAM com
+supra de ST. Após solicitação de enzimas cardíacas o paciente tem indicação de
+trombolise com tenecteplase ou alteplase, pois a mesma apresenta janela terapêutica
+para tal, fazendo com que diminua a mortalidade da paciente.
+Referência
+ACLS 2020.
+
+

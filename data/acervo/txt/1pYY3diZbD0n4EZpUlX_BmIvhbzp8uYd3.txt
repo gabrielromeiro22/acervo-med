@@ -1,0 +1,2031 @@
+NOTA FINAL
+
+CURSO DE MEDICINA - AFYA
+Aluno:
+Componente Curricular: Integradora 1º Período
+Professor (es):
+Período: 202302
+
+Turma:
+
+Data:
+
+INTEGRADORA_1 PERIODO_2023.2_PROVA 1
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 10075 - CADERNO 002
+1ª QUESTÃO
+Enunciado:
+Módulo(s): SOI + MEP
+Um atleta de fisiculturismo, 25 anos, buscando reduzir a quantidade de gordura corporal,
+encontrou uma dieta rica em gorduras e pobre em carboidratos. No entanto, está preocupado
+com seu desempenho atlético e a possibilidade de prejuízos à sua saúde, já que desconhece os
+efeitos negativos dessa dieta. Resolveu, portanto, fazer uma busca em plataforma de artigos
+científicos para verificar qual seria a mais adequada para seus objetivos sem apresentar efeitos
+indesejáveis.
+Qual é a estratégia de busca correta, usando operadores booleanos, para encontrar artigos que
+esclareceriam a dúvida desse atleta?
+Alternativas:
+(alternativa B) (CORRETA)
+(Dieta Hiperlipídica) AND (Dieta com Restrição de Carboidratos) AND (Efeitos colaterais) AND
+(Fisiculturismo).
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 1 de 64
+
+Resposta comentada:
+O atleta deseja encontrar artigos que apresentem os efeitos colaterais de dietas com alto teor
+de gorduras e baixo carboidrato para sua especialidade atlética, portanto o operador AND deve
+ser adicionado entre todos os descritores, já que se cogita restringir a pesquisa.
+O descritor AND gera uma combinação restritiva, OR, uma combinação aditiva e NOT, uma
+combinação excludente.
+REFERÊNCIA:
+MEDEIROS, João Bosco; TOMASI, Carolina. Redação de artigos científicos. São Paulo: Atlas,
+2016. EBook. (1 recurso online). ISBN 9788597001532. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597001532. Acesso em: 16 set. 2021.
+2ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+O sistema linfático representa uma via acessória por meio da qual o líquido pode fluir dos
+espaços intersticiais para o sangue. É importante destacar que, os vasos linfáticos podem
+transportar proteínas e grandes partículas para longe dos tecidos, pois essas substâncias não
+podem ser removidas por reabsorção direta nos capilares sanguíneos.
+Com base no conhecimento sobre a circulação linfática, analise as alternativas a seguir e
+marque a correta.
+Alternativas:
+(alternativa D) (CORRETA)
+O líquido intersticial, juntamente com suas partículas em suspensão, pode empurrar a válvula
+aberta e fluir diretamente para o capilar linfático.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 2 de 64
+
+Resposta comentada:
+Alternativa correta: "O líquido intersticial, juntamente com suas partículas em suspensão, pode
+empurrar a válvula aberta e fluir diretamente para o capilar linfático." Pois nas junções das
+células endoteliais adjacentes, a borda de uma célula endotelial se sobrepõe à borda da célula
+adjacente de tal forma que a borda sobreposta fica livre para se mover para dentro, formando,
+assim, uma válvula minúscula que se abre para o interior do capilar linfático. O líquido
+intersticial, juntamente com suas partículas em suspensão, pode empurrar a válvula aberta e
+fluir diretamente para o capilar linfático. No entanto, esse líquido tem dificuldade de sair do
+capilar depois de entrar, porque qualquer refluxo fecha a válvula de retenção. Assim, os vasos
+linfáticos possuem válvulas nas extremidades dos capilares linfáticos terminais, bem como
+válvulas ao longo de seus vasos maiores, até o ponto em que se esvaziam na circulação
+sanguínea.
+Alternativa incorreta: "A linfa do lado esquerdo do pescoço e da cabeça, braço direito e partes
+do tórax direito entra no ducto linfático direito (muito menor que o ducto torácico)." Pois a linfa
+do lado esquerdo da cabeça, braço esquerdo e partes da região torácica também entra no
+ducto torácico antes de escoar nas veias. A linfa do lado direito do pescoço e da cabeça, braço
+direito e partes do tórax direito entra no ducto linfático direito (muito menor que o ducto
+torácico), que escoa no sistema venoso sanguíneo na altura da junção da veia subclávia direita
+com a veia jugular interna.
+Alternativa incorreta: "A diminuição da pressão coloidosmótica do líquido intersticial desloca o
+equilíbrio de forças nas membranas dos capilares sanguíneos." Pois o aumento da pressão
+coloidosmótica do líquido intersticial desloca o equilíbrio de forças nas membranas dos capilares
+sanguíneos em favor da filtração do líquido para o interstício. Portanto, efetivamente, as
+proteínas provocam a translocação osmótica do líquido para fora da parede capilar em direção
+ao interstício, aumentando o volume e a pressão do líquido intersticial, o aumento da pressão
+do líquido intersticial eleva muito a intensidade do fluxo linfático, que leva embora o volume do
+líquido intersticial em excesso e o excesso de proteína que se acumulou nos espaços.
+Alternativa incorreta: "O capilar linfático terminal também é capaz de bombear linfa, além do
+bombeamento feito pelos vasos linfáticos menores." Pois o capilar linfático terminal também é
+capaz de bombear linfa, além do bombeamento feito pelos vasos linfáticos maiores. Como
+explicado anteriormente neste capítulo, os filamentos de ancoragem nas paredes dos capilares
+linfáticos aderem firmemente às células do tecido circundante. Portanto, cada vez que o
+excesso de líquido entra no tecido e faz com que ele inche, os filamentos de ancoragem puxam
+a parede do capilar linfático e o líquido flui para o capilar linfático terminal através das junções
+entre as células endoteliais. Então, quando o tecido é comprimido, a pressão aumenta no
+interior do capilar e faz com que as bordas sobrepostas das células endoteliais se fechem como
+válvulas. Por isso, a pressão empurra a linfa para a frente no linfático coletor, em vez de para
+trás, através das junções celulares.
+Referência:
+HALL, John E.; HALL, Michael E. Guyton & Hall - Tratado de Fisiologia Médica: Grupo GEN, 2021.
+E-book. ISBN 9788595158696. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158696/. Acesso em: 14 set. 2023.
+
+3ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 3 de 64
+
+Enunciado:
+Módulo(s): HAM
+F.G.A, 20 anos, foi hospitalizado no Hospital Municipal nas últimas 48 horas com febre de
+origem desconhecida. Seu prontuário indica as temperaturas (temperatura axilar) de 39,4ºC.
+36,6ºC. 37,9ºC. 38,6ºC e 36,6ºC, registradas a cada 4 horas. Como você descreveria esse
+padrão de medições de temperatura?
+
+Alternativas:
+(alternativa A) (CORRETA)
+febre intermitente
+
+Resposta comentada:
+Febre intermitente: períodos de febre e períodos sem febre. Pode ocorrer diariamente esse
+padrão ou em dias. Comum em malária, mas também nas infecções urinárias, linfomas e nas
+septicemias.
+REFERÊNCIAS
+PORTO & PORTO. Semiologia Médica. 8. Ed. Rio de Janeiro: Guanabara Koogan, 2019.
+4ª QUESTÃO
+Enunciado:
+Módulo(s): HAM
+Um cordial senhor, que se encontra em uma UBS para a realização de um check up, devido os
+seus 70 anos, permite que o médico demonstre ao interno de medicina como proceder a
+percussão do abdome na topografia hepática.
+Sobre esta técnica semiológica, e partindo do princípio que não haja patologia detectada,
+assinale a alternativa correta.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 4 de 64
+
+Alternativas:
+(alternativa B) (CORRETA)
+É esperado que haja macicez à percussão a partir do 5º espaço intercostal à direita.
+
+Resposta comentada:
+Espera-se que haja início de macicez à percussão do fígado a partir do 5 espaço intercostal à
+direita, uma vez que se realizada no 3 espaço intercostal esquerda irá se obter um som claro
+pulmonar.
+Referências
+BICKLEY, L.S. BATES – Propedêutica Médica. 13ª ed. Guanabara Koogan, 2022.
+PORTO, C.C. Semiologia Médica. 8ª ed. Rio de Janeiro. Guanabara, 2019.
+5ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+Durante uma aula prática de embriologia, um estudante analisa com seu grupo uma imagem
+histológica de um parênquima pulmonar fetal, onde são observadas células pulmonares cúbicas
+nos terminais bronquiolares. O professor, atento às discussões do grupo, menciona que nesta
+fase de maturação pulmonar, já existe a produção de surfactante, porém, as trocas gasosas
+ainda são difíceis, já que as células pulmonares achatadas ainda não estão completamente
+formadas.
+Marque a alternativa que apresenta uma relação correta com os temas de maturação
+pulmonar discutidos durante a aula de embriologia.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 5 de 64
+
+Alternativas:
+(alternativa A) (CORRETA)
+Os pneumócitos do tipo I são células cúbicas que surgem primeiro durante a fase canalicular da
+maturação pulmonar, e já iniciam a produção de surfactante além de originar os pneumócitos
+do tipo I.
+
+Resposta comentada:
+Durante a fase canalicular da maturação pulmonar, o epitélio dos bronquíolos ainda é
+predominantemente cúbico, já com presença de pneumócitos do tipo I. Essas células serão
+responsáveis por iniciar a produção de surfactante entre a 20ª e 22ª semana após a
+fecundação, além de se diferenciarem nos pneumócitos do tipo I. Após a 26ª semana, inicia a
+fase de saco terminal, que já exibe um epitélio mais achatado, com os pneumócitos do tipo I
+ocupando a maior superfície alveolar. Portanto, os pneumócitos do tipo I surgem primeiro que
+os pneumócitos do tipo I, durante a maturação pulmonar.
+Referências:
+SADLER, T W. Langman Embriologia Médica. Grupo GEN, 2021. E-book. ISBN 9788527737289.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788527737289/.
+MOORE, Keith L.; PERSAUD, T.V.N; TORCHIA, Mark G. Embriologia Básica. Grupo GEN, 2022. Ebook. ISBN 9788595159020. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159020/.
+6ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+O sistema de condução elétrica do coração é uma rede de células musculares cardíacas
+especializadas que iniciam e transmitem os impulsos elétricos responsáveis pelas contrações
+coordenadas em cada ciclo cardíaco. A excitação cardíaca inicia no Nó Sinoatrial (SA), conhecido
+como marca-passo cardíaco. As células despolarizam até atingir um limiar e emitem um
+potencial de ação. Cada potencial de ação do nó SA se propaga ao longo de ambos os átrios via
+junções comunicantes nos discos intercalares das fibras musculares atriais.
+De acordo com os eventos relacionados ao sistema de condução elétrica cardíaca, assinale a
+alternativa correta.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 6 de 64
+
+Alternativas:
+(alternativa B) (CORRETA)
+O local onde os potenciais de ação podem ser conduzidos dos átrios para os ventrículos é no
+feixe de His, posteriormente o potencial de ação entra nos ramos direito e esquerdo se
+estendendo ao longo do septo intraventricular em direção ao ápice do coração.
+
+Resposta comentada:
+O potencial de ação inicia no nó sinoatrial onde será conduzido ao longo das fibras musculares
+atriais, alcançando o nó atrioventricular irá desacelerar fornecendo tempo para os átrios
+drenarem seu sangue para os ventrículos. A partir do nó AV, o potencial de ação entra no feixe
+de His, esse é o único local onde os potenciais de ação podem ser conduzidos dos átrios para
+os ventrículos.
+Referência:
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de anatomia e fisiologia. 14, Ed. Rio de
+Janeiro: Guanabara Koogan, 2019.
+7ª QUESTÃO
+Enunciado:
+Módulo(s): HAM
+M.S.P feminina 16 anos de idade, achega unidade básica de saúde para consulta de rotina.
+Paciente acompanhada da mãe queixa de odinofagia e febre há 2 dia. Nega uso de
+medicamentos para os sintomas referidos. No exame físico realizo a palpação dos linfonodos
+em região cervical e mandibular que se encontram palpáveis. Após essa técnica devemos
+avaliar características semiológicas dos linfonodos.
+Assinale a alternativa que indica corretamente essas características.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 7 de 64
+
+Alternativas:
+(alternativa A) (CORRETA)
+Tamanho, consistência, sensibilidade, mobilidade, coalescência, localização e alteração da pele.
+
+Resposta comentada:
+Linfonos devemos Classificar:
+1. Localização: utilizando termos anatômicos próximos
+2. Tamanho: se possível estimar em cm
+3. Bordas: se nítidas, se irregulares
+4. Consistência: endurecido, fibroelástico, mole
+5. Mobilidade: verificar deslizamento, se móvel, aderido
+6. Sensibilidade: se doloroso ou não.
+7. Cor e lesões na pele local
+Referência:
+Porto& Porto, Exame clínico8ª. Edição. Guanabara Koogan Rio de Janeiro 2011.
+Sobotta. Atlas de Anatomia Humana. 21ª Edição, 2000.
+8ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+Inflamação é o termo utilizado para referir-se à série de eventos que acompanham uma
+resposta imune e apresentam diversas características, incluindo edema local, eritema (devido à
+dilatação capilar), dor e calor. Essas características constituem a consequência coletiva da
+liberação de citocinas, quimiocinas e aminas vasoativas por células inatas em resposta ao
+encontro inicial com um patógeno. Se um agente inflamatório persistir, em virtude de sua
+resistência à degradação metabólica ou devido à incapacidade do sistema imune deficiente de
+eliminar o micróbio infeccioso, observa-se uma mudança no caráter da resposta inflamatória
+celular.
+Analisando as alternativas a seguir e marque aquela que apresenta corretamente a associação
+entre o tipo de resposta inflamatória com os eventos imunológicos descritos.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 8 de 64
+
+Alternativas:
+(alternativa D) (CORRETA)
+A inflamação aguda apresenta início rápido, com macrófagos secretando Fator de Necrose
+Tumoral-α, Interleucina-1 e quimiocinas, para migração e ativação de neutrófilos no tecido
+infectado, sendo essa, a célula predominante no início da resposta.
+
+Resposta comentada:
+A resposta inflamatória aguda tem início rápido, com células inatas teciduais como o
+macrófago, secretando principalmente o Fator de Necrose Tumoral-α, a Interleucina-1, além de
+quimiocinas. Essa ação, juntamente com outros mediadores vasoativos, promove vasodilatação
+e aumento da permeabilidade capilar, favorecendo a migração dos neutrófilos do sangue para o
+tecido infectado. Os neutrófilos serão as células predominantes na inflamação aguda, sendo
+gradativamente substituídos por macrófagos originados pela migração de monócitos.
+A resposta inflamatória crônica tem início lento, quando a infecção não é eliminada ou a lesão
+tecidual é prolongada. Em geral, envolve o recrutamento e ativação de monócitos e linfócitos
+Th1, gerando uma resposta imune adaptativa do tipo celular. Os sítios de inflamação crônica
+frequentemente também sofrem remodelamento tecidual, com angiogênese e fibrose. Além
+disso, as principais citocinas da resposta crônica são as interleucinas 12, 27 e o Interferon-γ,
+responsável pela ativação de macrófagos.
+Referência:
+ABBAS, Abul K. Imunologia Celular e Molecular. Disponível em: Minha Biblioteca, (9th edição).
+Grupo GEN, 2019.
+9ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 9 de 64
+
+Enunciado:
+Módulo(s): SOI
+Diariamente no processo de digestão o fígado, o pâncreas e o intestino produzem mais de
+3 litros de secreções, cujos conteúdos são necessários para completar a digestão dos
+nutrientes ingeridos. O fígado e o pâncreas são órgãos anexos ao sistema digestório, pois não
+entram em contato com o alimento e produzem ou armazenam secreções que passam para o
+trato gastrintestinal - auxiliando na decomposição química do alimento.
+Considerando esse contexto, avalie as seguintes asserções e a relação proposta entre elas.
+I. O pâncreas é um órgão que contém ambos os tipos de epitélio secretor: o endócrino com
+agrupamentos de células, as ilhotas de Langerhans e o exócrino com lóbulos, os ácinos, sendo,
+por isso, considerado uma glândula mista ou anficrina.
+PORQUE
+I. As ilhotas de Langerhans produzem os hormônios insulina e glucagon e os secretam na
+corrente sanguínea; enquanto, os ductos dos ácinos esvaziam no duodeno as enzimas
+digestórias secretadas pelos ácinos e a solução de bicarbonato de sódio (NaHCO3) produzida
+pelas células do ducto.
+A respeito dessas asserções, assinale a opção correta.
+Alternativas:
+(alternativa C) (CORRETA)
+As asserções I e I são proposições verdadeiras, e a I é uma justificativa da I.
+
+Resposta comentada:
+O pâncreas é um órgão que contém ambos os tipos de epitélio secretor: endócrino e exócrino.
+A secreção endócrina é proveniente de agrupamentos de células, chamadas de ilhotas, e inclui
+os hormônios insulina e glucagon. As secreções exócrinas incluem enzimas digestórias e uma
+solução aquosa de bicarbonato de sódio, NaHCO3.
+A porção exócrina do pâncreas consiste em lóbulos, chamados de ácinos, similares àqueles das
+glândulas salivares. Os ductos dos ácinos esvaziam no duodeno. As células acinares secretam
+enzimas digestórias, e as células do ducto secretam solução de NaHCO3.
+Referências:
+SILVERTHORN, D. Fisiologia humana: uma abordagem integrada. 7 a ed. Porto Alegre: Artmed,
+2017.
+GUYTON, A. C. Tratado de fisiologia médica. 12 ed. Rio de Janeiro: Elsevier, 2011.
+10ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 10 de 64
+
+Enunciado:
+Módulo(s): IESC + MEP
+Um grupo de estudantes do curso de medicina, a partir de dados observados no processo de
+territorialização do entorno de uma UBS, resolveram realizar uma pesquisa de iniciação
+científica com o tema hipertensão. A ideia é realizar um estudo apresentando um caso raro que
+foi atendido no serviço de saúde local. Eles irão apresentar o processo do diagnóstico, o
+tratamento, as ocorrências incomuns observadas e o prognóstico do paciente. Trata-se de um
+estudo do tipo
+Alternativas:
+(alternativa D) (CORRETA)
+relato de caso.
+
+Resposta comentada:
+“RELATOS DE CASOS” destinam-se à descrição de casos de pacientes, doenças ou situações
+interessantes que apresentem algum aspecto original, incluindo descrição de casos raros.
+Referência:
+FLICK, Uwe. Introdução à pesquisa qualitativa. 3. ed. Porto Alegre: ArtMed, 2008. EBook. (1
+recurso online). ISBN 9788536318523. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788536318523. Acesso em: 16 set. 2021.
+11ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 11 de 64
+
+Enunciado:
+Módulo(s): HAM + MEP
+Silviana, 65 anos, comparece para consulta na Unidade Básica de Saúde de seu bairro devido a
+um quadro de hipertensão arterial. Após entrar no consultório, o médico preceptor e o
+acadêmico de medicina vão até a recepção para buscar o prontuário da paciente. Ao retornar
+ao consultório e iniciar a consulta, o acadêmico observa que o prontuário continha os seguintes
+componentes: identificação, queixa principal, antecedentes familiares e história social.
+O acadêmico se interessa pelo caso, decidindo fazer um projeto de pesquisa envolvendo
+hipertensão e fatores de risco, pois o prontuário da paciente trazia informações relativas ao uso
+de cocaína. Ao informar Silviana que utilizaria as informações do seu prontuário, sem expor o
+seu nome, esta informa que preferia não participar, mas que aceita, se não tiver opção.
+Dando sequência ao projeto, o acadêmico registra imagens das páginas do prontuário da
+paciente. Ao finalizar a consulta, comenta com alguns colegas, a situação dela, mostrando as
+imagens e também seu novo projeto de pesquisa.
+Considerando a situação apresentada, analise as afirmativas a seguir:
+I. A anamnese apresentada no prontuário da paciente está incompleta.
+I. A consulta médica, de forma geral, respeitou os princípios semiológicos e éticos da medicina.
+I. O projeto de pesquisa poderia ser iniciado, pois teve o consentimento da paciente.
+IV. O acadêmico poderia expor a foto do prontuário, pois tinha o intuito de discussão clínica e
+aprendizado.
+É correto o que se afirma em
+Alternativas:
+(alternativa D) (CORRETA)
+I, apenas.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 12 de 64
+
+Resposta comentada:
+Está correto apenas o que se afirma na asserção I:
+Um prontuário médico deve conter: identificação, anamnese e do exame físico. Na anamnese
+deve apresentar os componentes: Identificação, Queixa principal, História da doença atual,
+Interrogatório sintomatológico, Antecedentes pessoais e familiares, Hábitos de vida, Condições
+socioeconômicas e culturais, logo, o prontuário de Silviana estava incompleto.
+A consulta médica e a relação MÉDICO PACIENTE devem estar envolvidas com os princípios da
+bioética: autonomia (ao paciente deve ser dado o poder de tomar as decisões); beneficência
+(maximizar o benefício e minimizar o prejuízo); não maleficência (não fazer o mal); sigilo; justiça
+(condição fundamental a equidade). O acadêmico não apresentou informações suficientes sobre
+o projeto para a paciente e não deixou claro que ela tinha autonomia para decidir se gostaria ou
+não de participar. Silviana deixa claro que só participaria se não houvesse outra opção,
+mostrando desconforto com a situação e, mesmo assim, o acadêmico fotografa seu prontuário
+e, pior, compartilha com outras pessoas, numa violação clara do código de ética médica.
+O consentimento do paciente deve ser obtido após o médico/acadêmico esclarecê-lo,
+suficientemente, sobre o procedimento ou projeto do qual participará. O Termo de
+Consentimento Livre e Esclarecido tem que seguir o princípio do respeito à autonomia do
+voluntário que participe de uma pesquisa e não há menção à apresentação ou assinatura deste
+documento antes do início do projeto, o que seria obrigatório - já que se trata de uma pesquisa
+que envolverá a coleta de dados individualizados de prontuários.
+REFERÊNCIAS:
+MARTINS, A.D.Á.B. et al. Epidemiologia. Grupo A, 2018. 9788595023154. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595023154/.
+PORTO, Celmo C. Semiologia Médica, 8ª edição. Grupo GEN, 2019. ISBN 9788527734998.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527734998/epubcfi/6/2%5B%3Bvnd
+Código de Ética do Estudante de Medicina [Internet]. Portal CFM. Disponível
+em:https://portal.cfm.org.br/etica-medica/codigo-de-etica-do-estudante-de-medicina/
+
+12ª QUESTÃO
+Enunciado:
+Módulo(s): SOI + IESC
+Um estudo da Fiocruz mostra que, em 2021, o Brasil teve a pior taxa de internação por bebês
+de desnutrição dos últimos 14 anos. Foram oito crianças de até um ano levadas ao hospital
+diariamente por falta de comida. Em 2022, apenas os números de janeiro a agosto já mostram
+uma situação ainda pior, com 7% a mais de internações do que no ano passado. Por dia, são
+quase nove crianças levadas ao hospital por insegurança alimentar. A desnutrição infantil pode
+levar a transtornos de neurodesenvolvimento, pois o desenvolvimento cerebral é dependente do
+triptofano, que é necessário à síntese do neurotransmissor serotonina.
+Analise o trecho anterior e escolha a alternativa que traz determinantes relacionados ao
+aumento da taxa descrita e a classificação do nutriente triptofano.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 13 de 64
+
+Alternativas:
+(alternativa A) (CORRETA)
+Condições sociais e econômicas; aminoácido essencial.
+
+Resposta comentada:
+É possível estabelecer relações da doença, da desnutrição, com a estrutura social, ou com
+categorias analíticas procedentes do campo sociológico. Sem dúvida, os estudos que mais se
+aproximam das ciências sociais são os que se dedicam às práticas de saúde. Nesse sentido, o
+aumento da taxa de internação por bebês por desnutrição tem relação com dificuldades
+socioeconômicas que reduzem a frequência e a qualidade da alimentação. Soma-se a isto o
+crescente acesso a alimentos industrializados, mais baratos. A alimentação inadequada e
+insuficiente, em gestantes e crianças, tem forte relação com a taxa de internação aumentada.
+O triptofano é um aminoácido que só pode ser obtido pela dieta, portanto, essencial, e é
+necessário à síntese do neurotransmissor serotonina.
+REFERÊNCIAS:
+CAMPOS, G. W. S. et al. Tratado de saúde coletiva. 2. ed. rev. rum. São Paulo: Hucitec,
+2015.
+GUSSO, G; LOPES, J M C. Tratado de Medicina de Família e Comunidade – Princípios,
+Formação e Prática. 1. ed. [s.l.]: Artmed, 2012. 2 vol.
+TORTORA, G. J. Princípios de anatomia humana. 12 ed. Rio de Janeiro: Guanabara Koogan,
+2013.
+13ª QUESTÃO
+Enunciado:
+Paciente relata episódios diários de diarreia sanguinolenta (com sangue vivo e um pouco de
+muco) há 2 semanas (em média 3 episódios por dia), associados a dor abdominal em
+hipocôndrio esquerdo, em cólica, sem outros sinais localizatórios. Refere também ter notado
+episódios de febre, intermitentes, autolimitados, com frequência a cada 2 dias, sem
+mensuração de temperatura. Nega viagens para fora do estado e do país. O médico, ao
+percutir a região do espaço de Traube notou maciez no local.
+O achado semiológico durante o exame físico realizado neste paciente indica provável:
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 14 de 64
+
+Alternativas:
+(alternativa B) (CORRETA)
+esplenomegalia.
+
+Resposta comentada:
+A partir da percussão é possível identificar presença de ar livre, líquidos e massas intraabdominais. Além disso, é importante delimitar o espaço de Traube (onde fica o baço). A
+técnica é digito-digital, em que o examinador posiciona uma das mãos sobre o abdome e
+percute com o dedo indicador.
+Som normal: maciço (baço e fígado), timpânico (vísceras ocas);
+Percussão normal: macicez hepática no hipocôndrio direito; timpanismo no espaço de
+Traube, timpanismo nas demais regiões;
+Massas abdominais sólidas ou líquidas (ascite) apresentam som maciço;
+Timpanismo generalizado pode indicar obstrução.
+REFERÊNCIA:
+PORTO, C. C. Semiologia médica. 7ed. Rio de Janeiro: Guanabara Koogan, 2021.
+14ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 15 de 64
+
+Enunciado:
+Módulo(s): SOI
+O sistema respiratório possui como função principal permitir a entrada de oxigênio no nosso
+corpo e a saída de gás carbônico, esse sistema é composto por uma parte condutora e outra
+respiratória. Sobre esse sistema - analise suas estruturas na figura abaixo:
+
+Fonte: mundoeducacao
+Marque a alternativa que indica corretamente o nome das estruturas indicadas pelos números
+1, 2 e 3 na figura e seus respectivos epitélios.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 16 de 64
+
+Alternativas:
+(alternativa C) (CORRETA)
+1 - traqueia (pseudoestratificado ciliado colunar); 2 - brônquio (pseudoestratificado ciliado
+colunar); 3 - alvéolos (simples plano).
+
+Resposta comentada:
+As estruturas indicadas são anatomicamente a traqueia (1), brônquio (2) e alvéolos (3). Seus
+epitélios são, respectivamente, pseudoestratificado ciliado colunar para os dois primeiros e
+simples plano para o terceiro.
+REFERÊNCIAS:
+JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Histologia básica: texto e atlas. 13. ed. Rio de
+Janeiro: Guanabara Koogan, 2018.
+MOORE, Keith L.; DALLEY, Arthur F. Dalley; AGUR, Anne M. R. Anatomia Orientada para
+Clínica. 8. ed. Rio de Janeiro: Guanabara Koogan, 2019.
+SILVERTHORN, Dee Unglaub. Fisiologia humana: uma abordagem integrada. 7. ed. Porto
+Alegre: Artmed, 2017.
+TORTORA, Gerard J.; DERRICKSON, Bryan. Princípios de anatomia e fisiologia. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2019.
+15ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 17 de 64
+
+Enunciado:
+Módulo(s): SOI
+O estômago é um órgão que liga o esôfago ao duodeno, a primeira parte do intestino delgado e
+tem como função primordial triturar, misturar e controlar a passagem do alimento.
+Considerando o exposto e a relação com a função motora e secretora do estômago, avalie as
+afirmações a seguir.
+I. Ao chegar ao estômago, o bolo alimentar ativa os mecanorreceptores na parede
+gástrica que mantém o relaxamento por reflexo vagal denominado relaxamento
+adaptativo.
+I. As células parietais do estômago são responsáveis pela secreção de muco, produção
+do ácido clorídrico e do fator intrínseco que ajuda na absorção de vitamina B12.
+I. A pepsina é uma enzima proteolítica do estomago que faz quebra dos triglicerídeos em
+ácidos graxos, é secretada na forma inativa pelo pepsinogênio e na forma ativa pelos
+peptídeos.
+IV. A secreção gástrica também é regulada pela gastrina, que é um hormônio que pode
+ser estimulado pela distensão do estomago pelo quimo.
+
+É correto o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I e IV, apenas.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 18 de 64
+
+Resposta comentada:
+I – VERDADEIRO.
+I – FALSO: a célula responsável pela secreção de muco é a célula mucosa do colo.
+I – FALSO: a pepsina é uma enzima que ingere as proteínas no estomago, na forma inativada é
+secretada pelo pepsinogênio e na forma ativa cliva as proteínas em peptídeos. A lipase gástrica
+que é a enzima que faz quebra dos triglicerídeos em ácidos graxos e monoglicerídeos.
+IV – VERDADEIRO: a gastrina é um hormônio liberado pelas células secretoras de gastrina das
+glândulas gástricas em resposta a vários estímulos: distenção do estomago, proteínas
+parcialmente digeridas pelo quimo, PH elevado do quimo, cafeína e acetilcolina liberadas pelos
+neurônios parassimpáticos.
+REFERÊNCIAS:
+TORTORA, Gerard J. Principios de anatomia e fisiologia. 14 ed. Rio de Janeiro: Guanabara
+Koogan, 2019. Capitulo 24.
+GUYTON & HALL: tratado de fisiologia médica / John E. Hall, Michael E. Hall ; revisor. 14º ed.
+2021. Cap. 63
+https://www.igastroped.com.br/retardo-do-esvaziamento-gastrico/
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 19 de 64
+
+Fonte: Adaptado de CONSTANZO, 2018.
+Considerando a variação da pressão sanguínea nos diferentes vasos e a análise do gráfico
+acima, assinale a alternativa que indica corretamente o tipo de vaso sanguíneo que
+corresponde às regiões I, I, I, IV, V e VI do gráfico, respectivamente.
+Alternativas:
+
+(alternativa C) (CORRETA)
+Aorta, artérias, arteríolas, capilares, vênulas, veias.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 20 de 64
+
+Resposta comentada:
+A figura mostra o perfil das pressões na vasculatura sistêmica. A curva regular mostra a
+pressão média, que é maior na aorta e nas grandes artérias e diminui de maneira
+progressiva conforme o sangue flui das artérias para as arteríolas, capilares, veias e
+de volta ao coração. Esta diminuição da pressão, que ocorre quando o sangue flui pela
+vasculatura, é devido ao consumo de energia para superar as resistências friccionais.
+Referência:
+COSTANZO, Linda. Fisiologia. [Digite o Local da Editora]: Grupo GEN, 2018. E-book. ISBN
+9788595151642. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595151642/. Acesso em: 24 mar.
+2023.
+17ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+Durante a triagem de um recém-nascido prematuro, gerado por pais com mais de 40 anos de
+idade, o médico realizou a ausculta cardíaca, que indicou possível cardiopatia congênita. O
+profissional solicitou exames complementares para investigar a necessidade de algum
+procedimento nos primeiros 30 dias de vida. No entanto, tranquilizou os pais explicando que as
+alterações poderiam estar relacionadas ao processo de formação do sistema cardiovascular. Na
+fase fetal, esse sistema é estruturado para atender às demandas pré-natais, e somente após o
+nascimento ocorrem alterações estruturais para estabelecer o padrão circulatório e respiratório
+adequados.
+Analise o contexto, marque a alternativa que aborda de forma correta a circulação fetal.
+Alternativas:
+(alternativa C) (CORRETA)
+Durante a circulação fetal, o sangue rico em oxigênio adentra no átrio esquerdo do coração por
+meio de um desvio denominado forame oval.
+.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 21 de 64
+
+Resposta comentada:
+A alternativa correta é: “Durante a circulação fetal, o sangue rico em oxigênio adentra no átrio
+esquerdo do coração por meio de um desvio denominado forame oval.”
+As demais alternativas estão incorretas, pois durante a circulação fetal, o sangue POBRE em
+oxigênio adentra no átrio esquerdo do coração por meio das veias pulmonares, apenas na
+circulação neonatal que o sangue rico em oxigênio adentra por meio das veias pulmonares.
+Além disso, durante a circulação fetal, o sangue rico em oxigênio é desviado DA VEIA UMBILICAL
+para a veia cava inferior por meio de um desvio denominado ducto venoso e não arterioso. Esse
+ponto é importante de ser reforçado, pois, no cordão umbilical, o sangue que circula na veia é
+rico em oxigênio e o que circula nas artérias é pobre em oxigênio.
+Por fim, durante a circulação fetal, o sangue com médio teor de oxigênio é desviado para DA
+ARTÉRIA PULMONAR (tronco pulmonar) PARA A ARTÉRIA AORTA, por meio do ducto arterial ou
+arterioso. Vale ressaltar que, no período fetal, esse ducto faz esse desvio, pois os pulmões
+estão preenchidos por água e, portanto, não são funcionais em termos da realização da
+hematose pulmonar.
+REFERÊNCIA:
+MOORE, K. L. Embriologia clínica. 10. ed. Rio de Janeiro: Elsevier, 2016.
+
+18ª QUESTÃO
+Enunciado:
+Módulo(s): IESC
+Um usuário do SUS, 52 anos, participa de um evento promovido pela secretaria municipal de
+saúde do município onde reside, cujo objetivo era instruir as pessoas sobre a importância do
+controle social no âmbito da saúde pública. Na ocasião, o enfermeiro mencionou que
+foi(foram) constituído(as)(a)(o) para formular estratégias, fiscalizar e controlar a
+execução da política de saúde, conforme disposto na lei
+.
+Sobre as instâncias de controle social no SUS, assinale a alternativa que completa
+corretamente as lacunas no trecho anterior.
+Alternativas:
+(alternativa B) (CORRETA)
+Conselhos de Saúde e Lei 8.142/1990.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 22 de 64
+
+Resposta comentada:
+§ 2° O Conselho de Saúde, em caráter permanente e deliberativo, órgão colegiado composto
+por representantes do governo, prestadores de serviço, profissionais de saúde e usuários, atua
+na formulação de estratégias e no controle da execução da política de saúde na instância
+correspondente, inclusive nos aspectos econômicos e financeiros, cujas decisões serão
+homologadas pelo chefe do poder legalmente constituído em cada esfera do governo.
+Conforme disposto na Lei 8.142/1990.
+REFERÊNCIA:
+Lei 8.142/1990. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l8142.htm. Acesso
+em: 30 out. 2023.
+19ª QUESTÃO
+Enunciado:
+Módulo(s): MEP + HAM
+Um dos conteúdos mais básicos e iniciais para a formação médica é o Código de Ética
+Profissional, que passa a ser aplicado e exercitado pelos estudantes de Medicina desde o início
+de sua formação. Mediante o questionamento sobre o nível de conhecimento dos estudantes
+de medicina em relação à conduta ética do profissional médico, foi proposta uma pesquisa para
+levantamento de tal percepção, de modo que os resultados, após a análise estatística, possam
+subsidiar ações direcionadas que supram quaisquer deficiências sobre o assunto.
+Em relação à proposta de pesquisa descrita, assinale a alternativa que descreve a forma
+adequada de sua condução.
+Alternativas:
+(alternativa C) (CORRETA)
+Um estudo quantitativo, com a adoção de um questionário, de modo a possibilitar o
+posicionamento mediante escolha de uma opção de conduta por parte dos participantes em
+relação a cada item perguntado.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 23 de 64
+
+Resposta comentada:
+A pesquisa quantitativa, por meio de aplicação de questionário, seria a melhor conduta na
+proposta de pesquisa por possibilitar análise estatística e verificar de forma mais concreta os
+deficits de conhecimento e interpretação da conduta ética esperada do médico.
+O estudo etnográfico é um método qualitativo que envolve observação participante e interações
+sociais. Nesse caso, uma entrevista focalizada permitiria a exploração aprofundada das opiniões
+dos participantes e das razões por trás de suas respostas. No entanto, essa abordagem não é
+a mais apropriada para uma pesquisa que visa quantificar o nível de conhecimento de forma
+geral.
+A observação participante é mais comumente associada a abordagens qualitativas. Além disso,
+o uso de situações simuladas pode servir para avaliar o comportamento, mas não é o método
+mais apropriado para avaliar o nível de conhecimento em relação à conduta ética.
+O método de estudo histórico permite aos participantes relatar suas experiências passadas e
+as razões por trás de suas ações em situações éticas. No entanto, não é a melhor escolha para
+quantificar o nível de conhecimento de maneira abrangente.
+Portanto, a opção correta para conduzir uma pesquisa sobre o nível de conhecimento dos
+estudantes de Medicina em relação à conduta ética do profissional médico é a opção: “Um
+estudo quantitativo, com a adoção de um questionário de modo a possibilitar o posicionamento
+mediante escolha de uma opção de conduta por parte dos participantes em relação a cada
+item perguntado.”
+Esse método é apropriado para quantificar o conhecimento e pode ser complementado com
+análise estatística para identificar padrões e tendências.
+REFERÊNCIA:
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico. 9.
+ed. São Paulo: Atlas, 2021. EBook. (1 recurso online). ISBN 9788597026559. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597026559. Acesso em: 16 set. 2021.
+
+20ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 24 de 64
+
+Enunciado:
+Módulo(s): SOI + MEP
+Um pesquisador planeja investigar o impacto na comunicação social e na autoimagem de
+crianças em idade escolar com diferentes tipos de fenda labiopalatina. A pesquisa envolverá
+entrevistas com roteiro semiestruturado com as crianças e seus familiares para compreender
+como essas crianças lidam com desafios comunicativos, como percebem a interação com
+colegas e professores e como a malformação pode influenciar sua qualidade de vida.
+Com base na proposta de pesquisa apresentada e nos diferentes tipos de fenda labiopalatina,
+analise as afirmativas a seguir:
+I – Trata-se de uma pesquisa quantitativa, pois o estudo de doenças e agravos requer maior
+neutralidade e objetividade, o que só é possível com esse tipo de pesquisa.
+I – Trata-se de uma pesquisa qualitativa, pois os estudos de aspectos subjetivos, como os
+propostos, são possíveis de serem atingidos com o método apresentado.
+I – Fendas labiais podem ser uni ou bilaterais e resultam de uma falha na fusão de uma ou
+ambas as proeminências maxilares com as proeminências nasais mediais.
+IV – Fendas do palato posterior podem ocorrer em associação com fendas labiais e resultam de
+falha na fusão das prateleiras palatinas entre si e com o septo nasal.
+É correto apenas o que se afirma em
+Alternativas:
+(alternativa C) (CORRETA)
+I, I e IV.
+
+Resposta comentada:
+Apenas a assertiva I está incorreta, pois não se trata de uma pesquisa quantitativa, mas sim
+qualitativa.
+REFERÊNCIAS:
+MOORE, K.L.; PERSAUD, T.V.N. Embriologia Clínica. 11. ed. Rio de Janeiro: Guanabara
+Koogan, 2020.
+GIL, Antônio Carlos. Métodos e Técnicas de Pesquisa Social. 7. ed. [s.l.]: Grupo GEN, 2019.
+
+21ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 25 de 64
+
+Enunciado:
+Módulo(s): IESC
+Na comunidade de São Jorge, localizada em uma região tropical, houve um aumento
+significativo no número de casos de dengue nas últimas semanas. A Equipe de Saúde da Família
+(ESF) da área está trabalhando intensamente para enfrentar esse problema de saúde pública. A
+ESF de São Jorge decidiu adotar uma abordagem abrangente para combater a epidemia de
+dengue. Uma parte fundamental dessa estratégia foi a implementação de visitas domiciliares
+regulares, a fim de conscientizar os moradores sobre a importância da eliminação de criadouros
+do mosquito Aedes aegypti. Durante essas visitas, os profissionais de saúde explicam os
+sintomas da dengue, os perigos da doença e como preveni-la.
+Com base na situação de saúde dessa comunidade, assinale a alternativa que descreve a
+melhor abordagem para avaliar o diagnóstico de saúde dessa comunidade.
+
+Alternativas:
+(alternativa B) (CORRETA)
+Realizar uma análise epidemiológica dos casos de dengue, incluindo a identificação de áreas de
+maior incidência e fatores de risco.
+
+Resposta comentada:
+Realizar uma análise epidemiológica dos casos de dengue, incluindo a identificação de áreas de
+maior incidência e fatores de risco, é a resposta correta porque, diante de um aumento de
+casos de dengue, uma análise epidemiológica é fundamental para avaliar o diagnóstico de
+saúde da comunidade. Essa análise inclui a coleta de dados sobre os casos de dengue, sua
+distribuição geográfica, características dos pacientes afetados, áreas de maior incidência e
+possíveis fatores de risco. Isso permite que os profissionais de saúde identifiquem onde a
+epidemia está concentrada e quais medidas de prevenção são mais necessárias. As outras
+opções não abordam diretamente a avaliação do diagnóstico de saúde da comunidade ou não
+fornecem informações específicas sobre a situação da dengue na região. A pesquisa de opinião
+pode servir para entender as percepções da comunidade, mas não fornece dados
+epidemiológicos. A coleta de dados demográficos é importante, mas não é suficiente para
+avaliar a situação da dengue. A campanha de vacinação em massa pode ser uma medida
+preventiva, mas não é uma avaliação do diagnóstico de saúde atual da comunidade.
+REFERÊNCIA:
+BASTOS G.A.N. et al. Abordagem comunitária: inserção comunitária. In: GUSSO, Gustavo;
+LOPES, José Mauro Ceratti (Org.). Tratado de medicina de família e comunidade: princípios,
+formação e prática. 2. ed. Porto Alegre: Artmed, 2019. Cap. 41.
+22ª QUESTÃO
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 26 de 64
+
+Enunciado:
+Módulo(s): SOI
+O aporte de gás oxigênio (O2) necessário ao metabolismo celular, bem como a eliminação do
+excesso de gás carbônico (CO2) que pode interferir com a homeostasia do corpo, são as
+principais funções desempenhadas pelo sistema respiratório. Para tanto, diversas estruturas
+anatômicas estão organizadas funcionalmente em uma porção condutora, que leva os gases
+para dentro e para fora dos pulmões, e uma porção respiratória, onde as trocas gasosas entre
+pulmão e circulação acontecem.
+A respeito dos componentes de cada porção funcional do sistema respiratório, é correto afirmar
+que:
+Alternativas:
+(alternativa B) (CORRETA)
+os alvéolos, componentes da porção respiratória, são estruturas saculares revestidas por
+epitélio com células pavimentosas e células cuboides.
+
+Resposta comentada:
+- Os brônquios e bronquíolos terminais, componentes da porção condutora, formam uma série
+de tubos revestidos por epitélio pseudoestratificado colunar ciliado em sua parte de maior
+diâmetro e por epitélio simples colunar ciliado em sua parte de menor diâmetro.
+- De fato, o epitélio de revestimento, dos alvéolos, contém células pavimentosas, chamadas
+células alveolares tipo I, e células de formato cuboide, chamadas de células alveolares tipo I.
+- O duplo folheto seroso que recobre os pulmões, pleura visceral e parietal, é um mesotélio,
+sendo portanto um epitélio simples pavimentoso. Além disso, os pulmões contêm componentes
+da porção condutora (bronquíolos terminais, por exemplo) e da porção respiratória (por
+exemplo, alvéolos).
+- O músculo que recobre a árvore brônquica é do tipo liso.
+REFERÊNCIAS:
+Junqueira, L. C. U.; Carneiro, J. Histologia Básica - Texto e Atlas. 13. ed. Rio de Janeiro:
+Guanabara Koogan, 2018. (cap. 17).
+Pawlina, W. Ross histologia texto e atlas - correlações com biologia celular e molecular.
+8. ed. Rio de Janeiro: Guanabara Koogan, 2021. (cap. 19).
+Tortora, G. J.; Derrickson, B. Princípios de anatomia e fisiologia. 14. ed. Rio de Janeiro:
+Guanabara Koogan, 2019. (cap. 23).
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 27 de 64
+
+23ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+F.V.R. estava viajando com a família e acordou na madrugada com falta de ar. Imediatamente
+procurou atendimento médico onde foi identificado que o mesmo estava apresentando um
+quadro de hiperventilação induzida por uma crise de asma.
+A asma é uma doença respiratória crônica complexa, heterogênea, que varia ao longo do
+tempo, geralmente caracterizada por inflamação crônica das vias aéreas inferiores, levando a
+aumento da responsividade dessas vias a diferentes estímulos, tendo como sinais e sintomas
+mais comuns, dispneia, sibilos, tosse, sensação de aperto retroesternal que estão associados a
+limitação ao fluxo aéreo induzida por constrição que aumenta a resistências destas vias ao
+fluxo aéreo.
+Considerando que o quadro de dispneia seguido de hiperventilação foi induzido pela redução do
+fluxo aéreo brônquico e consequente hiperinsuflação pulmonar com alterações na relação
+ventilação-perfusão, assinale a alternativa que apresenta corretamente o principal mecanismo
+que estimula o centro respiratório a partir dos quimiorreceptores centrais.
+Alternativas:
+(alternativa B) (CORRETA)
+Aumento da PCO2 sanguínea que leva a aumento do H+ livre no quarto ventrículo que ativa os
+quimiorreceptores.
+
+Resposta comentada:
+Conforme as referências, o aumento da PCO2 sanguínea leva ao aumento do H+ livre no quarto
+ventrículo, pois o CO2 é bastante solúvel e atravessa o endotélio, no quarto ventrículo reage
+com H2O formando bicarbonato e H+ que irá ativar os quimiorreceptores.
+Tortora, Gerard, J. e Bryan Derrickson. Princípios de Anatomia e Fisiologia. Disponível em: Minha
+Biblioteca, (14th edição). Grupo GEN, 2016.
+24ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 28 de 64
+
+Enunciado:
+Módulo(s): SOI
+Duas alunas vagaram por um bosque até um pequeno campo para procurar flores silvestres.
+Quando estavam colhendo flores, as duas foram picadas diversas vezes por abelhas.
+Enquanto corriam de volta para o local do acampamento, a aluna 1 começou a ofegar e ficou
+extremamente dispneica. Ela começou a sentir um aperto no peito, e uma erupção cutânea
+pruriginosa que rapidamente disseminou por todo o seu corpo. A aluna 1 foi levada às pressas
+para o Hospital onde foi estabilizada e internada para observação. Dois dias depois, a aluna 2
+desenvolveu pápulas eritematosas intensamente pruriginosas nas pernas e nas mãos, que
+foram tratadas com uma pomada tópica.
+As alunas 1 e 2 desenvolveram, respectivamente, as hipersensibilidades:
+
+Alternativas:
+(alternativa A) (CORRETA)
+tipo I e tipo IV.
+
+Resposta comentada:
+1. A aluna 1 teve uma reação alérgica aguda com dificuldade respiratória, aperto no peito
+e erupção cutânea após ser picada por abelhas. Esses sintomas são característicos de
+uma reação de hipersensibilidade do Tipo I, também conhecida como hipersensibilidade
+imediata ou alergia IgE mediada. Nesse tipo de reação, a liberação de histamina e
+outras substâncias alérgicas ocorre rapidamente, levando a sintomas como dificuldade
+respiratória e erupção cutânea.
+2. A aluna 2 desenvolveu pápulas pruriginosas nas pernas e mãos após a picada de
+abelhas, e essas pápulas foram tratadas com uma pomada tópica. Essa resposta é
+característica de uma reação de hipersensibilidade do Tipo IV, também conhecida
+como hipersensibilidade tardia ou mediada por células T. Nesse tipo de reação, a
+resposta imune é mais demorada e envolve a ativação de células T e inflamação local,
+levando ao desenvolvimento de pápulas e prurido.
+Referência:
+Abbas A.K., Lichtman A.H. Imunologia Básica – 2ª edição – Ed Elsevier. Rio de Janeiro. 2007.
+25ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 29 de 64
+
+Enunciado:
+Módulo(s): SOI + HAM
+Em uma Unidade Básica de Saúde (UBS), um estudante de Medicina inicia o atendimento a um
+paciente, sendo observado pelo seu supervisor imediato. A aferição da pressão arterial do
+paciente do sexo masculino, 58 anos de idade, com sensação de tontura, apresentou pressão
+sistólica de 90 mmHg e pressão diastólica de 60 mmHg. O aluno atentou-se às perguntas
+antes da avaliação, posicionou corretamente o paciente e realizou a técnica palpatória, seguida
+da técnica auscultatória. Preocupado com o valor que ele considerou baixo da pressão arterial,
+após o procedimento o estudante e supervisor discutem sobre esse cenário.
+Analise as afirmativas sobre os mecanismos reguladores da pressão arterial e assinale a
+alternativa correta relacionada ao caso apresentado.
+Alternativas:
+(alternativa D) (CORRETA)
+Essa queda da PA determina que barorreceptores do arco aórtico e seio carotídeos remetem
+menos impulsos aos centros cardiovasculares na medula espinhal, assim ocorre um aumento
+do estímulo simpático e diminuição parassimpática ao coração e vasos.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 30 de 64
+
+Resposta comentada:
+Os barorreceptores do seio carotídeo são transportados para o tronco encefálico por meio do
+nervo do seio carotídeo e as informações oriundas do arco aórtico são transportadas por meio
+do nervo vago. O fluxo eferente parassimpático exercerá a diminuição da frequência cardíaca.
+Já o fluxo simpático possui outras funções: efeito sobre o nodo SA (aumentando a frequência
+cardíaca), efeito sobre o músculo cardíaco (aumentando a contratilidade e volume sistólico),
+efeito sobre as arteríolas (produzindo vasoconstrição e aumentando a RPT) e efeito sobre as
+veias (produzindo venoconstrição).
+Assim, a queda da pressão arterial levará à diminuição do estiramento dos barorreceptores,
+que por meio da ativação simpática ocasionará aumento da pressão arterial média, visando
+restaurar a volemia e manter os tecidos perfundidos.
+O sistema renina-angiotensina-aldosterona trata-se de uma série de reações concebidas para
+ajudar a regular a pressão arterial. Quando a pressão arterial cai (no caso da pressão sistólica,
+para 100 mm Hg ou menos), os rins liberam a enzima renina na corrente sanguínea. A renina
+quebra angiotensinogênio, em angiotensina I. A angiotensina I, que se mantém relativamente
+inativa, é dividida pela enzima de conversão da angiotensina (ECA) gerando a angiotensina I, um
+hormônio que é muito ativo. A angiotensina I faz com que as paredes musculares das
+pequenas artérias (arteríolas) se contraiam, aumentando a pressão arterial. A angiotensina I
+também provoca a liberação do hormônio aldosterona pelas glândulas adrenais e da
+vasopressina (hormônio antidiurético) pela hipófise. A aldosterona e a vasopressina fazem com
+que os rins retenham sódio. A aldosterona também faz com que os rins excretem potássio.
+O aumento de sódio faz com que a água seja retida, aumentando, assim, o volume de sangue
+e a pressão artéria. A queda da pressão arterial pode ser devida a baixa ingesta de sódio, ou
+pela perda excessiva de sódio.
+Referência:
+Hall, John, E. e Michael E. Hall. Guyton & Hall - Tratado de Fisiologia Médica. Disponível em:
+Minha Biblioteca, (14th edição). Grupo GEN, 2021.
+26ª QUESTÃO
+Enunciado:
+Módulo(s): IESC + MEP
+Representantes de uma comunidade da zona rural de uma cidade de 12 mil habitantes, com o
+Conselho Municipal de Saúde e os profissionais da Unidade de Saúde da Família, em especial, os
+Agentes Comunitários de Saúde, reúnem-se mensalmente, na associação de moradores, para
+discutir os problemas locais que impactam a saúde dessa comunidade. Para melhor avaliar as
+demandas, o grupo resolveu coletar informações sobre as principais necessidades relacionadas
+aos indicadores de saúde-doença desse território.
+Com base na característica dessa população, o melhor instrumento de coleta a ser empregado
+é
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 31 de 64
+
+Alternativas:
+
+(alternativa C) (CORRETA)
+uma entrevista não estruturada, com o uso de um formulário.
+
+Resposta comentada:
+Entrevista não estruturada: O entrevistador tem liberdade para desenvolver cada situação
+em qualquer direção que considere adequada. É uma forma de poder explorar mais
+amplamente uma questão. Em geral, as perguntas são abertas e podem ser respondidas em
+uma conversação informal. Esse tipo de entrevista, segundo Ander-Egg (1978, p. 110),
+apresenta as seguintes modalidades:
+Entrevista focalizada: Há um roteiro de tópicos relativos ao problema que se vai estudar, e o
+entrevistador tem liberdade de fazer as perguntas que quiser: sonda razões e motivos, dá
+esclarecimentos, não obedecendo a uma estrutura formal. Para isso, são necessárias habilidade
+e perspicácia por parte do entrevistador. Em geral, é utilizada em estudos de situações de
+mudança de conduta.
+Entrevista clínica: Trata-se de estudar os motivos, os sentimentos e a conduta das pessoas.
+Para esse tipo de entrevista, pode ser organizada uma série de perguntas específicas.
+Não dirigida: Há liberdade total por parte do entrevistado, que poderá expressar suas opiniões e
+sentimentos. A função do entrevistador é de incentivo, levando o informante a falar sobre
+determinado assunto, sem, entretanto, forçá-lo a responder.
+É indispensável que representantes da comunidade, membros do Conselho Municipal de Saúde
+e os profissionais de uma Unidade de Saúde da Família discutam e busquem soluções
+adequadas aos problemas enfrentados por cada comunidade em particular.
+REFERÊNCIAS:
+LAKATOS, E. M. Fundamentos de metodologia científica. Rio de Janeiro: Grupo GEN, 2021.
+GUSSO G.; LOPES, J. M. C. (Org.). Tratado de medicina de família e comunidade:
+princípios, formação e prática. Porto Alegre: Artmed, 2012. Cap. 9.
+27ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 32 de 64
+
+Enunciado:
+Módulo(s): SOI + IESC
+A equipe de saúde da família está fazendo uma campanha nas empresas que fazem parte do
+seu território de abrangência, com ênfase na prevenção de doenças cardiovasculares e
+acidentes de trabalho. Durante uma visita à empresa de construção civil, a equipe fez uma
+atividade educativa para todos os funcionários com a temática sobre a importância da
+alimentação restrita de sódio, açúcares e carboidratos, para evitar doenças, como hipertensão
+arterial, diabetes e obesidade, bem como alertaram sobre a necessidade do uso de
+equipamentos de proteção individual (EPI), como capacetes, luvas, cintos de segurança, para
+prevenir acidentes no trabalho.
+Com base no caso, e sobre tipos de prevenção, segundo o modelo da história natural das
+doenças, marque a alternativa correta.
+Alternativas:
+
+(alternativa C) (CORRETA)
+A equipe fez uma ação do tipo: prevenção primária (proteção específica).
+
+Resposta comentada:
+Alternativa correta: A equipe fez uma ação do tipo: prevenção primária (proteção específica).
+O público-alvo da ação são os operários da empresa (sem especificar doentes), sendo assim,
+prevenção primária. As ações são educativas, com ênfase nas doenças cardiovasculares e
+acidentes de trabalho, portanto se caracterizam como proteção específica e não constituem
+promoção da saúde.
+REFERÊNCIAS:
+GUSSO, G.; LOPES, J.M.C. Tratado de medicina da família e comunidade: princípios,
+formação e prática. Porto Alegre, 2012. Cap. 31.
+ROUQUAYROL, M.Z.; SILVA, M.G.C. Epidemiologia & saúde. 8. ed. Rio de Janeiro: Medbook,
+2018. Cap.2.
+28ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 33 de 64
+
+Enunciado:
+Módulo(s): MEP
+Em um estudo de pesquisa sobre a satisfação dos usuários com o atendimento de suas
+necessidades durante a internação num hospital geral do interior do Estado de São Paulo, os
+pesquisadores estavam ativamente engajados nas interações com os pacientes, envolvendo-se
+em reuniões clínicas, acompanhando as rotinas diárias dos médicos e enfermeiros e fazendo
+anotações detalhadas em seus cadernos de campo.
+Com base no texto fornecido, analise as afirmações a seguir:
+I – No estudo descrito, os pesquisadores estavam ativamente envolvidos nas interações com os
+pacientes, caracterizando um instrumento de observação participante.
+I – Os pesquisadores acompanharam as rotinas diárias dos médicos e enfermeiros, o que
+sugere que foi utilizada a observação não participante no estudo.
+I – Fazer anotações detalhadas em cadernos de campo é uma prática comum em estudos em
+que se utilizam a observação não participante.
+IV – A observação participante é mais adequada para obter uma compreensão profunda das
+experiências dos pacientes e profissionais de saúde devido à participação ativa dos
+pesquisadores.
+Está correto o que se afirma em
+
+Alternativas:
+(alternativa C) (CORRETA)
+I e IV, apenas.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 34 de 64
+
+Resposta comentada:
+A resposta correta é aquela que indica as alternativas I e IV.
+I) No texto, é mencionado que “pesquisadores estavam ativamente engajados nas interações
+com os pacientes”, o que é uma característica chave de um estudo de observação participante.
+Nesse tipo de estudo, os pesquisadores participam ativamente da situação que estão
+observando.
+I) Contrariamente à afirmação, o texto afirma que “pesquisadores estavam ativamente
+engajados nas interações com os pacientes”, o que não se alinha com um estudo de
+observação não participante, no qual os pesquisadores observam à distância, sem interagir
+diretamente.
+I) A afirmação está incorreta, pois segundo o texto, os pesquisadores faziam “anotações
+detalhadas em seus cadernos de campo”, o que é uma prática comum em estudos de
+observação participante, nos quais pesquisadores estão ativamente envolvidos nas interações e
+fazem anotações detalhadas de suas experiências.
+IV) O texto sugere que o estudo é mais adequado para obter uma compreensão profunda das
+experiências dos pacientes devido à participação ativa dos pesquisadores. Isso está em
+consonância com o objetivo de um estudo de observação participante, que busca uma
+compreensão aprofundada das situações estudadas por meio da participação ativa.
+REFERÊNCIAS:
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.
+EBook. (1 recurso online). ISBN 9788597012934.
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico. 9.
+ed. atual. São Paulo: Atlas, 2021. EBook. (1 recurso online). ISBN 9788597026559.
+PAIVA, S. M. A.; GOMES, E. L. R. Assistência hospitalar: avaliação da satisfação dos usuários.
+Revista Latino-Americana de Enfermagem, v. 15, n. 5, p. 1029-1035, set./out. 2007.
+29ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+No processo de coagulação sanguínea, os fatores de coagulação são ativados em ordem
+sequencial, desencadeando uma série de reações em cadeia que incluem ciclos de
+retroalimentação positiva.
+Marque a alternativa correta referente a proteína responsável pelo início da formação da
+protrombinas e na via extrínseca da coagulação.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 35 de 64
+
+Alternativas:
+(alternativa A)
+(alternativa B) (CORRETA)
+Fator Tecidual.
+
+Resposta comentada:
+Resposta correta: Fator Tecidual.
+A via extrínseca da coagulação sanguínea apresenta menos etapas que a via intrínseca e ocorre
+rapidamente – em uma questão de segundos se o traumatismo for importante. É assim
+chamada, pois uma proteína tecidual chamada de fator tecidual (FT), também conhecida como
+tromboplastina, passa para o sangue a partir de células do lado de fora dos vasos sanguíneos
+(extrínsecas aos) e inicia a formação da protrombinase.
+Referência:
+Tortora, Gerard, J. e Bryan Derrickson. Princípios de Anatomia e Fisiologia. Disponível em: Minha
+Biblioteca, (14th edição). Grupo GEN, 2016.
+30ª QUESTÃO
+Enunciado:
+Módulo(s): IESC
+Um morador procurou a Unidade de Saúde da Família de seu bairro, pois vinha sentindo malestar há dias. Durante a consulta, refere como comorbidade hipertensão e diabetes mellitus em
+tratamento medicamentoso. O médico identificou, no prontuário, que o paciente apresentava
+níveis pressóricos descontrolados, mesmo em uso de anti-hipertensivo. Com isso, o médico
+resolve prescrever outro fármaco, sem investigar o paciente na totalidade, e logo encerra a
+consulta.
+De acordo com o caso e considerando os princípios da Medicina de Família e Comunidade
+(MFC), analise as alternativas e assinale a correta.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 36 de 64
+
+Alternativas:
+(alternativa A)
+
+(alternativa C) (CORRETA)
+A conduta do profissional não foi assertiva, visto que a MFC é definida como especialidade
+médica que presta assistência à saúde de forma continuada, integral e abrangente, conhecendo
+as pessoas intimamente.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 37 de 64
+
+Resposta comentada:
+A conduta do profissional foi assertiva, visto que a MFC é definida como especialidade médica
+que presta assistência à saúde de forma continuada, integral e abrangente, conhecendo as
+pessoas intimamente. Alternativa incorreta, pois a conduta do profissional não condiz com o
+que a MFC tem como princípio.
+A conduta do profissional não foi assertiva, visto que a MFC é definida como especialidade
+médica que presta assistência à saúde de forma continuada, integral e abrangente, conhecendo
+as pessoas intimamente. Alternativa correta, por mostrar que a conduta profissional foi em
+desencontro com o que prega o princípio da MFC.
+A conduta do profissional foi assertiva, visto que a MFC é definida como especialidade médica
+que presta assistência à saúde de forma objetiva, frisando apenas a patologia atual, visto que o
+paciente já tem um diagnóstico. Alternativa incorreta, pois a conduta do profissional não
+condiz com o que a MFC tem como princípio.
+A conduta do profissional não foi assertiva, visto que a MFC é definida como especialidade
+médica que presta assistência à saúde de forma objetiva, considerando a flexibilidade de
+tratamentos sem considerar o sujeito. Alternativa incorreta, pois a conduta do profissional
+não condiz com o que a MFC tem como princípio.
+A Medicina de Família e Comunidade (MFC) é definida como a especialidade médica que presta
+assistência à saúde de forma continuada, integral e abrangente para as pessoas, suas famílias
+e a comunidade. Ela se distingue por conhecer as pessoas intimamente ao longo do tempo e de
+compartilhar sua confiança, respeito e amizade, bem como por fornecer cuidados a uma
+população. O médico de família e comunidade precisa desenvolver uma compreensão acerca da
+experiência da pessoa sobre a doença, particularmente suas ideias, sentimentos e expectativas
+sobre o que está acontecendo com ela e identificar que pode haver impacto da doença na sua
+vida pessoal, familiar, profissional e social. Procurar entender os reais motivos da vinda das
+pessoas à consulta, utilizando a anamnese como ferramenta tecnológica que permite obter a
+maioria das informações necessárias ao manejo do caso, sendo essa uma atribuição do médico
+de família e comunidade.
+REFERÊNCIA:
+GUSSO, G.; LOPES, J.M.C. Tratado de medicina da família e comunidade: princípios,
+formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+
+31ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 38 de 64
+
+Enunciado:
+Módulo(s): SOI
+Embora alguns linfócitos vivam anos, a maioria dos elementos figurados do sangue duram
+apenas horas, dias ou semanas, e a maioria precisa ser reposta continuamente. O processo
+pelo qual os elementos figurados do sangue se desenvolvem é chamado de hemopoese,
+eritropoese ou hematopoese.
+Tortora, Gerard, J. e Bryan Derrickson. Princípios de Anatomia e Fisiologia. Disponível em: Minha Biblioteca, (14th
+edição). Grupo GEN, 2016.
+
+Sobre esse processo, analise as afirmativas abaixo:
+I - A fim de formar células sanguíneas, as células-tronco pluripotentes na medula óssea
+vermelha produzem mais dois tipos de células-tronco: células-tronco mieloides e células-tronco
+linfoides.
+I - As células-tronco mieloides são precursoras das hemácias, plaquetas, monócitos, neutrófilos,
+eosinófilos, basófilos e monócitos, enquanto as células-tronco linfoide são precursoras dos
+linfócitos.
+I - Antes do nascimento, a hemopoese ocorre primeiramente no fígado do embrião e,
+sucessivamente no baço, no timo, nos linfonodos e a partir do 3º mês na medula óssea do
+feto.
+IV - O fator de crescimento eritropoetina regula a maturação dos eritrócitos, enquanto a
+trombopoetinha regula a fragmentação do citoplasma dos megacariócito, formando as
+plaquetas.
+Após análise, marque a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+Apenas as afirmativas I, I e IV estão corretas.
+
+Resposta comentada:
+Resposta correta: Apenas as afirmativas I, II e IV estão corretas.
+I - Antes do nascimento, a hemopoese ocorre primeiramente no fígado do embrião e,
+sucessivamente no baço, no timo, nos linfonodos e a partir do 3º mês na medula óssea do feto.
+Incorreta, pois o processo de hemapoese ocorre primeiramente no saco vitelino e
+posteriormente no fígado.
+Referência:
+Tortora, Gerard, J. e Bryan Derrickson. Princípios de Anatomia e Fisiologia. Disponível em: Minha
+Biblioteca, (14th edição). Grupo GEN, 2016.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 39 de 64
+
+32ª QUESTÃO
+Enunciado:
+Módulo(s): SOI + MEP
+Considere o trecho retirado do resumo de um estudo abaixo:
+Introdução: No processo de envelhecimento, o indivíduo passa por mudanças fisiológicas,
+destacando-se o declínio da função pulmonar. A espirometria de incentivo, utilizada em diversas
+populações, ainda não deixa clara a diferença entre os métodos a volume e a fluxo sobre
+variáveis respiratórias em sujeitos idosos. O objetivo do estudo foi comparar os efeitos da
+espirometria de incentivo – volume e fluxo, sobre a função pulmonar, força muscular
+respiratória e mobilidade tóraco-abdominal de idosos saudáveis. Método: Trata-se de um
+ensaio clínico com 48 idosos, entre 60 e 84 anos de idade, randomizados para espirometria de
+incentivo a volume (n=23) ou a fluxo (n=25). Foram avaliadas as pressões inspiratória (PImáx)
+e expiratória (PEmáx) máximas, volumes e capacidades pulmonares e cirtometria tóracoabdominal pré e pós-treinamento domiciliar. Os dados foram analisados pela análise de
+variância de duas vias com medidas repetidas. Resultados: Houve aumento da PImáx, PEmáx,
+capacidade vital forçada (CVF), volume expiratório forçado no primeiro segundo, volume
+minuto, volume corrente e cirtometria a nível xifoide e umbilical em ambos os grupos
+(p<0,001). Na comparação entre os grupos, o aumento na CVF foi maior no grupo fluxo
+(p=0,03) e maior cirtometria axilar no grupo volume (p=0,02). Conclusão: Ambos os
+incentivadores foram eficazes na melhora da função pulmonar, força muscular respiratória e
+mobilidade tóraco-abdominal em idosos saudáveis, mostrando-se bons aliados da fisioterapia
+respiratória.
+Fonte: PASCOTINI, F. S. Espirometria de incentivo a volume versus a fluxo sobre parâmetros
+respiratórios em idosos. Fisioter Pesq., v. 20, n. 4, p. 355-360, 2013.
+
+Com base no texto acima, assinale a alternativa correta sobre o método científico utilizado
+pelos pesquisadores para as conclusões.
+Alternativas:
+(alternativa D) (CORRETA)
+Método hipotético-dedutivo, em que se parte de premissas para deduzir consequências a serem
+testadas ou falseadas.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 40 de 64
+
+Resposta comentada:
+A resposta correta é aquela que define o método da pesquisa apresentada como hipotéticodedutivo.
+No método hipotético-dedutivo, parte-se de hipóteses para deduzir consequências a serem
+testadas ou falseadas.
+Os demais métodos não se aplicam a essa situação, sendo:
+Método indutivo, em que se parte do particular para o geral e a generalização deve ser
+constatada com base na observação de casos concretos, o que não se aplica a essa
+situação.
+Método dialético, em que se identifica a ideia de conciliação dos contrários, ou seja, a negação
+da negação.
+Método dedutivo, que utiliza uma cadeia de raciocínio descendente, da análise geral para a
+particular, até a conclusão.
+REFERÊNCIAS:
+MARCONI, M. de A.; LAKATOS, E. M. Fundamentos de metodologia científica. 9. ed. atual
+São Paulo: Atlas, 2021.
+PASCOTINI, F. S. Espirometria de incentivo a volume versus a fluxo sobre parâmetros
+respiratórios em idosos. Fisioter Pesq., v. 20, n. 4, p. 355-360, 2013.
+33ª QUESTÃO
+Enunciado:
+Módulo(s): MEP
+Coelho e Ferreira (2015) publicaram um artigo original sobre Cuidados Paliativos. Na seção de
+Introdução, os autores apresentaram o objetivo da pesquisa: “Na tentativa de decodificar
+narrativas de indivíduos a respeito de suas vivências com pacientes cujo diagnóstico indica
+impossibilidade de cura, [...] recorreu-se a entrevistas semiestruturadas com cuidadores de
+pessoas em situação-limite de dor e sofrimento”.
+FONTE: COELHO, M. E. M.; FERREIRA, A. C. Cuidados paliativos: narrativas do sofrimento na
+escuta do outro. Revista Bioética, 23, 2, p. 340-348, 2015.
+Com relação ao enunciado acima, afirma-se:
+I. Trata-se de estudo qualitativo, em que foram realizadas entrevistas para coleta de
+dados.
+I. Trata-se de estudo quantitativo, uma vez que a análise dos dados precisará utilizar
+métodos estatísticos.
+I. O foco do referido estudo é em aspectos que podem ser mensurados ou
+contabilizados.
+IV. O foco do referido estudo é na narrativa das pessoas, descrevendo seu mundo em
+suas próprias palavras.
+Após avaliar as asserções acima, assinale a única alternativa que contém apenas asserções
+corretas.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 41 de 64
+
+Alternativas:
+(alternativa A) (CORRETA)
+I e IV, apenas.
+
+Resposta comentada:
+O trecho do artigo, em questão, reforça aspectos de pesquisa qualitativa, com destaque para
+realização de entrevistas com foco na análise das narrativas dos sujeitos. Portanto, as
+asserções I e IV estão corretas. As asserções I e I são características de um estudo
+quantitativo, que não foi o método realizado na pesquisa de Coelho e Ferreira (2015).
+Referências:
+CERVO, A. L.; BERVIAN, P. A. Metodologia científica. 6. ed. São Paulo: Person Prentice Hall,
+2007.
+MARCONI, M. A.; LAKATOS, E. M. Fundamentos de metodologia científica [recurso eletrônico].
+9. ed. São Paulo: Atlas, 2021. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597026580. Acesso: 01 ago. 2023.
+GIL, A. C. Métodos e Técnicas de Pesquisa Social. 7ª ed. Grupo GEN, 2019. 9788597020991.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso: 01
+ago. 2023.
+COELHO, M. E. M.; FERREIRA, A. C. Cuidados paliativos: narrativas do sofrimento na escuta do
+outro. Revista Bioética, 23, 2, p. 340-348, 2015.
+34ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 42 de 64
+
+Enunciado:
+Módulo(s): SOI
+A principal função do epitélio que reveste o cólon é absorver ou secretar eletrólitos e água, em
+vez de nutrientes. O cólon recebe 2 L de fluidos a cada dia e absorve 1,8 L, deixando assim
+cerca de 200 mL de fluidos para serem eliminados nas fezes.
+KOEPPEN, B. M.; STANTON, B. A. Berne e Levy: Fisiologia. 7ª ed. Rio de Janeiro: Guanabara
+Koogan, 2018.
+Nesse contexto, avalie as frases a seguir e a relação entre elas.
+I - O intestino grosso desempenha um papel importante na manutenção do equilíbrio hídrico do
+corpo, complementando a função do intestino delgado no controle dos fluidos
+PORQUE
+I - A absorção dos eletrólitos sódio e cloreto cria um gradiente osmótico ao longo da mucosa do
+intestino grosso, que, por sua vez, acarreta a absorção de água.
+
+A respeito dessas asserções, assinale a opção correta.
+Alternativas:
+(alternativa C) (CORRETA)
+I e I são proposições verdadeiras, e a I é uma justificativa correta da I.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 43 de 64
+
+Resposta comentada:
+Resposta correta: "I e II são proposições verdadeiras, e a II é uma justificativa
+correta da I."
+A fluidez do conteúdo intestinal, especialmente no intestino delgado, é importante para permitir
+que a refeição seja propelida ao longo da extensão do intestino e possibilitar que os nutrientes
+digeridos difundam-se para seus sítios de absorção. Em indivíduos saudáveis, somente cerca de
+2 L de fluidos são passados para o cólon para reabsorção, e, eventualmente, apenas 100 a
+200 mL são eliminados na evacuação. A principal função do epitélio colônico é absorver ou
+secretar eletrólitos e água, em vez de nutrientes. A mucosa do intestino grosso possui uma
+grande capacidade de absorção ativa de sódio e o potencial elétrico criado pela absorção de
+sódio determina também a absorção de cloreto. As junções oclusivas entre as células epiteliais
+são mais firmes do que as do intestino delgado, o que diminui a difusão retrógrada de íons
+através dessas junções. Isso permite que a mucosa do intestino grosso absorva íons sódio
+contra um gradiente de concentração mais elevada da que pode ocorrer no intestino delgado. A
+absorção de íons sódio e cloreto cria um gradiente osmótico ao longo da mucosa do intestino
+grosso, que, por sua vez, acarreta a absorção de água.
+Referência:
+KOEPPEN, B. M.; STANTON, B. A. Berne e Levy: Fisiologia. 7ª ed. Rio de Janeiro: Guanabara
+Koogan, 2018.
+35ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+Paciente adulto apresenta-se à clínica médica com dor, inchaço e vermelhidão em uma
+determinada área do corpo. O médico realiza uma avaliação detalhada e observa os seguintes
+achados: início súbito dos sintomas nas últimas 24-48 horas, a área afetada está quente ao
+toque e o paciente relata febre. Com essas informações, o médico diagnosticou um processo
+inflamatório e explicou ao paciente as suas características gerais e a diferença entre os
+principais tipos.
+Sobre o tema relatado, marque a afirmativa correta.
+Alternativas:
+(alternativa D) (CORRETA)
+A inflamação crônica é duradoura, associada à destruição tecidual, presença de linfócitos e
+macrófagos, bem como proliferação de vasos sanguíneos e fibrose.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 44 de 64
+
+Resposta comentada:
+A inflamação é uma resposta dos tecidos vascularizados às infecções e aos danos teciduais que
+recruta células e moléculas do sistema de defesa do hospedeiro da circulação para os locais
+onde são necessários, a fim de eliminar os agentes agressores. Na inflamação aguda, ocorre
+dilatação de vasos pequenos, o que desencadeia aumento no fluxo sanguíneo e aumento da
+permeabilidade da microvasculatura. Infecções persistentes por microrganismos e exposição
+prolongada a agentes potencialmente tóxicos desencadeiam a inflamação crônica.
+
+Referências:
+TORTORA, G. J.; DERRICKSON, B. Corpo humano: fundamentos de anatomia e fisiologia. 8.ed.
+Porto Alegre: Artmed, 2012.
+KUMAR, Vinay. Robbins Patologia Básica. Grupo GEN, 2018. E-book. ISBN 9788595151895.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595151895/. Acesso
+em: 12 set. 2023.
+
+36ª QUESTÃO
+Enunciado:
+Módulo(s): SOI + HAM
+Um paciente, de 35 anos de idade, sexo masculino, é levado a Unidade de Pronto Atendimento
+(UPA) com pele fria, pegajosa, sudorese e tremores, após queda da motocicleta. Ao ser
+examinado, o paciente apresenta frequência de pulso de 115 ppm, pulso difícil de ser sentido e
+com ritmo constante.
+Com base no caso clínico descrito, assinale a alternativa que apresenta as descrições corretas
+para o pulso do paciente acima.
+Alternativas:
+(alternativa B) (CORRETA)
+Taquisfigmia, pulso filiforme e rítmico.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 45 de 64
+
+Resposta comentada:
+O quadro acima indica uma possível hemorragia interna que pode resultar em várias alterações
+no pulso e em outros parâmetros hemodinâmicos. As características do pulso de um paciente
+com hemorragia interna podem incluir:
+Taquisfigmia: um pulso acelerado (frequência cardíaca aumentada) é uma das respostas iniciais
+do corpo à perda de sangue. O corpo tenta compensar a diminuição do volume circulante
+acelerando o coração para fornecer sangue suficiente aos órgãos vitais.
+Pulso fraco ou filiforme: à medida que a hemorragia progride, a pressão arterial pode começar a
+cair. Isso pode resultar em um pulso que é difícil de sentir ou que se sente muito fino e rápido.
+Pulso rítmico: quando o intervalo entre as pulsações é constante, regular.
+Pulso da artéria radial: obtido na face medial do antebraço – errado, pois o trajeto da artéria
+radial fica na face lateral do antebraço.
+Pulso da artéria ulnar: obtido na face lateral do antebraço – errado, pois o trajeto da artéria
+ulnar fica na face medial do antebraço.
+
+REFERÊNCIA:
+PORTO, C. C.; PORTO, A.L. Exame Clínico. 8. ed. Rio de Janeiro: Guanabara Koogan, 2017.
+.
+
+37ª QUESTÃO
+Enunciado:
+Módulo(s): IESC
+Uma mulher de 30 anos compareceu à Unidade de Pronto Atendimento (UPA) local com
+queixas gripais. Ela relatou ter sentido febre, dor de garganta, congestão nasal e dor no corpo
+nas últimas 48 horas. Não apresentava histórico médico significativo e estava preocupada com
+a possibilidade de ser gripe. Durante a triagem, não foram encontrados achados alarmantes, e
+sua temperatura era de 36 °C. Enquanto aguardava atendimento médico, ela percebeu que
+uma senhora idosa chegou à unidade relatando os mesmos sintomas que os seus, acrescidos
+de temperatura de 38,6 °C e dificuldade para respirar. Essa senhora, como informaram,
+precisou ser atendida antes de todos os que aguardavam na fila, inclusive antes da mulher
+relatada no início do caso.
+Com base na situação apresentada, assinale a alternativa que indica o princípio doutrinário do
+SUS que foi cumprido no atendimento da senhora idosa.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 46 de 64
+
+Alternativas:
+(alternativa A) (CORRETA)
+Equidade.
+
+Resposta comentada:
+Segundo o Ministério da Saúde, equidade “tem o objetivo de diminuir desigualdades. Apesar de
+todas as pessoas possuírem direito aos serviços, as pessoas não são iguais e, por isso, têm
+necessidades distintas. Em outras palavras, equidade significa tratar desigualmente os
+desiguais, investindo mais onde a carência é maior.”
+Na situação, uma das pacientes precisou ser atendida primeiro, mesmo chegando
+posteriormente, uma vez que seus sintomas a classificavam como uma paciente prioritária.
+Portanto, o princípio fundamental cumprido na situação é o da equidade.
+REFERÊNCIAS:
+Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/sus. Acesso em: 30
+out. 2023.
+Disponível em:
+http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%208.080-1990?
+OpenDocument. Acesso em: 30 out. 2023.
+38ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 47 de 64
+
+Enunciado:
+Módulo(s): SOI
+Durante uma aula prática em laboratório de bioquímica e fisiologia, os alunos estão discutindo
+os conceitos de homeostasia celular e tecidual, bem como os principais mecanismos
+reguladores envolvidos no controle das funções orgânicas.
+Considerando o cenário, analise as afirmativas a seguir:
+I - A homeostasia é o processo pelo qual os organismos mantêm condições internas em
+equilíbrio, e isso é fundamental para o funcionamento adequado das células e dos tecidos.
+Envolve mecanismos de autorregulação para manter variáveis como temperatura, pH e
+concentração de íons em níveis ótimos para as células.
+I - A regulação por sinalização química é um dos principais mecanismos pelos quais a
+homeostasia é mantida. Envolve a comunicação entre células e órgãos por meio de moléculas
+de sinalização, como hormônios, que podem ativar ou inibir respostas em diferentes partes do
+corpo.
+I - O feedback positivo é um mecanismo de regulação em que uma resposta do organismo
+atua para diminuir ou reverter uma mudança em relação a um ponto de equilíbrio. Isso ajuda a
+manter as condições internas do corpo em equilíbrio.
+IV - O feedback negativo é um mecanismo de regulação em que uma resposta do organismo
+tende a aumentar ou a reforçar uma mudança no ambiente, levando a um aumento em
+relação ao ponto de equilíbrio. Um exemplo é a cascata de coagulação sanguínea.
+Marque a alternativa que apresenta a descrição correta sobre a definição e características do
+processo de homeostasia e seus tipos de feedback:
+
+Alternativas:
+(alternativa D) (CORRETA)
+Apenas as afirmativas I e I estão corretas.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 48 de 64
+
+Resposta comentada:
+Afirmativa I. Essa assertiva está correta. Descreve corretamente a homeostasia como o
+processo pelo qual os organismos mantêm condições internas em equilíbrio, incluindo variáveis
+como temperatura, pH e concentração de íons.
+Afirmativa II. Essa assertiva também está correta. Descreve corretamente a regulação
+química como um mecanismo importante na homeostasia, envolvendo a comunicação celular
+por meio de moléculas de sinalização, como hormônios.
+Afirmativa III. Essa assertiva está incorreta. Descreve erroneamente o feedback positivo
+como um mecanismo de regulação quando na verdade é um mecanismo de aumento em
+relação ao ponto de equilíbrio.
+Afirmativa IV. Essa assertiva está incorreta. Descreve erroneamente o feedback negativo
+como um mecanismo de regulação que tende a aumentar quando na verdade é um
+mecanismo que atua para diminuir ou reverter uma mudança em relação ao ponto de equilíbrio.
+Portanto, a alternativa correta é a alternativa que diz: "Apenas as assertivas I e I estão
+corretas", pois elas descrevem corretamente os conceitos relacionados à homeostasia e aos
+mecanismos de regulação química.
+Referência:
+TORTORA, Gerard J. Derrickson, Bryan. Princípios de anatomia e fisiologia. 14. Ed. Rio de
+Janeiro: Guanabara Hoogan, 2019.
+39ª QUESTÃO
+Enunciado:
+Módulo(s): MEP
+Em uma consulta de imunização de rotina, a mãe de um bebê de 6 meses conta que seu filho
+teve uma reação local horrível após a última imunização. A mãe está muito preocupada que
+isso possa acontecer de novo.
+Recentemente, um colega contou a você que o comprimento da agulha pode afetar a reação
+local à imunização em crianças pequenas, mas você não consegue lembrar os detalhes
+precisos.
+Com base nesse relato sobre a estratégia PICO, assinale a alternativa que apresenta a questão
+clínica correta para esse quadro.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 49 de 64
+
+Alternativas:
+(alternativa D) (CORRETA)
+Em bebês que recebem injeções para imunização, o comprimento da agulha afeta a taxa de
+reações locais?
+
+Resposta comentada:
+A questão clínica correta, baseada na estratégia PICO, para o quadro apresentado, é:
+“Em bebês que recebem injeções para imunização, o comprimento da agulha afeta a taxa de
+reações locais?”
+Isso reflete o cenário clínico (bebês recebendo imunizações), o fator de exposição de interesse
+(comprimento da agulha) e o desfecho de interesse (taxa de reações locais). É a pergunta mais
+relevante para a situação apresentada e foca na relação entre o comprimento da agulha e as
+reações locais em bebês, que é a preocupação da mãe.
+REFERÊNCIAS:
+SILVA, Alcion Alves. Prática clínica baseada em evidências na área da saúde. 1. ed. São
+Paulo: Editora Santos, 2009.
+NOBRE, M. R. C., BERNARDO, W. M., & JATENE, F. B. A prática clínica baseada em evidências.
+Parte I: questões clínicas bem construídas. Revista da Associação Médica Brasileira, 49(4),
+445–449, 2003.
+40ª QUESTÃO
+Enunciado:
+Módulo(s): IESC + HAM + MEP
+Você é um médico em uma Unidade Básica de Saúde (UBS), e um paciente, 45 anos, chega ao
+seu consultório com sintomas que sugerem uma condição médica séria, mas ele está relutante
+em compartilhar detalhes completos sobre seu histórico médico e estilo de vida. O paciente
+está acompanhado por sua esposa, que insiste em obter todas as informações possíveis para
+ajudar seu marido. Como profissional de saúde, você deseja fornecer o melhor atendimento ao
+paciente, ao mesmo tempo em que respeita os aspectos éticos de sigilo médico.
+Com base na situação apresentada, indique a alternativa que contempla uma opção viável
+segundo os aspectos éticos.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 50 de 64
+
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar uma entrevista detalhada e sensível com o paciente, assegurando que as informações
+sejam mantidas em sigilo.
+
+Resposta comentada:
+A alternativa correta nesta situação é: “Realizar uma entrevista detalhada e sensível com o
+paciente, assegurando que as informações sejam mantidas em sigilo.” É importante respeitar a
+autonomia do paciente e sua capacidade de consentimento informado. Além disso, o paciente
+pode se sentir mais à vontade ao compartilhar informações diretamente com o médico, o que
+pode levar a um diagnóstico mais preciso e um plano de tratamento mais eficaz.
+As outras opções não são apropriadas:
+Oferecer um questionário pode não ser eficaz se o paciente estiver relutante em compartilhar
+informações, e isso não garante que ele consiga fazer perguntas ou esclarecer pontos durante
+a coleta de dados.
+Pedir à esposa do paciente que forneça informações sem o consentimento do paciente violaria
+o princípio de confidencialidade médica e o direito do paciente de controlar suas próprias
+informações médicas.
+Recusar-se a prosseguir com o tratamento sem as informações do paciente pode prejudicar o
+atendimento médico e não considera as preocupações éticas e de privacidade do paciente.
+REFERÊNCIAS:
+UNESCO. Declaração Universal sobre Bioética e Direitos Humanos. Disponível em:
+https://unesdoc.unesco.org/ark:/48223/pf0000146180_por. Acesso em: 30 out. 2023.
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e
+Comunidade: Princípios, Formação e Prática. [s.l.]: Artes Médicas, 2018.
+41ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 51 de 64
+
+Enunciado:
+Módulo(s): MEP + IESC
+A pesquisa na área da saúde é realizada para se adquirir mais conhecimento sobre problemas
+de saúde ou possíveis soluções para estes. Pensando isso, leia o trecho seguir:
+Acerca de um estudo sobre integralidade, estudantes foram entrevistados e apresentaram o
+seguinte ponto de vista:
+“Ontem na tutoria, a gente estava estudando sobre humanização, que tem tudo a ver. A
+integralidade é um dos pressupostos do SUS. Quando a gente estava estudando humanização,
+falou sobre esse cuidado integral da pessoa. Hoje, na LPP, a gente teve dificuldade porque a
+gente não olhou o paciente com esse olhar de integralidade, de olhar para o aspecto físico, de
+perceber os traços dele.”
+SANTOS et al. Integralidade na atenção primária à saúde: compreensão dos estudantes de
+medicina e enfermagem. [s.l.]: Atlas, 2017. p. 377.
+A entrevista realizada permitiu ver com profundidade a percepção dos estudantes sobre o
+assunto proposto. Nessas circunstâncias, assinale a alternativa que aponta corretamente o tipo
+da pesquisa.
+
+Alternativas:
+(alternativa A) (CORRETA)
+Qualitativa.
+
+Resposta comentada:
+O texto de suporte apresenta um trecho transcrito de uma entrevista. A entrevista é uma
+técnica utilizada em estudos qualitativos, pois, por meio de gravação de respostas verbais, é
+possível, posteriormente, fazer uma transcrição e análise do que foi dito.
+REFERÊNCIAS:
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico. 9.
+ed. atual. São Paulo: Atlas, 2021. EBook. (1 recurso online). ISBN 9788597026559. Disponível
+em: https://integrada.minhabiblioteca.com.br/books/9788597026559.
+GOMES, T.C.C.S Atenção primária à saúde e integralidade: articulação entre gestão e
+ensino-aprendizagem. Marília-SP: Faculdade de Medicina de Marília, 2015.
+MOREIRA, M.A. Aprendizagem significativa: a teoria e textos complementares. São Paulo:
+Livraria da Física, 2011.
+SANTOS et al. Integralidade na atenção primária à saúde: compreensão dos estudantes de
+medicina e enfermagem. [s.l.]: Atlas, 2017. p. 377.
+42ª QUESTÃO
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 52 de 64
+
+Enunciado:
+Módulo(s): MEP
+Você é um estudante de Medicina em seu primeiro estágio clínico no hospital. Um paciente
+idoso de 70 anos foi admitido na ala de Cardiologia com diagnóstico de fibrilação atrial (FA)
+recentemente diagnosticada. O médico responsável sugere iniciar um tratamento farmacológico
+(anticoagulação) para reduzir o risco de eventos tromboembólicos. Como parte da equipe
+médica, você é solicitado a auxiliar na decisão terapêutica.
+Qual das seguintes opções representa, corretamente e em ordem, o acrônimo PICO para a
+situação clínica apresentada?
+Alternativas:
+(alternativa D) (CORRETA)
+Pacientes idosos com FA; Iniciar anticoagulação; Não iniciar anticoagulação; Redução do risco de
+eventos tromboembólicos.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 53 de 64
+
+Resposta comentada:
+O processo de encontrar resposta apropriada à dúvida surgida no atendimento depende da
+estruturação das partes desse processo. Uma das estratégias utilizadas é conhecida pelo
+acrônimo PICO, no qual corresponde: P de paciente ou população, I de intervenção ou indicador,
+C de comparação ou controle e O de “outcome”, que na língua inglesa significa “desfecho
+clínico”, resultado, ou por fim, a resposta que se espera encontrar. Nesse contexto, a resposta
+correta é: “Pacientes idosos com FA; Iniciar anticoagulação; Não iniciar anticoagulação; Redução
+do risco de eventos tromboembólicos”, uma vez que:
+P: A população em questão são os pacientes idosos com fibrilação atrial (FA). Isso
+está de acordo com a descrição do caso, no qual o paciente em questão é um idoso
+com FA.
+I: A intervenção proposta é iniciar a anticoagulação. Isso também está conforme o
+cenário apresentado, onde o médico sugere o tratamento farmacológico para reduzir
+o risco de eventos tromboembólicos.
+C: A comparação ou controle é representado pela opção “Não iniciar anticoagulação”.
+Isso reflete a decisão de escolher entre iniciar ou não o tratamento anticoagulante, o
+que é uma escolha clara apresentada no cenário.
+O: O desfecho esperado da intervenção é a “Redução do risco de eventos
+tromboembólicos”. Isso também está alinhado com a situação clínica, pois o objetivo
+do tratamento anticoagulante é reduzir o risco de eventos tromboembólicos em
+pacientes com FA.
+REFERÊNCIA:
+NOBRE, Moacyr Roberto Cuce; BERNARDO, Wanderley Marques; JATENE, Fabio Biscegli. A
+prática clínica baseada em evidências. Parte I: questões clínicas bem construídas. Revista da
+Associação Médica Brasileira, v. 49, p. 445-449, 2003.
+43ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+As respostas imunológicas têm uma importante função na defesa do hospedeiro contra
+infecções por microrganismos, porém as respostas imunológicas também são capazes de
+produzir lesões teciduais e doenças. Os distúrbios causados por respostas imunes são
+chamados de hipersensibilidade. As reações de hipersensibilidade se baseiam na observação de
+uma reação detectável quando um indivíduo é exposto a um determinado antígeno, e as
+reações são observadas nos encontros subsequentes com esse antígeno, tornando-o sensível e
+produzindo respostas inapropriadas e em excesso.
+(ABBAS, A.K.; LICHTMAN, A.H.; PILLAI, S. Imunologia Celular e Molecular. 8ᵃ Edição. Elsevier,
+2015).
+Analise o caso clínico a seguir:
+Um paciente chegou ao pronto-socorro com dificuldade para respirar e dores no peito. No
+primeiro momento, a plantonista suspeitou de infarto agudo do miocárdio; no entanto, foi
+observado que o paciente se encontrava com intenso prurido, associado ao relato de náuseas,
+vômito e tontura. O paciente informou que estava ingerindo camarões fritos cerca de uma hora
+antes do início das manifestações clínicas e que anteriormente já havia sentido sintomas
+semelhantes, mas que cessavam em aproximadamente uma a duas horas.
+Assinale a alternativa que descreva corretamente o tipo de reação de hipersensibilidade
+demonstrado na história.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 54 de 64
+
+Alternativas:
+(alternativa D) (CORRETA)
+Reação de hipersensibilidade imediata (Hipersensibilidade do tipo I), na qual pode ocorrer o
+choque anafilático, a resposta imune é mediada pelos linfócitos Th2, anticorpos IgE e mastócitos
+e resulta na liberação de mediadores, como a histamina, que atuam sobre os vasos e sobre a
+musculatura lisa, além de citocinas pró-inflamatórias, as quais recrutam novas células
+inflamatórias.
+
+Resposta comentada:
+Na reação de hipersensibilidade imediata (Hipersensibilidade do tipo I), na qual se manifestam
+de formas diferentes, dependendo dos tecidos afetados, incluindo erupções cutâneas na pele,
+congestão nasal, constrição brônquica, dor abdominal, diarreia e choque sistêmico. A resposta
+imune é mediada pelos linfócitos Th2, anticorpos IgE e mastócitos e resulta na liberação de
+mediadores, como a histamina, que atuam sobre os vasos e sobre a musculatura lisa, além de
+citocinas pró-inflamatórias, as quais recrutam novas células inflamatórias.
+Referência:
+ABBAS, A.K.; LICHTMAN, A.H.; PILLAI, S. Imunologia Celular e Molecular. 8ᵃ Edição. Elsevier,
+2015.
+44ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 55 de 64
+
+Enunciado:
+Módulo(s): SOI + IESC
+Uma beneficiária do Programa Bolsa Família, baixa renda, reside com seus cinco filhos na
+periferia de um município. A residência da família não possui água encanada nem rede de
+esgoto. Além da presença de fungos, o domicílio também apresenta poeira. Um dos filhos da
+beneficiária não está se sentindo bem, e precisou buscar atendimento médico na Unidade
+Básica de Saúde (UBS), apresentando coceira no nariz, olhos e garganta, vermelhidão nos
+olhos, coriza e espirros constantes.
+Diante desse caso, analise as afirmações a seguir:
+I – Esse filho teve uma reação de causa imunológica, mediada por anticorpos IgE, que se ligam à
+superfície de mastócitos e basófilos, promovendo a desgranulação dessas células e a liberação
+de mediadores, como a histamina, que provocam os sintomas apresentados.
+I – Anticorpos do tipo IgM e IgG se ligam aos antígenos presentes na superfície das células
+próprias. Essa ligação ativa a cascata do sistema do complemento e provoca a morte das
+células envolvidas, gerando os sintomas apresentados pelo filho.
+I – Segundo o modelo de Dahlgren e Whitehead, as condições socioeconômicas dessa família
+atuariam sobre a saúde da população de forma que os níveis de renda e de riqueza
+determinariam melhor ou pior saúde.
+É correto o que se afirma em
+Alternativas:
+(alternativa B) (CORRETA)
+I e I.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 56 de 64
+
+Resposta comentada:
+I e I.
+A reação alérgica observada no caso é de hipersensibilidade do tipo I. A reação é mediada por
+anticorpos IgE, que se ligam à superfície de mastócitos e basófilos, promovendo a
+desgranulação dessas células e a liberação de mediadores, como a histamina, que provocam os
+sintomas apresentados pelo filho da beneficiária.
+“Uma beneficiária do Programa Bolsa Família, baixa renda, reside com seus cinco filhos na
+periferia de um município. A residência da família não possui água encanada nem rede de
+esgoto. Além da presença de fungos, o domicílio também apresenta poeira.” Tal descrição se
+refere às condições socioeconômicas da família. Portanto, segundo o modelo de Dahlgren e
+Whitehead, as condições socioeconômicas dessa família atuariam sobre a saúde da população
+de forma que os níveis de renda e de riqueza determinariam melhor ou pior saúde.
+A I descreve hipersensibilidade do tipo I, mas, no caso, o morador apresenta hipersensibilidade
+do tipo I, uma alergia, descrita na assertiva I.
+REFERÊNCIAS:
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Celular e Molecular. Rio de
+Janeiro: Grupo GEN, 2023.
+COICO, Richard; SUNSHINE, Geoffrey. Imunologia. Rio de Janeiro: Grupo GEN, [s.d.].
+BUSS P. M.; PELLEGRINI FILHO, A. A saúde e seus determinantes sociais. PHYSIS: Rev. Saúde
+Coletiva, Rio de Janeiro, 17(1): 77-93, 2007.
+45ª QUESTÃO
+Enunciado:
+Módulo(s): MEP
+Observe os trechos a seguir:
+[...] As publicações no MEDLINE/PubMed foram identificadas pela seguinte estratégia de busca:
+("Breast Neoplasms"[Mesh] AND "Pregnancy Complications, Neoplastic"[Mesh]) [...]. Foram
+encontrados 76 artigos. Para a busca nas bases LILACS, SciELO e Cochrane e no Google
+acadêmico, foram utilizadas as seguintes palavras-chave: breast neoplasms, pregnancy,
+chemotherapy, câncer de mama, gravidez e quimioterapia, tendo sido encontrados mais dez
+artigos. [...]. A busca totalizou 86 artigos publicados entre 2001 e 2012. Os artigos foram
+avaliados por dois revisores obedecendo aos critérios de exclusão e inclusão preestabelecidos,
+resultando na seleção final de 27 artigos para a elaboração deste estudo [...].
+Quanto aos tipos de revisão que podem ser construídos, marque a alternativa que corresponde
+ao tipo de metodologia de revisão abordado no texto.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 57 de 64
+
+Alternativas:
+(alternativa C) (CORRETA)
+Revisão Sistemática.
+
+Resposta comentada:
+A resposta correta é a “Revisão Sistemática” que abrange um processo rigoroso de coleta,
+análise e síntese de evidências disponíveis sobre um tópico ou pergunta de pesquisa específica.
+Uma revisão sistemática começa com uma pergunta de pesquisa clara e bem definida. O
+objetivo é reunir todas as evidências relevantes sobre esse tópico. Os revisores conduzem uma
+busca sistemática e abrangente da literatura científica disponível em bancos de dados,
+bibliotecas e outras fontes com o objetivo de encontrar todos os estudos relevantes. Ainda, são
+estabelecidos critérios claros para a inclusão ou exclusão de estudos.
+Referência:
+GREENHALGH, T. Como Ler Artigos Científicos. Fundamentos da Medicina Baseada em
+Evidências. 5. ed. Porto Alegre: Artmed, 2015.
+46ª QUESTÃO
+Enunciado:
+Módulo(s): SOI
+O sistema digestório possui funções de digerir os alimentos até moléculas que sejam
+absorvíveis, além de promover a absorção de água, eletrólitos e excreção de resíduos,
+fornecendo, de maneira adequada, substâncias para que o organismo possa manter suas
+funções metabólicas. Além da digestão dos alimentos destaca-se ainda o papel da microbiota
+intestinal, um complexo sistema localizado no trato digestivo, que auxilia na síntese de algumas
+vitaminas e absorção de nutrientes.
+Sobre esses processos avalie as assertivas e a correlação entre elas.
+I - A ação de enzimas bem como as bactérias intestinais são fundamentais para a adequada
+função intestinal.
+PORQUE
+I – As substâncias ingeridas na alimentação encontram-se estruturalmente inadequadas para
+serem absorvidas, bem como apresentam ações bactericidas.
+A respeito das asserções acima, assinale a opção correta.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 58 de 64
+
+Alternativas:
+(alternativa A) (CORRETA)
+A asserção I é uma proposição verdadeira, e a I é uma proposição falsa.
+
+Resposta comentada:
+A asserção I é verdadeira, pois as enzimas digestivas, tais como proteases, lipases, e enzimas
+que degradam carboidratos são fundamentais para a quebra das moléculas para que sejam
+convertidas em unidades e assim possam ser absorvidas. Além disso, a microbiota intestinal
+desempenha um papel importante na digestão e absorção de certos nutrientes, na síntese de
+vitaminas, e na manutenção do equilíbrio intestinal.
+Já a asserção I é falsa, pois os alimentos não apresentam ações bactericidas, visto que os as
+substâncias são importantes nutrientes como proteínas, carboidratos, lipídios, eletrólitos,
+água, dentre outras.
+Referência:
+GUYTON, A.C. e Hall J.E.– Tratado de Fisiologia Médica. Editora Elsevier. 13ª ed., 2017. MENAKER, L. - Cáries Dentárias - Bases Biológicas.
+47ª QUESTÃO
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 59 de 64
+
+Enunciado:
+Módulo(s): IESC
+Por muitos anos, o direito à assistência à saúde foi restrito aos trabalhadores, e, ao longo da
+história, o modelo previdenciário deu espaço para a hegemonia do modelo médico assistencial
+privatista, com a criação do Sistema Nacional de Previdência e Assistência Social (SINPAS). Isso
+durou até 1988; em seguida, com a Constituição Federal (1988), que instituiu o SUS, a saúde
+virou direito do povo e dever do estado.
+Considerando os aspectos políticos, econômicos e sanitários da história das Políticas Públicas de
+Saúde no Brasil, julgue os itens a seguir:
+I – A Lei Eloy Chaves, que criou as Caixas de Aposentadoria e Pensões (CAPs), aconteceu no
+período conhecido como Brasil Império.
+I – A criação do Instituto Nacional de Previdência Social (INPS) aconteceu com a unificação das
+CAPs no período conhecido como República Velha.
+I – Os Institutos de Aposentadoria e Pensões (IAPs) foram unificados para criar o INPS no
+período conhecido como Era Vargas.
+IV – O surgimento do Sistema Nacional de Assistência e Previdência Social (SINPAS) criou o
+Instituto Nacional de Assistência Médica da Previdência (INAMPS) no período conhecido como
+Ditadura Militar.
+Está correto apenas o que se afirma em:
+
+Alternativas:
+.
+(alternativa C) (CORRETA)
+IV.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 60 de 64
+
+Resposta comentada:
+Alternativa correta: O surgimento do Sistema Nacional de Assistência e Previdência Social
+(SINPAS) criou o Instituto Nacional de Assistência Médica da Previdência (INAMPS) no período
+conhecido como Ditadura Militar.
+A Lei Eloy Chaves, que criou as Caixas de Aposentadoria e Pensões (CAPs), aconteceu no
+período conhecido como República velha.
+A criação dos Institutos de Aposentadoria e Pensões (IAPs) aconteceu com a unificação das
+CAPs no período conhecido como Era Vargas.
+Os Institutos de Aposentadoria e Pensões (IAPs) foram unificados para criar o INPS no período
+conhecido como Ditadura Militar.
+
+REFERÊNCIAS:
+ANDRADE L. O. M. et al. Política de saúde no Brasil. In: ROUQUAYROL, Maria Zélia; GURGEL,
+Marcelo. Epidemiologia e saúde. 8. ed. Rio de Janeiro: MedBook, 2018. p. 449-460.
+MOREIRA, Taís de, C. et al. Legislação do Sistema Único de Saúde. In: MOREIRA, Taís de, C. et
+al. Saúde coletiva. Grupo A, 2018. p. 91-100. Disponível em: Minha Biblioteca.
+SOLHA, Raphaela Karla de Toledo. Saúde coletiva para iniciantes. Políticas e práticas
+profissionais. 2 ed. Erica/Saraiva. Cap.2 e 3. E-book disponível em Minha biblioteca.
+Leitura complementar: ANDRADE, Selma Maffei de; SOARES, Darli Antonio; CORDONI JUNIOR,
+Luiz (Org.). Bases da saúde coletiva. Londrina: Ed. UEL, 2001. Cap.3, p. 46 a 53.
+48ª QUESTÃO
+Enunciado:
+Módulo(s): HAM
+Paciente M. A., sexo masculino, 63 anos chega na UBS com queixa de taquicardia e ansiedade.
+Relata ser hipertenso. Ao realizar exame físico o médico nota que seus pulsos não estão
+homólogos. Sobre os pulsos analise as afirmativas abaixo e assinale a alternativa correta.
+Alternativas:
+(alternativa D) (CORRETA)
+Nos idosos as artérias se tornam rígidas, tortuosas, endurecidas, com menor e pouco
+compressíveis em decorrência da arteriosclerose.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 61 de 64
+
+Resposta comentada:
+Ao longo dos anos, conforme vai aumentando o tamanho das células musculares do coração, o
+órgão tende a crescer e se tornar mais rígido. Além disso, suas paredes, artérias e arteríolas
+vão ficando mais espessas, o que pode tornar o trânsito sanguíneo um pouco mais lento.
+Semiologia Médica - Celmo Celeno Porto - 7ª Edição. 2013. Editora Guanabara Koogan.
+49ª QUESTÃO
+Enunciado:
+Módulo(s): SOI + HAM
+Durante uma aula prática sobre avaliação respiratória, o professor do primeiro período, da
+turma de Medicina, pediu aos alunos que fizessem 60 polichinelos. Logo ao fim do exercício,
+foram orientados a verificar quantas incursões respiratórias cada um tinha realizado durante um
+minuto. Todos os alunos informaram um número maior que 25 irpm (incursões respiratórias
+por minuto). Foi aí que o professor alertou: "todos vocês estão taquipneicos". Assustados, os
+alunos perguntaram ao professor se esse ritmo acelerado poderia ser por alguma disfunção
+respiratória, mas o professor tratou logo de tranquilizá-los e disse: "Calma, meus jovens, isso é
+uma resposta fisiológica normal ao exercício".
+Considerando essa situação, avalie as asserções a seguir e a relação proposta entre elas
+I. A realização do exercício de baixa intensidade produz modificações na dinâmica respiratória
+que se traduzem em taquipneia e hiperpneia (aumento na frequência e na amplitude
+respiratórias, respectivamente)
+PORQUE
+I. a hiperpneia garante um aumento do VC (Volume Corrente), que melhora a eficiência da
+ventilação alveolar (hematose), satisfazendo assim a necessidade da demanda de O2 no
+sistema muscular durante a atividade física.
+A respeito dessas asserções, assinale a opção correta.
+Alternativas:
+(alternativa D) (CORRETA)
+As asserções I e I são proposições verdadeiras, e a I é uma justificativa correta da I.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 62 de 64
+
+Resposta comentada:
+A alternativa correta é a que indica que ambas asserções estão corretas e a asserção I
+justifica corretamente a asserção I. O aumento do volume corrente durante o exercício está
+relacionado com a hiperpneia, ou seja, com o aumento da profundidade da respiração. Esse
+aumento da amplitude respiratória reflete diretamente no aumento da relação ventilaçãoperfusão e consequentemente das trocas gasosas (hematose). Assim, as demandas de
+oxigênio conseguem atender às necessidades dos músculos durante o exercício físico.
+Referências:
+Silverthorn, Dee U. Fisiologia humana. Disponível em: Minha Biblioteca, (7ª edição). Grupo A.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582714041/cfi/0!/4/2@100:0.00
+https://afh.bio.br/sistemas/respiratorio/2.php
+https://portalrevistas.ucb.br/index.php/RBCM/article/view/637/648
+https://www.scielo.br/j/rbfis/a/gsyXpLD5C8LPktT8bnBkcKG/?format=pdf&lang=pt
+
+50ª QUESTÃO
+Enunciado:
+Módulo(s): SOI + HAM + IESC + MEP
+Em um atendimento na Unidade Básica de Saúde, um acadêmico do curso de Medicina, no
+exame físico do seu paciente, realiza a técnica de aferição da pressão arterial (PA). Uma
+colega, também acadêmica do curso, interrompe o procedimento, alegando que a técnica não
+estava adequada.
+Com base no acontecimento apresentado nessa cena, analise as assertivas a seguir:
+I – A acadêmica estava correta ao corrigir o colega durante o procedimento de aferição da
+pressão arterial, pois o paciente não pode ser prejudicado por uma conduta errada do colega.
+PORQUE
+I – Segundo os princípios da bioética da não maleficência e da beneficência, os profissionais de
+saúde devem fazer o possível para evitar danos intencionais aos pacientes.
+A respeito das asserções, assinale a alternativa correta.
+Alternativas:
+
+(alternativa D) (CORRETA)
+As asserções I e I são proposições verdadeiras, e a I é uma justificativa correta da I.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 63 de 64
+
+Resposta comentada:
+Alternativa correta: As asserções I e I são proposições verdadeiras, e a I é uma justificativa
+correta da I.
+Com base nas seguintes fundamentaões do Código de Ética do Estudante de Medicina:
+Art. 27: O acadêmico de Medicina deve compreender as individualidades no processo de ensino
+e aprendizagem de seus pares e não os recriminar ou constrangê-los por eventuais dificuldades
+de aprendizado.
+Art. 42: O estudante de medicina deve relacionar-se de maneira respeitosa e integrada com
+estudantes de diferentes graduações, buscando fomentar, desde o início de sua formação, o
+trabalho em equipe.
+Art. 43: O estudante de medicina deve respeitar a atuação de cada profissional no atendimento
+multiprofissional ao paciente.
+REFERÊNCIAS:
+CONSELHO FEDERAL DE MEDICINA. Código de ética do estudante de medicina. Brasília, DF:
+CFM, 2018.
+CONSELHO REGIONAL DE MEDICINA DO ESTADO DE SÃO PAULO. Código de ética do
+estudante de medicina. São Paulo: Conselho Regional de Medicina do Estado de São Paulo;
+Comissão de Pesquisa e Educação Médica do Cremesp – Gestão 2013/2018. 2015.
+20p.
+
+000100.750011.69f796.5c02e4.cc6613.7b3994.c76c90.268b7
+
+Pgina 64 de 64
+
+

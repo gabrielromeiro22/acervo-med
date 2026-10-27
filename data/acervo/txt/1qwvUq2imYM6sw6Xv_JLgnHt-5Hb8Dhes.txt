@@ -1,0 +1,635 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade
+VII
+Professor (es):
+
+Período: 202601
+
+Turma:
+
+Data: 06/04/2026
+
+N1 ESPECÍFICA - MEDICINA - IESC VII - 2026.1 1ª CHAMADA - 06/ABRIL
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19120 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Homem de 35 anos, vivendo em situação de rua, procura a
+Unidade Básica de Saúde por tosse há 2 semanas, hiporexia e febre vespertina.
+Nega perda de peso. Exame físico sem alterações relevantes.
+
+acervo.vip
+
+Com base nas recomendações do Ministério da Saúde do Brasil, identifique a
+alternativa com exames que devem ser solicitados para a investigação inicial deste
+paciente.
+Alternativas:
+(alternativa A)
+Prova cutânea tuberculínica, tomografia computadorizada de tórax e baciloscopia
+direta de escarro.
+(alternativa B)
+IGRA (Interferon-Gamma Release Assay), tomografia computadorizada de tórax e
+baciloscopia direta de escarro.
+(alternativa C)
+Prova tuberculínica, IGRA (Interferon-Gamma Release Assay) e radiografia de tórax
+póstero-anterior e perfil.
+(alternativa D) (CORRETA)
+Radiografia de tórax, TRM-TB (Teste Rápido Molecular para Tuberculose) e cultura
+para micobactérias.
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 1 de 15
+
+Resposta comentada:
+Prova tuberculínica, IGRA e radiografia de tórax.
+Inclui a radiografia, que é recomendada, mas tanto a prova tuberculínica quanto o
+IGRA são utilizados para diagnóstico de infecção latente, não de doença ativa, por
+isso não são adequados na investigação inicial.
+IGRA, tomografia de tórax e baciloscopia de escarro.
+A baciloscopia de escarro é um exame válido, mas o IGRA não é indicado para
+tuberculose ativa. A tomografia computadorizada (TC) do tórax é mais sensível para
+alterações anatômicas e pode ser útil quando a radiografia inicial é normal ou na
+diferenciação com outras doenças torácicas, especialmente em imunossuprimidos.
+Não é, porém, exame inicial na atenção primária.
+Prova tuberculínica, tomografia de tórax e baciloscopia de escarro.
+Inclui a baciloscopia de escarro, que é adequada, mas a prova tuberculínica não se
+aplica na investigação inicial da tuberculose ativa. A TC de tórax é indicada em
+situações específicas (ex.: radiografia normal ou pacientes imunossuprimidos), não
+substituindo os exames básicos recomendados.
+Radiografia de tórax, TRM-TB e cultura para micobactérias.
+Correta. Essa é a recomendação do Ministério da Saúde para investigação inicial. A
+radiografia é o exame de imagem inicial, o TRM-TB é o teste rápido molecular de
+escolha e a cultura complementa a investigação, especialmente em populações
+vulneráveis.
+Referência:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Programa Nacional
+de Controle da Tuberculose. Manual de Recomendações do Programa Nacional de
+Controle da Tuberculose. 2. ed., atualizada. Brasília, DF: Ministério da Saúde, 2019.
+364 p. Disponível em: https://www.gov.br/saude/pt-br/centrais-deconteudo/publicacoes/svsa/tuberculose/manual-de-recomendacoes-e-controle-datuberculose-no-brasil-2a-ed.pdf/view. Acesso em: 29 ago. 2025.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA VITÓRIA DA CONQUISTA) Homem de 29 anos realiza avaliação médica
+admissional para ingresso em empresa da área da saúde. Nega comorbidades, uso
+de medicações ou história prévia de icterícia. Relata vida sexual ativa, com
+múltiplos parceiros no passado, sem uso regular de preservativo. Refere ter
+recebido vacinas na infância, mas não sabe informar se completou esquema para
+hepatite B.
+Exame físico sem alterações. Aminotransferases dentro da normalidade.
+Sorologias atuais:
+HBsAg: negativo;
+Anti-HBs: 120 mUI/mL;
+Anti-HBc total: positivo;
+Anti-HBc IgM: negativo.
+Com base nos achados clínico-laboratoriais, assinale a alternativa correta.
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 2 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+O paciente apresenta infecção prévia por hepatite B, com imunidade adquirida.
+(alternativa B)
+Trata-se de hepatite B aguda em fase de resolução.
+(alternativa C)
+O perfil sorológico indica vacinação prévia contra hepatite B.
+(alternativa D)
+O resultado é compatível com janela imunológica.
+
+Resposta comentada:
+Resposta correta: O paciente apresenta infecção prévia por hepatite B, com
+imunidade adquirida.
+O perfil sorológico demonstra:
+HBsAg negativo → não há infecção ativa.
+Anti-HBs positivo (120 mUI/mL) → há imunidade.
+Anti-HBc total positivo → houve contato prévio com o vírus.
+Anti-HBc IgM negativo → não se trata de infecção recente.
+Portanto, o paciente teve infecção passada pelo vírus da hepatite B e evoluiu com
+cura, adquirindo imunidade natural. O Anti-HBs isolado positivo indica vacinação.
+Na questão temos Anti-HBc positivo, o que indica contato prévio com o vírus.
+Análise das demais alternativas:
+Alternativa incorreta: O perfil sorológico indica vacinação prévia contra hepatite B.
+Justificativa: na vacinação prévia isolada, espera-se Anti-HBs positivo e Anti-HBc
+negativo, pois a vacina contém apenas o antígeno de superfície (HBsAg) e não
+induz produção de Anti-HBc.
+Alternativa incorreta: Trata-se de hepatite B aguda em fase de resolução.
+Justificativa: na hepatite B aguda, especialmente em fase recente, o Anti-HBc IgM
+estaria positivo. Neste caso, ele é negativo.
+Alternativa incorreta: O resultado é compatível com janela imunológica.
+Justificativa: na janela imunológica, o HBsAg já desapareceu e o Anti-HBs ainda não
+surgiu, sendo o Anti-HBc IgM o principal marcador positivo. Neste caso, há Anti-HBs
+positivo e IgM negativo, afastando essa hipótese.
+Referência:
+GUSSO, Gustavo; LOPES, José M. C.; DIAS, Lêda C. Tratado de Medicina de Família e
+Comunidade — 2 volumes: princípios, formação e prática. 2. ed. Porto Alegre:
+ArtMed, 2019. E-book. p.i. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso
+em: 28 fev. 2026.
+Feedback:
+-3ª QUESTÃO
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 3 de 15
+
+Enunciado:
+(AFYA MARABÁ) Masculino, 28 anos, apresenta há 3 dias mal-estar, náuseas, dor no
+hipocôndrio direito e icterícia. Refere viagem à região com saneamento precário 2
+semanas antes.
+Exame físico: T 37,8 °C; icterícia escleral e cutânea; dor à palpação profunda em
+HCD; fígado palpável 2 cm abaixo do rebordo costal direito.
+Exames laboratoriais:
+ALT = 1.200 U/L (VR: 7–56 U/L).
+AST = 950 U/L (VR: 10–40 U/L).
+Bilirrubina total = 5,2 mg/dL (VR: 0,3–1,2 mg/dL).
+IgM anti-HAV positivo; HBsAg e anti-HCV negativos.
+Assinale a alternativa que descreve corretamente o modo de transmissão, aspectos
+clínicos e conduta na Atenção Primária para esta doença.
+Alternativas:
+(alternativa A)
+Transmissão parenteral/sexual; curso subagudo sem icterícia franca; manejo exige
+antivirais orais imediatos e notificação ao CTA.
+(alternativa B) (CORRETA)
+Transmissão fecal-oral; apresentação aguda com icterícia, dor em HCD e ALT/AST >
+1.000 U/L; manejo inclui suporte clínico e profilaxia ativa (vacina) e passiva
+(imunoglobulina) em contatos.
+(alternativa C)
+Transmissão fecal-oral em água contaminada; grave em gestantes, mas manejo é
+somente suporte clínico, sem vacina ou imunoglobulina.
+(alternativa D)
+Transmissão percutânea em usuários de drogas injetáveis; assintomática no agudo;
+conduta restrita a especialistas com solicitação de HCV-RNA e DAA.
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 4 de 15
+
+Resposta comentada:
+Justificativas.
+Transmissão fecal-oral; apresentação aguda com icterícia, dor em HCD e ALT/AST >
+1.000 U/L; manejo inclui suporte clínico e profilaxia ativa (vacina) e passiva
+(imunoglobulina) em contatos. Correta.
+Transmissão fecal-oral: típica da hepatite A em áreas com saneamento precário.
+Clínica: início agudo com mal-estar, icterícia escleral, dor em HCD, AST/ALT > 1 000
+U/L.
+Conduta APS: tratamento de suporte (hidratação, dieta leve), vacinação de
+suscetíveis e imunoglobulina em contatos próximos.
+Transmissão parenteral/sexual; curso subagudo sem icterícia franca; manejo exige
+antivirais orais imediatos e notificação ao CTA. Falsa.
+Descreve hepatite B, que costuma ter curso menos abrupto e indicação de
+antivirais e CTA mais tardia.
+Transmissão percutânea em usuários de drogas injetáveis; assintomática no agudo;
+conduta restrita a especialistas com solicitação de HCV-RNA e DAA. Falsa.
+Corresponde à hepatite C, frequentemente assintomática no agudo, e manejo
+especializado com antivirais de ação direta (DAA).
+Transmissão fecal-oral em água contaminada; grave em gestantes, mas manejo é
+somente suporte clínico, sem vacina ou imunoglobulina. Falsa.
+Refere-se à hepatite E; não há vacina ou imunoglobulina disponível no Brasil e o
+protocolo APS não inclui profilaxia ativa/passiva.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo de Vigilância em Saúde: Hepatites Virais. 4.
+ed. Brasília: MS, 2021.
+WORLD HEALTH ORGANIZATION. Hepatitis A fact sheet. Genebra: OMS, 2023.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA MONTES CLAROS) Em uma Unidade Básica de Saúde, um homem de 62 anos,
+hipertenso e diabético, procura atendimento com queixa de dor torácica iniciada há
+40 minutos, em aperto, irradiando para o braço esquerdo, associada a sudorese fria
+e náuseas.
+Ao exame:
+•
+
+PA: 150/90 mmHg.
+
+•
+
+FC: 102 bpm.
+
+•
+
+Saturação: 93% em ar ambiente.
+
+•
+
+Paciente ansioso e pálido.
+
+Considerando o contexto da Estratégia Saúde da Família e os achados clínicos
+apresentados, a situação caracteriza-se como:
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 5 de 15
+
+Alternativas:
+(alternativa A)
+Síndrome ansiosa aguda - tranquilizar o paciente e orientar retorno se os sintomas
+persistirem.
+(alternativa B) (CORRETA)
+Emergência cardiovascular - iniciar protocolo de dor torácica, administrar AAS
+imediatamente e acionar transporte para unidade hospitalar.
+(alternativa C)
+Urgência hipertensiva - administrar anti-hipertensivo oral e reavaliar em 60 minutos
+antes de qualquer encaminhamento.
+(alternativa D)
+Urgência clínica - manter observação na unidade, administrar analgésico comum e
+aguardar melhora espontânea.
+
+Resposta comentada:
+. Urgência clínica: manter observação na unidade, administrar analgésico comum e
+aguardar melhora espontânea. Errada.
+Quadro típico de síndrome coronariana aguda. Dor torácica típica + fatores de risco
++ sinais autonômicos → não é caso de observação simples. Conduta inadequada e
+potencialmente grave.
+. Emergência cardiovascular: iniciar protocolo de dor torácica, administrar AAS
+imediatamente e acionar transporte para unidade hospitalar. Correta.
+Achados compatíveis com emergência cardiovascular (suspeita de IAM). Na APS
+deve-se: - Reconhecer quadro de risco imediato; - Iniciar medidas iniciais (AAS se
+não contraindicado); - Oxigênio se necessário; - Acionar
+regulação/encaminhamento imediato; - Não retardar transferência.
+. Urgência hipertensiva: administrar anti-hipertensivo oral e reavaliar em 60
+minutos antes de qualquer encaminhamento. Errada.
+Não se trata de urgência hipertensiva. A dor torácica é o elemento central, não a
+pressão arterial isolada. Redução pressórica isolada pode atrasar diagnóstico e
+piorar prognóstico.
+. Síndrome ansiosa aguda; tranquilizar o paciente e orientar retorno se os sintomas
+persistirem. Errada.
+Quadro apresenta sinais clássicos de síndrome coronariana. Tratar como ansiedade
+seria erro grave de julgamento clínico.
+Referências:
+Brasil. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de
+Atenção Especializada. Manual instrutivo da Rede de Atenção às Urgências e
+Emergências no Sistema Único de Saúde (SUS) / Ministério da Saúde, Secretaria de
+Atenção à Saúde, Departamento de Atenção Especializada. – Brasília: Editora do
+Ministério da Saúde, 2013.
+GUSSO, G. et al. Tratado de Medicina de Família e Comunidade — 2 volumes:
+princípios, formação e prática. Disponível em: Minha Biblioteca (2.ª edição). Grupo
+A, 2019. (Cap. 250) Emergência pré-hospitalar.
+DUCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas
+em evidências. Disponível em: Minha Biblioteca (5.ª edição). Grupo A, 2022. (Cap.
+194).
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 6 de 15
+
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(AFYA VITÓRIA DA CONQUISTA) Em uma Unidade Básica de Saúde (UBS), Carlos, 24
+anos, procura atendimento 36 horas após relação sexual desprotegida com parceiro
+ocasional de sorologia desconhecida. Refere não uso de preservativo regularmente.
+Nega diagnóstico prévio de HIV e afirma ter realizado teste rápido há cerca de 1
+ano, com resultado negativo.
+Encontra-se assintomático, sem sinais de infecção aguda. A UBS dispõe de teste
+rápido para HIV e dos medicamentos para profilaxia pós-exposição (PEP).
+Considerando as recomendações atuais para manejo da exposição ao HIV na
+Atenção Primária à Saúde, assinale a alternativa correta:
+Alternativas:
+(alternativa A)
+Deve-se aguardar 30 dias para realização de sorologia convencional (ELISA) e
+somente iniciar tratamento caso o resultado seja positivo.
+(alternativa B)
+Caso o teste rápido seja negativo, descarta-se infecção e não há necessidade de
+acompanhamento posterior.
+(alternativa C) (CORRETA)
+Está indicada a realização imediata de teste rápido para HIV; se negativo, deve-se
+iniciar PEP, pois o paciente encontra-se dentro da janela para fazê-la.
+(alternativa D)
+A PEP só está indicada se o parceiro for comprovadamente HIV positivo com carga
+viral detectável.
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 7 de 15
+
+Resposta comentada:
+Resposta correta: Está indicada a realização imediata de teste rápido para HIV; se
+negativo, deve-se iniciar PEP, pois o paciente encontra-se dentro da janela para
+fazê-la.
+O paciente apresenta exposição sexual de alto risco (relação anal receptiva sem
+preservativo) ocorrida há 36 horas, dentro do período recomendado para início da
+profilaxia pós-exposição (até 72 horas).
+Na APS, a conduta inclui:
+Avaliação do risco da exposição;
+Testagem imediata com teste rápido para HIV;
+Início oportuno da PEP se teste inicial negativo e exposição considerada
+significativa;
+Orientação quanto à adesão ao esquema por 28 dias;
+Acompanhamento clínico e laboratorial subsequente (incluindo testagem em
+momentos preconizados).
+A PEP não deve ser postergada aguardando exames do parceiro-fonte. Mesmo com
+teste inicial negativo, é necessário seguimento devido ao período de janela
+imunológica.
+Análise das demais alternativas
+Alternativa incorreta: Deve-se aguardar 30 dias para realização de sorologia
+convencional (ELISA) e somente iniciar tratamento caso o resultado seja positivo.
+Justificativa: a PEP é medida preventiva e deve ser iniciada o mais precocemente
+possível, idealmente nas primeiras horas e até 72 horas após a exposição. Aguardar
+sorologia compromete a eficácia da profilaxia.
+Alternativa incorreta: A PEP só está indicada se o parceiro for comprovadamente
+HIV positivo com carga viral detectável.
+Justificativa: quando o parceiro tem sorologia desconhecida e a exposição é de alto
+risco, a PEP está indicada. Não é necessário confirmação prévia do estado
+sorológico do parceiro.
+Alternativa incorreta: Caso o teste rápido seja negativo, descarta-se infecção e não
+há necessidade de acompanhamento posterior.
+Justificativa: o teste rápido negativo não exclui infecção muito recente. O paciente
+deve ser acompanhado com testagens subsequentes conforme protocolo.
+REFERÊNCIAS
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Complexo
+da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Protocolo Clínico e
+Diretrizes Terapêuticas para Profilaxia Pós-Exposição de Risco (PEP) à Infecção por
+HIV, ISTs e Hepatites Virais [recurso eletrônico] / Ministério da Saúde, Secretaria de
+Ciência, Tecnologia, Inovação e Complexo da Saúde, Secretaria de Vigilância em
+Saúde e Ambiente. – Brasília : Ministério da Saúde, 2024.
+BRASIL. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e
+Complexo da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Protocolo
+Clínico e Diretrizes Terapêuticas para Manejo da Infecção pelo HIV em Adultos:
+Módulo 1: Tratamento / Ministério da Saúde, Secretaria de Ciência, Tecnologia,
+Inovação e Complexo da Saúde, Secretaria de Vigilância em Saúde e Ambiente. –
+Brasília: Ministério da Saúde, 2024. 116 p. Disponível em:
+PCDT_HIV_modulo_1_2024.indd
+DUNCAN, Bruce B.; SCHMIDT, Maria I.; GIUGLIANI, Elsa R J.; et al. Medicina
+ambulatorial: condutas de atenção primária baseadas em evidências. 5th ed. Porto
+Alegre: ArtMed, 2022. E-book. p.799. ISBN 9786558820437. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820437/.
+Feedback:
+-000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 8 de 15
+
+6ª QUESTÃO
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Na Atenção Primária à Saúde (APS), reconhecer sinais e
+sintomas que indicam situações de urgência ou emergência é essencial para
+garantir o atendimento adequado. Neste sentido, analise as alternativas abaixo e
+assinale aquela que contempla um caso que apresenta sinais clínicos sugestivos de
+maior gravidade, constituindo uma emergência médica.
+Alternativas:
+(alternativa A)
+Paciente de 40 anos com dor abdominal difusa, febre de 37,9 ºC, sem sinais de
+irritação peritoneal e relato de um episódio de vômitos na última hora.
+(alternativa B)
+Paciente de 35 anos com cefaleia frontal leve, acompanhada de congestão
+nasal, febre de 38 ºC há 2 dias e relato de mal-estar geral.
+(alternativa C)
+Paciente de 60 anos com dor torácica que piora com a respiração, acompanhada de
+tosse produtiva com expectoração amarelada há 3 dias.
+(alternativa D) (CORRETA)
+Paciente de 28 anos com episódio de síncope seguido de confusão mental, pressão
+arterial de 85/50 mmHg e sudorese intensa.
+
+Resposta comentada:
+A assertiva "Paciente de 60 anos com dor torácica que piora com a respiração,
+acompanhada de tosse produtiva com expectoração amarelada há 3 dias." está
+incorreta. O quadro é sugestivo de infecção do trato respiratório inferior (possível
+pneumonia), que pode requerer intervenção, mas não apresenta sinais claros de
+descompensação hemodinâmica ou respiratória grave.
+A assertiva "Paciente de 40 anos com dor abdominal difusa, febre de 37,9ºC, sem
+sinais de irritação peritoneal e relato de um episódio de vômitos na última hora."
+está incorreta. O quadro de dor abdominal e febre leve não sugere uma emergência
+clara, pois não há sinais de irritação peritoneal ou instabilidade hemodinâmica.
+A assertiva "Paciente de 28 anos com episódio de síncope seguido de confusão
+mental, pressão arterial de 85/50 mmHg e sudorese intensa." está correta. Episódio
+de síncope associado a hipotensão, confusão mental e sudorese intensa são
+indicativos de emergência, demandando atenção imediata.
+A assertiva "Paciente de 35 anos com cefaleia frontal leve, acompanhada de
+congestão nasal, febre de 38 ºC há 2 dias e relato de mal-estar geral." está
+incorreta. Sintomas como cefaleia leve e febre são compatíveis com quadro
+infeccioso leve, sem indicação de emergência.
+Referências:
+Gusso, G., et al. Tratado de Medicina de Família e Comunidade - Princípios,
+Formação e Prática. 2.ª ed. Grupo A, 2019. Capítulo 250: Emergência PréHospitalar.
+Duncan, B. B., et al. Medicina Ambulatorial: Condutas de Atenção Primária Baseadas
+em Evidências. 5.ª ed. Grupo A, 2022. Capítulo 194.
+Feedback:
+
+7ª QUESTÃO
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 9 de 15
+
+Enunciado:
+(AFYA ITACOATIARA) Na Atenção Primária à Saúde (APS), um paciente de 35 anos
+procura atendimento relatando manchas claras na pele há cerca de 6 meses. Ao
+exame físico, o médico observa três manchas hipocrômicas bem delimitadas no
+tronco, com diminuição da sensibilidade térmica e dolorosa. Não há espessamento
+de nervos periféricos palpáveis e não há outras queixas sistêmicas.
+Com base no caso clínico apresentado, classifique a hanseníase e indique a conduta
+terapêutica adequada na APS.
+Alternativas:
+(alternativa A)
+Caso suspeito sem confirmação; solicitar baciloscopia antes de iniciar tratamento.
+(alternativa B)
+Hanseníase multibacilar; iniciar poliquimioterapia (PQT-MB) por 12 meses.
+(alternativa C)
+Dermatose inespecífica; prescrever corticoide tópico e reavaliar em 30 dias.
+(alternativa D) (CORRETA)
+Hanseníase paucibacilar; iniciar poliquimioterapia (PQT-PB) por 6 meses.
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 10 de 15
+
+Resposta comentada:
+Hanseníase paucibacilar; iniciar poliquimioterapia (PQT-PB) por 6 meses.
+Alternativa correta. A presença de até 5 lesões cutâneas com alteração de
+sensibilidade caracteriza hanseníase paucibacilar (PB). O tratamento indicado é a
+poliquimioterapia padrão PB por 6 meses, disponível na APS.
+Hanseníase multibacilar; iniciar poliquimioterapia (PQT-MB) por 12 meses.
+Alternativa incorreta. A forma multibacilar (MB) é caracterizada por mais de 5 lesões
+ou baciloscopia positiva. O caso apresenta apenas três lesões, classificando-se
+como PB.
+Caso suspeito sem confirmação; solicitar baciloscopia antes de iniciar tratamento.
+Alternativa incorreta. O diagnóstico de hanseníase é clínico-epidemiológico. Não é
+necessário aguardar baciloscopia para iniciar tratamento quando os critérios clínicos
+estão presentes.
+Dermatose inespecífica; prescrever corticoide tópico e reavaliar em 30 dias.
+Alternativa incorreta. A presença de alteração de sensibilidade é sinal cardinal da
+hanseníase. O tratamento não deve ser postergado.
+Referências:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente.
+Departamento de Doenças Transmissíveis. Estratégia Nacional para Enfrentamento
+à Hanseníase 2024-2030 [recurso eletrônico] / Ministério da Saúde, Secretaria de
+Vigilância em Saúde e Ambiente, Departamento de Doenças Transmissíveis. –
+Brasília: Ministério da Saúde, 2024). Acesso em: 22 out. 2025.
+BRASIL. Ministério da Saúde, Secretaria de Vigilância em Saúde e Ambiente,
+Departamento de Doenças Transmissíveis, Coordenação-Geral de Vigilância das
+Doenças em Eliminação. NOTA TÉCNICA Nº 3/2023-CGDE/DEDT/SVSA/MS. Disponível
+em: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notastecnicas/2023/copy_of_nota-tecnica-no-3-2023-cgde-dedt-svsa-ms. Acesso em: 22
+out. 2025.
+GUSSO, G. et al. Tratado de Medicina de Família e Comunidade — 2 volumes:
+princípios, formação e prática. Disponível em: Minha Biblioteca (2.ª edição). Grupo
+A, 2019. Cap. 205. ). Acesso em: 22 out. 2025.
+DUCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas
+em evidências. Disponível em: Minha Biblioteca (5.ª edição). Grupo A, 2022. (Cap.
+165). ). Acesso em: 22 out. 2025.
+Feedback:
+-8ª QUESTÃO
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 11 de 15
+
+Enunciado:
+(AFYA MARABÁ) Homem, 24 anos, previamente hígido, procura a UBS relatando
+corrimento uretral iniciado há 3 dias, associado a disúria e prurido uretral. Nega
+febre, dor testicular ou lesões cutâneas. Refere relação sexual vaginal e oral
+desprotegida há cerca de 10 dias com parceira eventual. Não sabe o estado
+sorológico da parceira. Relata episódio semelhante há 1 ano, tratado em UPA com
+antibiótico injetável, mas não lembra qual. Não realizou testagem para ISTs desde
+então.
+Ao exame físico:
+Afebril, bom estado geral;
+Meato uretral hiperemiado;
+Secreção espessa, amarelada, purulenta, exteriorizada à ordenha;
+Sem lesões penianas, sem linfonodomegalias inguinais dolorosas;
+Testículos indolores.
+Considerando o contexto da Atenção Primária à Saúde, a abordagem sindrômica
+preconizada e a necessidade de prevenção de complicações e transmissão, qual é a
+conduta mais adequada?
+Alternativas:
+(alternativa A)
+Prescrever azitromicina em dose única e agendar retorno para reavaliação clínica
+em sete dias, ampliando tratamento apenas se não houver melhora.
+(alternativa B) (CORRETA)
+Iniciar tratamento empírico para gonorreia e clamídia conforme protocolo vigente,
+orientar abstinência sexual até conclusão do tratamento, manejo de parcerias e
+ofertar testagem para outras ISTs.
+
+(alternativa C)
+Realizar testagem para HIV e sífilis e programar tratamento direcionado após
+definição etiológica, considerando ausência de sinais sistêmicos de gravidade.
+(alternativa D)
+Solicitar pesquisa etiológica com teste molecular para gonorreia e clamídia e
+aguardar resultado antes de iniciar tratamento específico.
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 12 de 15
+
+Resposta comentada:
+O quadro clínico apresentado (corrimento uretral purulento + disúria + relação
+sexual desprotegida recente) caracteriza síndrome de uretrite, cuja etiologia mais
+frequente é:
+• Neisseria gonorrhoeae
+• Chlamydia trachomatis
+De acordo com o PCDT IST – Ministério da Saúde (2022):
+• A abordagem na APS deve ser sindrômica, sem aguardar confirmação
+laboratorial.
+• O tratamento deve cobrir simultaneamente gonorreia e clamídia, devido à alta
+coinfecção.
+• Não se deve postergar o tratamento aguardando exames.
+• Deve-se realizar:
+• Manejo e tratamento de parcerias sexuais.
+• Orientação sobre abstinência até resolução.
+• Oferta de testagem para HIV, sífilis e hepatites.
+Referência:
+Brasil. Ministério da Saúde. PCDT IST, 2022.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(AFYA BRAGANÇA) Durante o atendimento em uma Unidade de Saúde da Família
+(USF), um agente comunitário de saúde chega à sala de enfermagem trazendo um
+paciente de 60 anos, que foi encontrado caído em frente à unidade, inconsciente e
+sem sinais evidentes de respiração. A equipe de saúde se organiza para prestar o
+primeiro atendimento no local. O médico da equipe da ESF é acionado
+imediatamente para atuar na emergência.
+Considerando a atuação do médico na Atenção Primária à Saúde (APS) em
+situações de urgência, responda aos itens a seguir.
+a) Descreva as etapas do atendimento inicial conforme o protocolo do Suporte
+Básico de Vida (SBV) que devem ser realizadas pela equipe da APS neste cenário.
+(0,75 ponto)
+b) Indique os critérios clínicos que justificam o encaminhamento imediato deste
+paciente e qual a conduta correta de regulação e transporte a ser adotada nesse
+tipo de emergência. (0,75 ponto)
+Alternativas:
+--
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 13 de 15
+
+Resposta comentada:
+Resposta padrão esperada:
+a)
+Verificação da segurança da cena;
+Avaliação da responsividade do paciente com estímulo verbal e físico;
+Chamar por ajuda e acionar o serviço de emergência (SAMU – 192);
+Avaliação da respiração e pulso por no máximo 10 segundos;
+Início da RCP com compressões torácicas de alta qualidade (30:2), com
+profundidade adequada, retorno torácico completo e ritmo eficiente;
+Caso disponível, uso de DEA (Desfibrilador Externo Automático) com seguimento
+das orientações do aparelho.
+b)
+Critérios clínicos para encaminhamento: paciente inconsciente, apneico, ausência
+de pulso central palpável, configurando parada cardiorrespiratória (PCR);
+Conduta: acionar imediatamente a Central de Regulação Médica de Urgência (SAMU
+192), manter manobras de SBV até chegada da equipe de suporte avançado,
+garantir via aérea aberta e acesso a desfibrilação precoce, se disponível. O
+transporte deve ser feito por equipe com capacidade de suporte avançado de vida.
+Referência:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (orgs.). Tratado de Medicina de Família
+e Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019. 2
+v.
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(AFYA UNIGRANRIO DUQUE DE CAXIAS) Fernando, 32 anos, procura a Unidade
+Básica de Saúde (UBS) relatando o aparecimento de uma "ferida" no corpo do pênis
+há cerca de 10 dias. Refere que a lesão não dói nem sangra e que surgiu após
+relação sexual desprotegida há aproximadamente 3 semanas. Ao exame físico,
+observa-se uma lesão ulcerada única, com bordas endurecidas, fundo limpo e
+indolor. O paciente nega outros sintomas, mas relata ter tido um episódio
+semelhante há 2 anos, tratado com "uma injeção" na farmácia.
+Com base no caso e no protocolo sindrômico do Ministério da Saúde, responda aos
+itens a seguir.
+a) Qual é a hipótese diagnóstica principal? Indique dois exames laboratoriais
+essenciais para confirmar este diagnóstico.
+b) Qual é o tratamento indicado para este paciente?
+Alternativas:
+--
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 14 de 15
+
+Resposta comentada:
+a) Diagnóstico / Hipótese Principal: Sífilis Primária.
+Exames para confirmação: Teste Treponêmico Rápido (TR) — (ex: Teste Rápido
+Sífilis). Exame não treponêmico (VDRL).
+A microscopia de campo escuro é o padrão-ouro para sífilis primária, mas o teste
+rápido é o mais indicado no Brasil.
+Rastreio (outras ISTs): Testes rápidos para HIV, hepatite B (HBsAg) e hepatite C
+(anti-HCV).
+b) Tratamento e Manejo:
+Tratamento: Penicilina Benzatina 2.400.000 UI, via intramuscular (IM), dose única
+(1.200.000 UI em cada glúteo).
+Manejo do parceiro: Todos os parceiros sexuais dos últimos 90 dias devem ser
+convocados, mesmo na ausência de sintomas (tratamento epidemiológico), para
+avaliação clínica, exames (testes rápidos) e tratamento.
+Referências:
+GUSSO, G. et al. Tratado de Medicina de Família e Comunidade — 2 volumes:
+princípios, formação e prática. Disponível em: Minha Biblioteca (2.ª edição). Grupo
+A, 2019. Cap. 140.
+DUCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas
+em evidências. Disponível em: Minha Biblioteca (5.ª edição). Grupo A, 2022. (Cap.
+155).
+Feedback:
+--
+
+000191.200019.50620a.6c196a.7f6ce5.ea431f.abd5e0.82a0f
+
+Página 15 de 15
+
+

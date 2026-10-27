@@ -1,0 +1,551 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade II
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_2 PERIODO_08ABRIL_2025.1_IESC
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15491 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(FESAR) Um paciente de 60 anos, portador de diabetes mellitus tipo 2 há 15 anos, procura
+atendimento médico para acompanhamento regular da sua condição. Durante a consulta, o
+médico revisa o plano de cuidados, ajusta a medicação, verifica os resultados dos exames
+laboratoriais recentes e reforça a importância da adesão ao tratamento e da prática de exercícios
+físicos. Além disso, uma criança de 5 anos é levada ao pronto-socorro com febre alta, tosse e
+dificuldade respiratória, sendo diagnosticada com pneumonia. O médico prescreve antibióticos e
+orienta os pais sobre os cuidados necessários durante a recuperação.
+Considerando o modelo de Mendes (2011), associe as situações clínicas descritas às respostas
+do sistema de saúde.
+I. Paciente com diabetes mellitus tipo 2.
+II. Cetoacidose diabética (diabetes agudizada).
+III. Acompanhamento regular do paciente com hipertensão.
+IV. Atendimento da criança com pneumonia no pronto-socorro.
+Sendo correto,
+Alternativas:
+(alternativa A)
+I - Proativa/Contínua; II - Proativa/Contínua; III - Reativa/Episódica; IV - Reativa/Episódica.
+(alternativa B)
+I - Reativa/Episódica; II - Proativa/Contínua; III - Reativa/Episódica; IV - Proativa/Contínua.
+(alternativa C)
+I - Reativa/Episódica; II - Reativa/Episódica; III - Proativa/Contínua; IV - Proativa/Contínua.
+(alternativa D) (CORRETA)
+I - Proativa/Contínua; II - Reativa/Episódica; III - Proativa/Contínua; IV - Reativa/Episódica.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 1 de 15
+
+Resposta comentada:
+I - Proativa/Contínua: O diabetes mellitus tipo 2 é uma condição crônica que exige
+acompanhamento contínuo e medidas proativas para controlar a doença e prevenir
+complicações.
+II - Reativa/Episódica: Cetoacidose diabética (CAD) é uma condição aguda derivada de
+uma doença crônica (diabetes) que demanda uma resposta imediata e episódica do
+sistema de saúde, como o atendimento no pronto-socorro.
+III - Proativa/Contínua: O acompanhamento regular do paciente com hipertensão é uma
+ação proativa e contínua do sistema de saúde, visando o controle da doença a longo
+prazo.
+IV - Reativa/Episódica: O atendimento da criança com pneumonia no pronto-socorro é
+uma resposta reativa e episódica a uma condição aguda.
+Referência:
+MENDES, E. V. As redes de atenção à saúde. 2. ed. Brasília: Organização Pan-Americana da
+Saúde, 2011. p. 27-28.
+2ª QUESTÃO
+Enunciado:
+(AFYA MANACAPURU) Uma equipe de Saúde da Família, em uma unidade básica de saúde
+(UBS), de uma cidade de médio porte, identificou que os pacientes com diabetes tipo 2
+apresentavam baixa adesão ao tratamento, resultando em complicações frequentes. Para
+enfrentar esse desafio, os profissionais decidiram realizar encontros quinzenais de educação em
+saúde, nos quais utilizavam rodas de conversa para compartilhamento de angústias e melhoria do
+diálogo. Além disso, incorporaram o uso de um aplicativo de monitoramento glicêmico para que
+os pacientes registrassem suas medições diárias e recebessem feedback remoto da equipe
+multiprofissional.
+a) Com base no caso apresentado, identifique e classifique os tipos de tecnologia em saúde
+utilizados pela equipe (leve, leve-dura ou dura), justificando sua resposta.
+b) Após a identificação dos tipos de tecnologia empregados, proponha uma outra ação ou medida
+que utilize o mesmo nível tecnológico descrito no caso, explicando como essa nova estratégia
+poderia contribuir para o cuidado dos pacientes.
+Alternativas:
+--
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 2 de 15
+
+Resposta comentada:
+a) Identificação e classificação dos tipos de tecnologia em saúde utilizados pela equipe. (0,75).
+No caso apresentado, a equipe de Saúde da Família emprega diferentes tipos de tecnologia em
+saúde. Conforme a explicação a seguir.
+Tecnologia leve: as rodas de conversa de angústias e melhoria do diálogo representam
+o uso de tecnologias leves, pois envolvem o compartilhamento de conhecimentos, a
+comunicação interpessoal e o fortalecimento do vínculo entre profissionais e pacientes.
+Esse tipo de tecnologia é fundamental para a construção do cuidado na Atenção
+Básica.
+Tecnologia dura: o uso do aplicativo de monitoramento glicêmico se encaixa como
+tecnologia dura, pois envolve um instrumento tecnológico estruturado que permite a
+coleta e análise de dados sobre a glicemia dos pacientes. Esse tipo de tecnologia
+contribui para o acompanhamento remoto, possibilitando intervenções mais oportunas
+e personalizadas.
+Tecnologia leve-dura: a interação da equipe multiprofissional com os dados coletados
+no aplicativo pode ser considerada uma tecnologia leve-dura, pois combina um
+instrumento tecnológico (o aplicativo) com a interpretação e aplicação das informações
+pelos profissionais de saúde. Esse processo envolve o uso de conhecimentos técnicocientíficos para avaliar e planejar intervenções individualizadas para os pacientes.
+b) Após a identificação dos tipos de tecnologia empregados, pode-se propor outra ação que utilize
+o mesmo nível tecnológico para fortalecer o cuidado aos pacientes com diabetes. Algumas
+possibilidades incluem: (0,75).
+Outra ação baseada em tecnologia leve: realização de visitas domiciliares pelos
+agentes comunitários de saúde. Essa estratégia fortalece o vínculo com os pacientes,
+permite identificar barreiras individuais ao cuidado e melhora a adesão às orientações.
+Outra ação baseada em tecnologia dura: implementação de um monitor contínuo de
+glicose para pacientes com dificuldade de controle glicêmico, permitindo um
+acompanhamento mais preciso das variações glicêmicas ao longo do dia. Essa
+tecnologia pode auxiliar na adaptação do tratamento e na prevenção de complicações.
+Outra ação baseada em tecnologia leve-dura: realização de uma palestra explicativa sobre a
+doença e fatores de risco.
+Referências:
+FRANCO, T. B., & Elias MERHY, E. (2012). Cartografias do Trabalho e Cuidado em Saúde.
+Tempus – Actas De Saúde Coletiva, 6(2), pág. 151-163. Disponível em:
+https://www.tempus.unb.br/index.php/tempus/article/view/1120/1034. Acesso em: 27 nov. 2024.
+BRITO, J.C de. O trabalho em saúde: olhando e experienciando o SUS no cotidiano. Cad. Saúde
+Pública [Internet]. 2005. Sep. 21 (5):1612–4. Disponível em: https://doi.org/10.1590/S0102311X2005000500039. Acesso em: 27 nov. 2024.
+
+3ª QUESTÃO
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 3 de 15
+
+Enunciado:
+(FESAR) Dona Maria, 68 anos, residente em área rural, apresenta histórico de hipertensão arterial
+e diabetes mellitus tipo 2. Durante uma visita do agente comunitário de saúde (ACS), ela relata
+cansaço e inchaço nas pernas. O agente a encaminha para a Unidade Básica de Saúde (UBS)
+mais próxima, onde o médico solicita exames e ajusta a medicação. Após alguns dias, Dona
+Maria apresenta piora do quadro, com falta de ar intensa. Ela é levada pela família ao prontosocorro do hospital municipal, onde é diagnosticada com insuficiência cardíaca descompensada.
+Após estabilização do quadro, ela é encaminhada para internação na Unidade de Terapia
+Intensiva (UTI) para monitoramento e tratamento intensivo. Após a alta da UTI, Dona Maria é
+transferida para a enfermaria, onde permanece por mais alguns dias para acompanhamento e
+reabilitação.
+Considerando o caso hipotético, descreva os respectivos níveis de atenção à saúde utilizados
+pela Dona Maria, justificando sua resposta com trechos do caso hipotético.
+Alternativas:
+-Resposta comentada:
+O caso de Dona Maria ilustra a utilização dos três níveis de atenção à saúde na Rede de Atenção
+à Saúde (RAS), conforme proposto por Mendes (2011).
+1. Atenção Primária à Saúde (APS): (0,5)
+Serviço: Unidade Básica de Saúde (UBS).
+Justificativa: "Durante uma visita do agente comunitário de saúde (ACS), ela relata
+cansaço e inchaço nas pernas." O ACS a encaminha para a Unidade Básica de Saúde
+(UBS) mais próxima, onde o médico solicita exames e ajusta a medicação." A APS é a
+porta de entrada preferencial na RAS, responsável pelo acompanhamento contínuo das
+condições de saúde, ações de promoção e prevenção, e coordenação do cuidado.
+Atenção Secundária à Saúde: (0,5)
+Serviço: Pronto-socorro do hospital municipal.
+Justificativa: "Após alguns dias, Dona Maria apresenta piora do quadro, com falta de ar
+intensa. Ela é levada pela família ao pronto-socorro do hospital municipal, onde é
+diagnosticada com insuficiência cardíaca descompensada." A atenção secundária é
+caracterizada por serviços especializados, como pronto-socorro e ambulatórios, para
+casos que exigem maior complexidade e tecnologia.
+Atenção Terciária à Saúde: (0,5)
+Serviço: Unidade de Terapia Intensiva (UTI) e enfermaria do hospital municipal.
+Justificativa: "Após estabilização do quadro, ela é encaminhada para internação na
+Unidade de Terapia Intensiva (UTI) para monitoramento e tratamento intensivo. Após a
+alta da UTI, Dona Maria é transferida para a enfermaria, onde permanece por mais
+alguns dias para acompanhamento e reabilitação." A atenção terciária abrange serviços
+de alta complexidade, como UTIs e hospitais especializados, para casos graves que
+necessitam de intervenções intensivas e tecnologia avançada.
+Referência:
+MENDES, E. V. As redes de atenção à saúde. 2. ed. Brasília: Organização Pan-Americana da
+Saúde, 2011. p. 27-28.
+4ª QUESTÃO
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 4 de 15
+
+Enunciado:
+(AFYA ITABUNA) Na Unidade Básica de Saúde (UBS) do bairro Santa Clara, a Equipe de Saúde
+da Família (ESF) realiza diversas atividades para promover a saúde da população. Durante uma
+semana típica de trabalho, os profissionais da equipe desempenham as seguintes ações:
+I. Acolhimento e escuta qualificada dos usuários que procuram atendimento na unidade.
+II. Ações de promoção e prevenção da saúde, como palestras sobre hipertensão e
+diabetes.
+III. Indicação de internação hospitalar ou domiciliar, mantendo a responsabilização pelo
+acompanhamento da pessoa.
+IV. Registro das informações dos atendimentos nos prontuários eletrônicos, garantindo a
+continuidade do cuidado.
+V. Identificação de famílias em situação de vulnerabilidade e encaminhamento para
+serviços sociais quando necessário.
+Com base nesse cenário, assinale a alternativa que indica corretamente todas as atividades que
+são atribuições comuns a todos os profissionais da Equipe Saúde da Família (ESF).
+
+Alternativas:
+(alternativa A)
+II, IV e V.
+(alternativa B) (CORRETA)
+I, II, IV e V.
+(alternativa C)
+I, II, III, IV e V.
+(alternativa D)
+I, II e III.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 5 de 15
+
+Resposta comentada:
+Resposta correta: apenas as atividades I, II, IV e V.
+A Equipe de Saúde da Família (ESF) é composta por diferentes profissionais, como médicos,
+enfermeiros, técnicos de enfermagem, agentes comunitários de saúde, dentistas e assistentes
+sociais. Embora cada categoria tenha atribuições específicas, algumas atividades são comuns a
+todos os profissionais da equipe:
+Acolhimento e escuta qualificada: todos os profissionais devem acolher os usuários e
+oferecer escuta qualificada, pois essa é uma diretriz fundamental da Atenção Primária à
+Saúde (APS).
+Ações de promoção e prevenção da saúde: a promoção da saúde e a prevenção de
+doenças são responsabilidades de toda a equipe, sendo realizadas por meio de
+palestras, orientações individuais e atividades comunitárias.
+Registro das informações nos prontuários eletrônicos: o correto preenchimento dos
+registros clínicos é essencial para garantir a continuidade do cuidado e é uma prática
+comum a todos os profissionais.
+Identificação de famílias em situação de vulnerabilidade e encaminhamento: todos os
+membros da equipe devem estar atentos às condições sociais dos pacientes e
+encaminhá-los para assistência social, quando necessário.
+Indicar a necessidade de internação hospitalar ou domiciliar, mantendo a
+responsabilização pelo acompanhamento da pessoa: essa é uma atividade exclusiva
+de médicos, não sendo uma função comum a todos os membros da ESF.
+Referência:
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica (PNAB). Brasília: Ministério da
+Saúde, 2017, portaria 2436/2017.
+
+5ª QUESTÃO
+Enunciado:
+(UNIDEP) Um homem de 45 anos, alcoolizado, hipertenso, sofreu um acidente de moto e foi
+socorrido pelo Serviço de Atendimento Móvel de Urgência (SAMU), sendo encaminhado para um
+hospital de referência. Na unidade hospitalar, ele recebeu atendimento na sala de emergência,
+onde foi estabilizado e posteriormente transferido para um hospital de maior complexidade devido
+à gravidade das lesões.
+Com base na organização da Rede de Atenção à Saúde no Brasil, qual rede foi utilizada nesse
+atendimento?
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 6 de 15
+
+Alternativas:
+(alternativa A)
+Rede de Atenção às Doenças Crônicas (RADC) – voltada para o acompanhamento e tratamento
+de condições como diabetes e hipertensão.
+(alternativa B) (CORRETA)
+Rede de Urgência e Emergência (RUE) – organiza o atendimento pré-hospitalar e hospitalar para
+casos de urgência e emergência, garantindo acesso rápido e contínuo ao cuidado.
+(alternativa C)
+Rede de Atenção à Saúde das Pessoas com Deficiência (RASPcD) – estruturada para garantir o
+atendimento especializado para reabilitação física, auditiva, visual e intelectual.
+(alternativa D)
+Rede de Atenção Psicossocial (RAPS) – responsável pelo cuidado de pacientes com transtornos
+mentais e uso abusivo de substâncias psicoativas, incluindo dependência de álcool.
+
+Resposta comentada:
+Resposta correta: O paciente utilizou serviços pré-hospitalares (SAMU), atendimento hospitalar
+de emergência e foi encaminhado para um hospital de maior complexidade, caracterizando o fluxo
+dentro da Rede de Urgência e Emergência (RUE). A Rede de Urgência e Emergência (RUE) tem
+como objetivo garantir atendimento rápido e organizado para casos de urgência e emergência,
+integrando serviços como o SAMU, UPAs, pronto-socorros e hospitais de referência.
+Distratores:
+A Rede de Atenção Psicossocial (RAPS) é voltada ao cuidado de pessoas com transtornos
+mentais e dependência química. Conta com CAPS, leitos psiquiátricos em hospitais gerais,
+residências terapêuticas e outros serviços de apoio. Um exemplo seria um paciente em crise de
+esquizofrenia que recebe atendimento em um CAPS e, se necessário, é encaminhado para
+internação.
+A Rede de Atenção às Doenças Crônicas (RADC) organiza o cuidado de pacientes com
+condições como diabetes, hipertensão e câncer, promovendo um acompanhamento contínuo.
+Inclui UBS, centros especializados e hospitais de referência. Um paciente hipertenso, por
+exemplo, pode ser acompanhado na UBS e encaminhado para um cardiologista caso haja
+complicações.
+Por fim, a Rede de Atenção à Saúde das Pessoas com Deficiência (RASPcD) atende pessoas
+com deficiência física, auditiva, visual e intelectual, oferecendo serviços de reabilitação e
+dispositivos assistivos, como próteses e órteses. Um exemplo seria um paciente com amputação
+que recebe prótese e reabilitação em um Centro Especializado em Reabilitação (CER).
+Referências:
+MENDES, E.V. As redes de atenção à saúde: revisão bibliográfica, fundamentos, conceito e
+elementos constitutivos. In: MENDES, E.V. As redes de atenção à saúde. Organização PanAmericana da Saúde, 2011, 2010. Cap. 2. (Fundamentos e conceitos, pág. 71 a 84).
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 7 de 15
+
+6ª QUESTÃO
+Enunciado:
+(UNISL PORTO VELHO) Pedro, 33 anos, buscou atendimento na Unidade Básica de Saúde em
+seu bairro após ter sofrido uma queda na rua de sua casa, resultante de um ataque de cachorro,
+referindo apenas precisar de alguns curativos nas mãos e em membros inferiores. Foi realizada a
+higienização das lesões, a notificação compulsória e as devidas orientações. Com base no relato
+acima, pode-se afirmar que o nível de atenção e densidade tecnológica no atendimento de Pedro
+foi de:
+Alternativas:
+(alternativa A)
+atenção terciária e alta densidade tecnológica.
+(alternativa B)
+atenção secundária e baixa densidade tecnológica.
+(alternativa C) (CORRETA)
+atenção primária e baixa densidade tecnológica.
+(alternativa D)
+atenção secundária e intermediária densidade tecnológica.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 8 de 15
+
+Resposta comentada:
+O atendimento de Pedro ocorreu na Unidade Básica de Saúde (UBS), caracterizando um nível de
+atenção primário. O cuidado prestado envolveu procedimentos de baixa complexidade, como
+higienização das lesões, curativos, notificação compulsória e orientações.
+1. Atenção Primária → UBS é a porta de entrada do SUS e realiza ações de promoção,
+prevenção e pequenos atendimentos clínicos.
+2. Baixa densidade tecnológica → O atendimento foi baseado em tecnologias leves
+(acolhimento, escuta e orientação) e leve-duras (protocolos e notificação obrigatória),
+sem necessidade de exames sofisticados ou equipamentos complexos (tecnologias
+duras).
+Caso Pedro necessitasse de suturas complexas, antibióticos intravenosos, exames
+complementares ou ainda cirurgias, poderia ser encaminhado para um serviço de média ou alta
+complexidade (UPA ou hospital).
+Níveis de atenção: são arranjos produtivos conformados segundo as densidades tecnológicas
+singulares, variando do nível de menor densidade (APS), ao de densidade tecnológica
+intermediária (atenção secundária à saúde), até o de maior densidade tecnológica (atenção
+terciária à saúde). Níveis de atenção: são arranjos produtivos conformados segundo as
+densidades tecnológicas singulares, variando do nível de menor densidade (APS), ao de
+densidade tecnológica intermediária (atenção secundária à saúde), até o de maior densidade
+tecnológica (atenção terciária à saúde). Níveis de atenção: são arranjos produtivos conformados
+segundo as densidades tecnológicas singulares, variando do nível de menor densidade (APS), ao
+de densidade tecnológica intermediária (atenção secundária à saúde), até o de maior densidade
+tecnológica (atenção terciária à saúde).
+Referência:
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+7ª QUESTÃO
+Enunciado:
+(FMIT) Uma paciente de 58 anos, com diabetes mellitus tipo 2 e hipertensão arterial sistêmica,
+procura atendimento na Unidade Básica de Saúde (UBS) devido ao descontrole glicêmico e
+aumento da pressão arterial. O médico da unidade prescreveu medicação, solicitou exames e
+encaminhou a paciente para um endocrinologista. Entretanto, semanas depois, a paciente relata
+dificuldades para agendar a consulta com o especialista e obter retorno sobre seus exames. Além
+disso, ao buscar atendimento em um pronto-socorro para uma crise hipertensiva, foi prescrito um
+medicamento ao qual a paciente possui alergia.
+Com base no caso descrito acima, assinale a alternativa que representa o modelo de organização
+do sistema de saúde aplicado no caso da paciente, levando em consideração as redes de
+atenção à saúde.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 9 de 15
+
+Alternativas:
+(alternativa A)
+Sistema universal, pois a paciente tem acesso ao atendimento, independentemente da dificuldade
+de comunicação entre os serviços.
+(alternativa B)
+Sistema de Rede de Atenção à Saúde, pois a paciente foi encaminhada a um especialista e
+recebida na Unidade Básica de Saúde, garantindo a integralidade do cuidado.
+(alternativa C) (CORRETA)
+Sistema fragmentado, pois há descontinuidade no cuidado, falta de integração entre os serviços e
+dificuldades no acesso ao especialista.
+(alternativa D)
+Sistema de atenção primária integrado, pois a Unidade Básica de Saúde garantiu o atendimento
+inicial e realizou os encaminhamentos necessários para os outros níveis de atenção.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 10 de 15
+
+Resposta comentada:
+Resposta correta:
+Sistema fragmentado, pois há descontinuidade no cuidado, falta de integração entre os serviços e
+dificuldades no acesso ao especialista, está correto porque descreve uma situação comum de
+fragmentação no sistema de saúde, que pode ser observada no caso do paciente.
+O caso apresenta:
+1. Descontinuidade sem cuidado: A descontinuidade do cuidado ocorre quando há uma
+quebra na sequência dos atendimentos ou falta de acompanhamento contínuo, o que
+prejudica o tratamento adequado do paciente.
+2. Falta de integração entre os serviços: A falta de integração entre os serviços é uma
+característica de sistemas fragmentados de saúde. O sistema deveria ser mais coeso
+e permitir uma troca de informações entre os diferentes níveis de atendimento (Unidade
+Básica de Saúde, pronto-socorro, especialistas).
+3. Dificuldades no acesso a especialistas: A dificuldade que a paciente tem para agendar
+uma consulta com o endocrinologista reflete uma barreira no acesso a especialistas, o
+que também é um indicativo de fragmentação.
+Distratores:
+Embora a paciente tenha sido encaminhada a um especialista, isso por si só não significa que há
+uma Rede de Atenção à Saúde (RAS) funcionando. As redes de atenção são detalhadas pela
+coordenação do cuidado, comunicação entre serviços e continuidade no acompanhamento . No
+caso apresentado, há falhas no fluxo entre os pontos de atenção, evidenciando um sistema
+fragmentado.
+O fato de um paciente ter acesso ao atendimento não indica que o sistema seja universal no
+sentido estrutural e funcional. A universalidade, um dos princípios do SUS, refere-se ao direito de
+todos ao acesso à saúde, mas não garante, por si só, que o sistema seja bem organizado ou
+eficiente.
+A Atenção Primária à Saúde (APS) tem papel essencial na resolutividade do cuidado, mas sua
+atuação não pode ser entendida isoladamente. Nesse caso descrito, não se conseguiu garantir a
+continuidade do cuidado, nem a comunicação entre os diferentes níveis.
+Referência:
+MENDES, E.V. As situações das condições de saúde e os sistemas de atenção à saúde. In:
+MENDES, E.V. As redes de atenção à saúde. Organização Pan-Americana da Saúde, 2011,
+2010. Cap. 1.
+
+8ª QUESTÃO
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 11 de 15
+
+Enunciado:
+(UNIDEP) Na UBS do município de São José, a médica Dra. Fernanda realiza o atendimento
+contínuo de pacientes com doenças crônicas, como hipertensão e diabetes. Antes da Portaria
+GM/MS n.º 3.493/2024, a UBS recebia recursos do Programa Previne Brasil com base em
+componentes como “Indicadores de Saúde” e “Cadastramento de Gestantes”. De acordo com
+essa mudança, analise as afirmações abaixo, quanto aos novos indicadores que constituirão o
+cofinanciamento federal proposto na Portaria GM/MS nº 3.493/2024.
+I - Componente fixo para manutenção das equipes de Saúde da Família.
+II - Componente de vínculo e acompanhamento territorial para as Estratégias de Saúde da Família
+e Equipes de Atenção Primária.
+III - Componente per capita de base populacional para ações no âmbito da APS.
+IV - Componente para Atenção à Saúde Bucal.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I, II, III e IV.
+(alternativa B)
+I e IV.
+(alternativa C)
+II e III.
+(alternativa D)
+I, II e III.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 12 de 15
+
+Resposta comentada:
+Do cofinanciamento federal do Piso de Atenção Primária à Saúde (NR)
+"Art. 9º O cofinanciamento federal de apoio à manutenção da Atenção Primária à Saúde (APS)
+será constituído por:
+I - componente fixo para manutenção das equipes de Saúde da Família - eSF e das equipes de
+Atenção Primária - eAP e recurso de implantação para eSF, eAP, equipes de Saúde Bucal - eSB
+e equipes Multiprofissionais - eMulti;
+II - componente de vínculo e acompanhamento territorial para as eSF e eAP;
+III - componente de qualidade para as eSF, eAP, eSB e eMulti;
+IV - componente para implantação e manutenção de programas, serviços, profissionais e outras
+composições de equipes que atuam na APS;
+V - componente para Atenção à Saúde Bucal; e
+VI - componente per capita de base populacional para ações no âmbito da APS.
+Referência:
+BRASIL. Portaria GM/MS n.º 3.493, de 10 de abril de 2024.
+9ª QUESTÃO
+Enunciado:
+(UNIGRANRIO BARRA) Uma Unidade Básica de Saúde (UBS) atende diariamente a uma
+população adscrita e conta com diferentes composições de equipe, conforme a Política Nacional
+de Atenção Básica (PNAB).
+Considerando os tipos de equipes que podem atuar nesse cenário, analise as afirmativas a
+seguir:
+I – A equipe de Saúde da Família (eSF) é a base do modelo da UBS e deve ser composta, no
+mínimo, por médico, enfermeiro, técnico ou auxiliar de enfermagem e agentes comunitários de
+saúde, podendo ser ampliada com outros profissionais.
+II – A Equipe de Atenção Básica (eAB) pode atuar em UBSs, mas sua composição é mais
+flexível, não exigindo a presença de agentes comunitários de saúde.
+III – A Equipe de Atenção Básica Prisional (eABP) trata-se de uma equipe multiprofissional que
+deve estar cadastrada no Sistema Nacional de Estabelecimentos de Saúde vigente, e com
+responsabilidade de articular e prestar atenção integral à saúde das pessoas privadas de
+liberdade.
+IV – A Equipe de Saúde Bucal (eSB) modalidade I é composta por cirurgião-dentista e auxiliar ou
+técnico em saúde bucal.
+É correto apenas o que se afirma em:
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 13 de 15
+
+Alternativas:
+(alternativa A)
+II e III.
+(alternativa B) (CORRETA)
+I, II, III e IV.
+(alternativa C)
+I, II e IV.
+(alternativa D)
+I e II.
+
+Resposta comentada:
+A afirmativa I está correta, pois a eSF é a base do modelo da UBS, com composição mínima
+obrigatória de 1 médico, 1 enfermeiro e 1 auxiliar ou técnico de enfermagem. (PNAB 2017, seção
+3.4.1, p. 10).
+A afirmativa II está correta. A eAB pode atuar na USF e tem composição flexível, sem
+necessidade obrigatória de ACS. (PNAB 2017, seção 3.4.2, p. 10).
+A afirmativa III está correta, pois a equipe de Atenção Básica Prisional (eABP) trata-se de uma
+equipe multiprofissional. Ela deve estar cadastrada no Sistema Nacional de Estabelecimentos de
+Saúde vigente, e com responsabilidade de articular e prestar atenção integral à saúde das
+pessoas privadas de liberdade. (PNAB 2017, seção 3.6.1, p. 14).
+A afirmativa IV está correta. A eSB pode estar vinculada a uma eSF e atuar na USF, sendo
+composta por cirurgião-dentista e auxiliar/técnico em saúde bucal. (PNAB 2017, seção 3.4.3, p.
+10).
+Portanto, a alternativa correta é a 4ª, pois todas as afirmativas estão de acordo com a PNAB
+2017.
+Referência:
+BRASIL. Ministério da Saúde. Portaria nº 2.436, de 21 de setembro de 2017. Aprova a Política
+Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a organização da
+Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Diário Oficial da União, Brasília, 22
+set. 2017. Seção 1, p. 68.
+10ª QUESTÃO
+Enunciado:
+(UNIDEP) Uma médica da Unidade Básica de Saúde (UBS) atende um paciente com sintomas
+que indicam a necessidade de um especialista. Após a consulta, ela encaminha o paciente para o
+especialista apropriado e organiza um retorno para a UBS após a consulta especializada,
+garantindo a continuidade do cuidado.
+Assinale a alternativa que corresponde à diretriz da PNAB que está sendo contemplada nesse
+caso.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 14 de 15
+
+Alternativas:
+(alternativa A)
+Participação da comunidade.
+(alternativa B)
+Coordenação do cuidado.
+(alternativa C) (CORRETA)
+Integralidade.
+(alternativa D)
+Universalidade.
+
+Resposta comentada:
+Coordenação do cuidado. Errada. A universalidade refere-se ao direito de acesso de toda a
+população aos serviços de saúde, porém é um princípio da PNAB, não uma diretriz.
+Coordenação do cuidado. Correta. A coordenação do cuidado está sendo claramente
+contemplada, pois a médica organiza o encaminhamento ao especialista e garante a continuidade
+do acompanhamento, integrando o cuidado entre os diferentes níveis de atenção.
+Universalidade. Errada. A integralidade se refere ao cuidado completo e contínuo, porém é um
+princípio da PNAB, não uma diretriz.
+Participação da comunidade. Errada. A participação da comunidade não é abordada no caso, pois
+não há menção à participação ativa da comunidade no cuidado ao paciente.
+Referência:
+BRASIL. Ministério da Saúde. Portaria 2436 de 21 de setembro de 2017.
+
+000154.91001c.7cc36f.4d3a53.680adb.c3c084.9ad41c.d2008
+
+Pgina 15 de 15
+
+

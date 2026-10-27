@@ -1,0 +1,405 @@
+NOTA FINAL
+CURSO DE MEDICINA - AFYA
+Aluno:
+Componente Curricular: Métodos de Estudo e Pesquisa I
+Professor (es):
+Período: 202301 Turma: Data:
+N1_ESPECIFICA_MEP 1_03MA 02023 uque
+Quer treinar essa prova?
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+Acesse:
+PROVA 07244 - CADERNO 001 acervo.top / acervotop.com
+1ª QUESTÃO
+Enunciado:
+Um aluno do curso de Medicina, durante seus estudos para a disciplina de SOI I, interessou-se
+pela associação entre tabagismo e doença coronariana em fumantes passivos mostrada no
+livro, no entanto, as informações do livro apresentavam-se de forma muito sucinta e não foram
+suficientes para sanar sua curiosidade. Ao buscar em mais 3 livros, identificou que o assunto
+parece ser muito específico e resolveu fazer a busca utilizando-se de uma plataforma de busca
+científica na internet, a partir de descritores e operadores booleanos.
+Com base no texto acima, faça o que se pede nos itens a seguir.
+A) (0,75 ponto) Apresente a diferença entre uma plataforma para busca de descritores em
+saúde e uma base de dados indexados para busca de artigos científicos. Indique qual usar
+primeiro durante a busca.
+B) (0,75 ponto) Construa a estratégia de busca para o problema do texto utilizando operadores
+booleanos.
+Alternativas:
+000072,440016.218d59.2b54b7.2d10d0.d75324.4f352e.ce34e Pgina 1 de 12
+
+Resposta comentada:
+A) (0,75) O aluno deve diferenciar entre DECS/MESH (plataforma de descritores) e uma
+plataforma indexada de busca de artigos (BVS, PUBMED, etc.) com uma breve explicação
+sobre cada uma delas. em seguida deve aresentar a ordem correta de utilização, iniciando pela
+plataforma de descritores.
+A principal plataforma de busca de descritores é a DeCS/MeSH - Descritores em Ciências da
+Saúde/Medical Subject Headings. Foi criada pela BIREME para servir como uma linguagem única
+na indexação de artigos de revistas científicas, livros, anais de congressos, relatórios técnicos, e
+outros tipos de materiais, assim como para ser usado na pesquisa e recuperação de assuntos
+da literatura científica nas fontes de informação disponíveis na Biblioteca Virtual em Saúde (BVS)
+como LILACS, MEDLINE e outras. Foi desenvolvida a partir do MeSH - Medical Subject Headings
+da U.S. National Library of Medicine (NLM) com o objetivo de permitir o uso de terminologia
+comum para pesquisa em múltiplos idiomas, proporcionando um meio consistente e único para
+a recuperação da informação. Antes da busca nas plataformas indexadas de busca de artigos,
+como BVS, MEDLINE, PUBMED, LILACS ou outras (Scopus, Web of Science...) deve-se buscar os
+descritores corretos, maximizando a busca e garantindo a melhor recuperação de informações
+sobre o assunto.
+B) (0,75) A resposta correta seria (tabagismo) AND (doença coronariana) AND (fumante
+passivo).
+É importante que o operador booleano usado seja AND pois a intenção do aluno é recuperar
+resultados que contenham todos os descritores/palavras-chave em um mesmo artigo.
+REFERENCIAS
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.
+EBook. (1 recurso online). ISBN 9788597012934. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597012934. Acesso em: 16 set. 2021.
+Sobre o DeCS/MeSH [INTERNET]. Disponível em: https://decs.bvsalud.org/sobre-o-decs/. Acesso
+em: 12 fev. 2023.
+2ª QUESTÃO
+Enunciado:
+Ao analisar os indicadores de doenças crônicas de um determinado território adscrito à Unidade
+Básica de Saúde, a enfermeira encarregada ficou assustada com o número elevado de
+diabéticos com menos de 40 anos que foram diagnosticados nos últimos meses. Ao repassar
+essa informação para a Secretaria Estadual Saúde, esta solicitou que um grupo de
+pesquisadores realizassem um estudo verificando fatores de risco associados aos desfechos de
+interesse, seguido de uma possível intervenção conforme os resultados.
+Suponha que você seja um dos pesquisadores da Secretaria Estadual de Saúde e tenha sido
+encarregado de tratar esta situação.
+(1,5 pontos) Construa uma proposta de metodologia de projeto de extensão para intervenção
+na população-alvo tendo como base o objetivo específico abaixo:
+Informar a população-alvo acerca dos benefícios de uma alimentação equilibrada.
+Alternativas:
+000072,440016.218d59.2b54b7.2d10d0.d75324.4f352e.ce34e Pgina 2 de 12
+
+Resposta comentada:
+(1,5 pontos) Para o objetivo específico "Informar a população-alvo acerca dos benefícios de uma
+alimentação equilibrada." várias ações de extensão poderiam ser propostas com a o intuito de
+trazer informações para o público alvo, entre elas:
+Realizar palestras sobre o tema (discriminando o palestrante, local, número aproximado de
+pessoas, duração e assunto principal).
+Realizar rodas de conversa sobre o tema (discriminando o mediador, local, número aproximado
+de pessoas, duração aproximada e assunto principal desencadeador).
+REFERÊNCIAS
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.
+Disponivel em: https://integrada.minhabiblioteca.com.br/books/9788597012934.
+3ª QUESTAO
+Enunciado:
+Em uma aula de Métodos de Estudo e Pesquisa do 1º período de Medicina, o professor
+apresentou as quatro proposições a seguir:
+I. Todo corpo em queda livre cai com a aceleração da gravidade.
+II. O céu vermelho ao entardecer significa que vai fazer frio.
+III. O sujeito amoral é aquele que desconsidera as regras ou normas morais.
+I. A natureza e tudo o que existe está a serviço do homem, sua principal criatura.
+Em seguida, pediu para que os alunos identificassem o tipo de conhecimento correspondente a
+cada uma das proposições apresentadas.
+As proposições I, II, Ill e IV correspondem, respectivamente, aos tipos de conhecimento
+Alternativas:
+(alternativa A)
+científico, filosófico, empírico e religioso.
+(alternativa B)
+religioso, filosófico, científico e empírico.
+(alternativa C) (CORRETA)
+científico, empírico, filosófico e religioso.
+(alternativa D)
+filosófico, religioso, empírico e científico.
+000072.440016.218d59.2b54b7.2d10do,d75324.4f352e.ce34e Pgina 3 de 12
+
+Resposta comentada:
+A alternativa correta é aquela que identifica os tipos de conhecimento, respectivamente, como
+científico, empírico, filosófico e religioso.
+1 - O conhecimento científico é sistemático, visto que se trata de um saber ordenado
+logicamente, formando um sistema de ideias (teoria) e não conhecimentos dispersos e
+desconexos.
+II - O conhecimento empírico é verificável, visto que está limitado ao âmbito da vida diária e diz
+respeito ao que se pode perceber no dia a dia.
+III - O conhecimento filosófico é caracterizado pelo esforço da razão pura para questionar os
+problemas humanos e poder discernir entre o certo e o errado, unicamente recorrendo às luzes
+da própria razão humana.
+N - O conhecimento religioso é um conhecimento sistemático do mundo (origem, significado,
+finalidade e destino) como obra de um criador divino; nele está sempre implícita uma atitude de
+fé perante um conhecimento revelado.
+REFERÊNCIAS
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia
+científica. 9. ed. atual São Paulo: Atlas, 2021. EBook. (1 recurso online). ISBN
+9788597026580. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597026580.
+4ª QUESTÃO
+Enunciado:
+"As palavras-chave, ao identificarem o conteúdo de uma obra, servem, como já dissemos, à
+indexação em uma base de dados, possibilitando a seleção do material de pesquisa, a
+localização e a recuperação da obra. Normalmente, uma busca se inicia pela escolha de um
+descritor de um assunto. Como esse tipo de pesquisa pode ter como resultado um número
+imenso de textos que tratam desse assunto, o pesquisador se vale então de operadores
+lógicos ou booleanos, que permitem refinar a pesquisa."
+Fonte: MEDEIROS, J. B.; TOMASI, C. Redação de artigos científicos. São Paulo: Atlas, 2016.
+Com base no trecho descrito, é correto afirmar que o operador:
+000072,440016,218d59,2b54b7.2d10d0.d75324.4f352e,ce34e Pgina 4 de 12
+
+Alternativas:
+(alternativa A)
+OR exclui todos os termos que não figuram no índice do sistema de informação.
+(alternativa B)
+AND realiza a soma dos termos utilizados, de forma a ampliar os resultados da pesquisa.
+(alternativa C)
+NOT amplia os resultados de buscas realizadas com a exclusão de termos excedentes.
+(alternativa D) (CORRETA)
+AND restringe os resultados da busca pela intersecção entre os termos utilizados.
+Resposta comentada:
+A alternativa correta é aquela que afirma que AND restringe os resultados da busca pela
+intersecção entre os termos utilizados.
+Como esse tipo de pesquisa pode ter como resultado um número imenso de textos que tratam
+desse assunto, o pesquisador se vale então de operadores lógicos ou booleanos (AND, NOT),
+que permitem refinar a pesquisa, selecionando apenas os textos que contemplem uma E outra
+palavra juntas (AND), ou uma e NAO a outra palavra (NOT) no mesmo texto. O uso de NOT
+serve para limitar a pesquisa. O uso de OR serve para ampliar o número de textos
+selecionados, uma vez que inclui na pesquisa textos que apresentem um OU outro termo,
+independente de estarem juntos ou não no mesmo texto.
+REFERÊNCIAS
+MEDEIROS, J. B.; TOMASI, C. Redação de artigos científicos. São Paulo: Atlas, 2016.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788597026641. Acesso em:
+17 fev. 2023
+5ª QUESTÃO
+Enunciado:
+Durante uma visita de territorialização próxima a uma UBS, estudantes do curso de medicina
+se depararam com uma situação preocupante. Nessa visita, conheceram 5 famílias, das quais
+4 apresentavam todos dos familiares com diarreia. Durante a entrevista com as famílias,
+observaram que boa parte dos moradores dessa região utilizavam água de um poço local, com
+a exceção de algumas famílias. Dentre as famílias que não usavam o poço, estava exatamente
+a família que não apresentava diarreia. Concluíram, a partir dessa observação, que além das 4
+famílias, todos os moradores dessa região que utilizam o poço estavam com diarreia.
+Com base nesse caso, identifique o tipo de método científico utilizado pelos estudantes para
+chegar à conclusão do caso.
+000072,440016.218d59.2b54b7.2d10d0.d75324.4f352e.ce34e Pgina 5 de 12
+
+Alternativas:
+(alternativa A)
+Método Dedutivo.
+(alternativa B) (CORRETA)
+Método Indutivo.
+(alternativa C)
+Método Hipotético-Dedutivo.
+(alternativa D)
+Método Dialético.
+Resposta comentada:
+Trata-se de uma indução. A lógica do pensamento indutivo é que a partir de casos particulares
+registrados e enumerados, podemos concluir algo.
+Para que se chegue nessa conclusão três passos são de fundamental importância.
+Observações: os fenômenos são observados para que se identifique as causas de sua
+manifestação.
+Descoberta da relação: são feitas comparações para aproximar os fatos ou fenômenos, assim
+descobriremos a relação existente entre eles.
+Generalização: diz respeito a generalização da relação encontrada no passo anterior. Quanto
+maior o número de observações maior será a força dos seus resultados.
+REFERENCIAS
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 9.
+ed. atual São Paulo: Atlas, 2021. EBook. (1 recurso online). ISBN 9788597026580.
+6ª QUESTÃO
+000072,440016,218d59,2b54b7.2d10d0.d75324.4f352e,ce34e Pgina 6 de 12
+
+Enunciado:
+A sífilis é uma IST que muitas vezes passa despercebida quando assintomática e pode ser
+transmitida da mãe para o feto. Desta forma, a testagem durante o pré-natal é uma
+ferramenta importante para um diagnóstico precoce e início rápido do tratamento, desde que a
+sífilis gestacional pode causar consequências graves para o feto e deve ser vista com urgência
+pela atenção primária em saúde.
+Com base nessas informações e observando o aumento na incidência de sífilis gestacional no
+município em diferentes faixas etárias, alunos do curso de medicina decidiram desenvolver um
+projeto de extensão para melhorar as taxas de diagnóstico e tratamento precoce das
+gestantes, de acordo com a idade.
+Considerando as informações acima, analise as asserções a seguir e a relação proposta entre
+elas.
+I. Os alunos propuseram como Objetivo Geral do projeto educar sobre a sífilis gestacional, para
+diagnosticar e tratar precocemente as gestantes positivas para sífilis.
+PORQUE
+II. Um dos objetivos específicos foi identificar a faixa etária com maior incidência de sífilis
+gestacional para propor atividades direcionadas.
+A respeito dessas asserções, marque a alternativa correta.
+Alternativas:
+(alternativa A)
+As asserções l e Il são verdadeiras, e a Il é uma justificativa dal .
+(alternativa B)
+A asserção l é uma proposição verdadeira, e a Il é uma proposição falsa.
+(alternativa C)
+A asserção | é uma proposição falsa, e a Il é uma proposição verdadeira.
+(alternativa D) (CORRETA)
+As asserções l e Il são verdadeiras, e a Il não é uma justificativa da I.
+Resposta comentada:
+Na formulação dos objetivos, mesmo ambas as asserções sendo válidas e verdadeiras, a
+asserção Il não é considerada uma justificativa da primeira, porque o propósito principal do
+projeto é promover estratégias para a educação em saúde com as gestantes, e assim
+aumentar os níveis de testagem e tratamento precoce para a sífilis gestacional.
+O objetivo específico proposto visa identificar a faixa etária com maior incidência para direcionar
+as atividades educativas de acordo com a faixa etária. Embora ambas as asserções sejam
+verdadeiras, a definição dos objetivos específicos é posterior à definição do objetivo geral, assim
+a asserção Il não é uma justificativa válida para a asserção I.
+REFERÊNCIAS
+Gil, A. C. Como elaborar projetos de pesquisa. 7. ed. - Barueri [SP]: Atlas, 2022.
+7ª QUESTÃO
+000072,440016.218d59.2b54b7.2d10d0.d75324.4f352e.ce34e Pgina 7 de 12
+
+Enunciado:
+Durante as aulas de MEP, os alunos discutiram sobre os efeitos da mudança de hábitos sobre a
+melhoria na qualidade de vida de pacientes com Hipertensão Arterial Sistêmica (HAS). Para isto,
+avaliaram dados coletados no Estudo Longitudinal da Saúde dos Idosos Brasileiros (ELSI-Brasil).
+Entre os aspectos comportamentais em saúde analisados estavam: prática de atividade física,
+adoção de dieta saudável, consumo de bebida alcoólica e uso de cigarro. Após análise e
+correlação estatística entre as variáveis, evidenciaram a contribuição de fatores como a
+diminuição do consumo de álcool e a prática regular de atividade física como comportamentos
+em saúde para o controle da hipertensão arterial.
+FIRMO, J.O.A et al. Comportamentos em saúde e o controle da hipertensão arterial: resultados do ELSI-BRASIL.
+Cadernos de Saúde Pública, v. 35, n. 7, 2019.
+Com base no texto acima, avalie as asserções a seguir:
+I. Para avaliar os efeitos dos comportamentos em saúde no controle da HAS, os alunos
+utilizaram a abordagem dedutiva, partindo do levantamento de premissas gerais sobre os
+comportamentos em saúde, a fim de gerar conclusões universais.
+II. Os alunos utilizaram o método indutivo, partindo de dados particulares para inferir uma
+verdade geral sobre o impacto destes comportamentos em saúde sobre a qualidade de
+vida de pacientes com HAS.
+II. Na abordagem citada, foi utilizado o método hipotético-dedutivo para inferir sobre o
+efeito dos comportamentos em saúde no controle da hipertensão, através do falseamento
+e análise das variáveis do estudo.
+V. O método empregado possibilitou a correlação das variáveis em função de seus efeitos
+em pacientes com HAS, evidenciando a relação entre estes fatores, a partir da correlação
+e falseamento de hipóteses.
+É correto o que se afirma em
+Alternativas:
+(alternativa A)
+le N, apenas.
+(alternativa B)
+l e II, apenas.
+(alternativa C) (CORRETA)
+III e N, apenas.
+(alternativa D)
+Il e III, apenas.
+000072.440016.218d59.2b54b7.2d10do.d75324.4f352e.ce34e Pgina 8 de 12
+
+Resposta comentada:
+O método científico utilizado no estudo é o método hipotético-dedutivo, uma vez que se
+caracteriza pelo estabelecimento de conjecturas, que devem ser submetidas a testes diversos
+(análises), bem como à crítica intersubjetiva, ao controle mútuo pela discussão crítica, a
+publicidade crítica e ao confronto com os fatos, a fim de verificar que hipóteses sobrevivem
+como mais aptas, o que configura tentativas de refutação e falseamento. O texto base reporta
+um estudo científico que avalia os comportamentos em saúde e os associa com o controle da
+hipertensão a partir da correlação e falseamento de hipóteses. Deste modo, empregou-se o
+método hipotético dedutivo para correlacionar os dados e evidenciar se existia real relação
+entre estes fatores.
+REFERÊNCIAS
+LAKATOS, Eva M. Fundamentos de Metodologia Científica. Grupo GEN, 2021. E-book. ISBN
+9788597026580. Disponivel
+em:https://integrada.minhabiblioteca.com.br/#/books/9788597026580/. Acesso em: 17 mar.
+2023.
+8ª QUESTÃO
+Enunciado:
+Observe o trecho abaixo:
+"O presente trabalho trata da saúde a partir de uma abordagem holística, dinâmica e
+complexa, considerando as dimensões biológicas, sociais e ambientais como fundamentais para
+entender o processo saúde-doença. O objetivo é analisar a influência de determinantes sociais e
+ambientais da malária por Plasmodium vivax na fronteira do Brasil com a Guiana Francesa. O
+estudo foi realizado entre 2011 e 2015, no município de Oiapoque (AP), na Amazônia brasileira.
+Foram incluídos na amostra 253 indivíduos de ambos os sexos, de 10 a 60 anos de idade."
+GOMES et al. Malária na fronteira do Brasil com a Guiana Francesa: a influência dos determinantes sociais e
+ambientais da saúde na permanência da doença. Saúde e Sociedade, v. 29, n. 2, p. e181046, 2020.
+Esse trecho compõe um documento bibliográfico de fonte
+Alternativas:
+secundária, pois são estudos de reprodutibilidade, repetindo estudos originais anteriores. (alternativa A) contara, pos sao estudos de re
+(alternativa B)
+terciária, pois mostra uma análise do conteúdo e uma visão resumida do conhecimento.
+(alternativa C)
+primária, pois apresenta-se como um guia, orientando o início de pesquisas posteriores.
+(alternativa D) (CORRETA)
+primária, pois contém informações originais, podendo ter o aspecto de registros de
+observações.
+000072,440016.218d59.2b54b7.2d10d0.d75324.4f352e.ce34e Pgina 9 de 12
+
+Resposta comentada:
+A alternativa correta é que afirma que o trecho é proveniente de uma fonte primária, pois:
+Fontes Primárias: São as produzidas diretamente pelo autor da pesquisa.
+Exs.: Relatórios técnicos; Anais; Teses; Dissertações; Patentes; Normas Técnicas; Artigos de
+periódicos; Projetos de pesquisa em andamento.
+Fontes Secundárias: Trazem a informação agrupada/organizada, tendo a função de facilitar o
+uso da informação "dispersa" nas fontes primárias.
+Exs.: Enciclopédias; Dicionários; Bibliografias; Indices; Bases e bancos de dados; Livros.
+Fontes Terciárias: São guias às fontes primárias e secundárias, trazendo uma síntese ou
+consolidação de informações. Exs.: Bibliografias de bibliografias; Catálogos de bibliotecas,
+centros de informação e livrarias; Diretórios; Guias de literatura; Revisões de literatura.
+Referência
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia
+científica. 9. ed. atual São Paulo: Atlas, 2021. EBook. (1 recurso online). ISBN
+9788597026580. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597026580.
+MINAYO, M. C. S.; DESLANDES, S. F.; GOMES, R. Pesquisa social: teoria, método e
+criatividade:Séries Manuais Acadêmicos. Petrópolis: Editora Vozes, 2016.
+gª QUESTÃO
+Enunciado:
+Observe os trechos a seguir, extraídos de uma resenha de APG de alunos do segundo período
+de Medicina:
+TRECHO A) "O som é a interpretação do cérebro da frequência, amplitude e duração das ondas
+sonoras que chegam até nossas orelhas." (SILVERTHORN, 2017, p. 330)
+TRECHO B) Dessa forma, para Silverthorn (2017), é necessário o envolvimento de diferentes
+órgãos para o completo processamento auditivo.
+SILVERTHORN, D. U. Fisiologia humana: uma abordagem integrada. 7. ed. Porto Alegre:
+Artmed, 2017.
+Avalie os trechos A e B, acima, e identifique a asserção correta.
+000072.440016.,218d59.2b54b7.2d10do,d75324.4f352e.ce34e Pgina 10 de 12
+
+Alternativas:
+(alternativa A)
+Ambos os trechos A e B são citações indiretas, no padrão Vancouver.
+(alternativa B)
+O trecho A é uma citação indireta, no padrão Vancouver; o trecho B é uma citação direta, no
+padrão ABNT.
+(alternativa C) (CORRETA)
+O trecho A é uma citação direta, no padrão ABNT; o trecho B é uma citação indireta, no padrão
+ABNT.
+(alternativa D)
+Ambos os trechos A e B são citações diretas, no padrão ABNT.
+Resposta comentada:
+O trecho A é uma citação direta curta, uma vez que está entre aspas, representando a
+transcrição literal da maneira como está na referência original. Já o trecho B não indica
+transcrição literal, mas sim a reescrita do texto original, utilizando outras palavras e mantendo-
+se o sentido. Dessa forma, o trecho B é uma citação indireta. Ambas estão no padrão ABNT,
+com sobrenome do autor indicado ao longo do texto.
+REFERÊNCIAS
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia
+científica [recurso eletrônico]. 9. ed. São Paulo: Atlas, 2021. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597026580.
+10ª QUESTÃO
+Enunciado:
+Um estudante de medicina durante a visita à uma Unidade Básica de Saúde (UBS) demonstra
+preocupação com o aumento de novos casos de Dengue no território. A partir disso foi proposta
+uma parceria entre os estudantes da faculdade e os colaboradores da UBS para desenvolver
+uma ação de combate à Dengue, sensibilizando os moradores para ações com foco na
+prevenção.
+Para que a proposta de parceria acima aconteça, a faculdade deve
+I. Desenvolver uma pesquisa de campo para coletar os dados sobre a frequência e
+prevalência desta doença no território.
+II. Propor aulas interdisciplinares entre SOI, MEP, IESC E HAM para que os alunos
+compreendam a necessidade de relacionar o conhecimento com o território.
+III. Desenvolver um projeto de extensão vinculado à formação do discente em parceria
+com Secretaria de Saúde do município, para desenvolver ações de intervenção de
+caráter educativo no território.
+Está correto o que se afirma em
+000072,440016.218d59.2b54b7.2d10d0.d75324.4f352e.ce34e Pgina 11 de 12
+
+Alternativas:
+(alternativa A)
+II, apenas.
+(alternativa B) (CORRETA)
+III, apenas.
+(alternativa C)
+Il e III.
+(alternativa D)
+I, apenas.
+Resposta comentada:
+Como o foco da proposta é sensibilizar os moradores do território da UBS através de ações
+educativas desenvolvidas pelos alunos da faculdade, em parceria com a Secretaria de Saúde,
+trata-se de um projeto de extensão, logo apenas a afirmativa Ill está correta. A extensão é
+uma via de mão-dupla, com trânsito assegurado à comunidade acadêmica, que encontrará,
+na sociedade, a oportunidade de elaboração da práxis de um conhecimento acadêmico.
+Tanto uma pesquisa de campo quanto as aulas não afetariam diretamente os moradores, já
+que os dados coletados seriam de uso exclusivo dos estudantes, assim como o conhecimento
+adquirido nas aulas, logo as afirmativas I, Il estão incorretas.
+REFERÊNCIAS
+GONÇALVES, Nadia Gaiofatto. Indissociabilidade entre Ensino, Pesquisa e Extensão: um princípio
+necessário. Perspectiva, 2015, 33.3: 1229-1256. Disponível em:
+https://periodicos.ufsc.br/index.php/perspectiva/article/view/2175-795X.2015v33n3p1229/pdfa.
+Acesso em: 11 fev. 2023.
+000072,440016.218d59.2b54b7.2d10d0.d75324.4f352e.ce34e Pgina 12 de 12

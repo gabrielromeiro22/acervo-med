@@ -1,0 +1,931 @@
+Treine as provas online! www.acervo.vip
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integradora 1º Período e Métodos Científicos em Medicina I
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 28/11/2025
+
+N2 ESPECÍFICA - MCM I - MEDICINA - 1º PERÍODO - 2025.2 - 1ª CHAMADA 28/NOVEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17977 - CADERNO 004
+1ª QUESTÃO
+Enunciado:
+(AFYA Garanhuns) Um grupo de estudantes de Medicina está elaborando um projeto de
+pesquisa sobre a adesão de pacientes hipertensos ao tratamento medicamentoso na
+Atenção Primária à Saúde. Durante a construção do projeto, surgiu a dúvida sobre o que
+deve ser abordado na introdução e o que deve ser desenvolvido no referencial teórico.
+Analise as afirmativas a seguir:
+I. A introdução deve apresentar o contexto do problema, delimitando o tema da
+adesão ao tratamento, justificando sua relevância social e científica e evidenciando
+o impacto da hipertensão na saúde pública.
+II. O referencial teórico tem como finalidade descrever e discutir os principais
+conceitos, modelos teóricos e estudos anteriores sobre adesão terapêutica, fatores
+de risco e determinantes comportamentais.
+III. A introdução deve conter uma discussão crítica e detalhada da literatura
+científica sobre adesão ao tratamento, descrevendo e comparando os principais
+resultados encontrados por diferentes autores.
+IV. O referencial teórico deve integrar diferentes perspectivas conceituais,
+organizando e articulando o conhecimento disponível sobre o tema, a fim de
+sustentar a base teórica da pesquisa.
+Com base nas funções metodológicas dessas seções, está correto o que se afirma em:
+Alternativas:
+(alternativa A)
+I, II, III e IV.
+(alternativa B)
+I, III e IV apenas.
+(alternativa C) (CORRETA)
+I, II e IV apenas.
+(alternativa D)
+I, II e III apenas.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 1 de 20
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Justificativas:
+A afirmativa I descreve corretamente a introdução, pois nela o pesquisador apresenta o
+contexto, delimita o tema e justifica sua importância.
+As afirmativas II e IV descrevem funções típicas do referencial teórico, pois envolvem a
+exposição e a articulação crítica das teorias e estudos anteriores, trazendo o
+aprofundamento sobre o tema.
+A afirmativa III está incorreta por atribuir à introdução uma função que pertence ao
+referencial teórico — a revisão crítica aprofundada e comparativa da literatura.
+Referências:
+AQUINO, Ítalo de S. Como escrever artigos científicos. 9 ed. São Paulo: Saraiva Educação,
+2019. E-book. ISBN 9788571440289. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788571440289/. Acesso em: 18 out.
+2025.
+GIL, Antonio C. Como Elaborar Projetos de Pesquisa. 7. ed. Grupo GEN, 2022. E-book.
+ISBN 9786559771653. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786559771653/. Acesso em: 18 out.
+2025.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA Cruzeiro do Sul) Uma equipe de estudantes de medicina quer realizar uma busca
+na literatura científica sobre a relação entre a depressão e a terapia cognitivocomportamental. O aluno A sugere a estratégia: depressão AND "terapia cognitivocomportamental". No entanto, a busca retorna um número muito pequeno de artigos.
+Preocupados, os colegas discutem novas estratégias:
+I - O aluno B propõe: (depressão OR "terapia cognitivo-comportamental"). Ele argumenta
+que essa estratégia trará artigos que mencionem pelo menos um dos termos,
+maximizando o número de resultados.
+II - A aluna C sugere: (depressão NOT "terapia cognitivo-comportamental"). Ela acredita
+que, ao excluir o segundo termo, a busca se concentrará apenas na fisiopatologia da
+depressão, que é o real interesse do grupo.
+III - O aluno D defende: ((depressão OR transtorno depressivo) AND "terapia cognitivocomportamental"). Ele justifica que isso buscará por sinônimos e os associará de forma
+obrigatória à terapia, equilibrando abrangência e precisão.
+Identifique a assertiva mais adequada para o cenário descrito.
+Alternativas:
+(alternativa A)
+I, apenas.
+(alternativa B)
+II e III, apenas.
+(alternativa C) (CORRETA)
+III, apenas.
+(alternativa D)
+I e III, apenas.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 2 de 20
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+I está incorreta. O operador OR maximiza o número de resultados, mas ao custo de uma
+baixa especificidade. A estratégia recuperaria artigos que tratam apenas de depressão
+(sem mencionar terapia) e artigos que tratam apenas da terapia (sem focar em
+depressão), desviando completamente do objetivo da busca, que é a relação entre os
+dois conceitos.
+II está incorreta. O operador NOT exclui artigos que contenham "terapia cognitivocomportamental". Isso restringe a busca a aspectos da depressão que não estão
+associados a essa terapia, o que é oposto ao interesse do grupo. A estratégia eliminaria
+justamente os artigos mais relevantes para a pergunta de pesquisa.
+III está correta. Esta é a estratégia mais adequada e otimizada. O uso do OR entre
+sinônimos (depressão OR "transtorno depressivo") aumenta a sensibilidade da busca,
+capturando mais artigos relevantes. Ao encapsular essa busca por sinônimos com
+parênteses e conectá-la ao outro conceito via AND, a estratégia mantém a precisão,
+garantindo que todos os resultados finais abordem efetivamente a aplicação da "terapia
+cognitivo-comportamental" no contexto dos transtornos depressivos.
+Referência:
+DE OLIVEIRA CRUZ LATORRACA, C. et al. Busca em bases de dados eletrônicas da área da
+saúde: por onde começar? Diagnóstico & Tratamento, p. 59–63, 2019. Disponível em:
+https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf. Acesso em: 14
+out. 2025.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Um hospital passou a utilizar um sistema de inteligência artificial (IA) para
+apoiar diagnósticos em exames de imagem. Após algumas semanas, parte da equipe
+médica passou a confiar integralmente nas sugestões do sistema, sem revisar os
+resultados. Posteriormente, descobriu-se que o algoritmo apresentava maior taxa de erro
+em determinados grupos de pacientes, devido ao tipo de base de dados utilizada em seu
+treinamento.
+Considerando esse cenário, analise as afirmativas a seguir:
+I. O episódio evidencia que o uso da IA requer avaliação crítica e supervisão humana
+nas decisões clínicas.
+II. O caso demonstra que os algoritmos podem reproduzir desigualdades,
+dependendo das informações usadas para treiná-los.
+III. A atuação médica descrita certifica que a utilização da IA pode dispensar a
+responsabilidade ética e autonomia profissional do médico.
+IV. O uso da IA garantiu maior precisão diagnóstica para todos os pacientes, sem
+riscos éticos relevantes.
+É correto o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I e II, apenas.
+(alternativa B)
+I, II, III e IV.
+(alternativa C)
+I, II e III, apenas.
+(alternativa D)
+II e IV, apenas.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 3 de 20
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+I – Correta.
+O texto mostra que parte da equipe médica passou a confiar totalmente na IA sem revisar
+os resultados. Isso reforça a necessidade de avaliação crítica e supervisão humana, pois a
+IA deve apoiar, e não substituir, o julgamento clínico.
+II – Correta.
+O texto afirma que o sistema apresentou maior taxa de erro em determinados grupos de
+pacientes devido à base de dados usada. Isso indica a existência de viés algorítmico, que
+pode reproduzir desigualdades nos diagnósticos e tratamentos.
+III – Incorreta.
+Embora a situação devesse reforçar a importância da autonomia médica, o texto mostra
+o contrário: os profissionais abriram mão da revisão e da decisão crítica, confiando
+cegamente na IA. Portanto, não houve exercício de autonomia nem responsabilidade
+ética adequada.
+IV – Incorreta.
+O texto afirma que houve erros e desigualdades diagnósticas, o que contraria a ideia de
+que a IA garantiu “maior precisão para todos os pacientes” ou que não houve riscos
+éticos. Logo, essa afirmativa é falsa.
+Apenas as afirmativas I e II estão corretas.
+Referência:
+TOPOL, Eric. Medicina Profunda - Deep Medicine: Como a Inteligência Artificial Pode
+Reumanizar os Cuidados de Saúde. Grupo A, 2024.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Um grupo de pesquisadores da área da saúde decidiu compreender por
+que algumas gestantes de uma comunidade rural não aderem ao pré-natal oferecido pela
+unidade básica de saúde. Durante seis meses, os pesquisadores realizaram um projeto
+de pesquisa convivendo com as famílias da comunidade, participando de encontros,
+rituais e atividades cotidianas, registraram conversas informais e observações em diário
+de campo e analisaram os significados culturais atribuídos à gestação e ao cuidado
+materno.
+Com base na descrição do método, assinale a alternativa que identifica corretamente o
+tipo de estudo realizado.
+Alternativas:
+(alternativa A)
+Pesquisa documental, pois utiliza registros escritos e fontes secundárias como principal
+base de dados para compreender as práticas de saúde da comunidade.
+(alternativa B) (CORRETA)
+Pesquisa etnográfica, pois envolve imersão do pesquisador no contexto social estudado,
+com análise qualitativa e interpretação dos significados culturais.
+(alternativa C)
+Relato de caso, pois descreve detalhadamente a experiência vivida por um grupo
+específico de gestantes, com base em observações diretas do pesquisador.
+(alternativa D)
+Ensaio, pois, busca discutir ideias e propor soluções teóricas para os problemas de
+adesão ao pré-natal, sem necessidade de coleta sistemática de dados de campo.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 4 de 20
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+A resposta correta é pesquisa etnográfica, que se caracteriza pela imersão prolongada do
+pesquisador no campo, pela observação participante, análise qualitativa e pela
+interpretação dos significados culturais e sociais que influenciam comportamentos de
+saúde.
+Relato de caso foca em descrever detalhadamente um caso singular (por exemplo, um
+paciente, uma família, uma instituição) ou uma série de casos, frequentemente com
+ênfase clínica ou particular. Não exige necessariamente imersão prolongada, observação
+participante ou análise cultural abrangente, como descrito no enunciado.
+Pesquisa documental utiliza fontes escritas ou registros secundários (documentos,
+arquivos, prontuários, relatórios) como principal base de dados. No enunciado, os dados
+são primários (observações, conversas informais, diário de campo) coletados em campo.
+O oposto do que caracteriza uma pesquisa documental.
+Um ensaio é um texto argumentativo ou reflexivo que discute ideias e interpretações,
+sem necessariamente basear-se em coleta sistemática de dados de campo. O enunciado
+descreve claramente um trabalho empírico com coleta e registro de dados por
+observação participante, portanto não se trata de um ensaio teórico.
+Referências:
+FLICK, Uwe. Introdução à pesquisa qualitativa. 3. ed. Porto Alegre: ArtMed, 2008. EBook (1
+recurso online). ISBN 9788536318523. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788536318523. Acesso em: 16 nov.
+2024.
+GIL, Antonio C. Como Elaborar Projetos de Pesquisa. 7 ed. Grupo GEN, 2022. E-book. ISBN
+9786559771653. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786559771653/. Acesso em: 05 jun.
+2024.
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Durante um semestre, uma pesquisadora acompanhou as atividades de
+uma Unidade Básica de Saúde (UBS) situada em uma comunidade rural. Ela frequentava
+diariamente o local, sentava-se junto aos profissionais durante as consultas, observava
+as conversas entre equipe e usuários e, em alguns momentos, participava de grupos
+educativos sobre alimentação e atividade física, colaborando com sugestões e reflexões.
+Em seu diário de campo, registrava não apenas as falas dos participantes, mas também
+suas próprias impressões e sentimentos ao vivenciar o cotidiano da UBS. O objetivo do
+estudo foi compreender como se constroem as práticas de cuidado e os significados
+atribuídos pelos profissionais à promoção da saúde.
+Considerando o cenário descrito, analise as afirmativas a seguir:
+I. O estudo descrito caracteriza-se por uma pesquisa etnográfica, pois busca
+compreender os significados e práticas culturais em seu contexto natural.
+II. O tipo de observação realizada é participante, pois a pesquisadora interagiu
+diretamente nas atividades do grupo observado.
+III. A presença do diário reflexivo evidencia o caráter interpretativo e imersivo da
+pesquisa qualitativa.
+IV. A coleta de dados baseou-se em instrumentos quantitativos, voltados à
+mensuração de comportamentos.
+É correto o que se afirma em:
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 5 de 20
+
+Treine as provas online! www.acervo.vip
+Alternativas:
+(alternativa A)
+II e IV, apenas.
+(alternativa B)
+I e II, apenas.
+(alternativa C) (CORRETA)
+I, II e III, apenas.
+(alternativa D)
+I e IV, apenas.
+
+Resposta comentada:
+I- O estudo descrito caracteriza-se por uma pesquisa etnográfica, pois busca
+compreender os significados e práticas culturais em seu contexto natural.
+Correta.
+A etnografia é um tipo de pesquisa qualitativa que visa compreender fenômenos sociais e
+culturais no contexto em que ocorrem, a partir da imersão do pesquisador no ambiente
+estudado. No texto, a pesquisadora frequenta diariamente a UBS, observa interações e
+participa de atividades, com o propósito de compreender significados e práticas de
+cuidado, características típicas da etnografia.
+II- O tipo de observação realizada é participante, pois a pesquisadora interagiu
+diretamente nas atividades do grupo observado.
+Correta.
+A observação participante ocorre quando o pesquisador interage e se envolve, em
+alguma medida, com os sujeitos da pesquisa. No caso, ela participava dos grupos
+educativos, oferecia sugestões e reflexões, sem perder o papel de observadora. Essa
+interação é própria da observação participante.
+III- A presença do diário reflexivo evidencia o caráter interpretativo e imersivo da
+pesquisa qualitativa.
+Correta.
+O diário de campo é um instrumento clássico das abordagens qualitativas, especialmente
+etnográficas, pois permite registrar percepções, sentimentos e reflexões do pesquisador.
+Esses registros revelam o caráter interpretativo, subjetivo e imersivo do processo
+investigativo, mostrando a influência da experiência vivida na produção de
+conhecimento.
+IV- A coleta de dados baseou-se em instrumentos quantitativos, voltados à mensuração
+de comportamentos.
+Incorreta.
+O texto descreve observações, interações e registros em diário de campo — todos
+métodos qualitativos. Não há menção a instrumentos quantitativos (como questionários
+estruturados ou escalas numéricas). Portanto, essa afirmativa está errada.
+Apenas as afirmativas I, II e III estão corretas.
+
+Referência:
+FLICK, Uwe. Introdução à pesquisa qualitativa. 3. ed. Porto Alegre: ArtMed, 2008.
+
+Feedback:
+-6ª QUESTÃO
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 6 de 20
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(FASA VIC) Um grupo de pesquisadores deseja investigar as percepções dos profissionais
+de saúde sobre a implementação de um novo protocolo clínico em um hospital. Para isso,
+consideram utilizar diferentes métodos de coleta de dados. Entre as opções estão:
+observação participante, observação não participante, grupo focal e entrevista
+semiestruturada.
+Com base no contexto apresentado, considere as características dos métodos de coleta
+de dados e selecione a alternativa correta.
+Alternativas:
+(alternativa A)
+O grupo focal é uma técnica que se concentra na análise de interações individuais,
+enquanto a entrevista semiestruturada explora a dinâmica grupal de forma espontânea.
+(alternativa B) (CORRETA)
+A observação participante permite que o pesquisador atue diretamente no contexto,
+influenciando os dados, enquanto o grupo focal se baseia em discussões coletivas,
+mediadas por um facilitador.
+(alternativa C)
+A entrevista semiestruturada permite uma interação estruturada, em que as perguntas
+são rígidas, enquanto a observação participante não interfere no ambiente estudado.
+(alternativa D)
+A observação não participante envolve a interação ativa do pesquisador com o ambiente
+estudado, enquanto a entrevista semiestruturada se caracteriza por perguntas rígidas e
+pré-definidas.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 7 de 20
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Alternativa correta: “A observação participante permite que o pesquisador atue
+diretamente no contexto, influenciando os dados, enquanto o grupo focal se baseia em
+discussões coletivas, mediadas por um facilitador.” A observação participante envolve a
+inserção do pesquisador no ambiente estudado, o que pode levar à influência dos dados
+coletados, devido à interação direta com os participantes. O grupo focal, por outro lado, é
+uma técnica de coleta de dados qualitativos que envolve a realização de discussões em
+grupo, mediadas por um facilitador, que orienta o debate em torno de um tema
+específico.
+Alternativa: “A observação não participante envolve a interação ativa do pesquisador com
+o ambiente estudado, enquanto a entrevista semiestruturada se caracteriza por
+perguntas rígidas e pré-definidas”. Incorreta. A observação não participante é um método
+em que o pesquisador observa o ambiente sem interagir com ele, minimizando sua
+influência nos dados. A entrevista semiestruturada, ao contrário do que é afirmado, é
+caracterizada por ter um roteiro flexível, com perguntas pré-definidas, mas permitindo
+que o entrevistador explore novos temas que surgirem durante a entrevista.
+Alternativa: “O grupo focal é uma técnica que se concentra na análise de interações
+individuais, enquanto a entrevista semiestruturada explora a dinâmica grupal de forma
+espontânea”. Incorreta. O grupo focal se concentra na análise de interações grupais, não
+individuais. Essa técnica é utilizada para compreender as opiniões, percepções e atitudes
+dos participantes em uma discussão coletiva. Já a entrevista semiestruturada, ao
+contrário do que a alternativa sugere, é uma técnica individual de coleta de dados, na
+qual o entrevistador pode adaptar as perguntas conforme a resposta do entrevistado.
+Alternativa: “A entrevista semiestruturada permite uma interação estruturada, em que as
+perguntas são rígidas, enquanto a observação participante não interfere no ambiente
+estudado”. Incorreta. A entrevista semiestruturada é flexível, permitindo que o
+entrevistador adapte as perguntas conforme a necessidade da entrevista, ao contrário do
+que sugere a alternativa. Além disso, a observação participante, diferentemente do que é
+afirmado, implica uma interferência ativa do pesquisador no ambiente estudado, o que
+pode influenciar os resultados da pesquisa.
+Referências:
+GIL, A. C. Métodos e Técnicas de Pesquisa Social. 6. ed. São Paulo: Atlas, 2008.
+SAMPIERI, R. H.; COLLADO, C. F.; LUCIO, M.D.P. B. Metodologia de Pesquisa. 5. ed. Porto
+Alegre: Penso, 2013.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(AFYA Ipatinga) Durante a leitura de um artigo, um estudante de Medicina identifica o
+seguinte trecho na seção de metodologia:
+“O projeto foi desenvolvido em parceria com a Secretaria Municipal de Saúde
+e teve como público-alvo adolescentes de escolas públicas do entorno da
+universidade. As ações incluíram rodas de conversa sobre prevenção de
+infecções sexualmente transmissíveis, elaboração de materiais educativos e
+acompanhamento das escolas participantes durante três meses. A equipe
+avaliou o impacto das ações por meio de questionários aplicados antes e após
+as atividades.”
+O trecho acima trata-se de um:
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 8 de 20
+
+Treine as provas online! www.acervo.vip
+Alternativas:
+(alternativa A)
+projeto de pesquisa, com aplicação de questionários
+(alternativa B)
+projeto de pesquisa, com acompanhamento de três meses.
+(alternativa C)
+projeto de extensão, com metodologia experimental controlada.
+(alternativa D) (CORRETA)
+projeto de extensão, com foco em educação em saúde.
+
+Resposta comentada:
+Projeto de pesquisa, com aplicação de questionários . Incorreta.
+O uso de questionários não caracteriza necessariamente pesquisa; aqui, eles servem
+como instrumento de avaliação de ação educativa, não como coleta de dados para
+testagem de hipótese. Conforme Gil (2022, p. 31), a pesquisa exige problema, hipótese,
+variáveis e método sistemático voltado à produção de conhecimento novo — elementos
+ausentes no cenário.
+Projeto de extensão, com foco em educação em saúde. Correta.
+O texto descreve interação dialógica universidade–sociedade, com atividades educativas
+e foco social, o que caracteriza a extensão universitária, conforme Forproex (2012) e Gil
+(2022, p. 28). A parceria com a Secretaria Municipal e o público comunitário reforçam o
+caráter de extensão.
+Projeto de pesquisa, com acompanhamento de três meses. Incorreta.
+A duração não define tipo de estudo. O termo “acompanhamento” é específico de
+pesquisas longitudinais que acompanham variáveis mensuradas ao longo do tempo para
+produção de conhecimento novo, o que não está presente no cenário apresentado.
+Projeto de extensão, com metodologia experimental controlada. Incorreta.
+Não há no cenário o controle experimental, grupos comparativos nem avaliação de
+doenças — apenas questionários educativos. Portanto, não é experimental e a
+justificativa é metodologicamente incorreta.
+Referências:
+GIL, Antonio C. Métodos e Técnicas de Pesquisa Social. 7 ed. Grupo GEN, 2019. E-book.
+ISBN 9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 05 jun.
+2024.
+PEREIRA, Maurício G. Artigos Científicos – Como Redigir, Publicar e Avaliar. 1.ª ed. Grupo
+GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em: 05
+jun. 2024. (Cap. 6 - Método).
+Feedback:
+-8ª QUESTÃO
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 9 de 20
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(FASA VIC) Os relatos de caso ocupam um papel relevante na produção científica médica,
+especialmente no compartilhamento de experiências clínicas singulares e no registro de
+fenômenos raros. Diante disso, analise as assertivas abaixo:
+I. Os relatos de caso são estudos de natureza descritiva e apresentam baixo nível de
+evidência científica.
+Porque
+II. Esses estudos não comparam grupos, não testam hipóteses e, portanto, não
+permitem estabelecer relações de causalidade entre variáveis.
+É correto afirmar que:
+Alternativas:
+(alternativa A)
+as asserções I e II são verdadeiras, mas a II não justifica a I.
+(alternativa B)
+a asserção I é falsa, e a II é verdadeira.
+(alternativa C)
+a asserção I é verdadeira, e a II é falsa.
+(alternativa D) (CORRETA)
+as asserções I e II são verdadeiras, e a II justifica corretamente a I.
+
+Resposta comentada:
+Ambas as sentenças são verdadeiras, e a II explica adequadamente a I. Os relatos de
+caso têm natureza descritiva, pois descrevem fenômenos clínicos observados em um ou
+poucos pacientes (série de casos), sem intervenção ou controle experimental. Essa
+característica limita seu nível de evidência, uma vez que não há grupo controle nem
+análise comparativa; a amostra não representa a população, impossibilitando inferências
+causais. Apesar de sua limitação metodológica, relatos de caso são valiosos para gerar
+hipóteses e identificar novas doenças, efeitos adversos ou respostas terapêuticas
+inesperadas.
+Referências:
+GIL, A. C. Como elaborar projetos de pesquisa. 7. ed. Grupo GEN, 2022.
+AQUINO, Í. de S. Como escrever artigos científicos. 9. ed. São Paulo: Saraiva Educação,
+2019.
+CERVO, A. L.; BERVIAN, P. A. Metodologia Científica. 6. ed. São Paulo: Pearson, 2007.
+SAMPIERI, R. H.; COLLADO, C. F.; LUCIO, M. D. P. B. Metodologia de pesquisa. Grupo A,
+2013.
+Feedback:
+-9ª QUESTÃO
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 10 de 20
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(UNIGRANRIO BARRA) Durante uma aula sobre os diferentes tipos de conhecimento, os
+alunos Pedro e Rafael debateram a seguinte situação:
+Pedro: “Quando um curandeiro afirma que uma planta cura determinada doença
+porque essa sabedoria foi transmitida pelos antepassados, ele está utilizando um
+tipo de conhecimento popular (empírico), construído pela experiência cotidiana.”
+Rafael: “Isso acontece porque o conhecimento popular é aquele que busca
+explicações racionais e sistematizadas da realidade, baseando-se em observação
+controlada e experimentação reprodutível.”
+Com base na discussão entre os alunos, é correto afirmar que:
+Alternativas:
+(alternativa A)
+as afirmações de ambos os alunos estão corretas, mas a fala de Rafael não justifica a fala
+de Pedro.
+(alternativa B)
+a afirmação de Pedro é incorreta, e a de Rafael é correta.
+(alternativa C)
+as afirmações de ambos os alunos estão corretas, e Rafael justifica corretamente a fala
+de Pedro.
+(alternativa D) (CORRETA)
+a afirmação de Pedro está correta, e a de Rafael é incorreta.
+
+Resposta comentada:
+“As afirmações de ambos os alunos estão corretas, e Rafael justifica corretamente a fala
+de Pedro.” Esta alternativa está incorreta, uma vez que a fala de Pedro está correta, mas
+a de Rafael não está. Rafael descreve características do conhecimento científico, não do
+conhecimento popular. Portanto, não é possível que ambas estejam corretas ou que uma
+justifique a outra.
+“As afirmações de ambos os alunos estão corretas, mas a fala de Rafael não justifica a
+fala de Pedro.” Esta alternativa está incorreta. Embora a formulação pareça conciliadora,
+ela parte da ideia de que ambas as falas estão certas, o que é falso. O conhecimento
+popular não se baseia em observação controlada nem em experimentação reprodutível,
+mas sim na tradição e na experiência cotidiana.
+“A afirmação de Pedro está correta, e a de Rafael é incorreta.” Esta alternativa está
+correta, uma vez que Pedro expressa adequadamente o conceito de conhecimento
+popular (empírico), que é construído a partir da experiência e da tradição, sendo
+transmitido culturalmente. Já Rafael descreve o conhecimento científico, que de fato
+busca explicações racionais, sistematizadas e baseadas em métodos de observação e
+experimentação controlada. Portanto, ele confunde os tipos de conhecimento.
+“A afirmação de Pedro é incorreta, e a de Rafael é correta.” Esta alternativa está
+incorreta, pois inverte a lógica correta. Pedro está certo quanto à definição do
+conhecimento popular, e Rafael está incorreto ao atribuir-lhe características do
+conhecimento científico.
+Referência:
+LAKATOS, E. M. Fundamentos de metodologia científica. 9. ed. Rio de Janeiro: Editora
+Atlas, 2021. ISBN 978-85-97-02657-3. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597026580/. Acesso em: 24 maio
+2024.
+Feedback:
+-10ª QUESTÃO
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 11 de 20
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(AFYA Itacoatira) Em um hospital público, uma paciente idosa, lúcida e diagnosticada com
+insuficiência renal grave, recusa o tratamento de hemodiálise, afirmando querer passar
+seus últimos dias em casa, junto à família. A equipe médica discute se deve respeitar sua
+vontade ou iniciar o tratamento mesmo assim, considerando que ele poderia prolongar
+sua vida.
+Com base na Declaração Universal sobre Bioética e Direitos Humanos (UNESCO, 2005),
+qual princípio deve orientar a decisão da equipe de saúde nessa situação?
+Alternativas:
+(alternativa A)
+Priorizar a beneficência, garantindo o tratamento que maximize a sobrevida da paciente,
+mesmo contra sua vontade.
+(alternativa B) (CORRETA)
+Priorizar a autonomia, respeitando a decisão informada da paciente sobre o tratamento
+que deseja ou não receber.
+(alternativa C)
+Priorizar a não maleficência, evitando qualquer procedimento invasivo que possa causar
+sofrimento físico à paciente.
+(alternativa D)
+Priorizar a justiça, assegurando que a paciente receba o mesmo tratamento indicado para
+todos os casos semelhantes.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 12 de 20
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Priorizar a beneficência, garantindo o tratamento que maximize a sobrevida da paciente,
+mesmo contra sua vontade.
+Esta questão está incorreta. O princípio da beneficência está previsto no Artigo 4º, que
+recomenda “maximizar os benefícios e minimizar os danos aos indivíduos”.
+No entanto, a Declaração também destaca, no Artigo 5º (Autonomia e Responsabilidade
+Individual), que os indivíduos têm o direito de tomar decisões sobre sua própria saúde.
+Assim, aplicar a beneficência sem respeitar a vontade da paciente violaria a autonomia e
+a dignidade humana (Artigo 3º).
+Priorizar a não maleficência, evitando qualquer procedimento invasivo que possa causar
+sofrimento físico à paciente.
+Esta questão está incorreta. O Artigo 4º também orienta a evitar danos (“não
+maleficência”), porém, a recusa de tratamento não deve ser interpretada apenas sob o
+prisma de evitar dor física, mas sim como parte do respeito à vontade da paciente.
+Portanto, embora relevante, esse princípio não é o critério prioritário no caso, pois a
+paciente expressa claramente uma decisão autônoma e consciente.
+Priorizar a autonomia, respeitando a decisão informada da paciente sobre o tratamento
+que deseja ou não receber.
+Esta questão está correta. O Artigo 5º estabelece que “a autonomia das pessoas deve ser
+respeitada, cabendo-lhes decisões sobre sua própria vida e saúde”.
+O Artigo 6º (Consentimento) reforça que nenhuma intervenção médica deve ser realizada
+sem o consentimento livre e esclarecido do indivíduo. Assim, a escolha da paciente em
+recusar o tratamento deve ser respeitada, desde que tenha recebido todas as
+informações necessárias e esteja em plena capacidade de decisão.
+Priorizar a justiça, assegurando que a paciente receba o mesmo tratamento indicado para
+todos os casos semelhantes.
+Esta alternativa está incorreta. O princípio da justiça, abordado no Artigo 10º (Igualdade,
+Justiça e Equidade), assegura o acesso equitativo aos cuidados de saúde.
+No entanto, este princípio se refere à distribuição justa de recursos e oportunidades, e
+não à imposição de tratamento contra a vontade do paciente. Aplicá-lo neste contexto
+desconsideraria a autonomia individual e o direito à dignidade (Artigos 3º e 5º).
+Referência:
+Declaração Universal sobre Bioética e Direitos Humanos. Disponível em:
+https://unesdoc.unesco.org/ark:/48223/pf0000146180_por. Acesso em: 22 out. 2025.
+Feedback:
+-11ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Pesquisadores de uma universidade pública buscaram compreender os
+fatores que influenciam a baixa adesão de pacientes diabéticos ao acompanhamento
+nutricional oferecido pelo Sistema Único de Saúde (SUS). Inicialmente, eles formularam
+uma hipótese de que a falta de tempo e a baixa renda estariam associadas à menor
+adesão. Em seguida, realizaram entrevistas, aplicaram questionários e analisaram os
+resultados para verificar se essa hipótese se confirmava na prática. Além disso, os
+pesquisadores discutiram os resultados à luz das condições sociais e econômicas que
+envolvem os participantes.
+Com base nesse cenário, analise as afirmativas a seguir:
+I. O estudo utiliza o método indutivo, pois parte da observação de casos
+particulares para construir uma generalização sobre o fenômeno estudado.
+II. O estudo utiliza o método dedutivo, pois parte de uma teoria geral e aplica-a a
+situações específicas.
+III. O estudo utiliza o método hipotético-dedutivo, pois formula hipóteses que são
+testadas empiricamente para confirmação ou rejeição.
+IV. O estudo utiliza o método dialético, pois considera as contradições sociais e
+econômicas envolvidas na realidade estudada.
+Está correto apenas o que se afirma em:
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 13 de 20
+
+Treine as provas online! www.acervo.vip
+Alternativas:
+(alternativa A) (CORRETA)
+III e IV, apenas.
+(alternativa B)
+I e II, apenas.
+(alternativa C)
+I e III, apenas.
+(alternativa D)
+II e IV, apenas.
+
+Resposta comentada:
+Apenas III e IV estão corretas:
+Afirmativa I – Incorreta:
+O método indutivo é aquele em que o pesquisador parte da observação de casos
+particulares para chegar a uma conclusão geral, sem hipótese prévia. No caso descrito, a
+pesquisa começa com uma hipótese formulada previamente, o que não caracteriza
+indução.
+Afirmativa II – Incorreta:
+O método dedutivo parte de uma lei ou teoria geral e busca aplicá-la a casos concretos.
+Aqui, o estudo não parte de uma teoria estabelecida, mas sim de uma hipótese criada
+pelos próprios pesquisadores, portanto não é dedutivo.
+Afirmativa III – Correta:
+O método hipotético-dedutivo é exatamente o que ocorre no estudo: há formulação de
+hipótese, coleta de dados empíricos e análise para confirmar ou rejeitar a hipótese inicial.
+Esse método combina raciocínio lógico com observação prática.
+Afirmativa IV – Correta:
+O método dialético também está presente, pois os pesquisadores analisaram as
+contradições sociais e econômicas relacionadas ao fenômeno — um traço típico da
+abordagem dialética, que busca compreender o objeto de estudo em seu contexto e nas
+tensões da realidade social.
+Referência:
+LAKATOS, E M. Fundamentos de metodologia científica. 9. ed. Rio de Janeiro: Editora
+Atlas, 2021. ISBN 978-85-97-02657-3. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597026580/. Acesso em: 19 out.
+2025.
+
+Feedback:
+-12ª QUESTÃO
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 14 de 20
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(AFYA PARAÍBA) Uma equipe de pesquisadores em Medicina Coletiva pretende analisar a
+evolução das políticas públicas de atenção à saúde da mulher no Brasil, especialmente no
+que se refere à ampliação do acesso ao pré-natal e ao parto humanizado nos últimos 20
+anos. Para isso, os pesquisadores decidiram consultar documentos oficiais como leis,
+portarias do Ministério da Saúde, relatórios de gestão, planos nacionais de saúde e
+protocolos clínicos, buscando compreender como essas políticas foram implementadas e
+modificadas ao longo do tempo.
+Diante disso, avalie as asserções a seguir e a relação proposta entre elas:
+I. O estudo caracteriza-se como pesquisa documental, já que utiliza fontes primárias não
+elaboradas, como relatórios e documentos oficiais, para compreender a evolução de
+políticas públicas.
+Porque
+II. A pesquisa documental permite analisar registros e documentos originais, sem
+necessidade de contato direto com os sujeitos da pesquisa.
+Considerando as asserções acima e a relação proposta entre elas, assinale a alternativa
+correta.
+Alternativas:
+(alternativa A) (CORRETA)
+As duas asserções são verdadeiras e a segunda justifica corretamente a primeira.
+(alternativa B)
+As duas asserções são verdadeiras, mas a segunda não justifica a primeira.
+(alternativa C)
+A primeira asserção é falsa e a segunda é verdadeira.
+(alternativa D)
+A primeira asserção é verdadeira e a segunda é falsa.
+
+Resposta comentada:
+Resposta correta: As duas asserções são verdadeiras e a segunda justifica corretamente
+a primeira.
+Comentário da I: A afirmativa está correta. O estudo descrito se enquadra em uma
+pesquisa documental, pois utiliza fontes primárias, ou seja, documentos oficiais e
+relatórios institucionais que ainda não foram analisados por outros autores. Esse tipo de
+pesquisa busca compreender fatos, políticas ou processos a partir de registros originais, o
+que corresponde exatamente ao objetivo dos pesquisadores no cenário apresentado.
+Comentário da II: A segunda afirmativa também é verdadeira. Uma característica
+fundamental da pesquisa documental é que ela dispensa o contato direto com os sujeitos
+pesquisados, concentrando-se na análise de registros, documentos e arquivos. Essa
+abordagem é particularmente útil em estudos de políticas públicas, quando o interesse
+está nos dados históricos e administrativos, e não na experiência direta das pessoas.
+Relação entre I e II: A segunda afirmativa justifica a primeira, pois explica por que o tipo
+de pesquisa escolhido (documental) é o mais adequado para atingir o objetivo proposto:
+compreender a evolução das políticas públicas por meio da análise de documentos
+originais.
+Conclusão: Portanto, o estudo é do tipo documental, as duas asserções são verdadeiras,
+e a segunda fundamenta logicamente a primeira, pois evidencia a coerência entre o
+método escolhido e a natureza das fontes analisadas.
+Referência:
+FLICK, Uwe. Introdução à pesquisa qualitativa. 3. ed. Porto Alegre: ArtMed, 2008. EBook (1
+recurso online). ISBN 9788536318523. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788536318523. Acesso em: 16 out.
+2025.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 15 de 20
+
+Treine as provas online! www.acervo.vip
+Feedback:
+-13ª QUESTÃO
+Enunciado:
+(UNIMA) Em um estudo conduzido por enfermeiros de uma Unidade Básica de Saúde
+(UBS), investigou-se como pacientes com hipertensão arterial compreendem e vivenciam
+o tratamento medicamentoso. Os pesquisadores realizaram entrevistas semiestruturadas
+e grupos focais com pacientes e profissionais de saúde, buscando identificar significados,
+percepções, sentimentos e barreiras subjetivas relacionadas à adesão terapêutica. As
+falas foram gravadas, transcritas integralmente e analisadas pela técnica de análise
+temática de conteúdo, a partir de categorias emergentes vinculadas à motivação, ao
+autocuidado e ao vínculo com a equipe. Não houve mensuração de variáveis nem
+aplicação de testes estatísticos.
+Com base no texto acima, analise as assertivas a seguir:
+I. O estudo busca compreender experiências e significados, o que caracteriza uma
+abordagem qualitativa.
+II. O uso de entrevistas e análise de conteúdo confirma a natureza qualitativa da
+investigação.
+III. A ausência de mensuração numérica e de análise estatística distingue o estudo das
+abordagens quantitativas.
+IV. A integração de dados qualitativos e quantitativos supracitada define o estudo como
+método misto.
+É correto o que se afirma em:
+Alternativas:
+(alternativa A)
+I e II, apenas.
+(alternativa B)
+II e III, apenas.
+(alternativa C) (CORRETA)
+I, II e III, apenas.
+(alternativa D)
+I, III e IV, apenas.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 16 de 20
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Alternativa — I e II, apenas. Incorreta. As afirmativas I e II realmente descrevem aspectos
+essenciais da pesquisa qualitativa, mas a III também é verdadeira, pois a ausência de
+mensuração numérica reforça a distinção da abordagem quantitativa.
+Alternativa — II e III, apenas. Incorreta. A afirmativa I também é verdadeira e
+indispensável: a busca por significados e experiências é o núcleo definidor da
+metodologia qualitativa.
+Alternativa — I, II e III, apenas. Correta.
+I (Verdadeira): O estudo tem foco interpretativo e compreensivo — fundamento
+do paradigma qualitativo.
+II (Verdadeira): Técnicas como entrevistas e análise de conteúdo são típicas
+dessa abordagem.
+III (Verdadeira): A inexistência de medidas e estatística confirma o afastamento
+da abordagem quantitativa.
+IV (Falsa): Não há integração de métodos nem coleta quantitativa no cenário
+apresentado; logo, não é um método misto.
+Alternativa — I, III e IV, apenas. Incorreta. Apesar de I e III serem verdadeiras, a IV é falsa
+— o estudo não combina abordagens distintas.
+Referências:
+GIL, A.C. Como Elaborar Projetos de Pesquisa. 7 ed. Grupo GEN, 2022. E-book. ISBN
+9786559771653. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786559771653/. Acesso em: 05 jun.
+2024.
+POPE, C.; MAYS, N. Pesquisa qualitativa na atenção à saúde. 3. ed. Porto Alegre: Artmed,
+2009. E-book. ISBN 9788536318578. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788536318578/. Acesso em: 24 maio
+2024.
+SAMPIERI, R. H.; COLLADO, C. F.; LUCIO, M.D.P. B. Metodologia de Pesquisa. 5. ed. Porto
+Alegre: Penso, 2013. 9788565848367. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788565848367/. Acesso em: 24 maio
+2024.
+Feedback:
+-14ª QUESTÃO
+Enunciado:
+(FIP GUANAMBI) Durante uma aula de Métodos Científicos em Medicina, o professor
+apresenta uma situação real vivida por ele em semestres anteriores. Ele relata que, ao
+perceber baixa participação dos alunos nas discussões em sala, decidiu implementar uma
+nova metodologia de ensino. Primeiramente, ele reuniu dados com base em observações
+de comportamento dos estudantes. Em seguida, planejou uma sequência de aulas com
+metodologias participativas. Depois, aplicou a proposta durante quatro semanas,
+acompanhando e registrando as reações e o desempenho dos alunos. Ao final, analisou
+os resultados e escreveu um relatório com sugestões de melhoria.
+Com base no exemplo apresentado, qual é a sequência correta das etapas do processo
+de pesquisa-ação aplicada pelo professor?
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 17 de 20
+
+Treine as provas online! www.acervo.vip
+Alternativas:
+(alternativa A)
+Planejamento – Observação – Ação – Reflexão.
+(alternativa B)
+Observação – Ação – Planejamento – Reflexão.
+(alternativa C) (CORRETA)
+Planejamento – Ação – Observação – Reflexão.
+(alternativa D)
+Ação – Planejamento – Observação – Reflexão.
+
+Resposta comentada:
+A pesquisa-ação segue uma sequência cíclica composta por: planejamento de uma
+intervenção, execução da ação, observação sistemática dos efeitos e reflexão crítica
+sobre os resultados. Esse modelo permite o aprimoramento contínuo das práticas,
+especialmente em contextos educacionais.
+As demais alternativas estão incorretas, pois:
+- iniciar com ação, sem planejamento prévio, contraria os princípios da pesquisa-ação;
+- trocar a ordem entre ação e observação, gera um processo metodologicamente
+inadequado;
+- partir da observação sem um objetivo claro, ignora o planejamento inicial necessário.
+Referência:
+GIL, Antônio Carlos. Métodos e Técnicas de Pesquisa Social. 7. ed. São Paulo: Atlas, 2019.
+9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 24 maio
+2024.
+Feedback:
+-15ª QUESTÃO
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 18 de 20
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(ITPAC Porto Nacional) Durante a elaboração de um artigo sobre os efeitos antiinflamatórios de novos fármacos em pacientes com artrite reumatoide, um estudante de
+Medicina precisa formatar corretamente as citações e referências antes de submeter o
+manuscrito a uma revista científica. A revista científica permite o envio do artigo
+formatado tanto nas normas ABNT (NBR 6023:2018) quanto Vancouver.
+Sabendo que essas normas apresentam diferenças quanto à forma de citação e estrutura
+das referências, analise as afirmativas a seguir:
+I. De acordo com a ABNT NBR 6023:2018, a referência de artigo deve apresentar os
+autores, seguidos do título, nome do periódico em negrito, local de publicação, volume,
+número, páginas e ano.
+Exemplo: SOUZA, M. R.; LIMA, T. F. Efeitos anti-inflamatórios de novos fármacos em
+pacientes com artrite reumatoide. Rev. Bras. Med., São Paulo, v. 79, n. 3, p. 210–215,
+2023.
+II. No estilo Vancouver, as citações no texto utilizam o sobrenome do autor e o ano entre
+parênteses, e as referências são organizadas em ordem alfabética ao final do trabalho.
+Exemplo: (Souza, 2023).
+III. Conforme o estilo Vancouver, a referência de artigo deve listar até seis autores, ou,
+quando houver mais, indicar os seis primeiros seguidos de “et al.”, além do título,
+periódico abreviado, ano, volume e páginas.
+Exemplo: Souza MR, Lima TF, Andrade RS, Pereira JL, Santos CM, Costa FA, et al. Antiinflammatory effects of new drugs in rheumatoid arthritis. Braz J Med, 2023;79(3):210–
+215.
+IV. Segundo a ABNT, as citações no texto são indicadas por números sobrescritos
+consecutivos, e as referências devem seguir a mesma ordem em que aparecem no texto.
+Exemplo: Os novos fármacos mostraram redução significativa da inflamação¹.
+É correto o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I e III, apenas.
+(alternativa B)
+II e III, apenas.
+(alternativa C)
+I e IV, apenas.
+(alternativa D)
+II e IV, apenas.
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 19 de 20
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Afirmativa I - Correta (ABNT)
+Segue a sequência exigida pela NBR 6023:2018: autores → título → periódico com nome
+abreviado segundo padronização → local → volume → número → páginas → ano.
+O nome do periódico deve ser destacado tipograficamente em negrito.
+Autores em caixa baixa com iniciais maiúsculas no texto estão corretos segundo a norma,
+e caixa alta da lista das referências.
+Afirmativa II - Incorreta
+O Vancouver não utiliza sistema autor-data; usa números sequenciais para citações no
+texto.
+As referências são listadas na ordem de aparecimento no texto, não em ordem alfabética.
+Afirmativa III - Correta (Vancouver)
+Até seis autores devem ser listados; se houver mais de seis, listam-se os seis primeiros
+seguidos de “et al.”.
+Ordem correta dos elementos: autores → título → periódico abreviado → ano → volume →
+número → páginas.
+É o padrão adotado por revistas médicas internacionais.
+Afirmativa IV - Incorreta
+A utilização de números sobrescritos ou entre colchetes é do Vancouver, não da ABNT,
+que utiliza sistema autor-data.
+Na ABNT, a referência é organizada em ordem alfabética, e a citação no texto inclui
+sobrenome do autor e ano.
+Referências:
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 6023:2018: Informação e
+documentação — Referências — Elaboração. Rio de Janeiro, 2018.
+ICMJE. International Committee of Medical Journal Editors. Recommendations for the
+Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals.
+Updated December 2022. Disponível em: http://www.icmje.org/recommendations/.
+Acesso em: 09 nov. 2025.
+Feedback:
+--
+
+000179.770016.9dbcae.32a422.339086.85724b.6eb22d.2ab12
+
+Página 20 de 20
+
+

@@ -1,11 +1,17 @@
 import { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { ArrowUpRight, BookOpen, ClipboardList, Printer, X } from 'lucide-react'
-import { useMaterials, useQuestions } from '../lib/store'
+import { moduloDe } from '../lib/format'
+import { useArquivos, useQuestions } from '../lib/store'
+import { Icon3D } from './Icon3D'
 
 export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: string; periodo?: number; onClose: () => void }) {
-  const nQ = useQuestions().filter((q) => q.disciplina === disciplina).length
-  const nM = useMaterials().filter((m) => m.disciplina === disciplina).length
+  const nQ = useQuestions().filter((q) => q.disciplina === disciplina && (periodo === undefined || q.periodo === periodo)).length
+  // PDFs do acervo deste módulo: "SOI 4" → arquivos do 4º período com módulo SOI (inclui os resumos)
+  const { modulo } = moduloDe(disciplina)
+  const area = periodo === undefined ? '' : periodo === 0 ? disciplina.toLowerCase() : periodo > 8 ? 'internato' : `p${periodo}`
+  const nM = useArquivos().filter((a) => (area.startsWith('p') ? a.area === 'periodo' && a.periodo === periodo : !area || a.area === area) &&
+    (!modulo || a.modulo === modulo || a.path.includes(`/${modulo}/`))).length
   const enc = encodeURIComponent(disciplina)
 
   useEffect(() => {
@@ -15,9 +21,9 @@ export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: str
   }, [onClose])
 
   const ACTIONS = [
-    { to: `/imprimir/${enc}`, t: 'Gerar PDF', d: `${nQ} questões com gabarito`, icon: Printer, bg: 'from-[#3a66e8] to-[#2747c4]', text: 'text-white', ok: nQ > 0 },
-    { to: `/app/materiais?disciplina=${enc}`, t: 'Materiais de estudo', d: `${nM} material(is)`, icon: BookOpen, bg: 'from-[#f7d95c] to-[#e9b934]', text: 'text-bg', ok: nM > 0 },
-    { to: `/app/questoes?disciplina=${enc}${periodo ? `&periodo=${periodo}` : ''}`, t: 'Fazer questões', d: `${nQ} no banco`, icon: ClipboardList, bg: 'from-[#dd4436] to-[#a92a20]', text: 'text-white', ok: nQ > 0 },
+    { to: `/imprimir/${enc}${periodo !== undefined ? `?periodo=${periodo}` : ''}`, t: 'Gerar PDF', d: `${nQ} questões com gabarito`, icon: Printer, img: 'printer', bg: 'from-[#3a66e8] to-[#2747c4]', text: 'text-white', ok: nQ > 0 },
+    { to: `/app/acervo?${area ? `area=${area}&` : ''}${modulo ? `q=${encodeURIComponent(modulo)}` : ''}`, t: 'Provas e resumos', d: `${nM} PDF(s) no acervo`, icon: BookOpen, img: 'file_folder', bg: 'from-[#f7d95c] to-[#e9b934]', text: 'text-bg', ok: nM > 0 },
+    { to: `/app/questoes?disciplina=${enc}${periodo ? `&periodo=${periodo}` : ''}`, t: 'Fazer questões', d: `${nQ} no banco`, icon: ClipboardList, img: 'laptop', bg: 'from-[#dd4436] to-[#a92a20]', text: 'text-white', ok: nQ > 0 },
   ]
 
   return (
@@ -30,17 +36,17 @@ export function SubjectModal({ disciplina, periodo, onClose }: { disciplina: str
           <X className="size-5" />
         </button>
         <div className="grid gap-4 sm:grid-cols-3">
-          {ACTIONS.map(({ to, t, d, icon: I, bg, text, ok }) => ok ? (
+          {ACTIONS.map(({ to, t, d, icon: I, img, bg, text, ok }) => ok ? (
             <Link key={t} to={to} onClick={onClose}
               className={`group relative flex aspect-[4/3] flex-col items-center justify-center gap-3 rounded-2xl bg-gradient-to-b ${bg} ${text} p-5 text-center shadow-[0_10px_30px_-12px_rgba(0,0,0,0.8)] transition hover:-translate-y-1`}>
               <ArrowUpRight className="absolute top-3 right-3 size-5 opacity-80 transition group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-              <span className="grid size-16 place-items-center rounded-2xl bg-white/20 shadow-inner"><I className="size-8" /></span>
-              <span className="font-display text-xl font-bold leading-tight">{t}</span>
+              <Icon3D name={img} className="size-24 drop-shadow-[0_10px_14px_rgba(0,0,0,0.45)] sm:size-28" />
+              <span className="font-display text-xl font-bold leading-tight [text-shadow:0_2px_6px_rgb(0_0_0/0.25)]">{t}</span>
               <span className="text-xs opacity-80">{d}</span>
             </Link>
           ) : (
             <div key={t} className="flex aspect-[4/3] flex-col items-center justify-center gap-3 rounded-2xl bg-white/5 p-5 text-center text-mute">
-              <span className="grid size-16 place-items-center rounded-2xl bg-white/5"><I className="size-8" /></span>
+              <span className="relative"><Icon3D name={img} still className="size-24 opacity-30 grayscale sm:size-28" /><I className="absolute right-0 bottom-0 size-5" /></span>
               <span className="font-display text-xl font-bold leading-tight">{t}</span>
               <span className="text-xs">Indisponível</span>
             </div>

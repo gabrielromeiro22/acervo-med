@@ -1,0 +1,3215 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Estágio Curricular em Atenção Primária em Saúde
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 26/11/2025
+
+N2 INTERNATO - MEDICINA - APS - 2025.2 - ROT 3 - 26/NOVEMBRO - 14 TEMAS
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17951 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+141875
+
+Tipo da questão:
+
+Múltipla Escolha
+
+acervo.top / acervotop.com
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Durante o acompanhamento domiciliar de uma paciente de 78 anos, a equipe de
+saúde realiza uma Avaliação Geriátrica Ampla (AGA). Entre os achados estão: queixas de
+esquecimento recente e dificuldade para lembrar horários de medicamentos; uso
+contínuo de 9 medicamentos; redução da mobilidade com limitações em atividades
+básicas de vida diária; relato de tristeza e baixo contato social.
+Considerando esses achados, indique a estratégia mais adequada para integrar ao Plano
+Terapêutico Singular (PTS) alinhada aos princípios da Atenção Primária e do cuidado
+centrado na pessoa.
+Alternativas:
+(alternativa A)
+Encaminhar a paciente para avaliação neurológica, priorizando a investigação
+especializada da queixa cognitiva como etapa inicial do seguimento.
+
+(alternativa B)
+Reduzir o número de medicamentos, suspendendo os que afetam diretamente o sistema
+nervoso central, possível essa a causa da alteração de cognição.
+(alternativa C) (CORRETA)
+Elaborar PTS interprofissional com foco na revisão da prescrição, avaliação cognitiva,
+suporte psicossocial e estratégias para adesão ao tratamento.
+(alternativa D)
+Reforçar a importância da adesão medicamentosa e não medicamentosa, orientar que a
+paciente retorne em três meses para reavaliação do quadro clínico.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 1 de 57
+
+Resposta comentada:
+Alternativa correta:
+- Elaborar plano terapêutico interprofissional com foco na revisão da prescrição, avaliação
+cognitiva, suporte psicossocial e estratégias para adesão ao tratamento.
+A alternativa propõe a integração de múltiplas dimensões (funcional, cognitiva,
+medicamentosa e social), por meio de uma abordagem interprofissional, que contempla a
+revisão da polifarmácia (possível desprescrição), avaliação cognitiva e estratégias para
+melhorar adesão ao cuidado e rede de apoio social — coerente com os princípios da APS
+e da abordagem centrada na pessoa.
+Item: Reduzir o número de medicamentos, suspendendo aqueles que atuam diretamente
+no sistema nervoso central, considerando essa a possível causa da alteração de
+cognição.
+Esse item está incorreto porque parte de uma suposição não confirmada ao atribuir a
+alteração cognitiva exclusivamente ao uso de medicamentos que atuam no sistema
+nervoso central, propondo sua suspensão sem a devida revisão estruturada de
+indicações, riscos e benefícios. A conduta ignora a complexidade revelada pela Avaliação
+Geriátrica Ampla — que envolve fatores como humor, funcionalidade, isolamento social e
+dificuldades no manejo dos próprios medicamentos — e foge da lógica do Projeto
+Terapêutico Singular, que exige análise multidimensional, construção compartilhada e
+intervenções integradas e seguras, nunca decisões farmacológicas simplistas e sem
+embasamento clínico completo.
+Item: Encaminhar a paciente para avaliação neurológica, priorizando a investigação
+especializada da queixa cognitiva como etapa inicial do seguimento.
+Esse item está errado porque antecipa o encaminhamento ao especialista como primeiro
+passo, ignorando que a Atenção Primária tem competência para conduzir a avaliação
+inicial da queixa cognitiva após a AGA, explorar fatores reversíveis, organizar o manejo
+interdisciplinar e só referenciar quando necessário. Ao deslocar precocemente o cuidado
+para outro nível de atenção, o item contraria o princípio da APS como coordenadora do
+cuidado e não integra a abordagem centrada na pessoa nem a lógica do PTS.
+Item: Reforçar a importância da adesão medicamentosa e não medicamentosa, orientar
+que a paciente retorne em três meses para reavaliação do quadro clínico.
+Esse item está incorreto porque reduz a complexidade dos achados da Avaliação
+Geriátrica Ampla a uma orientação genérica de adesão e a um retorno tardio, sem propor
+intervenções interprofissionais, ajustes no manejo dos medicamentos, apoio à
+funcionalidade, cuidado do humor ou estratégias que favoreçam autonomia e segurança.
+Trata-se de uma conduta passiva, insuficiente frente às múltiplas necessidades
+identificadas, e que não traduz os princípios do PTS, que exige ações integradas,
+imediatas e compartilhadas, não apenas reforço de adesão e agendamento distante.
+Referências
+DUARTE, Paulo de O. ; AMARAL, José Renato G. Geriatria: prática clínica. 2. ed. Barueri:
+Manole, 2023. E-book, p. 3. ISBN 9786555767155. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786555767155/. Acesso em: 23
+jul. 2025.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 2 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Tema]
+Avaliação global do Idoso (exame físico do idoso, MEEM,
+escala de depressão geriátrica e outras ferramentas de
+avaliação)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Analisar achados da avaliação multidimensional,
+integrando-os ao plano terapêutico individualizado.
+
+2ª QUESTÃO
+Código da questão:
+
+135099
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(ITPAC Porto Nacional) As quedas representam uma das principais causas de
+incapacidade entre os idosos e devem ser compreendidas como um sintoma multifatorial
+que requer investigação. Envolvem interações entre fatores intrínsecos (como doenças
+crônicas, alterações sensoriais e uso de medicamentos) e extrínsecos (relacionados ao
+ambiente). Sobre a instabilidade postural e as quedas em idosos, assinale a alternativa
+correta.
+Alternativas:
+(alternativa A)
+As fraturas ocorrem mais comumente em homens, devido à sua imprudência, e os casos
+de quedas em que não há evidências de ferimentos devem ser considerados como
+eventos benignos.
+(alternativa B) (CORRETA)
+No idoso com mais de 75 anos de idade, as quedas são mais frequentemente
+precipitadas por sarcopenia, doenças cardíacas, neurológicas, sensoriais e pelo uso de
+medicamentos.
+(alternativa C)
+A fratura mais comum em idosas é a de tíbia, e cerca de metade das idosas que fazem
+este tipo de fratura falecem dentro de um ano ou ficam totalmente dependentes dos
+cuidados alheios.
+
+(alternativa D)
+A osteoporose é uma doença inflamatória aguda da cartilagem articular, afetando
+drasticamente o equilíbrio, e acomete principalmente as articulações como os joelhos e
+os quadris.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 3 de 57
+
+Resposta comentada:
+No idoso com mais de 75 anos de idade, as quedas são mais frequentemente
+precipitadas por sarcopenia, doenças cardíacas, neurológicas, sensoriais e pelo uso de
+medicamentos. Correta. No idoso mais jovem, com menos de 75 anos de idade, as
+quedas são causadas, mais frequentemente, pela interação de alterações fisiológicas do
+envelhecimento com riscos ambientais. O resultado é uma alta proporção de quedas
+devido a tropeções e escorregões, que tendem a diminuir com o avançar da idade. Já no
+idoso com mais de 75 anos de idade, as quedas são mais frequentemente precipitadas
+por enfermidades, tais como músculo-esqueléticas, cardíacas, neurológicas, sensoriais e
+pelo uso de medicamentos. Neste grupo etário, não é comum a ocorrência de queda
+como resultado de um único fator intrínseco ou extrínseco atuando isoladamente, mas
+dá-se, com maior frequência, em decorrência de vários fatores combinados.
+As fraturas ocorrem mais comumente em homens, devido à sua imprudência, e os casos
+de quedas em que não há evidências de ferimentos devem ser considerados como
+eventos benignos. Errada. As fraturas ocorrem, mais frequentemente, em quedas
+sofridas por mulheres, uma vez que este grupo tende a desenvolver joelhos valgos, que,
+juntamente com a perda do controle muscular, criam um impacto importante quando
+descem de uma altura (escadas, meio-fio).
+A fratura mais comum em idosas é a de tíbia, e cerca de metade das idosas que fazem
+este tipo de fratura falecem dentro de um ano ou ficam totalmente dependentes dos
+cuidados alheios. Errada. A fratura mais comum em idosas é a de fêmur proximal (colo do
+fêmur), e não de tíbia. Essa fratura está fortemente associada à osteoporose e às quedas.
+Apresenta alta mortalidade e perda funcional significativa, porém a dependência
+funcional é frequente, mas não universal.
+A osteoporose é uma doença inflamatória aguda da cartilagem articular, afetando
+drasticamente o equilíbrio, e acomete principalmente as articulações, como os joelhos e
+os quadris. Errada. A osteoporose é uma doença que causa a perda de massa óssea,
+tornando os ossos mais frágeis e propensos a fraturas. A osteoartrose, esta sim, é uma
+doença degenerativa não inflamatória da cartilagem articular, que afeta principalmente
+as articulações que suportam grandes pesos, como os joelhos e os quadris, ocorrendo
+devido à contínua deterioração e abrasão da cartilagem articular. Alterações
+osteoartrósicas significativas nos joelhos levam a uma posição de flexão destas
+articulações e colocam a pessoa, quando em pé, em uma postura inclinada para a frente,
+num esforço de manter o centro de gravidade do corpo, e reduzem a habilidade em
+deslocar um pé para frente o suficiente para preservar o balanço durante a deambulação,
+favorecendo as quedas.
+Referências
+MINISTÉRIO DA SAÚDE, Caderno de Atenção Básica Nº 4 - Atenção à Saúde do Idoso Instabilidade Postural e Queda, Brasília - DF, 2000.
+MINISTÉRIO DA SAÚDE, Cadernos de Atenção Básica Nº 19 - Envelhecimento e Saúde da
+Pessoa Idosa, Brasília – DF, 2006.
+GUSSO, Gustavo; LOPES, José M. C. ; DIAS, Lêda C. Tratado de medicina de família e
+comunidade - 2 volumes: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed,
+2019. E-book. p.271. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso em: 10
+nov. 2025.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 4 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Competências (Objetivos)]
+Diagnóstico
+Diagnóstico e conduta
+[Habilidades]
+Reconhecer os riscos de quedas
+Compreender a diferença entre a instabilidade do idoso e
+patologias específicas, explicando os critérios diagnósticos,
+as manifestações clínicas e os métodos de avaliação.
+[Tema]
+Instabilidade Postural e Quedas (critérios diagnósticos,
+manifestações clínicas e os métodos de avaliação para a
+instabilidade postural em idosos e fatores de risco para
+quedas)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+ITPAC PORTO NACIONAL
+3ª QUESTÃO
+
+Código da questão:
+
+141230
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIFIPMOC) Durante uma consulta médica na Unidade Básica de Saúde, uma mulher de
+38 anos, sem sintomas, procura a equipe com pedido de encaminhamento para uma
+mamografia, pois sua vizinha teve câncer de mama e ela está muito preocupada. A
+paciente não possui fatores de risco familiares relevantes. A médica da APS explica a
+importância dos exames de rastreamento e os critérios de elegibilidade para a realização
+no SUS, segundo os protocolos atuais.
+Considerando o cenário clínico descrito e os princípios do rastreamento oncológico na
+APS, qual das alternativas abaixo reflete a melhor conduta da equipe de saúde:
+Alternativas:
+(alternativa A)
+Informar que o rastreamento mamográfico está indicado apenas para mulheres com
+sintomas de câncer de mama, independentemente da idade.
+(alternativa B)
+Encaminhar a paciente para mamografia imediatamente, pois qualquer exame
+preventivo é sempre benéfico, mesmo sem indicação formal.
+(alternativa C)
+Solicitar a mamografia por precaução, já que a paciente está preocupada, mesmo que a
+conduta não esteja prevista nos protocolos do Ministério da Saúde.
+(alternativa D) (CORRETA)
+Explicar que a mamografia é indicada a partir dos 50 anos para mulheres assintomáticas,
+e que fora dessa idade os riscos superam os benefícios.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 5 de 57
+
+Resposta comentada:
+Comentário das alternativas:
+Alternativa: "Encaminhar a paciente para mamografia imediatamente, pois qualquer
+exame preventivo é sempre benéfico, mesmo sem indicação formal." Incorreta.
+Essa afirmação ignora o princípio fundamental do rastreamento populacional baseado em
+evidências. Nem todo exame é benéfico para todos. O uso indiscriminado de exames fora
+das faixas etárias recomendadas pode levar a sobrediagnósticos, ansiedade
+desnecessária, procedimentos invasivos e iatrogenia. A indicação deve seguir protocolos
+e ser individualizada conforme o risco e faixa etária.
+Alternativa: "Informar que o rastreamento mamográfico está indicado apenas para
+mulheres com sintomas de câncer de mama, independentemente da idade." Incorreta.
+Essa alternativa confunde rastreamento com diagnóstico. O rastreamento é voltado para
+pessoas assintomáticas, com o objetivo de detectar doenças em fases iniciais. Em casos
+sintomáticos, o exame é diagnóstico. Além disso, restringir o rastreamento apenas aos
+sintomáticos vai contra os princípios da detecção precoce adotados na APS.
+Alternativa: "Explicar que a mamografia é indicada a partir dos 50 anos para mulheres
+assintomáticas, e que fora dessa idade os riscos superam os benefícios.". Correta.
+Reflete a diretriz atual do Ministério da Saúde: o rastreamento com mamografia para
+câncer de mama está indicado bienalmente para mulheres entre 50 e 69 anos,
+assintomáticas, conforme o perfil epidemiológico nacional. Fora dessa faixa etária, o
+rastreamento deve ser criterioso, pois o risco de sobrediagnóstico e tratamentos
+desnecessários é maior. Essa resposta demonstra compreensão crítica dos objetivos,
+limitações e riscos do rastreamento, além do uso racional de recursos no SUS.
+Alternativa: "Solicitar a mamografia por precaução, já que a paciente está preocupada,
+mesmo que a conduta não esteja prevista nos protocolos do Ministério da Saúde."
+Incorreta.
+Solicitar um exame por pressão emocional do paciente, sem indicação clínica ou
+epidemiológica, contraria os princípios da medicina baseada em evidências e da equidade
+do SUS. Embora acolher a angústia da paciente seja essencial, a equipe deve atuar com
+educação em saúde e manejo da ansiedade, e não com uso excessivo de exames.
+Referência
+BRASIL. Ministério da Saúde. Instituto Nacional de Câncer José Alencar Gomes da Silva.
+Diretrizes para a detecção precoce do câncer de mama no Brasil. Rio de Janeiro: INCA,
+2015. Disponível em: https://www.inca.gov.br/publicacoes/livros/diretrizes-para-deteccaoprecoce-do-cancer-de-mama-no-brasil. Acesso em: 3 jul. 2025.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Rastreamento de Doenças na APS I (foco em neoplasias:
+colo de útero, mama, próstata, colorretal)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIFIPMOC
+[Competências (Objetivos)]
+Análise Crítica
+[Habilidades]
+Compreender os objetivos e limitações dos exames de
+rastreamento oncológico na APS, correlacionando com o
+perfil epidemiológico da população.
+4ª QUESTÃO
+
+Código da questão:
+
+127450
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 6 de 57
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Palmas) A Avaliação Global do Idoso é essencial na Atenção Primária à Saúde e
+inclui o exame físico, o Mini Exame do Estado Mental (MEEM) e a Escala de Depressão
+Geriátrica (EDG). Esses instrumentos auxiliam na detecção precoce de condições que
+afetam a funcionalidade e a qualidade de vida dos idosos.
+Assinale a alternativa que melhor descreve a função desses instrumentos.
+Alternativas:
+(alternativa A)
+O exame físico foca só na mobilidade, o MEEM avalia memória e a EDG confirma
+depressão clínica.
+(alternativa B) (CORRETA)
+O exame físico avalia funções, o MEEM rastreia cognição e a EDG detecta sintomas
+depressivos.
+(alternativa C)
+O exame físico analisa sinais vitais, o MEEM confirma demência e a EDG define
+depressão.
+(alternativa D)
+O exame físico é opcional, o MEEM examina transtornos e a EDG avalia problemas
+psiquiátricos.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 7 de 57
+
+Resposta comentada:
+O exame físico analisa sinais vitais, o MEEM confirma demência e a EDG define
+depressão. Incorreta.
+O exame físico analisa não apenas sinais vitais, mas também múltiplas funções
+corporais, como mobilidade, força muscular, equilíbrio e integridade sensorial.
+O MEEM (Mini Exame do Estado Mental) não confirma demência, pois é um
+instrumento de rastreamento, e não diagnóstico. O diagnóstico de demência
+exige uma avaliação clínica completa, incluindo história do paciente, exames
+complementares e testes neuropsicológicos mais aprofundados.
+A EDG (Escala de Depressão Geriátrica) não define depressão, pois também é
+um instrumento de rastreamento. O diagnóstico definitivo de depressão clínica
+exige avaliação psiquiátrica ou psicológica.
+O exame físico avalia funções, o MEEM rastreia cognição e a EDG detecta sintomas
+depressivos. Correta.
+O exame físico avalia funções corporais diversas.
+O MEEM rastreia cognição, sendo um instrumento de triagem, mas não
+diagnóstico definitivo de demência.
+A EDG detecta sintomas depressivos, mas sem fornecer um diagnóstico fechado.
+O exame físico é opcional, o MEEM examina transtornos e a EDG avalia problemas
+psiquiátricos. Incorreta.
+O exame físico não é opcional, pois é uma parte essencial da Avaliação Global
+do Idoso, permitindo a detecção precoce de doenças crônicas, síndromes
+geriátricas e alterações na funcionalidade.
+O MEEM não examina transtornos de maneira ampla; ele é um teste específico
+para rastrear déficits cognitivos, como os associados à demência.
+A EDG não avalia problemas psiquiátricos de forma ampla, mas sim sintomas
+depressivos. Outras avaliações são necessárias para diagnosticar transtornos
+psiquiátricos, como ansiedade, transtorno bipolar ou esquizofrenia.
+O exame físico foca só na mobilidade, o MEEM avalia memória e a EDG confirma
+depressão clínica. Incorreta.
+O exame físico não se limita à mobilidade, pois avalia diversos aspectos da
+saúde do idoso, incluindo sinais vitais, força muscular, estado nutricional,
+integridade da pele e presença de doenças crônicas.
+O MEEM não avalia apenas a memória, mas sim diversas funções cognitivas,
+como orientação, atenção, linguagem e habilidades visuoespaciais.
+A EDG não confirma depressão clínica, pois é uma ferramenta de rastreamento.
+O diagnóstico deve ser feito por um profissional de saúde baseado em critérios
+clínicos.
+Referências
+BRASIL. Ministério da Saúde. Caderneta de Saúde da Pessoa Idosa. Brasília, DF: Ministério
+da Saúde, 2018. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/caderneta_saude_pessoa_idosa_2018.pdf.
+Acesso em: 05 fev. 2025.
+GRUPO DE ESTUDOS DE GERIATRIA/SAÚDE DO IDOSO DA ASSOCIAÇÃO PORTUGUESA DE
+MEDICINA GERAL E FAMILIAR. Guia de Avaliação Geriátrica Global. Lisboa: APMGF, 2020.
+Disponível em: https://apmgf.pt/wp-content/uploads/2023/04/Guia-de-AvaliacaoGeriatrica-Global.pdf. Acesso em: 06 fev. 2025.
+MANSO, Maria Elisa Gonzalez et al. Avaliação Multidimensional do Idoso: resultados em
+um grupo de indivíduos vinculados a uma operadora de planos de saúde. Revista KairósGerontologia, São Paulo, v. 21, n. 1, p. 191-211, 2018. Disponível em:
+https://revistas.pucsp.br/index.php/kairos/article/view/38758. Acesso em: 06 fev. 2025.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 8 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Habilidades]
+Avaliar a saúde de um idoso, checando os aspectos físicos,
+mentais e sociais, que podem causar repercussão
+funcional.
+[Tema]
+Avaliação global do Idoso (exame físico do idoso, MEEM,
+escala de depressão geriátrica e outras ferramentas de
+avaliação)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA PALMAS
+[Competências (Objetivos)]
+Análise Crítica
+5ª QUESTÃO
+
+Código da questão:
+
+146717
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Santa Inês) Uma mulher de 82 anos é acompanhada pela equipe da Estratégia
+Saúde da Família. Vive com múltiplas condições crônicas — hipertensão, diabetes e
+osteoartrose — e apresentou quedas recorrentes no último ano, além de internações
+prévias relacionadas à perda de funcionalidade. Na avaliação mais recente, a equipe
+identificou sarcopenia, mobilidade reduzida e leve declínio cognitivo. A paciente reside
+com a filha, que exerce o papel de cuidadora principal, mas refere sobrecarga e
+dificuldade para organizar o cuidado diário.
+Considerando o caso apresentado, indique a estratégia de cuidado mais adequada.
+Alternativas:
+(alternativa A)
+Indicar institucionalização em casa de repouso devido à vulnerabilidade apresentada.
+(alternativa B)
+Encaminhar para internação hospitalar visando avaliação ampla.
+(alternativa C) (CORRETA)
+Iniciar plano de cuidado multidisciplinar com foco em reabilitação domiciliar.
+(alternativa D)
+Suspender as medicações que possam causar sonolência.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 9 de 57
+
+Resposta comentada:
+Encaminhar para internação hospitalar visando avaliação ampla.
+Comentário: A internação não é indicada como primeira escolha. A paciente apresenta
+vulnerabilidades típicas do envelhecimento que demandam cuidado longitudinal,
+reabilitação e organização do suporte social. Sem critérios de gravidade aguda, interná-la
+expõe ao risco de delirium, desfuncionalização e eventos adversos.
+Suspender as medicações que possam causar sonolência.
+Comentário: A desprescrição pode ser necessária, mas nunca de forma indiscriminada. É
+preciso revisar medicamento por medicamento, avaliar benefícios, riscos, indicações e
+substituições seguras. Suspender “tudo que causa sonolência” é conduta grosseira,
+perigosa e contrária ao cuidado centrado na pessoa.
+Iniciar plano de cuidado multidisciplinar com foco em reabilitação domiciliar e suporte à
+cuidadora.
+Comentário: Esta é a alternativa correta. Responde ao conjunto das necessidades:
+funcionalidade, cognição, sarcopenia, risco de queda e sobrecarga da cuidadora. Valoriza
+o cuidado interprofissional, a reabilitação, o suporte social e o fortalecimento da
+autonomia — tudo alinhado aos princípios da APS, da AGA e do cuidado centrado na
+pessoa.
+Indicar institucionalização em casa de repouso devido à vulnerabilidade apresentada.
+Comentário: Institucionalização é sempre última escolha, indicada apenas quando
+esgotadas as possibilidades de cuidado no domicílio. A paciente tem cuidadora, vínculo
+familiar e potencial de reabilitação. A vulnerabilidade não justifica ruptura precoce dos
+laços e perda da convivência comunitária.
+Referências
+SBGG. Manual de Fragilidade em Idosos. 2020.
+GUSSO, Gustavo; LOPES, José M. C. ; DIAS, Lêda C. Tratado de medicina de família e
+comunidade - 2 volumes: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed,
+2019.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Fragilidade e Síndrome da Imobilização em Vulneráveis
+(definição, fatores de risco, diagnóstico, tratamento e
+reabilitação)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Habilidades]
+Analisar estratégias terapêuticas e de reabilitação para
+pacientes frágeis, considerando a integralidade do cuidado.
+6ª QUESTÃO
+
+Código da questão:
+
+141748
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 10 de 57
+
+Enunciado:
+(UNISL Porto Velho) Durante uma visita domiciliar, o agente comunitário de saúde
+acompanha a médica da equipe de Saúde da Família na avaliação de um homem de 49
+anos, vigia noturno, assintomático e sem diagnóstico prévio de doenças crônicas. O
+paciente apresenta pressão arterial (PA) de 138 × 86 mmHg, peso de 91 kg, altura de
+1,68 m e relata não realizar exames há muitos anos. Ao consultar o prontuário, a médica
+observa que os registros anteriores mostram valores de PA variando entre 128–138
+mmHg (PAS) e 80–88 mmHg (PAD).
+Com base nas recomendações do Caderno de Atenção Primária: Rastreamento (Ministério
+da Saúde, 2010), qual é a conduta mais adequada para o rastreamento de doenças
+crônicas neste paciente?
+Alternativas:
+(alternativa A)
+Registrar os achados no prontuário e planejar a avaliação laboratorial se houver
+diagnóstico de hipertensão arterial nas próximas consultas.
+(alternativa B)
+Adiar exames laboratoriais, realizando orientações sobre estilo de vida saudável, visto
+que o paciente está assintomático e com pressão arterial dentro da faixa considerada
+normal.
+
+(alternativa C) (CORRETA)
+Solicitar exames laboratoriais para rastreamento de diabetes e dislipidemias, além de
+calcular o Índice de Massa Corporal, mesmo na ausência de sintomas.
+
+(alternativa D)
+Realizar aferição periódica da pressão arterial e da glicemia, agendar retorno anual, já
+que não apresenta risco cardiovascular evidente.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 11 de 57
+
+Resposta comentada:
+Solicitar exames laboratoriais para rastreamento de diabetes e dislipidemias, além de
+calcular o Índice de Massa Corporal, mesmo na ausência de sintomas. Correto. O
+Caderno de Atenção Primária: Rastreamento do Ministério da Saúde recomenda o
+rastreamento de dislipidemias em homens a partir dos 35 anos, mesmo assintomáticos, e
+o rastreamento de diabetes mellitus tipo 2 em adultos assintomáticos com PA sustentada
+maior que 135/80 mmHg. Além disso, a Diretriz Brasileira de DM (2024) indica o
+rastreamento de DM2 em adultos assintomáticos acima de 35 anos (universal).
+Adiar exames laboratoriais, realizando orientações sobre estilo de vida saudável, visto
+que o paciente está assintomático e com pressão arterial dentro da faixa considerada
+normal. Errada. Apesar de o paciente estar assintomático, ele apresenta fatores de risco
+para doenças crônicas e pressão arterial limítrofe. O rastreamento é indicado para
+identificar precocemente alterações mesmo sem sintomas.
+Realizar aferição periódica da pressão arterial e da glicemia, agendar retorno anual, já
+que não apresenta risco cardiovascular evidente. Errada. O rastreamento apenas anual e
+sem exames laboratoriais não permite a detecção precoce de dislipidemias e diabetes,
+condições muitas vezes assintomáticas. Há risco aumentado devido à idade e à
+obesidade, o que demanda investigação laboratorial.
+Registrar os achados no prontuário e planejar a avaliação laboratorial se houver
+diagnóstico de hipertensão arterial nas próximas consultas. Errada. A recomendação de
+aguardar o diagnóstico de hipertensão arterial para iniciar rastreamento laboratorial não
+é condizente com as diretrizes vigentes. Mesmo sem diagnóstico de hipertensão, o
+paciente se enquadra em critérios para rastreamento de diabetes e dislipidemia.
+Referências:
+BRASIL. Ministério da Saúde. Caderno de Atenção Primária: Rastreamento. Brasília:
+Ministério da Saúde, 2010. p. 49. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/caderno_atencao_primaria_29_rastreamento.
+pdf. Acesso em: 09 ago. 2025.
+SOCIEDADE BRASILEIRA DE DIABETES. Diagnóstico de diabetes mellitus – Diretriz da
+Sociedade Brasileira de Diabetes: Indicações de rastreamento para DM2 (Quadro 2). São
+Paulo: Sociedade Brasileira de Diabetes, 2024. Disponível em:
+https://diretriz.diabetes.org.br/diagnostico-de-diabetes-mellitus/#ftoc-quadro-2indicacoes-de-rastreamento-para-dm2. Acesso em: 11 nov. 2025.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Rastreamento de Doenças na APS II (foco em HAS, DM,
+dislipidemia, obesidade)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNISL PORTO VELHO
+[Competências (Objetivos)]
+Rastreamento
+[Habilidades]
+Aplicar escalas de rastreamento de fragilidade e
+dependência funcional, utilizando instrumentos validados
+na APS.
+7ª QUESTÃO
+
+Código da questão:
+
+118781
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 12 de 57
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Palmas) O Sistema Único de Saúde (SUS), regulamentado pela Constituição
+Federal de 1988 e pelas Leis Orgânicas da Saúde (Lei 8.080/1990 e Lei 8.142/1990),
+estabelece os princípios ético-doutrinários de universalidade, integralidade e equidade no
+atendimento à saúde. Esses princípios visam garantir o acesso à saúde de toda a
+população brasileira, considerando as particularidades sociais, econômicas e geográficas
+que influenciam a vulnerabilidade à doença e o acesso aos serviços de saúde.
+Diante disso, em um cenário de disparidades regionais e socioeconômicas, qual
+alternativa abaixo demonstra como o SUS assegura o princípio da equidade no
+atendimento à saúde das pessoas:
+Alternativas:
+(alternativa A)
+Garantindo que o acesso aos serviços de saúde seja igual para todos, sem levar em conta
+as diferentes necessidades individuais ou coletivas.
+(alternativa B)
+Oferecendo tratamentos iguais para todas as doenças e condições de saúde, sem
+considerar a gravidade ou complexidade do quadro clínico.
+(alternativa C) (CORRETA)
+Atribuindo recursos e atenção de acordo com as necessidades específicas de cada grupo
+populacional, priorizando os mais vulneráveis.
+(alternativa D)
+Garantindo que todos recebam o mesmo nível de atenção e qualidade,
+independentemente de sua localização geográfica ou condições sociais.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 13 de 57
+
+Resposta comentada:
+Justificativa das alternativas:
+Garantindo que o acesso aos serviços de saúde seja igual para todos, sem levar em conta
+as diferentes necessidades individuais ou coletivas.
+Incorreta: O conceito de equidade não implica igualdade de acesso em termos absolutos.
+O SUS reconhece que diferentes grupos populacionais têm necessidades distintas, o que
+significa que o acesso aos serviços de saúde deve ser distribuído de acordo com essas
+necessidades, e não de forma igualitária para todos.
+Garantindo que todos recebam o mesmo nível de atenção e qualidade,
+independentemente de sua localização geográfica ou condições sociais.
+Incorreta: O SUS busca reduzir desigualdades regionais e sociais, mas oferecer o mesmo
+nível de atenção a todos desconsidera as necessidades diferenciadas de cada população.
+O princípio da equidade visa exatamente tratar de forma diferente aqueles que precisam
+de mais recursos ou serviços, levando em conta suas condições específicas.
+Atribuindo recursos e atenção de acordo com as necessidades específicas de cada grupo
+populacional, priorizando os mais vulneráveis.
+Correta: A equidade no SUS significa tratar desigualmente os desiguais, ou seja, destinar
+mais recursos e atenção àqueles que possuem maior vulnerabilidade, como populações
+em áreas de difícil acesso ou com menores condições socioeconômicas, de modo a
+corrigir injustiças históricas.
+Oferecendo tratamentos iguais para todas as doenças e condições de saúde, sem
+considerar a gravidade ou complexidade do quadro clínico.
+Incorreta: O SUS preza pela integralidade, o que significa que o tratamento oferecido
+deve ser adequado à complexidade de cada caso. Oferecer o mesmo tratamento para
+todas as doenças ou condições ignora a necessidade de ajustar o cuidado à gravidade e
+especificidade da situação de cada paciente.
+Referências:
+BRASIL. Constituição da República Federativa do Brasil de 1988. Brasília: Senado Federal,
+1988. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm.
+Acesso em: 18 set. 2024.
+BRASIL. Lei n. 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a
+promoção, proteção e recuperação da saúde, a organização e o funcionamento dos
+serviços correspondentes e dá outras providências. Diário Oficial da União: seção 1,
+Brasília, DF, p. 18055, 20 set. 1990. Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/l8080.htm. Acesso em: 18 set. 2024.
+BRASIL. Lei n. 8.142, de 28 de dezembro de 1990. Dispõe sobre a participação da
+comunidade na gestão do Sistema Único de Saúde (SUS) e sobre as transferências
+intergovernamentais de recursos financeiros na área da saúde e dá outras providências.
+Diário Oficial da União: seção 1, Brasília, DF, p. 25694, 31 dez. 1990. Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/l8142.htm. Acesso em: 18 set. 2024.
+PAIM, Jairnilson Silva; ALMEIDA FILHO, Naomar de. Saúde coletiva: uma "nova saúde
+pública" ou campo aberto a novos paradigmas? Revista de Saúde Pública , São Paulo, v.
+32, n. 4, p. 299-316, ago. 1998. Disponível em:
+https://www.scielo.br/j/rsp/a/ty2KPfM7RVmtZkXhN57Kyrj/?lang=pt. Acesso em: 18 set.
+2024.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 14 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Sistema único de saúde - SUS + Leis orgânicas de saúde
+[Competências (Objetivos)]
+Políticas públicas em saúde
+Legislação em Saúde
+[IES]
+AFYA PALMAS
+AFYA PALMAS
+[Habilidades]
+Compreender os princípios ético-doutrinários e
+organizacionais do SUS, relacionando a prática profissional
+com as diretrizes estabelecidas pelas Leis Orgânicas de
+Saúde para promover a equidade e a qualidade no
+atendimento à saúde.
+[Validação de autoria]
+Item autoral sem uso de Inteligência Artificial (IA).
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+
+8ª QUESTÃO
+Código da questão:
+
+100399
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Nas Unidades Básicas de Saúde, geralmente os idosos são reunidos em
+grupos operativos para que possam conviver e socializar. Nesses grupos percebemos
+diferentes tipos de pessoas, com trajetórias distintas e os mais variados graus de
+funcionalidade. O grupo dos idosos não é um grupo homogêneo, cabendo aos
+profissionais de saúde diferenciar processos que são próprios do envelhecimento e
+processos patológicos possíveis.
+Sobre o presente tema, leia as assertivas a seguir:
+I. A senescência compreende as alterações fisiológicas próprias do envelhecimento,
+enquanto a senilidade compreende as alterações patológicas dessa fase da vida.
+II. O envelhecimento em si não é associado à maior prevalência de doenças crônicas,
+apesar de poder causar importantes repercussões no estilo de vida.
+III. No idoso, as doenças costumam manifestar-se de forma típica, por isso são estudadas
+em conjunto na geriatria.
+Está correto apenas o que se afirma em:
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 15 de 57
+
+Alternativas:
+(alternativa A) (CORRETA)
+I.
+(alternativa B)
+II.
+(alternativa C)
+I e II.
+(alternativa D)
+III.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+O item I está correto, trazendo os conceitos de senescência e senilidade. O item II está
+incorreto, pois é sabido que o envelhecimento está sim associado a maior prevalência de
+doenças crônicas. O item III está incorreto, pois, no idoso, as doenças costumam
+manifestar-se de forma atípica, e os sintomas em geral são inespecíficos e tardios.
+Referência
+Duncan, Bruce, B. et al. Medicina ambulatorial: condutas de atenção primária baseadas
+em evidências. Disponível em: Minha Biblioteca (5th edição). Grupo A, 2022 (cap. 49).
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Habilidades]
+Conceituar senilidade e senescência
+[Competências (Objetivos)]
+Diagnóstico e tratamento
+[Tema]
+Aspectos biológicos e fisiologia do envelhecimento
+(diferença entre senilidade e senescência e suas
+implicações clínicas, envelhecimento saudável)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA PARAÍBA
+9ª QUESTÃO
+
+Código da questão:
+
+118796
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FACIMPA) Um homem de 35 anos procura a UBS (Unidade Básica de Saúde) com febre
+alta, cefaleia intensa, dor muscular e erupções cutâneas pelo corpo. Ao relatar que
+retornou de uma viagem a uma área endêmica de dengue, o médico levanta a suspeita
+de dengue e realiza a coleta de exames laboratoriais.
+Considerando essa situação, a conduta médica adequada é:
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 16 de 57
+
+Alternativas:
+(alternativa A)
+prescrever os medicamentos e solicitar a notificação pelo laboratório, após confirmação
+do diagnóstico, pois a dengue é de notificação compulsória apenas após confirmação
+laboratorial.
+(alternativa B) (CORRETA)
+iniciar o tratamento de suporte e notificar à Vigilância Epidemiológica, já que a dengue é
+uma doença de notificação compulsória semanal.
+(alternativa C)
+aguardar a evolução do quadro clínico antes de notificar, visto que o paciente pode não
+evoluir com complicações graves e a notificação só seria obrigatória nesse caso.
+(alternativa D)
+realizar a notificação imediata à Vigilância Epidemiológica, pois a dengue é uma doença
+de notificação compulsória mensal em áreas endêmicas.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Considerando essa situação, a conduta médica adequada é iniciar o tratamento de
+suporte e notificar a Vigilância Epidemiológica, já que a dengue é uma doença de
+notificação compulsória semanal.
+A notificação da dengue deve ser imediata, independentemente da periodicidade da
+notificação ser semanal em algumas situações, como em casos de áreas não endêmicas.
+Porém, em áreas endêmicas ou com risco de surto, a notificação deve ser feita de forma
+imediata, sem aguardar a periodicidade semanal. O caso apresentado se enquadra em
+uma área endêmica, justificando a notificação imediata.
+Como descrito no caso, a dengue é de notificação compulsória semanal. Além disso, o
+manejo correto do paciente envolve tratamento de suporte, pois não há tratamento
+específico para a dengue, e a notificação deve ocorrer logo que se levanta a suspeita
+clínica, sem aguardar a confirmação laboratorial. Isso garante o monitoramento precoce
+pela Vigilância Epidemiológica, evitando surtos.
+A notificação não depende da confirmação laboratorial. A suspeita clínica já é suficiente
+para que o profissional de saúde realize a notificação imediata em áreas endêmicas. Isso
+visa evitar atrasos no controle da disseminação da doença. Aguardar o resultado dos
+exames pode comprometer a resposta rápida das autoridades de saúde.
+A notificação não está condicionada à evolução clínica ou ao aparecimento de
+complicações graves. O objetivo da notificação é monitorar a disseminação da doença e,
+portanto, deve ser realizada na fase inicial, logo na suspeita clínica, especialmente em
+áreas de risco elevado, como regiões endêmicas para dengue.
+Referências:
+Lista Nacional de Notificação Compulsória de Doenças, Agravos e Eventos de Saúde
+Pública. Disponível em: https://www.gov.br/saude/pt-br/composicao/svsa/notificacaocompulsoria/lista-nacional-de-notificacao-compulsoria-de-doencas-agravos-e-eventos-desaude-publica. Acesso em 15 de setembro de 2024.
+Rouquayrol, Maria Zélia; Gurgel, Marcelo. Rouquayrol: epidemiologia e saúde. 8. ed. Rio
+de Janeiro: MedBook, 2018. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em 15 de
+setembro de 2024.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 17 de 57
+
+Filtros da questão:
+
+[IES]
+FACIMPA
+FACIMPA
+[Subáreas de Conhecimento]
+Epidemiologia
+[Habilidades]
+Identificar quais são as doenças de notificação,
+reconhecendo os corretos mecanismos de notificação.
+[Competências (Objetivos)]
+Gestão em saúde
+[Tema]
+Dinâmica de Transmissão e Distribuição de Doenças e
+Vigilância em Saúde com Ênfase em Vigilância
+Epidemiológica (doenças de notificação compulsória no
+Brasil, SINAN e Ficha de Notificação de agravo –
+preenchimento e fluxo de informação, Vigilância
+Epidemiológica – conceito, importância e atuação)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+10ª QUESTÃO
+
+Código da questão:
+
+127455
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Palmas) As condições epidemiológicas e nutricionais variam significativamente
+entre as diferentes regiões do Brasil, influenciadas por fatores socioeconômicos,
+ambientais e culturais. Essas variações impactam a prevalência de diversas doenças,
+exigindo estratégias específicas para promoção da saúde e redução de desigualdades.
+Com base nessas diferenças regionais, assinale a alternativa que melhor descreve essa
+relação.
+Alternativas:
+(alternativa A)
+Doenças cardiovasculares e obesidade são predominantes em regiões de baixa renda e
+com pouco acesso à saúde.
+(alternativa B)
+A desnutrição infantil e as carências nutricionais são mais comuns em áreas urbanas
+altamente desenvolvidas.
+(alternativa C)
+A incidência de doenças infecciosas e parasitárias é maior em regiões ricas, com alto
+acesso a alimentos processados.
+(alternativa D) (CORRETA)
+Regiões com maior insegurança alimentar apresentam maior prevalência de desnutrição
+e doenças carenciais.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 18 de 57
+
+Resposta comentada:
+Regiões com maior insegurança alimentar apresentam maior prevalência de desnutrição
+e doenças carenciais. Correta.
+Regiões com maior insegurança alimentar apresentam maior prevalência de
+desnutrição e doenças carenciais, como deficiência de ferro (anemia), vitamina
+A e desnutrição energético-proteica.
+Essas condições afetam principalmente crianças e populações vulneráveis,
+impactando o desenvolvimento infantil e aumentando a mortalidade infantil.
+A relação entre insegurança alimentar e desnutrição é amplamente
+documentada em estudos epidemiológicos e políticas de nutrição no Brasil.
+Doenças cardiovasculares e obesidade são predominantes em regiões de baixa renda e
+com pouco acesso à saúde. Incorreta.
+Doenças cardiovasculares e obesidade não são mais predominantes em regiões
+de baixa renda, mas sim em áreas onde há maior consumo de alimentos
+ultraprocessados e menor prática de atividades físicas, o que pode ocorrer tanto
+em regiões de baixa quanto de alta renda.
+Regiões de baixa renda geralmente apresentam maior prevalência de
+desnutrição e doenças infecciosas, enquanto a obesidade tem aumentado tanto
+em classes mais altas quanto em populações em transição nutricional.
+A desnutrição infantil e as carências nutricionais são mais comuns em áreas urbanas
+altamente desenvolvidas. Incorreta.
+A desnutrição infantil e as carências nutricionais não são mais comuns em áreas
+urbanas altamente desenvolvidas. Pelo contrário, essas condições são mais
+frequentes em regiões rurais e áreas de extrema pobreza, onde há insegurança
+alimentar e menor acesso a serviços de saúde e educação nutricional.
+Áreas urbanas desenvolvidas, geralmente, têm melhores condições de acesso a
+alimentos variados e serviços de saúde.
+A incidência de doenças infecciosas e parasitárias é maior em regiões ricas, com alto
+acesso a alimentos processados. Incorreta.
+Doenças infecciosas e parasitárias não são mais prevalentes em regiões ricas,
+mas sim em áreas com maior precariedade sanitária, falta de acesso à água
+potável e condições de vida inadequadas, geralmente associadas a populações
+de baixa renda.
+Regiões ricas podem ter maior consumo de alimentos processados, o que está
+relacionado a doenças metabólicas, como obesidade e diabetes, mas não a
+doenças infecciosas.
+Referências:
+BRASIL. Ministério da Saúde. Guia Alimentar para a População Brasileira. 2. ed. Brasília,
+DF: Ministério da Saúde, 2014. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf.
+Acesso em: 05 fev. 2025.
+MONTEIRO, Carlos Augusto et al. Epidemiologia da transição nutricional no
+Brasil. Cadernos de Saúde Pública , Rio de Janeiro, v. 26, n. 5, p. 789-810, 2021.
+Disponível em: https://www.scielo.br/j/csp/a/6KbGZ6BDYMcVmHGYM9dM3sM/. Acesso em:
+06 fev. 2025.
+WORLD HEALTH ORGANIZATION (WHO). Nutrition Landscape Information System (NLiS):
+Country Profile – Brazil. Geneva: WHO, 2023. Disponível em:
+https://www.who.int/data/nutrition/nlis. Acesso em: 06 fev. 2025.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 19 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Epidemiologia
+[Competências (Objetivos)]
+Educação em saúde
+[Habilidades]
+Compreender os principais aspectos epidemiológicos e
+nutricionais de acordo com cada região, correlacionando-os
+com as prevalências de doenças.
+[Tema]
+Transição epidemiológica, demográfica e nutricional
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PALMAS
+11ª QUESTÃO
+
+Código da questão:
+
+141772
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDOMPEDRO) Durante visita de rotina, a Agente Comunitária de Saúde (ACS) percebe
+que uma senhora de 76 anos, antes conhecida por sua alegria ao produzir peças de
+crochê, apresenta desânimo progressivo, fala baixa e perda de interesse pelas atividades
+que costumava amar. A idosa evita contato visual, responde de forma vaga quando
+perguntada sobre sua rotina e mostra dificuldade em manter o diálogo. Ela vive com o
+neto de 22 anos, que reage com indiferença à presença da equipe e pouco se envolve no
+cuidado. A família tem histórico de conflitos, e a idosa, portadora de diabetes mellitus,
+tem faltado ao acompanhamento na UBS por depender do neto para se deslocar.
+Diante da situação apresentada, indique o manejo adequado da equipe de Saúde da
+Família no momento da intervenção.
+
+Alternativas:
+(alternativa A)
+Realizar denúncia anônima para a polícia, registrar notificação de violência psicológica e
+acionar o CRAS ou CREAS.
+(alternativa B)
+Aguardar que a idosa possa verbalizar suas necessidades de forma espontânea, evitando
+tensionar ainda mais o vínculo familiar já fragilizado.
+(alternativa C)
+Orientar a ACS a manter observação nas visitas seguintes e buscar contato com outros
+familiares para relatar a situação percebida.
+(alternativa D) (CORRETA)
+Agendar visita domiciliar para a idosa, registrar notificação como suspeita e articular
+encaminhamento à rede de apoio psicossocial, como CRAS ou CREAS.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 20 de 57
+
+Resposta comentada:
+Apesar do tom aparentemente cuidadoso, a conduta é passiva e negligencia que
+situações de sofrimento emocional em idosos, especialmente em contextos familiares
+conflituosos, requerem atuação frente à suspeita. Aguardar verbalização espontânea
+costuma adiar intervenções necessárias, já que a violência psicológica tende a ser
+silenciosa, internalizada e de difícil expressão. A proteção da idosa não pode depender
+exclusivamente da iniciativa dela.
+Acionar a polícia de imediato é medida reservada para risco grave ou flagrante. Neste
+caso, os sinais são sutis e a intervenção deve ser graduada, articulada e intersetorial. A
+denúncia direta pode desencadear retaliações, romper vínculos e fragilizar ainda mais a
+idosa. A rede policial é importante, mas não como primeira resposta.
+Apenas observar e avisar outros familiares é insuficiente e pouco seguro. Essa estratégia
+não garante proteção, não mobiliza a rede e ainda pode aumentar conflitos ou exposição
+da idosa. É uma postura morna, que reconhece o problema, mas não oferece solução
+efetiva.
+A APS deve agir diante da suspeita, não apenas da confirmação. Planejar visita domiciliar
+qualificada permite avaliação ampliada e proteção sem confronto imediato. A notificação
+de suspeita é obrigatória e ética, e a articulação com o CRAS ou CREAS ativa a rede de
+suporte psicossocial, que é essencial no manejo da violência psicológica. É a conduta
+mais segura, resolutiva e alinhada aos princípios de cuidado integral da pessoa idosa.
+Referências
+BRASIL. Ministério da Saúde. Linha de Cuidado para Atenção Integral à Saúde da Pessoa
+Idosa no Sistema Único de Saúde – SUS [recurso eletrônico]. Brasília: Ministério da Saúde,
+2018. Disponível em:
+http://bvsms.saude.gov.br/bvs/publicacoes/linha_cuidado_atencao_pessoa_idosa.pdf.
+Acesso em: 07 ago. 2025.
+BRASIL. Ministério dos Direitos Humanos. Cartilha de Apoio à Pessoa Idosa:
+enfrentamento à violência [recurso eletrônico]. Brasília: MDH, 2022. Disponível em:
+https://bibliotecadigital.mdh.gov.br/jspui/handle/192/13358. Acesso em: 07 ago. 2025.
+BRASIL. Estado do Rio Grande do Sul. Cartilha de Enfrentamento da Violência contra a
+Pessoa Idosa [recurso eletrônico]. Porto Alegre: Governo do RS, 2017. Disponível em:
+https://saude.rs.gov.br/upload/arquivos/201705/22152615-cartilha-enfrentamento-daviolencia-contra-pessoa-idosa.pdf. Acesso em: 07 ago. 2025.
+GUSSO, G.; LOPES, J. M.; DIAS, L. C. (orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Violência e maus-tratos contra os idosos
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDOMPEDRO
+[Habilidades]
+Interpretar o papel da APS na identificação precoce de
+casos de violência, justificando ações de prevenção e
+encaminhamento.
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 21 de 57
+
+12ª QUESTÃO
+Código da questão:
+
+151766
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Durante uma consulta em um ambulatório de Atenção Primária à Saúde,
+um homem de 42 anos relata que seu plano de saúde privado negou a cobertura de uma
+colonoscopia indicada após teste de sangue oculto nas fezes positivo. Segundo a
+operadora, o exame “não consta no rol de procedimentos obrigatórios”. O paciente
+demonstra dúvida sobre seus direitos e pede orientação ao médico sobre como proceder.
+Considerando a legislação brasileira vigente e as normas da Agência Nacional de Saúde
+Suplementar (ANS), assinale a alternativa correta quanto à cobertura assistencial mínima
+exigida nos planos de saúde.
+Alternativas:
+(alternativa A)
+Os planos de saúde só são obrigados a cobrir consultas médicas e internações
+hospitalares, sendo os exames complementares considerados opcionais e de livre
+negociação contratual.
+(alternativa B) (CORRETA)
+Os planos devem garantir cobertura para exames, tratamentos e terapias previstos no
+Rol de Procedimentos e Eventos em Saúde da ANS, que é atualizado periodicamente para
+refletir avanços técnicos e científicos.
+(alternativa C)
+Os exames solicitados por profissionais de saúde que não pertençam à rede credenciada
+podem ser negados, ainda que façam parte do rol da ANS, pois o contrato exige que o
+pedido parta exclusivamente de médicos conveniados.
+(alternativa D)
+A cobertura dos exames diagnósticos depende exclusivamente da avaliação da
+operadora, que pode negar procedimentos de alto custo mesmo com prescrição médica,
+se houver cláusula contratual restritiva.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 22 de 57
+
+Resposta comentada:
+Alternativa: “Os planos devem garantir cobertura para exames, tratamentos e terapias
+previstos no Rol de Procedimentos e Eventos em Saúde da ANS, que é atualizado
+periodicamente para refletir avanços técnicos e científicos.” Correta
+Comentário: Correta. A Lei nº 9.656/1998 e a Resolução Normativa nº 465/2021, com
+atualizações da RN nº 590/2024 (ANS), determinam que os planos de saúde são
+obrigados a cobrir, no mínimo, os procedimentos incluídos no Rol de Procedimentos e
+Eventos em Saúde, que reflete as coberturas assistenciais mínimas para cada tipo de
+plano (ambulatorial, hospitalar, obstétrico, odontológico). O rol é atualizado regularmente
+pela ANS com base em evidências científicas e critérios de custo-efetividade. Assim,
+exames como a colonoscopia diagnóstica estão incluídos na cobertura mínima obrigatória
+quando houver indicação médica.
+Alternativa: “Os planos de saúde só são obrigados a cobrir consultas médicas e
+internações hospitalares, sendo os exames complementares considerados opcionais e de
+livre negociação contratual.” Incorreta
+Comentário: Essa afirmativa é incorreta porque a cobertura mínima obrigatória dos
+planos de saúde é definida pelo Rol de Procedimentos e Eventos em Saúde da ANS, que
+inclui consultas, internações e também exames diagnósticos, terapias e tratamentos
+essenciais para a manutenção da saúde, conforme segmentação contratual. Os exames
+complementares não são opcionais, mas devem obedecer ao rol e às atualizações
+periódicas estabelecidas pela ANS.
+Alternativa: “A cobertura dos exames diagnósticos depende exclusivamente da avaliação
+da operadora, que pode negar procedimentos de alto custo mesmo com prescrição
+médica, se houver cláusula contratual restritiva.” Incorreta
+Comentário: A operadora não pode negar cobertura para procedimentos incluídos no rol
+da ANS sob alegação de “alto custo”. As cláusulas contratuais restritivas que limitem
+direitos garantidos por lei são nulas de pleno direito, conforme o Código de Defesa do
+Consumidor (art. 51). A negativa indevida de cobertura pode ser questionada junto à ANS
+e ao Procon, e o consumidor pode buscar tutela judicial.
+Alternativa: “Os exames solicitados por profissionais de saúde que não pertençam à rede
+credenciada podem ser negados, ainda que façam parte do rol da ANS, pois o contrato
+exige que o pedido parta exclusivamente de médicos conveniados.” Incorreta
+Comentário: A negativa com base apenas na origem da prescrição é inadequada. De
+acordo com a Resolução Normativa nº 566/2022 (ANS), o plano de saúde deve garantir a
+cobertura de procedimentos previstos no rol, desde que indicados por profissional
+habilitado e que o atendimento ocorra na rede credenciada, se houver disponibilidade. O
+fato de o pedido ter sido emitido fora da rede não elimina o direito do beneficiário à
+cobertura do exame, devendo o plano oferecer alternativas dentro da rede assistencial ou
+reembolso, conforme o tipo de contratação.
+Referências:
+BRASIL. Lei nº 9.656, de 3 de junho de 1998. Dispõe sobre os planos e seguros privados
+de assistência à saúde. Brasília: Presidência da República, 1998. Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/l9656.htm. Acesso em: 10 nov. 2025.
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR (ANS). Resolução Normativa nº 590, de 13
+de fevereiro de 2024. Atualiza o Rol de Procedimentos e Eventos em Saúde. Rio de
+Janeiro: ANS, 2024. Disponível em: https://www.gov.br/ans. Acesso em: 10 nov. 2025.
+AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR (ANS). Resolução Normativa nº 566, de
+2022. Dispõe sobre a regulação das operadoras de planos de saúde quanto à garantia de
+atendimento. Rio de Janeiro: ANS, 2022.
+BRASIL. Código de Defesa do Consumidor: Lei nº 8.078, de 11 de setembro de 1990.
+Brasília: Presidência da República, 2024.
+BRASIL. Ministério da Saúde. Política Nacional de Regulação do SUS e Relação com a
+Saúde Suplementar. Brasília: MS, 2023.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 23 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Sistema de Saúde Suplementar – Agência Nacional de
+Saúde Suplementar
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Utilizar conhecimentos sobre a cobertura assistencial
+mínima exigida nos planos de saúde, seguindo as
+normativas da ANS.
+13ª QUESTÃO
+
+Código da questão:
+
+141426
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FASA VIC) Durante uma visita domiciliar, a equipe da Estratégia Saúde da Família atende
+um homem pardo de 58 anos, que relata piora do controle da diabetes mellitus tipo 2 nos
+últimos meses. Apesar do uso regular da medicação fornecida pela Unidade, seus exames
+recentes indicam HbA1c de 9,2%. Ao conversar com a equipe, o paciente revela que está
+desempregado, vive em uma casa com mais três familiares, tem dificuldade para manter
+uma alimentação adequada e não consegue manter consultas frequentes devido ao custo
+do transporte.
+Com base nos dados apresentados, como a equipe de saúde deve interpretar a situação
+clínica dele, considerando os determinantes sociais da saúde, e qual deve ser a conduta
+mais apropriada:
+Alternativas:
+(alternativa A)
+A descompensação glicêmica está associada ao envelhecimento e deve ser manejada
+com flexibilização das metas terapêuticas.
+(alternativa B) (CORRETA)
+A piora do controle glicêmico está diretamente relacionada a determinantes sociais,
+exigindo intervenções intersetoriais e reorganização do plano terapêutico.
+(alternativa C)
+Os dados apontam para baixa adesão ao tratamento; a conduta ideal é realizar
+orientação reforçada sobre dieta e uso correto da medicação.
+(alternativa D)
+A situação clínica deve ser considerada como falha terapêutica individual; a conduta mais
+adequada é intensificar a medicação hipoglicemiante.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 24 de 57
+
+Resposta comentada:
+Alternativa correta: A piora do controle glicêmico está diretamente relacionada a
+determinantes sociais, exigindo intervenções intersetoriais e reorganização do plano
+terapêutico.
+Justificativa: A situação exige uma abordagem ampliada da clínica, com reconhecimento
+dos determinantes sociais da saúde. A insegurança alimentar, dificuldades econômicas e
+problemas de acesso devem ser considerados na reformulação do plano terapêutico. A
+equipe deve articular recursos intersetoriais (assistência social, programas de segurança
+alimentar, apoio ao transporte etc.) e revisar metas terapêuticas viáveis ao contexto.
+Análise das demais alternativas:
+Alternativa: A situação clínica deve ser considerada como falha terapêutica individual; a
+conduta mais adequada é intensificar a medicação hipoglicemiante.
+Incorreta: Atribuir o descontrole glicêmico exclusivamente à falha terapêutica individual
+desconsidera os fatores sociais envolvidos no caso, como insegurança alimentar,
+desemprego e barreiras de acesso. A intensificação medicamentosa isolada não resolve
+os determinantes estruturais do problema.
+Alternativa: Os dados apontam para baixa adesão ao tratamento; a conduta ideal é
+realizar orientação reforçada sobre dieta e uso correto da medicação.
+Incorreta: Embora a educação em saúde seja fundamental, atribuir o problema à “baixa
+adesão” desconsidera as condições de vida e trabalho de seu José. A orientação isolada,
+sem ação sobre os determinantes sociais, tende a ser ineficaz.
+Alternativa: A descompensação glicêmica está associada ao envelhecimento e deve ser
+manejada com flexibilização das metas terapêuticas.
+Incorreta: Seu José tem 58 anos e não apresenta outros dados clínicos que justifiquem a
+flexibilização de metas com base em envelhecimento. Além disso, a justificativa
+apresentada desconsidera os aspectos sociais e prioriza uma conduta clínica inadequada
+à faixa etária e ao contexto.
+Referências
+BRASIL. Ministério da Saúde. Cadernos de Atenção Básica: Diabetes Mellitus . Brasília:
+Ministério da Saúde, 2006.
+BUSS, P. M.; PELLEGRINI FILHO, A. A saúde e seus determinantes sociais. Physis: Revista
+de Saúde Coletiva, Rio de Janeiro, v. 17, n. 1, p. 77–93, 2007.
+BRASIL. Ministério da Saúde. Diretrizes da Política Nacional de Promoção da Saúde . 3. ed.
+Brasília: Ministério da Saúde, 2020.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Competências (Objetivos)]
+Diagnóstico
+[Tema]
+Saúde e Doença (prevenção primária, secundária, terciária
+e quaternária e modelos do processo saúde e doença)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+[Habilidades]
+Interpretar situações clínicas sob a perspectiva dos
+determinantes sociais da saúde, justificando condutas
+apropriadas.
+
+14ª QUESTÃO
+Código da questão:
+
+141232
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 25 de 57
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIFIPMOC) Durante uma visita domiciliar, a agente comunitária de saúde relata à
+equipe da Unidade de Saúde da Família (USF) uma situação preocupante: uma idosa, 76
+anos, hipertensa e com mobilidade reduzida, vem apresentando emagrecimento
+progressivo, aspecto descuidado e recusa em falar na presença da filha, com quem
+reside. Em conversa reservada com a agente comunitária, a idosa diz que a filha
+frequentemente grita com ela, a deixa sozinha por longos períodos e não compra seus
+medicamentos. A paciente demonstra medo de sofrer represálias caso a situação seja
+denunciada.
+Diante desse cenário, qual é a conduta mais adequada da equipe de saúde, considerando
+os instrumentos legais de proteção à pessoa idosa e o papel da APS na educação em
+saúde:
+Alternativas:
+(alternativa A)
+Solicitar intervenção imediata do Conselho Tutelar, registrar boletim de ocorrência e
+realizar o encaminhamento compulsório para abrigo institucional.
+(alternativa B)
+Respeitar a vontade da idosa de não denunciar, registrar a situação apenas no prontuário
+e manter acompanhamento clínico contínuo sem envolver outros órgãos.
+(alternativa C) (CORRETA)
+Orientar a idosa sobre seus direitos previstos no Estatuto do Idoso, garantir sigilo e
+acionar, se necessário, canais de denúncia, assegurando proteção da idosa.
+(alternativa D)
+Encaminhar a idosa para avaliação psicológica e aguardar que ela, de forma voluntária,
+decida denunciar ou procurar a Defensoria Pública.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 26 de 57
+
+Resposta comentada:
+Comentário das alternativas:
+Alternativa: "Respeitar a vontade da idosa de não denunciar, registrar a situação apenas
+no prontuário e manter acompanhamento clínico contínuo sem envolver outros órgãos."
+Incorreta.
+Apesar de a autonomia do idoso ser importante, a omissão diante de indícios de violência
+é uma infração ética e legal. A equipe de saúde tem a obrigação de comunicar situações
+suspeitas de maus-tratos aos órgãos competentes, conforme o Estatuto do Idoso.
+Registrar apenas no prontuário, sem ação, configura negligência institucional.
+Alternativa: "Orientar a idosa sobre seus direitos previstos no Estatuto do Idoso, garantir
+sigilo e acionar, se necessário, canais de denúncia, assegurando proteção da idosa."
+Correta.
+Essa alternativa integra corretamente os instrumentos legais (Estatuto do Idoso), o dever
+ético de proteção, a educação em saúde e o uso de canais oficiais de denúncia, como o
+Disque 100 e o Ministério Público. A atuação da equipe deve ser ética, sigilosa e
+orientada à proteção, com promoção da autonomia e garantia de segurança da vítima. É
+o papel da APS informar, proteger e educar.
+Alternativa: "Solicitar intervenção imediata do Conselho Tutelar, registrar boletim de
+ocorrência e realizar o encaminhamento compulsório para abrigo institucional." Incorreta.
+O Conselho Tutelar atua na proteção de crianças e adolescentes, não sendo o órgão
+competente para casos envolvendo pessoas idosas. Encaminhamento compulsório para
+abrigo institucional só ocorre em situações extremas e mediante decisão judicial. Essa
+conduta desconsidera a complexidade da situação e viola direitos da pessoa idosa, como
+o de permanecer em seu ambiente familiar, quando possível.
+Alternativa: "Encaminhar a idosa para avaliação psicológica e aguardar que ela, de forma
+voluntária, decida denunciar ou procurar a Defensoria Pública." Incorreta.
+O encaminhamento para apoio psicológico pode ser parte da conduta, mas não substitui
+a responsabilidade legal da equipe de saúde de notificar a suspeita de violência.
+Aguardar que a vítima denuncie por vontade própria ignora a dinâmica do ciclo de
+violência, o medo, a dependência emocional ou econômica e compromete a segurança do
+idoso.
+Referências
+BRASIL. Presidência da República. Lei nº 10.741, de 1º de outubro de 2003. Estatuto do
+Idoso. Diário Oficial da União: seção 1, Brasília, DF, 3 out. 2003. Disponível em:
+https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm. Acesso em: 3 jul. 2025.
+BRASIL. Ministério dos Direitos Humanos e da Cidadania. Disque 100 – Violação de
+Direitos Humanos. Disponível em: https://www.gov.br/mdh/pt-br/assuntos/disque-100.
+Acesso em: 3 jul. 2025.
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Educação em saúde
+[Tema]
+Violência e maus-tratos contra os idosos
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIFIPMOC
+[Habilidades]
+Avaliar os instrumentos legais de proteção ao idoso,
+promovendo o uso do Estatuto do Idoso e dos canais de
+denúncia na prática profissional.
+15ª QUESTÃO
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 27 de 57
+
+Código da questão:
+
+141318
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIPTAN) Durante uma consulta na Atenção Primária à Saúde, um homem de 35 anos
+busca orientação após ter a cobertura de um procedimento cirúrgico negada por seu
+plano de saúde privado. Segundo a operadora, o procedimento solicitado não está
+previsto no contrato. O paciente manifesta preocupação com os custos e com a
+possibilidade de não conseguir realizar o tratamento necessário para sua condição de
+saúde. Ele deseja compreender quais são seus direitos diante da negativa e qual conduta
+pode adotar para assegurar acesso ao cuidado.
+Nesse contexto, é papel do médico conhecer os princípios legais que regulamentam os
+planos de saúde e fornecer orientações seguras ao paciente, respeitando os preceitos do
+Sistema de Saúde Suplementar e do Código de Defesa do Consumidor.
+Considerando a situação descrita e a legislação brasileira vigente, avalie as afirmativas a
+seguir:
+I. O consumidor tem direito de receber informação clara, adequada e por escrito sobre a
+negativa de cobertura e as razões apresentadas pelo plano de saúde.
+II. Em casos de negativa de cobertura, o paciente pode acionar a ouvidoria da operadora
+do plano de saúde, solicitando detalhamento da decisão.
+III. De acordo com a legislação brasileira, a operadora deve justificar a negativa de
+cobertura de forma fundamentada, sob pena de a recusa ser considerada abusiva e
+ilícita.
+IV. O paciente tem o direito de recorrer à Agência Nacional de Saúde Suplementar (ANS)
+e, se necessário, à Justiça, a fim de garantir o acesso ao procedimento negado
+indevidamente.
+V. A negativa de cobertura que configura violação aos direitos do consumidor pode
+acarretar sanções administrativas à operadora e obrigá-la judicialmente a custear o
+procedimento.
+Com base no exposto, é correto o que se afirma em
+Alternativas:
+(alternativa A)
+II, IV e V, apenas.
+(alternativa B)
+I, II e III, apenas.
+(alternativa C)
+I, III e IV, apenas.
+(alternativa D) (CORRETA)
+I, II, III, IV e V.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 28 de 57
+
+Resposta comentada:
+Resposta correta:
+I, II, III, IV e V.
+Todas as afirmações dizem respeito às ações que o consumidor e o profissional de saúde
+podem adotar frente à negativa de cobertura, incluindo a solicitação de informações,
+ações administrativas e legais e compreensão dos direitos garantidos pela legislação
+brasileira, especialmente pela Lei nº 13.003/2014 e normativos da ANS. Cada uma delas
+representa uma conduta adequada para proteger os direitos do paciente.
+Justificativas das demais alternativas:
+Exclui as afirmações 4 e 5, que também são corretas e importantes no procedimento
+diante de negativas indevidas.
+Ignora a afirmação 5, que também é uma possibilidade válida no enfrentamento de
+negativas indevidas.
+Inclui afirmações corretas, mas deixa de fora a afirmação 1, que é fundamental ao direito
+do consumidor à informação.
+Exclui a afirmação 4, importante por representar o recurso gerencial e judicial em caso
+de negativa injustificada.
+Referência:
+BRASIL. Lei nº 13.003, de 24 de outubro de 2014. Dispõe sobre os planos privados de
+assistência à saúde. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato20112014/2014/Lei/L13003.htm. Acesso em: 07 jul. 2025.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Epidemiologia
+[Competências (Objetivos)]
+Regulação em saúde
+Legislação em Saúde
+[Tema]
+Análise de Métodos Diagnósticos e Estudos
+Epidemiológicos (sensibilidade, especificidade, valor
+preditivo positivo e negativo, prevalência e incidência)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIPTAN
+[Habilidades]
+Analisar a aplicabilidade de métodos diagnósticos em
+diferentes contextos clínicos, justificando decisões com
+base em evidências e perfil populacional.
+16ª QUESTÃO
+
+Código da questão:
+
+141935
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 29 de 57
+
+Enunciado:
+(ITPAC Porto Nacional) A notificação compulsória é a comunicação obrigatória à
+autoridade de saúde, realizada pelos médicos, profissionais de saúde ou responsáveis
+pelos estabelecimentos de saúde, públicos ou privados, sobre a ocorrência de suspeita
+ou confirmação de doença, agravo ou evento de saúde pública, podendo ser imediata ou
+semanal. Ela deve ser realizada por meio do Sistema de Informação de Agravos de
+Notificação – Sinan e a sua utilização efetiva permite a realização do diagnóstico
+dinâmico da ocorrência de um evento na população, podendo fornecer subsídios para
+explicações causais dos agravos, além de indicar riscos aos quais as pessoas estão
+sujeitas, contribuindo assim para a identificação da realidade epidemiológica de
+determinada área geográfica. (Ministério da Saúde, 2025).
+Sobre as doenças e agravos de notificação compulsória, marque a alternativa correta.
+Alternativas:
+(alternativa A)
+A hanseníase é uma doença infecciosa crônica causada pela bactéria leprae que afeta a
+pele, podendo causar lesões cutâneas e perda de sensibilidade local, e a sua transmissão
+se dá por meio de gotículas de Flugge. O agravo em questão é de notificação
+compulsória imediata.
+(alternativa B)
+Dengue, Zika e Chikungunya são arboviroses transmitidas principalmente pelo mosquito
+macho Aedes aegypti e apresentam sintomas em comum, como febre, dor no corpo,
+cefaleia e exantema. Tais agravos são notificados mediante a suspeição clínica e de
+forma imediata.
+(alternativa C)
+A tuberculose é uma doença infecciosa causada pela bactéria M. tuberculosis e afeta
+principalmente os pulmões. Os sintomas são tosse por mais de 3 semanas, febre e
+sudorese matutina, e perda de peso. O agravo é notificado mediante a suspeita clínica e
+de forma imediata.
+(alternativa D) (CORRETA)
+A leishmaniose visceral é causada pela Leishmania infantum chagasi e transmitida pela
+picada de mosquitos-palha. É uma doença infecciosa que afeta o fígado e baço, podendo
+causar febre, perda de peso e anemia. O agravo é notificado mediante a suspeição clínica
+e de forma semanal.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Dengue, Zika e Chikungunya são arboviroses transmitidas principalmente pela fêmea do
+mosquito Aedes aegypti, mas apresentam sintomas e particularidades distintas: A
+Dengue caracteriza-se por febre alta (acima de 38,5°C) de início súbito, cefaleia, mialgia
+intensa, dor retrorbitária e exantema. Nos casos mais graves, podem ocorrer dor
+abdominal, vômitos persistentes, hepatoesplenomegalia, sangramento e choque. A sua
+notificação é semanal mediante suspeita clínica e imediata apenas nos casos de óbito. A
+Chikungunya caracteriza-se por tríade clássica, com febre alta e abrupta, dores intensas
+e prolongadas nas articulações, que podem se tornar crônicas na maioria dos casos, e
+exantema, e a sua notificação é semanal mediante suspeita clínica. Na Zika podemos
+encontrar a febre baixa (ou ausente), exantema e prurido intenso, conjuntivite não
+purulenta, cefaleia, odinofagia e dor articular. A infecção pode variar desde a forma
+assintomática até sintomas neurológicos como a Síndrome de Guillain-Barré. A gestante
+infectada pode transmitir o vírus para o feto durante todo o período gestacional,
+oportunizando a manifestação de diversas anomalias congênitas no Sistema Nervoso
+Central, com uma ampla gama de deficiências intelectuais, físicas e sensoriais, que
+duram a vida toda. O agravo é de notificação semanal, mediante suspeita clínica, exceto
+a infecção na gestante, que é de notificação imediata.
+A hanseníase é uma doença infecciosa crônica causada pela bactéria Mycobacterium
+leprae que afeta principalmente a pele e os nervos periféricos, podendo causar lesões
+cutâneas, perda de sensibilidade e, em casos graves, incapacidades físicas permanentes.
+A transmissão ocorre por meio de contato íntimo e prolongado com uma pessoa infectada
+e não tratada, por meio de gotículas respiratórias eliminadas. O seu diagnóstico é
+essencialmente clínico-epidemiológico e a sua notificação compulsória é semanal.
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 30 de 57
+
+A leishmaniose visceral, também conhecida como calazar, é uma doença grave causada
+por parasitas do gênero Leishmania e transmitida pela picada de mosquitos-palha
+infectados. É uma doença sistêmica que, se não tratada, pode ser fatal. A doença afeta
+principalmente órgãos como o fígado, baço e medula óssea, e pode causar febre
+prolongada, perda de peso, hepatomegalia e esplenomegalia, anemia, astenia intensa e
+adenomegalia. O agravo é notificado mediante a suspeição clínica e de forma semanal.
+A tuberculose é uma doença infecciosa causada pela bactéria Mycobacterium
+tuberculosis (bacilo de Koch) e pode afetar principalmente os pulmões, mas também
+outros órgãos. Os sintomas mais comuns incluem tosse persistente (por mais de três
+semanas), febre vespertina, sudorese noturna e perda de peso. A transmissão ocorre por
+meio da inalação de gotículas respiratórias e pacientes bacilíferos. A sua notificação é
+feita após confirmação diagnóstica e de forma semanal.
+Referências:
+MINISTÉRIO DA SAÚDE. Portaria GM/MS nº 6.734, DE 18 DE março de 2025. Disponível
+em: https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-6.734-de-18-de-marco-de2025-620767223
+Venâncio, Ronaldo. Ministério da Saúde/Fiocruz - Curso de Atualização das Arboviroses
+para Médicos e Enfermeiros. Disponível em: www.to.gov.br/saude/curso-de-atualizacaodas-arboviroses-para-medicos-e-enfermeiros-junho2022/zzk5k3kb8zs
+MINISTÉRIO DA SAÚDE. DENGUE - Classificação de Risco e Manejo do paciente, 2021.
+Disponível em: www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/publicacoessvs/dengue/dengue_classificacao_risco_manejo_paciente.pdf/view
+CICLO SAÚDE, SÉRIE ESTUDOS DIRIGIDOS – CADERNO TEMÁTICO – Dengue, Chikungunya
+e Zika, 1.ª edição, 2016. Disponível em: https://biblio.ciclovirtual.org.br/wpcontent/uploads/2020/04/Caderno-14-DENGUE-e-CHIKUNGUNYA-A4.pdf.
+MINISTÉRIO DA SAÚDE. Guia Prático Sobre a Hanseníase, 2017. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/guia_pratico_hanseniase.pdf
+MINISTÉRIO DA SAÚDE. Boletim Epidemiológico Número especial de 25 de janeiro de
+2025: Hanseníase | 2025. Disponível em: https://www.gov.br/saude/pt-br/centrais-deconteudo/publicacoes/boletins/epidemiologicos/especiais/2025/boletim-epidemiologicode-hanseniase-numero-especial-jan-2025.pdf
+MINISTÉRIO DA SAÚDE. Manual de Vigilância e Controle da Leishmaniose Visceral, 2014.
+Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/manual_vigilancia_controle_leishmaniose_vis
+ceral_1edicao.pdf
+MINISTÉRIO DA SAÚDE. Manual de Recomendações para o Controle da Tuberculose no
+Brasil, 2019. Disponível em: https://www.gov.br/saude/pt-br/centrais-deconteudo/publicacoes/svsa/tuberculose/manual-de-recomendacoes-e-controle-datuberculose-no-brasil-2a-ed.pdf/view
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 31 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Epidemiologia
+[Competências (Objetivos)]
+Diagnóstico
+[Tema]
+Dinâmica de Transmissão e Distribuição de Doenças e
+Vigilância em Saúde com Ênfase em Vigilância
+Epidemiológica (doenças de notificação compulsória no
+Brasil, SINAN e Ficha de Notificação de agravo –
+preenchimento e fluxo de informação, Vigilância
+Epidemiológica – conceito, importância e atuação)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+ITPAC PORTO NACIONAL
+[Habilidades]
+Reconhecer as principais doenças de notificação
+compulsória no Brasil, descrevendo seus critérios
+diagnósticos e formas de transmissão.
+17ª QUESTÃO
+
+Código da questão:
+
+126789
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FASA VIC) Durante consulta em uma Unidade Básica de Saúde (UBS), um médico atende
+uma adolescente de 16 anos que solicita confidencialidade sobre o motivo da visita. Ela
+revela estar grávida, demonstra compreensão sobre sua condição e pede que a
+informação não seja compartilhada com seus pais. Ao refletir sobre sua conduta, o
+médico considera princípios éticos fundamentais, como o respeito à autonomia, o sigilo
+profissional e a proteção da vida, além das normas previstas no Código de Ética Médica
+(Resolução CFM nº 2.217/2018) e na legislação aplicável à proteção de crianças e
+adolescentes.
+Com base no Código de Ética Médica, no Estatuto da Criança e do Adolescente (ECA) e na
+legislação brasileira, indique a conduta ética adequada diante da situação apresentada.
+Alternativas:
+(alternativa A)
+Recusar atendimento à paciente devido à não autorização, para segurança profissional e
+cumprir o princípio de não maleficência.
+(alternativa B)
+Encaminhar a paciente para o serviço de assistência social da UBS e conselho tutelar
+devido à lacuna do cuidado dos pais.
+(alternativa C) (CORRETA)
+Respeitar a decisão da paciente quanto ao compartilhamento das informações,
+registrando em prontuário a capacidade de autodeterminação.
+(alternativa D)
+Informar imediatamente aos pais da adolescente, devido à menor idade civil e risco da
+condição para a saúde da paciente.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 32 de 57
+
+Resposta comentada:
+Alternativa correta:
+Respeitar a decisão da paciente quanto ao compartilhamento das informações,
+registrando em prontuário a capacidade de autodeterminação.
+Justificativa:
+Segundo o Código de Ética Médica (Resolução CFM nº 2.217/2018), o sigilo médico deve
+ser mantido mesmo em atendimentos a adolescentes, desde que haja capacidade de
+entendimento e discernimento. O Estatuto da Criança e do Adolescente (ECA) reconhece
+a autonomia progressiva e o direito à confidencialidade, especialmente quando não há
+situação de risco iminente, violência ou negligência evidente. Nesse caso, a paciente
+demonstra compreensão da sua condição e não há indícios que justifiquem quebra do
+sigilo. O médico deve acolher, manter o sigilo e registrar a capacidade de
+autodeterminação da adolescente no prontuário.
+Análise das alternativas incorretas:
+Alternativa incorreta:
+Informar imediatamente aos pais da adolescente, devido à menor idade civil e risco da
+condição para a saúde da paciente.
+Justificativa do erro:
+A menoridade civil não implica, por si só, incapacidade de decisão em saúde. A legislação
+brasileira e o Código de Ética Médica permitem ao médico preservar o sigilo com
+adolescentes que demonstram maturidade. Romper o sigilo com base apenas na idade e
+na gravidez, sem risco iminente, é inadequado e fere a autonomia da paciente.
+Alternativa incorreta:
+Encaminhar a paciente para o serviço de assistência social da UBS e conselho tutelar
+devido à lacuna do cuidado dos pais.
+Justificativa do erro:
+Não há indícios de negligência ou abandono familiar que justifiquem acionar o conselho
+tutelar. A gravidez em si, sem contexto de risco ou vulnerabilidade social grave, não
+configura automaticamente uma “lacuna de cuidado”. O encaminhamento sem o
+consentimento da adolescente quebra o sigilo injustificadamente.
+Alternativa incorreta:
+Recusar atendimento à paciente devido à não autorização, para segurança profissional e
+cumprir o princípio de não maleficência.
+Justificativa do erro:
+Negar atendimento é contrário ao dever de assistência médica e pode configurar omissão
+de socorro. A segurança profissional não se sobrepõe ao princípio da beneficência e à
+responsabilidade ética de atender a paciente em situação legítima de cuidado.
+Referência
+Código de Ética Médica: Resolução CFM nº 2.217/2018. Brasília: CFM; 2019. Disponível
+em: https://portal.cfm.org.br/etica-medica/codigo-2010/codigo-de-etica-medica-res-19312009-capitulo-iv-direitos-humanos-2. Acesso em: 16 fev. 2025.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 33 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Ética médica
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Ética Médica (princípios e diretrizes do código de ética
+médica e sua aplicação)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+[Habilidades]
+Aplicar os princípios éticos na tomada de decisão em casos
+clínicos da Atenção Primária, respeitando a bioética.
+
+18ª QUESTÃO
+Código da questão:
+
+145070
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Durante visita domiciliar a um idoso de 82 anos, acamado há dois meses
+após um acidente vascular cerebral isquêmico, a equipe da Estratégia de Saúde da
+Família observa vermelhidão persistente na região sacral. A filha, cuidadora única,
+demonstra sinais de cansaço emocional e relata estar sobrecarregada com as tarefas de
+cuidado. O idoso está lúcido, alimenta-se por via oral com dieta pastosa e permanece no
+leito a maior parte do tempo.
+Sobre a atuação da equipe de saúde nesse contexto, avalie as afirmações a seguir:
+I. A orientação sobre mudança de decúbito a cada duas horas é uma medida essencial
+para prevenção de lesões por pressão.
+II. O uso de coxins ou almofadas pode ajudar a redistribuir a pressão em áreas de risco,
+como calcâneos e região sacral.
+III. A sobrecarga da cuidadora deve ser acolhida, e estratégias de apoio social e
+educacional devem ser consideradas pela equipe.
+IV. Como o paciente está lúcido e alimenta-se normalmente, o risco de complicações por
+imobilidade menor.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A)
+I e II.
+(alternativa B) (CORRETA)
+I, II e III.
+(alternativa C)
+I, III e IV.
+(alternativa D)
+II e IV.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 34 de 57
+
+Resposta comentada:
+A questão integra os domínios da atenção domiciliar, educação em saúde e cuidado ao
+idoso com restrição de mobilidade.
+I. (A orientação sobre mudança de decúbito a cada duas horas é uma medida essencial
+para prevenção de lesões por pressão) está correta, pois a mudança de decúbito é pilar
+da prevenção das lesões por pressão.
+II. (O uso de coxins ou almofadas pode ajudar a redistribuir a pressão em áreas de risco
+como calcâneos e região sacral) também está correto, com uso de coxins ou almofadas
+para aliviar pontos de pressão.
+III. (a sobrecarga da cuidadora deve ser acolhida, e estratégias de apoio social e
+educacional devem ser consideradas pela equipe) está correto, pois o acolhimento da
+sobrecarga da cuidadora única é parte do cuidado centrado na família e essencial para a
+sustentabilidade do cuidado.
+IV. (como o paciente está lúcido e alimenta-se normalmente, o risco de complicações por
+imobilidade é mínimo) está incorreto: mesmo lúcido e se alimentando por via oral, um
+idoso acamado está sob risco aumentado de complicações como lesões por pressão,
+infecções respiratórias e trombose.
+Assim, a alternativa correta é a que contém (I, II e III).
+Referências
+NOGUEIRA, Déa; LIMA-CASTELO, Rony. Tratado de Geriatria e Gerontologia. 4. ed. Rio de
+Janeiro: Guanabara Koogan, 2021.
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Competências (Objetivos)]
+Educação em saúde
+[Tema]
+Aspectos biológicos e fisiologia do envelhecimento
+(diferença entre senilidade e senescência e suas
+implicações clínicas, envelhecimento saudável)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Habilidades]
+Avaliar os fatores de risco modificáveis associados ao
+envelhecimento patológico, promovendo ações de
+prevenção.
+19ª QUESTÃO
+
+Código da questão:
+
+151648
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 35 de 57
+
+Enunciado:
+(Banco AFYA) Durante atendimento em uma Unidade Básica de Saúde, o médico propõe
+a um paciente de 63 anos a realização de uma biópsia de lesão cutânea suspeita,
+explicando o procedimento de forma breve e solicitando a assinatura do termo de
+consentimento. O paciente, visivelmente apreensivo, assina o documento, mas, após o
+procedimento, relata que não sabia que a retirada da lesão deixaria cicatriz visível. A
+família demonstra insatisfação e afirma que o médico “não explicou direito”. Em reunião
+com a equipe, discute-se o ocorrido à luz da prática comunicacional na APS e dos
+princípios éticos que orientam a relação médico-paciente.
+Considerando os fundamentos da comunicação clínica e do consentimento informado,
+assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O consentimento informado é um documento formal de autorização, cuja validade
+depende da assinatura do paciente, não exigindo discussão detalhada sobre riscos ou
+alternativas.
+(alternativa B)
+A responsabilidade pela comunicação dos riscos é do serviço de saúde, desde que o
+termo de consentimento seja padronizado e contenha todas as informações técnicas.
+(alternativa C)
+Em situações de rotina, o profissional não tem obrigação de detalhar riscos mínimos, pois
+isso pode gerar ansiedade e comprometer a adesão do paciente ao tratamento.
+(alternativa D) (CORRETA)
+A comunicação adequada pressupõe escuta ativa, linguagem acessível, esclarecimento
+de riscos, benefícios e alternativas, assegurando autonomia e decisão compartilhada com
+o paciente.
+
+Grau de dificuldade:
+
+Difícil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 36 de 57
+
+Resposta comentada:
+Alternativa “O consentimento informado é um documento formal de autorização, cuja
+validade depende da assinatura do paciente, não exigindo discussão detalhada sobre
+riscos ou alternativas.” Incorreta
+Comentário: Essa afirmativa reduz o consentimento informado a um ato burocrático,
+contrariando princípios éticos fundamentais. O consentimento não é apenas assinatura,
+mas um processo comunicativo contínuo que pressupõe compreensão efetiva do
+paciente sobre o diagnóstico, o procedimento, os riscos, benefícios e alternativas
+possíveis. A autonomia só se concretiza quando o paciente participa ativamente da
+decisão. O simples preenchimento do termo, sem diálogo empático e esclarecedor, não
+configura consentimento válido.
+Alternativa “A responsabilidade pela comunicação dos riscos é do serviço de saúde,
+desde que o termo de consentimento seja padronizado e contenha todas as informações
+técnicas.” Incorreta
+Comentário: Embora o serviço de saúde deva disponibilizar instrumentos padronizados e
+adequados, a responsabilidade ética e legal pela comunicação é pessoal e indelegável do
+profissional que executa o procedimento. Cabe ao médico garantir que o paciente tenha
+compreendido as informações de forma acessível, adaptada ao seu nível de
+entendimento, linguagem e contexto sociocultural. O termo padronizado é um
+complemento, não substituto do diálogo clínico.
+Alternativa “A comunicação adequada pressupõe escuta ativa, linguagem acessível,
+esclarecimento de riscos, benefícios e alternativas, assegurando autonomia e decisão
+compartilhada com o paciente.” Correta
+Comentário: Essa alternativa está correta e expressa a essência da comunicação ética
+em saúde. O consentimento informado é um processo dialógico que visa respeitar a
+autonomia do paciente e fortalecer o vínculo terapêutico. A comunicação clínica centrada
+na pessoa deve envolver escuta ativa, empatia e linguagem compreensível, promovendo
+decisões compartilhadas e evitando paternalismo. Na APS, essa abordagem é parte do
+cuidado integral e da prática humanizada, reduzindo conflitos e favorecendo confiança
+mútua entre médico e paciente.
+Alternativa “Em situações de rotina, o profissional não tem obrigação de detalhar riscos
+mínimos, pois isso pode gerar ansiedade e comprometer a adesão do paciente ao
+tratamento.” Incorreta
+Comentário: A omissão de informações, mesmo sobre riscos considerados mínimos, viola
+o princípio da autonomia e compromete a confiança na relação médico-paciente. O
+profissional deve adaptar a comunicação à sensibilidade e ao contexto do paciente, mas
+não omitir fatos relevantes. O dever ético é garantir informação adequada e honesta,
+mesmo que isso gere desconforto momentâneo, pois o diálogo transparente é essencial à
+tomada de decisão consciente e ao fortalecimento da relação terapêutica.
+Referências:
+CONSELHO FEDERAL DE MEDICINA. Código de Ética Médica: Resolução CFM nº 2.336, de
+25 de outubro de 2023. Brasília: CFM, 2023. Disponível em: https://portal.cfm.org.br.
+Acesso em: 9 nov. 2025.
+BRASIL. Ministério da Saúde. Carta dos Direitos dos Usuários da Saúde. 6. ed. Brasília: MS,
+2022. Disponível em: https://www.gov.br/saude. Acesso em: 9 nov. 2025.
+EPSTEIN, R. M.; STREET, R. L. Patient-Centered Communication in Cancer Care: Promoting
+Healing and Reducing Suffering. Bethesda: National Cancer Institute, NIH Publication No.
+07-6225, 2022.
+BEAUCHAMP, T. L.; CHILDRESS, J. F. Principles of Biomedical Ethics. 9. ed. New York:
+Oxford University Press, 2020.
+SILVA, A. G.; MARTINS, M. A. Comunicação clínica e consentimento informado. In: GUSSO,
+G.; LOPES, J. M. C.; DIAS, L. C. (orgs.). Tratado de Medicina de Família e Comunidade:
+princípios, formação e prática. 3. ed. Porto Alegre: Artmed, 2024. p. 1125-1138.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 37 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Ética médica
+[Tema]
+Ética Médica (princípios e diretrizes do código de ética
+médica e sua aplicação)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+[Competências (Objetivos)]
+Comunicação em Saúde
+[Habilidades]
+Reconhecer a importância do consentimento informado e
+da comunicação adequada, promovendo uma relação ética
+e respeitosa entre médico e paciente.
+20ª QUESTÃO
+
+Código da questão:
+
+141880
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Durante uma consulta agendada, um homem de 66 anos, sem queixas clínicas e
+com exames de rotina recentes normais, solicita ao médico da unidade de saúde “um
+check-up completo com todos os exames que puderem ser feitos”. Diz que ouviu na
+televisão sobre a importância de prevenir doenças silenciosas.
+Considerando os princípios da clínica ampliada e da prevenção quaternária, qual é a
+conduta mais apropriada do profissional de saúde:
+Alternativas:
+(alternativa A) (CORRETA)
+Explicar os riscos de exames desnecessários, ouvir suas preocupações e construir um
+plano de cuidado individualizado.
+(alternativa B)
+Orientar o paciente sobre a importância da detecção precoce, solicitando exames
+oncológicos mesmo sem fatores de risco.
+(alternativa C)
+Atender ao pedido do paciente e solicitar exames laboratoriais e de imagem extensivos
+para garantir tranquilidade.
+(alternativa D)
+Encaminhar para avaliação com especialista em clínica médica, para decisão sobre
+exames mais avançados.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 38 de 57
+
+Resposta comentada:
+Alternativa correta:
+- Explicar os riscos de exames desnecessários, ouvir suas preocupações e construir um
+plano de cuidado individualizado.
+Está de acordo com os princípios da prevenção quaternária (evitar medicalização e
+intervenções desnecessárias). A conduta propõe diálogo, escuta e corresponsabilização
+no plano de cuidado, evitando iatrogenias.
+Alternativas incorretas:
+- Atender ao pedido do paciente e solicitar exames laboratoriais e de imagem extensivos
+para garantir tranquilidade: Representa intervenção desnecessária, baseada na lógica do
+excesso de exames, que pode levar a falsos positivos, ansiedade, iatrogenia e gasto de
+recursos sem evidência de benefício.
+- Orientar o paciente sobre a importância da detecção precoce, solicitando exames
+oncológicos mesmo sem fatores de risco: Solicitar exames oncológicos fora das diretrizes
+e sem fatores de risco não é indicado e caracteriza excesso de medicalização.
+- Encaminhar para avaliação com especialista em clínica médica, para decisão sobre
+exames mais avançados: Encaminhar ao especialista não se justifica neste caso, pois a
+APS é o lugar adequado para abordagem preventiva, escuta qualificada e construção do
+plano de cuidado.
+Referência:
+GUSSO, Gustavo; LOPES, José M. C.; DIAS, Lêda C. Tratado de medicina de família e
+comunidade - 2 volumes: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed,
+2019. E-book. p.255. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso em: 24
+jul. 2025.
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+[Tema]
+Saúde e Doença (prevenção primária, secundária, terciária
+e quaternária e modelos do processo saúde e doença)
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Habilidades]
+Aplicar o conceito de prevenção quaternária dentro de um
+processo de clínica ampliada, evitando intervenções
+desnecessárias e promovendo o cuidado centrado na
+pessoa.
+21ª QUESTÃO
+
+Código da questão:
+
+114684
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 39 de 57
+
+Enunciado:
+(UNINOVAFAPI) Uma paciente do sexo feminino, 75 anos, comparece à Unidade Básica de
+Saúde (UBS) para uma consulta de rotina. Ela relata sentir cansaço fácil, perda de massa
+muscular e alterações no sono. A paciente possui histórico de hipertensão arterial
+controlada e osteoporose. Durante a avaliação, o médico nota diminuição na acuidade
+visual e auditiva, além de uma leve redução na capacidade cognitiva.
+Em relação aos aspectos biológicos e fisiológicos do envelhecimento, são apresentadas
+as seguintes afirmativas:
+I. A redução da massa muscular e da força, conhecida como sarcopenia, é uma alteração
+fisiológica comum no envelhecimento.
+II. O envelhecimento está associado a uma diminuição na capacidade regenerativa dos
+tecidos, incluindo a redução na produção de células-tronco.
+III. Alterações no sono, como a diminuição da eficiência do sono e o aumento da
+fragmentação, são características comuns no envelhecimento.
+IV. A osteoporose é uma doença que pode ser exacerbada pelas mudanças fisiológicas do
+envelhecimento.
+V. A capacidade cognitiva tende a melhorar com o envelhecimento, especialmente em
+habilidades como processamento de informações.
+Estão corretas apenas os itens que contém as seguintes afirmativas:
+Alternativas:
+(alternativa A) (CORRETA)
+I, II, III e IV.
+(alternativa B)
+II, III e V.
+(alternativa C)
+I, II e III.
+(alternativa D)
+I, II, IV.
+
+Grau de dificuldade:
+
+Difícil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 40 de 57
+
+Resposta comentada:
+- I. Correta: “A redução da massa muscular e da força, conhecida como sarcopenia, é uma
+alteração fisiológica comum no envelhecimento.” A sarcopenia é uma condição fisiológica
+associada à idade, caracterizada pela redução progressiva da massa e da força muscular,
+resultante da diminuição de fibras musculares (principalmente as do tipo II), menor
+síntese proteica e alterações hormonais. Essa perda contribui para a redução da
+mobilidade, aumento do risco de quedas e perda da autonomia funcional no idoso.
+- II. Correta: “O envelhecimento está associado a uma diminuição na capacidade
+regenerativa dos tecidos, incluindo a redução na produção de células-tronco.” Com o
+avanço da idade, há diminuição da capacidade proliferativa e regenerativa dos tecidos
+devido à redução da atividade e da quantidade de células-tronco em diversos órgãos. Isso
+compromete processos de reparo tecidual e cicatrização, além de favorecer o
+aparecimento de doenças degenerativas e inflamatórias crônicas.
+- III. Correta: “Alterações no sono, como a diminuição da eficiência do sono e o aumento
+da fragmentação, são características comuns no envelhecimento.” O envelhecimento
+leva a mudanças no ritmo circadiano e na arquitetura do sono, com redução do sono
+profundo e aumento dos despertares noturnos. Além disso, há tendência a dormir e
+acordar mais cedo. Essas alterações tornam o sono menos reparador, impactando
+energia, humor e cognição diurna.
+- IV. Correta: “A osteoporose é uma doença que pode ser exacerbada pelas mudanças
+fisiológicas do envelhecimento.” A osteoporose é uma condição patológica, mas suas
+causas estão fortemente ligadas ao envelhecimento. Há redução da massa óssea e da
+densidade mineral, em decorrência da menor atividade osteoblástica, desequilíbrio
+hormonal (principalmente deficiência estrogênica nas mulheres) e redução na absorção
+de cálcio e vitamina D. Assim, as alterações fisiológicas do envelhecimento agravam a
+perda óssea e aumentam o risco de fraturas.
+- V. Incorreta: “A capacidade cognitiva tende a melhorar com o envelhecimento,
+especialmente em habilidades como processamento de informações.” No envelhecimento
+normal, observa-se uma redução gradual em funções cognitivas, especialmente memória
+recente, atenção e velocidade de processamento de informações.
+Referências:
+GUSSO, Gustavo; LOPES, José M C.; DIAS, Lêda C. Tratado de medicina de família e
+comunidade - 2 volumes: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed,
+2019. E-book. p.271. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso em: 10
+nov. 2025.
+CUNHA, Ubiratan de Paula Santos. Fisiologia do Envelhecimento. Revista Brasileira de
+Geriatria e Gerontologia, Rio de Janeiro, v. 15, n. 3, p. 435-448, 2012. Disponível em:
+<https://www.scielo.br/j/rbgg/a/5Vb5zjbCQGGf8XrMyyBnYhP/?lang=pt>. Acesso em: 03
+ago. 2024.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 41 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Tema]
+Aspectos biológicos e fisiologia do envelhecimento
+Aspectos biológicos e fisiologia do envelhecimento
+(diferença entre senilidade e senescência e suas
+implicações clínicas, envelhecimento saudável)
+[Competências (Objetivos)]
+Diagnóstico(s)
+Diagnóstico
+[Habilidades]
+Identidicar as alteracões fisiológicas do envelhecimento
+Aplicar os aspectos biológicos e fisiológicos do
+envelhecimento no atendimento ao idoso, realizando
+cuidados específicos para o envelhecimento.
+[IES]
+UNINOVAFAPI
+UNINOVAFAPI
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+
+22ª QUESTÃO
+Código da questão:
+
+141400
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(IESVAP) Durante uma visita domiciliar, a equipe da unidade de saúde encontra uma
+idosa com perda de peso não intencional, hematomas em diferentes estágios de
+cicatrização e comportamento retraído na presença do cuidador. No território, a
+profissional também observa relatos de vizinhos sobre isolamento social recente da
+paciente.
+No contexto da transição demográfica e nutricional vivenciada pela população idosa, qual
+deve ser a prioridade da equipe de saúde para condução apropriada do caso da paciente:
+Alternativas:
+(alternativa A)
+Encaminhar a idosa para atendimento especializado em geriatria para melhor
+investigação das causas clínicas.
+(alternativa B) (CORRETA)
+Avaliar os achados de forma multidimensional, articulando ações com a rede de proteção
+social do território.
+(alternativa C)
+Recomendar aumento calórico e suplementação nutricional imediata para compensar a
+perda de peso observada.
+(alternativa D)
+Registrar as evidências físicas no prontuário, mantendo sigilo para preservar a
+integridade familiar.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 42 de 57
+
+Resposta comentada:
+“Avaliar os achados de forma multidimensional, articulando ações com a rede de
+proteção social do território." Correta. A atuação diante da suspeita de maus-tratos exige
+olhar ampliado, considerando não apenas aspectos clínicos, mas também os
+determinantes sociais da violência. A avaliação multidimensional permite integrar dados
+físicos, emocionais e comportamentais, essenciais para um diagnóstico precoce. Articular
+com a rede de proteção (CRAS, CREAS, Ministério Público, entre outros) é fundamental
+para garantir segurança e suporte à vítima.
+"Recomendar aumento calórico e suplementação nutricional imediata para compensar a
+perda de peso observada." Errada. Embora a perda de peso seja um sinal importante a
+ser avaliado, essa conduta reduz a situação a um problema nutricional. No entanto, os
+achados (hematomas, retraimento, isolamento) indicam violência ou negligência, que
+requerem investigação e proteção imediata. A suplementação alimentar pode ser parte
+do cuidado posterior, mas não é a prioridade neste contexto, pois não aborda a possível
+causa principal — os maus-tratos.
+"Registrar as evidências físicas no prontuário, mantendo sigilo para preservar a
+integridade familiar." Errada. O sigilo é importante, mas não pode impedir a notificação
+compulsória em casos suspeitos.
+"Encaminhar a idosa para atendimento especializado em geriatria para melhor
+investigação das causas clínicas." Errada.
+Referências:
+Ministério da Saúde. Departamento de Análise de Situação de Saúde. Perfil
+Epidemiológico da População Brasileira. Brasília: Ministério da Saúde, 2010.
+MENDES, E. V. A Saúde no Brasil e o SUS: História, política, estrutura e organização. Rio
+de Janeiro: Fiocruz, 2013.
+PRADO, M. S. Epidemiologia Básica. 6.ª ed. São Paulo: Atheneu, 2017.
+FREITAS, C. M. Epidemiologia e Saúde Pública. 2.ª ed. São Paulo: Cortez, 2019.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Competências (Objetivos)]
+Diagnóstico
+[Tema]
+Transição epidemiológica, demográfica e nutricional
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+IESVAP
+[Habilidades]
+Identificar sinais físicos, emocionais e comportamentais
+sugestivos de violência contra idosos, estabelecendo o
+diagnóstico precoce de maus-tratos.
+23ª QUESTÃO
+
+Código da questão:
+
+141925
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 43 de 57
+
+Enunciado:
+(UNIGRANRIO Caxias) Durante reunião da equipe de Saúde da Família, a enfermeira
+relata aumento recente de casos de diarreia aguda notificados nas últimas duas
+semanas. O território apresenta histórico de abastecimento irregular de água, e os
+Agentes Comunitários de Saúde (ACS) informam que moradores da área passaram a
+consumir água de um poço artesiano não fiscalizado. Diante desse cenário, a
+coordenação da unidade propõe ações imediatas de vigilância epidemiológica.
+Com base nas atribuições da APS na vigilância epidemiológica, indique a conduta
+prioritária da equipe diante da situação apresentada.
+Alternativas:
+(alternativa A)
+Prescrever profilaticamente antimicrobianos específicos direcionados aos casos suspeitos
+e solicitar exames coprológicos para os residentes nas áreas afetadas para definir o
+agente etiológico e a fim de realizar o tratamento mais adequado.
+(alternativa B)
+Implementar ações educativas nas escolas e postos de saúde sobre higiene e uso de
+soluções de reidratação oral, concentrando-se na mitigação dos sintomas clínicos
+enquanto se aguarda orientação da vigilância municipal.
+(alternativa C)
+Limitar a atuação dos ACS na área até que a fonte de contaminação esteja esclarecida,
+redirecionando-os para ações de rotina em áreas não afetadas, visando proteger os
+trabalhadores e evitar alarme social.
+(alternativa D) (CORRETA)
+Realizar notificação compulsória dos casos, desencadear investigação epidemiológica
+com identificação de padrão espaço-temporal e mobilizar articulação com vigilância
+sanitária e setor de saneamento para avaliar a água consumida.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Embora ações educativas e hidratação oral sejam importantes no manejo clínico, não
+substituem a vigilância ativa e imediata diante da suspeita de surto. A APS não deve
+aguardar passivamente, mas atuar de forma articulada com os sistemas locais de
+vigilância e saneamento.
+A prescrição indiscriminada de antibióticos não é recomendada em surtos de diarreia
+aguda, cuja maioria tem etiologia viral ou autolimitada. A coleta massiva de exames sem
+critérios epidemiológicos sobrecarrega o sistema e não é custo-efetiva na APS.
+Realizar notificação compulsória dos casos, desencadear investigação epidemiológica
+com identificação de padrão espaço-temporal e mobilizar articulação com vigilância
+sanitária e setor de saneamento para avaliar a água consumida é a resposta técnicooperacionalmente mais adequada e condizente com os princípios da vigilância
+epidemiológica na APS: detecção, notificação, investigação, análise de padrão de
+ocorrência e articulação intersetorial, com foco na interrupção da cadeia de transmissão e
+proteção coletiva.
+Os ACS são agentes estratégicos para investigação ativa, mapeamento de casos e
+educação em saúde no território. Com as devidas orientações e equipamentos de
+proteção, sua atuação deve ser reforçada, não restringida. Evitar a presença dos
+profissionais contribui para desinformação e invisibilização do problema.
+Referência
+GUSSO, G.; LOPES, J. M. (orgs). Tratado de Medicina de Família e Comunidade: Princípios,
+Formação e Prática. Porto Alegre: Artmed, 2012. Capítulo sobre Vigilância em Saúde e o
+papel da APS.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 44 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Epidemiologia
+[Competências (Objetivos)]
+Educação em saúde
+[Tema]
+Dinâmica de Transmissão e Distribuição de Doenças e
+Vigilância em Saúde com Ênfase em Vigilância
+Epidemiológica (doenças de notificação compulsória no
+Brasil, SINAN e Ficha de Notificação de agravo –
+preenchimento e fluxo de informação, Vigilância
+Epidemiológica – conceito, importância e atuação)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO CAXIAS
+[Habilidades]
+Justificar a atuação da equipe de APS na vigilância
+epidemiológica, integrando ações de monitoramento,
+prevenção e educação em saúde.
+
+24ª QUESTÃO
+Código da questão:
+
+127442
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Você inicia seus atendimentos em uma nova Estratégia Saúde da Família e fica
+responsável por um idoso de 82 anos, previamente independente para atividades da vida
+diária, que foi internado após infecção urinária complicada por delirium hipoativo e
+declínio funcional significativo. Durante a hospitalização, permaneceu restrito ao leito por
+10 dias e, na alta, apresentava redução da força muscular, dificuldade para deambulação
+e incapacidade para realizar tarefas básicas sem auxílio.
+Considerando a abordagem multidimensional da fragilidade e da imobilização no idoso
+vulnerável, analise qual é a estratégia mais eficaz para reverter esse quadro e promover
+recuperação funcional.
+Alternativas:
+(alternativa A) (CORRETA)
+Implementar reabilitação interdisciplinar precoce, associando fisioterapia, terapia
+ocupacional, suporte nutricional e revisão medicamentosa.
+(alternativa B)
+Priorizar analgesia farmacológica intensiva e uso de benzodiazepínicos para garantir
+conforto e minimizar o risco de delirium recorrente.
+(alternativa C)
+Iniciar suplementação proteica, associada ao uso de agentes anabolizantes, e manter
+repouso relativo para evitar quedas e novas complicações.
+(alternativa D)
+Instituir fisioterapia motora e prescrever polivitamínicos para otimizar a nutrição e
+estimular a recuperação muscular.
+
+Grau de dificuldade:
+
+Difícil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 45 de 57
+
+Resposta comentada:
+Alternativa correta: Implementar reabilitação interdisciplinar precoce, associando
+fisioterapia, terapia ocupacional, suporte nutricional e revisão medicamentosa.
+Justificativa: A reabilitação interdisciplinar precoce é fundamental para reverter o declínio
+funcional e prevenir complicações associadas à imobilização. A associação de fisioterapia,
+terapia ocupacional, suporte nutricional e revisão medicamentosa permite uma
+recuperação mais rápida e eficaz, reduzindo o risco de incapacidades permanentes.
+(Gusso et al., 2019)
+Alternativas incorretas:
+- Instituir fisioterapia motora e prescrever polivitamínicos para otimizar a nutrição e
+estimular a recuperação muscular. Justificativa: Embora a fisioterapia seja essencial, a
+prescrição de polivitamínicos sem uma deficiência comprovada não tem impacto
+significativo na recuperação funcional. Além disso, a abordagem deve ser
+multidimensional, não apenas motora e nutricional.
+- Iniciar suplementação proteica, associada ao uso de agentes anabolizantes, e manter
+repouso relativo para evitar quedas e novas complicações. Justificativa: A suplementação
+proteica pode ser benéfica, mas o uso de agentes anabolizantes não faz parte da
+abordagem de primeira linha para idosos frágeis. Além disso, o repouso prolongado
+agrava a sarcopenia e piora o desfecho funcional.
+- Priorizar analgesia farmacológica intensiva e uso de benzodiazepínicos para garantir
+conforto e minimizar o risco de delirium recorrente. Justificativa: O controle da dor é
+importante, mas a analgesia intensiva isolada e o uso de benzodiazepínicos podem
+agravar a confusão mental e a sedação, aumentando o risco de quedas e piorando o
+prognóstico funcional do idoso.
+Referência:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Lêda Chaves. Tratado de Medicina de
+Família e Comunidade: Princípios, Formação e Prática. 2.ª ed. Porto Alegre: Artmed, 2019.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Avaliar o tratamento multidimensional para a fragilidade e
+a imobilização em idosos vulneráveis, estimando a eficácia
+das intervenções terapêuticas e reabilitativas.
+[Tema]
+Fragilidade e Síndrome da Imobilização em Vulneráveis
+(definição, fatores de risco, diagnóstico, tratamento e
+reabilitação)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+25ª QUESTÃO
+
+Código da questão:
+
+145271
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 46 de 57
+
+Enunciado:
+(UNIGRANRIO Barra) Um paciente pardo de 28 anos procura a Unidade Básica de Saúde,
+relatando que há 5 dias começou a apresentar febre (38,5 graus) iniciada de forma
+súbita, acompanhada de dor de garganta, tosse seca, dor muscular, cefaleia e dores
+articulares moderadas. Refere que a febre durou cerca de 3 dias, mas os sintomas
+respiratórios persistem, incluindo tosse e sensação de congestão no peito. No exame
+físico, encontra-se eupneico, afebril, com saturação de O₂ de 97% em ar ambiente,
+pressão arterial de 110 x 60 mmHg, frequência cardíaca de 76 bpm e frequência
+respiratória de 16 irpm, com hiperemia conjuntival discreta. A ausculta pulmonar e o
+restante do exame físico estão sem alterações.
+Com base no quadro clínico apresentado, qual é o diagnóstico mais provável apresentado
+por esse paciente:
+Alternativas:
+(alternativa A)
+Arbovirose.
+(alternativa B)
+Pneumonia bacteriana.
+(alternativa C)
+Faringite estreptocócica.
+(alternativa D) (CORRETA)
+Síndrome gripal.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Síndrome gripal. Correta. A síndrome gripal geralmente começa de forma súbita com
+febre alta (entre 37,8°C e 41°C), associada a dor de garganta ou tosse seca,
+acompanhada de pelo menos um dos seguintes sintomas: dor muscular, cefaleia ou dor
+nas articulações. A duração típica dos sintomas é de cerca de 7 dias, podendo prolongarse conforme a resposta imunológica do paciente. A febre, que é o sintoma mais
+marcante, costuma persistir por aproximadamente 3 dias. À medida que a doença evolui,
+os sinais respiratórios tornam-se mais evidentes e podem perdurar por 3 a 5 dias após a
+febre cessar. Em alguns casos, especialmente em crianças, pode haver também
+vermelhidão nos olhos (hiperemia conjuntival) e sintomas gastrointestinais, como
+náuseas, vômitos, diarreia e falta de apetite.
+Pneumonia bacteriana. Errada. Pneumonia geralmente cursa com febre prolongada, tosse
+produtiva, dor torácica, e alterações na ausculta pulmonar (crepitações, murmúrios
+vesiculares diminuídos). O exame físico do paciente está sem alterações pulmonares,
+tornando essa hipótese menos provável.
+Arbovirose. Errada. Arboviroses, como dengue e chikungunya, podem apresentar febre e
+dores articulares, mas geralmente não cursam com tosse seca e sintomas respiratórios
+como congestão pulmonar, típicos da síndrome gripal.
+Faringite estreptocócica. Errada. Faringite estreptocócica costuma apresentar odinofagia
+intensa, febre e exsudato tonsilar, mas raramente cursa com tosse seca e sintomas
+respiratórios prolongados. Além disso, as dores musculares e articulares são menos
+frequentes nesse quadro.
+Referências
+BEN, Ângela Jornada; DAUDT, Carmen Vera Giacobbo. Infecções de vias aéreas
+superiores, resfriado comum e gripe. In: GUSSO, Gustavo; LOPES, José Mauro Ceratti;
+DIAS, Lêda Chaves (org.). Tratado de medicina de família e comunidade: princípios,
+formação e prática. 2. ed. Porto Alegre: ArtMed, 2019. Cap. 154, p. 237. E-book. ISBN
+9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso em: 02
+jul. 2025.
+BRASIL. Ministério da Saúde. Protocolo de Influenza: diagnóstico e tratamento na atenção
+básica. Brasília: Ministério da Saúde; 2023.
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 47 de 57
+
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Competências (Objetivos)]
+Diagnóstico
+[Tema]
+Síndrome Gripal (conceito da síndrome gripal,
+características clínicas e diagnósticos diferenciais e plano
+terapêutico)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO BARRA
+[Habilidades]
+Identificar os principais agentes etiológicos da síndrome
+gripal, analisando suas implicações epidemiológicas para a
+prevenção em saúde.
+
+26ª QUESTÃO
+Código da questão:
+
+145020
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) O rastreamento do câncer do colo do útero constitui uma estratégia
+essencial no âmbito da Atenção Primária à Saúde, visando à detecção precoce de lesões
+precursoras e à redução da morbimortalidade associada à doença. A definição dos
+critérios de inclusão no rastreamento permanece em constante aperfeiçoamento
+técnico‑científico.
+Com base nas recomendações do Ministério da Saúde e do Instituto Nacional de Câncer
+José Alencar Gomes da Silva (INCA) sobre rastreamento do câncer do colo do útero,
+assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A coleta do exame citopatológico em gestantes deve ser evitada no primeiro trimestre
+devido ao risco aumentado de complicações associadas ao procedimento.
+(alternativa B)
+Para mulheres que iniciaram atividade sexual antes dos 15 anos, o rastreamento deve
+começar aos 20 anos, devido ao maior risco de lesões cervicais associadas ao HPV.
+(alternativa C) (CORRETA)
+Mulheres vivendo com HIV ou imunodeprimidas devem iniciar o rastreamento após o
+início da vida sexual, com dois exames semestrais seguidos por repetição anual se ambos
+forem normais.
+(alternativa D)
+Mulheres de 25 a 64 anos com história de atividade sexual devem realizar dois exames
+citopatológicos com intervalo anual e, se ambos forem negativos, repeti-los a cada dois
+anos.
+
+Grau de dificuldade:
+
+Médio
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 48 de 57
+
+Resposta comentada:
+Alternativa: "Mulheres de 25 a 64 anos com história de atividade sexual devem realizar
+dois exames citopatológicos com intervalo anual e, se ambos forem negativos, repeti-los
+a cada dois anos." Errada. Após dois exames anuais consecutivos com resultados
+negativos, a recomendação é repetir o exame a cada três anos, e não dois. A
+periodicidade trienal mantém a efetividade e reduz exames desnecessários.
+Alternativa: "Para mulheres que iniciaram atividade sexual antes dos 15 anos, o
+rastreamento deve começar aos 20 anos, devido ao maior risco de lesões cervicais
+associadas ao HPV." Errada. As diretrizes brasileiras não recomendam iniciar o
+rastreamento antes dos 25 anos, independentemente da idade de início da vida sexual. A
+maioria das infecções por HPV em mulheres jovens regride espontaneamente, e a
+triagem precoce aumenta o risco de sobrediagnóstico e intervenções desnecessárias.
+Alternativa: "Mulheres vivendo com HIV ou imunodeprimidas devem iniciar o
+rastreamento após o início da vida sexual, com dois exames semestrais seguidos por
+repetição anual se ambos forem normais." Correta. Segundo as diretrizes do Ministério da
+Saúde e do INCA, mulheres imunossuprimidas (como aquelas vivendo com HIV)
+constituem grupo de risco aumentado para lesões precursoras e câncer cervical. O
+rastreamento deve ser iniciado logo após o início da atividade sexual, com exames
+semestrais até que dois resultados consecutivos estejam normais.
+Alternativa: "A coleta do exame citopatológico em gestantes deve ser evitada no primeiro
+trimestre devido ao risco aumentado de complicações associadas ao procedimento."
+Errada. A gestação não é contraindicação para a realização do exame citopatológico, que
+pode ser realizado em qualquer trimestre da gravidez. Não há evidência de que o exame
+cause aborto.
+Referência:
+INSTITUTO NACIONAL DE CÂNCER JOSÉ ALENCAR GOMES DA SILVA (INCA). Diretrizes
+brasileiras para o rastreamento do câncer do colo do útero. 2. ed. rev. atual. Rio de
+Janeiro: INCA, 2016. Disponível em: https://www.inca.gov.br/publicacoes/livros/diretrizesbrasileiras-para-o-rastreamento-do-cancer-do-colo-do-utero. Acesso em: 11 jul. 2025.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Rastreamento de Doenças na APS I (foco em neoplasias:
+colo de útero, mama, próstata, colorretal)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO BARRA
+[Habilidades]
+Aplicar protocolos de rastreamento de neoplasias na rotina
+da Atenção Primária, considerando idade, sexo e fatores de
+risco.
+27ª QUESTÃO
+
+Código da questão:
+
+141448
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 49 de 57
+
+Enunciado:
+(UNIDEP) Durante visita domiciliar, a equipe de saúde avalia uma mulher de 52 anos com
+febre persistente, tosse seca e mialgia há quatro dias. Apresenta frequência respiratória
+de 27 irpm, dor torácica ao respirar e saturação de oxigênio de 94% em repouso. Relata
+piora progressiva da dispneia nas últimas 24 horas.
+Considerando os critérios clínicos para gravidade da síndrome gripal, qual deve ser a
+conduta mais adequada da equipe de Saúde da Família responsável pelos cuidados do
+paciente:
+Alternativas:
+(alternativa A)
+Encaminhar para avaliação médica na unidade de saúde, com agendamento de exames
+laboratoriais.
+(alternativa B)
+Orientar repouso, hidratação e monitoramento em casa, com retorno agendado para
+reavaliação em 48 horas.
+(alternativa C)
+Realizar notificação no sistema, prescrever sintomáticos e reforçar as orientações sobre
+sinais de alerta.
+(alternativa D) (CORRETA)
+Encaminhar imediatamente para serviço de maior complexidade, devido à presença de
+sinais de agravamento clínico.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Alternativa: “Encaminhar imediatamente para serviço de maior complexidade, devido à
+presença de sinais de agravamento clínico.” Correta. A paciente apresenta critérios
+definidos para agravamento (saturação ≤94%, FR elevada, dor torácica, piora em 24h), o
+que exige encaminhamento para serviço de maior complexidade conforme protocolos do
+Ministério da Saúde.
+Alternativa: “Orientar repouso, hidratação e monitoramento em casa, com retorno
+agendado para reavaliação em 48 horas.” Incorreta. A presença de taquipneia, dor
+torácica e saturação ≤94% indica agravamento clínico, tornando o monitoramento
+domiciliar inadequado.
+Alternativa: “Realizar notificação no sistema, prescrever sintomáticos e reforçar as
+orientações sobre sinais de alerta.” Incorreta. Existem sinais sugestivos de quadro de
+maior gravidade que necessitam de manejo adequado e não apenas orientações.
+Alternativa: “Encaminhar para avaliação médica na unidade de saúde, com agendamento
+de exames laboratoriais.” Incorreta. O atendimento na UBS pode ser a porta de entrada,
+mas, diante da gravidade dos sinais apresentados, a paciente necessita de suporte
+imediato em unidade com maior capacidade diagnóstica e terapêutica.
+Referência
+BRASIL. Ministério da Saúde. Protocolo de Manejo Clínico da Síndrome Gripal na Atenção
+Primária à Saúde. Brasília: MS, 2023. Disponível em:
+https://www.gov.br/saude/pt-br/media/pdf/2023/sindrome_gripal_aps.pdf. Acesso em: 13
+nov. 2025.
+
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 50 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Infectologia
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Síndrome Gripal (conceito da síndrome gripal,
+características clínicas e diagnósticos diferenciais e plano
+terapêutico)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDEP
+[Habilidades]
+Interpretar sinais de agravamento da síndrome gripal,
+justificando o encaminhamento para serviços de maior
+complexidade.
+28ª QUESTÃO
+
+Código da questão:
+
+141936
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(ITPAC Porto Nacional) Durante uma visita domiciliar, o médico da Unidade Básica de
+Saúde Jardim das Flores, atende um idoso de 83 anos que relatou uma queda ocorrida na
+própria altura há 3 dias, resultando em escoriações e equimoses em hemiface e membro
+superior esquerdo, dor lombar intensa e dificuldade para movimentar-se. O paciente faz
+uso de Diazepam 10mg há mais de 20 anos para tratar distúrbio do sono, além de ser
+cardiopata em uso de Carvedilol 12,5mg de 12/12 horas, Losartana 100mg pela manhã,
+Espironolactona 25mg às 16 horas e Ácido Acetilsalicílico 100mg após o almoço. Reside
+com a filha em casa própria, a casa possui diversos degraus e pouca luminosidade.
+Banheiro e cozinha com tapetes soltos e sem barras de apoio. Também fica sozinho em
+algumas noites, pois a filha trabalha em regime de plantão. Ao exame físico, o paciente
+encontra-se lúcido, orientado no tempo e espaço, colaborativo com a entrevista, porém
+sonolento. As bulhas cardíacas são hipofonéticas, com ritmo regular e sopro sistólico
+audível no foco mitral. À ausculta pulmonar, há murmúrio vesicular presente
+universalmente e sem ruídos adventícios. A pressão arterial é de 84x63 mmHg, a
+frequência cardíaca é de 52 bpm e a saturação de oxigênio é de 96%. Radiografias de
+face, braço esquerdo e coluna lombar, realizadas na Unidade de Pronto Atendimento no
+dia da queda, não evidenciaram fraturas.
+Com base nesse caso, assinale a conduta mais adequada com vistas a promover a
+redução de quedas recorrentes e garantir uma abordagem integral ao cuidado do idoso.
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 51 de 57
+
+Alternativas:
+(alternativa A) (CORRETA)
+Solicitar acompanhamento multiprofissional, mapeamento da pressão arterial e
+exercícios de fisioterapia; e promover intervenções educativas sobre o ambiente
+domiciliar e o uso racional de medicamentos.
+(alternativa B)
+Suspender uso dos benzodiazepínicos de forma imediata, manter as demais medicações,
+recomendar mudanças na casa por conta do próprio paciente e fornecer laudo de
+afastamento das atividades laborais para a filha cuidar do pai.
+(alternativa C)
+Aplicar o Mini Exame do Estado Mental para avaliação da memória, atenção, linguagem e
+outras funções mentais para identificar declínio cognitivo ou demência, visto que esta é a
+principal causa de quedas no idoso.
+(alternativa D)
+Prescrever Amitriptilina 25mg 1 comprimido à noite para substituir o benzodiazepínico e
+solicitar acompanhamento multidisciplinar com psiquiatra e psicólogo para o tratamento
+da depressão e fisioterapia para fortalecimento muscular.
+
+Grau de dificuldade:
+
+Difícil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 52 de 57
+
+Resposta comentada:
+A instabilidade postural no idoso, caracterizada pela perda de equilíbrio, é um dos
+principais fatores de risco para quedas, sendo uma síndrome geriátrica com grande
+impacto na saúde e qualidade de vida dessa população, podendo levar a lesões graves
+como fraturas e declínio funcional. O envelhecimento natural contribui para essa
+fragilidade devido a alterações fisiológicas como perda de massa muscular e óssea,
+lentificação dos reflexos, disfunções visuais e auditivas, além de fatores intrínsecos como
+doenças crônicas, uso de medicamentos e alterações neurológicas.
+Aplicar o Mini Exame do Estado Mental para avaliação da memória, atenção, linguagem e
+outras funções mentais para identificar declínio cognitivo ou demência, visto que esta é a
+principal causa de quedas no idoso. Errada. O Mini Exame do Estado Mental não é
+prioritário neste momento, visto que, no relato do caso, o idoso encontra-se lúcido e
+orientado. E, além disso, o declínio cognitivo não é a principal causa de quedas na
+população idosa, e sim as alterações físicas relacionadas ao envelhecimento, como a
+diminuição da força muscular, problemas de equilíbrio e visão, além de doenças crônicas
+e o uso de certos medicamentos. Além de fatores ambientais, tais como pisos
+escorregadios e iluminação inadequada, também contribuem para o risco de quedas.
+Suspender uso dos benzodiazepínicos de forma imediata, manter as demais medicações,
+recomendar mudanças na casa por conta do próprio paciente e fornecer laudo de
+afastamento das atividades laborais para a filha cuidar do pai. Errada. O uso de
+benzodiazepínicos pode aumentar o risco de quedas em idosos. Essa classe de
+medicamentos, frequentemente utilizada para tratar ansiedade e insônia, pode causar
+sonolência, tontura, comprometimento da coordenação motora e confusão mental,
+fatores que contribuem para o desequilíbrio e quedas, devendo ser evitada nesse grupo.
+Porém a retirada do Diazepam deve ser lenta e gradual, ou ele pode ser substituído por
+outro medicamento da classe de meia-vida menor. Além disso, as medicações
+hipotensoras em uso também devem ser avaliadas criteriosamente, visto que o idoso
+está hipotenso.
+Prescrever Amitriptilina 25mg 1 comprimido à noite para substituir o benzodiazepínico e
+solicitar acompanhamento multidisciplinar com psiquiatra e psicólogo para o tratamento
+da depressão e fisioterapia para fortalecimento muscular. Errada. A prescrição de
+Amitriptilina não é recomendada para idosos, principalmente para aqueles que são
+cardiopatas, pois pode causar hipotensão ortostática, condução cardíaca lenta, aumento
+da frequência cardíaca e diminuição da variabilidade da frequência cardíaca, além de
+prolongamento do intervalo QT e risco de arritmias ventriculares.
+Solicitar acompanhamento multiprofissional, mapeamento da pressão arterial e
+exercícios de fisioterapia; e promover intervenções educativas sobre o ambiente
+domiciliar e o uso racional de medicamentos. Correta. Para prevenir as quedas e reduzir
+os impactos causados por elas, é importante realizar avaliação médica e funcional
+criteriosa para identificação de fatores de risco e condições predisponentes. Orientar
+sobre a prática de exercícios físicos visando o fortalecimento muscular, treinamento de
+equilíbrio e melhora da marcha, como aulas de ginástica adaptadas para idosos. Orientar
+sobre adaptações ambientais visando eliminar obstáculos, garantir iluminação adequada
+e utilizar pisos antiderrapantes e barras de apoio e sustentação. Realizar revisão
+medicamentosa com ajuste de doses ou troca de medicamentos que possam causar
+tontura ou instabilidade. Além da promoção da saúde em geral com controle de doenças
+crônicas, melhora da nutrição e hidratação.
+Referências:
+FREITAS, Elizabete Viana De et al. Tratado de geriatria e gerontologia. 5.ª ed. Rio de
+Janeiro: Guanabara Koogan, 2022.
+MINISTÉRIO DA SAÚDE. Cadernos de Atenção Básica Número 4 - Atenção à Saúde do
+Idoso - Instabilidade Postural e Queda, 2000. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/atencao_saude_idoso_cab4.pdf. Acesso em:
+13 nov. 2025.
+MINISTÉRIO DA SAÚDE. Caderno de Atenção Básica Número 19 - Envelhecimento E Saúde
+Da Pessoa Idosa, 2007. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/abcad19.pdf. Acesso em: 13 nov. 2025.
+Feedback:
+--
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 53 de 57
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Geriatria
+[Competências (Objetivos)]
+Educação em saúde
+[Tema]
+Instabilidade Postural e Quedas (critérios diagnósticos,
+manifestações clínicas e os métodos de avaliação para a
+instabilidade postural em idosos e fatores de risco para
+quedas)
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+ITPAC PORTO NACIONAL
+[Habilidades]
+Indicar intervenções multiprofissionais e reabilitadoras no
+cuidado à pessoa idosa, promovendo a redução de quedas
+recorrentes.
+29ª QUESTÃO
+
+Código da questão:
+
+141242
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Durante uma reunião com Agentes Comunitários de Saúde (ACS), uma
+médica da equipe de Saúde da Família, que também é preceptora da residência médica,
+faz perguntas sobre os usuários e sua compreensão a respeito da possibilidade de
+requererem seus direitos por meio dos espaços formais de participação popular na
+gestão do Sistema Único de Saúde (SUS).
+Um dos ACS questiona: “Esses nomes são feitos para confundir. O conselho de saúde é
+deliberativo... Vocês acham que o usuário sabe o que isso significa? Nem a gente sabe.”
+Outro comenta que a última conferência de saúde do município contou com pouca
+participação da população. A preceptora aproveita o momento para discutir os limites e
+as possibilidades do controle social no SUS. Com base nesse cenário, assinale a
+alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+O profissional da Atenção Primária à Saúde (APS) deve estimular os usuários a proporem,
+em diálogo com a equipe, formas de ampliar o entendimento sobre os espaços de
+controle social e fortalecer a participação comunitária.
+(alternativa B)
+O profissional da Atenção Primária à Saúde (APS) deve evitar envolvimento com o
+conselho de saúde para garantir neutralidade técnica, não influenciar decisões populares
+e evitar situações de conflito de interesse.
+(alternativa C)
+A baixa participação nas conferências de saúde demonstra falta de interesse dos
+usuários, devendo ser interpretada como sinal claro de desmotivação popular em relação
+às políticas públicas de saúde.
+(alternativa D)
+As deliberações dos conselhos de saúde possuem caráter executivo e devem ser
+cumpridas imediatamente pela gestão local, mesmo em situações de possível
+incompatibilidade com o orçamento disponível.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 54 de 57
+
+Resposta comentada:
+A alternativa correta é "O profissional da Atenção Primária à Saúde (APS) deve estimular
+os usuários a proporem, em diálogo com a equipe, formas de ampliar o entendimento
+sobre os espaços de controle social e fortalecer a participação comunitária.", pois
+reconhece o papel da equipe da UBS como facilitadora da educação popular em saúde e
+da cidadania ativa. No contexto do SUS, especialmente na Atenção Primária, o estímulo à
+participação dos usuários em espaços de controle social — como os conselhos e
+conferências de saúde — é parte essencial do cuidado ampliado, que considera a
+autonomia, o protagonismo e o direito à voz da comunidade.
+A construção coletiva do saber, por meio do diálogo entre equipe de saúde, ACS e
+usuários, é uma prática política transformadora, que combate a alienação e a
+desinformação sobre os direitos sociais. Nesse sentido, o profissional não deve ser
+neutro, mas sim ativo na defesa do SUS como projeto ético, social e democrático.
+Já as demais alternativas:
+"O profissional da Atenção Primária à Saúde (APS) deve evitar envolvimento com o
+conselho de saúde para garantir neutralidade técnica, não influenciar decisões populares
+e evitar situações de conflito de interesse" erra ao propor uma neutralidade técnica
+fictícia, desconsiderando que a APS é essencialmente engajada com o território;
+"As deliberações dos conselhos de saúde possuem caráter executivo e devem ser
+cumpridas imediatamente pela gestão local, mesmo em situações de possível
+incompatibilidade com o orçamento disponível" incorre em erro jurídico: os conselhos de
+saúde são deliberativos, mas suas decisões não têm força executiva imediata —
+precisam estar alinhadas à viabilidade técnica e orçamentária;
+"A baixa participação nas conferências de saúde demonstra falta de interesse dos
+usuários, devendo ser interpretada como sinal claro de desmotivação popular em relação
+às políticas públicas de saúde" está errada, pois naturaliza a ausência popular como
+desinteresse, quando na verdade reflete barreiras estruturais, simbólicas e históricas ao
+exercício pleno da cidadania.
+Referências:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+DUNCAN, Bruce et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. 5. ed. Porto Alegre: Artmed, 2022.
+BRASIL. Lei nº 8.142, de 28 de dezembro de 1990. Dispõe sobre a participação da
+comunidade na gestão do SUS. Disponível em:
+http://www.planalto.gov.br/ccivil_03/leis/L8142.htm. Acesso em: 19 jun. 2025.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Sistema Único de Saúde – SUS + Leis Orgânicas de Saúde
+(diretrizes do SUS, lei 8.080 e lei 8.142)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Controle Social
+[Habilidades]
+Reconhecer a importância dos conselhos e conferências de
+saúde, fortalecendo o controle social e a gestão
+participativa no SUS.
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 55 de 57
+
+30ª QUESTÃO
+Código da questão:
+
+141961
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Cruzeiro do Sul) Homem de 52 anos, assintomático, comparece para consulta de
+rastreamento. Após cinco minutos de repouso em posição sentada e com braçadeira
+adequada, obtêm-se pressões arteriais de 146/92 mmHg e 142/90 mmHg na repetição
+após dois minutos. IMC = 29,4 kg/m² (1,72 m; 87 kg). Circunferência abdominal = 101 cm
+(ponto médio entre crista ilíaca e rebordo costal). O paciente não faz uso de medicações.
+Considerando as rotinas da APS para detecção precoce de DCNT, assinale a alternativa
+correta quanto à conduta imediata.
+Alternativas:
+(alternativa A)
+Manter conduta observacional e repetir as medidas de pressão arterial, IMC e
+circunferência abdominal apenas após 12 meses, considerando que o paciente é
+assintomático e não apresenta diagnóstico prévio de doença crônica estabelecida.
+(alternativa B)
+Iniciar anti-hipertensivo e estatina nesta consulta, sem necessidade de confirmação
+diagnóstica por métodos ambulatoriais, visto que a pressão arterial ultrapassa 140/90
+mmHg em duas aferições consecutivas padronizadas no consultório.
+(alternativa C) (CORRETA)
+Classificar sobrepeso pelo IMC e risco cardiometabólico aumentado pela circunferência
+abdominal, orientar mudanças no estilo de vida, revisar fatores que elevam a pressão
+arterial e confirmar o diagnóstico com MAPA ou MRPA em curto intervalo.
+(alternativa D)
+Desconsiderar a circunferência abdominal na estratificação de risco, pois o IMC inferior a
+30 kg/m² já é suficiente para avaliação nutricional e não indica necessidade de
+intervenção clínica adicional em paciente assintomático.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Alternativa: “Iniciar anti-hipertensivo e estatina nesta consulta, sem necessidade de
+confirmação diagnóstica por métodos ambulatoriais, visto que a pressão arterial
+ultrapassa 140/90 mmHg em duas aferições consecutivas padronizadas no consultório.”
+Incorreta.
+Comentário:
+A Diretriz Brasileira de Hipertensão Arterial (2025) preconiza que o diagnóstico de
+hipertensão deve ser confirmado por medidas repetidas em visitas subsequentes ou por
+métodos ambulatoriais — MAPA (Monitorização Ambulatorial da Pressão Arterial) ou MRPA
+(Monitorização Residencial da Pressão Arterial) — especialmente em pacientes sem
+sintomas ou com valores limítrofes em consultório.
+Iniciar medicação anti-hipertensiva ou estatina nesta consulta seria conduta precipitada,
+sem estratificação de risco global ou confirmação diagnóstica. Além disso, a introdução
+de estatina exige cálculo de risco cardiovascular global (SBC/2025), não cabendo
+prescrição automática.
+Alternativa: “Classificar sobrepeso pelo IMC e risco cardiometabólico aumentado pela
+circunferência abdominal, orientar mudanças no estilo de vida, revisar fatores que
+elevam a pressão arterial e confirmar o diagnóstico com MAPA ou MRPA em curto
+intervalo.” Correta
+Comentário:
+IMC = 29,4 kg/m² → sobrepeso.
+Circunferência abdominal = 101 cm → risco cardiometabólico aumentado (≥ 94
+cm = risco aumentado; ≥ 102 cm = muito aumentado, segundo WHO 2011 e
+ABESO 2022).
+Pressão arterial 146/92 e 142/90 mmHg → valores compatíveis com “PA elevada
+em consultório”, devendo ser confirmados por MAPA/MRPA para descartar efeito
+do avental branco.
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 56 de 57
+
+Conduta preconiza: reforço de mudanças de estilo de vida (alimentação
+saudável, controle de peso, atividade física regular, cessar tabagismo, redução
+de álcool e sal); revisão de fatores interferentes (cafeína, AINEs,
+descongestionantes); confirmação diagnóstica em curto prazo (semanas).
+Alternativa: “Desconsiderar a circunferência abdominal na estratificação de risco, pois o
+IMC inferior a 30 kg/m² já é suficiente para avaliação nutricional e não indica necessidade
+de intervenção clínica adicional em paciente assintomático.” Incorreta
+Comentário:
+Incorreta porque a circunferência abdominal é marcador independente de risco
+cardiometabólico, conforme ABESO 2022 e OMS 2011.
+Mesmo em indivíduos com IMC < 30 kg/m², a gordura abdominal é preditor importante
+de resistência insulínica, síndrome metabólica e risco cardiovascular aumentado. Ignorar
+esse dado subestima o risco e vai contra as recomendações da Linha de Cuidado de
+DCNT.
+Alternativa: “Manter conduta observacional e repetir as medidas de pressão arterial, IMC
+e circunferência abdominal apenas após 12 meses, considerando que o paciente é
+assintomático e não apresenta diagnóstico prévio de doença crônica estabelecida.”
+Incorreta
+Comentário:
+A conduta de aguardar 12 meses sem reavaliação é inadequada. As diretrizes nacionais
+orientam reavaliação em curto prazo para confirmar diagnóstico de hipertensão e
+reforçar orientações de estilo de vida. Adiar o acompanhamento por um ano retarda o
+diagnóstico e a intervenção precoce em um paciente com valores pressóricos limítrofes e
+sobrepeso — violando os princípios da prevenção e vigilância ativa da APS.
+Referências:
+BRANDÃO, A. A. et al. Diretriz Brasileira de Hipertensão Arterial – 2025 / Brazilian
+Guidelines of Hypertension – 2025. Arquivos Brasileiros de Cardiologia, São Paulo, v. 122,
+n. 9, e20250624, 2025. DOI: 10.36660/abc.20250624.
+ABESO – Associação Brasileira para o Estudo da Obesidade e da Síndrome Metabólica.
+Diretrizes Brasileiras de Obesidade 2022. São Paulo: ABESO, 2022. Disponível em:
+https://abeso.org.br. Acesso em: 25 set. 2025.
+BRASIL. Ministério da Saúde. Linha de Cuidado para Rastreamento e Prevenção de
+Doenças Crônicas Não Transmissíveis na APS. Brasília: MS, 2022. Disponível em:
+https://www.gov.br/saude. Acesso em: 25 set. 2025.
+WHO – World Health Organization. Waist Circumference and Waist–Hip Ratio: Report of a
+WHO Expert Consultation (Geneva, 8–11 December 2008). Geneva: WHO, 2011.
+Disponível em: https://www.who.int. Acesso em: 25 set. 2025.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Rastreamento de Doenças na APS II (foco em HAS, DM,
+dislipidemia, obesidade)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA CRUZEIRO DO SUL
+[Competências (Objetivos)]
+Rastreamento
+[Habilidades]
+Executar rotinas de aferição de pressão arterial, IMC e
+circunferência abdominal, promovendo a detecção precoce
+de doenças crônicas nas consultas de rastreamento
+
+000179.510013.2edd84.f700f4.7dc01c.b3c96b.591f17.ea023
+
+Página 57 de 57
+
+

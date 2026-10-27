@@ -1,0 +1,673 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina II
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_2 PERIODO_14ABRIL_2025.1_MCM
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15586 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(AFYA GARANHUNS) Um paciente de 55 anos, hipertenso e diabético, comparece à Unidade
+Básica de Saúde (UBS) para revisão de tratamento. Ele relata que um conhecido lhe recomendou
+um novo suplemento natural para controle da glicemia, afirmando que houve melhora significativa
+em seus níveis de açúcar no sangue. O paciente pergunta ao médico se deve iniciar o uso do
+suplemento junto com seus medicamentos prescritos.
+Considerando os princípios da Medicina Baseada em Evidências (MBE), analise as afirmativas
+abaixo:
+I - O princípio da MBE exige que a decisão clínica seja baseada na melhor evidência científica
+disponível, priorizando revisões sistemáticas e ensaios clínicos randomizados para avaliar a
+eficácia e segurança de um tratamento.
+II - O relato de caso do conhecido do paciente pode ser considerado uma evidência científica
+válida para apoiar a recomendação do suplemento, pois representa uma experiência real de um
+indivíduo com a mesma condição clínica.
+III - O médico deve avaliar criticamente a literatura científica disponível sobre o suplemento,
+considerando o nível de evidência e a qualidade metodológica dos estudos antes de recomendar
+ou contraindicar o seu uso.
+IV - Na ausência de evidências científicas de alta qualidade sobre o suplemento, a decisão deve
+ser baseada apenas na experiência clínica do médico e na preferência do paciente.
+Está correto o que se afirma em
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 1 de 19
+
+Alternativas:
+(alternativa A) (CORRETA)
+I e III, apenas.
+(alternativa B)
+II e IV, apenas.
+(alternativa C)
+I, II e III, apenas.
+(alternativa D)
+I, III e IV, apenas.
+
+Resposta comentada:
+Está correto o que se afirma em I e III, apenas.
+Afirmativa I (correta): A MBE se baseia na melhor evidência disponível, priorizando estudos de
+alta qualidade, como revisões sistemáticas e ensaios clínicos randomizados, para orientar a
+prática clínica.
+Afirmativa II (incorreta): Relatos de caso anedóticos, como a experiência do conhecido do
+paciente, não representam evidências científicas confiáveis, pois carecem de rigor metodológico
+e controle de variáveis.
+Afirmativa III (correta): A análise crítica da literatura científica é essencial para embasar decisões
+clínicas, evitando vieses e informações não validadas cientificamente.
+Afirmativa IV (incorreta): A tomada de decisão na ausência de evidências científicas de alta
+qualidade não deve ser baseada apenas na experiência do médico ou na preferência do paciente,
+mas sim na melhor informação disponível, incluindo linhas e princípios da boa prática clínica.
+Referências:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde - Fundamentos,
+Métodos e Aplicações. Rio de Janeiro: Grupo GEN, 2011. E-book. ISBN 978-85-277-2119-6.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2119-6/. Acesso em:
+25 fev. 2025. Cap. 2.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 25 fev. 2025. Cap.
+1 e 2.
+2ª QUESTÃO
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 2 de 19
+
+Enunciado:
+(UNITPAC) O gráfico que segue apresenta os coeficientes de mortalidade materna - CMM nas
+grandes regiões do Brasil em dois períodos distintos: 2000 (barras à esquerda) e 2020 (barras à
+direita).
+
+Com base nos dados apresentados no gráfico, identifique a alternativa que representa a
+interpretação correta sobre a evolução desses coeficientes.
+
+Alternativas:
+(alternativa A)
+Em 2000, a região Sul apresentou um coeficiente de mortalidade materna menor do que o da
+região Centro-Oeste em 2020.
+(alternativa B)
+A região Nordeste apresentou coeficiente de mortalidade materna menor que a Região Norte em
+2020, apesar de apresentar a mesma redução absoluta no coeficiente entre os períodos.
+(alternativa C) (CORRETA)
+A região Norte apresentou o maior coeficiente de mortalidade materna nos dois períodos, embora
+tenha sido a região com a maior redução absoluta no coeficiente.
+(alternativa D)
+A região Centro-Oeste foi a única a não apresentar redução no coeficiente de mortalidade materna
+entre 2000 e 2020.
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 3 de 19
+
+Resposta comentada:
+A região Norte apresentou o maior coeficiente de mortalidade materna nos dois períodos, embora
+tenha sido a região com a maior redução absoluta no coeficiente.
+A resposta correta reflete a interpretação coerente dos dados apresentados na descrição. A
+região Norte é destacada como aquela com o maior coeficiente de mortalidade materna tanto em
+2000 quanto em 2020. No entanto, a descrição também evidencia que, apesar de manter os
+valores mais elevados, a região Norte obteve a maior redução absoluta no coeficiente ao longo do
+período analisado (aprox. 30 pontos), indicando progresso significativo, mas ainda insuficiente
+para alterar sua posição relativa em relação às demais regiões.
+Essa interpretação está alinhada com os princípios de análise de séries históricas na
+epidemiologia, que avaliam tanto os níveis absolutos quanto as tendências de melhoria ao longo
+do tempo. Além disso, o coeficiente de mortalidade materna é uma medida fundamental para
+monitorar a qualidade dos serviços de saúde e as desigualdades regionais, especialmente no
+contexto brasileiro, onde os desafios de acesso e infraestrutura variam amplamente entre as
+regiões.
+Incorreta. A região Nordeste apresentou coeficiente de mortalidade materna menor que a Região
+Norte em 2020, apesar de apresentar a mesma redução absoluta no coeficiente entre os
+períodos. O CM da região Nordeste foi realmente menor que o da região Norte em 2020,
+entretanto, a redução absoluta de 2002 para 2020 foi menor (de 70 para 50 pontos, aprox.) que na
+região Norte (de 90 para 60, aprox.).
+Incorreta. A região Centro-Oeste foi a única a não apresentar redução no coeficiente de
+mortalidade materna entre 2000 e 2020. Todas as regiões apresentaram queda do CM entre 2000
+e 2020.
+Incorreta. Em 2000, a região Sul apresentou um coeficiente de mortalidade materna menor do que
+o da região Centro-Oeste em 2020. Os CM da Região Sul em 2000 e da região Centro-Oeste em
+2020 foram iguais (40 pontos).
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 22 nov. 2024.
+
+3ª QUESTÃO
+Enunciado:
+(IESVAP) Leia o seguinte trecho de um estudo hipotético:
+Para investigar o impacto do estresse ocupacional em profissionais de saúde de um hospital
+universitário, foi utilizada uma abordagem quantitativa. A população do estudo consistia em
+médicos, enfermeiros e técnicos de enfermagem de diferentes setores. Para garantir uma
+representação proporcional de cada grupo profissional, a amostra foi dividida em três subgrupos,
+sendo selecionados aleatoriamente os participantes dentro de cada categoria proporcionalmente
+ao seu tamanho na população do hospital.
+a) Com base na metodologia apresentada, identifique qual tipo de amostragem foi utilizado no
+estudo. (0,5 ponto)
+b) Explique as principais características desse tipo de amostragem e justifique sua escolha no
+contexto apresentado. (1,0 ponto)
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 4 de 19
+
+Alternativas:
+-Resposta comentada:
+Respostas esperadas.
+A. Resposta esperada para a identificação do tipo de amostragem (0,5 ponto):
+O estudo utilizou amostragem probabilística estratificada, pois os participantes foram divididos em
+subgrupos (estratos) antes da seleção aleatória dentro de cada um.
+B. Resposta esperada para a explicação e justificativa (1,0 ponto):
+Características da amostragem estratificada:
+A população é dividida em estratos homogêneos (grupos com características
+semelhantes, como categoria profissional no exemplo).
+A seleção dos participantes ocorre de forma aleatória dentro de cada estrato.
+A proporção de cada estrato na amostra reflete a proporção na população, garantindo
+uma representação equilibrada.
+Justificativa para seu uso no contexto do estudo:
+Como há diferentes categorias profissionais no hospital, a amostragem estratificada
+garante que médicos, enfermeiros e técnicos de enfermagem sejam proporcionalmente
+representados na pesquisa.
+Caso fosse usada uma amostragem aleatória simples, poderia haver uma superrepresentação de um grupo (por exemplo, enfermeiros) e sub-representação de outro
+(por exemplo, médicos), comprometendo a validade da pesquisa.
+Essa abordagem permite comparações entre os estratos e assegura que cada grupo
+tenha influência proporcional nos resultados.
+Referências:
+AKANIME, Carlos T.; YAMAMOTO, Roberto K. Estudo Dirigido de Estatística Descritiva. São
+Paulo: Editora Érica, 2013. E-book. ISBN 9788536517780. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788536517780/recent. Acesso em: 10 out.
+2024.
+FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3. ed.
+Santana de Parnaíba [SP]: Manole, 2022. E-book. ISBN 9786555767711. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767711/. Acesso em: 24 maio. 2024.
+SAMPIERI, R. H.; COLLADO, C. F.; LUCIO, M.D.P. B. Metodologia de Pesquisa. 5ª ed. Porto
+Alegre: Penso, 2013. P. 200-201. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788565848367/recent . Acesso em: 10 out.
+2024.
+4ª QUESTÃO
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 5 de 19
+
+Enunciado:
+(AFYA PARAÍBA) Um estudo foi realizado com o objetivo de analisar os fatores associados ao
+óbito em indivíduos internados por COVID-19 em hospitais públicos e privados do estado do
+Espírito Santo, Brasil. A figura a seguir apresenta os resultados conforme a variável 'idade' para
+os desfechos 'alta' e 'óbito'.
+
+Fonte: Maciel et al. (2020).
+
+Com base na imagem acima, identifique a alternativa que contém a interpretação correta dos
+dados apresentados.
+
+Alternativas:
+(alternativa A)
+O quartil 1 do desfecho 'alta' tem o mesmo valor que o limite inferior do desfecho 'óbito'.
+(alternativa B)
+O conjunto de dados do desfecho 'óbito' é mais heterogêneo quando comparado ao desfecho
+'alta'.
+(alternativa C) (CORRETA)
+A mediana do desfecho 'óbito' tem valor superior ao quartil 3 do desfecho 'alta'.
+(alternativa D)
+O dado de menor valor para o desfecho 'óbito' tem valor aproximado de 20.
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 6 de 19
+
+Resposta comentada:
+Resposta correta: “A mediana do desfecho 'óbito' tem valor superior ao quartil 3 do desfecho
+'alta'.” A afirmação está correta, porque a mediana (= quartil 2, faixa no meio da caixa) do
+desfecho 'óbito' tem valor aproximado de 70; o quartil 3 do desfecho 'alta' tem valor aproximado
+de 60.
+“O conjunto de dados do desfecho 'óbito' é mais heterogêneo quando comparado ao desfecho
+'alta'.” A afirmação está errada porque, avaliando a amplitude total (valor máximo - valor mínimo)
+e a posição dos quartis dos desfechos (limites inferior = Q1 e superior = Q3 das caixas amplitude interquartílica), que evidenciam a dispersão dos dados, percebe-se que o desfecho
+'óbito' é mais homogêneo.
+“O dado de menor valor para o desfecho 'óbito' tem valor aproximado de 20.” A afirmação está
+errada, porque o dado de menor valor para o desfecho 'óbito' tem valor aproximado de 0 (zero), ou
+seja, o valor do outlier.
+“O quartil 1 do desfecho 'alta' tem o mesmo valor que o limite inferior do desfecho 'óbito'.” A
+afirmação está errada, porque o quartil 1 do desfecho 'alta' tem valor aproximado de 35; o limite
+inferior do desfecho 'óbito' tem valor aproximado de 25.
+Referências:
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática para as
+Ciências da saúde. Rio de Janeiro: Grupo A. E-book. ISBN 9788584291007. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/.
+MACIEL et al. Fatores associados ao óbito hospitalar por COVID-19 no Espírito Santo,
+2020. Epidemiol. Serv. Saúde. v.29, n.4, e.2020413, 2020.
+
+5ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Um paciente de 25 anos de idade, do sexo masculino, foi atendido no prontosocorro com queixa de febre, dor de garganta e lesões eritematosas e ulceradas nas mucosas
+bucal e genital. O paciente relata que recentemente teve relações sexuais com uma pessoa que
+estava com sintomas semelhantes e que a lesão genital começou a aparecer poucos dias após o
+contato com essa pessoa. O médico suspeita de uma infecção viral e decide investigar mais
+detalhadamente sobre as vias de eliminação, mecanismos de contágio e porta de entrada do
+agente patogênico.
+Com base nas informações apresentadas, analise as assertivas a seguir:
+I. O mecanismo de contágio predominante nesse caso é vertical, uma vez que o paciente foi
+exposto ao vírus por meio de contato direto com uma pessoa infectada.
+II. A porta de entrada do agente patogênico pode ser a mucosa genital e a mucosa oral, já que o
+vírus pode ser transmitido por secreções dessas regiões, resultando na infecção.
+III. As vias de eliminação do agente infeccioso incluem o contato com secreções respiratórias,
+saliva e fluidos genitais, que são comuns em infecções virais com transmissão por contato
+íntimo.
+IV. Deve-se suspeitar que o paciente seja um hospedeiro suscetível por contrair e manifestar a
+doença em um curto intervalo de tempo.
+Está correto o que se afirma em
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 7 de 19
+
+Alternativas:
+(alternativa A) (CORRETA)
+II e III, apenas.
+(alternativa B)
+I e II, apenas.
+(alternativa C)
+I e IV, apenas.
+(alternativa D)
+III e IV, apenas.
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 8 de 19
+
+Resposta comentada:
+Está correto o que se afirma em II e III, apenas.
+Assertiva I: "O mecanismo de contágio predominante nesse caso é vertical, uma vez que o
+paciente foi exposto ao vírus por meio de contato direto com uma pessoa infectada."
+Errada. O contágio foi horizontal, sendo aquele em que a transmissão ocorre entre pessoas em
+um mesmo grupo populacional, o que é característico em infecções virais como o herpes
+simplex, que se transmitem por contato direto. A transmissão vertical ocorre da mãe para o feto.
+Assertiva II: "A porta de entrada do agente patogênico pode ser a mucosa genital e a mucosa oral,
+já que o vírus pode ser transmitido por secreções dessas regiões, resultando na infecção."
+Correta. O herpes simplex, por exemplo, pode ser transmitido por secreções das mucosas orais
+e genitais, que servem como porta de entrada para o agente infeccioso.
+Assertiva III: "As vias de eliminação do agente infeccioso incluem o contato com secreções
+respiratórias, saliva e fluidos genitais, que são comuns em infecções virais com transmissão por
+contato íntimo."
+Correta. O vírus pode ser eliminado por meio de secreções respiratórias (como a saliva), fluidos
+genitais e outros, e essa eliminação facilita a propagação da infecção por contato íntimo.
+Assertiva IV: "Deve-se suspeitar do paciente ser um hospedeiro susceptível por contrair e
+manifestar a doença em um curto intervalo de tempo."
+Errada. O erro aqui está em associar diretamente a manifestação rápida da doença à resposta
+imune deficiente. O tempo de manifestação de uma doença está mais relacionado ao período de
+incubação do patógeno e à sua virulência, não necessariamente à condição do sistema
+imunológico do paciente. Um hospedeiro suscetível pode manifestar sintomas mais tarde ou de
+forma mais grave, não apenas rapidamente. O curto intervalo de tempo de manifestação não é
+um critério para identificar a susceptibilidade de um paciente, pois essa está relacionada a fatores
+como a imunidade do indivíduo, a presença de condições pré-existentes ou predisposição
+genética, e não ao tempo de manifestação dos sintomas.
+Referências:
+FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3. ed. Santana
+de Parnaíba [SP]: Manole, 2022. E-book. ISBN 9786555767711. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767711/. Acesso em: 24 maio 2024.
+GORDIS, Leon. Epidemiologia. Rio de Janeiro: Thieme Brazil, 2017. E-book. ISBN
+9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788567661926/. Acesso em: 06 jun. 2024.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/recent. Acesso em: 10 out.
+2024.
+
+6ª QUESTÃO
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 9 de 19
+
+Enunciado:
+(UNIMA) No estudo "Eventos adversos pós-vacinação contra Influenza em idosos no Brasil", de
+Rodrigues e Dalri (2019), foram analisadas estatísticas descritivas, incluindo medidas de
+tendência central (média e mediana) e medidas de dispersão (desvio padrão).
+A seguir, é apresentado um trecho extraído desse artigo:
+"Em relação à caracterização sociodemográfica dos idosos estudados, 75,5% eram do sexo
+feminino, cuja idade variou entre 60 e 97 anos, mediana 69 e média 71,2 com desvio padrão de
+8,1."
+Com base no trecho acima, identifique a alternativa que apresenta interpretação correta dos
+dados.
+Alternativas:
+(alternativa A)
+A média é mais representativa do que a mediana para descrever a idade dos idosos, pois não é
+influenciada por valores extremos.
+(alternativa B) (CORRETA)
+Metade dos idosos estava na faixa de 60 a 69 anos, e a outra metade entre 69 e 97 anos.
+(alternativa C)
+O valor da média indica que todos os idosos tinham idade próxima a 71,2 anos.
+(alternativa D)
+O desvio padrão de 8,1 sugere que todos os idosos tinham idades entre 63,1 e 79,3 anos.
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 10 de 19
+
+Resposta comentada:
+Alternativa Correta: ”Metade dos idosos estava na faixa de 60 a 69 anos, e a outra metade entre
+69 e 97 anos.”
+A mediana (69 anos) divide a distribuição em duas metades. Isso significa que 50% dos idosos
+têm idade inferior a 69 anos e 50% têm idade superior. Como a idade mínima foi 60 anos e a
+máxima 97 anos, isso confirma que metade dos idosos estava na faixa de 60 a 69 anos, e a outra
+metade entre 69 e 97 anos.
+Alternativas Incorretas:
+“O valor da média indica que todos os idosos tinham idade próxima a 71,2 anos.”
+A média não indica que todos os indivíduos estavam próximos desse valor.
+Como o desvio padrão é 8,1 anos, muitos idosos tinham idades distantes da média,
+tanto abaixo quanto acima.
+Assim, a média representa apenas um valor central, mas os dados podem estar muito
+dispersos.
+“O desvio padrão de 8,1 sugere que todos os idosos tinham idades entre 63,1 e 79,3 anos.”
+O desvio padrão indica dispersão, mas não impõe limites absolutos aos dados.
+O intervalo de 63,1 a 79,3 anos representa apenas cerca de 68% dos idosos,
+considerando uma distribuição normal.
+Como a variação da idade foi de 60 a 97 anos, alguns idosos estavam fora desse
+intervalo, o que torna essa afirmação incorreta.
+“A média é mais representativa do que a mediana para descrever a idade dos idosos, pois não é
+influenciada por valores extremos.”
+A média é influenciada por valores extremos, enquanto a mediana não sofre essa
+influência.
+Se houver idosos muito mais velhos (próximos de 97 anos), a média pode estar
+deslocada para cima.
+Por isso, a mediana é uma melhor medida da posição central quando há assimetrias ou
+outliers.
+Referências:
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática para as
+ciências da saúde. Porto Alegre: Penso, 2017. E-book. ISBN 9788584291007. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/recent. Acesso em: 10 out. 2024
+RODRIGUES, D.; DALRI, R. C. M. B. Eventos adversos pós-vacinação contra Influenza em
+idosos no Brasil. Revista de Saúde Pública, v. 21, n. 1, p. 22-28, 2019.
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 22 nov. 2024.
+7ª QUESTÃO
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 11 de 19
+
+Enunciado:
+(AFYA ITABUNA) A epidemiologia utiliza diferentes delineamentos de estudo para analisar fatores
+de risco e padrões de doenças em populações. Os estudos de corte transversal e os estudos
+ecológicos são frequentemente utilizados para descrever associações entre exposição e
+desfecho.
+A seguir, é apresentado o resumo de um artigo científico:
+"Este estudo analisou a relação entre o consumo médio de gordura saturada e a taxa de
+mortalidade por doenças cardiovasculares em diferentes países da América Latina. Foram
+coletados dados secundários de bancos de dados governamentais e organizados em médias
+populacionais para cada país. A análise comparou as taxas de consumo de gordura com os
+índices de mortalidade, observando uma possível correlação entre os dois fatores."
+Com base no resumo apresentado, qual das alternativas abaixo classifica corretamente o tipo de
+estudo e a justificativa correspondente?
+Alternativas:
+(alternativa A)
+Estudo transversal, pois a relação entre consumo de gordura saturada e mortalidade foi avaliada a
+partir de bancos de dados populacionais.
+(alternativa B) (CORRETA)
+Estudo ecológico, pois os dados foram agregados em médias populacionais e não foram
+analisadas informações a nível dos indivíduos.
+(alternativa C)
+Estudo de corte transversal, pois os dados foram coletados em um único momento no tempo e
+analisados em nível individual.
+(alternativa D)
+Estudo ecológico, pois analisou uma amostra representativa da população e permitiu inferências
+diretas sobre indivíduos.
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 12 de 19
+
+Resposta comentada:
+Resposta correta:
+Estudo ecológico, pois os dados foram agregados em médias populacionais e não foram
+analisadas informações a nível dos indivíduos.
+Justificativa:
+Os estudos ecológicos analisam dados em nível populacional ou agregado, sem informações
+individuais sobre os sujeitos do estudo. No exemplo apresentado, os pesquisadores utilizaram
+médias populacionais de consumo de gordura e taxas de mortalidade em diferentes países, sem
+acesso aos dados individuais dos participantes. Isso caracteriza um estudo ecológico, pois a
+unidade de análise não é o indivíduo, mas sim o agregado populacional.
+As demais alternativas estão incorretas porque os estudos de corte transversal analisam dados a
+nível dos indivíduos, e o estudo apresentado usou dados coletivos. Ademais, os estudos
+ecológicos não permitem inferências diretas sobre indivíduos, apenas sobre grupos.
+Referências:
+MEDRONHO, Roberto A. Epidemiologia. 2. ed. Rio de Janeiro: Guanabara Koogan, 2009.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 22 nov. 2024.
+8ª QUESTÃO
+Enunciado:
+(FESAR) Analise o gráfico sobre a ocorrência de AIDS em um município (um estudo
+epidemiológico):
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 13 de 19
+
+FIGURA 11. Distribuição dos casos de aids notificados em um município, segundo a idade, em
+1996. Fonte: FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de Epidemiologia.
+3ª ed. Barueri: Manole, 2022. Página: 83.
+Com base no gráfico, analise as assertivas abaixo e a relação proposta entre elas.
+I. Trata-se de um gráfico de barras que é usado para apresentar variáveis qualitativas. O gráfico
+mostra que há uma maior concentração de casos nas idades mais jovens e adultas, com uma
+diminuição conforme a idade aumenta.
+Porque
+II. Ao analisar as frequências descritas, nota-se que o maior número de casos está concentrado
+na faixa etária de 30 a 40 anos, com um pico acima de 120 casos, e que há uma redução
+progressiva nas faixas etárias acima de 40 anos, com uma queda acentuada após os 50 anos.
+A respeito das assertivas, assinale a alternativa correta.
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 14 de 19
+
+Alternativas:
+(alternativa A)
+A assertiva I é verdadeira e a II é falsa.
+(alternativa B)
+As duas assertivas são verdadeiras e a assertiva II justifica a I.
+(alternativa C) (CORRETA)
+A assertiva I é falsa e a II é verdadeira.
+(alternativa D)
+As duas assertivas são verdadeiras, mas a assertiva II não justifica a I.
+
+Resposta comentada:
+A assertiva I é falsa e a II é verdadeira.
+I. Trata-se de um gráfico de barras que é usado para apresentar variáveis qualitativas. O gráfico
+mostra que há uma maior concentração de casos nas idades mais jovens e adultas, com uma
+diminuição conforme a idade aumenta. (Falsa: Apesar da interpretação correta, o gráfico
+apresentado é um histograma, utilizado para apresentar variáveis quantitativas e não um gráfico
+de barras, que é utilizado para apresentar variáveis qualitativas).
+II. Ao analisar as frequências descritas, nota-se que o maior número de casos está concentrado
+na faixa etária de 30 a 40 anos, com um pico acima de 120 casos, e que há uma redução
+progressiva nas faixas etárias acima de 40 anos, com uma queda acentuada após os 50 anos.
+(Verdadeira: esta é uma interpretação precisa do histograma apresentado).
+Referências:
+FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3. ed. Barueri:
+Manole, 2022. E-book. p. 81. ISBN 9786555767711. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786555767711/. Acesso em: 02 abr. 2024.
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 17 maio 2024.
+
+9ª QUESTÃO
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 15 de 19
+
+Enunciado:
+(AFYA ITABUNA) As taxas de mortalidade geral, mortalidade infantil, mortalidade materna,
+letalidade e natalidade são indicadores essenciais para avaliar a saúde de uma população. No
+Brasil, essas taxas variam significativamente entre as regiões, refletindo diferenças nos
+determinantes sociais e econômicos.​
+Considere os dados hipotéticos abaixo referentes a duas regiões brasileiras:
+Região A
+Taxa de mortalidade geral: 6,5 óbitos por 1.000 habitantes.​
+Taxa de mortalidade infantil: 12 óbitos por 1.000 nascidos vivos.​
+Taxa de mortalidade materna: 60 óbitos por 100.000 nascidos vivos.​
+Taxa de letalidade por doenças infecciosas: 2%.​
+Taxa de natalidade: 14 nascidos vivos por 1.000 habitantes.​
+Região B
+Taxa de mortalidade geral: 8,0 óbitos por 1.000 habitantes.​
+Taxa de mortalidade infantil: 20 óbitos por 1.000 nascidos vivos.​
+Taxa de mortalidade materna: 100 óbitos por 100.000 nascidos vivos.​
+Taxa de letalidade por doenças infecciosas: 5%.​
+Taxa de natalidade: 18 nascidos vivos por 1.000 habitantes.​
+Com base nos dados acima, analise as seguintes afirmativas:
+I. A Região B apresenta taxas de mortalidade infantil e materna mais elevadas, o que pode estar
+associado a menor acesso a serviços de saúde de qualidade e piores condições
+socioeconômicas.​
+II. A taxa de letalidade por doenças infecciosas mais alta na Região B sugere deficiências no
+tratamento adequado dessas doenças, possivelmente devido à infraestrutura de saúde
+insuficiente.​
+III. A Região A possui uma taxa de natalidade mais baixa, o que pode indicar maior acesso a
+métodos contraceptivos, melhor nível educacional e maior participação feminina no mercado de
+trabalho.​
+IV. A taxa de mortalidade geral mais elevada na Região B pode refletir maior prevalência de
+doenças crônicas não transmissíveis e expectativa de vida reduzida.​
+Está correto o que se afirma em
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 16 de 19
+
+Alternativas:
+(alternativa A)
+I e III, apenas​.
+(alternativa B)
+I, II e III, apenas.​
+(alternativa C) (CORRETA)
+I, II, III e IV.​
+(alternativa D)
+II e IV, apenas.​
+
+Resposta comentada:
+Está correto o que se afirma em I, II, III e IV.​
+Todas as afirmativas estão corretas e refletem a influência dos determinantes sociais nas
+diferentes taxas apresentadas:​
+I. Taxas elevadas de mortalidade infantil e materna geralmente estão associadas a menor acesso
+a serviços de saúde de qualidade, baixa escolaridade materna e condições socioeconômicas
+desfavoráveis.​
+II. Uma taxa de letalidade por doenças infecciosas mais alta indica deficiências no diagnóstico e
+tratamento, sugerindo infraestrutura de saúde inadequada e falta de acesso a cuidados médicos
+apropriados.​
+III. Taxas de natalidade mais baixas estão frequentemente relacionadas a maior acesso a
+educação, uso eficaz de métodos contraceptivos e participação ativa das mulheres no mercado
+de trabalho, fatores que contribuem para o planejamento familiar.​
+IV. Uma taxa de mortalidade geral mais elevada pode ser consequência de maior incidência de
+doenças crônicas, violência ou outras condições de saúde, refletindo uma expectativa de vida
+menor e desafios nos serviços de saúde pública.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. 8ª ed. Rio
+de Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 22 nov. 2024.
+
+10ª QUESTÃO
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 17 de 19
+
+Enunciado:
+(IESVAP) Os conceitos epidemiológicos de surto e endemia são essenciais para a compreensão
+da ocorrência de doenças em diferentes contextos populacionais.
+Com base nesses conceitos, elabore dois cenários distintos para explicar a situação de surto e de
+endemia conforme letras a e b.
+a) Considere uma escola pública em uma cidade do interior que enfrenta um surto de
+gastroenterite entre os alunos. Explique o que é um surto e como ele pode ter começado, quais
+fatores poderiam contribuir para sua disseminação e quais medidas poderiam ser tomadas para
+controlá-lo. (0,75 ponto)
+b) Crie um exemplo de endemia na região amazônica. Explique o que é, quais fatores contribuem
+para a manutenção da doença na região e quais estratégias poderiam ser implementadas para
+reduzir sua incidência. (0,75 ponto)
+Observação: O cenário deve ser realista, incluindo possíveis causas (agentes infecciosos),
+meios de transmissão, impactos na população e medidas de controle; utilize elementos
+epidemiológicos para tornar a resposta mais aprofundada; demonstre capacidade de análise e
+criatividade na construção dos exemplos.
+Alternativas:
+-Resposta comentada:
+Respostas esperadas.
+a) Resposta esperada para o surto.
+Um surto ocorre quando há um aumento inesperado na quantidade de casos de uma determinada
+doença em uma área específica, durante um período de tempo definido. As intoxicações
+alimentares são situações comuns, mas surtos de doenças respiratórias e escabiose (infestação
+por piolhos) também são comuns em escolas. Outro exemplo de surtos são as infecções
+hospitalares por bactérias resistentes como Escherichia coli, Staphylococcus aureus,
+Acinetobacter baumannii, Pseudomonas aeruginosa, Klebsiella sp., Enterobacter sp.,
+Enterococcus faecalis também são um exemplo.
+Cenário sugerido:
+Em uma escola pública de uma cidade do interior, diversos alunos começaram a apresentar
+sintomas como vômito, diarreia e febre dentro de um curto período de tempo. Após investigação
+epidemiológica, foi identificado que o surto teve início após a ingestão de alimentos contaminados
+na merenda escolar. A hipótese mais provável foi a contaminação por um agente infeccioso,
+como Norovírus ou Salmonella, devido a falhas na higienização dos alimentos e no
+armazenamento inadequado da comida.
+Fatores que contribuíram para a disseminação:
+Consumo coletivo dos alimentos contaminados.
+Falta de higiene adequada no manuseio dos alimentos.
+Contato próximo entre os alunos, facilitando a transmissão entre os indivíduos.
+Medidas adotadas para controle do surto:
+Investigação epidemiológica para identificar a origem do problema.
+Isolamento dos alunos sintomáticos e recomendação de hidratação e
+acompanhamento médico.
+Suspensão temporária da merenda escolar para verificação da segurança alimentar.
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 18 de 19
+
+Melhoria nas práticas de higiene e manipulação de alimentos, incluindo treinamento
+para os funcionários da cantina.
+Monitoramento dos casos para evitar novos episódios e evitar que o surto se transforme em um
+problema recorrente.
+b) Resposta esperada para a endemia.
+Endemia é definida como a presença habitual de uma doença em determinada área geográfica.
+Outros cenários de doenças endêmicas da região amazônica poderiam incluir dengue,
+tuberculose, leishmaniose, febre amarela, doença de Chagas e esquistossomose, por exemplo.
+Cenário sugerido:
+Em uma comunidade ribeirinha na Amazônia, a malária é uma doença de ocorrência frequente ao
+longo dos anos, com períodos de maior incidência na estação chuvosa. A transmissão ocorre por
+meio da picada do mosquito Anopheles, vetor do protozoário Plasmodium spp., sendo
+considerada uma endemia, pois os casos se mantêm constantes na região.
+Fatores que contribuem para a persistência da endemia:
+Presença do vetor (mosquito Anopheles) devido às condições ambientais favoráveis,
+como áreas alagadas e mata fechada, e do agente etiológico, o protozoário
+Plasmodium spp.
+Dificuldade de acesso aos serviços de saúde, retardando o diagnóstico e tratamento
+precoce.
+Fatores socioeconômicos, como baixa escolaridade e dificuldade na adoção de
+medidas preventivas pela população.
+Resistência de algumas espécies do parasita aos medicamentos, dificultando o
+controle da doença.
+Estratégias para reduzir a incidência da endemia:
+Controle do vetor, por meio do uso de inseticidas e eliminação de criadouros do
+mosquito.
+Distribuição de mosquiteiros impregnados com inseticida, especialmente para
+populações vulneráveis.
+Testagem rápida e tratamento precoce, evitando formas graves da doença e
+interrompendo a cadeia de transmissão.
+Educação em saúde, conscientizando a população sobre medidas preventivas, como o
+uso de roupas adequadas e repelentes.
+Monitoramento epidemiológico contínuo, para avaliar surtos sazonais e planejar ações
+preventivas antes dos períodos de maior transmissão.
+Referências:
+FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3ª ed.
+Santana de Parnaíba [SP]: Manole, 2022. E-book. ISBN 9786555767711. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786555767711/. Acesso em: 24 maio 2024.
+GORDIS, Leon. Epidemiologia. Rio de Janeiro: Thieme Brazil, 2017. E-book. ISBN
+9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788567661926/. Acesso em: 06 jun. 2024.
+
+000155.86001c.645fdc.7a6ccd.099db3.5fccc3.3420d3.9b23f
+
+Pgina 19 de 19
+
+

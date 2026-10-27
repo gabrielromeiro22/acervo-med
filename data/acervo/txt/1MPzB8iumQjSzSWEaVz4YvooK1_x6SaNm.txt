@@ -1,0 +1,514 @@
+AFYA FACULDADE DE CIÊNCIAS MÉDICAS DA PARAÍBA
+CURSO DE MEDICINA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas VI e
+HABILIDADES E ATITUDES MÉDICAS VI
+Professor (es): MARIA DO SOCORRO MARQUES
+Período: 202501
+
+Turma:
+
+Data: 16/06/2025
+
+REPOSIÇÃO N1 ESPECÍFICA-HABILIDADES E ATITUDES MÉDICAS VI
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16351 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+Você atendeu uma parada cardiorrespiratória (PCR) de um paciente de 55 anos que chegou à
+emergência com relato de dor torácica. Após 10 minutos de ressuscitação cardiopulmonar (RCP)
+de alta qualidade, o paciente recupera a circulação espontânea, já em intubação orotraqueal, com
+pressão arterial de 70 × 40 mmHg, crepitações pulmonares difusas e ausência de resposta ao
+chamado. Acerca do exposto, assinale a alternativa que apresenta a melhor conduta para o
+paciente neste momento.
+Alternativas:
+(alternativa A) (CORRETA)
+Manter ETCO2 entre 35-40mmHg.
+(alternativa B)
+Manter normotermia e aguardar despertar.
+(alternativa C)
+Iniciar o controle direcionado de temperatura depois de acoplar paciente a ventilação mecânica.
+(alternativa D)
+Iniciar a trombólise com alteplase.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 1 de 13
+
+Resposta comentada:
+Após o retorno da circulação espontânea, segundo o protocolo de Suporte Avançado de Vida em
+Cardiologia (Advanced Cardiovascular Life Support – ACLS, 2020), um dos principais objetivos é
+manter uma ventilação adequada, evitando tanto a hiperventilação quanto a hipoventilação.
+O monitoramento do ETCO₂ (pressão expiratória final de dióxido de carbono) é essencial para
+garantir uma boa perfusão e troca gasosa. O alvo recomendado para ETCO₂ é de 35 a 40 mmHg,
+o que corresponde a uma ventilação apropriada em pós-PCR. Controlar o ETCO₂ ajuda a prevenir
+hipóxia, hipercapnia e alterações no fluxo cerebral, que podem agravar o dano neurológico pósparada.
+Embora manter normotermia (ou controlar a temperatura) seja importante, não basta apenas
+aguardar o despertar. O manejo pós-PCR é ativo: ventilação, hemodinâmica, oxigenação e
+temperatura devem ser controlados simultaneamente. O controle direcionado da temperatura
+(CDT) deve ser iniciado o mais precocemente possível em pacientes comatosos após ROSC,
+mas o primeiro passo imediato em um paciente hipotenso, intubado e inconsciente é estabilizar a
+ventilação, oxigenação e hemodinâmica. A ventilação adequada precede o início formal do
+CDT. A trombólise com alteplase está indicada em casos de suspeita de tromboembolismo
+pulmonar maciço ou infarto agudo do miocárdio com critérios específicos. Não foi apresentada
+nenhuma evidência clara de TEP neste caso, e o foco inicial é estabilizar ventilação e circulação.
+Referência
+AMERICAN HEART ASSOCIATION (AHA). Suporte Avançado de Vida em Cardiologia: ACLS:
+manual do aluno. 2020. São Paulo: Editora Atheneu.
+
+2ª QUESTÃO
+Enunciado:
+Uma criança de 5 anos, com diagnóstico de pneumonia grave e dificuldade respiratória
+progressiva, está internada em uma Unidade de Pronto Atendimento (UPA). Subitamente,
+apresenta queda do nível de consciência, ausência de pulso central palpável, apneia, e o monitor
+cardíaco mostra atividade elétrica organizada, mas sem pulso palpável.
+Com base nas diretrizes do PALS, assinale a alternativa que apresenta a conduta mais
+apropriada para esse caso.
+Alternativas:
+(alternativa A) (CORRETA)
+A criança apresenta atividade elétrica sem pulso (AESP); a conduta é iniciar RCP, acesso venoso
+e epinefrina.
+(alternativa B)
+A criança está em taquicardia ventricular sem pulso; a conduta indicada é desfibrilação.
+(alternativa C)
+A criança está em assistolia; a conduta é receber desfibrilação seguida de adrenalina.
+(alternativa D)
+O ritmo é chocável; deve-se administrar cardioversão sincronizada e compressões torácicas.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 2 de 13
+
+Resposta comentada:
+ERRADA. A criança está em assistolia e deve receber desfibrilação seguida de adrenalina.
+Justificativa: A assistolia não é um ritmo chocável. O tratamento é RCP + adrenalina, nunca
+desfibrilação.
+ERRADA.O ritmo é chocável; deve-se administrar cardioversão sincronizada e compressões
+torácicas.
+Justificativa: A cardioversão sincronizada é indicada para taquiarritmias perfusivas instáveis, não
+para PCR.
+CORRETA. A criança apresenta atividade elétrica sem pulso (AESP); a conduta é iniciar RCP,
+acesso venoso e epinefrina.
+Justificativa: AESP é um ritmo não chocável A conduta apresentada é a correta.
+ERRADA. A criança está em taquicardia ventricular sem pulso; a conduta indicada é
+desfibrilação.
+Justificativa: Atividade elétrica organizada, mas sem pulso palpável é uma AESP, ritmo não
+chocável.
+AMERICAN HEART ASSOCIATION. Diretrizes da American Heart Association de 2020 para
+ressuscitação cardiopulmonar e atendimento cardiovascular de emergência: Suporte Avançado
+de Vida em Pediatria (PALS).
+3ª QUESTÃO
+Enunciado:
+Um bom desfecho da ressuscitação, com o retorno de um ritmo de perfusão e respirações
+espontâneas, depende da capacidade da equipe de alto desempenho de administrar uma RCP
+eficaz e identificar e corrigir a causa da AESP, se for o caso. Uma equipe de alto desempenho
+deve realizar as etapas descritas no algoritmo de forma integrada enquanto trabalha, ao mesmo
+tempo, para identificar e tratar causas reversíveis da parada. Diante desse contexto, assinale a
+alternativa correta com relação as causas e tratamentos de PCR.
+Alternativas:
+(alternativa A) (CORRETA)
+A Hipoglicemia é uma causa de PCR somente em crianças e não em adultos.
+(alternativa B)
+A hipercalemia tratada com cloreto de potássio é causa de PCR em adultos.
+(alternativa C)
+O Pneumotórax hipertensivo é causa extra cardíaca e não leva a parada cardiorespiratória.
+(alternativa D)
+A Hipóxia é uma causa incomum no adulto e é tratada com uso de catéter nasal de oxigênio.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 3 de 13
+
+Resposta comentada:
+A hipoglicemia contempla um das causas de PCR na criança e não no adulto. A Hipoglicemia é
+uma causa de PCR somente em crianças e não em adultos;
+A hipercalemia é causa de PCR em adultos e se trata com administração de gluconato de
+calcio;
+O Pneumotórax hipertensivo é causa extra cardíaca de PCR eleva a parada cardiorespiratória
+em ritmos não chocaveis como AESP e assistolia ;
+A Hipóxia é uma causa comum no adulto e tratada com intubação orotraqueal ou passagem de
+máscara laríngea;
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular: manual
+do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+
+AMERICAN HEART ASSOCIATION. SAVP: Suporte avançado de vida em pediatria: manual do
+profissional. Texas, USA: Orora Visual, 2021. 330 p. ISBN 978-1-61669-957-4.
+4ª QUESTÃO
+Enunciado:
+Um estudante de medicina do 4º ano e presencia um colapso súbito de um homem adulto em
+local público. Após verificar a segurança da cena, ele se aproxima e constata que a vítima está
+inconsciente e sem resposta. De acordo com as diretrizes do ACLS 2020, assinale a alternativa
+que apresenta a próxima ação imediata.
+Alternativas:
+(alternativa A) (CORRETA)
+Acionar o serviço de emergência e solicitar um Desfibrilador Externo Automático (DEA).
+(alternativa B)
+Realizar ventilações com bolsa-válvula-máscara por 2 minutos antes de chamar ajuda.
+(alternativa C)
+Iniciar compressões torácicas imediatamente.
+(alternativa D)
+Verificar pulso carotídeo e respiração simultaneamente por até 10 segundos.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 4 de 13
+
+Resposta comentada:
+ERRADA. Verificar pulso carotídeo e respiração simultaneamente por até 10 segundos.
+Justificativa: Esse passo vem após chamar o serviço de emergência e buscar o DEA.
+ERRADA. Iniciar compressões torácicas imediatamente
+Justificativa: A RCP começa somente após confirmar ausência de pulso e respiração.
+CORRETA. Acionar o serviço de emergência e solicitar um Desfibrilador Externo Automático
+(DEA)
+Justificativa: Esta é a ação imediata correta após reconhecer a inconsciência.
+ERRADA. Realizar ventilações com bolsa-válvula-máscara por 2 minutos antes de chamar
+ajuda.
+Justificativa: Não se inicia ventilação antes de confirmar ausência de pulso, nem se adia o
+chamado do serviço de emergência.
+2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency
+Cardiovascular Care.
+
+5ª QUESTÃO
+Enunciado:
+Paciente do sexo masculino, 68 anos, com histórico de hipertensão e dislipidemia, apresentou
+início súbito de fraqueza no braço e perna esquerdos há 2 horas. Está consciente, afebril e
+orientado, mas com desvio da rima labial. Pressão arterial de 185/105 mmHg. Relata uso regular
+de enalapril. Na avaliação neurológica, escore NIHSS de 12. A tomografia computadorizada de
+crânio não mostrou sinais de hemorragia intracraniana, mas revelou sinais precoces de isquemia.
+Ele relata um episódio de hemorragia digestiva há 10 dias, tratado clinicamente.
+Diante do quadro clínico, assinale a alternativa que apresenta a conduta terapêutica inicial mais
+adequada para este paciente.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 5 de 13
+
+Alternativas:
+(alternativa A)
+Administrar alteplase imediatamente após a estabilização da pressão arterial e confirmar ausência
+de hemorragia intracraniana na tomografia, mesmo com o histórico de hemorragia digestiva
+recente.
+(alternativa B)
+Indicar a trombólise com alteplase, apesar do episódio de hemorragia digestiva recente, mantendo
+suporte clínico e controlando rigorosamente a pressão arterial.
+(alternativa C)
+Avaliar a condição clínica, podendo realizar trombólise com alteplase, pois a janela terapêutica
+permite o tratamento, considerando que o episódio de hemorragia digestiva foi tratado e está
+estável.
+(alternativa D) (CORRETA)
+Iniciar monitorização contínua dos sinais vitais, estabilizar a pressão arterial e contraindicar
+alteplase devido ao episódio recente de hemorragia digestiva, mesmo estando na janela
+terapêutica.
+
+Resposta comentada:
+A trombólise intravenosa com alteplase está indicada para pacientes com AVE isquêmico dentro
+de 4,5 horas do início dos sintomas, desde que não apresentem contraindicações absolutas.
+Entre essas contraindicações está a presença de hemorragias ativas ou recentes, como a
+relatada pelo paciente (hemorragia digestiva há 10 dias). Apesar de estar na janela terapêutica e
+ter sinais compatíveis com AVE isquêmico, o uso de alteplase aumentaria significativamente o
+risco de nova hemorragia, sendo contraindicado nesse caso. A estabilização da pressão arterial e
+o manejo clínico são essenciais.
+Bibliografia:
+1. Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the Early Management of Patients
+With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart
+Association/American Stroke Association.Stroke.2019;50:e344-e418.
+2. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para o Manejo do Acidente
+Vascular Encefálico.Brasília: Ministério da Saúde, 2017.
+3. Adams HP Jr, Victor M. Principles of Neurology.11th Edition. McGraw-Hill Education; 2019.
+4. Hill MD, Martin RH, Mikulis D, et al. Safety of Alteplase in the 4.5–6 Hour Time Window: Results
+From the EPITHET Trial.Stroke.2020;51:2328-2334.
+
+6ª QUESTÃO
+Enunciado:
+Uma paciente de 25 anos comparece à Unidade Básica de Saúde (UBS) para acompanhamento
+pré-natal. Durante a consulta, ela relata histórico de hipertensão arterial crônica e apresenta
+pressão arterial de 150/100 mmHg. Nesse sentido, marque a alternativa que caracteriza
+adequadamente a conduta inicial na Atenção Primária à Saúde para essa gestação.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 6 de 13
+
+Alternativas:
+(alternativa A)
+Iniciar acompanhamento pré-natal de rotina e agendar consulta para 8 semanas após essa
+consulta.
+(alternativa B)
+Considerar gestação de alto risco e encaminhar imediatamente à maternidade para parto.
+(alternativa C) (CORRETA)
+Identificar a gestação como de alto risco, iniciar monitoramento rigoroso, adequar medicação antihipertensiva e referenciar para o serviço de pré-natal de alto risco.
+(alternativa D)
+Prescrever repouso absoluto, ajustar medicação anti-hipertensiva e reavaliar na próxima consulta.
+
+Resposta comentada:
+A resposta correta é identificar a gestação como de alto risco, iniciar monitoramento rigoroso,
+adequar medicação anti-hipertensiva e referenciar para o pré-natal de alto risco.
+Na Atenção Primária, o diagnóstico de hipertensão em uma gestante indica risco elevado. É
+essencial o manejo inicial com controle da pressão arterial, ajustes terapêuticos e a referência
+para um pré-natal especializado, sem atrasar o acompanhamento.
+A questão está baseada em diretrizes e manuais da atenção à saúde da mulher que abrangem o
+manejo da gestação de alto risco na Atenção Primária à Saúde. A bibliografia inclui:
+1. Ministério da Saúde (Brasil) - Cadernos de Atenção Básica: Atenção ao Pré-natal de Baixo e
+Alto Risco.
+2. Sociedade Brasileira de Hipertensão (site da SBH) - Diretrizes Brasileiras de Hipertensão
+Arterial.
+3. Rezende, J., & Montenegro, C. A. Obstetrícia Fundamental, 14° edição, Guanabara Koogan,
+2019
+7ª QUESTÃO
+Enunciado:
+Uma paciente de 70 anos é admitida na emergência em parada cardiorrespiratória (PCR) do tipo
+atividade elétrica sem pulso (AESP). Segundo seus familiares, alguns minutos antes, ela
+apresentou quadro súbito de falta de ar e dor no peito. Acerca do exposto, assinale a alternativa
+que apresenta a decisão prioritária a ser adotada neste momento.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 7 de 13
+
+Alternativas:
+(alternativa A)
+Realizar entubação orotraqueal.
+(alternativa B)
+Cardioversão elétrica com 200 J.
+(alternativa C)
+Desfibrilação elétrica com 360 J.
+(alternativa D) (CORRETA)
+Iniciar massagem cardíaca externa.
+
+Resposta comentada:
+De acordo com o protocolo de Suporte Avançado de Vida em Cardiologia (Advanced
+Cardiovascular Life Support – ACLS, 2020), em situações de parada cardiorrespiratória com
+ritmos não chocáveis — como a atividade elétrica sem pulso (AESP) e a assistolia —, a
+prioridade inicial é iniciar imediatamente a massagem cardíaca externa de alta qualidade.
+A desfibrilação ou cardioversão são indicadas apenas para ritmos chocáveis (fibrilação ventricular
+ou taquicardia ventricular sem pulso), o que não é o caso da AESP. Manobras de suporte
+ventilatório (como intubação) são importantes, mas não devem atrasar o início das compressões
+torácicas. A reversão da parada depende de manter a perfusão mínima até a identificação e o
+tratamento das causas reversíveis (os "H's e T's" da PCR).
+A cardioversão elétrica é indicada para ritmos com pulso e instáveis (como taquicardia
+supraventricular instável), não para ritmos de parada cardíaca como a AESP. Embora a via aérea
+avançada (intubação orotraqueal) seja importante, a prioridade imediata na PCR é a massagem
+cardíaca. A intubação pode ser realizada posteriormente, sem interromper as compressões por
+mais de 10 segundos. A desfibrilação elétrica é indicada apenas para ritmos chocáveis (fibrilação
+ventricular ou taquicardia ventricular sem pulso). A AESP, por definição, não é um ritmo chocável.
+Referência
+AMERICAN HEART ASSOCIATION (AHA). Suporte Avançado de Vida em Cardiologia: ACLS:
+manual do aluno. 2020. São Paulo: Editora Atheneu.
+
+8ª QUESTÃO
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 8 de 13
+
+Enunciado:
+Paciente masculino, 58 anos, com histórico de hipertensão arterial e diabetes mellitus tipo 2,
+chegou à Unidade de Pronto Atendimento (UPA) inconsciente e sem pulso. O paciente foi
+rapidamente levado para a sala de emergência, onde foi iniciado o protocolo de Ressuscitação
+Cardiopulmonar (RCP) seguindo as diretrizes do ACLS (Advanced Cardiovascular Life Support).
+Após 15 minutos de manobras de RCP, incluindo a administração de medicamentos (adrenalina e
+amiodarona) e desfibrilação, o paciente apresenta retorno da circulação espontânea (RCE), com
+ritmo sinusal regular. Ele está inconsciente e não responde a estímulos verbais ou dolorosos.
+Situação Clínica após o RCE:
+Temperatura: 38ºC
+Pressão arterial: 78x48 mmHg
+Frequência cardíaca: 88 bpm
+Saturação de oxigênio (SpO2): 88%
+Pressão parcial de CO2 (paCO2): 50 mmHg
+Estado neurológico: comatoso( Glasgow 7)
+ECG: achados sugestivos de Infarto Agudo do Miocárdio (IAM)
+Potássio (K): 7,8 mEq/L
+Gasometria: pH: 7,02, pCO2: 50 mmHg, HCO3: 18 mEq/L
+Ausculta respiratória:murmúrios vesiculares presentes e simétricos com estertores
+discretos em bases pulmonares.
+Considerando o caso acima descreva os cuidados pós parada cardiorespiratória (retorno da
+circulação espontânea) a serem tomados nesta fase, com base no protocolo ACLS.
+Alternativas:
+-Resposta comentada:
+Aspectos a serem abordados na resposta:
+1. Manejo da via aérea:
+O aluno deve abordar a necessidade de garantir uma via aérea patente, com
+a intubação endotraqueal como opção indicada devido ao coma do paciente
+e a necessidade de garantir ventilação mecânica controlada.
+A análise de sinais de edema pulmonar (estertores bilaterais) deve ser feita,
+especialmente com a saturação de oxigênio (SpO2) de 88%, indicando
+hipóxia, que pode necessitar de ajustes na ventilação.
+2. Controle dos parâmetros respiratórios:
+O aluno deve perceber que a ventilação deve ser ajustada para evitar
+hiperóxia ou hipercapnia e promover uma SpO2 entre 94% e 98%, além de
+uma PaCO2 mais próxima dos valores normais.
+3. Abordagem hemodinâmica:
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 9 de 13
+
+A pressão arterial do paciente está significativamente baixa (78x48 mmHg),
+o que sugere um estado de choque. O tratamento imediato inclui a
+administração de líquidos intravenosos (bolus de cristaloides) para corrigir a
+hipovolemia, se presente, e o uso de vasopressores (como noradrenalina)
+para estabilizar a pressão arterial.
+A frequência cardíaca (FC) está dentro da faixa normal (88 bpm), mas o
+aluno deve observar os achados de ECG, sugerindo um Infarto Agudo do
+Miocárdio (IAM), o que pode justificar a necessidade de anticoagulação .
+4. Controle direcionado de temperatura (hipotermia terapêutica):
+A febre (38ºC) pode ser um sinal de resposta inflamatória, mas também pode
+interferir no prognóstico neurológico. O controle da temperatura é indicado
+para minimizar danos cerebrais após o ROSC.
+O aluno deve considerar o início da hipotermia terapêutica, com meta de
+resfriamento entre 32ºC e 36ºC , especialmente diante da possibilidade de
+danos neurológicos.
+5. Tratamento das causas reversíveis de PCR:
+A causa subjacente da PCR parece ser um Infarto Agudo do Miocárdio,
+identificado pelo ECG. O tratamento inicial deve incluir a administração de
+fibrinolíticos (se indicado), ou a preparação para cateterismo cardíaco,
+dependendo das diretrizes locais.
+O aluno deve também considerar e monitorar outros potenciais distúrbios
+metabólicos e eletrolíticos, como a hiperpotassemia (K de 7,8 mEq/L). O
+manejo da hipercalemia deve ser iniciado.
+6. Registro e documentação adequados:
+A documentação precisa de todos os parâmetros vitais, intervenções
+realizadas (medicação administrada, manobras de ressuscitação, intubação,
+ventilação mecânica), e evolução do paciente é essencial para a
+continuidade do cuidado.
+7. Comunicação e coordenação da equipe:
+O aluno deve enfatizar a importância de uma comunicação eficaz e
+constante entre todos os membros da equipe médica, de enfermagem e
+outros profissionais de saúde, garantindo que todos compreendam os
+próximos passos e intervenções necessárias.
+Deve ser adotada uma abordagem de trabalho colaborativo, com uma clara
+transmissão de informações sobre o estado clínico do paciente e os
+cuidados que estão sendo realizados, com certificação da compreensão
+entre todos os envolvidos.
+8. Identificação de sinais de sobrecarga de trabalho na equipe:
+O aluno deve perceber que o atendimento de um paciente com múltiplas
+complicações, como febre, disfunção hemodinâmica, distúrbios respiratórios,
+e desequilíbrio eletrolítico, pode gerar sobrecarga na equipe.
+A equipe precisa ser apoiada adequadamente, com pausas para evitar a
+exaustão e garantir que cada membro tenha clareza sobre suas
+responsabilidades, sem comprometer a qualidade do atendimento.
+Resposta Esperada:
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 10 de 13
+
+A resposta deve ser organizada, abordando cada um dos pontos cruciais para o manejo inicial do
+paciente com base nas diretrizes do ACLS. O aluno deve demonstrar compreensão profunda do
+processo de estabilização pós-PCR e como as complicações (como a febre, a hipoxemia, a
+hipercapnia, a hipercalemia, e o IAM) devem ser manejadas adequadamente para otimizar as
+chances de sobrevivência e recuperação do paciente.
+AMERICAN HEART ASSOCIATION. Advanced cardiovascular life support (ACLS): guidelines
+2020. 7. ed. Dallas: American Heart Association, 2020.
+9ª QUESTÃO
+Enunciado:
+Paciente do sexo masculino, 58 anos, com histórico de hipertensão arterial, diabetes mellitus tipo
+2 e obesidade, apresenta queixa de início súbito de fraqueza no braço direito, dificuldade para falar
+e desvio da comissura labial há 01 hora. Ele também relata dificuldade para engolir alimentos
+sólidos. O paciente está consciente e orientado, sem relato de cefaleia intensa ou dor torácica.
+Durante o exame físico, observam-se paresia no braço direito (grau 3), afasia não-fluente e desvio
+da comissura labial para a esquerda. O exame ocular é normal, sem alterações fundoscópicas ou
+sinais de hemorragia. Com base nos dados clínicos apresentados, analise as assertivas:
+I. O início súbito de déficits neurológicos focais, como fraqueza no braço direito e afasia nãofluente, em um paciente com fatores de risco cardiovasculares, é característico de acidente
+vascular encefálico.
+II. A combinação de paresia do lado direito com afasia não-fluente e desvio da comissura labial é
+indicativa de uma lesão vascular cerebral com comprometimento do hemisfério esquerdo.
+III. O quadro de início abrupto de fraqueza unilateral, associado a afasia e ausência de alteração
+no nível de consciência, é um achado clássico de acidente vascular encefálico.
+IV. O histórico de hipertensão e diabetes associado a paresia unilateral e afasia não-fluente em
+um quadro agudo de início súbito é sugestivo de acidente vascular encefálico isquêmico, sem
+alterações cognitivas ou de consciência.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I.
+(alternativa B)
+I e II.
+(alternativa C)
+I e III.
+(alternativa D)
+IV.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 11 de 13
+
+Resposta comentada:
+O quadro clínico é altamente sugestivo de um acidente vascular encefálico (AVE), com o início
+súbito de sintomas neurológicos focais, como fraqueza no braço direito (paresia) e dificuldades na
+fala (afasia não-fluente). Esses sinais, associados ao histórico de hipertensão e diabetes, são
+fatores de risco que aumentam a probabilidade de AVE. O início abrupto e focado dos sintomas é
+um achado clássico de AVE, que afeta áreas específicas do encéfalo, como a região responsável
+pela motricidade e pela linguagem.
+Bibliografia:
+1. American Heart Association/American Stroke Association. Guidelines for the Early
+Management of Patients With Acute Ischemic Stroke.Stroke; 2019. Disponível em:
+https://www.ahajournals.org
+2. Caplan LR. Caplan’s Stroke: A Clinical Approach.5th Edition. Elsevier; 2020.
+3. Adams HP Jr, Victor M. Principles of Neurology.11th Edition. McGraw-Hill Education; 2019.
+4. Brasil. Ministério da Saúde. Protocolo Clínico de Acidente Vascular Encefálico.Brasília:
+Ministério da Saúde; 2017. Disponível em: https://bvsms.saude.gov.br
+
+10ª QUESTÃO
+Enunciado:
+Você se encontra em um shopping center onde uma pessoa passa mal e subitamente fica
+inconsciente no chão. Você foi direcionado ao local para avaliar o paciente com suspeita de
+parada cardiorrespiratória (PCR). Descreva detalhadamente as etapas de Suporte Básico de Vida
+(SBV) a serem realizadas nesse cenário, considerando todas as intervenções necessárias e a
+sequência adequada de ações.
+Alternativas:
+--
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 12 de 13
+
+Resposta comentada:
+Resposta:
+1. Segurança da cena e avaliação inicial:
+A primeira ação é garantir que o ambiente esteja seguro tanto para o paciente quanto
+para os socorristas. No ambiente de shopping envolve o aglomerado de pessoas. Em
+seguida, verificar a resposta do paciente, como ele está inconsciente, o socorrista
+deverá prosseguir para a próxima etapa.
+Chamar por ajuda e ativar o sistema de emergência:
+Alguém deve ser solicitado a chamar o serviço de emergência imediatamente por
+exemplo o SAMU ou outros serviços de atendimento de emergência e pedir para trazer
+um DEA e, se estiver disponível, uma equipe de suporte avançado de vida deve ser
+acionada.
+Avaliação da respiração:
+O socorrista deve verificar a respiração do paciente, observando movimentos torácicos
+ou tentando ouvir sons respiratórios enquanto verifica o pulso carotídeo. Caso o
+paciente não esteja respirando e em pulso, deve-se proceder imediatamente com as
+compressões torácicas.
+Início das compressões torácicas:
+As compressões torácicas devem ser realizadas com a maior rapidez possível.
+Devem ser feitas 30 compressões a uma profundidade de pelo menos 5 cm (mas sem
+ultrapassar 6 cm) e a uma taxa de 100 a 120 compressões por minuto, permitindo total
+retorno do tórax sem interrupção prolongada.
+Ventilação:
+Após 30 compressões, o socorrista deve realizar 2 ventilações (se possível, utilizando
+uma barreira para proteção), sendo essa a sequência 30:2, que deve ser mantida até a
+chegada de ajuda avançada. Caso haja dois socorristas, um realiza as compressões e
+o outro as ventilações.
+Desfibrilação (se indicado):
+Caso o socorrista tenha acesso a um Desfibrilador Externo Automático (DEA), o
+dispositivo deve ser usado o mais rápido possível. O DEA deve ser ligado e as
+instruções
+seguidas, como colocar os eletrodos no peito do paciente e permitir
+que o aparelho analise o ritmo cardíaco. Se o DEA indicar a necessidade de uma
+descarga elétrica, o socorrista deve indicar que todos devem se afastar do paciente
+antes de administrar a descarga.
+7. Suporte Avançado de Vida (ACLS):
+Assim que a ajuda avançada chegar, o atendimento deverá ser transferido
+para uma equipe médica, incluindo intervenções mais específicas para tratar
+a causa da parada cardiorrespiratória.
+AMERICAN HEART ASSOCIATION. ACLS: suporte avançado de vida em cardiologia: manual do
+provedor. Dallas: American Heart Association, 2020.
+
+000163.51001f.767dd6.54928b.f78bd4.e89791.25c659.d8960
+
+Pgina 13 de 13
+
+

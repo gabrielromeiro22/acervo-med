@@ -1,0 +1,1501 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina II
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data: 12/06/2025
+
+N2 ESPECÍFICA - MCM II - MEDICINA - 2º PERÍODO - 2025.1 - 1ª
+CHAMADA - 12/JUNHO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16140 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+134474
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(UNIGRANRIO Caxias) Um estudo transversal realizado com 220 indivíduos investigou a
+qualidade do sono, o consumo de cafeína e o Índice de Massa Corporal (IMC) dos participantes.
+Para avaliar a qualidade do sono, utilizou-se o Índice de Qualidade do Sono de Pittsburgh (PSQI),
+que varia em valores inteiros, de 0 a 21 pontos (quanto maior o escore, pior a qualidade do sono).
+Também foram registrados o sexo dos participantes (masculino ou feminino), a escolaridade
+(ensino fundamental, médio ou superior), o consumo diário de cafeína (em miligramas) e o IMC
+(em kg/m²).
+Com base nas informações do estudo, analise as afirmativas a seguir sobre os tipos de variáveis
+utilizadas.
+I. O sexo dos participantes é uma variável qualitativa nominal.
+II. A escolaridade é uma variável qualitativa ordinal.
+III. O consumo de cafeína é uma variável quantitativa contínua.
+IV. O escore do PSQI é uma variável qualitativa ordinal.
+V. O IMC é uma variável quantitativa discreta.
+Está correto apenas o que se afirma em
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 1 de 36
+
+Alternativas:
+(alternativa A)
+I, II e IV.
+(alternativa B)
+I, III e V.
+(alternativa C)
+II, III e V.
+(alternativa D) (CORRETA)
+I, II e III.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Está correto o que se afirma em I, II e III, apenas.
+Correta. Sexo é uma variável qualitativa nominal, pois não há ordem entre as categorias.
+II. Correta. Escolaridade tem categorias com hierarquia (fundamental < médio < superior),
+portanto é qualitativa ordinal.
+III. Correta. Consumo de cafeína pode assumir qualquer valor dentro de um intervalo, incluindo
+decimais, é quantitativa contínua.
+IV. Incorreta. O escore do PSQI é uma medida numérica com valores inteiros (valores de 0 a 21
+pontos), portanto é tratado como quantitativa discreta.
+V. Incorreta. IMC é uma variável quantitativa contínua, pois pode assumir qualquer valor real
+dentro de um intervalo.
+Referências:
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. Rio de Janeiro:
+Grupo GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em: 10 out. 2024.
+Cap. 19 e 20.
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 10 out. 2024.
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 2 de 36
+
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+Bioestatística
+[Semanas]
+5
+[Subáreas de Conhecimento]
+Conceitos básicos
+Variáveis
+[Habilidades]
+Conhecer e identificar os tipos de variáveis quantitativas (discretas
+e contínuas) e qualitativas (nominais e ordinais)
+Conhecer e identificar os tipos de variáveis quantitativas (discretas
+e contínuas) e qualitativas (nominais e ordinais)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO CAXIAS
+2ª QUESTÃO
+
+Código da questão:
+
+134538
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(UNIDEP) Uma matéria jornalística afirma que moradores de áreas próximas a indústrias
+químicas apresentam maior risco de câncer de pulmão devido à exposição a poluentes
+atmosféricos.
+Sobre a temática da matéria citada, analise as afirmações abaixo.
+I. A exposição a poluentes industriais pode estar associada ao câncer de pulmão, mas não é
+possível afirmar uma relação causal com base apenas em observações ecológicas ou relatos
+jornalísticos.
+Porque
+II. O estabelecimento de causalidade em epidemiologia requer a exclusão de explicações
+alternativas, como viés, fatores de confusão e acaso, com base em critérios metodológicos
+rigorosos.
+A respeito dessas asserções, assinale a alternativa correta.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 3 de 36
+
+Alternativas:
+(alternativa A)
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+(alternativa B)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I.
+(alternativa C) (CORRETA)
+As asserções I e II são proposições verdadeiras, e a II é uma justificativa da I.
+(alternativa D)
+A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+A alternativa correta é que as asserções I e II são proposições verdadeiras, e a II é uma
+justificativa da I.
+Ambas as proposições são verdadeiras. A I afirma corretamente que não se pode concluir
+causalidade com base em uma observação isolada ou em dados jornalísticos, e a II explica o
+porquê: estabelecer causalidade exige controle de variáveis, exclusão de viés, confusão e acaso.
+A II justifica diretamente a I, pois fornece o critério metodológico que fundamenta a cautela
+expressa na I.
+Referência:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre: Artmed, 2021.
+E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 08 ago. 2024.
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 4 de 36
+
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+13
+[Habilidades]
+Compreender a diferença entre causa e associação.
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDEP
+3ª QUESTÃO
+
+Código da questão:
+
+135490
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(AFYA Paraíba) Durante uma investigação sobre fatores associados ao câncer de pâncreas, os
+pesquisadores selecionaram um grupo de indivíduos diagnosticados com a doença e outro grupo
+composto por pessoas sem o diagnóstico, com características semelhantes (como idade e
+sexo). A partir disso, foram analisadas retrospectivamente exposições anteriores, como o
+consumo de carne processada e histórico familiar da doença. Este tipo de estudo é
+frequentemente utilizado para investigar fatores de risco em doenças raras, dada sua eficiência
+em termos de tempo e custo, e pela possibilidade de estudar múltiplas exposições associadas a
+um único desfecho. Com base nas informações apresentadas, assinale a alternativa que indica
+corretamente o tipo de estudo epidemiológico descrito.
+Alternativas:
+(alternativa A)
+Ecológico.
+(alternativa B)
+Coorte retrospectivo.
+(alternativa C) (CORRETA)
+Caso-controle.
+(alternativa D)
+Transversal.
+
+Grau de dificuldade:
+
+Fácil
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 5 de 36
+
+Resposta comentada:
+O enunciado descreve claramente as principais características de um estudo caso-controle,
+como: Seleção com base no desfecho, estudo começa com dois grupos — um de indivíduos com
+a doença (casos) e outro sem a doença (controles); Busca retrospectiva por exposições
+(histórico de exposições para tentar identificar fatores de risco que podem estar associados ao
+desenvolvimento da doença); Vantagem metodológica, permitindo o estudo de múltiplas
+exposições com um único desfecho, sendo mais rápido e econômico do que estudos
+prospectivos.
+As demais alternativas estão incorretas:
+Estudo transversal: mede exposição e desfecho simultaneamente, sem investigar o passado.
+Estudo ecológico: analisa dados agregados por grupos populacionais, e não indivíduos, como no
+caso da questão.
+Estudo de coorte: seleciona participantes com base na exposição, e os acompanha ao longo do
+tempo para observar a ocorrência do desfecho — o oposto do que foi descrito no enunciado.
+Referência:
+BONITA, R.; BEAGLEHOLE, R.; KJELLSTRÖM, T. Epidemiologia básica. 2. ed. São Paulo:
+Grupo Editorial Nacional, 2010. 230 p. Disponível em:
+https://edisciplinas.usp.br/mod/resource/view.php?id=3046312&forceview=1. Acesso em: 30 maio
+2025.
+Feedback:
+-Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+9
+[Habilidades]
+Conhecer as características de estudos epidemiológicos do tipo
+Caso Controle.
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+4ª QUESTÃO
+
+Código da questão:
+
+137863
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 6 de 36
+
+Enunciado:
+(FACIMPA) Em um município brasileiro com população estimada em 20.000 habitantes, a
+Secretaria Municipal de Saúde realizou um levantamento sobre a ocorrência de uma doença
+crônica não transmissível. No início do ano, havia 300 pessoas diagnosticadas com essa doença.
+Ao longo do ano, foram registrados 120 novos casos e 20 óbitos entre os indivíduos doentes. A
+equipe de vigilância epidemiológica do município precisa de dados para avaliar a situação da
+doença e subsidiar o planejamento das ações de saúde necessárias para seu enfrentamento.
+Com base nas informações apresentadas, identifique a alternativa que apresenta corretamente
+a prevalência desta doença ao final do ano.
+Alternativas:
+(alternativa A)
+6,0 casos por 1.000 habitantes.
+(alternativa B)
+19,0 casos por 1.000 habitantes.
+(alternativa C) (CORRETA)
+20,0 casos por 1.000 habitantes.
+(alternativa D)
+15,0 casos por 1.000 habitantes.
+
+Grau de dificuldade:
+
+Médio
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 7 de 36
+
+Resposta comentada:
+Resposta correta: 20,0 casos por 1.000 habitantes.
+A prevalência é calculada somando os casos existentes no início (300) com os novos casos
+(120), subtraindo os óbitos (20), totalizando 400 casos ao final do ano, dividido pelo número de
+habitantes.
+Prevalência = 400 / 20.000 × 1.000 = 20,0 casos por 1.000 habitantes.
+6,0 casos por 1.000 habitantes (incorreta)
+Essa alternativa considera apenas os novos casos (120) e ignora os casos já existentes e os
+óbitos, o que não representa a prevalência, mas a incidência.
+15,0 casos por 1.000 habitantes (incorreta)
+Considera apenas os casos existentes no início do ano (300), sem somar os novos casos nem
+subtrair os óbitos.
+21,0 casos por 1.000 habitantes (incorreta)
+Soma os casos iniciais (300) com os novos (120), mas não subtrai os óbitos (20),
+superestimando a prevalência.
+Referência:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde - Fundamentos,
+Métodos e Aplicações. Rio de Janeiro: Guanabara Koogan, 2011. E-book. p. 95-117. ISBN 97885-277-2119-6. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/978-85-2772119-6/. Acesso em: 31 mar. 2025.
+Feedback:
+-Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+7
+[Habilidades]
+Compreender e calcular as medidas de frequência: taxa de
+incidência, incidência cumulativa e prevalência
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+5ª QUESTÃO
+
+Código da questão:
+
+134477
+
+Tipo da questão:
+
+Múltipla Escolha
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 8 de 36
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(UNIGRANRIO Caxias) O gráfico a seguir foi extraído de um estudo que teve como objetivo
+comparar as medidas de pressão arterial sistólica (PAS) aferidas pelo método auscultatório com
+aparelho de coluna de mercúrio e pelo método oscilométrico automático com aparelho digital. As
+medidas foram aferidas de cada um dos 423 indivíduos simultaneamente pelos dois aparelhos
+acoplados a um mesmo manguito.
+
+Fonte: PAVAN, M. V. et al. Brazilian Journal of Nephrology, v. 34, n. 1, p. 43–49, jan. 2012.
+
+A partir da análise do gráfico, avalie as assertivas quanto à interpretação da organização e
+apresentação dos dados:
+I. O gráfico apresentado permite comparar a proporção das medidas de pressão sistólica entre os
+dois métodos, o que o caracteriza como um gráfico de setores.
+II. A reta indica uma tendência linear positiva, o que sugere que quanto maior a PAS registrada
+pelo aparelho de mercúrio, maior tende a ser a PAS registrada pelo aparelho automático.
+III. A alta concentração de pontos ao redor da linha de tendência sugere baixa dispersão dos
+dados, o que indica consistência entre as duas formas de medição.
+IV. O gráfico apresenta medidas de diferentes indivíduos, sendo cada ponto correspondente a
+valores médios obtidos por grupos com faixas semelhantes de pressão arterial.
+Está correto o que se afirma em
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 9 de 36
+
+Alternativas:
+(alternativa A)
+III e IV, apenas.
+(alternativa B)
+I e II, apenas.
+(alternativa C) (CORRETA)
+II e III, apenas.
+(alternativa D)
+I e IV, apenas.
+
+Grau de dificuldade:
+
+Difícil
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 10 de 36
+
+Resposta comentada:
+Está correto o que se afirma em II e III, apenas.
+I. Incorreta. O gráfico apresentado é um gráfico de dispersão (scatter plot), não de setores.
+Gráficos de setores (ou de pizza) são usados para representar proporções de categorias em
+relação a um todo. Já o gráfico em questão mostra valores pareados de pressão arterial sistólica
+medidos por dois métodos (automático e auscultatório), com cada ponto representando um
+indivíduo. Ele permite visualizar associação entre duas variáveis numéricas contínuas, e não
+proporções categóricas.
+II. Correta. A reta traçada no gráfico representa a linha de tendência (ou de identidade). A
+distribuição dos pontos ao longo dessa reta mostra uma relação linear positiva forte entre os dois
+métodos de aferição da pressão sistólica. Isso significa que, conforme a pressão registrada por
+um dos métodos aumenta, a pressão registrada pelo outro método também tende a aumentar —
+comportamento típico de duas variáveis fortemente correlacionadas (r = 0,97, segundo o artigo).
+III. Correta. No gráfico de dispersão, os pontos estão muito próximos da linha de tendência, o que
+sugere que as medições feitas pelos dois métodos são bastante semelhantes, com pequenas
+variações (baixa dispersão). Isso indica consistência e concordância entre as medições feitas
+pelo método automático e o padrão ouro (mercúrio), reforçando a confiabilidade do método
+alternativo.
+IV. Incorreta. Cada ponto do gráfico representa a medição pareada de um único indivíduo, e não a
+média de um grupo. O estudo foi realizado com diversos indivíduos, e cada um teve a PAS
+registrada por ambos os métodos simultaneamente. O gráfico, portanto, não agrupa dados por
+faixas; ele mostra dados brutos individuais, permitindo verificar a relação direta entre os dois
+métodos de aferição para cada participante do estudo.
+Referências:
+BRASIL. Instituto Brasileiro de Geografia e Estatística. Normas de apresentação tabular. Brasília,
+2024. Disponível em: https://biblioteca.ibge.gov.br/visualizacao/livros/liv23907.pdf. Acesso em: 10
+out. 2024.
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. Rio de Janeiro:
+Grupo GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em: 10 out. 2024.
+Cap. 19 e 20.
+VIEIRA, Sonia. Introdução à Bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 10 out. 2024.
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 11 de 36
+
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+Bioestatística
+[Semanas]
+5
+[Subáreas de Conhecimento]
+Conceitos básicos
+[Habilidades]
+Conhecer, entender e interpretar a organização dos dados em
+tabelas e gráficos
+Conhecer, entender e interpretar a organização dos dados em
+tabelas e gráficos.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO CAXIAS
+6ª QUESTÃO
+
+Código da questão:
+
+128977
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(ITPAC Porto Nacional) Um paciente de 32 anos procura a Unidade Básica de Saúde com febre
+alta, mialgia intensa, cefaleia e tosse seca há dois dias. Ele relata que vários colegas de trabalho
+também apresentaram sintomas semelhantes recentemente. Durante o exame clínico, observase hiperemia conjuntival e leve taquipneia. O médico suspeita de infecção pelo vírus Influenza A
+(H1N3). Com base na suspeita clínica e nos princípios da Medicina Baseada em Evidências,
+avalie as afirmativas a seguir:
+I. O vírus Influenza A (H1N3) é eliminado principalmente por gotículas respiratórias
+expelidas pela tosse, espirro ou fala.
+II. A transmissão do Influenza A ocorre também por aerossóis e contato direto (mãos
+contaminadas), caracterizando-se como uma forma de contágio horizontal.
+III. A porta de entrada do Influenza A no organismo humano é o trato respiratório, onde o
+vírus infecta células epiteliais do sistema respiratório superior e inferior.
+IV. A transmissão vertical do Influenza A é a principal forma de disseminação do vírus,
+podendo levar a manifestações graves no feto em gestantes infectadas.
+É correto o que se afirma em
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 12 de 36
+
+Alternativas:
+(alternativa A)
+I e III, apenas.
+(alternativa B)
+I e II, apenas.
+(alternativa C)
+I, III e IV, apenas.
+(alternativa D) (CORRETA)
+I, II e III, apenas.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Está correto o que se afirma em I, II e III, apenas.
+A afirmativa I está correta, pois o Influenza A é eliminado por gotículas respiratórias (≥5 µm),
+sendo essa a principal via de disseminação do vírus, como normalmente ocorre em vírus
+respiratórios.
+A afirmativa II está correta, pois a transmissão ocorre também por contato direto (mãos
+contaminadas tocando mucosas) e aerossóis, configurando um mecanismo de contágio
+horizontal. A transmissão por aerossóis (partículas <5 µm, que ficam suspensas no ar por mais
+tempo) é menos comum e ocorre em situações específicas, como em ambientes fechados e
+durante procedimentos médicos que geram aerossóis.
+A afirmativa III está correta, pois a porta de entrada do Influenza A é o trato respiratório, onde o
+vírus se replica nas células epiteliais do sistema respiratório. O Influenza A entra no corpo pelo
+trato respiratório e infecta células epiteliais do sistema respiratório superior (nariz, faringe) e
+inferior (brônquios, pulmões). Isso explica os sintomas típicos da gripe, como febre, tosse e
+congestão nasal.
+A afirmativa IV está incorreta, pois a transmissão de vírus respiratórios ocorre de forma
+horizontal, a transmissão vertical (da mãe para o feto por via transplacentária), se houver, é muito
+rara, não sendo a via principal. Embora a gripe possa aumentar o risco de complicações na
+gestação (como parto prematuro), a transmissão transplacentária do vírus não representa a
+principal via de disseminação.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol. Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 13 de 36
+
+Filtros da questão:
+
+[Habilidades]
+Entender vias de eliminação, mecanismo de contágio [vertical e
+horizontal], porta de entrada de infecções virais.
+[Semanas]
+6
+[Subáreas de Conhecimento]
+Conceitos básicos
+[Áreas de Conhecimento]
+Conceitos básicos
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+ITPAC PORTO NACIONAL
+7ª QUESTÃO
+
+Código da questão:
+
+133156
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(UNIDOMPEDRO) A tabela abaixo apresenta dados de um município brasileiro entre os anos de
+2000 e 2020, revelando uma queda expressiva nas taxas de natalidade, mortalidade infantil e
+mortalidade materna. Tais indicadores refletem importantes aspectos da saúde pública,
+permitindo a análise de avanços sociais, econômicos e de acesso aos serviços de saúde,
+especialmente na atenção à gestante, à parturiente e ao recém-nascido.
+Tabela 1 – Indicadores de Saúde em Município Brasileiro (2000–2020)
+Indicador
+
+Ano 2000 Ano 2020
+
+Unidade de Medida
+
+Taxa de natalidade.
+
+24
+
+14
+
+por 1.000 habitantes.
+
+Mortalidade infantil.
+
+35
+
+10
+
+por 1.000 nascidos vivos.
+
+Mortalidade
+materna.
+
+70
+
+45
+
+por 100.000 nascidos vivos.
+
+Considerando os conceitos epidemiológicos e os dados apresentados na tabela, qual é a
+interpretação mais adequada sobre os indicadores de saúde materno-infantil?
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 14 de 36
+
+Alternativas:
+(alternativa A)
+A redução da taxa de mortalidade materna decorre exclusivamente da diminuição no número de
+nascimentos.
+(alternativa B) (CORRETA)
+A redução da mortalidade materna reflete melhoria no acesso e na qualidade da atenção
+obstétrica.
+(alternativa C)
+A queda da taxa de natalidade de 24 para 14 pode indicar aumento da taxa de fecundidade da
+população.
+(alternativa D)
+A mortalidade infantil refere-se ao total de óbitos entre crianças de 1 a 5 anos de idade a cada mil
+habitantes.
+
+Grau de dificuldade:
+
+Médio
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 15 de 36
+
+Resposta comentada:
+Resposta correta:
+A redução da mortalidade materna reflete melhoria no acesso e na qualidade da atenção
+obstétrica.
+Justificativas:
+A redução da mortalidade materna reflete melhoria no acesso e na qualidade da atenção
+obstétrica.
+Correta. A queda da mortalidade materna está diretamente associada a avanços no cuidado prénatal, assistência ao parto e ao puerpério, bem como à maior cobertura e qualidade dos serviços
+de saúde.
+A queda da taxa de natalidade indica aumento da taxa de fecundidade da população.
+Incorreta. A taxa de fecundidade se refere ao número médio de filhos por mulher em idade fértil. A
+queda da natalidade geralmente acompanha a redução da fecundidade, não o contrário.
+A mortalidade infantil refere-se ao total de óbitos entre crianças de 1 a 5 anos de idade a cada mil
+habitantes.
+Incorreta. A mortalidade infantil refere-se a óbitos de crianças menores de 1 ano por mil nascidos
+vivos, neste caso tanto a faixa etária (1 a 5) quanto a unidade da constante (habitantes) estão
+incorretos.
+A redução da taxa de mortalidade materna decorre exclusivamente da diminuição no número de
+nascimentos.
+Incorreta. A redução da mortalidade materna está mais relacionada à qualidade da assistência
+durante a gestação e o parto do que ao número absoluto de nascimentos.
+Referência:
+FILHO, Naomar de A. ; BARRETO, Mauricio L. Epidemiologia & Saúde - Fundamentos, Métodos
+e Aplicações. Rio de Janeiro: Guanabara Koogan, 2011. E-book. p. 95-117. ISBN 978-85-2772119-6. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/978-85-277-2119-6/.
+Acesso em: 31 mar. 2025.
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 16 de 36
+
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+7
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[Habilidades]
+Compreender os conceitos de mortalidade geral, mortalidade
+infantil, mortalidade materna, letalidade e taxa de natalidade.
+[IES]
+UNIDOMPEDRO
+
+8ª QUESTÃO
+Código da questão:
+
+129371
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(UNIGRANRIO Caxias) Durante uma pesquisa em uma universidade de Viçosa, um estudo
+recolheu dados de indicadores antropométricos de 138 homens adultos vinculados à instituição. A
+análise desses indivíduos revelou que o perímetro médio da cintura foi de 87,2 cm, com um
+desvio padrão de 9,3 cm. Com base nesses dados, assinale a alternativa que melhor interpreta
+essas informações.
+Alternativas:
+(alternativa A)
+O valor de 87,2 cm do perímetro da cintura, com desvio padrão de 9,3, evidencia que existem
+valores extremos que se afastam consideravelmente da média informada.
+(alternativa B) (CORRETA)
+O valor típico do perímetro da cintura é de 87,2 cm, mas os valores podem apresentar uma
+dispersão moderada em relação a média, considerando o desvio padrão de 9,3 cm.
+(alternativa C)
+Os indivíduos incluídos no estudo apresentaram um perímetro médio da cintura de 87,2 cm, com
+um valor mínimo de 77,9 e máximo de 96,5, considerando o desvio padrão.
+(alternativa D)
+De acordo com a média informada, é possível identificar que a metade dos indivíduos possui o
+perímetro da cintura superior a 87,2 cm.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 17 de 36
+
+Grau de dificuldade:
+
+Médio
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 18 de 36
+
+Resposta comentada:
+Alternativa correta: O valor típico do perímetro da cintura é de 87,2 cm, mas os valores podem
+apresentar uma dispersão moderada em relação à média, considerando o desvio padrão de 9,3
+cm.
+Justificativa: A interpretação está de acordo com o conceito de média e desvio padrão. A média
+de 87,2 cm indica o valor típico do perímetro da cintura dos participantes. O desvio padrão de 9,3
+cm sugere que a maioria (68%) das medições dos participantes estará dentro de um intervalo de
+87,2 cm ± 9,3 cm. Esse intervalo representa uma dispersão moderada dos dados em torno da
+média, o que é uma interpretação adequada.
+Alternativa incorreta: Os indivíduos incluídos no estudo apresentaram um perímetro médio da
+cintura de 87,2 cm, com um valor mínimo de 77,9 e máximo de 96,5, considerando o desvio
+padrão.
+Justificativa: A interpretação de que o valor mínimo seria 77,9 cm e o valor máximo seria 96,5 cm
+não está correta. Esses valores correspondem a uma estimativa dos limites inferiores e
+superiores do intervalo de confiança, mas o desvio padrão não garante que esses sejam os
+valores reais mínimos e máximos. A fórmula de cálculo de intervalo (média ± 1 desvio padrão =
+68% dos dados em uma distribuição normal) é usada apenas para uma estimativa simples, mas
+isso não reflete os valores reais de todos os dados. Desvio padrão é a medida de quão dispersos
+estão os dados ao redor da média.
+Alternativa incorreta: De acordo com a média informada, é possível identificar que a metade dos
+indivíduos possui o perímetro da cintura superior a 87,2 cm.
+Justificativa: A média de 87,2 cm não indica diretamente que metade dos indivíduos tenha um
+valor superior a essa medida. A média é um valor de tendência central, mas não
+necessariamente divide os dados em dois grupos iguais. Para isso, precisaríamos da mediana,
+que é o valor que divide os dados em duas partes iguais. Portanto, não podemos afirmar que
+metade dos indivíduos tem um perímetro maior que 87,2 cm apenas com base na média.
+Alternativa incorreta: O valor de 87,2 cm do perímetro da cintura, com desvio padrão de 9,3,
+evidencia que existem valores extremos que se afastam consideravelmente da média informada.
+Justificativa: Embora o desvio padrão de 9,3 cm indique que existe uma dispersão moderada dos
+dados, a afirmação de que existem "valores extremos que se afastam consideravelmente da
+média" não é necessariamente verdadeira com base apenas nas informações fornecidas. O
+desvio padrão indica uma dispersão em torno da média, o que não implica, necessariamente, na
+presença de valores extremos ou outliers. A afirmação de que há "valores extremos" está além
+do que os dados realmente indicam.
+Referências:
+AKANIME, Carlos T. ; YAMAMOTO, Roberto K. Estudo Dirigido de Estatística Descritiva. São
+Paulo: Editora Érica, 2013. E-book. ISBN 9788536517780. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788536517780/recent. Acesso em: 10 out.
+2024.
+DANCEY, Christine P. ; REIDY, John G. ; ROWE, Richard. Estatística sem matemática para as
+ciências da saúde. Porto Alegre: Penso, 2017. E-book. ISBN 9788584291007. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/recent. Acesso em: 10 out.
+2024.
+MOORE D, NOTZ WI, FLIGNER MA. A Estatística Básica e sua Prática. 9. ed. Rio de Janeiro:
+LTC, 2023. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788521638612/recent. Acesso em: 10 out.
+2024.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 19 de 36
+
+Feedback:
+-Filtros da questão:
+
+[Habilidades]
+Conhecer as medidas de tendência central: média, mediana, moda
+e separatrizes. Compreender as medidas de variabilidade de
+dados: amplitude, variância, desvio padrão, desvio médio,
+coeficiente de variação, intervalo interquartílico..
+Compreender as medidas de tendência central e variabilidade.
+Conhecer as medidas de tendência central: média, mediana, moda
+e separatrizes. Compreender as medidas de variabilidade de
+dados: amplitude, variância, desvio padrão, desvio médio,
+coeficiente de variação, intervalo interquartílico.
+[Semanas]
+4
+[Subáreas de Conhecimento]
+Conceitos básicos
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[Áreas de Conhecimento]
+Bioestatística
+[IES]
+UNIGRANRIO CAXIAS
+9ª QUESTÃO
+
+Código da questão:
+
+134554
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA Itacoatiara) Segundo dados divulgados pelo boletim epidemiológico do Ministério da
+Saúde, o Brasil tem vivenciado mudanças profundas em seu perfil populacional e de saúde
+pública nas últimas décadas. Observa-se uma redução significativa nas taxas de fecundidade e
+natalidade, ao mesmo tempo em que cresce rapidamente o número de idosos. Paralelamente,
+doenças como hipertensão, diabetes e câncer têm se tornado as principais causas de morte,
+enquanto doenças infecciosas como dengue, tuberculose e sífilis congênita ainda persistem em
+diversas regiões, muitas vezes associadas à precariedade do saneamento e ao acesso desigual
+aos serviços de saúde. A situação é agravada pelo contexto de recessão econômica,
+insegurança alimentar e aumento da obesidade, inclusive entre crianças e adolescentes.
+BRASIL. Ministério da Saúde. Saúde Brasil 2023: análise da situação de saúde com enfoque nas crianças
+brasileiras. Brasília: Ministério da Saúde, 2024.
+
+Com base nos dados apresentados, analise as alternativas e identifique aquela que melhor
+representa as transformações vividas pela população brasileira no contexto das transições
+demográfica, epidemiológica e nutricional.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 20 de 36
+
+Alternativas:
+(alternativa A)
+O Brasil está no início da transição epidemiológica, com predominância de doenças infecciosas e
+baixa presença de doenças crônicas.
+(alternativa B) (CORRETA)
+O Brasil avançou na transição demográfica e vive uma transição epidemiológica incompleta, com
+dupla carga de doenças.
+(alternativa C)
+O Brasil apresenta retrocesso epidemiológico, com predominância de doenças infecciosas
+causadas pelo envelhecimento.
+(alternativa D)
+O Brasil concluiu a transição nutricional, com erradicação da desnutrição e alimentação
+equilibrada em toda a população.
+
+Grau de dificuldade:
+
+Médio
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 21 de 36
+
+Resposta comentada:
+O Brasil avançou na transição demográfica e vive uma transição epidemiológica incompleta, com
+dupla carga de doenças. Correta. Essa alternativa está correta porque descreve com precisão a
+situação atual do Brasil. O país está em estágio avançado da transição demográfica, evidenciado
+pela queda das taxas de fecundidade e natalidade e pelo envelhecimento populacional. Ele
+vivencia uma transição epidemiológica incompleta, marcada pela dupla carga de doenças: a
+prevalência crescente de doenças crônicas não transmissíveis (como diabetes, hipertensão e
+câncer), ao lado da persistência ou reemergência de doenças infecciosas (como dengue,
+tuberculose e sífilis congênita), especialmente em contextos de vulnerabilidade. Essa
+sobreposição de perfis epidemiológicos é típica de países em desenvolvimento que ainda
+enfrentam desigualdades sociais e regionais.
+O Brasil está no início da transição epidemiológica, com predominância de doenças infecciosas e
+baixa presença de doenças crônicas. Incorreta. Essa alternativa está incorreta, pois descreve um
+estágio superado da transição epidemiológica. O Brasil já passou por esse momento nas décadas
+anteriores. Hoje, as doenças crônicas são as principais causas de morte no país. Embora
+doenças infecciosas persistam, especialmente em áreas vulneráveis, elas não predominam mais
+no cenário nacional. Portanto, não se pode dizer que o Brasil esteja no início da transição
+epidemiológica.
+O Brasil concluiu a transição nutricional, com erradicação da desnutrição e alimentação
+equilibrada em toda a população. Incorreta. A transição nutricional no Brasil ainda está em curso.
+De fato, houve redução importante na desnutrição infantil nas últimas décadas, mas ela ainda
+persiste em bolsões de pobreza. Além disso, o país enfrenta um aumento significativo da
+obesidade, inclusive em crianças, devido ao consumo excessivo de alimentos ultraprocessados e
+à redução da atividade física. Portanto, o Brasil não concluiu a transição nutricional e não há
+alimentação equilibrada em toda a população.
+O Brasil apresenta retrocesso epidemiológico, com predominância de doenças infecciosas
+causadas pelo envelhecimento. Incorreta. Não há retrocesso epidemiológico, e sim uma transição
+incompleta. As doenças infecciosas não predominam, apesar de ainda estarem presentes.
+Doenças infecciosas não são causadas pelo envelhecimento. O envelhecimento está mais
+associado ao aumento das doenças crônicas, não às infecciosas.
+Referências:
+BRASIL. Ministério da Saúde. Saúde Brasil 2023: análise da situação de saúde com enfoque nas
+crianças brasileiras. Brasília: Ministério da Saúde, 2024. Disponível em:
+https://www.gov.br/saude/pt-br/assuntos/noticias/2024/junho/quase-um-terco-dos-casos-demalaria-ocorre-em-criancas-de-ate-12-anos/saude-brasil-2023-analise-da-situacao-de-saudecom-enfoque-nas-criancas-brasileiras/view. Acesso em: 20 abr. 2025
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 20 abr. 2025.
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 22 de 36
+
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+14
+[Habilidades]
+Compreender os conceitos de transição demográfica,
+epidemiológica e nutricional.
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ITACOATIARA
+10ª QUESTÃO
+
+Código da questão:
+
+135516
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA Itabuna) Em uma comunidade ribeirinha da região Norte do Brasil, profissionais da saúde
+identificaram aumento significativo no número de casos de hanseníase, verminoses intestinais e
+surtos de malária. A população local apresenta ainda altas taxas de desnutrição infantil,
+hipertensão arterial em adultos e ausência de saneamento básico. Os serviços de saúde
+disponíveis são escassos, com baixa cobertura de equipes de saúde da família e dificuldades no
+acesso a medicamentos e diagnósticos. Com base nesse cenário, analise as afirmativas abaixo:
+I. As doenças identificadas no cenário, como hanseníase e verminoses, são consideradas
+doenças negligenciadas, pois afetam principalmente populações em situação de vulnerabilidade e
+recebem pouco investimento em prevenção e tratamento.
+II. A presença de hipertensão arterial caracteriza a doença crônica, pois trata-se de uma condição
+de longa duração, geralmente associada a fatores ambientais, genéticos e comportamentais.
+III. A desnutrição infantil pode ser caracterizada como um agravo, uma vez que compromete o
+estado de saúde e pode agravar a evolução de outras doenças, mesmo não sendo causada
+diretamente por um agente infeccioso.
+IV. A malária, no contexto apresentado, é considerada uma doença crônica, pois se manifesta de
+forma contínua ao longo de muitos anos, independentemente do tratamento.
+Está correto apenas o que se afirma em:
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 23 de 36
+
+Alternativas:
+(alternativa A)
+II, III e IV.
+(alternativa B)
+I, II , III e IV.
+(alternativa C) (CORRETA)
+I, II e III.
+(alternativa D)
+I e IV.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Está correto o que se afirma em I, II e III, apenas.
+I – Correta: Doenças como hanseníase e verminoses são classificadas como doenças
+negligenciadas, pois atingem populações pobres, com baixa visibilidade política e científica, e
+recebem menos investimentos em pesquisa e políticas públicas (BRASIL, 2019).
+II – Correta: A hipertensão arterial é um exemplo clássico de doença crônica não transmissível
+(DCNT), de evolução lenta e geralmente sem cura, exigindo acompanhamento contínuo.
+III – Correta: A desnutrição é um agravo à saúde, pois, mesmo não sendo uma doença em si,
+altera o estado fisiológico e potencializa a vulnerabilidade a outras doenças.
+IV – Incorreta: A malária é uma doença infecciosa aguda e transmissível, causada por
+protozoários do gênero Plasmodium. Apesar de poder haver recidivas, não se classifica como
+doença crônica.
+Referência:
+BRASIL. Ministério da Saúde. Guia de Vigilância em Saúde: volume único. 3. ed. Brasília:
+Ministério da Saúde, 2019.
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 24 de 36
+
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+14
+[Habilidades]
+Compreender os conceitos de doenças transmissíveis, doenças
+crônicas, agravos e doenças negligenciadas
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ITABUNA
+11ª QUESTÃO
+
+Código da questão:
+
+135260
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(FASA VIC) Durante o atendimento ambulatorial, um médico de família se depara com uma
+paciente de 62 anos, hipertensa e diabética, que recentemente foi diagnosticada com insuficiência
+cardíaca com fração de ejeção preservada (ICFEp). A paciente relata fadiga progressiva, edema
+em membros inferiores e intolerância a esforços. O médico, buscando atualizar sua conduta
+terapêutica, decide consultar a literatura científica para verificar quais intervenções
+medicamentosas possuem evidências mais sólidas para melhora dos desfechos clínicos em
+pacientes com ICFEp. Ele encontra disponíveis: uma revisão sistemática de ensaios clínicos
+randomizados; um estudo de coorte prospectivo; um estudo de caso-controle e um relato de caso
+publicado em revista indexada.
+Considerando os níveis de evidências científicas e a necessidade de embasar o manejo da
+paciente na melhor evidência científica disponível, identifique a alternativa que apresenta a melhor
+fonte de informação neste caso.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 25 de 36
+
+Alternativas:
+(alternativa A)
+Estudo de coorte prospectivo, por fornecer uma avaliação longitudinal de fatores de risco e
+desfechos.
+(alternativa B)
+Relato de caso, por oferecer um relato prático minuciosamente detalhado e real da condição
+clínica em questão.
+(alternativa C) (CORRETA)
+Revisão sistemática de ensaios clínicos randomizados, por integrar os resultados de vários
+estudos controlados.
+(alternativa D)
+Estudo de caso-controle, por ser adequado para investigar associações retrospectivas em
+doenças crônicas.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+A alternativa que apresenta a melhor fonte de informação neste caso é:
+Revisão sistemática de ensaios clínicos randomizados, por integrar os resultados de vários
+estudos controlados (Correta): Revisões sistemáticas de ensaios clínicos randomizados estão no
+topo da pirâmide de evidências. Elas sintetizam dados de múltiplos estudos controlados de forma
+rigorosa, aumentando a validade e a precisão dos resultados, sendo, portanto, a melhor fonte para
+orientar a prática clínica baseada em evidências, quando disponíveis.
+Relato de caso, por oferecer um relato prático minuciosamente detalhado e real da condição
+clínica em questão (Incorreta): Relatos de caso possuem baixo nível de evidência, pois são
+descrições individuais e não permitem generalizações ou inferências causais robustas.
+Estudo de coorte prospectivo, por fornecer uma avaliação longitudinal de fatores de risco e
+desfechos (Incorreta): Estudos de coorte prospectivos são relevantes para avaliar associações
+entre exposições e desfechos, mas oferecem um nível inferior de evidência comparado a ensaios
+clínicos randomizados e suas revisões sistemáticas.
+Estudo de caso-controle, por ser adequado para investigar associações retrospectivas em
+doenças crônicas (Incorreta): Estudos de caso-controle são úteis para investigar fatores
+associados a doenças raras ou eventos retrospectivos, mas não fornecem o mais alto nível de
+evidência para condutas terapêuticas.
+Referências:
+GREENHALGH, Trisha. Como Ler Artigos Científicos: fundamentos da medicina baseada em
+evidências. 5. ed. Porto Alegre: Artmed, 2015. 282 p.
+PEREIRA, Maurício Gomes; GALVÃO, Taís Freire; SILVA, Marcus Tolentino. Saúde baseada
+em evidências. 1. ed. Rio de Janeiro: Guanabara Koogan, 2016. ISBN 9788527728843.
+Disponível em: https://integrada.minhabiblioteca.com.br/books/9788527728843. Acesso em: 4 jul.
+2023.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 26 de 36
+
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Conceitos básicos
+[Semanas]
+16
+[Áreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+[Habilidades]
+Compreender o nível de evidência de um artigo científico (a partir
+da pirâmide de evidências).
+
+12ª QUESTÃO
+Código da questão:
+
+133652
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(ITPAC Porto Nacional) Pesquisadores do curso de Medicina de uma faculdade privada
+realizaram um levantamento em 2023 sobre o consumo de cigarros eletrônicos entre estudantes
+universitários. Para isso, aplicaram um questionário a 1.200 estudantes de diferentes períodos
+dos cursos da área da saúde em um único momento, identificando hábitos de uso, sexo, idade,
+estado emocional e sintomas respiratórios. O objetivo foi descrever a prevalência do uso e
+possíveis associações com características dos participantes. Não houve seguimento dos
+indivíduos.
+Com base nas informações acima, analise as asserções a seguir e assinale a alternativa correta:
+I. O estudo descrito é do tipo transversal, pois investiga uma população em um ponto específico
+no tempo, buscando identificar a prevalência de uma condição de saúde e seus fatores
+associados.
+Porque
+II. Estudos transversais são úteis para testar hipóteses causais entre exposição e desfecho, uma
+vez que permitem observar a evolução dos indivíduos ao longo do tempo.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 27 de 36
+
+Alternativas:
+(alternativa A)
+A asserção I é falsa e a II é verdadeira.
+(alternativa B) (CORRETA)
+A asserção I é verdadeira e a II é falsa.
+(alternativa C)
+As asserções I e II são verdadeiras, mas a II não justifica a I.
+(alternativa D)
+As asserções I e II são verdadeiras e a II justifica a I.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+A asserção I é verdadeira e a II é falsa.
+I. Verdadeira: O estudo é transversal porque avalia simultaneamente exposição (uso de cigarro
+eletrônico) e desfechos (sintomas respiratórios e aspectos emocionais) em uma população
+definida, sem acompanhamento ao longo do tempo.
+II. Falsa: Estudos transversais não permitem observar a evolução dos indivíduos ao longo do
+tempo e não são adequados para testar hipóteses causais, já que não estabelecem a sequência
+temporal entre causa e efeito.
+O delineamento apresentado no enunciado caracteriza-se como um estudo transversal, também
+denominado estudo de corte seccional ou de prevalência. Esse tipo de estudo epidemiológico é do
+tipo observacional, no qual a exposição e o desfecho são mensurados simultaneamente, em um
+único ponto no tempo, permitindo a estimativa da frequência de eventos de saúde (prevalência) e
+a análise de associações entre variáveis. Os estudos transversais são particularmente úteis na
+formulação de hipóteses e no planejamento de serviços de saúde, sendo apropriados para
+inquéritos populacionais, como o descrito, mas com limitações importantes quanto à inferência
+causal.
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre: Artmed, 2021.
+E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 30 maio 2025.
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 28 de 36
+
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+8
+[Habilidades]
+Conhecer as características dos estudos transversais e do tipo
+ecológico
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+ITPAC PORTO NACIONAL
+
+13ª QUESTÃO
+Código da questão:
+
+130141
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(AFYA Ipatinga) Um médico residente de clínica médica está atendendo um paciente de 55 anos
+com hipertensão arterial controlada e histórico familiar de infarto agudo do miocárdio. O paciente
+relata ter lido na internet que o uso de ácido acetilsalicílico (AAS) pode prevenir infartos e deseja
+iniciar a medicação por conta própria. O médico decide utilizar os princípios da Medicina Baseada
+em Evidências (MBE) para determinar a melhor conduta.
+Com base nos preceitos da MBE, analise as afirmativas abaixo.
+I. A Medicina Baseada em Evidências combina a melhor evidência científica disponível com a
+experiência clínica e os valores do paciente para a tomada de decisão.
+II. O primeiro passo para aplicar a MBE neste caso é realizar uma busca estruturada da literatura
+para verificar se há evidências robustas sobre o uso do AAS na prevenção primária de infarto em
+pacientes com fatores de risco.
+III. A MBE prioriza a autonomia do paciente sobre a evidência científica, a conduta clínica correta
+deve ser atender ao desejo do paciente e prescrever o AAS, por se tratar de um medicamento
+com baixo risco de evento adverso.
+IV. A decisão deve ser compartilhada com o paciente e deve considerar possíveis riscos do uso
+do AAS, como sangramentos gastrointestinais. Os benefícios devem superar os riscos para este
+perfil de paciente.
+Está correto o que se afirma em
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 29 de 36
+
+Alternativas:
+(alternativa A)
+I e IV, apenas.
+(alternativa B) (CORRETA)
+I, II e IV, apenas.
+(alternativa C)
+I, II e III, apenas.
+(alternativa D)
+I e III, apenas.
+
+Grau de dificuldade:
+
+Médio
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 30 de 36
+
+Resposta comentada:
+Está correto o que se afirma em I, II e IV, apenas.
+Assertiva I: "A Medicina Baseada em Evidências combina a melhor evidência científica disponível
+com a experiência clínica e os valores do paciente para a tomada de decisão."
+Correta. A definição de Medicina Baseada em Evidências (MBE) envolve a integração da melhor
+evidência científica com a experiência clínica do médico e as preferências e valores do paciente.
+Isso garante que a decisão seja bem fundamentada e personalizada para o paciente.
+Assertiva II: "O primeiro passo para aplicar a MBE neste caso é realizar uma busca estruturada
+da literatura para verificar se há evidências robustas sobre o uso do AAS na prevenção primária
+de infarto em pacientes com fatores de risco."
+Correta. O primeiro passo na MBE é buscar e avaliar a melhor evidência científica disponível.
+Neste caso, a recomendação de realizar uma busca estruturada sobre o uso de AAS na
+prevenção primária de infarto é essencial para avaliar a eficácia e segurança desse tratamento
+para o paciente com hipertensão e histórico familiar de infarto.
+Assertiva III: "A MBE prioriza a autonomia do paciente sobre a evidência científica, a conduta
+clínica correta deve ser atender ao desejo do paciente e prescrever o AAS, por se tratar de um
+medicamento com baixo risco de evento adverso."
+Errada. Embora a autonomia do paciente seja um princípio importante, a MBE não prioriza
+exclusivamente a autonomia sobre a evidência científica. A decisão clínica deve ser baseada em
+uma avaliação equilibrada entre a evidência científica, os riscos e benefícios para o paciente, e
+seus valores e preferências. Prescrever AAS apenas com base no desejo do paciente, sem
+considerar as evidências, não é uma prática adequada. Além disso, o uso de qualquer
+medicamento pode trazer riscos a um paciente, por exemplo, o AAS tem riscos, como
+sangramentos gastrointestinais, que devem ser avaliados cuidadosamente.
+Assertiva IV: "A decisão deve ser compartilhada com o paciente e deve considerar possíveis
+riscos do uso do AAS, como sangramentos gastrointestinais. Os benefícios devem superar os
+riscos para este perfil de paciente."
+Correta. A decisão compartilhada é um princípio central da MBE. Isso implica envolver o paciente
+no processo de decisão, apresentando-lhe as evidências científicas, os riscos e os benefícios. No
+caso do AAS, os riscos, como sangramentos, devem ser discutidos e pesados em relação aos
+benefícios. O uso de AAS em prevenção primária de infarto deve ser cuidadosamente
+considerado para cada paciente.
+Referências:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde - Fundamentos,
+Métodos e Aplicações. Rio de Janeiro: Grupo GEN, 2011. E-book. ISBN 978-85-277-2119-6.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2119-6/. Acesso em:
+16 maio 2024.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 maio 2024.
+
+Feedback:
+--
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 31 de 36
+
+Filtros da questão:
+
+[Semanas]
+2
+[Subáreas de Conhecimento]
+Conceitos básicos
+[Áreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[Habilidades]
+Aplicar os princípios da MBE na prática clínica.
+[IES]
+AFYA IPATINGA
+14ª QUESTÃO
+
+Código da questão:
+
+134355
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(IESVAP) Um grupo de pesquisadores está desenvolvendo um projeto para analisar o perfil
+epidemiológico e a distribuição geográfica de casos de tuberculose no Brasil entre os anos de
+2019 e 2023. O estudo também pretende avaliar a mortalidade associada à doença no mesmo
+período e levantar informações sobre os atendimentos realizados na Atenção Primária para esse
+agravo. Para isso, os pesquisadores decidiram utilizar bases de dados públicas de saúde
+disponíveis no DATASUS.
+Considerando os objetivos do projeto descrito, quais sistemas de informação os pesquisadores
+devem consultar para obter os dados necessários?
+Alternativas:
+(alternativa A)
+CNES, SI-PNI e SINASC.
+(alternativa B)
+SISAB, SIA/SUS e SI-PNI.
+(alternativa C)
+SIM, SIH/SUS e SIA/SUS.
+(alternativa D) (CORRETA)
+SINAN, SIM e SISAB.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 32 de 36
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Resposta correta: SINAN, SIM e SISAB.
+SINAN: fornece dados sobre doenças de notificação compulsória, como a tuberculose.
+SIM: fornece dados sobre mortalidade, permitindo análise dos óbitos relacionados à tuberculose.
+SISAB: reúne dados da Atenção Primária, onde é possível avaliar o acompanhamento de casos e
+ações de cuidado em saúde básica.
+Por que não as outras?
+SIM, SIH/SUS e SIA/SUS.
+SIM: Correta — fornece dados sobre mortalidade.
+SIH/SUS (Sistema de Informações Hospitalares): Incorreta — reúne dados de internações
+hospitalares no âmbito do SUS, não é a melhor fonte para casos de tuberculose, que são
+notificados no SINAN.
+SIA/SUS (Sistema de Informações Ambulatoriais): Incorreta — traz dados sobre procedimentos
+ambulatoriais especializados, mas não contempla de forma adequada o acompanhamento feito na
+atenção primária, que é melhor analisado pelo SISAB.
+Erro central: troca o SINAN (obrigatório para notificação de tuberculose) por sistemas voltados a
+atendimentos especializados e hospitalares.
+CNES, SI-PNI e SINASC.
+CNES (Cadastro Nacional de Estabelecimentos de Saúde): Traz informações sobre a
+infraestrutura de saúde (unidades, profissionais etc.), mas não sobre casos de doenças.
+SI-PNI (Sistema de Informação do Programa Nacional de Imunizações): Relacionado à
+vacinação, não fornece dados sobre diagnóstico ou mortalidade de tuberculose.
+SINASC (Sistema de Informações sobre Nascidos Vivos): Foca em nascimentos e não tem
+relação com tuberculose ou mortalidade geral.
+Erro central: Nenhum dos sistemas listados fornece dados clínico-epidemiológicos diretos sobre
+casos ou óbitos por tuberculose.
+SISAB, SIA/SUS e SI-PNI.
+SISAB: Correta — dados da Atenção Primária, onde a tuberculose pode ser acompanhada.
+SIA/SUS: Já comentado — foco em procedimentos ambulatoriais especializados, não substitui
+SINAN.
+SI-PNI: Não é usado para análise de casos ou óbitos por tuberculose.
+Erro central: omissão de SIM (para óbitos) e SINAN (para notificação), que são fundamentais no
+contexto da questão.
+Referências:
+REDE Interagencial de Informação para a Saúde (org.). Indicadores básicos para a saúde no
+Brasil: conceitos e aplicações. 2. ed. Brasília: Ripsa, 2008. 349 p. Disponível em:
+http://tabnet.datasus.gov.br/tabdata/livroidb/2ed/indicadores Acesso em: 30 de maio de 2025.
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 33 de 36
+
+ROUQUAYROL, Maria Z. ; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio de
+Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16 nov. 2024.
+Base de Dados - PNS. Disponível em: https://www.pns.icict.fiocruz.br/bases-de-dados/. Acesso
+em: 25 de outubro. 2024.
+Feedback:
+-Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+5
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+IESVAP
+[Habilidades]
+(Conhecer algumas das plataformas que contém dados públicos
+em saúde (TabNet, IBGE, PNS, SISAB...)
+15ª QUESTÃO
+
+Código da questão:
+
+135413
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 34 de 36
+
+Enunciado:
+(AFYA Paraíba) Em estudos epidemiológicos, a coorte é um dos principais delineamentos
+observacionais. Ela pode ser realizada de forma prospectiva ou retrospectiva, a depender da
+maneira como a exposição e o desfecho são observados. Considere os exemplos a seguir:
+Coorte Prospectiva: Um grupo de trabalhadores de uma fábrica é seguido por 10 anos para
+investigar se a exposição prolongada ao solvente industrial A aumenta o risco de câncer de
+pulmão.
+Coorte Retrospectiva: Pesquisadores analisam os prontuários médicos de pessoas que, há 15
+anos, trabalharam expostas ao solvente industrial A, para verificar se houve maior incidência de
+câncer de pulmão entre os expostos.
+Com base nesses exemplos e no conhecimento sobre estudos de coorte, analise as afirmativas a
+seguir:
+I. No estudo de coorte prospectiva, os participantes são acompanhados a partir do momento da
+exposição até o surgimento ou não do desfecho, em tempo real.
+II. No estudo de coorte retrospectiva, os pesquisadores precisam aguardar novos desfechos
+surgirem após o início da pesquisa.
+III. Tanto na coorte prospectiva quanto na retrospectiva, a comparação principal é entre expostos
+e não expostos ao fator de risco.
+IV. A coorte retrospectiva é baseada em registros e dados históricos já existentes, sem
+acompanhamento prospectivo dos indivíduos.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I, III e IV.
+(alternativa B)
+I e II.
+(alternativa C)
+I e IV.
+(alternativa D)
+II, III e IV.
+
+Grau de dificuldade:
+
+Médio
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 35 de 36
+
+Resposta comentada:
+Afirmativa I – Correta: No estudo de coorte prospectiva, o acompanhamento é feito a partir do
+presente, observando os participantes ao longo do tempo até o surgimento ou não do desfecho.
+Afirmativa II – Falsa: Na coorte retrospectiva, os desfechos já aconteceram no passado; os
+pesquisadores apenas analisam dados históricos. Não precisam aguardar novos eventos
+surgirem.
+Afirmativa III – Correta: Tanto na coorte prospectiva quanto na retrospectiva, o foco é comparar
+expostos versus não expostos para analisar o risco de desenvolver determinado desfecho.
+Afirmativa IV – Correta: A coorte retrospectiva usa registros passados (prontuários, arquivos)
+para identificar exposição e desfecho, sem acompanhar os indivíduos no presente.
+Referência:
+BONITA, R.; BEAGLEHOLE, R.; KJELLSTRÖM, T. Epidemiologia básica. 2. ed. São Paulo:
+Grupo Editorial Nacional, 2010. 230 p. Disponível em:
+https://edisciplinas.usp.br/mod/resource/view.php?id=3046312&forceview=1. Acesso em: 10 out.
+2024.
+Feedback:
+-Filtros da questão:
+
+[Áreas de Conhecimento]
+Básica
+[Semanas]
+9
+[Habilidades]
+Conhecer os dois principais tipos de estudos de coorte:
+prospectivos e retrospectivos.
+[Subáreas de Conhecimento]
+Epidemiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+
+000161.400014.015a51.36cd15.9016c3.ee4120.a7ddfe.888fe
+
+Pgina 36 de 36
+
+

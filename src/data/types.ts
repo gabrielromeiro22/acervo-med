@@ -12,6 +12,12 @@ export interface Question {
   comentario: string
   referencia?: string
   fonte?: string
+  materia?: string // grande área (Cardiologia, Pediatria…), classificada por scripts/acervo/classify.mjs
+  prova?: string // prova de origem, ex. "N2 · 2025.1 · Rot. 2 · B"
+  numero?: number // número da questão na prova original
+  palavras?: string[] // palavras-chave para busca
+  arquivo?: string // id do PDF de origem no Drive (questões do acervo)
+  imagem?: 1 // o enunciado cita imagem/figura que não veio no texto
 }
 
 export interface Flashcard {

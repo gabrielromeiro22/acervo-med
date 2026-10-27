@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { Link, useNavigate, useParams } from 'react-router-dom'
-import { ArrowLeft, ArrowRight, Check, CircleCheck, CircleMinus, CircleX, Clock, Download, Flag, ListChecks, Minus, RotateCcw, Target, Timer, X } from 'lucide-react'
+import { ArrowLeft, ArrowRight, Check, CircleCheck, CircleMinus, CircleX, Clock, Download, Flag, ListChecks, Minus, RotateCcw, ScanLine, Target, Timer, X } from 'lucide-react'
 import { QuestionCard } from '../components/QuestionCard'
+import { TreinoModal } from '../components/TreinoModal'
 import { Empty } from '../components/ui'
 import type { Question } from '../data/types'
 import { LETTERS, fmtTime } from '../lib/format'
@@ -20,6 +21,8 @@ function Run({ id }: { id: string }) {
   const [pos, setPos] = useState(0)
   const [confirming, setConfirming] = useState(false)
   const finished = !!sim?.finishedAt
+  // Prova feita no papel: sem cronômetro, só o lançamento das respostas.
+  const paused = finished || !!sim?.papel
 
   const patch = useCallback((p: Partial<Simulado>) => {
     setState((s) => ({ ...s, simulados: s.simulados.map((x) => (x.id === id ? { ...x, ...p } : x)) }))
@@ -29,31 +32,35 @@ function Run({ id }: { id: string }) {
     if (!sim || sim.finishedAt) return
     const answered = sim.questionIds.filter((qid) => sim.answers[qid] !== undefined)
     const ms = answered.length ? (total * 1000) / answered.length : 0
-    for (const qid of answered) {
-      const q = byId.get(qid)
-      if (q) recordAttempt(q, sim.answers[qid], ms)
+    // Treino não entra nas estatísticas.
+    if (!sim.treino) {
+      for (const qid of answered) {
+        const q = byId.get(qid)
+        if (q) recordAttempt(q, sim.answers[qid], ms)
+      }
     }
     patch({ finishedAt: Date.now(), elapsedSec: total })
     window.scrollTo({ top: 0 })
   }, [sim, byId, patch])
 
   useEffect(() => {
-    if (finished) return
+    if (paused) return
     const t = setInterval(() => setElapsed((e) => e + 1), 1000)
     return () => clearInterval(t)
-  }, [finished])
+  }, [paused])
 
   // Salva o cronômetro a cada 5 s e encerra quando o tempo acaba.
   useEffect(() => {
-    if (!sim || finished) return
+    if (!sim || paused) return
     if (sim.durationSec && elapsed >= sim.durationSec) finish(sim.durationSec)
     else if (elapsed % 5 === 0 && sim.elapsedSec !== elapsed) patch({ elapsedSec: elapsed })
-  }, [elapsed, sim, finished, finish, patch])
+  }, [elapsed, sim, paused, finish, patch])
 
   if (!sim) {
     return <Empty>Prova não encontrada. <Link to="/app/minhas-provas" className="text-accent hover:underline">Voltar às minhas provas</Link></Empty>
   }
   if (finished) return <Resultado sim={sim} byId={byId} />
+  if (sim.papel) return <Correcao sim={sim} byId={byId} />
 
   const ids = sim.questionIds
   const q = byId.get(ids[pos])
@@ -150,7 +157,8 @@ function Resultado({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }
   const total = rows.length
   const nota = total ? (count('certa') / total) * 100 : 0
   const notRight = rows.filter((r) => r.status !== 'certa').map((r) => r.qid)
-  const redo = (ids: string[], suffix: string) => navigate(`/app/simulados/${redoSimulado(sim, ids, suffix)}`)
+  const [treino, setTreino] = useState(false)
+  const redo = (ids: string[], suffix: string, isTreino = false) => navigate(`/app/simulados/${redoSimulado(sim, ids, suffix, isTreino)}`)
 
   const report = () => {
     const lines = [
@@ -188,14 +196,14 @@ function Resultado({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }
 
       <section className="grid gap-6 rounded-3xl border-2 border-ink/90 bg-panel p-6 sm:p-8 md:grid-cols-2">
         <div className="flex flex-col items-center gap-3 text-center">
-          <span className="rounded-lg bg-[#c8285a] px-4 py-1.5 text-xs font-bold uppercase tracking-[0.2em] text-white">Prova concluída</span>
+          <span className="rounded-lg bg-[#c8285a] px-4 py-1.5 text-xs font-bold uppercase tracking-[0.2em] text-white">{sim.treino ? 'Treino concluído' : 'Prova concluída'}</span>
           <span className="max-w-full truncate rounded-lg bg-ink px-4 py-1.5 font-bold uppercase tracking-[0.12em] text-bg">{sim.nome}</span>
           <Ring value={nota} />
           <p className="font-display text-lg font-bold text-accent">{verdict(nota)}</p>
           <div className="flex flex-wrap justify-center gap-2">
             <button className="btn bg-[#c8285a] text-white hover:brightness-110" onClick={() => redo(sim.questionIds, 'refazer')}><RotateCcw className="size-4" /> Refazer prova</button>
             {notRight.length > 0 && (
-              <button className="btn bg-warn text-bg hover:brightness-110" onClick={() => redo(notRight, 'erradas')}><Target className="size-4" /> Refazer erradas</button>
+              <button className="btn bg-warn text-bg hover:brightness-110" onClick={() => setTreino(true)}><Target className="size-4" /> Refazer erradas</button>
             )}
           </div>
         </div>
@@ -231,6 +239,61 @@ function Resultado({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }
         ) : (
           <Empty key={r.qid}>Questão {r.n} não está mais no acervo.</Empty>
         ))}
+      </div>
+      {treino && <TreinoModal count={notRight.length} onCancel={() => setTreino(false)} onConfirm={() => redo(notRight, 'erradas', true)} />}
+    </>
+  )
+}
+
+function Correcao({ sim, byId }: { sim: Simulado; byId: Map<string, Question> }) {
+  const [answers, setAnswers] = useState<Record<string, number>>(sim.answers)
+  const [min, setMin] = useState('')
+  const filled = sim.questionIds.filter((qid) => answers[qid] !== undefined).length
+
+  const corrigir = () => {
+    const total = Math.max(0, Math.round(Number(min) * 60) || 0)
+    const ms = filled ? (total * 1000) / filled : 0
+    for (const qid of sim.questionIds) {
+      const q = byId.get(qid)
+      if (q && answers[qid] !== undefined) recordAttempt(q, answers[qid], ms)
+    }
+    setState((s) => ({ ...s, simulados: s.simulados.map((x) => (x.id === sim.id ? { ...x, answers, elapsedSec: total, finishedAt: Date.now() } : x)) }))
+    window.scrollTo({ top: 0 })
+  }
+
+  return (
+    <>
+      <Link to="/app/minhas-provas" className="text-xs text-mute hover:text-ink">← Minhas provas</Link>
+      <h1 className="mt-1 font-display text-2xl font-bold">{sim.nome}</h1>
+      <p className="mb-6 text-sm text-mute">Lance as respostas da sua folha. Questões sem marcação contam como em branco.</p>
+
+      <div className="card divide-y divide-line">
+        {sim.questionIds.map((qid, i) => {
+          const q = byId.get(qid)
+          return (
+            <div key={qid} className="flex flex-wrap items-center gap-2 px-4 py-2.5">
+              <span className="w-10 font-display font-bold tabular-nums">{i + 1}</span>
+              {q ? q.alternativas.map((_, k) => (
+                <button key={k} onClick={() => setAnswers((a) => (a[qid] === k ? Object.fromEntries(Object.entries(a).filter(([x]) => x !== qid)) : { ...a, [qid]: k }))}
+                  className={`grid size-8 place-items-center rounded-full border text-xs font-bold transition ${answers[qid] === k ? 'border-accent bg-accent text-bg' : 'border-line text-mute hover:border-accent/60 hover:text-ink'}`}>
+                  {LETTERS[k]}
+                </button>
+              )) : <span className="text-xs text-mute">Questão não está mais no acervo</span>}
+              {q && <span className="ml-auto hidden truncate text-xs text-mute sm:block">{q.tema}</span>}
+            </div>
+          )
+        })}
+      </div>
+
+      <div className="mt-5 flex flex-wrap items-end justify-between gap-3">
+        <label className="block">
+          <span className="label">Tempo gasto (min, opcional)</span>
+          <input className="input w-40" type="number" min={0} value={min} onChange={(e) => setMin(e.target.value)} />
+        </label>
+        <div className="flex items-center gap-3">
+          <span className="text-sm text-mute tabular-nums">{filled}/{sim.questionIds.length} marcadas</span>
+          <button className="btn-primary" disabled={!filled} onClick={corrigir}><ScanLine className="size-4" /> Corrigir</button>
+        </div>
       </div>
     </>
   )

@@ -1,0 +1,2634 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Estágio em Atenção Ambulatorial e Hospitalar em
+Clínica Cirúrgica
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 26/08/2025
+
+N2 INTERNATO - MEDICINA - CC - 2025.2 - ROT 1 - 26/AGOSTO - 12
+TEMAS
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16953 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+141405
+
+Tipo da questão:
+
+Múltipla Escolha
+
+acervo.top / acervotop.com
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FASA - Vic) Homem de 62 anos, previamente saudável, é diagnosticado com adenocarcinoma
+de cólon sigmoide. A colonoscopia mostrou lesão estenosante a 30 cm da margem anal, e a
+biópsia confirmou adenocarcinoma moderadamente diferenciado. A tomografia de tórax, abdome
+e pelve não identificou metástases. O exame anatomopatológico pós-colectomia mostrou invasão
+até a subserosa, com 4 linfonodos positivos em um total de 18 examinados. O marcador CEA
+pré-operatório era de 9,2 ng/mL.
+Qual das alternativas abaixo melhor expressa a avaliação prognóstica desse caso?
+Alternativas:
+(alternativa A)
+O número total de linfonodos avaliados é insuficiente para estadiamento, sendo necessário novo
+procedimento cirúrgico.
+(alternativa B)
+A profundidade da invasão tumoral do paciente em questão não afeta o estadiamento nem o
+prognóstico.
+(alternativa C)
+O valor do CEA do paciente em questão é diagnóstico e suficiente para indicar metástase
+hepática oculta.
+(alternativa D) (CORRETA)
+A presença de linfonodos positivos e o valor do CEA indicam maior risco de recorrência, sendo
+candidatos à quimioterapia adjuvante.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 1 de 61
+
+Resposta comentada:
+Resposta correta: A presença de linfonodos positivos e o valor do CEA indicam maior risco de
+recorrência, sendo candidatos à quimioterapia adjuvante.
+Justificativa: O Sabiston destaca que o envolvimento linfonodal (estágio III) e o CEA préoperatório elevado são fatores prognósticos desfavoráveis. Esses pacientes devem ser
+encaminhados para quimioterapia adjuvante, mesmo na ausência de metástases.
+Análise das demais alternativas:
+Alternativa: O número total de linfonodos avaliados é insuficiente para estadiamento, sendo
+necessário novo procedimento cirúrgico.
+Justificativa: O número mínimo recomendado de linfonodos examinados para estadiamento
+adequado é 12. Neste caso, 18 linfonodos foram avaliados, o que é suficiente.
+Alternativa: O valor do CEA do paciente em questão é diagnóstico e suficiente para indicar
+metástase hepática oculta.
+Justificativa: Embora a elevação do CEA (> 5 ng/mL) esteja associada a pior prognóstico, ela não
+é diagnóstica de metástases. Deve ser correlacionada com achados de imagem e outros dados
+clínicos.
+Alternativa: A profundidade da invasão tumoral do paciente em questão não afeta o estadiamento
+nem o prognóstico.
+Justificativa: A profundidade da invasão (p. ex., até subserosa = T3) é um critério central no
+estadiamento TNM e impacta o prognóstico. Tumores T3 com linfonodos positivos são
+classificados como estádio IIIB.
+Referência:
+TOWNSEND, Courtney M. et al. Sabiston tratado de cirurgia: a base biológica da prática cirúrgica
+moderna. 20. ed. Rio de Janeiro: Elsevier, 2019.
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Cuidado em saúde
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+[Habilidades]
+Avaliar fatores prognósticos no câncer de cólon e reto,
+correlacionando com marcadores tumorais e critérios clínicos.
+[Tema]
+Câncer de cólon e reto (Diagnóstico clínico, laboratorial, radiológico
+e Condução clínica)
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 2 de 61
+
+2ª QUESTÃO
+Código da questão:
+
+141410
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(IESVAP) Um homem de 54 anos, com histórico de cirrose alcoólica, chega ao pronto-socorro
+com hematêmese volumosa iniciada há 2 horas. A suspeita é de hemorragia varicosa. Está
+taquicárdico e apresenta pressão arterial limítrofe. Foi iniciado suporte com cristaloides e
+coletadas amostras para exames laboratoriais. Após estabilização hemodinâmica inicial, a equipe
+médica discute as próximas condutas terapêuticas.
+Qual ação mais adequada deve ser considerada nesse momento, visando reduzir o risco de
+ressangramento e melhorar a sobrevida hospitalar?
+Alternativas:
+(alternativa A) (CORRETA)
+Uso precoce de agentes vasoativos específicos e indicação de endoscopia digestiva alta nas
+primeiras 12 horas.
+(alternativa B)
+Administração de vasodilatadores esplâncnicos e transfusão liberal visando hemoglobina ≥ 13
+g/dL.
+(alternativa C)
+Início de inibidores de bomba de prótons em altas doses como medida prioritária, associado a
+endoscopia em 48 horas.
+(alternativa D)
+Lavagem gástrica seguida de cirurgia eletiva para derivação portossistêmica.
+
+Grau de dificuldade:
+
+Médio
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 3 de 61
+
+Resposta comentada:
+Alternativa correta: Em pacientes com suspeita de sangramento por varizes esofágicas, o uso
+precoce de agentes vasoativos — como terlipressina ou octreotida — é essencial para reduzir o
+fluxo portal e controlar o sangramento. A endoscopia digestiva alta deve ser realizada o quanto
+antes, idealmente nas primeiras 12 horas, após estabilização inicial, para diagnóstico e tratamento
+endoscópico das varizes. Esta abordagem reduz o ressangramento e melhora a sobrevida. Já o
+uso isolado de IBP, transfusão liberal ou adiamento da endoscopia não são estratégias adequadas
+neste contexto.
+Comentários sobre as incorretas:
+IBPs em altas doses são indicados para sangramentos não varicosos (ex.: úlceras pépticas). O
+intervalo de 48h para endoscopia é muito longo e contraindicado em sangramento agudo.
+Lavagem gástrica perdeu papel atual e cirurgia de derivação portossistêmica (como TIPS) não é
+de primeira linha — só indicada se falha do tratamento clínico/endoscópico.
+Transfusão liberal (alvo Hb ≥ 13 g/dL) está contraindicada — pode aumentar a pressão portal e
+piorar o sangramento. O alvo em sangramento varicoso é Hb entre 7-8 g/dL. Vasodilatadores
+esplâncnicos (como nitratos) não são indicados nesse contexto.
+Referência:
+Townsend, Beauchamp, Evers, Mattox KL. SABISTON: tratado de cirurgia - a base biológica da
+prática cirúrgica moderna. 2 Vol. 20ª ed. Rio de Janeiro: Elsevier, 2019.
+
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+IESVAP
+[Habilidades]
+Avaliar condutas frente à hemorragia digestiva alta por varizes
+esofágicas, justificando uso de vasoconstritores e endoscopia.
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Afecções hepáticas: diagnós tico/tratamento/complicações
+(Hipertensão portal; nódulos e abscessos hepáticos)
+3ª QUESTÃO
+
+Código da questão:
+
+141418
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 4 de 61
+
+Enunciado:
+(UNIGRANRIO - Barra) Um homem de 54 anos é admitido com dispneia leve, mas estável, e
+opacificação basal direita na radiografia. A ultrassonografia confirma derrame pleural moderado
+livre. Apresenta INR 2,8, plaquetas 60.000/mm³ e sinais de púrpura difusa em membros
+inferiores. Está consciente, estável hemodinamicamente e saturando 92% em ar ambiente.
+Em relação à toracocentese diagnóstica neste paciente, qual conduta é mais apropriada e por
+quê?
+Alternativas:
+(alternativa A)
+Conduta conservadora, pois derrames pleurais livres em pacientes estáveis não necessitam de
+amostragem para investigação diagnóstica.
+(alternativa B)
+Prosseguir apenas se houver ventilação mecânica, pois ela reduz o risco de sangramento durante
+toracocentese.
+(alternativa C) (CORRETA)
+Adiar o procedimento para corrigir coagulopatia e trombocitopenia, pois sangramento
+descontrolado é contraindicação relativa que exige preparo prévio.
+(alternativa D)
+Prosseguir imediatamente com toracocentese sem ajuste algum, pois a estabilidade clínica
+descarta risco hemorrágico significativo.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A toracocentese, embora geralmente considerada um procedimento de baixo risco, não é isenta
+de complicações hemorrágicas, especialmente em pacientes com distúrbios da coagulação que
+exigem correção antes do procedimento, principalmente quando não se trata de uma
+emergência.
+A estabilidade clínica não exclui o risco de sangramento. Um INR de 2,8 e plaquetas de 60.000
+representam um estado de alto risco hemorrágico para procedimentos invasivos, mesmo que o
+paciente esteja normotenso e oxigenando.
+A ventilação mecânica não reduz o risco de sangramento; pelo contrário, ela pode até dificultar a
+toracocentese pela alteração na mobilidade pleural e risco de lesão pulmonar em ventilação
+positiva.
+Todo derrame pleural de etiologia incerta, especialmente moderado ou importante, deve ser
+investigado por toracocentese, exceto se houver contraindicação absoluta ou urgência
+respiratória. O fato de ser um derrame “livre” não isenta da investigação, ainda mais em um
+paciente com dispneia progressiva e sem causa definida.
+Referência:
+TOWNSEND, Courtney M. (org.). Tratado de cirurgia: a base biológica da prática cirúrgica
+moderna. 20. ed. Rio de Janeiro: Elsevier, 2017.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 5 de 61
+
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Cuidado em saúde
+[Subáreas de Conhecimento]
+Cirurgia Torácica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO BARRA
+[Habilidades]
+Analisar possíveis complicações da toracocentese, propondo
+medidas preventivas e de tratamento.
+Avaliar contraindicações relativas e absolutas do procedimento,
+defendendo sua aplicação ou adiamento.
+[Tema]
+Condutas intervencionistas em derrame pleural - Toracocentese
+4ª QUESTÃO
+
+Código da questão:
+
+141415
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) Um paciente de 58 anos, previamente hígido, apresenta icterícia
+progressiva, colúria e fezes hipocólicas há 5 dias. Ultrassonografia demonstra colecistolitíase e
+dilatação das vias biliares intra e extra-hepáticas, e a tomografia confirma um cálculo de
+aproximadamente 8 mm impactado na porção distal do colédoco. Os exames laboratoriais
+mostram bilirrubina total de 8 mg/dL (direta 6,5 mg/dL) e leve elevação de transaminases. Ele está
+afebril e sem sinais de instabilidade hemodinâmica ou peritonite.
+Considerando as opções de abordagem diagnóstica e terapêutica das vias biliares, qual é a
+conduta mais adequada nesse caso?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 6 de 61
+
+Alternativas:
+(alternativa A)
+Indicar colangiografia cirúrgica peroperatória, pois permite maior segurança diagnóstica em
+pacientes com icterícia obstrutiva grave.
+(alternativa B)
+Adiar qualquer colangiografia e indicar colecistectomia eletiva, pois o quadro sugere icterícia que
+se resolve espontaneamente.
+(alternativa C)
+Indicar colangiografia transhepática percutânea, pois tem menor risco de complicações em
+cálculos distais do colédoco.
+(alternativa D) (CORRETA)
+Indicar colangiografia por colangiopancreatografia retrógrada endoscópica (CPRE), pois é
+simultaneamente diagnóstica e terapêutica para cálculos distais em paciente estável.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A CPRE (ou ERCP, do inglês Endoscopic Retrograde Cholangiopancreatography) é o método de
+escolha em pacientes com colédocolitíase confirmada e em boas condições clínicas, como neste
+caso. A principal vantagem da CPRE é que ela permite diagnóstico e tratamento simultâneo, ou
+seja, é possível identificar o cálculo e realizar a papilotomia com extração do cálculo, muitas
+vezes na mesma sessão.
+Embora a colangiografia intraoperatória seja útil, não é o exame de escolha inicial em um paciente
+estável com diagnóstico já estabelecido por imagem.
+Além disso, não se trata de icterícia obstrutiva grave com instabilidade, nem há indicação
+emergencial de cirurgia. A colangiografia cirúrgica está reservada para situações intraoperatórias
+em que se detecta colédocolitíase durante colecistectomia, o que não é o caso.
+A colangiografia transhepática percutânea não é a primeira escolha para cálculos no colédoco
+distal. É um procedimento mais invasivo, com risco de hemorragia, fístulas biliares e infecção.
+Costuma ser reservado para casos em que a CPRE não é possível (por exemplo, após
+gastrectomia em Y de Roux ou anatomia alterada).
+A presença de colédocolitíase impactada com icterícia obstrutiva progressiva exige abordagem
+das vias biliares antes da colecistectomia. Adiar a abordagem pode resultar em complicações
+como colangite ou pancreatite biliar.
+Referência:
+TOWNSEND, Courtney M. (org.). Tratado de cirurgia: a base biológica da prática cirúrgica
+moderna. 20. ed. Rio de Janeiro: Elsevier, 2017.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 7 de 61
+
+Filtros da questão:
+
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO BARRA
+[Habilidades]
+Comparar indicações e riscos de colangiografia endoscópica
+versus cirúrgica, categorizando conforme o caso clínico.
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Afecções da árvore biliar: colecistolítase, coledocolitíase, íleo biliar,
+colangiocarcinoma
+
+5ª QUESTÃO
+Código da questão:
+
+141863
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FACIMPA) Um paciente masculino, 62 anos, previamente saudável, dá entrada no pronto
+atendimento com dor em hipogástrio há 48 horas, febre de 38,5°C, náuseas e diarreia. Ao exame
+físico, apresenta dor à palpação profunda no quadrante inferior esquerdo, sem sinais de irritação
+peritoneal. Tomografia de abdome com contraste revela espessamento da parede do cólon
+sigmoide e bolhas de gás pericólicas.
+Qual das condutas antibióticas iniciais é mais adequada para este paciente?
+Alternativas:
+(alternativa A)
+Ciprofloxacino como monoterapia, pois cobre a maioria das bactérias entéricas.
+(alternativa B)
+Metronidazol como monoterapia, considerando o padrão entérico anaeróbico.
+(alternativa C)
+Amoxicilina + clavulanato via oral, pois é eficaz contra germes gram-negativos e anaeróbios e
+pode ser usada ambulatorialmente.
+(alternativa D) (CORRETA)
+Ceftriaxona IV associada a metronidazol IV, como cobertura empírica para gram-negativos
+entéricos e anaeróbios.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 8 de 61
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Metronidazol como monoterapia, considerando o padrão entérico anaeróbico. Incorreta. A
+monoterapia com metronidazol é inadequada, pois cobre apenas anaeróbios.
+Ciprofloxacino como monoterapia, pois cobre a maioria das bactérias entéricas. Incorreta.
+Ciprofloxacino não cobre anaeróbios e não é indicado isoladamente.
+Amoxicilina + clavulanato via oral, pois é eficaz contra germes gram-negativos e anaeróbios e
+pode ser usada ambulatorialmente. Incorreta. Amoxicilina + clavulanato pode ser usada
+ambulatorialmente em quadros leves, mas neste caso o paciente apresenta febre e achado
+tomográfico com gás pericólico, sugerindo indicação de internação e tratamento IV.
+Ceftriaxona IV associada a metronidazol IV, como cobertura empírica para gram-negativos
+entéricos e anaeróbios. Correta. O quadro clínico é compatível com diverticulite aguda não
+complicada. Segundo diretrizes atuais, a antibioticoterapia empírica deve cobrir bactérias
+anaeróbias (ex: Bacteroides fragilis) e gram-negativos entéricos (ex: E. coli). Assim, a associação
+ceftriaxona + metronidazol é uma das combinações padrão em contexto hospitalar.
+Referências:
+WEXNER, Steven D.; TOWNSEND, Courtney M.; BEAUCHAMP, R. Dan. Sabiston: tratado de
+cirurgia: bases biológicas da prática cirúrgica moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+FEINGOLD, Daniel et al. The American Society of Colon and Rectal Surgeons Clinical Practice
+Guidelines for the Treatment of Left-Sided Colonic Diverticulitis. Diseases of the Colon & Rectum,
+Philadelphia, v. 63, n. 5, p. 728–747, 2020. DOI: 10.1097/DCR.0000000000001679. Disponível em:
+https://pubmed.ncbi.nlm.nih.gov/32282318. Acesso em: 16 ago. 2025.
+BRANDT, Lawrence J.; WOLF, Barry R. Management of acute diverticulitis in adults. In:
+UpToDate. WOLTERS KLUWER, 2025. Disponível em: https://www.uptodate.com. Acesso em:
+16 ago. 2025.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 9 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Cuidado em saúde
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+[Habilidades]
+Avaliar a necessidade de antibioticoterapia empírica, comparando
+esquemas conforme o agente etiológico mais provável.
+[Tema]
+Abdome agudo inflamatório e suas complicações (apendicite,
+colecistite, diverticulite)
+6ª QUESTÃO
+
+Código da questão:
+
+141562
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDEP) Um homem de 55 anos, com histórico de hipertensão arterial sistêmica controlada e
+sobrepeso, comparece à unidade de emergência relatando dor abdominal intensa no quadrante
+superior direito, com irradiação para o dorso, de início há 8 horas. Ele descreve episódios prévios
+de dor semelhante, porém menos intensos e de menor duração, desencadeados após refeições
+gordurosas. Refere febre (38,5ºC) e náuseas, sem vômitos. Ao exame físico, apresenta-se
+taquicárdico (112 bpm), com icterícia conjuntival, dor à palpação no hipocôndrio direito. O
+hemograma revela leucocitose com desvio à esquerda e as enzimas hepáticas mostram
+elevação de ALT (145U/L), AST (132U/L), FA (400U/L) e bilirrubinas (bilirrubina total: 4 mg/dL,
+sendo 2,9 mg/dL de bilirrubina direta). A ultrassonografia abdominal evidenciou vesícula biliar
+distendida, com parede com 4 mm de espessura e presença de cálculos no interior da vesícula e
+colédoco dilatado (11 mm). Baseando-se no quadro clínico e nos exames complementares
+apresentados, assinale a alternativa que representa o diagnóstico mais provável.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 10 de 61
+
+Alternativas:
+(alternativa A)
+Colecistite aguda.
+(alternativa B)
+Pancreatite aguda.
+(alternativa C)
+Coledocolitíase sem colangite.
+(alternativa D) (CORRETA)
+Colangite aguda.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Alternativa correta: Colangite aguda.
+A colangite aguda é uma infecção bacteriana do sistema biliar, geralmente associada à obstrução
+do ducto biliar, frequentemente causada por cálculos (como observado na ultrassonografia),
+estase biliar ou alterações anatômicas. Os principais sinais clínicos incluem dor abdominal no
+quadrante superior direito, febre, icterícia, taquicardia e sinais de inflamação sistêmica, como
+leucocitose com desvio à esquerda. O quadro descrito no enunciado, com dor abdominal irradiada
+para o dorso, febre, icterícia e aumento das enzimas hepáticas (ALT, AST, FA e bilirrubinas),
+associado à presença de cálculos no colédoco dilatado, é característico de colangite aguda.
+Outras alternativas:
+Colecistite aguda: Embora o quadro de dor abdominal no hipocôndrio direito e a ultrassonografia
+evidenciem cálculos na vesícula biliar, a presença de febre alta, icterícia e aumento das enzimas
+hepáticas com colédoco dilatado sugere uma complicação, que é a colangite, e não a colecistite
+isolada.
+Pancreatite aguda: A pancreatite aguda pode ser uma causa de dor abdominal e aumento das
+enzimas hepáticas, mas a dor geralmente é mais difusa e a ultrassonografia não mostra cálculos
+biliares ou dilatação do colédoco, o que exclui essa possibilidade.
+Coledocolitíase sem colangite – Presença de cálculos no colédoco com colestase, mas sem
+infecção associada. No caso, febre e leucocitose indicam processo infeccioso, configurando
+colangite aguda e afastando o diagnóstico isolado de coledocolitíase.
+Referência:
+SANTOS, R. P., & SALGUEIRO, R. D. (2021). Diagnóstico e tratamento da colangite aguda.
+Jornal Brasileiro de Hepatologia, 32(2), 101-110.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 11 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIDEP
+[Habilidades]
+Relacionar achados clínicos e laboratoriais às diferentes afecções
+da árvore biliar, explicando o raciocínio diagnóstico.
+[Tema]
+Afecções da árvore biliar: colecistolítase, coledocolitíase, íleo biliar,
+colangiocarcinoma
+
+7ª QUESTÃO
+Código da questão:
+
+141956
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Santa Inês) Homem de 65 anos, com histórico de perda ponderal não intencional,
+fraqueza, alteração do hábito intestinal (alternância entre diarreia e constipação), e episódios de
+hematoquezia há cerca de dois meses, procura atendimento ambulatorial. Ao exame físico,
+encontra-se em bom estado geral, com discreta palidez cutaneomucosa e abdome indolor.
+Exames laboratoriais revelam anemia normocítica normocrômica. Foi realizada colonoscopia, que
+identificou lesão vegetante, infiltrativa e friável em sigmoide, com estenose luminal parcial.
+Tomografia computadorizada de abdome com contraste demonstrou espessamento irregular da
+parede do cólon sigmoide, com perda do plano gorduroso pericólico e presença de linfonodos
+mesentéricos aumentados.
+Com base no quadro clínico e nos achados de imagem, qual é a hipótese diagnóstica mais
+provável e a conduta adequada para confirmação diagnóstica?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 12 de 61
+
+Alternativas:
+(alternativa A)
+Doença inflamatória intestinal (retocolite ulcerativa atípica); indicar colonoscopia com biópsias
+múltiplas e iniciar tratamento conforme resultado histológico.
+(alternativa B)
+Colite isquêmica segmentar; indicar angiotomografia de abdome para avaliação vascular e
+confirmação diagnóstica.
+(alternativa C) (CORRETA)
+Câncer colorretal; realizar biópsia da lesão durante a colonoscopia para confirmação histológica.
+(alternativa D)
+Doença diverticular complicada; solicitar colonoscopia diagnóstica com biópsia após resolução do
+quadro inflamatório inicial.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Correta: Câncer colorretal – Perda ponderal, alteração do hábito intestinal, anemia e lesão
+vegetante infiltrativa com linfonodomegalia. Diretrizes NCCN/ESMO/SBCP indicam biópsia
+endoscópica para confirmação histológica.
+Comentário das alternativas incorretas:
+Doença diverticular complicada – Quadro não apresenta dor localizada, febre ou sinais
+inflamatórios agudos; achado endoscópico incompatível.
+Colite isquêmica segmentar – Lesão vegetante não é típica; colite isquêmica cursa com dor súbita
+e alterações inflamatórias difusas.
+Doença inflamatória intestinal (RCU atípica) – Padrão clínico e endoscópico não compatível;
+ausência de inflamação difusa e lesões contínuas típicas.
+Referência:
+BRANDT, Lawrence J. KATZUNG, Bertram G. ; GOLDMAN, Lee. Tratado de Medicina Interna.
+25. ed. Rio de Janeiro: Elsevier, 2023. Capítulo: Neoplasias colorretais.
+SABISTON, David C. Tratado de cirurgia: a base da cirurgia geral e especializada. 21. ed. Rio de
+Janeiro: Elsevier, 2022. Capítulo: Câncer colorretal.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 13 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Habilidades]
+Reconhecer achados sugestivos de malignidade em exames de
+colonoscopia e tomografia, propondo hipóteses diagnósticas e
+necessidade de confirmação histopatológica.
+[Tema]
+Câncer de cólon e reto (Diagnóstico clínico, laboratorial, radiológico
+e Condução clínica)
+8ª QUESTÃO
+
+Código da questão:
+
+141725
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA - Santa Inês) Homem, 61 anos, com dor abdominal, distensão e ausência de eliminação
+de fezes e gases há 5 dias. Refere constipação crônica e uso prolongado de laxativos, com piora
+nos últimos 3 meses. Ao exame: estado geral comprometido, desidratado, abdome distendido e
+doloroso, sem sinais de peritonite; toque retal revela lesão vegetante circunferencial a 4 cm da
+borda anal, sem fezes em ampola. TC abdominal mostra distensão colônica e espessamento do
+reto médio/distal com linfonodomegalia em mesorreto. Qual é a melhor conduta neste caso?
+Alternativas:
+(alternativa A)
+Cirurgia de Hartmann, com linfadenectomia colônica e retal.
+(alternativa B)
+Neoadjuvância seguida de proctocolectomia parcial, com margens livres e linfadenectomia.
+(alternativa C)
+Proctocolectomia parcial, com linfadenectomia e sutura mecânica colorretal.
+(alternativa D) (CORRETA)
+Colostomia em alça.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 14 de 61
+
+Resposta comentada:
+Cirurgia de Hartmann, com linfadenectomia colônica e retal. Incorreta.
+Justificativa: A cirurgia de Hartmann é opção em urgências de câncer de reto alto ou sigmoide
+perfurado/obstruído, quando não é possível anastomose. Problema: o tumor é reto médio/distal,
+em obstrução, e não há preparo nem condições clínicas para ressecção oncológica imediata
+segura. Além disso, a Hartmann não é a escolha para tumores baixos com intenção futura de
+preservação esfincteriana.
+Proctocolectomia parcial, com linfadenectomia e sutura mecânica colorretal. Incorreta.
+Justificativa: Envolve ressecção com anastomose imediata, o que não é indicado neste contexto:
+paciente desidratado, distendido, em urgência. Anastomose nesse cenário tem alto risco de
+deiscência e complicações.
+Colostomia em alça. Correta.
+Justificativa: Em câncer de reto distal com obstrução aguda, a conduta de escolha é derivação de
+urgência (colostomia em alça) para descompressão do cólon. Isso estabiliza o paciente e permite
+que seja submetido posteriormente ao tratamento oncológico ideal (quimiorradioterapia
+neoadjuvante + ressecção com margens e linfadenectomia) em condições adequadas.
+Neoadjuvância seguida de proctocolectomia parcial, com margens livres e linfadenectomia.
+Incorreta.
+Justificativa: Embora seja o tratamento definitivo ideal para câncer de reto médio/distal
+(quimiorradioterapia neoadjuvante + cirurgia), não pode ser iniciado agora porque o paciente está
+com obstrução grave e precisa primeiro de descompressão intestinal.
+Referência:
+Cláudio. Manual de clínica cirúrgica: cirurgia geral e especialidades. 2. ed. Rio de Janeiro:
+Guanabara Koogan, 2012.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 15 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA SANTA INÊS
+[Habilidades]
+Reconhecer achados sugestivos de malignidade em exames de
+colonoscopia e tomografia, propondo hipóteses diagnósticas e
+necessidade de confirmação histopatológica.
+[Tema]
+Câncer de cólon e reto (Diagnóstico clínico, laboratorial, radiológico
+e Condução clínica)
+9ª QUESTÃO
+
+Código da questão:
+
+141972
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA - Santa Inês) Um homem de 68 anos, ex-tabagista (40 anos-maço), com diagnóstico de
+DPOC moderado e hipertensão arterial controlada, é avaliado em consulta pré-operatória
+ambulatorial para colecistectomia videolaparoscópica eletiva. Refere dispneia aos esforços
+habituais, mas sem ortopneia, dor torácica ou síncope. Está em uso regular de tiotrópio e
+losartana.
+Ao exame físico:
+FC: 84 bpm | PA: 128/82 mmHg | SpO₂: 91% em ar ambiente
+MV diminuído difusamente, sem ruídos adventícios.
+ECG: ritmo sinusal, sem alterações isquêmicas ou de sobrecarga.
+RX de tórax: hiperinsuflação pulmonar, sem sinais de congestão.
+Com base na avaliação clínica e nos achados complementares, qual das condutas abaixo é a
+mais adequada para garantir a segurança perioperatória?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 16 de 61
+
+Alternativas:
+(alternativa A)
+Encaminhar para avaliação cardiológica com teste ergométrico, devido à idade e ao histórico de
+hipertensão.
+(alternativa B) (CORRETA)
+Adiar o procedimento e solicitar avaliação pneumológica, devido à dispneia e saturação borderline.
+(alternativa C)
+Indicar ecocardiograma e avaliação cardiológica, pois o paciente possui idade avançada e ECG
+normal não exclui isquemia.
+(alternativa D)
+Liberar o paciente para cirurgia, pois sua condição clínica é estável e a cirurgia é de baixo risco.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Comentário das alternativas:
+Liberar o paciente para cirurgia, pois sua condição clínica é estável e a cirurgia é de baixo risco.
+Incorreta. Apesar de a cirurgia ser de baixo risco cardiovascular, o paciente apresenta sinais de
+possível instabilidade clínica respiratória (dispneia habitual e saturação de 91%). Isso exige
+investigação adicional, especialmente em um ex-tabagista com DPOC.
+Encaminhar para avaliação cardiológica com teste ergométrico, devido à idade e ao histórico de
+hipertensão.
+Incorreta. A avaliação cardiológica pode ser necessária em outros contextos, mas não é prioritária
+aqui, pois o paciente não apresenta sintomas cardíacos ativos, nem risco cardiovascular elevado.
+A principal limitação está no sistema respiratório.
+Adiar o procedimento e solicitar avaliação pneumológica, devido à dispneia e saturação borderline.
+Correta. O paciente apresenta doença pulmonar com potencial risco perioperatório, manifestada
+por dispneia aos esforços habituais e saturação limítrofe, mesmo sem exacerbação aguda. A
+avaliação pneumológica especializada pode indicar ajustes terapêuticos, reabilitação préoperatória ou até adiamento do procedimento, aumentando a segurança da intervenção.
+Indicar ecocardiograma e avaliação cardiológica, pois o paciente possui idade avançada e ECG
+normal não exclui isquemia.
+Incorreta. Embora o ecocardiograma possa ser útil em outras situações, não há sinais clínicos ou
+laboratoriais que apontem para disfunção cardíaca neste caso. O foco deve ser a função
+pulmonar.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo de avaliação pré-operatória de risco cirúrgico. Brasília:
+Ministério da Saúde, 2018. Disponível em: https://www.gov.br/saude/. Acesso em: 30 jul. 2025.
+GOLDMAN, Lee; AUSIELLO, Dennis. Medicina Interna. 24. ed. Rio de Janeiro: Elsevier, 2022.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 17 de 61
+
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Interpretação de exames
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Habilidades]
+Identificar o encaminhamento para avaliação especializada
+(cardiologia, pneumologia), promovendo segurança no ato
+cirúrgico.
+[Tema]
+Cuidados pré-operatórios; Risco cirúrgico (ASA - Goldman)
+
+10ª QUESTÃO
+Código da questão:
+
+141407
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FASA - Vic) Um homem de 46 anos procura atendimento médico por apresentar sangramento
+anal intermitente há dois meses, sempre visível no papel higiênico, associado à dor intensa
+durante e após a evacuação. Relata também sensação de “corte” e prurido anal. Nega perda de
+peso, alterações no hábito intestinal ou história familiar de câncer colorretal. No exame físico,
+observa-se hipertonia esfincteriana e uma lesão linear dolorosa na linha média posterior do canal
+anal.
+Qual é a conduta mais adequada frente a esse quadro?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 18 de 61
+
+Alternativas:
+(alternativa A) (CORRETA)
+Tratar como fissura anal aguda, com medidas clínicas locais.
+(alternativa B)
+Iniciar tratamento tópico para hemorroidas e solicitar colonoscopia.
+(alternativa C)
+Prescrever anti-inflamatórios para o abscesso perianal e retorno em 7 dias.
+(alternativa D)
+Indicar antibiótico oral e drenagem cirúrgica precoce da fístula anal.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Resposta correta: Tratar como fissura anal aguda, com medidas clínicas locais.
+Segundo o Sabiston, fissuras anais agudas são comuns, dolorosas e associadas à hipertonia do
+esfíncter. O tratamento inicial é clínico: banhos de assento, laxativos, analgésicos locais e
+pomadas com nitrato ou bloqueadores de canal de cálcio. A colonoscopia só é indicada na
+persistência dos sintomas ou se houver critérios de alarme.
+Análise das demais alternativas:
+Iniciar tratamento tópico para hemorroidas e solicitar colonoscopia.
+Justificativa: O sangramento descrito (no papel higiênico, com dor intensa à evacuação) é mais
+compatível com fissura anal aguda. A ausência de sintomas de alarme, como perda de peso,
+alteração do hábito intestinal ou história familiar, reduz a necessidade de investigação
+endoscópica imediata.
+Indicar antibiótico oral e drenagem cirúrgica precoce da fístula anal.
+Justificativa: A fístula anal geralmente se manifesta como drenagem crônica por orifício externo, e
+não com dor intensa durante evacuação. A descrição clínica e o exame físico não sustentam
+esse diagnóstico.
+Prescrever anti-inflamatórios para o abscesso perianal e retorno em 7 dias.
+Justificativa: O abscesso perianal costuma causar dor intensa constante (não apenas durante a
+evacuação), febre e tumefação visível ou palpável. Não é o caso descrito.
+Referência:
+TOWNSEND, Courtney M. et al. Sabiston tratado de cirurgia: a base biológica da prática cirúrgica
+moderna. 20. ed. Rio de Janeiro: Elsevier, 2019.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 19 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+[Habilidades]
+Relacionar sintomas proctológicos à necessidade de avaliação
+proctológica, explicando critérios de alarme.
+[Tema]
+Doenças orificiais: Doença hemorroidária, fissura anal, fístula anal,
+abscesso anorretal
+11ª QUESTÃO
+
+Código da questão:
+
+142032
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA - Itabuna) Um paciente de 56 anos, etilista crônico, com diagnóstico prévio de pancreatite
+aguda há 6 semanas, evolui com dor abdominal persistente, febre intermitente e perda ponderal. A
+tomografia de abdome mostra coleção encapsulada de 9 cm na região pancreática, com conteúdo
+líquido e áreas sugestivas de necrose. A função renal está preservada e os exames laboratoriais
+mostram leucocitose com elevação de proteína C reativa.
+Considerando o quadro clínico e os achados de imagem, a conduta mais apropriada neste
+momento é:
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 20 de 61
+
+Alternativas:
+(alternativa A)
+iniciar antibioticoterapia intravenosa e aguardar melhora clínica, postergando qualquer
+procedimento invasivo por pelo menos mais 4 semanas.
+(alternativa B)
+manter conduta expectante, uma vez que a maioria das coleções pancreáticas se resolve
+espontaneamente após 8 semanas.
+(alternativa C) (CORRETA)
+programar drenagem da coleção por via endoscópica guiada por imagem, pois há sintomas
+persistentes e sinais de infecção associados à coleção encapsulada.
+(alternativa D)
+indicar cirurgia de Whipple, pois o tamanho da lesão e a febre sugerem neoplasia de cabeça de
+pâncreas com infecção secundária.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Coleções encapsuladas com sinais de infecção e sintomas persistentes após mais de 4 semanas
+de pancreatite indicam drenagem, preferencialmente por via endoscópica transgástrica guiada por
+imagem, devido ao menor risco e boa eficácia.
+A conduta expectante só é válida na ausência de sintomas e sinais infecciosos. Neste caso, a dor
+e a febre sugerem complicação.
+O uso isolado de antibióticos sem drenagem, na presença de coleção infectada, é insuficiente e
+pode levar à deterioração clínica.
+A cirurgia de Whipple é indicada para tumores ressecáveis de cabeça de pâncreas, e não deve
+ser indicada com base apenas em imagem sugestiva de coleção.
+Referências:
+SABISTON, David C. Tratado de cirurgia: fundamentos biológicos da prática cirúrgica moderna.
+21. ed. Rio de Janeiro: Elsevier, 2022.
+BANKS, Peter A. et al. Classification of acute pancreatitis - 2012: revision of the Atlanta
+classification and definitions by international consensus. Gut, 62(1), p. 102–111, 2013.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 21 de 61
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA ITABUNA
+[Habilidades]
+Analisar indicações de intervenção endoscópica ou cirúrgica em
+complicações da pancreatite, justificando a conduta.
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Afecções do pâncreas (Pancreatite aguda e crônica, pseudocisto,
+neoplasias cís ticas, adenocarcinoma):
+diagnós tico/tratamento/complicações
+12ª QUESTÃO
+
+Código da questão:
+
+142040
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Itabuna) Um homem de 54 anos, pedreiro, com histórico de tabagismo e DPOC leve,
+procura atendimento ambulatorial relatando abaulamento intermitente na região inguinal direita há
+8 meses, que aumenta ao realizar esforço físico e reduz espontaneamente em repouso. Nega dor
+intensa, náuseas, vômitos ou febre. No exame físico, é possível reduzir manualmente o conteúdo
+herniário, sem sinais inflamatórios locais ou encarceramento. O cirurgião assistente indica
+hernioplastia eletiva.
+Considerando os dados clínicos e as recomendações atuais, qual é a conduta cirúrgica mais
+adequada quanto ao uso de tela (prótese) nesse caso?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 22 de 61
+
+Alternativas:
+(alternativa A)
+Postergar a cirurgia e indicar tratamento clínico, pois hérnias redutíveis e assintomáticas não
+exigem abordagem cirúrgica em pacientes com comorbidades.
+(alternativa B) (CORRETA)
+Indicar correção cirúrgica com tela, pois se trata de hérnia inguinal primária em paciente adulto
+com boa resposta imunológica e baixo risco de contaminação.
+(alternativa C)
+Realizar herniorrafia convencional sem tela, uma vez que se trata de hérnia redutível e não
+complicada, com risco mínimo de recidiva.
+(alternativa D)
+Evitar o uso de tela, pois o tabagismo e a DPOC aumentam o risco de infecção e complicações
+relacionadas ao implante protético.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+O uso de tela em hérnias inguinais primárias em adultos é o padrão ouro, inclusive em pacientes
+com comorbidades controladas, pois reduz drasticamente a taxa de recidiva. A ausência de
+sinais de infecção e a possibilidade de cirurgia eletiva favorecem essa abordagem.
+Embora tabagismo e DPOC aumentem o risco de complicações, não contraindicam o uso de tela
+quando não há infecção ativa ou contaminação.
+A herniorrafia sem tela apresenta taxas significativamente maiores de recidiva, especialmente em
+adultos.
+Hérnias inguinais em adultos sintomáticos e com restrições funcionais devem ser operadas
+eletivamente, mesmo se redutíveis, para evitar complicações futuras.
+Referências:
+Fitzgibbons, R. J. et al. Management of inguinal hernias. The New England Journal of Medicine, v.
+372, n. 8, p. 756–763, 2015.
+SABISTON, David C. Tratado de cirurgia: fundamentos biológicos da prática cirúrgica moderna.
+21. ed. Rio de Janeiro: Elsevier, 2022.
+Sociedade Brasileira de Hérnia. Diretrizes para tratamento de hérnias da parede abdominal. SBH,
+2021.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 23 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico e conduta
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ITABUNA
+[Habilidades]
+Reconhecer o papel do uso de telas na correção de hérnias,
+descrevendo os fatores clínicos que influenciam essa decisão.
+[Tema]
+Hérnias de Parede Abdominal
+13ª QUESTÃO
+
+Código da questão:
+
+141690
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIFIPMOC) Durante o fechamento da parede abdominal, após apendicectomia
+convencional por incisão na fossa ilíaca direita, o cirurgião identificou quatro planos
+anatômicos: peritônio, musculatura, aponeurose e subcutâneo. Em seguida, pediu
+ao auxiliar que indicasse o tipo de fio cirúrgico mais adequado para a síntese de
+cada uma dessas camadas, conforme sua absorção pelo organismo (absorvível ou
+inabsorvível).
+Nesse contexto, é correto afirmar que:
+Alternativas:
+(alternativa A) (CORRETA)
+para a síntese muscular, quando necessária, utiliza-se fio absorvível de curta duração, pois esse
+plano tecidual não apresenta tensão significativa na cicatrização.
+(alternativa B)
+para a síntese do peritônio, utiliza-se fio inabsorvível, pois esse material causa menor reação
+inflamatória cicatricial e reduz a formação de aderências.
+(alternativa C)
+para a síntese aponeurótica, utiliza-se fio absorvível de curta duração, pois a cicatrização desse
+plano tecidual ocorre de maneira rápida e segura.
+(alternativa D)
+para a síntese do subcutâneo, quando indicada, utiliza-se fio inabsorvível, pois esse material
+induz menor reação inflamatória local e possui maior resistência.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 24 de 61
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Para a síntese do subcutâneo, quando indicada, utiliza-se fio inabsorvível, pois esse material
+induz menor reação inflamatória local e possui maior resistência. (Incorreto)
+- O fechamento do tecido celular subcutâneo, por vezes, é indicado apenas para evitar espaço
+morto, sem ter exatamente a função de contenção. Por isso, utilizam-se fios absorvíveis,
+preferencialmente em médio espaço de tempo. O uso de fios inabsorvíveis, ainda que de
+diâmetro pequeno, pode levar à formação de pequenas saliências sob a pele (nós cirúrgicos) e
+causar incômodos para os pacientes.
+Para a síntese muscular, quando necessária, utiliza-se fio absorvível de curta duração, pois esse
+plano tecidual não apresenta tensão significativa na cicatrização. (Correto)
+- Os músculos, em geral, são apenas divulsionados no tempo fundamental da diérese. No
+entanto, quando forem seccionados e houver a necessidade de sutura, esta deve ser realizada
+apenas no sentido de aproximação das suas bordas, sem tensão. Por isso, utilizam-se fios
+absorvíveis em curto ou moderado espaço de tempo. A propriedade de contenção e resistência,
+nesse nível, é garantida pelas aponeuroses que envolvem a musculatura.
+Para a síntese aponeurótica, utiliza-se fio absorvível de curta duração, pois a cicatrização desse
+plano tecidual ocorre de maneira rápida e segura. (Incorreto)
+- A aponeurose, geralmente, é um tecido espesso que tem por finalidade principal conter grupos
+musculares ou estruturas articulares, estando submetido a linhas de força importantes, o que
+acaba dificultando o processo cicatricial. Por isso, no fechamento aponeurótico das incisões
+abdominais, para manter a união das bordas por período suficiente à sua cicatrização, devem ser
+utilizados fios inabsorvíveis ou absorvíveis em longo espaço de tempo.
+Para a síntese do peritônio, utiliza-se fio inabsorvível, pois esse material causa menor reação
+inflamatória cicatricial e reduz a formação de aderências. (Incorreto)
+- O peritônio parietal, além de possuir a característica de rápida cicatrização, não é
+fundamentalmente um tecido de sustentação. Por isso, sua síntese tem a finalidade apenas de
+orientar o processo cicatricial, plano por plano, e deve ser realizada com fios absorvíveis em curto
+ou moderado espaço de tempo. Entretanto, diversos trabalhos contraindicam seu fechamento, por
+aumentar a incidência de aderências aos órgãos da cavidade abdominal.
+Referências:
+MARQUES, Ruy Garcia. Técnica operatória e cirurgia experimental. Rio de Janeiro: Guanabara
+Koogan, 2005.
+FAGUNDES, Djalma J.; TAHA, Murched O. Técnica cirúrgica: princípios e atualizações. Barueri:
+Manole, 2023. E-book. p. 238. ISBN 9788520464007. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520464007/. Acesso em: 16 ago. 2025.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 25 de 61
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIFIPMOC
+[Habilidades]
+Diferenciar fios absorvíveis e não absorvíveis, explicando suas
+indicações em procedimentos cirúrgicos específicos.
+[Competências (Objetivos)]
+Práticas, técnicas e procedimentos
+[Tema]
+Tipos de fios, suturas e feridas
+14ª QUESTÃO
+
+Código da questão:
+
+141630
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Ipatinga) Homem, 62 anos, obeso, tabagista, é submetido a laparotomia exploradora após
+trauma abdominal, sendo realizada enterectomia com anastomose término-terminal. No 2º dia de
+pós-operatório, evolui com taquipneia (FR 26 irpm), leve dessaturação (SpO₂ 92% em ar
+ambiente) e ausculta com murmúrio vesicular diminuído na base pulmonar direita, sem ruídos
+adventícios.
+Não apresenta febre. Hemograma sem leucocitose. Solicitada radiografia de tórax, que evidencia
+aumento da trama reticular principalmente em base à direita, associada a desvio de traqueia
+ipsilateral e sem imagem de broncogramas aéreos.
+Considerando o quadro clínico e os achados radiológicos, qual é a conduta mais apropriada neste
+momento?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 26 de 61
+
+Alternativas:
+(alternativa A)
+Indicar broncoscopia diagnóstica e aspirativa para liberação de secreções e coleta de amostras
+para cultura.
+(alternativa B)
+Iniciar antibioticoterapia de amplo espectro e solicitar tomografia de tórax para afastar pneumonia
+nosocomial.
+(alternativa C) (CORRETA)
+Estimular deambulação, otimizar fisioterapia respiratória e analgesia adequada, mantendo
+vigilância clínica.
+(alternativa D)
+Iniciar oxigenoterapia com FiO₂ elevada e realizar gasometria arterial imediata para intubação
+orotraqueal.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+O paciente apresenta quadro clássico de atelectasia basal pós-operatória, uma das complicações
+respiratórias mais comuns em grandes cirurgias abdominais, especialmente em pacientes
+obesos, tabagistas e submetidos a laparotomia. O segundo dia pós-operatório é o período de pico
+para atelectasias, e os achados clínicos e radiológicos corroboram esse diagnóstico:
+Ausculta reduzida sem estertores ou sibilos.
+RX de tórax com aumento da trama reticular e desvio de traqueia ipsilateral, sem broncograma
+aéreo (sugestivo de colapso alveolar e não consolidação);
+Ausência de febre, leucocitose ou secreção produtiva.
+Conduta correta: medidas conservadoras, com deambulação precoce, incentivo respiratório e boa
+analgesia. Essas intervenções restauram a expansão pulmonar e evitam progressão para
+pneumonia.
+Discussão das alternativas incorretas:
+A pneumonia pode surgir no pós-operatório, porém cursa com quadro infeccioso, apresentando
+febre, leucocitose, secreção purulenta e achado de broncograma aéreo ao RX. Não há critérios
+clínicos para iniciar antibiótico neste momento.
+Broncoscopia é reservada para falhas de desobstrução com medidas conservadoras, ou suspeita
+de corpo estranho ou obstrução mecânica persistente — o que não se aplica aqui.
+Oxigenoterapia com FiO₂ elevada e gasometria imediata são indicadas em casos de hipoxemia
+grave ou sinais de insuficiência respiratória, o que não ocorre no caso (SpO₂ de 92% em ar
+ambiente é tolerável neste contexto).
+Referência:
+TOWNSEND, C. M. Jr. et al. Sabiston: tratado de cirurgia – a base biológica da prática cirúrgica
+moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 27 de 61
+
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Cuidado em saúde
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA IPATINGA
+[Habilidades]
+Aplicar condutas preventivas no pós-operatório imediato,
+promovendo segurança e recuperação funcional.
+[Tema]
+Complicações e cuidados pós-operatórios; Infecção em cirurgia Hematoma - Seroma - Deiscência - Evisceração
+
+15ª QUESTÃO
+Código da questão:
+
+141403
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FASA - VIC) Um homem de 64 anos, hipertenso e diabético, dá entrada no pronto-socorro com
+dor abdominal difusa de início há 48 horas, inicialmente em fossa ilíaca esquerda, acompanhada
+de febre (38,5 °C), náuseas e parada da eliminação de fezes e flatos há 24h. Ao exame físico,
+está taquicárdico (FC 112 bpm), hipotenso (PA 80/50 mmHg), com abdome distendido, doloroso
+difusamente. A tomografia computadorizada mostra espessamento de sigmoide com presença de
+ar extraluminal pericolônico e líquido livre.
+Com base nos dados clínicos, qual deve ser a conduta imediata?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 28 de 61
+
+Alternativas:
+(alternativa A)
+Alta hospitalar com prescrição de antibiótico oral, analgesia e retorno ambulatorial em 48 horas
+para reavaliação clínica.
+(alternativa B) (CORRETA)
+Laparotomia exploradora de urgência, devido à presença de sinais de peritonite e instabilidade
+hemodinâmica.
+(alternativa C)
+Internação para antibioticoterapia venosa, hidratação e observação clínica, com possível
+drenagem percutânea se houver piora do quadro.
+(alternativa D)
+Colonoscopia com sedação e preparo intestinal para confirmação diagnóstica antes de definir
+abordagem cirúrgica.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Laparotomia exploradora de urgência, devido à presença de sinais de peritonite e instabilidade
+hemodinâmica.
+Segundo o Sabiston, 20ª ed., pacientes com sinais de peritonite difusa ou instabilidade
+hemodinâmica devem ser encaminhados para cirurgia imediata, uma vez que há alto risco de
+perfuração ou necrose intestinal.
+Análise das demais alternativas:
+Internação para antibioticoterapia venosa, hidratação e observação clínica, com possível
+drenagem percutânea se houver piora do quadro.
+Essa conduta é aceitável em casos de diverticulite com abscesso bem localizado e paciente
+estável. Neste caso, há instabilidade hemodinâmica e sinais de peritonite generalizada, o que
+contraindica tratamento conservador.
+Colonoscopia com sedação e preparo intestinal para confirmação diagnóstica antes de definir
+abordagem cirúrgica.
+A colonoscopia está contraindicada na fase aguda da diverticulite complicada devido ao risco de
+perfuração, além de atrasar o tratamento cirúrgico em um paciente instável.
+Alta hospitalar com prescrição de antibiótico oral, analgesia e retorno ambulatorial em 48 horas
+para reavaliação clínica.
+Essa conduta é indicada em casos muito leves de diverticulite sem sinais sistêmicos. Neste
+caso, há sinais clínicos e tomográficos de complicação grave, além de instabilidade
+hemodinâmica, o que contraindica o manejo ambulatorial.
+Referência:
+TOWNSEND, Courtney M. et al. Sabiston. Tratado de cirurgia: a base biológica da prática
+cirúrgica moderna. 20ª ed. Rio de Janeiro: Elsevier, 2019.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 29 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+Diagnóstico e conduta
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+[Habilidades]
+Indicar o encaminhamento urgente para cirurgia, fundamentando a
+conduta diante de sinais de peritonite ou instabilidade
+hemodinâmica.
+[Tema]
+Abdome agudo inflamatório e suas complicações (apendicite,
+colecistite, diverticulite)
+
+16ª QUESTÃO
+Código da questão:
+
+141966
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Cruzeiro do Sul) Paciente do sexo feminino, 62 anos, previamente hígida, procura
+atendimento por dor abdominal leve em hipocôndrio esquerdo e perda de 5 kg nos últimos 3
+meses. Nega consumo de álcool. Sem histórico de pancreatite. Exames laboratoriais mostram
+amilase e lipase normais, CA 19-9 dentro dos limites da normalidade. A tomografia
+computadorizada (TC) contrastada de abdome mostra lesão cística de 5,5 cm na cauda do
+pâncreas, com conteúdo homogêneo hipodenso, sem calcificações, mas com espessamento
+discreto da parede e septações finas internas, sem nódulos murais visíveis.
+Diante desse caso, indique o diagnóstico mais provável e a conduta apropriada.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 30 de 61
+
+Alternativas:
+(alternativa A)
+Pseudocisto pancreático – acompanhar com exames de imagem seriados, uma vez que a
+paciente está assintomática e sem histórico de pancreatite.
+(alternativa B)
+IPMN (Intraductal Papillary Mucinous Neoplasm) de ducto secundário – acompanhamento clínicoradiológico, pois a ausência de nódulos murais permite conduta conservadora.
+(alternativa C)
+Cistoadenoma seroso – conduta expectante, por ser lesão benigna com baixo risco de
+complicações.
+(alternativa D) (CORRETA)
+Neoplasia mucinosa cística – indicação cirúrgica devido ao potencial maligno, especialmente em
+mulheres e lesões > 4 cm.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+A ausência de história de pancreatite e a presença de comunicação com o ducto pancreático
+secundário, mesmo sem nódulos murais, afastam o diagnóstico de pseudocisto.
+A neoplasia mucinosa cística (NMC) geralmente ocorre em mulheres de meia-idade, mas
+raramente se comunica com o ducto pancreático, e costuma localizar-se na cauda — o que pode
+confundir o diagnóstico.
+O diagnóstico é de IPMN (intraductal papillary mucinous neoplasm) de ducto secundário. Nesse
+tipo, a conduta depende da presença de fatores de alto risco ou critérios de preocupação, como:
+Nódulos murais realçados:
+Ducto pancreático principal > 10 mm.
+Sintomas relacionados à lesão (dor e perda ponderal).
+Neste caso, os sintomas e a localização da lesão nos sugerem a indicação cirúrgica.
+Referência:
+Townsend, Courtney M., Jr.; Beauchamp, R. Daniel; Evers, B. Mark; Mattox, Kenneth L. (Eds.)
+Sabiston Textbook of Surgery: The Biological Basis of Modern Surgical Practice, 21.ª ed.,
+Elsevier/Saunders, Philadelphia, 2021. ISBN 978‑0323640633.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 31 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Interpretação de exames
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA CRUZEIRO DO SUL
+[Habilidades]
+Interpretar exames de imagem (TC, USG, RNM) em casos de
+pseudocisto pancreático, diferenciando de neoplasias císticas.
+[Tema]
+Afecções do pâncreas (Pancreatite aguda e crônica, pseudocisto,
+neoplasias cís ticas, adenocarcinoma):
+diagnós tico/tratamento/complicações
+
+17ª QUESTÃO
+Código da questão:
+
+141913
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Paciente feminina, 17 anos de idade, dá entrada na emergência com queixa de
+dor abdominal localizada na ferida operatória. Relata que foi submetida a cirurgia de
+apendicectomia necrosada há cerca de 10 dias, tendo evoluído satisfatoriamente com alta no
+quinto dia pós-operatório. Revela que há cerca de 3 dias iniciou dor abdominal na ferida operatória,
+e que tem piorado. Apresenta discreta celulite local. Ao exame físico, está em bom estado geral,
+afebril, presença de discreto abaulamento na ferida operatória, que se mantém íntegra e com
+hiperemia local. O exame de US da parede abdominal revelou a presença de coleção líquida em
+espaço subcutâneo de aproximadamente 20 ml. Considerando o caso em questão, marque a
+alternativa que apresenta, respectivamente, a principal hipótese diagnóstica e a conduta a ser
+realizada.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 32 de 61
+
+Alternativas:
+(alternativa A)
+Deiscência de ferida operatória e antibioticoterapia por 10 dias.
+(alternativa B)
+Hérnia incisional e cirurgia reparadora.
+(alternativa C)
+Seroma de ferida operatória e drenagem cirúrgica.
+(alternativa D) (CORRETA)
+Abscesso de ferida operatória e drenagem cirúrgica.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Resposta correta.
+Seroma de ferida operatória e drenagem cirúrgica - seroma em geral não apresenta dor ou celulite
+local.
+Trata-se de um caso de uma complicação cirúrgica – abscesso de ferida operatória, que evolui
+com dor e aumento de volume discreto e com sinais infecciosos ou inflamatórios locais. O exame
+de US confirma a presença da coleção líquida e a conduta é drenagem cirúrgica.
+Deiscência de ferida operatória e antibioticoterapia por 10 dias. Incorreta, pois não apresenta
+sinais de deiscência de ferida operatória.
+Hérnia incisional e cirurgia reparadora. Incorreta, pois o US de parede abdominal confirmou a
+presença de coleção líquida local no subcutâneo.
+Referência:
+DOHERTY, Gerard M. CURRENT. Cirurgia. 14. ed. Porto Alegre: AMGH, 2017. E-book. p.i. ISBN
+9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580556018/. Acesso em: 04 jul. 2025.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 33 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Cuidado em saúde
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA PARAÍBA
+[Habilidades]
+Avaliar necessidade de reabordagem cirúrgica frente a
+complicações graves, defendendo a indicação terapêutica.
+[Tema]
+Complicações e cuidados pós-operatórios; Infecção em cirurgia Hematoma - Seroma - Deiscência - Evisceração
+18ª QUESTÃO
+
+Código da questão:
+
+141590
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA - Ipatinga) Paciente masculino, 12 anos, procura a UPA com a mãe por dor abdominal há
+2 dias. Relata início com cólica difusa, posteriormente localizada em fossa ilíaca direita. Refere
+inapetência, náuseas, vômitos e febre (38,5 °C durante a madrugada). Sinais vitais: FC 98 bpm,
+PA 110×70 mmHg, Temp 38 °C. Ao exame: corado, levemente desidratado, lúcido. Abdômen
+plano, doloroso em fossa ilíaca direita, com plastrão palpável e sinal de descompressão brusca
+positivo.
+Com base no quadro clínico, qual é a principal hipótese diagnóstica?
+Alternativas:
+(alternativa A)
+Adenite mesesentérica.
+(alternativa B) (CORRETA)
+Apendicite aguda.
+(alternativa C)
+Intuscepção intestinal.
+(alternativa D)
+Gastroenterocolite aguda.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 34 de 61
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+O caso descreve um paciente de 12 anos com dor abdominal inicialmente difusa, que migrou para
+a fossa ilíaca direita, associada a febre, náuseas, vômitos, inapetência e presença de plastrão
+palpável no exame físico, além de sinal de descompressão brusca positivo. Esse conjunto de
+achados é altamente sugestivo de apendicite aguda, especialmente em idade pediátrica.
+Para reforçar o raciocínio clínico, aplicamos o Escore de Alvarado, ferramenta útil na
+estratificação de risco para apendicite. O paciente pontua em:
+Migração da dor para FID – 1 ponto.
+Anorexia – 1 ponto.
+Náuseas e vômitos – 1 ponto.
+Dor à descompressão brusca (sinal de Blumberg) – 1 ponto.
+Temperatura > 37,5 °C – 1 ponto.
+
+Total: 5 pontos, o que corresponde a risco moderado, justificando a avaliação cirúrgica imediata e
+exames complementares (como hemograma, imagem abdominal, etc.).
+
+Discussão das alternativas:
+Adenite mesentérica é uma causa comum de dor abdominal em crianças e pode mimetizar
+apendicite. No entanto, geralmente está associada a um quadro viral prévio, como infecções de
+vias aéreas superiores — o que não foi relatado no caso. Além disso, não costuma gerar plastrão
+ou sinais de peritonite.
+Intussuscepção intestinal ocorre mais frequentemente em crianças menores (3 meses a 3 anos).
+O quadro típico inclui dor abdominal intermitente, fezes em “geleia de morango” e sinais de
+obstrução. A faixa etária e o padrão clínico do caso não são compatíveis.
+Gastroenterocolite aguda pode causar sintomas inespecíficos como febre, vômitos e dor
+abdominal em cólica. No entanto, não apresenta dor migratória, plastrão palpável, nem sinais de
+irritação peritoneal, o que afasta essa hipótese.
+Conclusão:
+A questão exige que o aluno reconheça um quadro clínico típico de apendicite aguda, integre os
+achados ao escore de Alvarado e exclua os principais diagnósticos diferenciais com base nos
+dados da história e exame físico. O objetivo é estimular o raciocínio clínico, reforçando a
+importância de uma abordagem sistemática frente à dor abdominal em crianças.
+
+Referência:
+TOWNSEND, C. M. Jr. et al. Sabiston: tratado de cirurgia – a base biológica da prática cirúrgica
+moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 35 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA IPATINGA
+[Habilidades]
+Identificar sinais clínicos de apendicite, colecistite ou diverticulite,
+descrevendo suas manifestações mais comuns.
+[Tema]
+Abdome agudo inflamatório e suas complicações (apendicite,
+colecistite, diverticulite)
+19ª QUESTÃO
+
+Código da questão:
+
+141974
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Santa Inês) Uma mulher de 54 anos, obesa (IMC 34), hipertensa e diabética tipo 2, foi
+submetida a histerectomia abdominal total eletiva. No 5º dia pós-operatório, relata dor intensa em
+ferida operatória, acompanhada de leve febre (T 37,9 °C) e presença de abaulamento e rubor em
+região inferior da incisão.
+No exame físico, observa-se ferida cirúrgica com eritema local, calor, flutuação central e saída de
+secreção serossanguinolenta sob leve pressão. A paciente apresenta também dor à palpação do
+local, mas está hemodinamicamente estável e sem sinais de peritonite.
+Com base nesse quadro clínico, qual a conduta mais adequada em relação à antibioticoterapia e
+ao manejo da dor?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 36 de 61
+
+Alternativas:
+(alternativa A)
+Administrar analgésicos opioides fortes para controle da dor e observar a evolução clínica antes
+de iniciar a antibioticoterapia.
+(alternativa B) (CORRETA)
+Realizar drenagem da coleção subcutânea, instituir analgesia combinada (dipirona e opioide leve)
+e iniciar antibiótico direcionado à cobertura de pele e partes moles.
+(alternativa C)
+Indicar curativos locais, prescrever analgésico simples para controle da dor e iniciar
+antibioticoterapia oral por período reduzido.
+(alternativa D)
+Utilizar anti-inflamatórios não esteroidais para controle da dor e iniciar antibioticoterapia de amplo
+espectro por via intravenosa.
+
+Grau de dificuldade:
+
+Médio
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 37 de 61
+
+Resposta comentada:
+Realizar drenagem da coleção subcutânea, instituir analgesia combinada (dipirona e opioide leve)
+e iniciar antibiótico direcionado à cobertura de pele e partes moles.
+Correta. A paciente provavelmente apresenta infecção do sítio cirúrgico (ISC) superficial
+associada a seroma ou pequeno abscesso. O manejo adequado inclui drenagem da coleção,
+analgesia multimodal (dipirona e opioide leve, como tramadol), e antibioticoterapia empírica com
+cobertura para cocos Gram-positivos da pele (ex: cefalexina ou cefazolina, dependendo da via). A
+drenagem é fundamental para a resolução do quadro.
+Comentário das alternativas incorretas:
+Administrar analgésicos opioides fortes para controle da dor e observar a evolução clínica antes
+de iniciar a antibioticoterapia.
+Incorreta. Opioides fortes não são a primeira escolha em pacientes com dor localizada e
+controlável. Além disso, a presença de sinais inflamatórios locais (rubor, calor, secreção) indica
+infecção estabelecida, e não é adequado “aguardar” sem iniciar tratamento.
+Utilizar anti-inflamatórios não esteroidais para controle da dor e iniciar antibioticoterapia de amplo
+espectro por via intravenosa.
+Incorreta. AINEs isoladamente são geralmente insuficientes no pós-operatório imediato de cirurgia
+abdominal, especialmente com sinais de infecção local. A antibioticoterapia deve ser iniciada, mas
+o amplo espectro sem drenagem do conteúdo infectado e sem direcionamento pode ser
+inadequado, além do fato de que a infecção é superficial e sem sinais sistêmicos.
+Indicar curativos locais, prescrever analgésico simples para controle da dor e iniciar
+antibioticoterapia oral por período reduzido.
+Incorreta. Não aborda de forma completa a infecção, nem garante analgesia efetiva, podendo
+levar à piora do quadro. O tratamento deve ser terapêutico e direcionado.
+Referências:
+BRASIL. Agência Nacional de Vigilância Sanitária. Medidas de prevenção de infecção do sítio
+cirúrgico. Brasília: ANVISA, 2020. Disponível em: https://www.gov.br/anvisa/. Acesso em: 30 jul.
+2025.
+SABISTON, David C. Tratado de cirurgia: a base biológica da prática cirúrgica moderna. 21. ed.
+Rio de Janeiro: Elsevier, 2021.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 38 de 61
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Habilidades]
+Analisar estratégias de controle de dor e antibioticoterapia no pósoperatório, justificando as escolhas clínicas.
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Complicações e cuidados pós-operatórios; Infecção em cirurgia Hematoma - Seroma - Deiscência - Evisceração
+
+20ª QUESTÃO
+Código da questão:
+
+141632
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA - Ipatinga) Mulher, 52 anos, com obesidade grau III (IMC 42 kg/m²) e diabetes mellitus tipo
+2, comparece à consulta pré-operatória para realização de gastroplastia videolaparoscópica.
+Refere uso regular de metformina 850 mg duas vezes ao dia. Exames laboratoriais e avaliação
+clínica pré-operatória não apresentam alterações, função renal preservada. A cirurgia está
+agendada para o dia seguinte.
+Considerando as recomendações para o preparo pré-operatório, qual das condutas abaixo é
+indicada?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 39 de 61
+
+Alternativas:
+(alternativa A)
+Substituir a metformina por insulina de ação rápida na véspera da cirurgia, mesmo sem
+descontrole glicêmico.
+(alternativa B)
+Suspender a metformina apenas se houver uso de contraste iodado durante o ato anestésicocirúrgico.
+(alternativa C)
+Manter a metformina no dia da cirurgia para evitar hiperglicemia perioperatória e complicações
+cirúrgicas.
+(alternativa D) (CORRETA)
+Suspender a metformina 24 horas antes da cirurgia devido ao risco de acidose lática em contexto
+de jejum e estresse metabólico.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Em pacientes diabéticos submetidos a procedimentos de médio ou grande porte, como a
+gastroplastia, a metformina deve ser suspensa no dia da cirurgia. Essa medida tem como objetivo
+reduzir o risco, embora raro, de acidose lática, especialmente em cenários de jejum prolongado,
+desidratação, hipoperfusão tecidual e alterações transitórias da função renal, que são comuns no
+intra e no pós-operatório imediato.
+A manutenção da metformina nesse contexto pode comprometer a segurança metabólica do
+paciente, mesmo que a função renal esteja normal.
+Por isso, a suspensão da metformina 24 horas antes do dia do procedimento é uma conduta
+amplamente recomendada em protocolos de segurança perioperatória.
+Discussão das alternativas incorretas:
+- Apesar de ajudar no controle glicêmico, a metformina não deve ser mantida no dia de cirurgias
+maiores por risco metabólico em jejum prolongado.
+- A suspensão da metformina não depende exclusivamente do uso de contraste, mas sim do
+contexto clínico cirúrgico (estresse, jejum, risco de hipoperfusão renal). O raciocínio aqui está
+ultrapassado.
+- A troca por insulina de ação rápida não é necessária nem segura de forma rotineira,
+especialmente em pacientes compensados. Essa decisão deve ser individualizada e feita
+preferencialmente com suporte endocrinológico.
+Referências:
+TOWNSEND, C. M. Jr. et al. Sabiston: tratado de cirurgia – a base biológica da prática cirúrgica
+moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+American Diabetes Association (ADA). Standards of Medical Care in Diabetes – 2024.
+UpToDate. Perioperative management of patients with diabetes mellitus.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 40 de 61
+
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Cuidado em saúde
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA IPATINGA
+[Habilidades]
+Analisar critérios de suspensão ou manutenção de medicamentos
+no pré-operatório, fundamentando-se em evidências científicas.
+[Tema]
+Cuidados pré-operatórios; Risco cirúrgico (ASA - Goldman)
+
+21ª QUESTÃO
+Código da questão:
+
+141404
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FASA Vic) Durante check-up de rotina, uma mulher de 38 anos, sem comorbidades, realiza uma
+ultrassonografia abdominal que identifica uma lesão hepática única, bem delimitada, com
+ecogenicidade homogênea e presença de uma cicatriz central. A paciente é assintomática e os
+exames laboratoriais hepáticos são normais. A tomografia computadorizada trifásica mostra
+captação arterial intensa com lavagem centrípeta e cicatriz central hipodensa.
+Com base nos achados de imagem, qual é o diagnóstico mais provável?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 41 de 61
+
+Alternativas:
+(alternativa A)
+Hemangioma hepático.
+(alternativa B)
+Carcinoma hepatocelular (CHC).
+(alternativa C)
+Adenoma hepático.
+(alternativa D) (CORRETA)
+Hiperplasia nodular focal (HNF).
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Hiperplasia nodular focal (HNF)
+A HNF é uma lesão benigna hepática geralmente assintomática, mais comum em mulheres
+jovens, que apresenta realce arterial intenso com cicatriz central hipodensa na tomografia e
+hipointensa na ressonância magnética. A cicatriz central é o achado mais característico.
+Análise das alternativas incorretas:
+Hemangioma hepático:
+Justificativa: Embora também seja uma lesão benigna comum, o hemangioma apresenta
+captação periférica nodular na fase arterial com preenchimento progressivo (centrípeto) nas fases
+subsequentes — não costuma ter cicatriz central. A cicatriz central é característica da HNF.
+Adenoma hepático:
+Justificativa: O adenoma hepático também ocorre mais em mulheres jovens, especialmente em
+uso de anticoncepcionais, mas não apresenta cicatriz central. Na imagem, pode mostrar realce
+arterial precoce, mas com padrão mais heterogêneo. Tem risco de sangramento e transformação
+maligna.
+Carcinoma hepatocelular (CHC):
+Justificativa: O CHC geralmente ocorre em fígado com doença de base (cirrose, hepatite B/C).
+Na imagem, apresenta realce arterial precoce com “washout” rápido na fase portal ou tardia, e não
+apresenta cicatriz central típica. Está ausente neste caso qualquer sinal clínico ou laboratorial de
+doença hepática crônica.
+Referência:
+TOWNSEND, Courtney M. et al. Sabiston tratado de cirurgia: a base biológica da prática cirúrgica
+moderna. 20. ed. Rio de Janeiro: Elsevier, 2019.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 42 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+[Habilidades]
+Relacionar achados de imagem com nódulos hepáticos benignos e
+malignos, explicando as diferenças radiológicas.
+[Tema]
+Afecções hepáticas: diagnós tico/tratamento/complicações
+(Hipertensão portal; nódulos e abscessos hepáticos)
+22ª QUESTÃO
+
+Código da questão:
+
+141260
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNINOVAFAPI) Homem de 59 anos, com antecedente de laparotomia mediana há 2 anos para
+colectomia direita por neoplasia de cólon, comparece ao ambulatório com queixa de abaulamento
+em região periumbilical que aumenta com esforço físico. Refere desconforto local, mas sem dor
+intensa ou sinais de complicação. O exame físico revela tumoração redutível em linha média,
+sem sinais flogísticos.
+Com base no caso apresentado e nos conceitos anatômicos e clínicos das hérnias da parede
+abdominal, qual é a classificação correta da hérnia descrita e qual exame complementa o
+raciocínio clínico na suspeita de complicações?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 43 de 61
+
+Alternativas:
+(alternativa A)
+Hérnia periumbilical direta; a ecografia é o método padrão-ouro para diagnóstico e planejamento
+cirúrgico.
+(alternativa B)
+Hérnia epigástrica; o exame clínico é suficiente para avaliar risco de encarceramento.
+(alternativa C)
+Hérnia umbilical; a classificação deve ser feita com base apenas em achado físico e medida do
+anel herniário.
+(alternativa D) (CORRETA)
+Hérnia incisional; a tomografia é útil para avaliação do conteúdo herniado e riscos de
+estrangulamento.
+
+Grau de dificuldade:
+
+Médio
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 44 de 61
+
+Resposta comentada:
+Comentário das alternativas:
+Alternativa correta: A descrição do caso é compatível com hérnia incisional, que ocorre no sítio de
+cicatriz cirúrgica prévia. A tomografia de abdome é o exame de imagem mais útil para identificar
+conteúdo herniado, presença de alças, grau de compressão e sinais de estrangulamento
+(espessamento parietal, realce, líquido livre ou pneumoperitônio). Além disso, auxilia no
+planejamento operatório, principalmente em hérnias volumosas ou múltiplas.
+Distrator que propõe hérnia epigástrica: Hérnias epigástricas ocorrem na linha média entre o
+apêndice xifoide e a cicatriz umbilical, não em áreas de cicatriz cirúrgica. Não envolvem
+geralmente alças intestinais e seu risco de complicação é baixo, mas a tomografia é mais precisa
+que o exame físico em casos duvidosos.
+Distrator que aponta hérnia inguinal direta: Não há referência a abaulamento em região inguinal.
+Além disso, o caso descreve abaulamento periumbilical em cicatriz mediana, típico de hérnia
+incisional. A ecografia é útil, mas não é padrão ouro para avaliação de complicações em hérnias
+incisionais.
+Distrator que menciona hérnia umbilical: A hérnia umbilical ocorre na linha média em pacientes
+sem cirurgia prévia, enquanto hérnias em cicatrizes cirúrgicas são consideradas incisionais,
+mesmo que próximas ao umbigo. A classificação exige imagem para avaliar o tamanho do defeito
+e o conteúdo herniado.
+Referências:
+DOHERTY, Gerard M. CURRENT: Cirurgia. Porto Alegre: AMGH, 2017. p. 1053–1063.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788580556018. Acesso em: 28
+maio 2024.
+AMATO, Alexandre Moraes. Procedimentos Médicos: técnica e tática. 2. ed. Rio de Janeiro:
+Roca, 2016. p. 173–179. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527729949. Acesso em: ago. 2018.
+TOY, Eugene C.; LIU, Terrence H.; CAMPBELL, André R. Casos clínicos em cirurgia. 4. ed. Porto
+Alegre: AMGH, 2013. p. 167–174. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788580552607. Acesso em: 19 set. 2017.
+ROHDE, Luiz; OSVALDT, Alessandro B. Rotinas em Cirurgia Digestiva. 3. ed. Porto Alegre:
+Artmed, 2018. p. 378–384. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582714713. Acesso em: 20 jun. 2022.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 45 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Interpretação de exames
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNINOVAFAPI
+[Habilidades]
+Aplicar a classificação das hérnias inguinais e incisionais,
+explicando critérios clínicos e anatômicos.
+[Tema]
+Hérnias de Parede Abdominal
+23ª QUESTÃO
+
+Código da questão:
+
+141420
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO - Barra) Um homem de 30 anos chega ao pronto-socorro com ferida incisocontusa de 4 cm no dorso da mão direita causada por faca de cozinha. A ferida é linear, mas foi
+causada em ambiente potencialmente contaminado. Após lavagem abundante e avaliação sem
+lesão tendinosa, decide-se pela sutura imediata.
+Sobre a escolha da técnica e do fio para esse fechamento cutâneo, considerando controle de
+infecção, estética e biomecânica, qual conduta é mais apropriada?
+Alternativas:
+(alternativa A)
+Fechar com sutura contínua superficial não absorvível grossa (ex.: nylon 2-0).
+(alternativa B)
+Usar sutura contínua intradérmica com fio absorvível (ex.: monocryl 4-0).
+(alternativa C) (CORRETA)
+Suturar com pontos simples interrompidos usando fio monofilamentar não absorvível fino (ex.:
+nylon 3-0).
+(alternativa D)
+Realizar pontos subdérmicos absorvíveis profundos apenas, sem sutura de pele.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 46 de 61
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Feridas traumáticas limpas, após desbridamento e irrigação adequados, podem ser fechadas
+com pontos simples interrompidos utilizando fios não absorvíveis monofilamentares finos, como o
+nylon. Essa técnica permite boa aproximação, menor risco de infecção e melhor controle caso
+surjam complicações.
+Suturas contínuas subdérmicas devem ser evitadas em feridas com risco de contaminação, pois
+dificultam a drenagem e removem a possibilidade de descontinuação seletiva.
+Embora o fio não absorvível seja apropriado, o calibre 2-0 é excessivo para pele delicada como o
+dorso da mão. Além disso, sutura contínua superficial não é recomendada em feridas com risco
+de infecção, pois não permite retirada seletiva e aumenta o risco de inflamação e marcas
+cicatriciais.
+Pontos subdérmicos são úteis como complemento, mas não substituem a sutura cutânea em
+feridas abertas traumáticas. Além disso, deixar a pele sem oclusão mecânica.
+Referência:
+TOWNSEND, Courtney M. (org.). Tratado de cirurgia: a base biológica da prática cirúrgica
+moderna. 20. ed. Rio de Janeiro: Elsevier, 2017.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO BARRA
+[Habilidades]
+Selecionar o tipo de sutura e a técnica de fechamento, adequandose ao tipo e à localização da ferida.
+[Competências (Objetivos)]
+Práticas, técnicas e procedimentos
+[Tema]
+Tipos de fios, suturas e feridas
+24ª QUESTÃO
+
+Código da questão:
+
+141382
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 47 de 61
+
+Enunciado:
+(FMIT) Durante a avaliação de um paciente politraumatizado nas primeiras horas após o evento,
+observam-se as seguintes alterações laboratoriais: hiperglicemia, leucocitose com neutrofilia,
+hipocalemia leve e elevação do cortisol plasmático. Qual dessas opções melhor explica a
+presença dessas alterações neste paciente?
+Alternativas:
+(alternativa A)
+Representam alterações relacionadas à restrição hídrica e ao jejum prolongado, comuns em
+pacientes pós-trauma.
+(alternativa B) (CORRETA)
+Indicam ativação do eixo hipotálamo-hipófise-adrenal e resposta simpática, características da
+resposta endócrino-metabólica ao trauma.
+(alternativa C)
+Essas alterações são compatíveis com infecção secundária, muito comum em pacientes
+politraumatizados.
+(alternativa D)
+Sugerem falência orgânica iminente e indicam mau prognóstico imediato, independente do tipo ou
+extensão do trauma.
+
+Grau de dificuldade:
+
+Médio
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 48 de 61
+
+Resposta comentada:
+- Embora leucocitose com neutrofilia possa ocorrer em infecções, no contexto agudo do trauma
+essas alterações refletem primariamente a ativação da resposta inflamatória e neuroendócrina —
+não necessariamente uma infecção. A hiperglicemia, o aumento do cortisol e a hipocalemia leve
+são todos compatíveis com a resposta ao estresse e à ativação do eixo hipotálamo-hipófiseadrenal. Subestimar isso compromete a avaliação da gravidade. Resposta incorreta.
+- Após um trauma, ocorre liberação de catecolaminas e ativação do eixo HHA, levando à
+hiperglicemia (por aumento de gliconeogênese e resistência à insulina), elevação do cortisol,
+leucocitose com neutrofilia (via ação da adrenalina e cortisol) e hipocalemia (por redistribuição de
+potássio e ação da aldosterona). Esses achados são compatíveis com resposta adaptativa ao
+trauma, e sua intensidade pode refletir a gravidade clínica. Resposta correta.
+- Embora alterações hormonais intensas possam estar presentes em quadros graves,
+isoladamente não indicam falência orgânica iminente. Essa interpretação é excessivamente
+alarmista e não considera o contexto fisiológico normal da resposta ao trauma. Além disso, o
+prognóstico deve ser avaliado de forma integrada com dados clínicos, laboratoriais e
+hemodinâmicos. Resposta incorreta.
+- Alternativa erra ao atribuir os achados à restrição alimentar ou hídrica. Embora tais fatores
+possam afetar o metabolismo, o perfil apresentado (especialmente hiperglicemia e elevação de
+cortisol) é típico da resposta ao estresse agudo, e não de jejum prolongado. A leucocitose com
+neutrofilia e hipocalemia leve também não são alterações esperadas apenas pela restrição
+alimentar. Resposta incorreta.
+Referência:
+TOWNSEND Jr., C. M.; BEAUCHAMP, R. D.; EVANS, C. H.; EBERHART, C. G. Sabiston –
+Tratado de Cirurgia: princípios e prática da cirurgia. 20. ed. Rio de Janeiro: Elsevier, 2021.
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Interpretação de exames
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Habilidades]
+Interpretar alterações laboratoriais associadas à resposta
+endócrino-metabólica ao trauma, relacionando com gravidade e
+evolução clínica.
+[Tema]
+Resposta endócrino metabólica ao trauma
+25ª QUESTÃO
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 49 de 61
+
+Código da questão:
+
+141976
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA - Santa Inês) Homem de 56 anos, etilista crônico, comparece ao ambulatório com queixas
+de dor abdominal epigástrica recorrente, em queimação, irradiada para dorso, associada à
+esteatorreia progressiva e perda ponderal de 8 kg nos últimos 4 meses. Refere melhora parcial da
+dor com flexão do tronco. Nega vômitos ou icterícia.
+Exames complementares:
+Amilase e lipase: normais.
+Glicemia de jejum: 142 mg/dL.
+Elastase fecal: 85 mcg/g (valores normais > 200).
+TC de abdome: pâncreas atrófico, com calcificações e dilatação do ducto pancreático principal.
+Sem massas sólidas visíveis.
+Com base nesse quadro clínico e nos exames apresentados, qual é a conduta inicial mais
+apropriada, considerando também os critérios para encaminhamento?
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar enzimas pancreáticas e controle glicêmico, além de encaminhar para avaliação
+especializada devido à dor e risco de complicações.
+(alternativa B)
+Repor hormônios como a insulina e manter seguimento ambulatorial com dosagem de enzimas
+pancreáticas séricas a cada 3 meses.
+(alternativa C)
+Encaminhar para cirurgia de cabeça de pâncreas devido à suspeita de neoplasia cística de alto
+risco.
+(alternativa D)
+Solicitar ecoendoscopia para biópsia, iniciar antibiótico e suspender enzimas até confirmar
+malignidade.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 50 de 61
+
+Resposta comentada:
+Iniciar enzimas pancreáticas e controle glicêmico, além de encaminhar para avaliação
+especializada devido à dor e risco de complicações.
+Correta. O paciente apresenta quadro compatível com pancreatite crônica avançada, com
+disfunção exócrina (esteatorreia, elastase fecal baixa), alterações estruturais (calcificações,
+dilatação ductal) e dor crônica significativa. A conduta inicial inclui enzimas pancreáticas, controle
+da glicemia e avaliação com especialista, especialmente se a dor for limitante ou houver
+necessidade de procedimentos como descompressão ductal, bloqueio neural ou cirurgia.
+Comentário das alternativas incorretas:
+Repor hormônios como a insulina e manter seguimento ambulatorial com dosagem de enzimas
+pancreáticas séricas a cada 3 meses.
+Incorreta. Embora haja necessidade de controle glicêmico, essa conduta ignora a insuficiência
+pancreática exócrina grave evidenciada pela elastase fecal muito baixa. Amilase e lipase normais
+não excluem disfunção exócrina, e o tratamento adequado exige reposição enzimática oral
+imediata. Além disso, dosar enzimas séricas periodicamente não é útil para o acompanhamento
+da pancreatite crônica avançada.
+Solicitar ecoendoscopia para biópsia, iniciar antibiótico e suspender enzimas até confirmar
+malignidade.
+Incorreta. Não há sinais clínico-radiológicos sugestivos de infecção ou tumor evidente. Além
+disso, ecoendoscopia com biópsia é indicada se houver massa sólida ou cisto suspeito, o que
+não é o caso aqui.
+Encaminhar para cirurgia de cabeça de pâncreas devido à suspeita de neoplasia cística de alto
+risco.
+Incorreta. Neoplasia cística de alto risco não está descrita no laudo (não há lesão cística com
+septos, nódulos ou comunicação ductal). Também não há indicação cirúrgica imediata.
+Referência:
+SANTOS, José de Jesus Camargo dos et al. Clínica Cirúrgica. 3. ed. Porto Alegre: Artmed, 2022.
+BRASIL. Ministério da Saúde. Diretrizes para o manejo da pancreatite crônica. Brasília: MS, 2020.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 51 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico e conduta
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Habilidades]
+Integrar dados clínico-laboratoriais em pacientes com dor
+abdominal recorrente e disfunção exócrina pancreática, propondo
+condutas iniciais e critérios de encaminhamento.
+[Tema]
+Afecções do pâncreas (Pancreatite aguda e crônica, pseudocisto,
+neoplasias cís ticas, adenocarcinoma):
+diagnós tico/tratamento/complicações
+26ª QUESTÃO
+
+Código da questão:
+
+141412
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(IESVAP) Paciente masculino, 58 anos, apresenta dispneia progressiva e dor torácica em
+pontada. Exames revelam imagem em parábola com concavidade superior e opacificação do seio
+costofrênico direito. A ultrassonografia mostra líquido livre e não septado com espessura superior
+a 15 mm. Considerando os princípios anatômicos, a técnica asséptica e a interpretação
+diagnóstica correta, qual seria a conduta mais segura e indicada para investigação inicial deste
+derrame?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 52 de 61
+
+Alternativas:
+(alternativa A) (CORRETA)
+Toracocentese diagnóstica no 7º-8º espaço intercostal, na linha axilar posterior ou escapular
+média, com punção tangenciando a borda superior da costela inferior.
+(alternativa B)
+Drenagem imediata por tubo torácico no 2º espaço intercostal anterior, devido ao risco iminente de
+colapso pulmonar.
+(alternativa C)
+Inserção de agulha no 5º espaço intercostal anterior sem anestesia, pois a dor indica
+posicionamento adequado.
+(alternativa D)
+Realização de punção aspirativa no espaço intercostal mais baixo possível, independentemente
+da imagem.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A toracocentese diagnóstica é indicada em casos de derrame pleural novo ou de causa não
+estabelecida, especialmente quando a espessura do líquido na ultrassonografia excede 10–15
+mm.
+A punção deve ser feita com o paciente sentado, inclinando-se levemente para frente, no 7º ou 8º
+espaço intercostal, preferencialmente na linha axilar posterior ou escapular média, sempre na
+borda superior da costela inferior para evitar lesão do feixe vasculo-nervoso intercostal. A técnica
+deve seguir rigorosa assepsia e anestesia local.
+Comentários sobre as incorretas:
+Drenagem imediata por tubo torácico no 2º EIC anterior: esse local é reservado para pneumotórax
+hipertensivo. Um derrame pleural não septado não requer drenagem imediata, mas sim
+toracocentese diagnóstica inicial.
+Inserção de agulha no 5º EIC anterior sem anestesia: inaceitável. Realizar punção sem anestesia
+é antiético, doloroso e perigoso. Além disso, o 5º EIC anterior não é o local ideal para derrames
+livres.
+Punção no espaço intercostal mais baixo possível: errado e arriscado. Punções abaixo do 9º EIC
+aumentam o risco de perfuração de órgãos abdominais (baço, fígado, diafragma). A escolha do
+espaço deve ser guiada por imagem ou anatomia, não aleatória.
+Referências:
+NOGUEIRA, Thiago Machado et al. Toracocentese. Manual básico de procedimentos médicos
+hospitalares. Tradução. São Paulo: Atheneu, 2017.
+Townsend, Beauchamp, Evers, Mattox KL. SABISTON: tratado de cirurgia - a base biológica da
+prática cirúrgica moderna. 2 Vol. 20ª Ed. Rio de Janeiro: Elsevier, 2019.
+Feedback:
+-000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 53 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Interpretação de exames
+[Subáreas de Conhecimento]
+Cirurgia Torácica
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+IESVAP
+[Habilidades]
+Executar técnicas assépticas e seguir princípios anatômicos,
+realizando a toracocentese de forma segura.
+[Tema]
+Condutas intervencionistas em derrame pleural - Toracocentese
+27ª QUESTÃO
+
+Código da questão:
+
+141414
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(IESVAP) Durante a fase inicial da resposta endócrino-metabólica ao trauma, o eixo hipotálamohipófise-adrenal aumenta a secreção de cortisol. Qual dos efeitos abaixo, atribuído a esse
+hormônio, ajuda a explicar a hiperglicemia que frequentemente se instala nesses pacientes?
+Alternativas:
+(alternativa A) (CORRETA)
+Estimulação da gliconeogênese hepática e redução da captação periférica de glicose.
+(alternativa B)
+Inibição da proteólise muscular, preservando a massa magra e reduzindo a disponibilidade de
+aminoácidos.
+(alternativa C)
+Aumento da secreção de insulina e estimulação da captação de glicose pelos tecidos periféricos.
+(alternativa D)
+Supressão da ação do glucagon sobre o fígado, reduzindo a glicogenólise.
+
+Grau de dificuldade:
+
+Médio
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 54 de 61
+
+Resposta comentada:
+Alternativa correta: O cortisol, liberado em resposta ao estresse traumático, difunde-se nas
+células hepáticas, modula a transcrição de centenas de genes e intensifica a produção de glicose
+a partir de aminoácidos, ao mesmo tempo que diminui a utilização periférica desse substrato.
+Essa combinação leva à hiperglicemia de estresse, enquanto suas ações catabólicas e
+imunomoduladoras contribuem para a proteólise muscular e supressão de citocinas próinflamatórias.
+Comentários sobre as alternativas incorretas:
+Supressão da ação do glucagon sobre o fígado, reduzindo a glicogenólise.
+Incorreta: o cortisol não inibe glucagon; atua de forma sinérgica, favorecendo gliconeogênese e
+glicogenólise.
+Aumento da secreção de insulina e estimulação da captação de glicose pelos tecidos periféricos.
+Incorreta: o cortisol induz resistência periférica à insulina, reduzindo a captação de glicose, não o
+contrário.
+Inibição da proteólise muscular, preservando a massa magra e reduzindo a disponibilidade de
+aminoácidos.
+Incorreta: o cortisol estimula a proteólise, liberando aminoácidos para a gliconeogênese.
+Referência:
+Townsend, Beauchamp, Evers, Mattox KL. SABISTON: tratado de cirurgia - a base biológica da
+prática cirúrgica moderna. 2 Vol. 20ª Ed. Rio de Janeiro: Elsevier, 2019.
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Cuidado em saúde
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+IESVAP
+[Habilidades]
+Correlacionar os efeitos da resposta inflamatória sistêmica com
+complicações como hiperglicemia, catabolismo e
+imunossupressão.
+[Tema]
+Resposta endócrino metabólica ao trauma
+28ª QUESTÃO
+
+Código da questão:
+
+141867
+
+Tipo da questão:
+
+Múltipla Escolha
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 55 de 61
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FACIMPA) Um homem de 30 anos procura atendimento referindo dor anal intensa há dois dias,
+associada à febre e desconforto para sentar. Relata piora significativa da dor durante as
+evacuações. O exame físico evidencia área de hiperemia, calor local e flutuação dolorosa na
+região perianal posterior.
+Com base no quadro clínico apresentado, qual é o diagnóstico mais provável para esse paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Abscesso anorretal.
+(alternativa B)
+Fístula perianal.
+(alternativa C)
+Hemorroidas internas grau III.
+(alternativa D)
+Fissura anal.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Incorreta. Fissura anal causa dor à evacuação, mas não cursa com febre ou flutuação.
+Incorreta. Fístula perianal é uma complicação crônica, geralmente sem sinais sistêmicos agudos.
+Correta. O abscesso anorretal se manifesta com dor intensa, febre e massa flutuante.
+Incorreta. Hemorroidas internas não causam sinais inflamatórios ou sistêmicos.
+Referências:
+SCHWARTZ, Seymour I. Schwartz: princípios de cirurgia. 11. ed. Porto Alegre: AMGH, 2020.
+FELDMAN, Mark et al. Sleisenger e Fordtran: doenças gastrointestinais e do fígado. 11. ed. Rio
+de Janeiro: Elsevier, 2021.
+WEXNER, Steven D. et al. Sabiston: tratado de cirurgia. 21. ed. Rio de Janeiro: Elsevier, 2022.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 56 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+[Habilidades]
+Identificar sinais e sintomas de hemorroidas, fissura anal, fístula e
+abscesso anorretal, descrevendo características clínicas.
+[Tema]
+Doenças orificiais: Doença hemorroidária, fissura anal, fístula anal,
+abscesso anorretal
+29ª QUESTÃO
+
+Código da questão:
+
+141563
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDEP) Paciente do sexo feminino, 34 anos, sem comorbidades conhecidas, não tabagista,
+apresenta um achado incidental em ultrassonografia abdominal: nódulo hepático solitário de 4 cm,
+bem delimitado, localizado no lobo direito, com ecogenicidade homogênea. Não refere sintomas
+clínicos significativos. Na avaliação complementar com ressonância magnética (RM), observa-se
+lesão com características hipervascularizadas na fase arterial e preenchimento completo na fase
+portal, sem invasão de estruturas vizinhas. Durante a consulta, ela relata o uso de
+anticoncepcional oral há mais de 7 anos. Considerando as características clínicas, radiológicas e
+epidemiológicas relatadas, avalie o diagnóstico mais provável para esse nódulo hepático.
+Alternativas:
+(alternativa A)
+Metástase hepática.
+(alternativa B)
+Hemangioma hepático.
+(alternativa C)
+Carcinoma hepatocelular.
+(alternativa D) (CORRETA)
+Adenoma hepático.
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 57 de 61
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Adenoma hepático.
+O diagnóstico mais provável é o de adenoma hepático, que é uma neoplasia benigna do fígado
+frequentemente associada ao uso de anticoncepcionais orais. O adenoma hepático é
+caracterizado por um nódulo solitário bem delimitado, geralmente de ecogenicidade homogênea,
+como descrito no enunciado. Na ressonância magnética, a lesão hipervascularizada na fase
+arterial e o preenchimento completo na fase portal são típicos do adenoma hepático, uma vez que
+o tumor tem uma alta vascularização, mas não apresenta invasão de estruturas vizinhas, como
+no caso relatado.
+Outras alternativas:
+Hemangioma hepático: O hemangioma hepático é o tumor hepático benigno mais comum, mas
+ele geralmente tem características de hipervascularização nas fases mais tardias (fase portal) e
+não nas fases arteriais, o que o diferencia do adenoma hepático. A imagem descrita na
+ressonância magnética, com alta vascularização na fase arterial, é mais sugestiva de adenoma.
+Carcinoma hepatocelular: O carcinoma hepatocelular (HCC) é um tumor maligno do fígado,
+geralmente associado a doenças hepáticas crônicas (como hepatite viral ou cirrose). No caso
+descrito, a paciente não tem histórico de comorbidades hepáticas, e a ressonância magnética não
+mostrou características típicas de HCC, como invasão de estruturas vizinhas e má perfusão nas
+fases de imagem.
+Metástase hepática: As metástases hepáticas geralmente se apresentam como múltiplas lesões,
+e não como um nódulo solitário. Além disso, as características de vascularização descritas na
+RM (hipervascularização na fase arterial) não são típicas das metástases, que geralmente são
+hipovasculares nas fases iniciais da ressonância.
+Referências:
+STREEP, M. A., & JOHNSON, E. A. (2020). Adenoma hepático: diagnóstico por imagem e
+manejo clínico. Revista Brasileira de Hepatologia, 31(2), 123-130.
+PETRINI, M., & BRUSCO, A. (2021). Imagens em hepatologia: diagnóstico e gestão de lesões
+hepáticas benignas. J. Clin. Hepatology, 8(1), 45-51.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 58 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIDEP
+[Habilidades]
+Descrever características clínicas e radiológicas de nódulos
+hepáticos hiperplásicos, adenomas e hepatocarcinoma,
+reconhecendo situações que exigem referência especializada.
+[Tema]
+Afecções hepáticas: diagnós tico/tratamento/complicações
+(Hipertensão portal; nódulos e abscessos hepáticos)
+30ª QUESTÃO
+
+Código da questão:
+
+141413
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(IESVAP) Um homem de 43 anos, transplantado renal em uso de tacrolimo e prednisona, procura
+o pronto-socorro com dor anal intensa e tumefação eritematosa de 3 cm na margem posterior do
+ânus, iniciada há 36 h. Está febril (38,3 °C) e apresenta leucopenia.
+Após confirmação clínica de abscesso perianal, qual conduta inicial se alinha às melhores
+práticas para esse paciente?
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 59 de 61
+
+Alternativas:
+(alternativa A)
+Antibioticoterapia endovenosa isolada durante 48 h, reservando drenagem apenas se não houver
+melhora.
+(alternativa B) (CORRETA)
+Incisão e drenagem imediata em centro cirúrgico, associada a antibioticoterapia intravenosa de
+amplo espectro.
+(alternativa C)
+Incisão e drenagem no pronto-atendimento sob anestesia local, associando antibioticoterapia oral
+e orientando retorno em 48 h.
+(alternativa D)
+Internação hospitalar para observação clínica e analgesia, indicando drenagem apenas após
+evidência de flutuação mais pronunciada.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A imunossupressão compromete a resposta inflamatória local e favorece o crescimento de flora
+mista ou patógenos oportunistas; por isso, além da drenagem precoce — pilar do tratamento de
+qualquer abscesso anorretal — deve-se iniciar antibióticos intravenosos que cubram germes
+entéricos e anaeróbios, reduzindo o risco de septicemia e recorrência. Condutas que postergam a
+drenagem, utilizam apenas antibióticos ou deixam de prescrevê-los expõem o paciente a
+complicações graves e maior mortalidade.
+Análise das incorretas:
+Antibioticoterapia isolada: antibiótico não substitui a drenagem, mesmo em pacientes
+imunossuprimidos. Retardar a drenagem aumenta o risco de complicações sépticas.
+Incisão e drenagem no pronto-atendimento sob anestesia local, com antibiótico oral e retorno em
+48 h. Inadequada: o imunossuprimido com febre e leucopenia requer drenagem em centro
+cirúrgico e antibioticoterapia intravenosa. Manejo ambulatorial com antibiótico oral é insuficiente e
+arriscado.
+Internação para observação e analgesia, drenando apenas após flutuação pronunciada. Incorreta:
+o abscesso já confirmado deve ser drenado imediatamente; aguardar flutuação adia o tratamento
+e aumenta o risco de complicações, especialmente no imunossuprimido.
+Referência:
+Townsend, Beauchamp, Evers, Mattox KL. SABISTON: tratado de cirurgia - a base biológica da
+prática cirúrgica moderna. 2 Vol. 20ª Ed. Rio de Janeiro: Elsevier, 2019.
+Feedback:
+--
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 60 de 61
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Cuidado em saúde
+[Subáreas de Conhecimento]
+Cirurgia Geral
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+IESVAP
+[Habilidades]
+Reconhecer o impacto de comorbidades como imunossupressão
+no manejo de doenças anorretais, sugerindo adequações à
+conduta clínica.
+[Tema]
+Doenças orificiais: Doença hemorroidária, fissura anal, fístula anal,
+abscesso anorretal
+
+000169.530011.7fd71e.810e3f.8e2d43.c7abc7.fea10d.47509
+
+Pgina 61 de 61
+
+

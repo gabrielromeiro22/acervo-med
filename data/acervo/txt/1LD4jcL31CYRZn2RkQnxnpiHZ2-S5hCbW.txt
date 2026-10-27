@@ -1,0 +1,612 @@
+HAM VI - 2025.1
+
+Esse PDF foi gerado com o intuito de fazer as provas em Tablets/iPads: todos os
+enunciados/alternativas estão em uma página, e o gabarito e resposta comentada
+em outra.
+PDF gerado em 19/10/2025, 06:42
+Confira a última versão em acervo.top/ham-vi ou acervotop.com/ham-vi
+
+PIX: doe@acervo.top
+ajuda eu! :)
+
+↓ ↓ ↓
+
+Questão 1
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Um paciente de 58 anos, previamente hígido, é levado ao serviço de emergência após apresentar palpitações
+súbitas, dispneia e tontura intensa. No atendimento inicial, ele se encontra alerta, mas com sinais evidentes de
+instabilidade hemodinâmica. A avaliação inicial revela:
+- Frequência cardíaca: 180 bpm.
+- Pressão arterial: 85/55 mmHg.
+- Sinais clínicos: palidez cutânea, sudorese fria e sinais de hipoperfusão periférica.
+- Ausência de dor torácica ou história prévia de cardiopatia conhecida.
+[ECG]:
+
+A) Administração de adenosina IV e reavaliação da frequência cardíaca.
+B) Cardioversão elétrica sincronizada imediata.
+C) Administração de lidocaína para controle da arritmia.
+D) Administração de amiodarona IV como primeira escolha.
+
+Resposta comentada:
+Alternativa Correta: B
+Cardioversão elétrica sincronizada imediata.
+Justificativa: A cardioversão elétrica sincronizada é indicada para pacientes com
+taquicardia supraventricular sintomática associada a instabilidade hemodinâmica, uma
+vez que essa condição pode evoluir para colapso circulatório se não tratada
+rapidamente. A presença de hipotensão, sinais de hipoperfusão e instabilidade clínica
+indica a necessidade de uma abordagem imediata.
+Administração de adenosina IV e reavaliação da frequência cardíaca.
+Justificativa: Em pacientes com taquicardia supraventricular estável, a abordagem
+inicial inclui manobras vagais e adenosina IV como tratamento de primeira linha, pois a
+adenosina pode interromper a taquicardia reentrante no nó atrioventricular (AVNRT). No
+entanto, em pacientes instáveis, o suporte avançado de vida recomenda uma
+abordagem mais agressiva.
+Administração de amiodarona IV como primeira escolha.
+Justificativa: Amiodarona IV pode ser útil para taquicardias ventriculares ou para o
+controle de arritmias supraventriculares em pacientes estáveis. Entretanto, não é a
+primeira escolha para este cenário, especialmente em um paciente hemodinamicamente
+instável.
+Administração de lidocaína para controle da arritmia.
+Justificativa: Lidocaína é um antiarrítmico utilizado principalmente no tratamento de
+taquicardias ventriculares, como na fibrilação ventricular ou na taquicardia ventricular
+sem pulso, mas não tem papel primário no manejo de taquicardias supraventriculares.
+Referência:
+AMERICAN HEART ASSOCIATION. Guidelines for Cardiopulmonary Resuscitation and
+Emergency Cardiovascular Care. Circulation, 2020. Disponível em: https://cpr.heart.org.
+Acesso em: 19 mar. 2025.
+
+Questão 2
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Um acadêmico está de plantão na Unidade de Pronto Atendimento (UPA) quando um paciente adulto é
+encaminhado pelo SAMU. Os socorristas relatam que o paciente foi encontrado inconsciente, sem pulso e sem
+respiração espontânea. A equipe pré-hospitalar iniciou compressões torácicas e ventilação com bolsa-válvulamáscara. Na chegada, o paciente segue em PCR, e o monitor cardíaco exibe uma linha quase reta, sem
+complexos QRS visíveis e sem ondas P ou T discerníveis.
+a) Justifique o ritmo cardíaco apresentado com base nos achados descritos.
+b) Descreva a conduta inicial prioritária para esse paciente, de acordo com as diretrizes do Suporte
+Avançado de Vida Cardiovascular (ACLS).
+c) Explique as principais drogas recomendadas para o manejo desse ritmo, destacando seus
+mecanismos de ação e justificativa para o uso.
+d) Especifique as principais causas reversíveis desse tipo de PCR e como os exames laboratoriais
+podem auxiliar no diagnóstico diferencial.
+
+Questão Dissertativa
+Resposta comentada:
+
+[Acervo do Rique - Aviso: essa questão teve recurso e teve o parecer a seguir - para ler
+a resposta original continue mais abaixo.]
+PARECER: AMPLIAR CORREÇÃO DE QUESTÃO DISCURSIVA
+EMBASAMENTO TEÓRICO:
+1. O monitor cardíaco exibe uma linha quase reta, sem complexos QRS visíveis e sem
+ondas P ou T discerníveis, o que inicialmente pode sugerir assistolia. No entanto, não se
+deve afirmar tal diagnóstico sem realizar o protocolo da linha reta para diferenciar de
+uma fibrilação ventricular fina. Ao considerar a possibilidade de fibrilação ventricular
+fina, é importante notar que esse ritmo se caracteriza por uma atividade elétrica
+desorganizada de baixa amplitude, que pode ser confundida com assistolia e sua
+conduta seria alterada, sendo indicada a desfibrilação.
+2. A conduta inicial prioritária é a reanálise do ritmo em monitor com ganho ajustado,
+para confirmação de FV fina. Se confirmada, deve-se iniciar imediatamente a
+desfibrilação, seguida de reanimação cardiopulmonar (RCP) de alta qualidade por 2
+minutos. Após o primeiro choque, se o ritmo persistir, devem-se administrar epinefrina a
+cada 3-5 minutos, manter ciclos de RCP e reavaliar o ritmo periodicamente, conforme o
+algoritmo do ACLS para FV/pulso ventricular sem pulso. Se não confirmada, realizar o
+tratamento para assistolia.
+3. Medicação: Epinefrina (1 mg IV/IO a cada 3-5 min): melhora a perfusão coronariana e
+devido ao seu efeito vasoconstritor cerebral. Bicarbonato de sódio: pode ser indicado se
+houver acidose metabólica grave comprovada. Correção de distúrbios hidroeletrolíticos:
+administração de cloreto de cálcio se hipocalemia ou hiperpotassemia estiverem
+presentes. Amiodarona (primeiro: 300 mg e segundo: 150mg) ou Lidocaína.
+4. Não está no recurso. Em suma, deve-se considerar tanto FV fina quanto a assitolia
+como questões corretas.
+JUSTIFICATIVA COMISSÃO NACIONAL:
+Item 1: Deferido parcialmente, aceita-se resposta que inclui assistolia OU FV fina, desde
+que acompanhada de justificativa fundamentada com base no protocolo da linha reta.
+Item 2: Indeferido, a conduta inicial permanece como RCP + epinefrina + checagem do
+ritmo, e não desfibrilação como conduta imediata.
+Item 3: Deferido parcialmente, aceita-se menção a amiodarona ou lidocaína se o aluno
+fundamentar pela suspeita de FV fina.
+Item 4: Sem recurso interposto. Mantém-se a avaliação conforme gabarito.
+REFERÊNCIA:
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular:
+
+manual do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+==================================
+1. Identificação do ritmo e justificativa:
+Os achados descritos no monitor sugerem assistolia, um ritmo não chocável
+caracterizado por ausência de atividade elétrica cardíaca significativa. Diferente da
+Atividade Elétrica Sem Pulso (AESP), na Assistência não há complexos QRS
+organizados, nem ondas P ou T visíveis, mesmo após ajustes técnicos.
+2. Conduta inicial:
+- Confirme a qualidade do traçado no monitor (ajustar ganho, trocar derivações para
+excluir artefatos).
+- Manter compressões torácicas de alta qualidade (100-120/min, profundidade de 5-6
+cm, interrupção mínima).
+- Garantir via aérea avançada conforme necessário e administrar oxigenação
+suplementar.
+- Reavaliar o ritmo a cada 2 minutos, sem interrupção prolongada do RCP.
+Importante: A desfibrilação não é indicada, pois a assistolia não responde a choque
+elétrico.
+3. Drogas utilizadas:
+- Epinefrina (1 mg IV/IO a cada 3-5 min): melhora a perfusão coronariana e devido ao
+seu efeito vasoconstritor cerebral.
+- Bicarbonato de sódio: pode ser indicado se houver acidose metabólica grave
+comprovada.
+- Correção de distúrbios hidroeletrolíticos: administração de cloreto de cálcio se
+hipocalemia ou hiperpotassemia estiverem presentes.
+4. Causas reversíveis e papel dos exames laboratoriais:
+A investigação deve focar nas 6H e 6T, que representam causas potencialmente
+tratáveis:
+- H: Hipovolemia, Hipóxia, Hidrogênio (acidose), Hipo/Hipercalemia, Hipotermia,
+Hipoglicemia.
+- T: Tamponamento cardíaco, Tensão no tórax (pneumotórax hipertensivo), Trombose
+pulmonar, Trombose coronariana, Toxinas, Trauma.
+Os exames laboratoriais (gasometria arterial, eletrólitos séricos, lactato) são
+fundamentais para orientar instruções específicas.
+Referências:
+Associação Americana do Coração. SAVC: Suporte avançado de vida cardiovascular:
+manual do profissional. Texas, EUA: Orora Visual, 2021.
+PERMAN, Sarah M. et al. Atualização focada da American Heart Association de 2023
+sobre suporte avançado de vida cardiovascular em adultos. Circulation, 149, e254-e273,
+2024.
+
+Associação Nacional de Técnicos Médicos de Emergência. PHTLS - Atendimento préhospitalar ao traumatizado. 9ª ed. Burlington: Jones & Bartlett Learning, 2020.
+
+Questão 3
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Um homem de 65 anos, com histórico de infarto prévio, é admitido no pronto-socorro com tontura e sudorese.
+Ele está bradicárdico (FC 38 bpm), com PA 80/50 mmHg, apresentando confusão mental. O ritmo está
+evidenciado no ECG abaixo:
+
+Identifique qual é a conduta inicial mais apropriada.
+A) Iniciar infusão contínua de beta-bloqueador para reduzir o risco de arritmias ventriculares associadas
+à bradicardia.
+B) Administrar atropina 1 mg intravenosa como primeira escolha e observar a resposta clínica antes de
+considerar outros tratamentos.
+C) Realizar marca-passo transcutâneo imediato, pois o paciente apresenta sinais de instabilidade
+hemodinâmica associados à bradicardia.
+D) Administrar sulfato de magnésio para corrigir um possível distúrbio eletrolítico e observar a resposta
+antes de qualquer outra intervenção.
+
+Resposta comentada:
+Alternativa Correta: C
+Realizar marca-passo transcutâneo imediato, pois o paciente apresenta sinais de
+instabilidade hemodinâmica associados à bradicardia.
+Justificativa: A presença de bradicardia com sinais de instabilidade hemodinâmica
+(hipotensão, alteração do nível de consciência) justifica a realização imediata de marcapasso transcutâneo. Em bloqueios AV avançados, a resposta à atropina pode ser
+limitada, tornando a estimulação elétrica a melhor opção inicial.
+Administrar atropina 1 mg intravenosa como primeira escolha e observar a resposta
+clínica antes de considerar outros tratamentos.
+Justificativa: A atropina pode ser tentada (dose inicial de 0,5 mg IV), mas sua eficácia
+em bloqueios AV de 3º grau é limitada. O tratamento definitivo é a estimulação elétrica.
+Iniciar infusão contínua de beta-bloqueador para reduzir o risco de arritmias
+ventriculares associadas à bradicardia.
+Justificativa: Beta-bloqueadores são contraindicados em pacientes bradicárdicos
+instáveis, pois podem agravar a bradicardia e piorar a hipotensão.
+Administrar sulfato de magnésio para corrigir um possível distúrbio eletrolítico e
+observar a resposta antes de qualquer outra intervenção.
+Justificativa: Distúrbios eletrolíticos podem contribuir para bradiarritmias, mas a
+conduta inicial deve ser direcionada à reversão imediata da instabilidade, que neste
+caso exige marca-passo transcutâneo.
+Referência:
+American Heart Association. Advanced Cardiovascular Life Support (ACLS) Provider
+Manual. Dallas: American Heart Association, 2020.
+2020 American Heart Association Guidelines for Cardiopulmonary Resuscitation and
+Emergency Cardiovascular Care. Circulation, v. 142, supl. 2, 2020. Disponível em:
+https://cpr.heart.org. Acesso em: 7 mar. 2025.
+
+Questão 4
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Paciente do sexo feminino, 44 anos, com antecedentes de diabetes melito, obesidade, dislipidemia e varizes de
+membros inferiores, está em tratamento hospitalar de celulite em membro inferior esquerdo com oxacilina. Após
+fisioterapia motora, queixou-se de dor torácica ventilatório-dependente no lado direito, dispneia intensa e
+palidez, seguidos de perda de consciência. Durante a avaliação clínica, estava irresponsiva, sem movimentos
+respiratórios e sem pulso central. Foram iniciadas manobras de ressuscitação cardiorrespiratória. A
+monitoração com as pás do monitor/desfibrilador revelou o ritmo cardíaco mostrado abaixo na derivação DII:
+
+Assinale a conduta imediata preconizada.
+A) De acordo com o algoritmo circular da reanimação cardiopulmonar do adulto, a epinefrina 1mg deve
+ser administrada o mais rápido possível.
+B) Deve-se checar o pulso logo após a administração do choque não sincronizado com desfibrilador
+bifásico e carga máxima de 200 joules.
+C) Deve-se assegurar que o oxigênio passe próximo ao tórax do paciente quando formos administrar um
+choque não sincronizado.
+D) A abordagem da via aérea deve ser retardada no caso acima, pois existe uma grande chance de
+recuperação precoce da circulação espontânea.
+
+Resposta comentada:
+Alternativa Correta: A
+De acordo com o algoritmo circular da reanimação cardiopulmonar do adulto, a
+epinefrina 1mg deve ser administrada o mais rápido possível. Correta. O caso acima
+demonstra uma PCR no ritmo de atividade elétrica sem pulso. Nesses casos, após
+verificarmos o ritmo, devemos administrar adrenalina 1 mg precocemente de acordo
+com o guideline da American Heart Association e American College of Cardiology. A
+conduta imediata recomendada para um paciente em parada cardiorrespiratória (PCR)
+com ritmo chocável (como fibrilação ventricular ou taquicardia ventricular sem pulso)
+inclui a desfibrilação precoce e a administração de epinefrina após o segundo choque.
+No entanto, caso o ritmo seja não chocável (atividade elétrica sem pulso ou assistolia), a
+epinefrina 1mg deve ser administrada o mais rápido possível e repetida a cada 3 a 5
+minutos. Como a questão descreve um quadro clínico sugestivo de tromboembolismo
+pulmonar (TEP) maciço, causa frequente de parada cardíaca em ritmo não chocável, a
+epinefrina torna-se essencial para aumentar a perfusão coronariana e cerebral,
+favorecendo a reversão do quadro.
+Deve-se checar o pulso logo após a administração do choque não sincronizado com
+desfibrilador bifásico e carga máxima de 200 joules. Incorreta. Após a aplicação do
+choque com desfibrilador bifásico, o protocolo da RCP recomenda a retomada imediata
+das compressões torácicas por 2 minutos antes de qualquer nova checagem de pulso
+ou ritmo. Checar o pulso logo após o choque pode levar a interrupções desnecessárias
+nas compressões, reduzindo a eficácia da RCP e comprometendo a perfusão cerebral e
+coronariana.
+Deve-se assegurar que o oxigênio passe próximo ao tórax do paciente quando formos
+administrar um choque não sincronizado. Incorreta. O contato do oxigênio com o tórax
+durante a desfibrilação não é uma recomendação relevante nas diretrizes de
+reanimação cardiopulmonar (RCP). O risco de ignição de gases medicinais durante a
+desfibrilação é extremamente baixo em condições normais. O foco principal deve ser a
+administração rápida do choque quando indicado, sem atrasos por preocupações
+desnecessárias com a posição do oxigênio.
+A abordagem da via aérea deve ser retardada no caso acima, pois existe uma grande
+chance de recuperação precoce da circulação espontânea. Incorreta. A abordagem
+precoce da via aérea é fundamental na RCP, especialmente em casos de suspeita de
+TEP maciço, pois permite otimizar a oxigenação e a ventilação, reduzindo a hipoxemia e
+a acidose. O atraso na intubação pode piorar o prognóstico, especialmente
+considerando que a hipoxemia grave pode ser um fator desencadeante da parada
+cardíaca. Além disso, mesmo que ocorra retorno da circulação espontânea.
+Referência:
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular:
+manual do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+
+Questão 5
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Paciente, masculino, 60 anos, atendido pelo Serviço Atendimento Móvel Urgência (SAMU) é trazido ao hospital
+de referência devido a parada cardiorrespiratória (PCR). Após 15 minutos de ressuscitação cardiopulmonar
+(RCP) o paciente apresentou retorno da circulação espontânea. Na avaliação pós-PCR o paciente apresentava
+via aérea pérvia, bradipneia, SAT O2 = 89%, PA=85x40 mmHg, FC=110 bpm, tempo de enchimento capilar de 5
+segundos, pele nas extremidades pálida e fria, Glasgow = 7 pupilas normais.
+Analise as condutas/procedimentos abaixo destinados ao paciente acima:
+I. Intubação orotraqueal.
+II. Ventilação mecânica com manutenção da sat O2 entre 92 e 98%.
+III. Tratamento da hipotensão arterial com cristaloides e agentes vasodilatadores/inotrópicos.
+IV. Realização de um eletrocardiograma.
+V. Realização do controle direcionado de temperatura (temperatura corporal entre 32 e 36°C por 48 horas).
+Estão corretos o que se afirmam apenas em:
+A) II, III e IV.
+B) I, II e IV.
+C) I, II, IV e V.
+D) IV e V.
+
+Resposta comentada:
+Alternativa Correta: B
+I. Intubação orotraqueal. CORRETO. Paciente com escala de coma de Glasgow menor
+do que 8, com indicação de intubação orotraqueal para proteção de via aérea.
+II. Ventilação mecânica com manutenção da sat O2 entre 92 e 98%. CORRETO. Devese titular a FiO2 para manter uma saturação entre 92 e 98%.
+III. Tratamento da hipotensão arterial com cristaloides e agentes
+vasodilatadores/inotrópicos. INCORRETO. A droga a ser administrada é a
+Noradrenalina, um vasoconstritor.
+IV. Realização de um eletrocardiograma. CORRETO. Deve-se realizar um
+eletrocardiograma de 12 derivações para investigar a causa da PCR e avaliar presença
+de isquemia miocárdica.
+V. Realização do controle direcionado de temperatura (temperatura corporal entre 32
+e 36°C por 48 horas). INCORRETO. Deve-se realizar o controle direcionado de
+temperatura por 24 horas e temperatura alvo de acordo com a última atualização em
+2023, é manter a temperatura entre 32 e 37,5°.
+[Imagem:]
+https://drive.google.com/file/d/1GxdFxz5OkpPwUG61gGlf0zR7cBFWZgy1/view?
+usp=drive_link
+Referência:
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular.
+manual do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+
+Questão 6
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Homem, 80 anos, portador de hipertensão arterial sistêmica, diabetes mellitus tipo II e doença renal crônica, é
+conduzido pelo Serviço de Atendimento Móvel de Urgência para Unidade de Pronto Atendimento devido a
+quadro de sonolência, associado com fadiga, êmese e desconforto respiratório iniciados há aproximadamente
+48 horas. Filha relata que o paciente recebeu indicação recente para início de hemodiálise, entretanto estava
+aguardando a realização de fístula arteriovenosa para dar início ao tratamento. Ao chegar ao ambiente
+hospitalar, foi conduzido para a sala vermelha e realizada monitorização multiparamétrica. Enquanto o médico
+plantonista conversava com os familiares, o paciente apresentou piora do quadro clínico, com rebaixamento de
+consciência, redução de frequência cardíaca e ausência de pulso carotídeo. Durante o atendimento, foi
+percebido o seguinte traçado:
+
+Sobre o caso descrito, analise as alternativas abaixo:
+I. Nesse tipo de ritmo, o coração gera atividade elétrica que deve corresponder a um pulso, mas nenhum pulso
+pôde ser encontrado.
+II. Apenas o líder deve buscar uma causa subjacente tratável, enquanto os demais membros desempenham as
+funções que lhes foram atribuídas.
+III. As prováveis causas para essa parada cardiorrespiratória podem ser atribuídas aos seguintes resultados da
+hemogasometria arterial: pH 7, bicarbonato 7 mmol/L, potássio 8 mmol/L.
+IV. Ritmo verificado como não chocável: atividade elétrica sem pulso, devendo ser administrada dose de
+lidocaína imediatamente.
+Está correto o que se afirma apenas em:
+A) II e IV.
+B) II, III e IV.
+
+C) II e III.
+D) I e III.
+
+Resposta comentada:
+Alternativa Correta: D
+I. Correta: Na atividade elétrica sem pulso, o coração gera atividade elétrica que deve
+corresponder a um pulso, mas nenhum pulso pode ser encontrado; podendo ser
+verificado ritmo organizado: Complexo QRS semelhante entre os batimentos; QRS largos
+ou estreitos; frequências rápidas ou lentas; Regulares ou irregulares; o coração não
+bombeia sangue suficiente e, portanto, não sustenta a perfusão cardíaca.
+II. Incorreta: Todos os membros da equipe devem buscar uma causa subjacente tratável
+da AESP, enquanto desempenham as funções que lhes foram atribuídas.
+III. Correta: De acordo com o quadro clínico descrito, duas prováveis causas de parada
+cardiorrespiratória seriam: Acidose Metabólica, descrita na alternativa como pH 7 e
+bicarbonato 7 mmol/L e Hipercalemia, descrita como potássio 8 mmol/L.
+IV. Incorreta: Em ritmos não chocáveis, logo após a determinação do ritmo, deve ser
+realizada a dose de epinefrina imediatamente.
+Referências:
+THALER, Malcolm S. ECG essencial: eletrocardiograma na prática diária. Porto Alegre:
+Grupo A, 2024. E-book. ISBN 9786558821823. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558821823/. Acesso em: 18 ago.
+2024.
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular:
+manual do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+
+Questão 7
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+(QUESTÃO ANULADA - CLIQUE NO BOTÃO X ANULAR, OU RESPONDA E DEPOIS ANULE PARA LER O
+PARECER.)
+(AFYA BRAGANÇA) Durante uma partida de futebol amador, um jogador de 45 anos colapsa repentinamente no
+campo. Um estudante de medicina do 6º período, já treinado em ressuscitação cardiopulmonar, se aproxima
+rapidamente e observa que o paciente está inconsciente, sem resposta aos estímulos verbais e físicos. Além
+disso, ele não apresenta movimentos respiratórios ou pulso palpável.
+Qual seria a sequência correta de ações a serem realizadas de acordo com o protocolo de suporte básico de
+vida na PCR recomendado pela American Heart Association (AHA)?
+A) Posicionar o paciente em decúbito lateral para evitar aspiração, chamar o serviço médico de
+emergência e aguardar a chegada do DEA para iniciar a reanimação cardiopulmonar.
+B) Avaliar vias aéreas, fornecer ventilação com ambu antes de iniciar compressões torácicas, solicitar
+um DEA e monitorar o paciente até a chegada do suporte avançado.
+C) Iniciar compressões torácicas imediatamente, verificar a ausência de pulso e respiração, solicitar
+ajuda e administrar ventilação boca a boca até a chegada do DEA.
+D) Confirmar a ausência de pulso e respiração, iniciar compressões torácicas de alta qualidade, solicitar
+um desfibrilador externo automático (DEA) e ventilar com máscara bolsa-válvula.
+
+Resposta comentada:
+Alternativa Correta: D
+PARECER: ANULAR QUESTÃO
+EMBASAMENTO TEÓRICO:
+Venho, por meio deste, solicitar a anulação da questão com base na inadequação da
+alternativa considerada correta em relação ao que preconiza o Protocolo de Suporte
+Básico de Vida (SBV) da American Heart Association (AHA), versão atualizada (20202025), para vítimas adultas em parada cardiorrespiratória. A sequência correta de
+atendimento, segundo a AHA, é a seguinte: 1- Verificar a responsividade da vítima. 2Chamar por ajuda e acionar o serviço de emergência (192 ou equivalente local),
+solicitando imediatamente um DEA. 3- Verificar se a vítima respira normalmente
+(respiração ausente ou agônica) e verificar pulso simultaneamente por no mínimo 5 e no
+máximo 10 segundos. 4- Se não houver respiração nem pulso, iniciar RCP com
+compressões torácicas de alta qualidade. 5- Assim que o DEA estiver disponível,
+analisar o ritmo e aplicar choque, se indicado. 6- Retomar imediatamente as
+compressões após o choque, conforme o protocolo. Ou seja, a solicitação do DEA
+ocorre no segundo passo do algoritmo, de forma simultânea ao pedido de ajuda e antes
+do início das compressões torácicas, o que contraria diretamente a sequência
+apresentada na alternativa (A), que foi dada como correta. A alternativa (A) falha ao
+colocar o início das compressões antes da solicitação do DEA, o que pode gerar atraso
+na desfibrilação, ação essencial em ritmos chocáveis (FV/TVsp). Nenhuma das demais
+alternativas apresenta a sequência correta conforme preconizada, e portanto a questão
+não possui nenhuma opção verdadeiramente adequada e deve ser anulada.
+JUSTIFICATIVA COMISSÃO NACIONAL:
+A alternativa A apresenta erro na sequência de ações, contrariando a ordem
+fundamental do algoritmo BLS da AHA 2020–2025, ao iniciar compressões antes da
+solicitaçãodoDEA. Nenhuma alternativa apresenta a sequência correta do algoritmo BLS
+atual. Portanto, a questão será ANULADA, conforme recomendação pedagógica e ética.
+REFERÊNCIA:
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular:
+manualdo profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+
+A abordagem correta da PCR segue a cadeia de sobrevivência, que inclui o
+reconhecimento imediato da parada, a ativação do serviço de emergência, a realização
+de compressões torácicas eficazes, a utilização do DEA assim que disponível e a
+ventilação adequada. Iniciar compressões precocemente melhora a perfusão cerebral e
+coronariana, aumentando a chance de sucesso na reanimação.
+Erro: Iniciar compressões torácicas antes de verificar a ausência de pulso e
+
+respiração. Embora a ênfase na RCP precoce seja essencial, a AHA recomenda primeiro
+verificar responsividade, respiração e pulso, para confirmar a PCR antes de iniciar as
+compressões.
+Erro: Avaliar vias aéreas e fornecer ventilação antes das compressões torácicas.
+Segundo as diretrizes da AHA, em adultos, a prioridade é a circulação, ou seja, iniciar
+compressões torácicas imediatamente após identificar a PCR. A ventilação é importante,
+mas ocorre após um ciclo inicial de compressões ou em conjunto com um profissional
+treinado.
+Erro: Posicionar o paciente em decúbito lateral em vez de iniciar a RCP
+imediatamente. O paciente está inconsciente, sem pulso e sem respiração, o que
+caracteriza PCR. A prioridade é iniciar compressões torácicas e não colocá-lo de lado.
+Erro: Aguardar a chegada do DEA antes de iniciar a reanimação. A AHA enfatiza que as
+compressões torácicas devem começar imediatamente e que o DEA deve ser utilizado
+assim que disponível, mas não se deve esperar por ele para iniciar a RCP.
+Referências:
+PERMAN, Sarah M. et al. 2023 American Heart Association Focused Update on Adult
+Advanced Cardiovascular Life Support: An Update to the American Heart Association
+Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care.
+Circulation, v. 149, p. e254-e273, 2024. Disponível em:
+https://doi.org/10.1161/CIR.0000000000001194. Acesso em: 09 mar. 2025.
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular:
+manual do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+
+Questão 8
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Durante uma partida de futebol amador, um estudante observa um jogador cair no meio do campo e ficar
+inconsciente. Ao se aproximar da vítima, percebe que outra pessoa chega com um kit de primeiros socorros,
+mas sem o Desfibrilador Externo Automático (DEA), e ela informa ao acadêmico que não possui conhecimento
+em suporte de vida.
+Diante dessa situação, qual deve ser a primeira conduta do estudante?
+A) Orientar o outro socorrista sobre como realizar o suporte adequado de vida neste paciente.
+B) Iniciar as compressões torácicas com 30 compressões para 2 ventilações.
+C) Ver a responsividade da vítima, pedir ajuda com DEA e verificar o pulso carotídeo.
+D) Pedir ajuda para o 192 com o DEA, desfibrilador externo automático.
+
+Resposta comentada:
+Alternativa Correta: C
+Ver a responsividade da vítima, pedir ajuda com DEA e verificar o pulso carotídeo.
+Correta: Devemos proceder a verificar a responsividade, pedir ajuda com o
+desfibrilador e depois checar o pulso carotídeo por 5-10 segundos nesta vítima que está
+no extra-hospitalar.
+Pedir ajuda para o 192 com o DEA, desfibrilador externo automático. Incorreta: Não
+verificou se o paciente estava em parada cardiorrespiratória antes de solicitar ajuda.
+Iniciar as compressões torácicas com 30 compressões para 2 ventilações. Incorreta:
+Iniciou as compressões torácicas sem nem avaliar se o paciente estava em parada
+cardiorrespiratória.
+Orientar o outro socorrista sobre como realizar o suporte adequado de vida neste
+paciente. Incorreta: Nesse momento, o mais importante é socorrer a vítima o mais
+rápido e adequado possível e não orientar outra pessoa que não tem nenhum
+conhecimento sobre como proceder, o que é diferente de orientar a equipe treinada.
+Referências:
+American Heart Association (AHA). ACLS Instructor Manual. Dallas, TX: American Heart
+Association, 2020.
+American Heart Association (AHA). ACLS Provider Manual. Formato: E-book. Dallas, TX:
+American Heart Association, 2021.
+
+Questão 9
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Mulher, 63 anos de idade, hipertensa com antecedente de infarto há 4 anos, em uso de anlodipina, AAS,
+carvedilol e enalapril. Hoje queixa-se de fraqueza, tontura e síncope em casa há aproximadamente 30 minutos.
+Exame clínico: sudoreica, pele fria e pegajosa, PA 78x53 mmHg, bradicárdica. Feito o eletrocardiograma,
+considere o traçado eletrocardiográfico a seguir.
+
+a) Descreva adequadamente o diagnóstico, medicações que poderão ser utilizadas e conduta para essa
+paciente.
+b) Considerando que o tratamento farmacológico não foi eficaz, explique qual seria a próxima conduta a
+ser utilizada, visando o tratamento desta patologia.
+
+Questão Dissertativa
+Resposta comentada:
+
+[Acervo do Rique - Aviso:] A questão original foi ANULADA porque o link da imagem da
+prova impressa continha a resposta (Disponível em:
+https://www.researchgate.net/figure/Mobitz-type-II-second-degree-AV-blockIntermittently-P-wave-fails-to-conduct-but-not_fig1_308310323. Acesso em: 02 abr.
+2025.). Então eu corrigi aqui.
+[Acervo do Rique - Opinião:] pqp kkkkk... isso é afya demais.
+A) Inicialmente vemos uma paciente idosa, que apresentou síncope em domicílio há 30
+minutos, hipotensa com tontura, pele fria, com sudorese e bradicardia: o que caracteriza
+sinais de instabilidade hemodinâmica e hipoperfusão tecidual. Ao realizar o ECG, o
+mesmo evidencia um Bloqueio Atrioventricular de 2º grau Mobitz II. Segundo o
+fluxograma do ACLS, paciente com bradiarritmia instável, pode ser usado atropina
+(bolus de 1mg repetindo a cada 3 ou 5 minutos, podendo chegar a 3 mg) ou infusão
+contínua de dopamina ou epinefrina.
+B) Considerar marcapasso para a paciente. Diante de um bloqueio atrioventricular (AV)
+de 2º grau Mobitz II associado a instabilidade hemodinâmica, a resposta ao tratamento
+farmacológico, como o uso de atropina, dopamina ou epinefrina, pode ser limitada
+devido à natureza do bloqueio, que ocorre em uma parte do sistema de condução onde
+esses medicamentos têm eficácia reduzida. Quando o tratamento farmacológico não é
+eficaz, a conduta prioritária é a instalação de um marcapasso temporário. Esse
+dispositivo fornecerá estímulos elétricos diretos para restaurar e manter uma frequência
+cardíaca adequada, garantindo perfusão tecidual e estabilização hemodinâmica,
+prevenindo o risco de progressão para um bloqueio cardíaco completo, uma situação de
+maior criticidade.
+Referências:
+BERNOCHE, C.; TIMERMAN, S.; POLASTRI, T. F.; GIANNETTI, N. S.; SIQUEIRA, A. W. S.;
+PISCOPO, A.; et al. Atualização da Diretriz de Ressuscitação Cardiopulmonar e Cuidados
+de Emergência da Sociedade Brasileira de Cardiologia - 2019. Arq Bras Cardiol., v. 113, n.
+3, p. 449-663, 2019.
+RASSLAN, Zied. Medicina de Urgência. Barueri: Manole, 2016. E-book. p. 1. ISBN
+9788520450598. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520450598/. Acesso em:
+20 nov. 2024.
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular:
+manual do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+
+Questão 10
+
+Assunto:
+
+Entendi ◯
+Revisar ◯
+
+Um estudante está de plantão em uma unidade de pronto atendimento e recebe um paciente masculino, 62
+anos, diabético, hipertenso e renal crônico, em hemodiálise, que deu entrada no hospital com uma parada
+cardiorrespiratória em atividade elétrica sem pulso. Foram realizadas manobras de ressuscitação
+cardiopulmonar, com correção da hipercalemia e acidose metabólica que causaram o quadro, culminando no
+retorno à circulação espontânea. No momento, o paciente se encontra com: Glasgow 5, PA 95/62(67) mmHg,
+78 bpm, 12 irpm, saturação de O2 94%, em ventilação mecânica por tubo orotraqueal com FiO2 30%,
+Capnografia paCO2 32 mmHg.
+Sobre os cuidados imediatos pós-parada cardiorrespiratória, assinale a alternativa que indica a conduta para o
+presente caso.
+A) Usar norepinefrina visando aumentar a pressão arterial para, no mínimo, 100 mmHg e/ou pressão
+arterial média >65 mmHg.
+B) Aumentar a FiO2 visando uma saturação de oxigênio entre 95-100%.
+C) Introduzir sedoanalgesia por 24-72 horas e realizar tomografia computadorizada de crânio.
+D) Aumentar a frequência respiratória visando uma capnografia entre 35-45 mmHg.
+
+Resposta comentada:
+Alternativa Correta: C
+Introduzir sedoanalgesia por 24-72 horas e realizar tomografia computadorizada de
+crânio.
+Justificativa: Em pacientes comatosos pós-parada cardiorrespiratória, a sedoanalgesia
+é fundamental para prevenir o aumento do consumo cerebral de oxigênio, controlar a
+agitação e facilitar a ventilação mecânica. A sedação adequada protege o cérebro,
+permite um ambiente fisiológico mais estável e otimiza a monitorização neurológica. O
+baixo escore de Glasgow indica rebaixamento neurológico severo, que pode ser
+resultado de lesão cerebral hipóxico-isquêmica ou outras patologias intracranianas.
+Uma TC de crânio ajuda a identificar causas tratáveis (como hemorragias) e a monitorar
+a progressão do dano cerebral.
+Aumentar a FiO2 visando uma saturação de oxigênio entre 95-100%.
+Justificativa: A saturação de oxigênio alvo é de 92-98%. Aumentar a FiO2 para manter
+a saturação entre 95-100% não é necessário se a saturação já está dentro da faixa alvo
+de 92-98%. Hiperóxia pode ser prejudicial a longo prazo, causando estresse oxidativo.
+Aumentar a FiO2 seria aplicável em casos de hipoxemia persistente, onde a saturação
+de oxigênio está abaixo do alvo recomendado, sugerindo inadequada oxigenação dos
+tecidos.
+Aumentar a frequência respiratória visando uma capnografia entre 35-45 mmHg.
+Justificativa: A capnografia alvo é de 35-45 mmHg. Neste caso, como o paCO2 inicial é
+32 mmHg, a tendência mais lógica seria reduzir a frequência respiratória para aumentar
+o paCO2, caso necessário. Ajustar a frequência respiratória para abaixar o paCO2 seria
+pertinente em casos de hipoventilação, quando o paCO2 está acima do alvo, indicando
+ventilação alveolar inadequada.
+Usar norepinefrina visando aumentar a pressão arterial para, no mínimo, 100 mmHg
+e/ou pressão arterial média >65 mmHg.
+Justificativa: A PAS alvo é de 90 e a PAM alvo é de 65 mmHg. A pressão arterial
+sistólica (PAS) de 95 mmHg e a pressão arterial média (PAM) de 67 mmHg já estão
+dentro de limites aceitáveis para garantir perfusão adequada, especialmente quando
+não há sinais de instabilidade. Norepinefrina seria apropriada em cenários de
+hipotensão persistente onde a PAM é consistentemente abaixo de 65 mmHg, indicando
+insuficiente perfusão dos órgãos vitais apesar das intervenções iniciais.
+Referência:
+American Heart Association. SAVC: Suporte avançado de vida cardiovascular: manual
+do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2
+
+

@@ -1,0 +1,579 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade VII
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 01/10/2025
+
+N1 ESPECÍFICA - MEDICINA - IESC VII - 2025.2 - 1ª CHAMADA 01/OUTUBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17311 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(UNIFIPMOC) Em uma repartição pública, três servidores aguardam atendimento médico e
+apresentam os seguintes resultados de exames para hepatites virais e dosagem de alanina
+aminotransferase (ALT):
+Enfermeiro:
+Anti-VHA IgG: reagente.
+HBsAg: reagente.
+Anti-HBs: não reagente.
+Anti-HBc total: reagente.
+ALT: 100 UI/L.
+Contador:
+Anti-VHA IgG: não reagente.
+HBsAg: não reagente.
+Anti-HBs: não reagente.
+Anti-HBc total: não reagente.
+ALT: 40 UI/L.
+Economista:
+Anti-VHA IgG: reagente.
+HBsAg: não reagente.
+Anti-HBs: reagente.
+Anti-HBc total: não reagente.
+ALT: 100 UI/L.
+Com base nesses resultados, qual das seguintes afirmações sobre hepatite viral A (VHA) e
+hepatite viral B (VHB) é correta?
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 1 de 16
+
+Alternativas:
+(alternativa A)
+O economista deve ser vacinado contra o VHA.
+(alternativa B)
+O contador foi vacinado contra o VHB.
+(alternativa C) (CORRETA)
+O enfermeiro é portador crônico do VHB.
+(alternativa D)
+O contador está imune ao VHA.
+
+Resposta comentada:
+Correta: O enfermeiro é portador crônico do VHB.
+Comentários:
+Correta: A presença de HBsAg reagente indica infecção ativa pelo vírus da hepatite B. A ausência
+de Anti-HBs e a presença de Anti-HBc total sugerem que o enfermeiro possui infecção crônica
+pelo VHB. O nível elevado de ALT indica lesão hepática associada.
+Incorreta: A ausência de Anti-VHA IgG no contador indica que ele nunca teve contato com o vírus
+da hepatite A e, portanto, não está imune. Ele é suscetível à infecção e deve ser vacinado.
+Incorreta: No contador, todos os marcadores sorológicos para hepatite B são negativos, indicando
+que ele não foi vacinado e não possui imunidade contra o VHB.
+Incorreta: O economista tem Anti-VHA IgG reagente, indicando imunidade adquirida por infecção
+prévia. Portanto, ele não necessita de vacinação contra o VHA.
+Referência:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Doenças de
+Condições Crônicas e Infecções Sexualmente Transmissíveis. Protocolo Clínico e Diretrizes
+Terapêuticas para Hepatite Viral B e Coinfecções. Brasília: Ministério da Saúde, 2019.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(IESVAP) Homem, 30 anos, previamente saudável, procura atendimento médico devido a fadiga
+persistente, febre intermitente e perda de peso nos últimos dois meses. Ele relata histórico de
+múltiplos parceiros sexuais sem o uso consistente de preservativo. No exame físico, observa-se
+linfadenopatia e lesões do tipo mono-like.
+Com base nesse caso, analise as seguintes afirmações e assinale a alternativa correta.
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 2 de 16
+
+Alternativas:
+(alternativa A)
+O diagnóstico da infecção pelo HIV é confirmado com um teste rápido positivo pela simplicidade
+do exame e rastreio efetivo.
+(alternativa B)
+Não existe a possibilidade de medidas preventivas adicionais para contatos sexuais do paciente,
+uma vez que é uma doença silenciosa e com longos anos de inatividade.
+(alternativa C) (CORRETA)
+A carga viral e a contagem de linfócitos T CD4+ são essenciais para avaliar a progressão da
+doença e guiar a terapia antirretroviral.
+(alternativa D)
+A profilaxia pré-exposição (PrEP) deve ser iniciada imediatamente nesse paciente para reduzir o
+risco de transmissão do HIV, independentemente de outros testes adicionais.
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 3 de 16
+
+Resposta comentada:
+Resposta correta: A carga viral e a contagem de linfócitos T CD4+ são fundamentais no
+acompanhamento da infecção pelo HIV. A carga viral indica a replicação do vírus e ajuda a
+monitorar a resposta ao tratamento antirretroviral, enquanto a contagem de CD4+ avalia o grau de
+imunossupressão e o risco de infecções oportunistas.
+Incorreta: O diagnóstico da infecção pelo HIV é confirmado com um teste rápido positivo pela
+simplicidade do exame e rastreio efetivo." O teste rápido para HIV é um excelente exame de
+triagem, mas não confirma o diagnóstico sozinho. Caso o teste rápido seja positivo, é necessário
+um segundo teste confirmatório, como o Western blot, Imunoblot, ou Teste Molecular (PCR para
+RNA do HIV), seguindo os fluxogramas diagnósticos estabelecidos pelo Ministério da Saúde e
+pela OMS.
+Incorreta: A profilaxia pré-exposição (PrEP) deve ser iniciada imediatamente nesse paciente para
+reduzir o risco de transmissão do HIV, independentemente de outros testes adicionais." A PrEP
+(profilaxia pré-exposição) é uma estratégia preventiva para pessoas HIV-negativas com risco
+aumentado de infecção. No entanto, esse paciente já apresenta sintomas sugestivos de fase
+aguda da infecção pelo HIV. Em indivíduos já infectados, a PrEP não tem indicação e, pior, pode
+gerar resistência viral caso seja iniciada inadvertidamente. O adequado seria confirmar o
+diagnóstico e, se positivo, iniciar o tratamento antirretroviral (TARV).
+Incorreta: Não existe a possibilidade de medidas preventivas adicionais para contatos sexuais do
+paciente, uma vez que é uma doença silenciosa e com longos anos de inatividade." Existem
+diversas medidas preventivas para os contatos sexuais de um paciente com suspeita ou
+diagnóstico de HIV, incluindo:
+Profilaxia Pós-Exposição (PEP) para contatos recentes (até 72h);
+Testagem e aconselhamento dos parceiros sexuais;
+Uso de preservativos para evitar novas transmissões.
+Tratamento como prevenção (TasP), pois pessoas vivendo com HIV em tratamento eficaz não
+transmitem o vírus (carga viral indetectável = intransmissível, U=U).
+Referências:
+Ministério da Saúde do Brasil. (2022). Protocolo Clínico e Diretrizes Terapêuticas para Manejo da
+Infecção pelo HIV em Adultos. Brasília: Ministério da Saúde.
+Organização Mundial da Saúde (OMS). (2021). Consolidação das Diretrizes sobre a Utilização de
+Antirretrovirais para o Tratamento e Prevenção da Infecção pelo HIV: Recomendações para uma
+Abordagem de Saúde Pública – 2021 Atualização. Genebra: OMS.
+UNAIDS. (2023). Relatório Global sobre a Epidemia de AIDS 2023. Genebra: Programa Conjunto
+das Nações Unidas sobre HIV/AIDS.
+Feedback:
+-3ª QUESTÃO
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 4 de 16
+
+Enunciado:
+(AFYA Paraíba) Em uma Unidade de Saúde da Família, foi acolhido um paciente de 24 anos,
+sexo masculino, apresentando queixa que vem lhe deixando constrangido. Trata-se da saída de
+corrimento uretral purulento quando o paciente termina de urinar. Não tem certeza de quando
+começou, acredita que há 7 dias. Relata atividade sexual recorrente com parceira fixa e,
+ocasionalmente, com outras parceiras, mas com uso regular de preservativo. Considerando a
+abordagem sindrômica das infecções sexualmente transmissíveis (ISTs), qual é a conduta inicial
+mais adequada?
+Alternativas:
+(alternativa A)
+Solicitar PCR para Haemophilus ducreyi e prescrever doxiciclina com ampicilina em dose
+terapêutica.
+(alternativa B)
+Solicitar sorologias para o paciente e prescrever penicilina G benzatina 1,2 milhões de unidades
+internacionais.
+(alternativa C)
+Prescrever ciprofloxacino imediatamente e solicitar um exame de urocultura para confirmação
+etiológica.
+(alternativa D) (CORRETA)
+Iniciar tratamento empírico com ceftriaxona e azitromicina e solicitar PCR para clamídia e
+gonococo para o paciente.
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 5 de 16
+
+Resposta comentada:
+O caso clínico apresentado descreve um paciente jovem, do sexo masculino, que procura a
+Unidade de Saúde da Família com queixa de corrimento uretral purulento, sintoma típico da
+síndrome do corrimento uretral, uma das cinco principais síndromes abordadas no Protocolo de
+Manejo Clínico das Infecções Sexualmente Transmissíveis (ISTs), publicado pelo Ministério da
+Saúde em 2022.
+Essa síndrome é frequentemente causada por infecção por Neisseria gonorrhoeae (gonococo)
+e/ou Chlamydia trachomatis, sendo estas as duas principais etiologias a serem cobertas pelo
+tratamento empírico. A abordagem recomendada pelo protocolo é baseada na clínica e nos
+achados epidemiológicos, sem necessidade de aguardar exames laboratoriais para início do
+tratamento. Isso é essencial para interromper a cadeia de transmissão, evitar complicações como
+epididimite e infertilidade e reduzir o sofrimento do paciente.
+A conduta inicial mais adequada, portanto, é iniciar imediatamente o tratamento empírico com
+ceftriaxona 500 mg intramuscular em dose única e azitromicina 1 g via oral em dose única,
+conforme indicado na alternativa. Essa abordagem cobre simultaneamente as duas principais
+bactérias implicadas no quadro e está de acordo com as diretrizes nacionais de atenção integral
+às ISTs. A solicitação de exames laboratoriais, como PCR para Chlamydia e Neisseria, pode ser
+feita como complemento, mas não deve postergar o início da terapia. Além disso, é fundamental
+realizar o manejo clínico dos(as) parceiros(as) sexuais e orientar sobre a abstinência sexual até o
+término do tratamento, além de medidas preventivas, como o uso regular de preservativos.
+As demais alternativas apresentam falhas conceituais importantes. A alternativa, ao propor o uso
+isolado de ciprofloxacino e aguardar urocultura, desconsidera o manejo sindrômico e o fato de que
+o ciprofloxacino não é mais recomendado devido à resistência crescente. A alternativa
+que direciona a investigação para Haemophilus ducreyi, agente etiológico do cancro mole, que se
+manifesta com úlcera genital dolorosa, e propõe um esquema terapêutico inadequado. Já a
+alternativa que sugere tratamento para sífilis sem compatibilidade com o quadro clínico descrito
+— não há lesão ulcerada ou suspeita sorológica nesse momento que justifique a administração da
+penicilina benzatina.
+Referência:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às
+Pessoas com Infecções Sexualmente Transmissíveis (IST). Brasília: Ministério da Saúde, 2022.
+Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/i/infeccoes-sexualmentetransmissiveis-ists. Acesso em: 23 abr. 2025.
+
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(ITPAC Porto Nacional) Um homem de 42 anos, residente em área endêmica de hanseníase,
+procura a Unidade Básica de Saúde relatando manchas hipocrômicas no braço esquerdo há 6
+meses, com diminuição da sensibilidade térmica e tátil no local. Ao exame físico, nota-se
+espessamento do nervo ulnar à palpação, sem dor. Não há queixas respiratórias ou febre. Nega
+contato conhecido com pessoas em tratamento.
+Diante do caso clínico acima, marque a alternativa correta.
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 6 de 16
+
+Alternativas:
+(alternativa A)
+A principal via de transmissão da hanseníase é por meio da pele lesionada; o diagnóstico é
+confirmado apenas com baciloscopia positiva, e a conduta inicial na Atenção Primária é
+encaminhar imediatamente ao especialista no centro de referência estadual.
+(alternativa B)
+O contato intradomiciliar não é relevante para vigilância epidemiológica; a hanseníase se
+manifesta inicialmente com sintomas sistêmicos, e o tratamento deve ser feito com monoterapia
+de rifampicina sob supervisão na Unidade Básica de Saúde e, após um mês, inicia outras drogas.
+(alternativa C)
+A hanseníase possui baixa endemicidade no Brasil atualmente; o diagnóstico depende de biópsia
+cutânea confirmatória, e a Atenção Primária deve apenas acompanhar os comunicantes após
+encaminhamento do caso para tratamento com infectologista no centro de referência.
+(alternativa D) (CORRETA)
+A hanseníase tem maior transmissibilidade em pacientes multibacilares; o diagnóstico pode ser
+feito clinicamente ao identificar lesão de pele com alteração de sensibilidade ou nervo periférico
+espessado, e a conduta na Atenção Primária inclui iniciar poliquimioterapia.
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 7 de 16
+
+Resposta comentada:
+A principal via de transmissão da hanseníase é por meio da pele lesionada; o diagnóstico é
+confirmado apenas com baciloscopia positiva, e a conduta inicial na Atenção Primária é
+encaminhar imediatamente ao especialista. Errada: A principal via de transmissão não é pela pele,
+mas sim pelas vias aéreas superiores, por meio de gotículas de secreções nasais de pacientes
+não tratados. Além disso, não é necessário baciloscopia para confirmar diagnóstico, nem é
+conduta exclusiva do especialista.
+A hanseníase tem maior transmissibilidade em pacientes multibacilares; o diagnóstico pode ser
+feito clinicamente ao identificar lesão de pele com alteração de sensibilidade ou nervo periférico
+espessado, e a conduta na Atenção Primária inclui iniciar poliquimioterapia. Correta: A hanseníase
+é mais transmissível na forma multibacilar (MB), pois há maior carga bacilar. O diagnóstico na
+Atenção Primária é essencialmente clínico, baseado em pelo menos um dos seguintes critérios:
+lesão de pele com alteração de sensibilidade. Comprometimento de nervo periférico
+(espessamento, alteração de sensibilidade ou força). Baciloscopia positiva (quando disponível). A
+conduta na UBS é iniciar imediatamente a poliquimioterapia (PQT/OMS), disponível em nível
+primário, não havendo necessidade de aguardar referência. O paciente do caso tem lesão de pele
+com alteração sensitiva e espessamento neural, preenchendo critério diagnóstico.
+A hanseníase possui baixa endemicidade no Brasil atualmente; o diagnóstico depende de biópsia
+cutânea confirmatória, e a Atenção Primária deve apenas acompanhar os comunicantes após
+encaminhamento do caso para tratamento com especialista. Errada: O Brasil continua sendo um
+dos países com maior endemicidade no mundo, especialmente nas regiões Norte, Nordeste e
+Centro-Oeste. A biópsia cutânea não é obrigatória, sendo diagnóstico essencialmente clínico.
+O contato intradomiciliar não é relevante para vigilância epidemiológica; a hanseníase se
+manifesta inicialmente com sintomas sistêmicos, e o tratamento deve ser feito com monoterapia
+de rifampicina sob supervisão na Unidade Básica de Saúde. Errada: O contato intradomiciliar é
+fundamental para vigilância e deve ser examinado e acompanhado. A hanseníase não começa
+com sintomas sistêmicos, mas sim com lesões de pele e alterações de sensibilidade. O
+tratamento é feito com poliquimioterapia (rifampicina, dapsona e clofazimina), nunca monoterapia.
+Referência:
+Gusso, G., Lopes, J. M. C. (orgs.). Tratado de Medicina de Família e Comunidade – Princípios,
+Formação e Prática. 2ª edição. Porto Alegre: Artmed, 2019.
+
+Feedback:
+-5ª QUESTÃO
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 8 de 16
+
+Enunciado:
+(AFYA Paraíba) Um homem de 35 anos procura a Unidade Básica de Saúde (UBS) com fadiga,
+náuseas e dor em hipocôndrio direito há uma semana. Relata que recentemente esteve viajando
+para uma região com baixa cobertura sanitária e teve episódios de diarreia. Ao exame, apresenta
+escleras ictéricas, hepatomegalia dolorosa e febre baixa. Os exames laboratoriais mostram
+elevação de transaminases (AST 450 U/L e ALT 320 U/L), bilirrubinas totais 3 mg/dl e IgM positivo
+para VHA.
+Com base na epidemiologia, clínica e conduta das hepatites virais na APS, analise as afirmativas
+abaixo.
+I. A principal via de transmissão da hepatite A é fecal-oral, sendo a contaminação por água e
+alimentos a principal fonte de infecção.
+II. O tratamento da hepatite A consiste em antivirais, medidas de suporte e repouso, com uma
+evolução autolimitada, na maioria dos casos.
+III. A vacinação contra hepatite A faz parte do calendário vacinal e é indicada especialmente para
+grupos de risco e residentes em áreas endêmicas.
+IV. A forma aguda da doença costuma ter evolução benigna, com resolução espontânea, sendo o
+manejo baseado em medidas de suporte e orientações de prevenção.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A)
+I, II e III.
+(alternativa B)
+II e IV.
+(alternativa C) (CORRETA)
+I, III e IV.
+(alternativa D)
+II e III.
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 9 de 16
+
+Resposta comentada:
+Analisando as afirmativas item a item.
+Item I - correto. A hepatite A é transmitida por via fecal-oral, geralmente por consumo de água ou
+alimentos contaminados, sendo essa a principal forma de disseminação da doença.
+Item II - incorreto. A hepatite A não tem tratamento específico com antivirais ou hepatoprotetores.
+O manejo consiste em medidas de suporte, hidratação e controle dos sintomas.
+Item III - correto. A vacinação contra hepatite A está disponível no calendário vacinal do SUS para
+grupos de risco, incluindo crianças, pessoas com doenças hepáticas crônicas e viajantes para
+áreas endêmicas.
+Item IV - correto. A hepatite A geralmente apresenta um curso benigno e autolimitado, sem
+cronificação, com resolução espontânea na maioria dos casos. A orientação do paciente deve
+enfatizar repouso, hidratação e medidas de prevenção, como higiene adequada e vacinação.
+Referência:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Protocolo Clínico e Diretrizes
+Terapêuticas para Hepatite A. Brasília: Ministério da Saúde, 2022. Disponível em:
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hepatites-virais/hepatite-a. Acesso em:
+6 mar. 2025.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(UNISL Porto Velho) Abaixo estão descrições de quatro casos de urgência/emergência na APS.
+Identifique qual dos pacientes apresenta uma situação de urgência/emergência que requer
+encaminhamento imediato para um atendimento especializado.
+Situações Clínicas:
+1. Paciente A: Um homem de 40 anos apresenta dor abdominal difusa, febre baixa (38°C)
+e náuseas que começaram há 24 horas. Ele relata que a dor tem piorado gradualmente
+e que tem dificuldade para se alimentar. Os sinais vitais estão estáveis, e ele tem
+pressão arterial de 120/80 mmHg e frequência cardíaca de 90 bpm.
+2. Paciente B: Uma mulher de 55 anos chega com dor no peito que começou há cerca de
+1 hora. A dor é opressiva, irradiando para o braço esquerdo e mandíbula. Ela está
+pálida, com sudorese intensa e apresenta frequência cardíaca de 110 bpm, pressão
+arterial de 170/100 mmHg e saturação de oxigênio de 92% em ar ambiente.
+3. Paciente C: Um jovem de 17 anos apresenta tosse persistente e febre de 38°C, com
+histórico recente de infecção respiratória. No exame físico, há estertores crepitantes
+em ambos os pulmões e a frequência respiratória está aumentada, com uma saturação
+de oxigênio de 95% em ar ambiente. Não apresenta dispneia.
+4. Paciente D: Uma jovem de 25 anos queixando-se de dor lombar há 2 dias com disúria.
+Ela apresenta dor aguda na região lombar, principalmente ao urinar. Os sinais vitais
+estão normais e não apresenta febre.
+Qual dos pacientes apresenta uma situação de urgência/emergência que exige encaminhamento
+imediato para um atendimento especializado?
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 10 de 16
+
+Alternativas:
+(alternativa A)
+Paciente A.
+
+(alternativa B) (CORRETA)
+Paciente B.
+
+(alternativa C)
+Paciente C.
+
+(alternativa D)
+Paciente D.
+
+Resposta comentada:
+Resposta Correta:
+Paciente B - Dor torácica opressiva irradiada para o braço esquerdo e mandíbula, com sinais de
+hipoxemia e hipertensão.
+Justificativas:
+- O paciente A apresenta dor abdominal e febre baixa, que são sintomas que podem indicar uma
+condição abdominal aguda, como apendicite ou gastroenterite. Embora desconfortável, não é
+necessariamente uma emergência que requer encaminhamento imediato.
+- O paciente B apresenta sintomas clássicos de infarto agudo do miocárdio (IAM), incluindo dor
+torácica opressiva irradiada, sudorese intensa, hipertensão e hipoxemia. Esses sinais são
+indicativos de uma emergência cardíaca que exige encaminhamento imediato para uma unidade
+de emergência.
+- O paciente C tem sintomas de infecção respiratória com febre e tosse, mas a saturação de
+oxigênio está dentro dos limites normais (95%).
+- O paciente D tem dor lombar, mas não apresenta sinais de instabilidade hemodinâmica que
+indiquem a necessidade de encaminhamento imediato.
+Referências:
+DUCAN, B, B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca (5ª edição). Grupo A, 2022. (Cap. 16).
+GUSSO, G, et al. Tratado de medicina de família e comunidade - 2 volumes: princípios, formação
+e prática. Disponível em: Minha Biblioteca (2ª edição). Grupo A, 2019. (Cap. 48 e 49).
+Feedback:
+-7ª QUESTÃO
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 11 de 16
+
+Enunciado:
+(UNIGRANRIO Caxias) JSR, 32 anos, masculino, veio a uma consulta médica na UBS da Vila
+Canaã, relatando contato sexual sem preservativo com uma pessoa desconhecida. Considerando
+as recomendações do Ministério da Saúde, avalie as assertivas abaixo sobre profilaxia pósexposição (PEP): assinale as alternativas verdadeiras e falsas abaixo:
+1. A PEP deve ser iniciada preferencialmente nas primeiras 2 horas após a exposição,
+sendo eficaz até no máximo 72 horas.
+2. A PEP consiste no uso de três antirretrovirais em combinação durante 28 dias.
+3. A PEP está indicada apenas para profissionais de saúde que tiveram acidente
+ocupacional com material biológico.
+4. A testagem rápida de HIV e hepatites deve ser realizada apenas ao final do uso da
+PEP, não sendo necessária na avaliação inicial.
+Alternativas:
+(alternativa A)
+As assertivas 1 e 3 estão corretas.
+(alternativa B)
+As assertivas 1 e 4 estão corretas.
+(alternativa C) (CORRETA)
+As assertivas 1 e 2 estão corretas.
+(alternativa D)
+As assertivas 2 e 4 estão corretas.
+
+Resposta comentada:
+(1) Verdadeira: segundo o Ministério da Saúde, a PEP deve ser iniciada o mais rápido possível,
+preferencialmente até 2 horas após a exposição e no máximo em 72 horas, para garantir eficácia
+na prevenção da infecção.
+(2) Verdadeira: o esquema recomendado de PEP inclui três antirretrovirais em combinação (ex.:
+tenofovir + lamivudina + dolutegravir), por 28 dias consecutivos, garantindo maior eficácia contra
+cepas resistentes e reduzindo risco de falha.
+(3) Falsa: a PEP não é exclusiva de profissionais de saúde. Está indicada em acidentes
+ocupacionais, violência sexual e exposição sexual consentida de risco (relações despr
+(4) Falsa: a testagem rápida para HIV, hepatites B e C e sífilis deve ser realizada imediatamente
+na avaliação inicial, antes da prescrição da PEP, e repetida após o término do acompanhamento.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Profilaxia PósExposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais. Brasília, 2022.
+BRASIL. Ministério da Saúde. Diretrizes para Organização da Linha de Cuidado de Pessoas
+Vivendo com HIV/AIDS na Rede de Atenção à Saúde. Brasília,
+Feedback:
+-000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 12 de 16
+
+8ª QUESTÃO
+Enunciado:
+(UNIREDENTOR) Carlos, 47 anos, comparece à UBS apresentando tosse há cerca de 30 dias,
+com escarro esbranquiçado, sudorese noturna e emagrecimento de 5 kg no último mês. Nega
+hemoptise. Ao exame físico, apresenta crepitações finas em ápice pulmonar direito. A unidade
+não dispõe de TRM-TB no momento. Diante da suspeita clínica de tuberculose pulmonar, qual
+deve ser a conduta diagnóstica inicial na APS?
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar baciloscopia de escarro (duas amostras) e radiografia de tórax; se baciloscopia for
+positiva, iniciar tratamento.
+(alternativa B)
+Solicitar baciloscopia de escarro (duas amostras em dias alternados) e iniciar imediatamente o
+tratamento.
+(alternativa C)
+Aguardar coleta de cultura de escarro para confirmar o diagnóstico, antes de adotar outra conduta
+e iniciar tratamento.
+(alternativa D)
+Solicitar radiografia de tórax e, se alterada, encaminhar o paciente ao pneumologista para
+avaliação e início do tratamento.
+
+Resposta comentada:
+Incorreta. Solicitar baciloscopia de escarro (duas amostras em dias alternados) e iniciar
+imediatamente o tratamento. Embora a baciloscopia seja um método útil e acessível, o protocolo
+não recomenda iniciar tratamento empírico com base apenas na suspeita clínica, exceto em
+casos graves ou com risco de disseminação. É necessário confirmar o diagnóstico
+laboratorialmente, e a radiografia pode auxiliar na avaliação.
+Correta. Realizar baciloscopia de escarro (duas amostras) e radiografia de tórax; se baciloscopia
+for positiva, iniciar tratamento. Em locais onde TRM-TB não está disponível, a conduta inicial
+indicada pelo Ministério da Saúde é a baciloscopia de escarro, associada à radiografia de tórax. O
+tratamento é iniciado após confirmação da baciloscopia positiva, sendo a combinação com o RX
+útil especialmente em baciloscopia negativa.
+Incorreta. Solicitar radiografia de tórax e, se alterada, encaminhar o paciente ao pneumologista
+para avaliação e início do tratamento. A radiografia é complementar, mas não suficiente para
+confirmar diagnóstico de tuberculose. Encaminhar ao especialista sem tentativa de confirmação
+na APS contraria o fluxo da rede SUS e os princípios da resolutividade da APS.
+Incorreta. A cultura de escarro é importante, mas não é o exame inicial. Ela é indicada como
+exame complementar, especialmente em casos de baciloscopia negativa e persistência clínica.
+Referência:
+Manual de Recomendações para o Diagnós tico Laboratorial de Tuberculose e Micobactérias não
+Tuberculosas de Interesse em Saúde Pública no Brasil. – Brasília: Ministério, 2022.
+Feedback:
+-000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 13 de 16
+
+9ª QUESTÃO
+Enunciado:
+(UNIFIPMOC) Homem de 30 anos, previamente hígido, procura atendimento na Clínica Médica
+relatando febre recente, mialgias e aparecimento de lesões cutâneas difusas. Ao exame físico,
+observam-se lesões máculo-papulosas em membros superiores, inferiores e tronco, acometendo
+também palmas das mãos e plantas dos pés. Palpa-se linfonodomegalia discreta, móvel e indolor
+em cadeias cervicais posterior, axilar e inguinal. Imagens do paciente:
+
+Fonte: Arquivo Pessoal Docente.
+A) Considerando a principal hipótese diagnóstica para o caso, liste os exames que devem ser
+solicitados para a confirmação diagnóstica. (0,75 ponto)
+B) Descreva o tratamento de escolha para esse paciente, incluindo dose, via de administração e
+esquema alternativo em caso de alergia à medicação de primeira escolha. (0,75 ponto)
+Alternativas:
+--
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 14 de 16
+
+Resposta comentada:
+A) Hipótese clínica:
+O quadro descrito é típico de sífilis secundária, caracterizada por erupção cutânea máculopapular difusa, incluindo palmas e plantas, associada a linfonodomegalia generalizada e sintomas
+sistêmicos (febre, mialgias).
+Exames para diagnóstico (considerar correto um teste treponêmico e um não treponêmico)
+Testes treponêmicos (detectam anticorpos específicos contra Treponema pallidum):
+FTA-Abs (Fluorescent Treponemal Antibody Absorption).
+TPHA (Treponema pallidum Hemagglutination Assay).
+EIA/ELISA treponêmico.
+Testes não treponêmicos (usados para rastreio e seguimento da resposta terapêutica):
+VDRL (Venereal Disease Research Laboratory).
+RPR (Rapid Plasma Reagin).
+B) Tratamento adequado.
+Primeira escolha (sífilis recente: primária, secundária e latente precoce):
+Penicilina benzatina 2,4 milhões UI, via intramuscular, dose única (1,2 milhão em cada glúteo).
+Alternativa em caso de alergia à penicilina (em não gestantes):
+Doxiciclina 100 mg VO, 12/12 h por 14 dias.
+Tetraciclina 500 mg VO, 6/6 h por 14 dias (menos utilizada).
+Gestantes alérgicas: realizar dessensibilização à penicilina, pois não há alternativa eficaz e
+segura para o feto.
+Referências:
+GUSSO, G. et al. Tratado de medicina de família e comunidade - 2 volumes: princípios, formação
+e prática. Disponível em: Minha Biblioteca (2.ª edição). Grupo A, 2019. Cap. 140. Acesso em: 07
+maio 2025.
+DUCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas em
+evidências. Disponível em: Minha Biblioteca (5.ª edição). Grupo A, 2022. (Cap. 155).
+Feedback:
+-10ª QUESTÃO
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 15 de 16
+
+Enunciado:
+(FMIT) Homem, 57 anos, hipertenso, dislipidêmico e diabético tipo 2, é levado à unidade básica de
+saúde pelo filho para avaliação de dor torácica. Paciente está consciente e apresenta dor intensa
+no peito, tipo aperto, com irradiação para o ombro, sudorese fria e dificuldade para respirar.
+Durante a avaliação inicial, apresenta-se pálido, afebril, pulso fraco, saturação de O2 de 94%,
+pressão arterial de 100/60 mmHg, taquicárdico à ausculta cardíaca. Considerando o suporte
+básico de vida e o atendimento na atenção primária:
+a) Identifique os sinais clínicos de urgência/emergência no caso e as condutas iniciais que devem
+ser adotadas no manejo desse paciente? (0,75 ponto)
+b) Qual o encaminhamento mais adequado para esse paciente e como ele deve ser realizado?
+(0,75 ponto)
+Alternativas:
+-Resposta comentada:
+a) Dor intensa no peito, em aperto, com irradiação para o ombro; sudorese fria; dificuldade para
+respirar; palidez cutânea; pulso fraco, taquicardia, pressão arterial de 100/60 mmHg.
+Avaliação primária: avaliar o estado do paciente: consciência, via aérea, respiração, circulação.
+Posicionamento: manter paciente confortável, deitado com cabeceira elevada em torno de 45º
+para facilitar a respiração. Monitoramento dos sinais vitais (frequência cardíaca, pressão arterial,
+saturação de oxigênio, glicemia capilar) até a transferência.
+b) O paciente deve ser encaminhado para serviço de urgência/emergência com capacidade para
+atendimento de síndrome coronariana aguda. Informar o hospital de referência sobre a chegada
+do paciente para otimizar o atendimento. O SAMU deve ser acionado para essa transferência.
+Caso não esteja disponível, encaminhar o paciente com equipe treinada e monitoramento
+contínuo dos sinais vitais.
+Referências:
+Protocolos de Intervenção para o SAMU 192: Suporte Básico de Vida. Ministério da Saúde, 2016.
+DUNCAN, Bruce B.; SCHMIDT, Maria I.; GIUGLIANI, Elsa R. J.; et al. Medicina ambulatorial:
+condutas de atenção primária baseadas em evidências. 5.ª ed. Porto Alegre: ArtMed, 2022. Ebook. p. 799. ISBN 9786558820437. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558820437/. Acesso em: 10 jan. 2025.
+Feedback:
+--
+
+000173.11001c.d78630.641eb8.76bb9f.5e2a85.17c3b5.ede57
+
+Pgina 16 de 16
+
+

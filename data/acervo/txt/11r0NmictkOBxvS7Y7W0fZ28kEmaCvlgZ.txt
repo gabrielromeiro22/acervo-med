@@ -1,0 +1,719 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade
+VIII
+Professor (es):
+
+Período: 202601
+
+Turma:
+
+Data: 06/04/2026
+
+N1 ESPECÍFICA - MEDICINA - IESC VIII - 2026.1 1ª CHAMADA - 06/ABRIL
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19121 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Em uma Unidade Básica de Saúde (UBS), a gerência identifica
+entraves críticos no processo de trabalho: a enfermeira relata sobrecarga no
+acolhimento; o médico demonstra resistência em realizar o pré-natal de baixo risco,
+alegando preferência das usuárias por outro profissional; e o dentista apresenta
+atrasos sistemáticos devido à incompatibilidade entre a agenda oficial e o fluxo
+espontâneo da comunidade local.
+
+acervo.vip
+
+Considerando as diretrizes de Gestão Participativa e Organização do Trabalho
+previstas na Política Nacional de Atenção Básica (PNAB), assinale a alternativa que
+apresenta a estratégia de gestão mais adequada para o caso.
+Alternativas:
+(alternativa A)
+Centralizar o planejamento da agenda na gerência da unidade, estabelecendo
+horários fixos e inflexíveis para cada categoria profissional, visando eliminar as
+variações de fluxo causadas pela demanda espontânea local.
+(alternativa B)
+Remanejar as competências clínicas entre os profissionais de acordo com as
+afinidades individuais relatadas, priorizando a satisfação da equipe como estratégia
+principal para a manutenção do clima organizacional da UBS.
+(alternativa C)
+Implementar o monitoramento individual de produtividade e o cumprimento estrito
+das atribuições previstas no contrato de trabalho, utilizando o regimento interno
+para a aplicação imediata de sanções administrativas.
+(alternativa D) (CORRETA)
+Instituir espaços de gestão colegiada para a análise coletiva dos processos de
+trabalho, utilizando a mediação de conflitos e a educação permanente para pactuar
+as atribuições das categorias e o fluxo de acesso.
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 1 de 18
+
+Resposta comentada:
+Alternativa: Instituir espaços de gestão colegiada para a análise coletiva dos
+processos de trabalho, utilizando a mediação de conflitos e a educação permanente
+para pactuar as atribuições das categorias e o fluxo de acesso.
+Resposta Comentada (Correta): Esta opção fundamenta-se nos princípios da Gestão
+Participativa e da Educação Permanente em Saúde (EPS), conforme a PNAB (2017).
+O gerenciamento de conflitos na APS deve ocorrer de forma coletiva (colegiados),
+em que as resistências individuais e a sobrecarga de trabalho são analisadas como
+problemas do processo de trabalho da equipe. A pactuação de atribuições garante
+que as normas legais (como a obrigatoriedade do pré-natal pelo médico) sejam
+cumpridas por meio do entendimento mútuo e da reorganização dos fluxos de
+acesso.
+Alternativa: Implementar o monitoramento individual de produtividade e o
+cumprimento estrito das atribuições previstas no contrato de trabalho, utilizando o
+regimento interno para a aplicação imediata de sanções administrativas.
+Resposta Comentada (Incorreta): Embora o monitoramento seja necessário, a
+aplicação de sanções imediatas sem a análise prévia dos nós críticos do processo
+de trabalho contraria a diretriz de Cogestão e Humanização. O foco exclusivo na
+"gestão punitiva" não resolve causas estruturais (como a sobrecarga da enfermeira
+ou a inadequação da agenda do dentista), tendendo a piorar o clima organizacional
+e a aumentar o absenteísmo e a rotatividade de profissionais na UBS.
+Alternativa: Centralizar o planejamento da agenda na gerência da unidade,
+estabelecendo horários fixos e inflexíveis para cada categoria profissional, visando
+eliminar as variações de fluxo causadas pela demanda espontânea local.
+Resposta Comentada (Incorreta): Esta alternativa fere o princípio da Acessibilidade
+e Equidade. A PNAB orienta que a organização da agenda deve ser flexível para
+acolher a demanda espontânea e as especificidades do território. Impor rigidez e
+centralização na gerência ignora a realidade epidemiológica e social da população
+(citada no caso do dentista), criando barreiras de acesso e ineficiência no uso dos
+recursos da unidade.
+Alternativa: Remanejar as competências clínicas entre os profissionais de acordo
+com as afinidades individuais relatadas, priorizando a satisfação da equipe como
+estratégia principal para a manutenção do clima organizacional da UBS.
+Resposta Comentada (Incorreta): Esta opção comete o erro técnico de confundir
+"clima organizacional" com "abdicação de atribuições profissionais". O médico de
+família e comunidade possui a atribuição normativa de realizar o pré-natal de baixo
+risco. Permitir a recusa por "preferência individual" sobrecarrega outras categorias,
+descaracteriza a equipe multiprofissional e compromete a integralidade do cuidado
+ao usuário, ferindo as normas de responsabilidade técnica das profissões de saúde.
+
+Referências:
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica (PNAB). Brasília:
+Ministério da Saúde, 2017.
+GUSSO, G. NETO, P. P. Gestão da clínica. In: GUSSO, Gustavo, et al. Tratado de
+Medicina de Família e Comunidade: Princípios, Formação e Prática. 2.ª ed. Grupo A,
+2019. Cap. 25.
+Feedback:
+-2ª QUESTÃO
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 2 de 18
+
+Enunciado:
+(AFYA PALMAS) Durante uma reunião de Colegiado Gestor, o Secretário Municipal
+de Saúde de um município de pequeno porte expressa preocupação com a
+sustentabilidade financeira das 10 Equipes de Saúde da Família (eSF) locais. Ele
+relata que, no modelo de financiamento anterior (Previne Brasil), o repasse mensal
+sofria variações bruscas devido à flutuação no cadastro de usuários e à dificuldade
+de manter o alcance de 100% dos indicadores de desempenho em todos os meses,
+gerando insegurança no pagamento da folha salarial. O gestor solicita que a equipe
+de planejamento analise como a transição para a metodologia instituída pela
+Portaria GM/MS n.º 3.493/2024 e detalhada pelo FAQ/SAPS 2025 impactará a
+previsibilidade orçamentária do município.
+Com base no cenário apresentado e nas regras de cofinanciamento vigentes, a
+análise técnica deve indicar que:
+Alternativas:
+(alternativa A)
+o impacto orçamentário será negativo, pois o novo modelo extinguiu o valor fixo por
+equipe, condicionando a totalidade do repasse federal ao alcance de metas de
+produtividade e ao número de consultas médicas registradas (pagamento por
+produção).
+(alternativa B)
+a estabilidade mencionada só será alcançada se o município optar pelo modelo de
+"Piso de Atenção Básica Fixo" (PAB Fixo), que é a única modalidade prevista na
+Portaria para municípios com menos de 20 mil habitantes, desvinculando o recurso
+da existência de equipes.
+(alternativa C) (CORRETA)
+a nova metodologia favorece a estabilidade financeira do município ao instituir um
+Componente Fixo por Equipe, que independe da volatilidade mensal do cadastro,
+somado ao Vínculo Territorial, que protege o custeio básico das eSF implantadas.
+(alternativa D)
+a insegurança financeira persistirá, uma vez que a Portaria 3.493/2024 manteve a
+"Capitação Ponderada" como critério único de transferência, penalizando municípios
+que possuam população com perfil demográfico jovem e baixa vulnerabilidade
+social.
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 3 de 18
+
+Resposta comentada:
+Alternativa (correta): A nova metodologia favorece a estabilidade financeira do
+município ao instituir um Componente Fixo por Equipe, que independe da
+volatilidade mensal do cadastro, somado ao Vínculo Territorial, que protege o
+custeio básico das eSF implantadas.
+A mudança fundamental da Portaria 3.493/2024 foi justamente a criação de um
+valor fixo por equipe (eSF, eAP, eSB e eMulti). Isso garante que, se a equipe existe e
+está cadastrada no SCNES, o recurso base está garantido, resolvendo o problema
+de "insegurança" relatado no texto-base. O Vínculo Territorial complementa esse
+valor com base na população sob responsabilidade.
+Alternativa (incorreta): O impacto orçamentário será negativo, pois o novo modelo
+extinguiu o valor fixo por equipe, condicionando a totalidade do repasse federal ao
+alcance de metas de produtividade e ao número de consultas médicas registradas
+(pagamento por produção).
+O modelo atual fez exatamente o oposto: ele criou o componente fixo e não adota o
+pagamento por produção (fee-for-service).
+Alternativa (incorreta): A insegurança financeira persistirá, uma vez que a Portaria
+3.493/2024 manteve a "Capitação Ponderada" como critério único de transferência,
+penalizando municípios que possuam população com perfil demográfico jovem e
+baixa vulnerabilidade social.
+O termo "Capitação Ponderada" e seus pesos socioeconômicos e demográficos
+(fórmulas complexas do Previne Brasil) foram substituídos pela nova lógica de Valor
+Fixo + Vínculo Territorial.
+Alternativa (incorreta): A estabilidade mencionada só será alcançada se o município
+optar pelo modelo de "Piso de Atenção Básica Fixo" (PAB Fixo), que é a única
+modalidade prevista na Portaria para municípios com menos de 20 mil habitantes,
+desvinculando o recurso da existência de equipes.
+O PAB Fixo é um modelo extinto há anos. O FAQ/SAPS (2025) deixa claro que o
+financiamento atual é vinculado às equipes e ao território, sem distinção de
+modalidade "fixa populacional" por tamanho de município.
+Referências:
+BRASIL. PORTARIA GM/MS Nº 3.493, DE 10 DE ABRIL DE 2024. Disponível em:
+https://bvsms.saude.gov.br/bvs/saudelegis/gm/2024/prt3493_11_04_2024.html.
+Acesso em: 22 out. 2025.
+BRASIL. Ministério da Saúde. Secretaria de Atenção Primária à Saúde. CoordenaçãoGeral de Programação de Financiamento da Atenção Primária. Novo Modelo de
+Cofinanciamento Federal da APS: FAQ [recurso eletrônico] / Ministério da Saúde,
+Secretaria de Atenção Primária à Saúde. Coordenação-Geral de Programação de
+Financiamento da Atenção Primária. – Brasília: Ministério da Saúde, 2025. 16 p.: il.
+Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/novo_modelo_cofinanciamento_federal_f
+aq.pdf. Acesso em: 22 out. 2025.
+Feedback:
+-3ª QUESTÃO
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 4 de 18
+
+Enunciado:
+(AFYA ARAGUAÍNA) A gestão municipal de saúde, ao organizar o planejamento de
+uma Unidade Básica de Saúde (UBS), deve pautar-se pelo Sistema de Planejamento
+do SUS (PlanejaSUS). Este sistema visa articular o planejamento nas três esferas de
+governo, garantindo que as metas e ações locais estejam em consonância com as
+diretrizes orçamentárias e as necessidades epidemiológicas da população.
+Com base na Lei Complementar n.º 141/2012 e no Decreto n.º 7.508/2011, que
+dispõem sobre o planejamento da saúde e a transparência na gestão do SUS, são
+considerados instrumentos obrigatórios de planejamento e gestão:
+I. Plano de Saúde (PS).
+II. Programação Anual de Saúde (PAS).
+III. Relatório Detalhado do Quadrimestre Anterior (RDQA) e Relatório Anterior de
+Gestão (RAG).
+IV. Contrato Organizativo de Ação Pública da Saúde (COAP).
+Assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Apenas os itens I e II estão corretos.
+(alternativa B) (CORRETA)
+Apenas os itens I, II, III e IV estão corretos.
+(alternativa C)
+Apenas os itens II, III e IV estão corretos.
+(alternativa D)
+Apenas os itens I, II e III estão corretos.
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 5 de 18
+
+Resposta comentada:
+Item I – Plano de Saúde (PS): Correto. É o instrumento de gestão fundamental que
+estabelece as diretrizes, objetivos e metas para um período de quatro anos. Sua
+obrigatoriedade e função estão previstas na Lei n.º 8.142/1990 e detalhadas na
+Portaria de Consolidação n.º 1/2017. É a base para a execução e o
+acompanhamento das ações de saúde em qualquer nível de gestão (Municipal,
+Estadual ou Federal).
+Item II – Programação Anual de Saúde (PAS): Correto. Trata-se do instrumento que
+operacionaliza as intenções do Plano de Saúde. A PAS identifica as ações que serão
+realizadas em cada ano, define as metas anuais e prevê a alocação dos recursos
+financeiros. Conforme a Lei Complementar n.º 141/2012, a PAS é essencial para
+garantir a transparência e a aplicação mínima de recursos em saúde.
+Item III – Relatório Detalhado do Quadrimestre Anterior (RDQA) e Relatório Anterior
+de Gestão (RAG): Correto. O RDQA é uma ferramenta de monitoramento
+apresentada ao Conselho de Saúde e ao Poder Legislativo a cada quatro meses
+(conforme o Art. 36 da LC 141/2012). O RAG é o instrumento de comprovação anual
+de que a PAS foi executada, apresentando os resultados alcançados e eventuais
+desvios. Ambos são pilares do controle social e da fiscalização orçamentária.
+Item IV – Contrato Organizativo de Ação Pública da Saúde (COAP): Correto.
+Introduzido pelo Decreto n.º 7.508/2011, o COAP é o acordo de colaboração firmado
+entre entes federativos (Municípios, Estados e União) para organizar a rede de
+atenção à saúde. Ele define responsabilidades, indicadores e metas de
+desempenho, sendo um instrumento formal de planejamento regionalizado no SUS.
+Referências:
+BRASIL. Ministério da Saúde. Secretaria de Gestão. Instrumentos de Planejamento e
+Gestão no SUS. Brasília: Ministério da Saúde, 2014.
+CONASS. Conselho Nacional das Secretarias de Saúde. Capítulo 2: "Instrumentos de
+Planejamento e Gestão". In: Relatório de Gestão do SUS. Brasília: CONASS, 2020.
+PAIM, J. et al. Sistemas de Saúde no Brasil. Rio de Janeiro: Fiocruz, 2011.
+BRASIL. Conselho Nacional de Secretários de Saúde. A Gestão do SUS / Conselho
+Nacional de Secretários de Saúde. – Brasília: CONASS, 2015. 133 p. ISBN 978-858071-027-4 – capítulo 2. Disponível em: https://www.conass.org.br/biblioteca/pdf/AGESTAO-DO-SUS.pdf. Acesso em: 22 out. 2025.
+Feedback:
+-4ª QUESTÃO
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 6 de 18
+
+Enunciado:
+(AFYA SANTA INÊS) Um médico recém-formado planeja a abertura de um
+consultório particular. Com base no modelo de gestão e empreendedorismo em
+saúde discutido por Terrim et al. (2015), o sucesso da iniciativa depende de um
+planejamento estruturado que minimize riscos financeiros e operacionais.
+Avalie as etapas propostas para a viabilização deste empreendimento:
+I. Realizar a análise de mercado para identificar a segmentação de clientes e o
+posicionamento da concorrência local.
+II. Elaborar o Plano de Negócios integrando a análise de viabilidade econômicofinanceira e o desenho dos processos operacionais.
+III. Priorizar o investimento em ativos fixos tangíveis (equipamentos de alta
+tecnologia) como estratégia primária de diferenciação, independentemente do
+ponto de equilíbrio (break-even) projetado.
+IV. Definir a Proposta de Valor e as estratégias de marketing de serviços visando à
+captação e à fidelização ética de pacientes.
+V. Delegar o planejamento estratégico e a definição da missão organizacional
+exclusivamente à equipe multiprofissional após a inauguração.
+Quais dessas etapas são consideradas essenciais e tecnicamente adequadas para a
+gestão inicial do consultório?
+Alternativas:
+(alternativa A)
+Apenas I, III e V.
+(alternativa B) (CORRETA)
+Apenas I, II e IV.
+(alternativa C)
+Apenas II, III e IV.
+(alternativa D)
+Apenas I, II e V.
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 7 de 18
+
+Resposta comentada:
+I. Análise de Mercado: Correta.
+Conforme Terrim et al. (2015), o empreendedorismo em saúde exige o
+entendimento do cenário externo. Identificar a "segmentação" (quem é o público) e
+o "posicionamento" (como se diferenciar da concorrência) é o primeiro passo para
+evitar a ociosidade do serviço.
+II. Plano de Negócios: Correta.
+O Plano de Negócios é o mapa do empreendimento. Incluir a "viabilidade
+econômico-financeira" (custos, projeção de lucro) e o "desenho de processos"
+(como o serviço será entregue) é essencial para a sustentabilidade do consultório a
+curto e longo prazo.
+III. Priorizar Ativos Fixos Tangíveis: Incorreta.
+Um erro clássico no empreendedorismo médico é investir alto em equipamentos
+(ativos tangíveis) antes de conhecer o "ponto de equilíbrio" (break-even point).
+Segundo a literatura de gestão, o investimento deve ser escalonado e justificado
+pela demanda prevista, sob risco de insolvência financeira precoce.
+IV. Proposta de Valor e Marketing: Correta.
+O marketing em saúde, quando ético, é uma ferramenta de gestão necessária para
+comunicar o diferencial do médico ao público-alvo. A "Proposta de Valor" define por
+que o paciente escolheria aquele consultório em vez de outro, sendo vital para a
+fidelização.
+V. Delegar Planejamento e Missão: Incorreta.
+A definição da Missão, Visão e Valores, bem como o Planejamento Estratégico, são
+competências do gestor/proprietário. Embora a equipe participe da execução,
+delegar a "identidade organizacional" exclusivamente a terceiros e somente após a
+inauguração indica falta de liderança e ausência de diretriz estratégica inicial.
+Referências:
+CONSELHO FEDERAL DE MEDICINA (CFM). Manual de Procedimentos
+Administrativos: Pessoa Jurídica. Brasília: CFM, 2022. Disponível em:
+https://portal.cfm.org.br/images/mpa_pj.pdf. Acesso em: 07 maio 2025.
+MORELLE, Alessandra et al. O Novo Mind7 Médico: empreendedorismo e
+transformação digital na saúde. Porto Alegre: Grupo A, 2022. (Série Minha
+Biblioteca).
+TERRIM, S.; MELO, A.; JÁCOMO, A. Empreendedorismo em saúde: relato de um
+modelo de empresa júnior em Medicina. Revista de Medicina, São Paulo, v. 94, n. 2,
+p. 94-98, 2015. DOI: https://doi.org/10.11606/issn.1679-9836.v94i2p94-98. Acesso
+em: 22 out. 2025.
+Feedback:
+-5ª QUESTÃO
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 8 de 18
+
+Enunciado:
+(AFYA REDENÇÃO) Um município de médio porte apresenta um gargalo assistencial
+em exames de imagem, com filas de espera que comprometem o diagnóstico
+tempestivo. A Secretaria Municipal de Saúde planeja a contratação de serviços da
+iniciativa privada para suprir essa demanda de forma complementar. Considerando
+as diretrizes do Curso Básico de Regulação do SUS (MS, 2016) e o Manual do Gestor
+(CONASEMS, 2021), analise as assertivas abaixo:
+I. A participação complementar da iniciativa privada deve ser formalizada mediante
+contrato de direito público ou convênio, observando-se a necessidade de
+chamamento público para garantir a isonomia e a transparência no processo de
+credenciamento.
+II. Para otimizar a fila de espera, a classificação de prioridade clínica e o
+agendamento podem ser delegados ao prestador privado contratado, desde que
+este siga os protocolos de Manchester ou similares.
+III. A regulação do acesso aos serviços contratados deve ser exercida pela
+autoridade pública, sendo a Central de Regulação o órgão responsável por ordenar
+o fluxo assistencial com base em critérios de equidade e necessidade.
+IV. Na organização da rede, o gestor deve dar preferência a entidades filantrópicas
+e sem fins lucrativos para a contratação complementar, mantendo o controle e a
+avaliação sobre a qualidade dos serviços prestados.
+É correto o que se afirma apenas em:
+Alternativas:
+(alternativa A)
+II e IV.
+(alternativa B) (CORRETA)
+I, III e IV.
+(alternativa C)
+I, II e III.
+(alternativa D)
+I e III, apenas.
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 9 de 18
+
+Resposta comentada:
+Assertiva I (Correta): Baseada na Lei 8.080/90 e nos manuais do CONASEMS. O
+chamamento público garante que todos os prestadores aptos possam participar,
+evitando o favorecimento ilícito.
+Assertiva II (Incorreta): De acordo com o Curso de Regulação do MS (2016), a
+regulação assistencial é uma função de governo. Delegar a classificação de
+prioridade ao privado fere a autonomia pública e abre margem para que o
+prestador direcione a fila por interesses próprios.
+Assertiva III (Correta): A regulação é o "filtro" da equidade. Sem o controle da
+Central de Regulação sobre o prestador conveniado, perde-se a capacidade de
+planejar a rede e de garantir que o paciente mais grave seja atendido primeiro.
+Assertiva IV (Correta): É o preceito constitucional (Art. 199) e legal. As entidades
+filantrópicas possuem natureza jurídica que as torna parceiras prioritárias na
+execução de serviços de saúde no SUS.
+Referências:
+BRASIL. Ministério da Saúde. Curso básico de regulação do Sistema Único de Saúde
+– SUS. Brasília: Ministério da Saúde, 2016.
+CONASEMS. Manual do(a) gestor(a) municipal do SUS. 2. ed. Brasília: CONASEMS,
+2021.
+CONASS. Planificação da atenção à saúde. Brasília: CONASS, 2018.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(AFYA GUANAMBI) Um paciente de 65 anos com DPOC e hipertensão apresenta um
+histórico de "porta giratória" em unidades de Pronto Atendimento devido a
+exacerbações evitáveis. A equipe de saúde da família, ao aplicar a metodologia do
+PlanificaSUS, identifica que a fragmentação entre a Atenção Primária e a Rede de
+Atenção às Urgências (RUE) compromete a estabilização clínica do usuário e
+sobrecarrega os leitos hospitalares.
+Considerando as diretrizes de integração de rede previstas no Manual do Gestor
+(CONASEMS, 2021) e na Planificação da Atenção (CONASS, 2018), a estratégia
+prioritária para articular esses pontos de atenção deve ser:
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 10 de 18
+
+Alternativas:
+(alternativa A)
+a transferência da coordenação do cuidado crônico para as unidades de Pronto
+Atendimento, visando centralizar o manejo medicamentoso e o monitoramento
+epidemiológico em pontos de atenção 24 horas.
+(alternativa B) (CORRETA)
+a implementação da gestão de casos para pacientes de alto risco, utilizando o plano
+de cuidado como instrumento de comunicação entre a UBS e a urgência para evitar
+reinternações desnecessárias.
+(alternativa C)
+estabelecimento de protocolos de triagem administrativa que impeçam o
+atendimento desse perfil de paciente em unidades de urgência, condicionando o
+cuidado exclusivamente ao agendamento prévio na UBS.
+(alternativa D)
+a marcação compulsória de consultas com especialistas focais como única via de
+redução de demanda na urgência, desonerando a APS da responsabilidade de
+monitorar as exacerbações clínicas no território.
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 11 de 18
+
+Resposta comentada:
+Alternativa (correta): A implementação da gestão de casos para pacientes de alto
+risco, utilizando o plano de cuidado como instrumento de comunicação entre a UBS
+e a urgência para evitar reinternações desnecessárias.
+Está em total consonância com o CONASS (2018). A Planificação busca organizar a
+rede para que a APS coordene o cuidado de modo a reduzir exacerbações que
+geram idas à urgência A gestão de casos e o compartilhamento de informações
+(plano de cuidado) são essenciais para essa integração.
+Alternativa (incorreta): O estabelecimento de protocolos de triagem administrativa
+que impeçam o atendimento desse perfil de paciente em unidades de urgência,
+condicionando o cuidado exclusivamente ao agendamento prévio na UBS.
+Fere o princípio da Universalidade. Conforme o CONASEMS (2021), nenhuma
+unidade de urgência pode negar atendimento com base em critérios
+administrativos de "falta de agendamento".
+Alternativa (incorreta): A transferência da coordenação do cuidado crônico para as
+unidades de pronto atendimento, visando centralizar o manejo medicamentoso e o
+monitoramento epidemiológico em pontos de atenção 24 horas.
+Contraria a PNAB (2017) e o Manual do Gestor. A urgência é um ponto de atenção
+pontual; a coordenação e o monitoramento longitudinal são competências
+exclusivas da APS.
+Alternativa (incorreta): A marcação compulsória de consultas com especialistas
+focais como única via de redução de demanda na urgência, desonerando a APS da
+responsabilidade de monitorar as exacerbações clínicas no território.
+Representa a visão fragmentada que o PlanificaSUS visa superar. O especialista é
+um apoio matricial, mas a responsabilidade pelo monitoramento no território
+permanece com a APS.
+Referências:
+CONASEMS. Manual do(a) gestor(a) municipal do SUS. 2. ed. Brasília: CONASEMS,
+2021.
+CONASS. Planificação da atenção à saúde: um instrumento de gestão e
+organização. Brasília: CONASS, 2018. (CONASS documenta, 31).
+BRASIL. Ministério da Saúde. Curso I: Regulação de Sistemas de Saúde do SUS: aula
+4: Redes de Atenção à Saúde. Brasília: MS, 2021.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(AFYA PORTO NACIONAL) Um paciente de 62 anos dá entrada em uma Unidade de
+Pronto Atendimento (UPA) com quadro de Infarto Agudo do Miocárdio (IAM) em
+evolução. Após a estabilização inicial, a equipe médica identifica a necessidade
+imediata de transferência para um leito de UTI coronariana e realização de
+cineangiocoronariografia. A família informa que o paciente possui plano de saúde de
+abrangência nacional, mas solicita que a transferência seja feita para o hospital
+público de referência regional, alegando confiança na rede pública e proximidade
+da residência.
+Considerando as diretrizes do Manual do Gestor (CONASEMS, 2021) e o fluxo de
+Regulação de Urgência e Emergência (MS, 2016), a análise técnica da conduta
+correta indica que:
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 12 de 18
+
+Alternativas:
+(alternativa A) (CORRETA)
+o paciente deve ser inserido na Central de Regulação de Urgência, garantindo a
+vaga em prestador público ou conveniado conforme a prioridade clínica (vaga zero),
+independentemente da cobertura suplementar, assegurando o direito universal ao
+atendimento de emergência.
+(alternativa B)
+a transferência deve ser aprovada apenas se o paciente for classificado como "risco
+baixo", reservando-se as vagas de UTI e procedimentos de alta complexidade do
+SUS exclusivamente para usuários que não possuam registro ativo na Agência
+Nacional de Saúde.
+(alternativa C)
+a solicitação de leito via SUS deve ser condicionada à apresentação de termo de
+renúncia ao plano de saúde privado, visando evitar o uso de recursos públicos por
+cidadãos com contrato de assistência particular, garantindo a reserva de leitos para
+os usuários dependentes.
+(alternativa D)
+a inserção no sistema de regulação pública deve ser negada, orientando-se a
+família a realizar o transporte via ambulância do plano de saúde, uma vez que o
+SUS é legalmente impedido de regular leitos de alta complexidade para
+beneficiários da rede suplementar.
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 13 de 18
+
+Resposta comentada:
+Alternativa (correta): O paciente deve ser inserido na Central de Regulação de
+Urgência, garantindo a vaga em prestador público ou conveniado conforme a
+prioridade clínica (vaga zero), independentemente da cobertura suplementar,
+assegurando o direito universal ao atendimento de emergência.
+Atende aos princípios da Universalidade e Equidade. Conforme o Manual do Gestor
+(CONASEMS, 2021), o acesso às urgências é direito de todo cidadão. A regulação
+baseia-se na Gravidade Clínica (Prioridade Zero). A posse de plano não impede o
+acesso; a cobrança posterior (ressarcimento ao SUS) é um trâmite entre Estado e
+operadora que não deve barrar o atendimento.
+Alternativa (incorreta): A solicitação de leito via SUS deve ser condicionada à
+apresentação de termo de renúncia ao plano de saúde privado, visando evitar o uso
+de recursos públicos por cidadãos com contrato de assistência particular,
+garantindo a reserva de leitos para os usuários dependentes.
+Exigir "termo de renúncia" é inconstitucional. O SUS é universal e a posse de
+contrato privado não anula o direito à rede pública.
+Alternativa (incorreta): A inserção no sistema de regulação pública deve ser
+negada, orientando-se a família a realizar o transporte via ambulância do plano de
+saúde, uma vez que o SUS é legalmente impedido de regular leitos de alta
+complexidade para beneficiários da rede suplementar.
+O sistema público não é impedido de regular leitos para usuários de planos. Em
+urgências, a responsabilidade de garantir a vida é do Estado por meio do Complexo
+Regulador.
+Alternativa (incorreta): A transferência deve ser aprovada apenas se o paciente for
+classificado como "risco baixo", reservando-se as vagas de UTI e procedimentos de
+alta complexidade do SUS exclusivamente para usuários que não possuam registro
+ativo na Agência Nacional de Saúde.
+Inverte a lógica regulatória, que deve priorizar casos graves. Além disso, discriminar
+o acesso à alta complexidade com base em dados da ANS fere o princípio da
+igualdade.
+Referências:
+BRASIL. Ministério da Saúde. Curso básico de regulação do Sistema Único de Saúde
+– SUS. Brasília: Ministério da Saúde, 2016.
+CONASEMS. Manual do(a) gestor(a) municipal do SUS: diálogos no cotidiano. 2. ed.
+Brasília: CONASEMS, 2021.
+CONASS. Planificação da atenção à saúde: um instrumento de gestão e
+organização. Brasília: CONASS, 2018.
+Feedback:
+-8ª QUESTÃO
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 14 de 18
+
+Enunciado:
+(AFYA TERESINA) A trajetória do Sistema Único de Saúde (SUS) reflete a transição
+de um modelo excludente e meritocrático para um sistema baseado na Seguridade
+Social. O relato do Sr. Roberto exemplifica a ruptura com o sistema previdenciário
+anterior ao advento da Constituição Federal de 1988. Sobre este processo de
+implantação e sua base legal, analise as asserções a seguir e a relação proposta
+entre elas:
+I. A Constituição Federal de 1988 estabeleceu a saúde como direito de todos e
+dever do Estado, rompendo com a lógica do modelo previdenciário que
+condicionava a assistência médica à contribuição formal para o INPS/INAMPS.
+Porque
+II. A Lei n.º 8.080/1990 e a Lei n.º 8.142/1990 regulamentaram as diretrizes
+constitucionais ao definir a organização, a participação social e o financiamento do
+sistema, garantindo a sua operacionalização em todo o território nacional.
+Assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+(alternativa B)
+A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+(alternativa C)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa
+correta da I.
+(alternativa D) (CORRETA)
+As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da
+I.
+
+Resposta comentada:
+Análise da Asserção I: verdadeira. Representa o ganho do movimento da Reforma
+Sanitária consolidado no Artigo 196 da CF/88. Antes, quem não tinha carteira
+assinada era "indigente" do sistema de saúde.
+Análise da Asserção II: verdadeira. A Constituição dá a diretriz política, mas são as
+Leis Orgânicas que dão a estrutura jurídica e administrativa (o "corpo" do SUS).
+Análise da Relação: Correta. A regulamentação (II) é a razão pela qual o direito
+garantido no papel (I) pôde se transformar em serviços reais, financiamento e
+gestão municipalizada, efetivando a implantação do sistema.
+Referências:
+BRASIL. Constituição da República Federativa do Brasil. Brasília: Senado Federal,
+1988. (Art. 196).
+BRASIL. Lei n.º 8.080, de 19 de setembro de 1990. Brasília, 1990.
+BRASIL. Lei n.º 8.142, de 28 de dezembro de 1990. Brasília, 1990.
+PAIM, J. S. O que é o SUS? Rio de Janeiro: Editora Fiocruz, 2009.
+Feedback:
+-9ª QUESTÃO
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 15 de 18
+
+Enunciado:
+(AFYA MARABÁ) Maria L., 62 anos, hipertensa e diabética há 15 anos, residente em
+município de médio porte, é acompanhada irregularmente pela Unidade de Saúde
+da Família. Nos últimos dois anos, houve alta rotatividade de médicos na equipe,
+desabastecimento intermitente de medicamentos anti-hipertensivos e falhas na
+marcação de consultas especializadas via sistema municipal de regulação.
+A paciente apresentou piora progressiva do controle glicêmico e pressórico,
+evoluindo com acidente vascular cerebral isquêmico. Durante a internação
+hospitalar, identificou-se ausência de acompanhamento contínuo na Atenção
+Primária, falhas no sistema de referência e contrarreferência e inexistência de
+protocolos municipais atualizados para manejo de doenças crônicas.
+O caso gerou debate na Comissão Intergestores Municipal sobre a responsabilidade
+da gestão local na organização da rede de atenção.
+Com base na Lei n.º 8.080/1990 e na organização do Sistema Único de Saúde,
+responda:
+a) Analise o caso apresentado e identifique dois princípios do SUS fragilizados na
+situação descrita, justificando sua resposta. (0,75 ponto)
+b) Relacione as falhas de gestão municipal apresentadas no caso com os
+mecanismos de organização e financiamento do SUS, discutindo como a gestão
+poderia ter evitado o desfecho clínico. (0,75 ponto)
+Alternativas:
+--
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 16 de 18
+
+Resposta comentada:
+Subitem (a) – 0,75 ponto.
+O estudante deve identificar dois princípios estruturantes previstos na Lei nº
+8.080/1990 e justificar sua fragilização no caso. Entre os esperados:
+Integralidade da assistência: houve falha na articulação entre atenção primária,
+atenção especializada e hospitalar, evidenciada pela ausência de continuidade do
+cuidado e falhas na referência e contrarreferência.
+Universalidade: embora o acesso formal exista, o desabastecimento de
+medicamentos e dificuldades na regulação comprometem o acesso efetivo e
+oportuno aos serviços.
+Equidade (caso argumentado adequadamente): paciente crônica, com maior
+vulnerabilidade clínica, não recebeu acompanhamento proporcional às suas
+necessidades.
+Descentralização com comando único: fragilidade da gestão municipal na
+organização da rede e na garantia da assistência contínua.
+Pontuação sugerida:
+Identificação correta de cada princípio: 0,5 ponto.
+Justificativa coerente e fundamentada: 0,25 ponto.
+Subitem (b) – 0,75 ponto.
+O estudante deve demonstrar compreensão da relação entre gestão e
+financiamento no SUS, podendo abordar:
+Responsabilidade do gestor municipal na organização da Atenção Primária como
+coordenadora do cuidado.
+Planejamento inadequado da assistência farmacêutica.
+Fragilidade na pactuação interfederativa e na regulação assistencial.
+Necessidade de aplicação eficiente dos recursos do Piso da Atenção Básica (PAB).
+Importância do planejamento ascendente e da Programação Pactuada e Integrada
+(PPI).
+Falta de protocolos clínicos municipais como falha na governança.
+Pontuação sugerida:
+Relação adequada entre gestão e organização da rede: 0,5 ponto.
+Discussão fundamentada sobre financiamento e responsabilidade municipal: 0,25
+ponto.
+Referências:
+BRASIL. Lei n.º 8.080, de 19 de setembro de 1990. Dispõe sobre as condições para a
+promoção, proteção e recuperação da saúde, a organização e o funcionamento dos
+serviços correspondentes. Diário Oficial da União: Brasília, 1990.
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica. Brasília: Ministério
+da Saúde, 2017.
+Feedback:
+-10ª QUESTÃO
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 17 de 18
+
+Enunciado:
+(AFYA GARANHUNS) A gestão de uma Unidade Básica de Saúde (UBS) exige a
+aplicação de ferramentas diagnósticas e organizativas para garantir a eficiência do
+cuidado. No contexto do planejamento estratégico e da Política Nacional de Atenção
+Básica (PNAB), a organização da agenda e a integração de fluxos são determinantes
+para a resolutividade.
+Com base nos marcos técnicos da Atenção Primária à Saúde (APS), responda:
+a) Nomeie duas estratégias de organização da agenda recomendadas pelo
+Ministério da Saúde para reduzir o tempo de espera e garantir o acesso oportuno.
+(0,75 ponto)
+b) Indique dois elementos da gestão administrativa que, quando integrados à
+prática clínica, aumentam a resolutividade da unidade (capacidade de solucionar o
+problema do paciente no local). (0,75 ponto)
+Alternativas:
+-Resposta comentada:
+O corretor deve considerar apenas a presença dos termos técnicos abaixo. Não
+deve haver pontuação para respostas baseadas em adjetivos ou opiniões.
+Item A: Estratégias de Agenda (0,375 cada)
+Aceitam-se exclusivamente dois dos seguintes itens:
+1. Acesso Avançado (ou Advanced Access / Agenda Aberta).
+2. Acolhimento com Classificação de Risco (ou Escuta Qualificada com
+priorização).
+3. Agenda Multiprofissional (ou Compartilhada).
+4. Blocos de horários para demanda espontânea.
+Item B: Elementos Administrativos para Resolutividade (0,375 cada)
+Aceitam-se exclusivamente dois dos seguintes itens:
+1. Prontuário Eletrônico (compartilhamento de dados).
+2. Protocolos Clínicos/Diretrizes Terapêuticas (padronização de condutas).
+3. Fluxograma de Atendimento/Acolhimento (organização da recepção).
+4. Sistema de Regulação/Referência e Contrarreferência (coordenação do
+cuidado).
+Referência:
+GUSSO, G. NETO, P. P. Gestão da clínica. In: GUSSO, Gustavo, et al. Tratado de
+Medicina de Família e Comunidade: Princípios, Formação e Prática. 2.ª ed. Grupo A,
+2019. Cap. 25.
+Feedback:
+--
+
+000191.210014.6b8833.e2cdac.9fe815.304d02.53a8de.e071f
+
+Página 18 de 18
+
+

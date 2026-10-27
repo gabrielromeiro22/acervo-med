@@ -1,8 +1,5 @@
 import { useSyncExternalStore } from 'react'
 import type { Flashcard, Material, Question } from '../data/types'
-import { QUESTIONS } from '../data/questions'
-import { FLASHCARDS } from '../data/flashcards'
-import { MATERIALS } from '../data/materials'
 
 export interface Attempt { chosen: number; correct: boolean; at: number; ms: number }
 export interface Simulado {
@@ -14,6 +11,8 @@ export interface Simulado {
   durationSec: number
   elapsedSec: number
   finishedAt?: number
+  treino?: boolean
+  papel?: boolean
 }
 export interface CardState { ease: number; interval: number; due: number; reps: number }
 export interface Note { id: string; title: string; body: string; qid?: string; updatedAt: number }
@@ -33,6 +32,7 @@ export interface State {
   decks: Deck[]
   periodo?: number
   driveUrl?: string
+  fundo?: 'claro' | 'escuro' | 'animado' | 'liso' | 'pontos'
   imported: { questions: Question[]; flashcards: Flashcard[]; materials: Material[] }
 }
 
@@ -69,14 +69,22 @@ export function useStore<T>(sel: (s: State) => T): T {
 }
 
 // Acervo real (gerado por scripts/acervo): carregado em segundo plano a partir de /acervo/*.json.
-let acervo: { questions: Question[]; flashcards: Flashcard[] } = { questions: [], flashcards: [] }
+// PDFs do Drive (provas, gabaritos, resumos), gerados em public/acervo/arquivos.json
+export interface Arquivo {
+  id: string; path: string; nome: string; area: 'periodo' | 'tpi' | 'enamed' | 'internato' | 'outro'
+  periodo?: number; tipo: string; semestre?: string; modulo?: string; autor?: string
+}
+let acervo: { questions: Question[]; flashcards: Flashcard[]; arquivos: Arquivo[]; pronto: boolean } =
+  { questions: [], flashcards: [], arquivos: [], pronto: false }
 export async function loadAcervo() {
   const get = (f: string) => fetch(`${import.meta.env.BASE_URL}acervo/${f}`).then((r) => (r.ok ? r.json() : []), () => [])
-  const [questions, flashcards] = await Promise.all([get('questoes.json'), get('flashcards.json')])
-  acervo = { questions, flashcards }
+  const [questions, flashcards, arquivos] = await Promise.all([get('questoes.json'), get('flashcards.json'), get('arquivos.json')])
+  acervo = { questions, flashcards, arquivos, pronto: true }
   cache = {}
   listeners.forEach((l) => l())
 }
+export const useAcervoPronto = () => useStore(() => acervo.pronto)
+export const useArquivos = () => useStore(() => acervo.arquivos)
 
 // Os seletores abaixo devolvem arrays novos; memorize pela referência do estado.
 let cache: { s?: State; q?: Question[]; f?: Flashcard[]; m?: Material[] } = {}
@@ -84,12 +92,12 @@ function catalog(s: State) {
   if (cache.s !== s) {
     cache = {
       s,
-      q: [...QUESTIONS, ...acervo.questions, ...s.imported.questions],
+      q: [...acervo.questions, ...s.imported.questions],
       f: [
-        ...FLASHCARDS, ...acervo.flashcards, ...s.imported.flashcards,
+        ...acervo.flashcards, ...s.imported.flashcards,
         ...s.decks.flatMap((d) => d.cards.map((c) => ({ ...c, disciplina: d.nome, tema: 'Meu baralho', deck: d.id }))),
       ],
-      m: [...MATERIALS, ...s.imported.materials],
+      m: s.imported.materials,
     }
   }
   return cache as Required<typeof cache>
@@ -107,16 +115,16 @@ export function recordAttempt(q: Question, chosen: number, ms: number) {
   return a
 }
 
-export function createSimulado(nome: string, questionIds: string[], durationSec: number) {
-  const sim: Simulado = { id: uid(), nome, createdAt: Date.now(), questionIds, answers: {}, durationSec, elapsedSec: 0 }
+export function createSimulado(nome: string, questionIds: string[], durationSec: number, treino = false, papel = false) {
+  const sim: Simulado = { id: uid(), nome, createdAt: Date.now(), questionIds, answers: {}, durationSec, elapsedSec: 0, ...(treino && { treino }), ...(papel && { papel }) }
   setState((s) => ({ ...s, simulados: [sim, ...s.simulados] }))
   return sim.id
 }
 
-// Nova prova a partir de outra (todas as questões ou só as erradas), com tempo proporcional.
-export function redoSimulado(s: Simulado, ids: string[], suffix: string) {
+// Nova prova a partir de outra, com tempo proporcional. Refazer só as erradas é treino.
+export function redoSimulado(s: Simulado, ids: string[], suffix: string, treino = false) {
   const dur = s.durationSec && Math.round((s.durationSec * ids.length) / s.questionIds.length)
-  return createSimulado(`${s.nome} · ${suffix}`, ids, dur)
+  return createSimulado(`${s.nome} · ${suffix}`, ids, dur, treino)
 }
 
 export function toggleFavorite(id: string) {

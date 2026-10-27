@@ -1,0 +1,523 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Clínica Cirúrgica IV
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_7 PERIODO_14ABRIL_2025.1_CC IV IRREGULAR
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15593 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervotop.com
+
+(UNITPAC) Uma paciente de 65 anos, com histórico de tabagismo de 40 maços/ano, apresenta
+tosse persistente há três meses, acompanhada de perda de peso não intencional de 5 kg e
+episódios ocasionais de hemoptise. A radiografia de tórax mostra uma massa no lobo superior
+direito, e a tomografia computadorizada de tórax confirma uma lesão de 3 cm, além de linfonodos
+mediastinais aumentados.
+Diante desse quadro, qual é o próximo exame mais adequado para investigação diagnóstica e
+estadiamento da doença?
+Alternativas:
+(alternativa A)
+Biópsia pulmonar transtorácica por agulha fina.
+(alternativa B)
+PET-CT (Tomografia por Emissão de Pósitrons).
+(alternativa C) (CORRETA)
+Broncoscopia com biópsia.
+(alternativa D)
+Videotoracoscopia com biópsia pulmonar.
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 1 de 15
+
+Resposta comentada:
+A broncoscopia permite a visualização direta das vias aéreas e a obtenção de biópsias de lesões
+centrais ou próximas aos brônquios principais. Dada a localização da massa no lobo superior
+direito e a presença de linfonodos mediastinais aumentados, a broncoscopia é indicada para obter
+amostras teciduais para diagnóstico histopatológico.
+Distratores:
+Embora seja útil para lesões periféricas, a biópsia transtorácica apresenta maior risco de
+complicações, como pneumotórax, especialmente em lesões próximas ao mediastino. Neste
+caso, a broncoscopia é mais indicada.
+O PET-CT é fundamental no estadiamento do câncer de pulmão, avaliando a extensão da doença
+e a presença de metástases. Contudo, para o diagnóstico histopatológico inicial, métodos que
+obtenham amostras teciduais, como a broncoscopia, são prioritários.
+A videotoracoscopia é uma técnica invasiva, geralmente reservada para casos em que métodos
+menos invasivos não foram diagnósticos. Dada a acessibilidade da lesão por broncoscopia, esta
+deve ser a primeira escolha.
+Referências:
+INSTITUTO NACIONAL DE CÂNCER (INCA). Versão para profissionais de saúde: câncer de
+pulmão. Disponível em: https://www.gov.br/inca/pt-br/assuntos/cancer/tipos/pulmao/versao-paraprofissionais-de-saude. Acesso em: 11 mar. 2025.
+FERNANDEZ, Angelo; JATENE, Fabio B.; ZAMBONI, Mauro. Diagnóstico e estadiamento do
+câncer de pulmão. Jornal Brasileiro de Pneumologia, v. 28, n. 4, p. 219, jul./ago. 2002.
+Disponível em: https://jbp.org.br/details/460/pt-BR/diagnostico-e-estadiamento-do-cancer-depulmao. Acesso em: 11 mar. 2025.
+SOCIEDADE BRASILEIRA DE PNEUMOLOGIA E TISIOLOGIA (SBPT). Consensos e
+Diretrizes da SBPT. Lung cancer screening in Brazil: recommendations from the Brazilian
+Society of Thoracic Surgery, Brazilian Thoracic Association, and Brazilian College of
+Radiology
+and
+Diagnostic
+Imaging
+–
+2024.
+2024.
+Disponível
+em:
+https://sbpt.org.br/portal/consensos-e-diretrizes-da-sbpt/. Acesso em: 11 mar. 2025.
+
+2ª QUESTÃO
+Enunciado:
+(FASA VIC) Um homem de 72 anos, sem comorbidades significativas, é atendido no ambulatório
+de urologia após o diagnóstico de câncer de próstata localizado. O paciente apresenta PSA de 12
+ng/mL, escore de Gleason 4+4 (8) na biópsia e estadiamento clínico T2bN0M0 evidenciado na
+ressonância magnética multiparamétrica. Encontra-se assintomático e deseja saber qual é a
+melhor opção de tratamento.
+Com base nas diretrizes atuais para o manejo do câncer de próstata, qual é a conduta mais
+adequada para este paciente?
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 2 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+Radioterapia associada à terapia de privação androgênica, pois se trata de um câncer de risco
+intermediário-alto.
+(alternativa B)
+Vigilância ativa, pois ele não apresenta sintomas, e o câncer pode evoluir lentamente.
+(alternativa C)
+Terapia hormonal isolada, pois os níveis de PSA estão elevados e indicam disseminação da
+doença.
+(alternativa D)
+Prostatectomia parcial, pois o paciente tem bom estado geral e apresenta um tumor localizado de
+alto risco.
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 3 de 15
+
+Resposta comentada:
+Alternativa correta:
+Radioterapia associada à terapia de privação androgênica, pois se trata de um câncer de risco
+intermediário-alto.
+Justificativa: O paciente apresenta um câncer de próstata localizado de alto risco, com PSA de 12
+ng/mL, escore de Gleason 4+4 (8) e estadiamento clínico T2bN0M0. De acordo com as diretrizes
+da Sociedade Brasileira de Urologia (SBU) e das principais sociedades internacionais (NCCN,
+EAU, AUA), a melhor conduta para tumores de alto risco é radioterapia externa combinada com
+terapia de privação androgênica (ADT). Essa estratégia demonstrou melhores taxas de controle
+oncológico e sobrevida.
+Análise das alternativas incorretas:
+A vigilância ativa é indicada para tumores de baixo risco (PSA <10, Gleason ≤6, estadiamento T1T2a). Como este caso é de alto risco, a vigilância não é apropriada.
+A prostatectomia radical, e não parcial, poderia ser uma opção, mas a abordagem cirúrgica
+isolada apresenta maior risco de recorrência para tumores de alto risco, muitas vezes
+necessitando de terapia complementar.
+A privação androgênica isolada não é tratamento primário para câncer de próstata localizado. Seu
+uso isolado não é suficiente para controle oncológico a longo prazo.
+Referências:
+TOWNSEND, Courtney M.; BEAUCHAMP, R. Daniel; EVERS, B. Mark; MATTOX, Kenneth L.
+Sabiston Tratado de Cirurgia: a base biológica da prática cirúrgica moderna. Tradução do Colégio
+Brasileiro de Cirurgiões. 21ª ed. Rio de Janeiro: Guanabara Koogan, 2024. 2128 p. ISBN 978-859515-981-5.
+NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines®): Prostate Cancer, 2023.
+SOCIEDADE BRASILEIRA DE UROLOGIA (SBU). Tratado de Urologia. 2ª ed. Rio de Janeiro:
+Atheneu, 2018.
+3ª QUESTÃO
+Enunciado:
+(UNITPAC) Um paciente de 45 anos, professor, comparece ao ambulatório com disfonia
+persistente há 3 meses. Refere que a rouquidão teve início insidioso, sem associação com
+infecção respiratória, trauma vocal ou exposição a irritantes. Relata também uma sensação de
+“caroço na garganta” e disfagia leve para líquidos, além de uso frequente da voz no trabalho. No
+exame físico geral, não há alterações orofaríngeas visíveis.
+Com base nas queixas e histórico, qual é a conduta mais adequada neste momento?
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 4 de 15
+
+Alternativas:
+(alternativa A)
+Iniciar fonoaudiologia preventiva e reavaliar em 30 dias, considerando o uso vocal excessivo.
+(alternativa B)
+Prescrever anti-inflamatórios não esteroidais e inibidor de bomba de prótons por 14 dias.
+(alternativa C)
+Acalmar o paciente e orientar hidratação vocal, pois a ausência de tabagismo e dor exclui risco de
+lesão.
+(alternativa D) (CORRETA)
+Solicitar videolaringoscopia, pois a disfonia persiste por mais de 2 semanas sem causa definida.
+
+Resposta comentada:
+De acordo com as recomendações do BMJ Best Practice, da Sociedade Brasileira de
+Otorrinolaringologia e da American Academy of Otolaryngology, a disfonia persistente por mais de
+2-3 semanas, sem causa evidente, já é indicação formal de videolaringoscopia. A investigação
+precoce é essencial para diagnosticar lesões benignas (como nódulos ou pólipos), paralisia de
+pregas vocais ou até neoplasias iniciais. O paciente também apresenta sinais de alarme, como
+disfagia associada.
+Distratores:
+Embora o uso vocal excessivo justifique terapia fonoaudiológica, ela não deve ser iniciada antes
+da avaliação da laringe, especialmente em disfonia persistente sem diagnóstico. Pode atrasar o
+diagnóstico de lesões estruturais.
+Tratamento empírico com AINEs e IBPs sem exame da laringe não é indicado, pois pode
+mascarar sintomas ou atrasar o diagnóstico de lesões. Só deve ser considerado após avaliação
+otorrinolaringológica.
+A ausência de fatores de risco clássicos (como tabagismo) não exclui neoplasia ou disfunções
+vocais estruturais. A disfonia crônica deve ser sempre investigada com videolaringoscopia.
+Referências:
+SOCIEDADE BRASILEIRA DE OTORRINOLARINGOLOGIA E CIRURGIA CÉRVICO-FACIAL
+(ABORL-CCF). Tratado de Otorrinolaringologia e Cirurgia Cérvico-Facial. São Paulo: ABORLCCF, 2017.
+BMJ BEST PRACTICE. Hoarseness in adults – assessment and referral criteria. BMJ Publishing
+Group. Disponível em: https://bestpractice.bmj.com/topics/en-us/3000110. Acesso em: 06 mar.
+2025.
+PANDOLFI, M.; FUKUSHIRO, A. P. Disfonia – avaliação e conduta. In: RICHTER, M. et al.
+(Org.). Manual de Otorrinolaringologia da USP. São Paulo: Manole, 2020.
+AMERICAN ACADEMY OF OTOLARYNGOLOGY - HEAD AND NECK SURGERY. Clinical
+Practice Guideline: Hoarseness (Dysphonia) (Update). Otolaryngol Head Neck Surg.
+2018;158(1_suppl): S1-S42.
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 5 de 15
+
+4ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Uma mulher de 43 anos, sem comorbidades, dá entrada no pronto-socorro após
+torcer o tornozelo direito ao descer do ônibus há 30 minutos. A paciente refere dor intensa no
+tornozelo direito, associada a edema, equimose importante e incapacidade de carga (não
+consegue apoiar o pé no chão para caminhar).
+Com base no quadro clínico e na abordagem diagnóstica, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A radiografia deve ser feita em qualquer caso de torção do tornozelo com edema e equimose.
+(alternativa B)
+A radiografia deve ser feita apenas se houver dor na borda posterior do maléolo medial ou lateral.
+(alternativa C) (CORRETA)
+Solicitar radiografia devido à dor no tornozelo e não conseguir apoiar o pé para caminhar.
+(alternativa D)
+A radiografia não é necessária, pois a paciente não apresenta sinais clínicos evidentes de fratura.
+
+Resposta comentada:
+A alternativa correta é:
+- As Regras de Ottawa indicam radiografia quando há dor no tornozelo associada a incapacidade
+de carga ou dor na borda posterior do maléolo medial/lateral.
+- Como a paciente não consegue apoiar o pé, a radiografia é necessária.
+Distratores:
+- A incapacidade de carga é um critério das Regras de Ottawa para solicitar radiografia, então a
+afirmação é equivocada.
+- A dor no maléolo medial/lateral é um dos critérios para indicação da radiografia, mas não é o
+único. A incapacidade de carga também é suficiente para justificar o exame.
+- Edema e equimose isoladamente não são critérios suficientes para solicitar radiografia, pois
+muitas lesões de partes moles não envolvem fratura.
+Referências:
+BACHMANN, LM. et al. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and midfoot: systematic review. BMJ, v. 326, p. 417, 2003. Disponível em:
+https://www.bmj.com/content/326/7386/417. Acesso em: 05 abr. 2025.
+STIELL, IG. et al. Implementation of the Ottawa ankle rules. JAMA, v. 271, n. 11, p. 827-832, 1994.
+UP TO DATE. Clinical decision rules for foot and ankle imaging in the emergency department.
+Disponível em: https://www.uptodate.com. Acesso em: 05 abr. 2025.
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 6 de 15
+
+5ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Um paciente do sexo masculino, 45 anos, está internado na enfermaria para
+tratamento de queimaduras superficiais extensas. Durante a internação, apresenta perda de peso
+significativa e fraqueza muscular.
+Para avaliar seu estado nutricional, foi solicitado um painel bioquímico.
+Com base nos dados clínicos e laboratoriais, assinale a alternativa que apresenta o achado mais
+indicativo de desnutrição proteico-calórica neste paciente.
+Alternativas:
+(alternativa A)
+Linfócitos totais acima de 2.000 células/mm³.
+(alternativa B)
+Albumina sérica de 4,2 g/dL.
+(alternativa C)
+Creatinina sérica de 0,8 mg/dL.
+(alternativa D) (CORRETA)
+Transtirretina com valor de 12 mg/dL.
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 7 de 15
+
+Resposta comentada:
+Pré-albumina (transtirretina) é um marcador sensível e precoce do estado nutricional proteicocalórico, especialmente em situações agudas ou de rápida evolução, como no caso de pacientes
+queimados ou gravemente enfermos.
+A pré-albumina tem meia-vida curta (2 a 3 dias), sendo mais útil do que a albumina para detectar
+mudanças recentes no estado nutricional.
+Um valor de 12 mg/dL está abaixo do de referência normal (16–35 mg/dL), indicando desnutrição
+proteico-calórica moderada a grave.
+Está diretamente relacionada à síntese hepática de proteínas e ao catabolismo aumentado
+comum em pacientes com queimaduras extensas.
+Distratores:
+Albumina sérica de 4,2 g/dL - Valor dentro da faixa normal (3,5–5,0 g/dL).
+A albumina tem meia-vida longa (~20 dias) e pode permanecer normal mesmo em pacientes
+desnutridos, especialmente em estados inflamatórios ou agudos, onde seu valor pode ser
+influenciado por resposta de fase aguda, hidratação ou estado hepático, não refletindo bem a
+desnutrição aguda.
+Linfócitos totais acima de 2.000 células/mm³.
+Um número normal ou elevado de linfócitos não indica desnutrição. Na verdade, linfocitopenia (<
+1.200) poderia ser um sinal de desnutrição proteico-calórica severa, por comprometimento
+imunológico.
+Portanto, um valor normal não sugere desnutrição.
+Creatinina sérica de 0,8 mg/d.
+A creatinina é um marcador de função renal e de massa muscular, mas não é específica para
+avaliação do estado nutricional proteico-calórico.
+Em pacientes com queimaduras, a creatinina pode estar normal mesmo com catabolismo
+importante, especialmente se houver hidratação agressiva, como é comum no manejo inicial das
+queimaduras.
+Referências:
+Waitzberg DL. Nutrição oral, enteral e parenteral na prática clínica. 5ª ed. São Paulo: Atheneu;
+2021.
+Sociedade Brasileira de Nutrição Parenteral e Enteral (BRASPEN). Diretrizes de Terapia
+Nutricional no Paciente Queimado. 2022.
+6ª QUESTÃO
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 8 de 15
+
+Enunciado:
+(UNITPAC) Uma professora de 34 anos procura atendimento devido a rouquidão progressiva há
+três meses, associada a fadiga vocal ao longo do dia e sensação de esforço para falar. Relata
+que não sente dor, mas nota que a voz piora ao final do expediente.
+No exame físico, não há linfonodomegalias cervicais palpáveis. A laringoscopia indireta revela
+lesões bilaterais pequenas e simétricas na borda livre das pregas vocais, associadas a hiperemia
+leve. O movimento das pregas vocais está preservado e não há sinais de lesão exofítica.
+Com base na apresentação clínica e nos achados do exame físico, qual é o diagnóstico mais
+provável?
+Alternativas:
+(alternativa A) (CORRETA)
+Nódulos vocais.
+(alternativa B)
+Papilomatose laríngea.
+(alternativa C)
+Carcinoma de laringe.
+(alternativa D)
+Refluxo laringofaríngeo.
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 9 de 15
+
+Resposta comentada:
+Os nódulos de cordas vocais são lesões benignas mais comuns em profissionais da voz, como
+professores, cantores e palestrantes. Associada ao uso excessivo e inadequado da voz
+(fonotrauma). Caracteriza-se por lesões bilaterais simétricas na borda livre das pregas vocais,
+geralmente na junção do terço médio com o terço anterior da prega vocal.
+Distratores:
+O carcinoma de laringe geralmente ocorre em pacientes tabagistas e acima de 50 anos. No
+exame, seria esperado um nódulo exofítico unilateral, fixação da prega vocal e possível
+linfonodomegalia. O histórico clínico não é compatível com neoplasia maligna.
+Causada pelo Papilomavírus Humano (HPV), apresenta-se com lesões verrucosas ou exofíticas,
+podendo ser múltiplas. Mais comum na infância ou em adultos jovens com infecção persistente
+por HPV. O exame não mostra lesões sugestivas de papilomatose.
+Pode causar rouquidão persistente, mas geralmente é intermitente, piorando pela manhã. Os
+achados endoscópicos mais comuns são hiperemia difusa e edema de aritenoides, sem lesões
+focais bilaterais. O paciente não apresenta queixas gastrointestinais associadas, como pirose ou
+regurgitação.
+Referências:
+BMJ Best Practice. Benign vocal fold lesions: diagnosis and management. London: BMJ
+Publishing Group, 2024. Disponível em: https://bestpractice.bmj.com. Acesso em: 05 abr. 2025.
+SOCIEDADE BRASILEIRA DE OTORRINOLARINGOLOGIA E CIRURGIA CÉRVICO-FACIAL
+(ABORL-CCF). Diretrizes para Diagnóstico e Tratamento de Lesões Benignas da Laringe.
+2023. Disponível em: https://www.aborlccf.org.br. Acesso em: 05 abr. 2025.
+7ª QUESTÃO
+Enunciado:
+( FASA VIC) Um homem de 68 anos comparece ao ambulatório com queixa de jato urinário fraco,
+hesitação miccional e aumento da frequência urinária noturna nos últimos 12 meses. Ele não
+apresenta hematúria, dor óssea ou perda ponderal. Ao exame físico, a próstata está aumentada,
+de consistência elástica e sem nodulações palpáveis. O PSA sérico encontra-se em 2,5 ng/mL. A
+ultrassonografia demonstra resíduo urinário pós-miccional de 50 mL e volume prostático estimado
+em 40 cm³.
+Com base nesse quadro clínico, qual deve ser a conduta inicial mais adequada para esse
+paciente?
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 10 de 15
+
+Alternativas:
+(alternativa A)
+Iniciar inibidor da 5-alfa-redutase como monoterapia, devido ao volume prostático aumentado.
+(alternativa B)
+Realizar biópsia prostática para excluir carcinoma prostático.
+(alternativa C) (CORRETA)
+Prescrever alfa-bloqueador, devido a sintomas moderados com impacto na qualidade de vida.
+(alternativa D)
+Indicar prostatectomia radical devido ao aumento prostático e risco oncológico.
+
+Resposta comentada:
+Prescrever alfa-bloqueador, devido a sintomas moderados com impacto na qualidade de vida.
+(Correta): Os alfa-bloqueadores, como a tansulosina e a doxazosina, são a primeira linha de
+tratamento para sintomas moderados a graves da hiperplasia prostática benigna (HPB), pois
+atuam relaxando a musculatura do colo vesical e da próstata, melhorando o fluxo urinário. No
+caso apresentado, o paciente tem sintomas miccionais sugestivos de HPB sem sinais de
+malignidade, com PSA dentro da normalidade e próstata de tamanho moderado, tornando essa a
+melhor conduta inicial.
+Realizar biópsia prostática para excluir carcinoma prostático. (Incorreta): A biópsia prostática está
+indicada quando há suspeita de câncer de próstata, geralmente em pacientes com nódulos
+prostáticos ao toque retal ou elevação do PSA. O paciente em questão não apresenta esses
+achados.
+Indicar prostatectomia radical devido ao aumento prostático e risco oncológico. (Incorreta): A
+prostatectomia radical é indicada para câncer de próstata localizado e não para HPB isolada.
+Esse paciente não tem sinais clínicos ou laboratoriais sugestivos de neoplasia maligna, portanto,
+essa conduta não é apropriada.
+Iniciar inibidor da 5-alfa-redutase como monoterapia, devido ao volume prostático aumentado.
+(Incorreta): Os inibidores da 5-alfa-redutase, como a finasterida e a dutasterida, reduzem o
+volume prostático e são indicados para próstatas maiores (>40 cm³), especialmente quando há
+risco de retenção urinária ou falha com alfa-bloqueadores. No entanto, para sintomas moderados
+em uma próstata de 40 cm³ sem complicações, a monoterapia com alfa-bloqueadores é preferível
+inicialmente.
+Referências:
+TOWNSEND, Courtney M.; BEAUCHAMP, R. Daniel; EVERS, B. Mark; MATTOX, Kenneth L.
+Sabiston Tratado de Cirurgia: a base biológica da prática cirúrgica moderna. Tradução do Colégio
+Brasileiro de Cirurgiões. 21. ed. Rio de Janeiro: Guanabara Koogan, 2024. 2128 p. ISBN 978-859515-981-5.
+GOLDMAN, Lee; SCHAFER, Andrew I. Goldman-Cecil Medicina. Grupo GEN, 2022.
+8ª QUESTÃO
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 11 de 15
+
+Enunciado:
+(BANCO AFYA) Homem, 27 anos, chega na unidade de pronto atendimento com relato torção do
+tornozelo direito ao descer uma escada correndo. Ele refere dor lateral imediata, com pouca
+dificuldade de apoio e leve edema. Ao exame físico, não há sensibilidade à palpação sobre o
+maléolo lateral, leve edema e hematoma, sem deformidades evidentes. O paciente consegue dar
+passos com limitação moderada.
+a) Quais critérios clínicos devem ser avaliados para definir a necessidade de radiografia no caso
+descrito?
+b) Qual o tratamento conservador inicial mais indicado para este tipo de lesão, segundo diretrizes
+clínicas?
+Alternativas:
+--
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 12 de 15
+
+Resposta comentada:
+Padrão de Resposta Esperado:
+a)
+Deve-se aplicar a Regra de Ottawa para tornozelo:
+• Dor à palpação em qualquer um dos maléolos (lateral ou medial) e
+• Incapacidade de suportar peso imediatamente após o trauma e no serviço de saúde (não
+consegue dar 4 passos).
+Se esses critérios forem atendidos, a radiografia é indicada. No caso, como o paciente consegue
+caminhar e não há dor no maléolo medial, a radiografia pode ser evitada.
+b)
+O tratamento conservador inicial inclui o protocolo PRICE:
+• Proteção da articulação (tornozeleira ou imobilização leve)
+• Repouso relativo
+• Ice (gelo local por 20 minutos, 3–4x/dia)
+• Compressão (com bandagem elástica)
+• Elevação do membro afetado
+Analgesia com anti-inflamatórios ou analgésicos também pode ser indicada. O início precoce de
+mobilização leve é importante para prevenir rigidez e promover recuperação funcional.
+Bibliografia:
+1. HERTZ, B. S.; BENJAMIN, T. & MULLER, M. E. Ortopedia e Traumatologia: Princípios e
+Prática. 5. ed. Porto Alegre: Artmed, 2020.
+2. BRASIL. Ministério da Saúde. Protocolo de Urgência e Emergência em Traumatismos
+Osteoarticulares. Brasília: MS, 2022.
+3. BACHMANN, L. M. et al. Accuracy of Ottawa ankle rules to exclude fractures of the ankle and
+mid-foot: systematic review. BMJ, v. 326, n. 7386, p. 417, 2003.
+4. SOCIEDADE BRASILEIRA DE ORTOPEDIA E TRAUMATOLOGIA (SBOT). Diretrizes para
+atendimento de lesões ligamentares do tornozelo. São Paulo: SBOT, 2020.
+9ª QUESTÃO
+Enunciado:
+(UNITPAC) Um paciente do sexo masculino, 63 anos, com antecedente de tabagismo de 40
+maços/ano, comparece à unidade de saúde com queixa de tosse seca persistente há 2 meses,
+perda de peso de 8 kg no período e dispneia progressiva aos esforços. Refere ainda rouquidão
+recente e dor torácica localizada. Ao exame físico, apresenta hipocratismo digital e estertores
+finos na base direita.
+Foi solicitada radiografia de tórax, que revelou uma massa espiculada no lobo superior direito,
+associada à redução do volume pulmonar no mesmo hemitórax.
+Com base no quadro clínico e radiológico, qual é a hipótese diagnóstica mais provável?
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 13 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+Neoplasia pulmonar primária do tipo não pequenas células.
+(alternativa B)
+Tuberculose pulmonar em fase subaguda, com caverna oculta.
+(alternativa C)
+Embolia pulmonar com infarto parenquimatoso e resposta inflamatória local.
+(alternativa D)
+Pneumonia de lenta resolução com possível abscesso pulmonar.
+
+Resposta comentada:
+A apresentação é clássica de câncer de pulmão não pequenas células (como o adenocarcinoma
+ou carcinoma escamoso). Sintomas como tosse persistente, perda de peso, dor torácica,
+rouquidão e hipocratismo digital, associados à imagem de massa espiculada com retração (sinal
+de desmoplasia tumoral), tornam essa a hipótese mais provável. O tabagismo é o principal fator
+de risco.
+Distratores:
+Abscesso pulmonar geralmente se apresenta com tosse produtiva, febre e escarro purulento, e
+radiologicamente com cavitação com nível hidroaéreo, o que não foi descrito.
+Tuberculose pode simular neoplasia, mas geralmente apresenta-se com sintomas sistêmicos
+(febre, sudorese noturna, tosse com escarro) e acometimento apical. A massa espiculada com
+retração lobar favorece etiologia tumoral.
+Embolia pulmonar pode causar dor torácica e dispneia, mas não está associada a massa
+espiculada, nem a sintomas de longa duração. Não explicaria perda ponderal progressiva ou
+hipocratismo.
+
+Referências:
+BMJ Best Practice. Non-small cell lung cancer: diagnosis and staging. BMJ Publishing Group.
+Disponível em: https://bestpractice.bmj.com/topics/en-us/3000116. Acesso em: 06 mar. 2025.
+HARRISON, T. R. et al. Princípios de Medicina Interna. 21ª ed. Rio de Janeiro: AMGH, 2022.
+SABISTON, D. C. Tratado de Cirurgia: a base biológica da prática cirúrgica moderna. 21. ed. Rio
+de Janeiro: Elsevier, 2022.
+INCA – Instituto Nacional de Câncer. Neoplasias de pulmão: diretrizes diagnósticas e
+terapêuticas. Rio de Janeiro, 2023.
+10ª QUESTÃO
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 14 de 15
+
+Enunciado:
+(AFYA PARAÍBA) Na unidade de pronto atendimento, dá entrada uma jovem de 20 anos, com
+queimaduras, decorrentes de fogos de artifício, ocorridas há cerca de 1 hora. No exame físico,
+observa-se a presença de lesões em todo o membro superior esquerdo e na região genital.
+Existem áreas com bolhas rosas e dolorosas e áreas com bolhas secas, brancas e não
+dolorosas. A jovem pesa 80 kg. Considerando que a queimadura é uma doença grave que
+necessita de tratamento imediato, responda:
+a) Qual é a área de superfície corporal queimada? (1,0)
+b) Qual a hidratação a ser realizada, segundo a fórmula de Parkland? (1,5)
+Alternativas:
+-Resposta comentada:
+Padrão de respostas.
+A - 10% (1,0).
+O cálculo da superfície corporal queimada é baseado na regra dos 9, sendo no caso 9% de
+superfície corporal queimada em todo o membro superior esquerdo mais 1% de superfície
+corporal queimada da região genital, portanto a superfície corporal queimada é de 10%.
+B - 2 x 10 x 80 = 1600 ml (0,5).
+A paciente deve receber entre 800 ml de Soro Fisiológico nas primeiras 7h (0,5) e depois mais
+800 ml de Soro Fisiológico nas outras 16h (0,5).
+O cálculo da hidratação pela Fórmula de Parkland é 2 ml x Peso x Porcentagem de superfície
+corporal queimada.
+Sendo 50% nas primeiras 8 hs e os 50% restantes nas 16 hs restantes, devendo ser iniciado nas
+primeiras 8h a partir da hora da queimadura.
+Referência:
+DOHERTY, Gerard M. CURRENT Cirurgia. Porto Alegre: Grupo A, 2017. E-book. ISBN
+9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788580556018/. Acesso em: 07 mar. 2025.
+
+000155.930010.82d272.8119c5.1f7479.726627.045ead.584cd
+
+Pgina 15 de 15
+
+

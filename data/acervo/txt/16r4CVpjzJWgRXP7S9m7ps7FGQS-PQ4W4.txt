@@ -1,0 +1,799 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina II
+Professor (es):
+
+Período: 202601
+
+Turma:
+
+Data: 08/04/2026
+
+N1 ESPECÍFICA - MEDICINA - MCM II - 2026.1 - 1ª
+CHAMADA - 08/ABRIL
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19189 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA MARABÁ) Durante o primeiro semestre de um determinado ano, um estado
+brasileiro registrou aumento expressivo de casos de dengue, especialmente em
+municípios de médio porte. Em uma dessas cidades, a vigilância epidemiológica
+observou que, apesar do grande número de casos notificados, a proporção de
+óbitos entre os indivíduos diagnosticados permaneceu baixa. Em outro município do
+mesmo estado, com número absoluto de casos bem menor, a proporção de óbitos
+entre os doentes foi mais elevada, o que levou a Secretaria de Saúde a investigar
+falhas no diagnóstico e na assistência oportuna.
+
+acervo.vip
+
+Com base nessa situação e nos conceitos epidemiológicos aplicados à saúde da
+população, assinale a alternativa que melhor interpreta a situação apresentada.
+Alternativas:
+(alternativa A)
+No primeiro município, a mortalidade por dengue foi maior, pois o número absoluto
+de casos foi superior ao do segundo município.
+(alternativa B)
+No segundo município, a mortalidade por dengue foi necessariamente maior, pois a
+proporção de óbitos entre os casos foi mais elevada.
+(alternativa C) (CORRETA)
+No segundo município, a letalidade por dengue foi maior, sugerindo maior
+gravidade dos casos ou possível atraso na assistência.
+(alternativa D)
+No primeiro município, o maior número de casos indica maior gravidade da doença
+na população afetada.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 1 de 19
+
+Resposta comentada:
+Correta - No segundo município, a letalidade por dengue foi maior, sugerindo maior
+gravidade dos casos ou possível atraso na assistência.
+Essa é a alternativa correta porque o enunciado descreve que, no segundo
+município, a proporção de óbitos entre os indivíduos doentes foi mais elevada. Esse
+indicador corresponde à letalidade, que mede a proporção de óbitos entre os casos
+de uma doença e reflete sua gravidade ou a qualidade da assistência prestada. Em
+doenças como a dengue, maior letalidade pode indicar diagnóstico tardio, manejo
+inadequado ou maior gravidade clínica dos casos.
+Incorreta - No primeiro município, a mortalidade por dengue foi maior, pois o
+número absoluto de casos foi superior ao do segundo município.
+Essa alternativa está incorreta porque maior número de casos não determina,
+necessariamente, maior mortalidade. A mortalidade é um indicador populacional
+que depende do número de óbitos em relação à população total, e não apenas do
+número de casos. O enunciado não fornece dados populacionais nem número
+absoluto de óbitos, impedindo essa conclusão.
+Incorreta - No primeiro município, o maior número de casos indica maior gravidade
+da doença na população afetada.
+Essa alternativa está incorreta porque confunde frequência de casos com gravidade
+da doença. O número absoluto de casos está relacionado à incidência, enquanto a
+gravidade é melhor avaliada pela letalidade. O enunciado, inclusive, informa que a
+proporção de óbitos no primeiro município foi baixa, o que sugere menor gravidade
+relativa dos casos.
+Incorreta - No segundo município, a mortalidade por dengue foi necessariamente
+maior, pois a proporção de óbitos entre os casos foi mais elevada.
+Essa alternativa está incorreta porque confunde letalidade com mortalidade. A
+proporção de óbitos entre os casos corresponde à letalidade, e não à mortalidade. A
+mortalidade depende do número de óbitos em relação à população total e pode ser
+baixa mesmo quando a letalidade é elevada, especialmente em locais com menor
+número de casos.
+Referências:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde - Fundamentos,
+Métodos e Aplicações. Rio de Janeiro: Grupo GEN, 2011. E-book. ISBN 978-85-2772119-6. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85277-2119-6/. Acesso em: 16 maio 2024.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio
+de Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 16
+maio 2024.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA MANACAPURU) Em um estudo epidemiológico descritivo realizado em uma
+Unidade Básica de Saúde, foram coletadas as seguintes informações dos usuários
+atendidos durante um mês:
+Sexo (masculino ou feminino);
+Faixa etária (0–9 anos; 10–19 anos; 20–59 anos; 60 anos ou mais);
+Número de consultas realizadas no período;
+Peso corporal, medido em quilogramas (kg).
+Com base nessas informações, identifique a alternativa que apresenta a correta
+classificação das variáveis, respectivamente.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 2 de 19
+
+Alternativas:
+(alternativa A) (CORRETA)
+Sexo: qualitativa nominal; faixa etária: qualitativa ordinal; número de consultas:
+quantitativa discreta; peso corporal: quantitativa contínua.
+(alternativa B)
+Sexo: quantitativa discreta; faixa etária: qualitativa nominal; número de consultas:
+qualitativa ordinal; peso corporal: quantitativa contínua.
+(alternativa C)
+Sexo: qualitativa ordinal; faixa etária: quantitativa contínua; número de consultas:
+quantitativa contínua; peso corporal: quantitativa discreta.
+(alternativa D)
+Sexo: qualitativa nominal; faixa etária: quantitativa discreta; número de consultas:
+quantitativa contínua; peso corporal: qualitativa ordinal.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 3 de 19
+
+Resposta comentada:
+Correta - Sexo: qualitativa nominal; faixa etária: qualitativa ordinal; número de
+consultas: quantitativa discreta; peso corporal: quantitativa contínua. Sexo: variável
+qualitativa nominal, pois classifica os indivíduos em categorias sem ordem. Faixa
+etária: variável qualitativa ordinal, pois as categorias apresentam uma ordem
+lógica. Número de consultas: variável quantitativa discreta, pois representa uma
+contagem. Peso corporal: variável quantitativa contínua, pois pode assumir
+qualquer valor dentro de um intervalo.
+Incorreta - Sexo: qualitativa ordinal; faixa etária: quantitativa contínua; número de
+consultas: quantitativa contínua; peso corporal: quantitativa discreta. - Sexo não
+possui hierarquia ou ordem, portanto é uma variável qualitativa nominal, e não
+ordinal. Faixa etária foi apresentada em categorias ordenadas, logo não é
+quantitativa contínua. Número de consultas é uma contagem e, portanto,
+quantitativa discreta, e não contínua. Peso corporal é medido em escala contínua, e
+não discreta.
+Incorreta - Sexo: quantitativa discreta; faixa etária: qualitativa nominal; número de
+consultas: qualitativa ordinal; peso corporal: quantitativa contínua. Sexo não é
+numérico; ainda que fosse apresentado como 1 ou 2, por exemplo, ele representa
+uma categoria (masculino/feminino). Faixa etária, embora categórica, possui ordem
+(0-9 anos vem antes de 10-19 anos); assim, não deve ser classificada como
+qualitativa nominal. Número de consultas não expressa categorias ordenadas, mas
+sim valores numéricos discretos. Apenas o peso corporal está corretamente
+classificado como quantitativo contínuo.
+Incorreta - Sexo: qualitativa nominal; faixa etária: quantitativa discreta; número de
+consultas: quantitativa contínua; peso corporal: qualitativa ordinal. - Sexo está
+corretamente classificado como qualitativa nominal, porém faixa etária não é
+quantitativa discreta, pois foi apresentada em categorias. Número de consultas não
+é quantitativa contínua, já que não admite valores fracionados. Peso corporal não é
+qualitativa ordinal, pois é uma medida numérica contínua.
+Referências:
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática
+para as ciências da saúde. Porto Alegre: Penso, 2017. E-book. ISBN 9788584291007.
+Disponível
+em:https://integrada.minhabiblioteca.com.br/#/books/9788584291007/recent.
+Acesso em: 10 out. 2024.
+ESTEITIE, Rania. Fundamentos de pesquisa clínica. Porto Alegre: AMGH, 2015. Ebook. p. 97. ISBN 9788580555127. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580555127/. Acesso
+em: 12 nov. 2024.
+MOORE, D.; NOTZ, W. I.; FLIGNER, M. A. A estatística básica e sua prática. 9. ed. Rio
+de Janeiro: LTC, 2023. E-book. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788521638612/recent. Acesso
+em: 10 out. 2024.
+VIEIRA, Sonia. Introdução à bioestatística. Rio de Janeiro: Grupo GEN, 2021. E-book.
+ISBN 9788595158566. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595158566/. Acesso em: 22
+nov. 2024.
+Feedback:
+-3ª QUESTÃO
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 4 de 19
+
+Enunciado:
+(AFYA PATO BRANCO) Durante o acompanhamento de um surto de conjuntivite
+neonatal em uma maternidade pública, foram identificados quatro recém-nascidos
+com secreção ocular purulenta nas primeiras 72 horas de vida. Todos nasceram de
+parto vaginal. As mães de três bebês apresentaram corrimento genital no momento
+do parto, sem diagnóstico ou tratamento. A mãe do quarto bebê apresentava lesão
+ulcerada nos genitais e febre no dia do parto. Nenhuma das mães havia realizado
+adequadamente o pré-natal. Após investigação laboratorial, foram identificados dois
+tipos de microrganismos: uma bactéria presente em secreções cervicais e um vírus
+que pode ser eliminado por lesões genitais ulceradas.
+Identifique a alternativa correta com base na análise das informações acima.
+Alternativas:
+(alternativa A)
+A pele íntegra do recém-nascido é a principal porta de entrada para microrganismos
+presentes em secreções vaginais durante o parto.
+(alternativa B)
+A transmissão observada nas quatro crianças se deu por via hematogênica
+transplacentária, explicando a manifestação precoce após o nascimento.
+(alternativa C) (CORRETA)
+A secreção genital das mães é uma via de eliminação dos agentes infecciosos e
+atuou como fonte para infecção vertical durante o parto.
+(alternativa D)
+A infecção viral descrita foi adquirida por contágio horizontal, pois lesões genitais
+contaminadas funcionam como porta de entrada direta para o neonato.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 5 de 19
+
+Resposta comentada:
+Correta - A secreção genital das mães é uma via de eliminação dos agentes
+infecciosos e atuou como fonte para infecção vertical durante o parto.
+As secreções cervicais e lesões ulceradas funcionam como vias de eliminação de
+microrganismos. Durante o parto vaginal, o contato direto dessas secreções com o
+neonato caracteriza transmissão vertical.
+Incorreta - A infecção viral descrita foi adquirida por contágio horizontal, pois lesões
+genitais contaminadas funcionam como porta de entrada direta para o neonato.
+A infecção descrita foi adquirida por transmissão vertical, não horizontal. A porta de
+entrada não são as lesões genitais da mãe, mas sim as mucosas do recém-nascido,
+especialmente a ocular, que entram em contato com as secreções no canal de
+parto.
+Incorreta - A pele íntegra do recém-nascido é a principal porta de entrada para
+microrganismos presentes em secreções vaginais durante o parto.
+A pele íntegra não é uma porta de entrada efetiva para esses microrganismos. A
+infecção geralmente ocorre por meio das mucosas (ocular, respiratória ou genital),
+que são estruturas vulneráveis ao contato com secreções contaminadas.
+Incorreta - A transmissão observada nas quatro crianças se deu por via
+hematogênica transplacentária, explicando a manifestação precoce após o
+nascimento.
+A via transplacentária (hematogênica) ocorre com certos agentes, mas não explica
+esse caso, já que os sintomas apareceram após o parto, e há relato de exposição
+direta no canal vaginal, indicando transmissão intraparto (vertical).
+Referências:
+FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3. ed.
+Santana de Parnaíba [SP]: Manole, 2022. E-book. ISBN 9786555767711. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786555767711/. Acesso
+em: 24 maio 2024.
+GORDIS, Leon. Epidemiologia. Rio de Janeiro: Thieme Brazil, 2017. E-book. ISBN
+9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788567661926/. Acesso em: 06
+jun. 2024.
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio
+de Janeiro: MedBook Editora, 2017. E-book. ISBN 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/recent. Acesso
+em: 10 out. 2024.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA MARABÁ) Um médico de família atende um paciente de 58 anos,
+caminhoneiro, com diagnóstico recente de diabetes mellitus tipo 2. As diretrizes da
+Sociedade Brasileira de Diabetes recomendam metformina como primeira linha
+terapêutica, com base em ensaios clínicos randomizados que demonstram redução
+de complicações microvasculares. O paciente expressa preocupação com os
+possíveis efeitos colaterais gastrointestinais da metformina, que poderiam interferir
+em sua atividade profissional, e pergunta sobre alternativas. O médico,
+considerando sua experiência prévia com pacientes que se beneficiaram de
+inibidores de SGLT2, mas ciente do custo mais elevado e da disponibilidade restrita
+desses medicamentos na rede pública, decide discutir as opções com o paciente.
+Após diálogo, optam por iniciar metformina em dose baixa, com orientações para
+minimizar os efeitos, e agendam retorno em três meses para reavaliação.
+A conduta adotada pelo médico exemplifica corretamente a aplicação da Medicina
+Baseada em Evidências porque
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 6 de 19
+
+Alternativas:
+(alternativa A)
+baseou-se em sua experiência clínica com inibidores de SGLT2, uma vez que já
+havia observado bons resultados na prática.
+(alternativa B)
+priorizou a recomendação das diretrizes como único elemento para a decisão,
+garantindo objetividade e segurança ao tratamento.
+(alternativa C)
+considerou a preocupação do paciente, mas ajustou a conduta às evidências,
+baseando-se em um estudo recente que mostrou benefício dos inibidores de SGLT2
+em idosos.
+(alternativa D) (CORRETA)
+integrou a melhor evidência disponível, sua experiência clínica e as preferências do
+paciente no processo de decisão compartilhada.
+
+Resposta comentada:
+A alternativa que descreve a integração entre a melhor evidência disponível
+(diretrizes), a experiência clínica do profissional (vivência com inibidores de SGLT2)
+e as preferências do paciente (preocupação com efeitos colaterais) é a correta, pois
+reflete o modelo tríplice da Medicina Baseada em Evidências, no qual a decisão
+clínica é otimizada pela síntese desses três componentes.
+A opção que menciona a priorização exclusiva das diretrizes desconsidera a
+importância da experiência e dos valores do paciente, resultando em uma
+abordagem incompleta e paternalista.
+A alternativa que aponta a predominância da experiência clínica ignora o papel das
+evidências atuais e da individualização do cuidado, podendo levar a condutas não
+respaldadas por dados robustos.
+A opção que menciona a consideração da preocupação do paciente aliada à
+lembrança de um estudo em idosos, embora inclua evidência e valores, não reflete
+a experiência clínica do médico com aquele contexto específico e, principalmente,
+desconsidera a diretriz atual que orienta a metformina como primeira escolha, o
+que torna a conduta menos alinhada ao caso concreto.
+Referências:
+GREENHALGH, Trisha. Como Ler Artigos Científicos: fundamentos da medicina
+baseada em evidências. 5. ed. Porto Alegre: Artmed, 2015. 282 p.
+SACKETT, D. L. et al. Medicina Baseada em Evidências: prática e ensino. 2. ed. Porto
+Alegre: Artmed, 2003.
+Feedback:
+-5ª QUESTÃO
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 7 de 19
+
+Enunciado:
+(AFYA CRUZEIRO DO SUL) De acordo com dados do DATASUS/TABNET referentes ao
+ano de 2022, o município de Esperança (PB) registrou 2.400 nascidos vivos. No
+mesmo período, foram notificados 12 óbitos de mulheres por causas relacionadas à
+gravidez, parto ou puerpério, configurando a Mortalidade Materna. Do total desses
+óbitos, 8 ocorreram por causas obstétricas diretas, como hipertensão e hemorragia,
+e 4 por causas obstétricas indiretas, como doenças cardiovasculares pré-existentes
+agravadas pela gestação. A razão de mortalidade materna (RMM) calculada para o
+município foi de 65 óbitos por 100.000 nascidos vivos. A média nacional para o
+mesmo ano foi de 57,9. A análise dos casos revelou que 75% das mulheres
+falecidas não haviam realizado o número mínimo de 6 consultas de pré-natal
+recomendado pelo Ministério da Saúde.
+Com base no texto, avalie as afirmativas a seguir:
+I. A razão de mortalidade materna de 65/100.000 nascidos vivos no município de
+Esperança aponta para uma situação de saúde melhor que a média nacional de
+2022.
+II. Os óbitos por causas obstétricas indiretas estão incluídos no cálculo da
+mortalidade materna, desde que haja uma relação causal com a gestação.
+III. A baixa adesão ao pré-natal, mencionada no texto, é um fator determinante
+social da saúde que está diretamente associado ao aumento do risco de morte
+materna.
+IV. A razão de mortalidade materna é calculada dividindo-se o número de óbitos
+maternos pelo número de mulheres em idade fértil da localidade e multiplicando-se
+por 100.000.
+É correto o que se afirma em
+Alternativas:
+(alternativa A) (CORRETA)
+II e III, apenas.
+(alternativa B)
+II, III e IV, apenas.
+(alternativa C)
+I e III, apenas.
+(alternativa D)
+I, II e IV, apenas.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 8 de 19
+
+Resposta comentada:
+Está correto o que se afirma em II e III, apenas.
+Afirmativa I (falsa): "A razão de mortalidade materna (RMM) de 65/100.000 NV no
+município de Esperança aponta para uma situação de saúde melhor que a média
+nacional de 2022." (Esta versão é falsa, pois 65 aponta para uma situação de saúde
+pior que a média nacional, de 57,9, não melhor).
+Afirmativa II (verdadeira): A definição de morte materna da OMS/ABNT inclui tanto
+as causas obstétricas diretas (decorrentes de complicações da gravidez) quanto as
+indiretas (decorrentes de doenças agravadas pela gravidez). A afirmativa está
+perfeitamente correta.
+Afirmativa III (verdadeira): O acesso ao pré-natal é um marcador de equidade em
+saúde, profundamente influenciado por determinantes sociais como renda,
+escolaridade, raça e localização geográfica. A baixa adesão é um forte preditor de
+desfechos maternos negativos, incluindo a morte. A afirmativa é correta.
+Afirmativa IV (falsa): O cálculo da Razão de Mortalidade Materna (RMM) utiliza como
+denominador o número de nascidos vivos (NV), e não o número de mulheres em
+idade fértil. A fórmula correta é: RMM = (nº de óbitos maternos / nº de nascidos
+vivos) * 100.000. A afirmativa descreve a fórmula de maneira incorreta.
+Referências:
+REDE Interagencial de Informação para a Saúde (org.). Indicadores básicos para a
+saúde no Brasil: conceitos e aplicações. 2. ed. Brasília: Ripsa, 2008. 349 p.
+Disponível em: http://tabnet.datasus.gov.br/tabdata/livroidb/2ed/indicadores.pdf.
+Acesso em: 23 ago. 2024.
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre:
+Artmed, 2021. E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 23
+ago. 2024.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(AFYA MARABÁ) Em um município de 80.000 habitantes, uma equipe de vigilância
+epidemiológica acompanha uma doença crônica que apresenta períodos de
+reagudização. No início de 2025, havia 1.600 pessoas vivendo com a doença (casos
+prevalentes).
+Ao longo de 2025, ocorreram:
+400 novos casos diagnosticados da doença;
+300 remissões (pessoas que deixaram de apresentar critérios diagnósticos naquele
+ano);
+80 óbitos entre pessoas que tinham a doença (todos por causas não relacionadas
+ao agravo);
+70 pessoas com a doença mudaram de município durante o período;
+Nenhuma mudança significativa na população total.
+Ao final de 2025, a equipe observou que a prevalência caiu para 1.550 casos.
+Com base na avaliação dos dados apresentados e nos conceitos de incidência e
+prevalência, assinale a alternativa que melhor explica a redução da prevalência ao
+longo do ano.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 9 de 19
+
+Alternativas:
+(alternativa A) (CORRETA)
+A prevalência diminuiu porque as saídas superaram as entradas de casos,
+reduzindo o número total de pessoas com a doença.
+(alternativa B)
+A queda da prevalência indica redução da duração média da doença, sem relação
+com as entradas e saídas de casos na população.
+(alternativa C)
+A incidência foi baixa, o que pode reduzir a prevalência quando não há
+compensação por entradas adicionais de casos.
+(alternativa D)
+A redução da prevalência ocorreu porque os óbitos entre pessoas com a doença
+diminuíram o número de novos casos ao longo do ano.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 10 de 19
+
+Resposta comentada:
+Correta - A prevalência diminuiu porque as saídas superaram as entradas de casos,
+reduzindo o número total de pessoas com a doença. Esta alternativa está correta
+porque a prevalência expressa o total de pessoas vivendo com a doença em
+determinado momento, funcionando como um “estoque” de casos. Ao longo do ano,
+houve entrada de 400 novos casos, mas também ocorreram 300 remissões, 80
+óbitos entre pessoas com a doença e 70 mudanças de município, totalizando 450
+saídas. Como as saídas foram maiores do que as entradas, o número final de
+pessoas vivendo com a doença diminuiu, o que explica a queda da prevalência de
+1.600 para 1.550 casos.
+Incorreta - A incidência foi baixa, o que pode reduzir a prevalência quando não há
+compensação por entradas adicionais de casos. Esta alternativa está incorreta
+porque, embora a incidência influencie a prevalência, o enunciado informa a
+ocorrência de 400 casos novos no período, número que não pode ser interpretado
+isoladamente como “baixo” sem comparação com outro período ou população.
+Além disso, a redução da prevalência não depende apenas da incidência, mas do
+balanço entre entradas e saídas de casos. No cenário apresentado, a diminuição do
+número total de pessoas com a doença é explicada pelo fato de que remissões,
+óbitos e migração superaram os novos casos.
+Incorreta - A redução da prevalência ocorreu porque os óbitos entre pessoas com a
+doença diminuíram o número de novos casos ao longo do ano. Esta alternativa está
+incorreta porque confunde prevalência com incidência. Os óbitos entre pessoas que
+já tinham a doença reduzem o número de casos existentes e, portanto, podem
+contribuir para a queda da prevalência, mas não reduzem diretamente o número de
+casos novos. A incidência refere-se ao surgimento de novos casos, enquanto os
+óbitos mencionados no enunciado ocorreram entre indivíduos já doentes.
+Incorreta - A queda da prevalência indica redução da duração média da doença,
+sem relação com as entradas e saídas de casos na população. Esta alternativa está
+incorreta porque a prevalência é resultado direto da dinâmica entre entrada e saída
+de casos na população. Ainda que a duração média da doença possa influenciar a
+prevalência em alguns contextos, o enunciado apresenta dados concretos de fluxo
+populacional — novos casos, remissões, óbitos e migração — que explicam de
+forma suficiente a redução observada. Portanto, não é correto afirmar que a queda
+ocorreu sem relação com essas entradas e saídas.
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre:
+Artmed, 2021. E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 10
+out. 2024.
+GORDIS, Leon. Epidemiologia. Rio de Janeiro: Thieme Brazil, 2017. E-book. ISBN
+9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788567661926/. Acesso em: 06
+jun. 2024.
+Feedback:
+-7ª QUESTÃO
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 11 de 19
+
+Enunciado:
+(AFYA PATO BRANCO) Um estudo descritivo analisou 240 internações por
+pneumonia em crianças (0–9 anos) em um município (2018–2023), com o objetivo
+de caracterizar o tempo de permanência hospitalar (dias). A tabela abaixo resume
+os dados encontrados pelos pesquisadores.
+Medida
+Estatística
+
+Val
+or
+
+Número de
+24
+internações
+0
+(n)
+Valor mínimo
+1
+(dias)
+1º quartil (Q1) 2
+Mediana
+4
+3º quartil (Q3) 7
+Valor máximo
+41
+(dias)
+Amplitude
+40
+total
+Média
+6,8
+Desvio-padrão
+7,9
+(DP)
+Com base na análise da estatística descritiva do estudo, é correto afirmar que
+
+Alternativas:
+(alternativa A)
+a proximidade entre a média e a mediana indica que a distribuição dos dados é
+simétrica, permitindo o uso equivalente de ambas as medidas.
+(alternativa B)
+a média é mais adequada para representar o tempo de internação típico neste
+caso, pois inclui as internações mais longas, considerando todos os valores da
+distribuição.
+(alternativa C) (CORRETA)
+a mediana é mais adequada para representar o tempo típico de internação neste
+caso, pois os dados sugerem assimetria e presença de valores extremos.
+(alternativa D)
+como o terceiro quartil (Q3) é igual a 7, conclui-se que a maioria das internações
+apresenta duração semelhante, indicando baixa variabilidade dos dados.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 12 de 19
+
+Resposta comentada:
+A mediana é mais adequada para representar o tempo típico de internação neste
+caso, pois os dados sugerem assimetria e presença de valores extremos.
+Essa é a alternativa correta porque os dados indicam uma distribuição assimétrica à
+direita, evidenciada pela média (6,8) superior à mediana (4) e pela grande
+amplitude (1 a 41 dias), o que sugere a presença de valores extremos. Nessas
+situações, a mediana é mais adequada para representar o valor típico, pois é menos
+influenciada por outliers e descreve melhor o comportamento central da
+distribuição.
+A média é mais adequada para representar o tempo de internação típico neste
+caso, pois inclui as internações mais longas, considerando todos os valores da
+distribuição.
+Essa alternativa está incorreta porque, embora a média utilize todos os valores, ela
+é sensível a valores extremos. A presença de internações muito longas (máximo de
+41 dias) eleva a média, tornando-a menos representativa do padrão típico. Em
+distribuições assimétricas, o uso isolado da média pode levar a interpretações
+distorcidas do tempo de internação mais frequente.
+Como o terceiro quartil (Q3) é igual a 7, conclui-se que a maioria das internações
+apresenta duração semelhante, indicando baixa variabilidade dos dados.
+Essa alternativa está incorreta porque o terceiro quartil indica que 75% das
+internações duraram até sete dias, mas não informa sobre a homogeneidade dos
+dados. A presença de ampla variação (mínimo de 1 e máximo de 41 dias) e o
+desvio-padrão elevado (7,9) indicam alta dispersão. Portanto, não é correto afirmar
+que a maioria das internações apresenta duração semelhante.
+A proximidade entre a média e a mediana indica que a distribuição dos dados é
+simétrica, permitindo o uso equivalente de ambas as medidas.
+Essa alternativa está incorreta porque não há proximidade entre média (6,8) e
+mediana (4). Essa diferença sugere assimetria na distribuição, provavelmente
+causada por valores elevados que aumentam a média. Em distribuições
+assimétricas, média e mediana não são equivalentes como medidas de tendência
+central, sendo a mediana a mais apropriada para representar o valor típico.
+Referências:
+DANCEY, Christine P.; REIDY, John G.; ROWE, Richard. Estatística sem matemática
+para as ciências da saúde. Porto Alegre: Penso, 2017. E-book. ISBN 9788584291007.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788584291007/recent. Acesso
+em: 10 out. 2024.
+MARTINS, A. D. Á. B. et al. Epidemiologia [S. l.]: Grupo A, 2018. E-book. ISBN
+9788595023154. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595023154/. Acesso em: 22
+nov. 2024.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(AFYA ITACOATIARA) A partir de dados extraídos do sistema de informações em
+saúde disponível no DATASUS, um município com 10.000 habitantes registrava, em
+1º de janeiro de 2025, 200 pessoas já diagnosticadas com diabetes mellitus. Ao
+longo do ano de 2025, 50 novos casos da doença foram diagnosticados nesse
+mesmo município.
+Considerando os dados acima, identifique a medida epidemiológica mais adequada
+para avaliar a ocorrência de novos casos em 2025, bem como seu valor correto.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 13 de 19
+
+Alternativas:
+(alternativa A)
+Incidência = 5,1%.
+(alternativa B)
+Prevalência = 2,0%.
+(alternativa C) (CORRETA)
+Incidência = 0,5%.
+(alternativa D)
+Prevalência = 2,5%.
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 14 de 19
+
+Resposta comentada:
+Resposta correta:
+Incidência = 0,5%.
+A questão solicita a medida adequada para avaliar novos casos ao longo de um
+período; portanto, a medida correta é incidência. Importante perceber que, como o
+interesse é apenas nos casos novos, é necessário desconsiderar os casos já
+existentes no início do período.
+Incidência = número de casos novos / população sob risco no início do período.
+População sob risco no início do período:
+10.000 habitantes − 200 casos já existentes = 9.800 pessoas sob risco
+Cálculo: 50 ÷ 9.800 = 0,0051 * 100 = 0,5%
+Respostas incorretas:
+Incidência = 5,1% (medida correta, apresentação incorreta).
+A medida de frequência está correta e o valor também poderia estar, desde que a
+incidência fosse apresentada a cada 1.000 habitantes (5 casos a cada mil
+habitantes). Como a apresentação usa porcentagem, o correto seria multiplicar o
+valor da divisão entre o número de casos novos e população em risco por 100 e não
+por mil.
+Prevalência = 2,0% (medida incorreta e cálculo incorreto).
+A medida de prevalência é adequada para medir o número total de casos de uma
+determinada população em um dado momento (incluindo casos novos e já
+existentes). Como neste caso pede-se o número de casos novos, esta não seria a
+medida de frequência adequada. Além disso, o cálculo estaria incorreto, ainda que o
+solicitado fosse a prevalência, pois desconsidera os casos novos (utilizando apenas
+os casos registrados em 1.º de janeiro de 2025).
+Prevalência = número de casos existentes / população sob risco no início do
+período.
+250 (200 existentes + 50 novos) / 10.000 = 0,025 * 100 = 2,5%
+Prevalência = 2,5% (medida incorreta e cálculo correto).
+Embora o valor calculado esteja correto para a medida de frequência apresentada
+na alternativa (prevalência), a medida de frequência solicitada no comando da
+questão era aquela baseada em casos novos (incidência).
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre:
+Artmed, 2021. E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 10
+out. 2024.
+GORDIS, Leon. Epidemiologia. Rio de Janeiro: Thieme Brazil, 2017. E-book. ISBN
+9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788567661926/. Acesso em: 10
+out. 2024. (Cap. 3).
+MARTINS, A. D. Á. B. et al. Epidemiologia [S. l.]: Grupo A, 2018. E-book. ISBN
+9788595023154. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595023154/. Acesso em: 22
+nov. 2024.
+Feedback:
+-9ª QUESTÃO
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 15 de 19
+
+Enunciado:
+(AFYA ITACOATIARA) Uma comunidade ribeirinha do interior do Amazonas, atendida
+por uma equipe da Estratégia Saúde da Família vinculada ao Sistema Único de
+Saúde (SUS), vivencia diferentes situações relacionadas à ocorrência de doenças ao
+longo do tempo. A equipe de saúde utiliza os conceitos epidemiológicos para
+compreender e explicar esses eventos à população.
+Com base no contexto acima, apresente exemplos claros e contextualizados,
+demonstrando compreensão dos conceitos epidemiológicos solicitados abaixo.
+a) Crie um cenário hipotético que exemplifique um surto OU uma epidemia nessa
+comunidade. Descreva como o evento começou, quantas pessoas foram afetadas e
+explique por que essa situação pode ser classificada como surto OU epidemia (até
+0,75 ponto).
+b) Crie um segundo cenário que exemplifique uma endemia OU uma pandemia. Da
+mesma forma que no item anterior, descreva detalhadamente como a doença
+ocorre na mesma comunidade, justificando por que ela pode ser classificada como
+endemia OU pandemia (até 0,75 ponto).
+Alternativas:
+--
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 16 de 19
+
+Resposta comentada:
+Crie um cenário hipotético que exemplifique um surto OU uma epidemia nessa
+comunidade. Descreva como o evento começou, quantas pessoas foram afetadas e
+explique por que essa situação pode ser classificada como surto ou epidemia (0,75
+ponto).
+Surto: Durante uma festa comunitária (delimitação geográfica e temporal restrita),
+vários moradores consumiram alimento preparado com água contaminada. Dois
+dias depois, 30 pessoas apresentaram diarreia e vômitos. Os casos ocorreram em
+curto período e estavam relacionados ao mesmo evento.
+Esta situação é um exemplo que caracteriza claramente um surto, pois houve
+aumento repentino de casos em um grupo específico, em local e período
+delimitados.
+Epidemia: Em determinado ano, o número de casos de dengue aumentou
+significativamente na comunidade, afetando mais de 200 moradores em poucos
+meses, valor muito superior ao observado em anos anteriores.
+Esta situação é um exemplo que caracteriza uma epidemia, pois houve aumento de
+casos acima do esperado para aquele local e época do ano em uma população e
+região específicas.
+Elementos esperados na resposta:
+Aumento de casos (acima do esperado para o período);
+Delimitação geográfica;
+Delimitação temporal.
+Justificativa conceitual correta:
+Crie um segundo cenário que exemplifique uma endemia OU uma pandemia. Da
+mesma forma que no item anterior, descreva detalhadamente como a doença
+ocorre na mesma comunidade, justificando por que ela pode ser classificada como
+endemia OU pandemia (0,75 ponto).
+Endemia: Na comunidade ribeirinha, a malária ocorre todos os anos, com registro
+constante de casos, especialmente em áreas próximas ao rio. O número de casos
+varia pouco ao longo do tempo.
+Este exemplo caracteriza uma endemia, pois a doença apresenta ocorrência
+contínua e esperada naquela região.
+Pandemia: Uma nova doença respiratória surgiu em outro país e se espalhou
+rapidamente para vários continentes, atingindo também essa comunidade e
+afetando pessoas em todo o mundo.
+Essa situação caracteriza uma pandemia, pois há disseminação global da doença.
+Elementos esperados na resposta:
+Ocorrência contínua (endemia) OU disseminação global (pandemia).
+Referência:
+GORDIS, Leon. Epidemiologia. Rio de Janeiro: Thieme Brazil, 2017. E-book. ISBN
+9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788567661926/. Acesso em: 06
+jun. 2024.
+Feedback:
+-10ª QUESTÃO
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 17 de 19
+
+Enunciado:
+(AFYA ITAJUBÁ) Um pesquisador deseja avaliar a prevalência de diabetes mellitus
+tipo 2 em uma capital brasileira. Como estratégia de seleção da amostra, dividiu a
+população em faixas etárias (18–39 anos, 40–59 anos e ≥60 anos) e, dentro de
+cada faixa, selecionou aleatoriamente um número proporcional de participantes
+para compor a amostra do estudo.
+Com base no contexto apresentado, faça o que se pede nos itens a seguir.
+A) Identifique o tipo de amostragem utilizado no estudo descrito (0,5 ponto).
+B) Descreva as características dessa técnica de amostragem e justifique seu uso no
+contexto apresentado (1,0 ponto).
+Alternativas:
+-Resposta comentada:
+Resposta Esperada
+A) O estudo utilizou amostragem probabilística estratificada, pois a população foi
+dividida em subgrupos homogêneos com base em faixas etárias, e a seleção dos
+participantes dentro de cada grupo ocorreu de forma aleatória.
+Critérios de correção — Alternativa A (0,5 ponto)
+(0,50 pontos) → Resposta correta: "Amostragem probabilística estratificada" ou
+"Amostragem estratificada proporcional" ou "Amostra estratificada".
+(0,25 pontos) → Resposta incompleta ou imprecisa, como apenas "Amostragem
+probabilística" sem especificar ser estratificada.
+(0,00 pontos) → Resposta incorreta (ex.: "Amostragem por conglomerados",
+"Amostragem intencional", "Amostragem aleatória simples").
+B) A amostragem probabilística estratificada é indicada quando existem subgrupos
+distintos na população, como diferentes faixas etárias, e o pesquisador deseja
+garantir representatividade proporcional. A seleção aleatória dentro de cada estrato
+reduz vieses e melhora a precisão das estimativas. No caso apresentado, a
+prevalência de diabetes varia significativamente com a idade, justificando a
+estratificação.
+Critérios de correção — Alternativa B (1,0 ponto)
+Descrição das características da amostragem estratificada proporcional (0,5 ponto)
+(0,5 ponto) → Explicação completa, incluindo obrigatoriamente:
+Formação de estratos homogêneos com base em característica relevante (faixa
+etária).
+Seleção aleatória dentro de cada estrato.
+Proporcionalidade da amostra em relação ao tamanho de cada estrato na
+população.
+Reconhecimento de que se trata de amostragem probabilística.
+(0,25 ponto) → Explicação parcial, mencionando:
+A divisão em estratos, mas sem detalhar a aleatoriedade; ou
+A aleatoriedade, mas sem mencionar a proporcionalidade; ou
+A proporcionalidade, mas sem explicitar que há seleção aleatória.
+(0,00 ponto) → Explicação incorreta ou descrição de outra técnica (ex.:
+conglomerados, conveniência, amostragem simples).
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 18 de 19
+
+Justificativa do uso no contexto da pesquisa sobre diabetes mellitus tipo 2 (0,5
+ponto)
+(0,5 ponto) → Justificativa correta e bem fundamentada, incluindo:
+Reconhecimento de que a prevalência de diabetes varia conforme faixa etária.
+Argumentação de que a estratificação melhora representatividade e precisão das
+estimativas.
+(0,25 ponto) → Justificativa genérica, mencionando apenas “maior
+representatividade” ou “melhor organização”, sem relacionar claramente com a
+variação etária da doença.
+(0,00 ponto) → Justificativa ausente, incoerente ou aplicável a outro tipo de
+amostragem.
+Referências:
+AKANIME, Carlos T.; YAMAMOTO, Roberto K. Estudo Dirigido de Estatística
+Descritiva. São Paulo: Editora Érica, 2013. p. 7-13. E-book. ISBN 9788536517780.
+Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788536517780/recent. Acesso
+em: 19 fev. 2026.
+FRANCO, Laércio J.; PASSOS, Afonso Dinis C. Fundamentos de epidemiologia. 3. ed.
+Santana de Parnaíba [SP]: Manole, 2022. E-book. ISBN 9786555767711. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786555767711/. Acesso
+em: 19 fev. 2026.
+SAMPIERI, R. H.; COLLADO, C. F.; LUCIO, M. D. P. B. Metodologia de Pesquisa. 5. ed.
+Porto Alegre: Penso, 2013. P. 200-201. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788565848367/recent. Acesso
+em: 19 fev. 2026.
+Feedback:
+--
+
+000191.89001a.11a5b2.eb300f.49a256.3da27c.870b54.99197
+
+Página 19 de 19
+
+

@@ -1,0 +1,851 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Sistemas Orgânicos Integrados IV
+Professor (es):
+Período: 202402
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_4 PERIODO_23 SETEMBRO_2024.2_PROVA_SOI
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 13527 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+www.acervo.top/soi-iv ou acervotop.com/soi-iv
+
+(UNIGRANRIO CAXIAS) Um paciente de 45 anos chega ao consultório com queixas de fadiga,
+dor abdominal e icterícia. Exames laboratoriais revelam elevação das transaminases hepáticas.
+O paciente relata que não foi vacinado contra hepatite B e não tem histórico de uso de drogas
+injetáveis. A equipe médica, portanto, suspeita de contaminação por hepatites virais.
+Com base nesses dados, analise as afirmativas a seguir e marque a opção que representa
+informações corretas de testes laboratoriais para realizar o diagnóstico do agente viral causador
+da hepatite.
+I. Para avaliar infecção por Hepatite A, realiza-se a dosagem sorológica de IgM.
+II. Para avaliar infecção por Hepatite B, a dosagem de Anticorpos Anti-HBsAg é primordial para
+identificar a fase aguda da infecção.
+III. Para avaliar infecção por Hepatite B, a dosagem de Antígenos HBs é necessária para
+confirmar a infecção, seja na fase aguda ou crônica.
+IV. Para avaliar infecção por Hepatite C, a dosagem de anticorpos IgG é suficiente para confirmar
+a infecção crônica.
+Estão corretas somente as afirmativas
+Alternativas:
+(alternativa A)
+II e III.
+(alternativa B)
+I e IV.
+(alternativa C) (CORRETA)
+I e III.
+(alternativa D)
+II e IV.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 1 de 22
+
+Resposta comentada:
+I. Esta afirmação está correta. A presença de anticorpos IgM contra o vírus da Hepatite A (HAV)
+no soro indica uma infecção recente ou aguda. Os anticorpos IgM são os primeiros a serem
+produzidos pelo sistema imunológico em resposta a uma infecção.
+II. Esta afirmação está incorreta. Os anticorpos Anti-HBsAg (anticorpos contra o antígeno de
+superfície do vírus da Hepatite B) são geralmente indicativos de imunidade, seja por vacinação ou
+recuperação de uma infecção passada. Para identificar a fase aguda da infecção, a dosagem de
+IgM anti-HBc (anticorpos contra o antígeno core do HBV) seria mais apropriada.
+III. Esta afirmação está correta. A presença do antígeno de superfície do vírus da Hepatite B
+(HBsAg) no sangue indica uma infecção ativa, seja ela aguda ou crônica. A persistência do
+HBsAg por mais de seis meses sugere uma infecção crônica.
+IV. Esta afirmação está incorreta. A presença de anticorpos IgG contra o vírus da Hepatite C
+(HCV) indica exposição ao vírus, mas não distingue entre infecção aguda, crônica ou resolvida.
+Para confirmar uma infecção crônica, é necessário realizar testes adicionais, como a detecção do
+RNA do HCV por PCR.
+Referências:
+MORAES, Sandra do L.; FERREIRA, Antonio W. Diagnóstico Laboratorial das Principais Doenças
+Infecciosas e Autoimunes, 3ª edição. Grupo GEN, 2013. E-book. ISBN 978-85-277-2308-4.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2308-4/. Acesso em:
+17 jun. 2024.
+MADIGAN, Michael T.; MARTINKO, John M.; BENDER, Kelly S.; e outros. Microbiologia de
+Brock . Grupo A, 2016. E-book. ISBN 9788582712986. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788582712986/. Acesso em: 17 jun. 2024.
+IEDEL, Stefan; MORSE, Stephen A.; MIETZNER, Timothy A.; e outros. Microbiologia Médica de
+Jawetz, Melnick & Adelberg Grupo A, 2022. E-book. ISBN 9786558040170. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040170/. Acesso em: 17 jun. 2024.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+( ITPAC PORTO NACIONAL) Um paciente do sexo masculino, 35 anos, residente em uma área
+com saneamento básico inadequado, apresentou sintomas de diarreia, dor abdominal, e náusea
+persistentes por várias semanas. Após a realização de exames laboratoriais, foi identificado o
+cisto de Giardia intestinalis em suas fezes.
+Considerando o ciclo biológico e o tratamento dessa protozoose, bem como as informações
+sobre a patogenia envolvida, assinale a alternativa correta.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 2 de 22
+
+Alternativas:
+(alternativa A) (CORRETA)
+A infecção por Giardia intestinalis ocorre pela ingestão de cistos presentes em água ou alimentos
+contaminados. No intestino delgado, os cistos liberam trofozoítos que se multiplicam e aderem à
+mucosa, interferindo na absorção de nutrientes e na motilidade intestinal. O tratamento de primeira
+linha inclui metronidazol ou tinidazol.
+(alternativa B)
+Giardia intestinalis é um protozoário que se multiplica no intestino grosso através da formação de
+cistos que são liberados pelas fezes, contaminando o ambiente. O ciclo biológico da giárdia
+envolve um vetor específico, e o tratamento recomendado é a administração de ivermectina.
+(alternativa C)
+A Giardia intestinalis se caracteriza por um ciclo biológico indireto, que envolve hospedeiros
+intermediários, onde o trofozoíto se reproduz no intestino grosso, provocando uma intensa
+inflamação local. O tratamento eficaz envolve a administração de metronidazol.
+(alternativa D)
+A Giardia intestinalis possui um ciclo biológico direto, onde a infecção ocorre pela ingestão de
+cistos que, ao atingirem o intestino delgado, transformam-se em trofozoítos que aderem à
+mucosa intestinal, causando danos às células epiteliais e resultando em uma absorção intestinal
+deficiente. O tratamento de escolha é o albendazol.
+
+Resposta comentada:
+Alternativa correta.
+Descreve com precisão o ciclo biológico de Giardia intestinalis, a forma de infecção, a localização
+no intestino delgado, os efeitos sobre a absorção de nutrientes e a motilidade intestinal, e o
+tratamento recomendado com metronidazol ou tinidazol.
+Alternativas incorretas.
+O ciclo biológico de Giardia intestinalis é direto, sem necessidade de hospedeiro intermediário, e o
+trofozoíto se multiplica no intestino delgado, não no intestino grosso. Embora o metronidazol seja
+o tratamento correto, os erros quanto ao ciclo biológico tornam a alternativa incorreta.
+A Giardia intestinalis se multiplica no intestino delgado, não no intestino grosso, e o ciclo biológico
+não envolve um vetor específico. Além disso, o tratamento com ivermectina é inadequado para
+giardíase, que é tratada com metronidazol ou tinidazol.
+A Giardia intestinalis possui um ciclo biológico direto, e a infecção ocorre pela ingestão de cistos,
+que se transformam em trofozoítos no intestino delgado. No entanto, o tratamento de escolha
+indicado no livro é o metronidazol, e não o albendazol, que é utilizado mais frequentemente para
+helmintos. O erro no tratamento torna a alternativa incorreta.
+Referência:
+ENGROFF, Paula; MÜLLER, Guilherme C.; MANSOUR, Eva; et al. Parasitologia Clínica. Porto
+Alegre: Grupo A, 2021. E-book. ISBN 9786556901572. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786556901572/. Acesso em: 10 set. 2024.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 3 de 22
+
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(UNITPAC) Carla, 46 anos, obesa, possui diabetes e hipertensão com diagnostico há 5 anos,
+comparece no pronto atendimento queixando-se de episódios de dor tipo cólica de forte
+intensidade em hipocôndrio direito que irradia para região interescapular de início há 3 dias após
+alimentação copiosa, evoluindo há um dia com febre persistente, vômitos, inapetência e dor
+abdominal difusa. Ao exame, o médico plantonista observou que a paciente apresentava-se
+ictérica +/4+; febril, abdome doloroso a palpação superficial e profunda em hipocôndrio direito, e
+levantou a hipótese de colelitíase com possíveis complicações.
+Avalie as alternativas e assinale a correta sobre o método diagnóstico para o caso.
+Alternativas:
+(alternativa A)
+A realização da radiografia simples de abdome agudo dispensa a necessidade de realização de
+exame físico.
+(alternativa B)
+A radiografia simples de abdome agudo é desnecessária para paciente pois o exame inicial seria
+tomografia computadorizada de abdome.
+(alternativa C) (CORRETA)
+A ultrassonografia da vesícula biliar é confiável desde que sejam utilizados critérios rígidos, como
+“sombreado” acústico de opacidades que estão dentro do lúmen vesicular e que mudam com a
+posição do paciente.
+(alternativa D)
+A radiografia simples do abdome não pode detectar cálculos biliares, pois os mesmos são
+compostos por colesterol e não contém quantidades de cálcio suficientes para se tornarem
+radiopacos.
+
+Resposta comentada:
+A ultrassonografia da vesícula biliar é muito confiável para detectar colelitíase. Cálculos de
+apenas 1,5 mm de diâmetro podem ser identificados de forma confiável, desde que sejam
+utilizados critérios rígidos (p. ex., “sombreado” acústico de opacidades que estão dentro do lúmen
+vesicular e que se modificam com a posição do paciente [pela gravidade]). A radiografia simples
+do abdome pode detectar cálculos biliares contendo quantidades de cálcio suficientes para se
+tornarem radiopacos (10 a 15% dos cálculos de colesterol e cerca de 50% dos cálculos
+pigmentares). Também pode ser usada para fazer o diagnóstico de colecistite enfisematosa,
+vesícula em porcelana, bile calcificada e íleo biliar. A rotina radiológica não dispensa a realização
+do exame físico.
+Referência:
+Jameson, J., L. et al. Medicina interna de Harrison - 2 volumes. Disponível em: Minha Biblioteca,
+(20th edição). Grupo A, 2019.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 4 de 22
+
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+( UNIFIPMOC) Uma paciente de 40 anos, obesa, com ingestão excessiva de carne vermelha,
+sedentária, com histórico familiar de câncer colorretal, apresenta-se ao ambulatório com queixas
+de dor abdominal persistente, perda de peso não intencional e alteração dos hábitos intestinais,
+incluindo episódios recentes de diarreia e constipação alternadas. Durante o exame físico, notouse a presença de uma massa abdominal palpável. A paciente também relata fadiga constante e
+presença de sangue nas fezes. A colonoscopia, realizada anos atrás, apresentou múltiplos
+pólipos adenomatosos no cólon, associados a uma síndrome hereditária rara, caracterizada por
+mutações no gene APC e classificada como fator de risco para o desenvolvimento de câncer
+colorretal. A colonoscopia atual apresentou a presença de neoplasia maligna, confirmando o
+diagnóstico de câncer de cólon.
+Com base na descrição do caso, a síndrome apresentada pela paciente que possivelmente está
+associada ao diagnóstico é a:
+Alternativas:
+(alternativa A)
+de Lynch.
+(alternativa B)
+de Peutz-Jeghers.
+(alternativa C) (CORRETA)
+de Polipose Adenomatosa Familiar (PAF).
+(alternativa D)
+do intestino irritável (SII).
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 5 de 22
+
+Resposta comentada:
+Polipose Adenomatosa Familiar (PAF)
+Esta alternativa está corretamente associada ao caso descrito. Entre as poliposes intestinais, a
+Polipose Adenomatosa Familiar (PAF) é uma doença bem caracterizada e representa importante
+predisposição hereditária ao câncer, em especial o câncer colorretal. A polipose adenomatosa
+familiar é um distúrbio autossômico dominante raro associado a uma mutação no braço longo do
+cromossomo 5. Os pacientes com essa doença desenvolvem vários pólipos adenomatosos no
+intestino grosso em uma idade precoce, conforme descrito no caso. O carcinoma do cólon é
+inevitável, geralmente em torno da quarta década de vida, a menos que seja realizada colectomia
+total.
+Síndrome de Lynch
+Na síndrome de Lynch a lesão precursora geralmente é um único adenoma de colo,
+diferentemente da presença de múltiplos adenomas como descrito neste caso. Além disso, a
+síndrome de Lynch é uma caracterizada por mutações nos genes MLH1, MSH2, MSH6 ou PMS2
+e não no gene APC.
+Síndrome de Peutz-Jeghers
+A síndrome de Peutz-Jeghers é uma doença autossômica dominante com múltiplos pólipos
+hamartomatosos no estômago, intestino delgado e colo, juntamente com lesões epidérmicas
+pigmentadas distintivas. As lesões cutâneas são máculas melanóticas da pele e mucosas,
+especialmente da região perioral, lábios e gengivas, mãos e pés, quadro não compatível com o
+caso descrito.
+Síndrome do Intestino Irritável
+A síndrome do intestino irritável é um distúrbio do trato digestivo que provoca dor abdominal e
+constipação intestinal ou diarreia recorrentes. A SII é um distúrbio dos movimentos intestinais, da
+sensibilidade dos nervos intestinais ou do modo pelo qual o cérebro controla algumas dessas
+funções. Porém, embora o funcionamento normal esteja afetado, não existem anomalias
+estruturais que podem ser descobertas através de um endoscópio, exames de imagem ou
+biópsias como citado no caso descrito.
+Referências:
+Rubenstein JH, Enns R, Heidelbaugh J, et al: American Gastroenterological Association Institute
+Guideline on the Diagnosis and Management of Lynch Syndrome. Gastroenterology 149(3):777782, 2015. doi: 10.1053/j.gastro.2015.07.036
+DANI, Renato; PASSOS, Maria do Carmo F. Gastroenterologia Essencial, 4ª edição. Grupo GEN,
+2011.
+Feedback:
+-5ª QUESTÃO
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 6 de 22
+
+Enunciado:
+(FMIT) Homem, 57 anos, dá entrada no pronto-socorro com quadro de hematêmese em grande
+quantidade de início. Apresenta-se sonolento, hipocorado, ictérico ++/++++, com ginecomastia,
+eritema palmar e com aumento do volume abdominal. PA: 120/70 mmHg, FC: 100bpm. Sem
+déficit neurológico focal. Histórico de 25 anos de etilismo (1 garrafa de pinga/dia).
+Considerando o quadro acima, analise as assertivas e a relação entre elas.
+I - Clinicamente, o diagnóstico se refere a um caso de cirrose hepática, com insuficiência hepática
+e hipertensão portal (HP), de provável etiologia alcoólica. A fisiopatologia da hematêmese se
+relaciona com a hipertensão portal.
+Porque
+II - As circulações colaterais portossistêmicas formam-se em razão do desvio do sangue portal,
+cuja chegada ao sistema cava é bloqueada pela obstrução, o que resulta em varizes do esôfago,
+cujo sangramento é uma manifestação clássica de HP. Hematêmese é a consequência mais
+importante e pode levar a choque hipovolêmico.
+
+Assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A asserção I é verdadeira e a II é falsa.
+(alternativa B)
+As asserções I e II são falsas.
+(alternativa C) (CORRETA)
+As asserções I e II são verdadeiras, e a II é justificativa da I.
+(alternativa D)
+As asserções I e II são verdadeiras, mas a II não é justificativa da I.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 7 de 22
+
+Resposta comentada:
+Cirroses são doenças caracterizadas por subversão difusa da arquitetura hepática normal por
+nódulos de hepatócitos em regeneração circundados por tecido conjuntivo. Estudos diversos
+permitem identificar de forma cada vez mais precisa inúmeras causas de cirroses, com destaque
+para alcoolismo e hepatites virais e autoimune, além de transtornos metabólicos, vasculares e
+biliares. O critério de classificação de cirroses mais adequado é o etiológico, definido por
+marcadores clínicos, bioquímicos, virológicos e imunológicos.
+Lesões hepáticas em cirroses são importantes e resultam em profundas modificações no
+funcionamento do órgão e na sua circulação, que levam a duas repercussões principais:
+insuficiência hepática e hipertensão portal.
+Insuficiência hepática crônica, a mais frequente, tem como exemplo mais notório justamente as
+várias formas de cirrose. Muitos são os sinais e sintomas de insuficiência hepática, descritos a
+seguir. Icterícia é praticamente constante nos pacientes cirróticos e deve-se a transtornos nas
+várias etapas do metabolismo da bilirrubina e nas vias de excreção da bile; em geral, predomina
+aumento de bilirrubina conjugada. A incapacidade dos hepatócitos de sintetizar proteínas em
+quantidades necessárias à homeostase leva a hipoalbuminemia e deficiência de fatores da
+coagulação, com suas consequências diretas: edema e hemorragias. Por causa da redução na
+metabolização de estrógenos, surge hiperestrogenismo, responsável por eritema palmar, aranhas
+vasculares e, em homens, ginecomastia, perda de libido e hipotrofia testicular. Síndrome
+hepatorrenal consiste em falência renal sem lesões aparentes nos rins em indivíduos com
+hepatopatia crônica grave.
+Hipertensão portal (HP) consiste no aumento da pressão hidrostática no interior do sistema portal,
+que se origina nos capilares dos intestinos e nos sinusoides da polpa esplênica, sendo a veia
+porta formada pela confluência da veia esplênica com as veias mesentéricas superior e inferior.
+Qualquer aumento na resistência ao fluxo sanguíneo em qualquer ponto do sistema portal leva a
+HP. As manifestações clínicas da HP resultam de alterações hemodinâmica.
+A circulação colateral portossistêmica forma-se em razão do desvio do sangue portal, cuja
+chegada ao sistema cava é bloqueada pela obstrução. Com isso, formam-se colaterais através
+das veias esofagocardiotuberositárias, o que resulta em varizes do esôfago, cujo sangramento é
+manifestação clássica de HP. Hematêmese é a consequência mais importante e pode levar a
+choque hipovolêmico, podendo o sangramento manifestar-se também por melena ou anemia
+progressiva. O shunt portossistêmico pode se fazer também através dos plexos hemorroidários,
+sendo a HP causa pouco comum de hemorroidas. Outra manifestação é a cabeça de medusa, na
+região umbilical. Consequência importante de shunt portossistêmico é a encefalopatia
+portossistêmica e se expressa por esplenomegalia, formação de colaterais portossistêmicas e
+ascite.
+Referência:
+Filho GB. Bogliolo - Patologia. 10th edição. Porto Alegre. Grupo GEN; 2021.
+Feedback:
+-6ª QUESTÃO
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 8 de 22
+
+Enunciado:
+(FMIT) Um homem, de 25 anos, vai ao consultório médico devido a episódios recorrentes de
+urticária e inchaço facial após consumir certos alimentos. Ele relata que, nas últimas semanas
+teve erupções cutâneas intensas, especialmente ao redor da boca e no corpo, logo após comer
+certos alimentos. Além disso, ele parece ter dificuldade para respirar após a ingestão desses
+alimentos e frequentemente se queixa de dor abdominal e náusea. Como o paciente não sabe
+identificar os alimentos que podem ser responsáveis por tais reações o médico decide solicitar
+alguns exames.
+Marque a alternativa correta sobre a propedêutica relacionada à situação do paciente deste caso.
+Alternativas:
+(alternativa A) (CORRETA)
+Embora qualquer alimento seja capaz de induzir reação de hipersensibilidade em pessoas
+suscetíveis, os alimentos mais comumente envolvidos incluem nozes e frutos do mar. O leite é
+frequentemente implicado em casos de alergia alimentar especialmente em crianças.
+(alternativa B)
+É comum a manifestação de sensibilidade cruzada aos alergênios entre alimentos de grupos
+alimentares estreitamente relacionados como alergia à lactose do leite de vaca e também à
+lactose presente no leite de cabra.
+(alternativa C)
+A resposta alérgica é ativada quando um alergênio alimentar específico entra em contato com o
+anticorpo IgE encontrado na mucosa intestinal e, posteriormente, estimula a liberação local e
+sistêmica de heparina e serotonina necessárias à resposta alérgica.
+(alternativa D)
+O diagnóstico das alergias alimentares depende da elaboração de um histórico alimentar e de
+testes de provocação oral. Se o risco de teste de provocação oral for muito grande, também
+podem ser testados os níveis séricos de IgA específica para aquele alergênio.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 9 de 22
+
+Resposta comentada:
+O diagnóstico das alergias alimentares é multifacetado e depende da elaboração cuidadosa de um
+histórico alimentar e de testes de provocação oral. Os testes de provocação envolvem a
+eliminação sistemática de alergênios suspeitos na dieta por um período de tempo para que possa
+ser observado se os sintomas desaparecem, e sua posterior reintrodução à dieta para determinar
+se os sintomas reaparecerão. Apenas um alimento deve ser testado de cada vez na procura por
+um diagnóstico definitivo. Se o risco de teste de provocação oral for muito grande, também podem
+ser testados os níveis séricos de IgE específica para aquele alergênio.
+É comum a manifestação de sensibilidade cruzada aos alergênios entre alimentos de grupos
+alimentares estreitamente relacionados. Portanto, uma pessoa pode conter alergênios que
+apresentam reações cruzadas. Por exemplo, alguns indivíduos são alérgicos a todas as
+leguminosas (ou seja, feijão, ervilhas e amendoim). A alternativa "É comum a manifestação de
+sensibilidade cruzada aos alergênios entre alimentos de grupos alimentares estreitamente
+relacionados como alergia à lactose do leite de vaca e também à lactose presente no leite de
+cabra." está errada, porque a alergia não é ao carboidrato lactose e sim à proteínas do leite de
+vaca e de cabra.
+A resposta alérgica é ativada quando um alergênio alimentar específico entra em contato com o
+anticorpo IgE encontrado na mucosa intestinal e, posteriormente, estimula a liberação local e
+sistêmica de histamina e outras citocinas necessárias à resposta alérgica.
+Referência:
+NORRIS, Tommie L. Porth - Fisiopatologia. Rio de Janeiro: Grupo GEN, 2021. E-book. ISBN
+9788527737876. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527737876/.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+( UNIREDENTOR) Um paciente cirrótico de 50 anos, etilista crônico, apresenta ascite volumosa,
+edema em membros inferiores e circulação colateral abdominal. Ao exame físico, foi constatado
+esplenomegalia e presença de circulação colateral em padrão de "cabeça de medusa".
+Qual é o diagnóstico mais provável para o quadro clínico apresentado?
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 10 de 22
+
+Alternativas:
+(alternativa A)
+Insuficiência cardíaca congestiva.
+(alternativa B) (CORRETA)
+Hipertensão portal.
+(alternativa C)
+Trombose da veia porta.
+(alternativa D)
+Síndrome hepatorrenal.
+
+Resposta comentada:
+O sinal clínico "cabeça de medusa" é um clássico sinal propedêutico de hipertensão portal.
+Corresponde à turgência dos vasos naquela região. Esse sinal é reforçado pelo histórico e outras
+manifestações clínicas relatadas no caso para se chegar ao diagnóstico mais provável.
+A insuficiência cardíaca congestiva, por si só, não se caracteriza por esse sinal semiológico.
+A trombose da veia porta e a síndrome hepatorrenal não causam esse tipo de sinal semiológico.
+Referência:
+KUMAR, Vinay; ABBAS, Abul K. ; ASTER, Jon C. Robbins e Cotran: Patologia - bases
+patológicas das doenças. 10ª ed. Rio de Janeiro: Elsevier, 2018.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+( UNIDEP) A estrongiloidíase é uma parasitose causada pelo helminto Strongyloides stercoralis e
+infecta mais de 370 milhões de pessoas no mundo. No Brasil, a doença é endêmica, com cerca
+de 20% de prevalência e é transmitida pelo solo contaminado por fezes humanas. O
+Strongyloides stercoralis tem a capacidade única de se desenvolver até a idade adulta no solo e
+também no intestino humano e também, ao contrário de outros parasitas, pode causar infecção
+crônica com duração de décadas.
+Com relação ao ciclo biológico e tratamento estrongiloidíase é correto afirmar que:
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 11 de 22
+
+Alternativas:
+(alternativa A)
+o anti-helmíntico albendazol em doses altas é a primeira opção terapêutica recomendada para o
+tratamento da estrongiloidíase.
+(alternativa B)
+no ciclo de vida do parasita, as larvas filarióides ingeridas são transportadas diretamente ao
+intestino delgado, onde se tornam vermes adultos, os quais são eliminados nas fezes.
+(alternativa C) (CORRETA)
+as larvas rabditoides eclodem dos ovos no intestino humano e podem sofrer muda para larvas
+rabditoides causando autoinfecção, processo acelerado por imunossupressão.
+(alternativa D)
+os ovos eliminados pela fêmea, após ser fecundada pelo macho, contaminam água ou alimentos,
+os quais podem ser posteriormente ingeridos.
+
+Resposta comentada:
+Alternativa correta: as larvas rabditoides eclodem dos ovos no intestino humano e podem sofrer
+muda para larvas rabditoides causando autoinfecção, processo acelerado por imunossupressão.
+A autoinfecção explica a existência da infecção em pessoas que não estiveram em áreas
+endêmicas há muitos anos. A muda das larvas rabditoides em filarioides é acelerada sob
+imunossupressão, permitindo que um número massivo de larvas autoinfecte o hospedeiro e se
+disseminem pelo organismo. Esse processo é chamado de hiperinfecção disseminada, com
+taxas de mortalidade de até 70%. O principal gatilho desse processo é a corticoterapia.
+Alternativas incorretas
+As fêmeas parasitas são partenogenéticas e se reproduzem colocando ovos, dos quais eclodem
+as larvas rabditoides, que são eliminadas nas fezes, e a transmissão se dá por exposição da pele
+a larvas infecciosas no solo contaminado por fezes humanas.
+As larvas filarioides, em solo contaminado, penetram na pele humana e caem na corrente
+sanguínea, sendo levadas até os pulmões, onde penetram nos espaços alveolares. São então
+transportadas pela arvores brônquica até a faringe, deglutidas e atingem o intestino delgado, onde
+se tornam vermes adultos. As fêmeas parasitas são partenogenéticas e se reproduzem
+colocando ovos, dos quais eclodem as larvas rabditoides, eliminadas nas fezes, ou sofrem muda
+a larvas filarioides que podem penetrar na mucosa intestinal e perpetuar a infecção.
+A ivermectina (200 µg/Kg/dia) por via oral vem sendo recomendado como tratamento padrão,
+reservando-se o albendazol e tiabendazol como terapia de segunda linha.
+Referências:
+LOSCALZO, José; FAUCI, Anthony S.; KASPER, Dennis L.; e outros. Medicina Interna de
+Harrison. Grupo A, 2024. E-book. ISBN 9786558040231. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231/ .
+FEREIRA, Marcelo U. Parasitologia Contemporânea. Rio de Janeiro: Grupo GEN, 2020. E-book.
+ISBN 9788527737166. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527737166/.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 12 de 22
+
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+( FASA VIC) Clara, 28 anos, foi atendida em ambulatório com queixas de dor abdominal, diarreia
+frequente não sanguinolenta, perda ponderal significativa e mal-estar há cerca de 2 anos. A
+história clínica mostrou que ela começou a apresentar sintomas gastrointestinais aos 22 anos e
+que sua mãe havia morrido aos 57 anos por complicações dessa mesma sintomatologia. A
+paciente havia realizado alguns exames, os quais revelaram deficiências nutricionais importantes,
+obstrução intestinal e ulceração da pele perianal. Ademais, percorreu diversas opções de
+terapêutica médica, tendo finalmente alcançado, com metotrexato, a remissão clínica.
+Com base no quadro clínico apresentado, trata-se de:
+Alternativas:
+(alternativa A) (CORRETA)
+doença de Crohn, que é uma reação inflamatória granulomatosa recidivante.
+(alternativa B)
+enterocolite infecciosa, que causa inflamação local no intestino delgado.
+(alternativa C)
+colite ulcerativa, que é uma inflamação específica limitada ao reto.
+(alternativa D)
+diverticulose, que se caracteriza por divertículos colônicos inflamados.
+
+Resposta comentada:
+A alternativa indicada como correta é compatível com a situação clínica descrita no enunciado. O
+quadro clínico apresentado remete às características da Doença de Crohn, que de fato é uma
+doença inflamatória intestinal, cujos aspectos característicos são as lesões granulomatosas bem
+demarcadas e circundadas por mucosa aparentemente normal. A doença de Crohn comumente
+acomete os pacientes entre a segunda e a terceira décadas de vida, afetando as mulheres com
+uma frequência algo maior que os homens. Os sinais e sintomas principais, que dependem do
+segmento intestinal afetado, incluem diarreia, dor abdominal, emagrecimento, distúrbios
+hidreletrolíticos, mal-estar e febre baixa. Como a doença de Crohn afeta mais gravemente a
+camada submucosa que a mucosa, os pacientes têm menos diarreia sanguinolenta que os
+portadores de colite ulcerativa. A ulceração da pele perianal é comum, em grande parte devido à
+gravidade da diarreia. A superfície absortiva do intestino pode ser destruída e os pacientes têm
+deficiências nutricionais relacionadas com o segmento intestinal especificamente afetado.
+Referência:
+NORRIS, T. L. Porth - Fisiopatologia. Grupo GEN. 10ª ed. Rio de Janeiro: Guanabara Koogan,
+2021. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788527737876/.
+Feedback:
+-10ª QUESTÃO
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 13 de 22
+
+Enunciado:
+( FASA VIC) Luiza, 38 anos, buscou atendimento em uma unidade básica de saúde (UBS) do seu
+bairro devido a uma queimação no peito insistente há cerca de três meses. Na consulta com o
+médico de família e comunidade, relatou que às vezes essa pirose retroesternal é acompanhada
+de regurgitação e náuseas, com maior frequência à noite, piorando ao se deitar e logo após
+consumir alimentos gordurosos, mas que apresenta melhora momentânea quando faz o uso de
+algum antiácido. Nas últimas semanas, devido ao aumento de crises de ansiedade associadas à
+sobrecarga de trabalho, houve piora do quadro clínico. A paciente se encontra com obesidade,
+não realiza exercícios físicos e sua alimentação não é nada saudável. O médico, então,
+identificou que ela apresenta refluxo gastroesofágico e solicitou alguns exames complementares.
+Com base no quadro clínico apresentado e nos conhecimentos sobre fisiopatologia do refluxo
+gastroesofágico, está correto o que se afirma em:
+Alternativas:
+(alternativa A)
+a lesão da mucosa esofágica causada pelo refluxo está relacionada com a composição destrutiva
+do material refluído, independentemente do tempo que ele permanece em contato com essa
+mucosa, do tipo de alimentação e da saúde do indivíduo.
+(alternativa B)
+a doença do refluxo gastresofágico (DRGE) é uma forma mais grave e aguda do refluxo
+gastresofágico, se limitando a defeitos nos relaxamentos transitórios do esfíncter esofágico
+inferior (EEI) fraco ou incompetente e à lesão da mucosa.
+(alternativa C)
+é provável que o refluxo gastresofágico seja o distúrbio menos comum do sistema digestório, em
+que ocorre o movimento retrógrado do conteúdo gástrico para dentro do esôfago de forma
+constante, sem prejuízos importantes à mucosa, mesmo na obesidade.
+(alternativa D) (CORRETA)
+tanto os sintomas quanto as lesões teciduais relacionados ao refluxo gastroesofágico decorrem
+de falha em uma ou mais das seguintes defesas do esôfago: barreira antirrefluxo, mecanismos de
+depuração intraluminal e resistência intrínseca do epitélio.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 14 de 22
+
+Resposta comentada:
+Alternativa correta:
+A etiologia da doença do refluxo gastroesofágico (DRGE) é multifatorial, sendo que tanto os
+sintomas quanto as lesões teciduais resultam do contato da mucosa com o conteúdo gás trico
+refluxado, decorrentes de falha em uma ou mais das seguintes defesas do esôfago: barreira
+antirrefluxo, mecanismos de depuração intraluminal e resistência intrínseca do epitélio.
+Alternativas incorretas:
+É provável que o refluxo gastresofágico, caracterizado pelo movimento retrógrado do conteúdo
+gástrico para dentro do esôfago, causando pirose ou azia, seja o distúrbio mais comum do
+sistema digestório. Em geral, os sintomas associados ocorrem pouco depois da ingestão de
+alimentos, têm curta duração e raramente causam problemas mais graves.
+Embora a DRGE seja, de fato, uma forma mais grave do refluxo gastresofágico relacionado com
+relaxamentos transitórios do EEI fraco ou incompetente, ela acontece de forma duradoura e não
+apenas aguda. Ademais, a DRGE é classificada em dois grupos com base em achados
+endoscópicos: um grupo com lesão da mucosa esofágica (esofagite erosiva e esôfago de Barrett)
+e um grupo sem lesão da mucosa esofágica (doença do refluxo endoscopia-negativa ou doença
+do refluxo não erosiva [DRNE]).
+A lesão da mucosa esofágica está relacionada tanto com a composição destrutiva do material
+refluído quanto com o tempo que ele permanece em contato com a mucosa. Os líquidos ácidos
+do estômago (pH < 4,0) são particularmente deletérios. O EEI regula o trânsito dos alimentos
+entre o esôfago e o estômago. Mecanismos intrínsecos e extrínsecos funcionam no sentido de
+manter a função antirrefluxo do EEI. Relaxamento transitório com refluxo é comum depois das
+refeições. Distensão gástrica e refeições ricas em gordura aumentam a frequência desse
+relaxamento. Contudo, em condições normais, o material refluído é devolvido ao estômago pelas
+ondas peristálticas secundárias do esôfago e a saliva deglutida neutraliza e leva embora o ácido
+refluído.
+Referências:
+DANI, R.; PASSOS, M. C. F. Gastroenterologia Essencial, 4ª ed. Grupo GEN, Guanabara
+Koogan, 2011. 978-85-277-1970-4. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/978-85-277-1970-4/pageid/134.
+NORRIS, T. L. Porth - Fisiopatologia. Grupo GEN. 10ª ed. Rio de Janeiro: Guanabara Koogan,
+2021. 9788527737876. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737876/epubcfi/6/106[%3Bvnd.vst.i
+dref%3Dchapter33]!/4/196/4%4053:96.
+Feedback:
+-11ª QUESTÃO
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 15 de 22
+
+Enunciado:
+( FACIMPA) O Ascaris lumbricoides é um dos parasitas intestinais mais comuns e de maior
+importância em saúde pública, afetando milhões de pessoas ao redor do mundo, especialmente
+em regiões com saneamento inadequado. O ciclo biológico desse helminto é fundamental para
+entender suas manifestações clínicas e planejar estratégias de tratamento eficazes.
+Considerando esse assunto, responda as questões abaixo.
+a) Descreva o ciclo biológico do Ascaris lumbricoides, enfatizando as fases migratórias e a sua
+importância para a perpetuação do parasita.
+b) Relacione as manifestações clínicas da infecção por Ascaris lumbricoides ao ciclo biológico do
+parasita.
+c) Aponte o tratamento recomendado para a ascaridíase, explicando o mecanismo de ação dos
+principais fármacos utilizados.
+Alternativas:
+-Resposta comentada:
+A respostas devem conter as seguintes informações:
+a) O ciclo biológico do Ascaris lumbricoides inicia-se com a ingestão de ovos embrionados, que
+eclodem no intestino delgado, liberando larvas. As larvas penetram a parede intestinal e migram
+através da corrente sanguínea até os pulmões. Após maturação nos pulmões, elas sobem pelo
+trato respiratório até serem deglutidas novamente, retornando ao intestino delgado, onde se
+desenvolvem em vermes adultos. Esse ciclo migratório é crucial para o desenvolvimento do
+parasita e sua dispersão dentro do hospedeiro.
+b) As manifestações clínicas da ascaridíase, como a síndrome de Loeffler, broncopneumonia e
+sintomas gastrointestinais, estão intimamente ligadas às diferentes fases do ciclo biológico. A
+migração larvária pelos pulmões pode causar reações inflamatórias e alérgicas, enquanto a
+presença de vermes adultos no intestino pode levar a desconforto abdominal, má digestão e
+complicações mais graves como obstrução intestinal.
+c) O tratamento da ascaridíase geralmente envolve o uso de anti-helmínticos como albendazol ou
+mebendazol, que interferem no metabolismo do parasita, inibindo a formação de microtúbulos,
+essencial para a captação de nutrientes e sobrevivência dos vermes. Outros medicamentos
+como a piperazina agem causando paralisia flácida dos vermes, facilitando sua expulsão pelo
+trato intestinal.
+Referência:
+REY, Luís. Parasitologia, 4ª edição. Rio de Janeiro: Grupo GEN, 2008. E-book. ISBN 978-85277-2027-4. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2027-4/.
+Acesso em: 20 ago. 2024.
+Feedback:
+-12ª QUESTÃO
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 16 de 22
+
+Enunciado:
+( AFYA BRAGANÇA) Maria, 32 anos, dá entrada ao serviço de urgência com queixas de diarreia
+aquosa profusa, vômitos e cólicas abdominais intensas há 2 dias. Relata ter consumido frutos do
+mar em um restaurante local dois dias antes do início dos sintomas. Maria está visivelmente
+desidratada, com mucosas secas e olhos encovados. Ela menciona que não conseguiu manter
+nenhum alimento ou líquido no estômago devido aos vômitos repetidos. Além disso, relata ter ido
+ao banheiro mais de dez vezes nas últimas 24 horas. Não há histórico de viagens recentes ou
+contato com indivíduos doentes.
+Com base no caso clínico acima, analise as afirmativas a seguir.
+I - O quadro clínico de Maria é indicativo de uma gastroenterite aguda, provavelmente de origem
+infecciosa, dada a associação temporal com o consumo de frutos do mar.
+II - Certos patógenos produzem toxinas que estimulam a secreção de fluidos e eletrólitos pelas
+células intestinais para a luz do intestino, resultando em diarreia aquosa.
+III - A infecção pode levar a alterações na motilidade gastrointestinal, acelerando o trânsito
+intestinal e reduzindo o tempo de contato dos nutrientes e água com a superfície de absorção,
+contribuindo para a diarreia.
+IV - Na disbiose, competição por nutrientes e locais de adesão, juntamente com a produção de
+metabolitos tóxicos por patógenos, pode prejudicar a absorção de água e eletrólitos.
+É correto o que se lê em
+Alternativas:
+(alternativa A)
+III e IV, apenas.
+(alternativa B) (CORRETA)
+I, II , III e IV.
+(alternativa C)
+I, II e III, apenas.
+(alternativa D)
+I e IV, apenas.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 17 de 22
+
+Resposta comentada:
+O caso de Maria ilustra a importância de compreender os mecanismos fisiopatológicos das
+doenças diarreicas para um diagnóstico preciso e tratamento eficaz. A gestão cuidadosa da
+hidratação e o tratamento específico para o patógeno identificado são cruciais para a recuperação
+do paciente. Os principais mecanismos fisiopatológicos associados às doenças diarreicas
+incluem:
+Toxigênese: certos patógenos produzem toxinas como por exemplo a toxina colérica produzida
+pelo Vibrio cholerae que ativa a adenilato ciclase nas células do epitélio intestinal, aumentando a
+concentração intracelular de AMP cíclico (cAMP) e provocando a secreção de íons Cl- e
+subsequente saída de água, Na+ e K+ para a luz intestinal.
+Invasão celular: patógenos como E. coli e Shigella spp. invadem e destroem as células do epitélio
+intestinal, causando diarreia sanguinolenta ou disenteria, juntamente com a destruição do tecido.
+A alteração na flora intestinal normal, seja por infecções ou pelo uso de antibióticos, pode resultar
+em diarreia. A competição por nutrientes e locais de adesão, juntamente com a produção de
+metabólitos tóxicos por patógenos, pode prejudicar a absorção de água e eletrólitos.
+Referência:
+HAMMER, Gary D.; MCPHEE, Stephen J. Fisiopatologia da doença. Porto Alegre: Grupo A, 2015.
+E-book. ISBN 9788580555288. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788580555288/. Acesso em: 01 mar. 2024.
+Feedback:
+-13ª QUESTÃO
+Enunciado:
+( UNISL PORTO VELHO) Um homem, de 45 anos, é admitido no pronto-socorro relatando dor
+abdominal intensa e persistente localizada na região superior do abdômen, que irradia para as
+costas. Ele menciona que a dor começou algumas horas após uma refeição que incluía uma
+quantidade significativa de alimentos gordurosos. Desde então, ele experimentou náuseas
+constantes e vários episódios de vômito, que não aliviam a dor. Ele descreve a dor como a pior
+que já sentiu em sua vida. Além disso, ele apresenta febre leve e uma sensibilidade marcante na
+palpação do abdômen superior. Não há histórico recente de consumo de álcool ou viagem. O
+paciente tem um histórico médico de hiperlipidemia, tratada com estatinas.
+Com base no cenário clínico descrito acima, o diagnóstico mais provável é
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 18 de 22
+
+Alternativas:
+(alternativa A)
+úlcera péptica perfurada.
+
+(alternativa B) (CORRETA)
+pancreatite aguda.
+
+(alternativa C)
+colecistite aguda.
+
+(alternativa D)
+obstrução intestinal.
+
+Resposta comentada:
+Na pancreatite aguda, ocorre a inflamação aguda do pâncreas, geralmente desencadeada pela
+ativação prematura das enzimas pancreáticas dentro do tecido pancreático, resultando em
+autodigestão e lesão tecidual. Isso pode ser causado por diversos fatores, como consumo
+excessivo de álcool, cálculos biliares obstruindo o ducto pancreático ou consumo de alimentos
+ricos em gordura. A liberação excessiva de enzimas pancreáticas pode causar dano tecidual,
+edema, necrose e, em casos graves, falência de múltiplos órgãos. Os sintomas típicos incluem
+dor abdominal intensa, náuseas, vômitos e sensibilidade à palpação abdominal.
+Resposta correta: pancreatite aguda.
+Justificativa: a apresentação clínica do paciente, caracterizada por dor abdominal intensa e
+persistente na região superior do abdômen que irradia para as costas, náuseas, vômitos, e
+sensibilidade à palpação, é altamente sugestiva de pancreatite aguda. A associação da dor com a
+ingestão de alimentos gordurosos e o histórico de hiperlipidemia, que é um fator de risco
+conhecido para pancreatite aguda, reforça essa hipótese. A pancreatite aguda é frequentemente
+desencadeada pela obstrução do ducto pancreático ou por outros fatores que levam à ativação
+prematura das enzimas pancreáticas, causando inflamação e dano tecidual.
+Colecistite aguda é uma possibilidade, mas a dor irradia tipicamente para o ombro direito e pode
+não estar tão intensamente associada ao consumo de alimentos gordurosos imediatamente antes
+do início dos sintomas.
+Úlcera péptica perfurada poderia causar dor intensa, mas geralmente apresenta um padrão de dor
+mais localizado e agudo, sem a irradiação característica para as costas.
+Obstrução intestinal geralmente apresenta sintomas adicionais como distensão abdominal e
+alterações nos hábitos intestinais, que não foram relatados.
+Referência:
+Kumar, Vinay. Robbins Patologia Básica. Disponível em: Minha Biblioteca, (10th edição). Grupo
+GEN, 2018.
+Feedback:
+-000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 19 de 22
+
+14ª QUESTÃO
+Enunciado:
+(AFYA SANTA INÊS) Uma paciente de 32 anos apresenta dor abdominal em flanco direito, febre
+(38,5 °C), calafrios, além de disúria e polaciúria, sintomas que começaram há três dias. No
+exame físico, observa-se sensibilidade à palpação do ângulo costovertebral direito. A paciente
+relata um histórico recente de infecções urinárias recorrentes.
+Baseando-se nas informações fornecidas, responda as seguintes questões:
+a) Descreva o diagnóstico, abordando o agente etiológico, e justifique o envolvimento do trato
+urinário superior ou inferior.
+b) Relacione as manifestações clínicas observadas aos mecanismos fisiopatológicos da
+infecção.
+c) Proponha o tratamento farmacológico, considerando os agentes etiológicos mais comuns e os
+fármacos adequados, e as orientações para a paciente considerando os fatores clínicos
+apresentados por ela.
+Alternativas:
+-Resposta comentada:
+Chaves de respostas
+1. Etiologia e infecção do trato urinário superior. A paciente apresenta sintomas compatíveis
+com pielonefrite aguda, uma infecção do trato urinário superior que frequentemente resulta da
+ascensão bacteriana a partir da uretra e bexiga. O principal agente etiológico das infecções
+urinárias, incluindo a pielonefrite, é a Escherichia coli, uma bactéria gram-negativa. A presença de
+febre, calafrios e dor no flanco direito são indicativos da progressão da infecção da bexiga (cistite)
+para o rim, sugerindo uma infecção mais grave.
+2. Manifestações clínicas e fisiopatologia. Os sintomas de disúria e polaciúria são típicos da
+irritação do trato urinário pela infecção, enquanto a dor no flanco e a febre indicam que o processo
+inflamatório atingiu os rins, levando a uma resposta sistêmica inflamatória. A sensibilidade no
+ângulo costovertebral, um achado físico característico, sugere o envolvimento renal. A febre e os
+calafrios indicam uma resposta imunológica aguda ao patógeno invasor.
+3. Tratamento farmacológico. O tratamento inicial da pielonefrite aguda geralmente inclui um
+antibiótico de amplo espectro que cubra Escherichia coli e outras bactérias gram-negativas, como
+as fluoroquinolonas (ex.: ciprofloxacino) ou um antibiótico betalactâmico combinado com um
+inibidor de betalactamase (ex.: amoxicilina-clavulanato). Dada a recorrência das infecções
+urinárias na paciente, é importante realizar um urocultura para confirmar o patógeno e ajustar a
+terapia conforme a suscetibilidade antibiótica, a fim de evitar resistência bacteriana.
+Referência
+KUMAR, Vinay. Robbins Patologia Básica. Rio de Janeiro: Grupo GEN, 2018. E-book. ISBN
+9788595151895.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788595151895/. Acesso em: 16
+set. 2024.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 20 de 22
+
+Feedback:
+-15ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Uma paciente, de 48 anos, chega à unidade básica de saúde (UBS)
+queixando-se de dor epigástrica, sensação de queimação e náuseas, sintomas que vêm se
+agravando nos últimos meses. Após a realização de exames, é diagnosticada com gastrite
+crônica. Ela relata ser fumante, faz uso frequente de anti-inflamatórios não esteroides (AINEs)
+para tratar uma artrite, e tem uma dieta rica em alimentos processados e gordurosos.
+Considerando os fatores de risco e os mecanismos de agressão à mucosa gástrica, assinale a
+alternativa a seguir que explica corretamente como esses fatores contribuem para a condição da
+paciente.
+Alternativas:
+(alternativa A) (CORRETA)
+A dieta rica em alimentos processados aumenta a secreção de ácido gástrico e o uso de AINEs
+acabam inibindo a produção de prostaglandinas, facilitando o desenvolvimento da gastrite crônica
+observada na paciente.
+(alternativa B)
+A ingestão constante de alimentos gordurosos leva à produção excessiva de bicarbonato na
+mucosa gástrica, aumentando o pH do estômago, o que resulta em uma forma de gastrite crônica
+não erosiva.
+(alternativa C)
+O uso frequente de AINEs inibe principalmente a enzima cicloxigenase-2 (COX-2), e
+consequentemente reduz a produção de prostaglandinas protetoras, comprometendo a barreira
+mucosa gástrica.
+(alternativa D)
+A redução da produção de muco gástrico devido ao aumento da perfusão sanguínea na mucosa,
+associada principalmente ao tabagismo, torna-se o principal fator desencadeador da gastrite
+crônica.
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 21 de 22
+
+Resposta comentada:
+A gastrite crônica está frequentemente associada a fatores que comprometem as defesas
+naturais da mucosa gástrica, como a produção de muco e bicarbonato, que protegem contra o
+ácido clorídrico. O uso crônico de AINEs é um fator de risco significativo para o desenvolvimento
+de gastrite crônica, pois esses medicamentos inibem a enzima cicloxigenase-1 (COX-1),
+reduzindo a produção de prostaglandinas, que são essenciais para a produção de muco e
+bicarbonato, deixando a mucosa vulnerável à agressão ácida. O tabagismo contribui para a
+diminuição da produção de muco e aumenta a secreção ácida, exacerbando os danos à mucosa.
+Além disso, uma dieta rica em alimentos processados e gordurosos são difíceis de digerir e
+aumentam o ácido no estômago, o que pode piorar também os sintomas.
+Referências:
+DANI, Renato; PASSOS, Maria do Carmo F. Gastroenterologia Essencial, 4ª edição . Grupo
+GEN, 2011. E-book. ISBN 978-85-277-1970-4. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-1970-4/.
+KUMAR, Vinay; ABBAS, Abul K.; ASTER, Jon C. Robbins & Cotran Patologia: Bases Patológicas
+das Doenças . Grupo GEN, 2023. E[1]book. ISBN 9788595159174. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159174/.
+MARTINS, Milton de A.; CARRILHO, Flair J.; ALVES, Venâncio Avancini F.; CASTILHO,
+Euclides. Clínica Médica, Volume 4: Doenças do Aparelho Digestivo, Nutrição e Doenças
+Nutricionais. Editora Manole, 2016. E[1]book. ISBN 9788520447741. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520447741/.
+HILAL-DANDAN, Randa; BRUNTON, Laurence. Manual de farmacologia e terapêutica de
+Goodman & Gilman. Grupo A, 2015. E-book. ISBN 9788580555066. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788580555066/.
+Feedback:
+--
+
+000135.270013.87dede.3456a4.f601fc.d6fcc0.38c3ec.863f8
+
+Pgina 22 de 22
+
+

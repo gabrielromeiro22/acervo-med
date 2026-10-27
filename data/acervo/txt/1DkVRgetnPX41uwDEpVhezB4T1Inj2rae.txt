@@ -1,0 +1,3516 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas VIII, Integração Ensino Serviço Comunidade
+VIII, Clínica Cirúrgica IV, Integradora 8º Período e Clínica Integrada III
+Professor (es):
+Período: 202601
+
+Turma:
+
+Data: 11/06/2026
+
+INTEGRADORA - MEDICINA - 8º PERÍODO - 2026.1 - 1ª CHAMADA - 11/JUNHO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19938 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA REDENÇÃO) Durante atendimento inicial na sala de emergência, um homem de 28
+anos, vítima de colisão motociclista, apresenta trauma facial grave, sangramento oral
+abundante, fraturas maxilofaciais e obstrução de via aérea. Na avaliação primária, a
+equipe realiza proteção cervical, aspiração de cavidade oral, oxigenação suplementar e
+tentativa de estabilização da via aérea. Apesar das medidas instituídas, o paciente evolui
+para óbito.
+
+acervo.vip
+
+Após o atendimento, a equipe médica discute o correto preenchimento da Declaração de
+Óbito (DO), considerando os princípios de determinação da causa básica da morte e o
+registro de causas externas em mortes violentas.
+Considerando o caso descrito e as normas vigentes para preenchimento da Declaração
+de Óbito no Brasil, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Registrar insuficiência respiratória aguda como causa básica do óbito e identificar
+obstrução de via aérea como circunstância terminal do atendimento.
+(alternativa B)
+Registrar parada cardiorrespiratória como causa principal do óbito e descrever trauma
+facial como complicação secundária do evento traumático.
+(alternativa C) (CORRETA)
+Registrar trauma facial com obstrução de via aérea como parte da sequência causal do
+óbito e identificar acidente de transporte como circunstância da causa externa.
+(alternativa D)
+Registrar politraumatismo como causa única do óbito e omitir referência à circunstância
+externa relacionada ao acidente motociclístico.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 1 de 76
+
+Resposta comentada:
+Alternativa: Registrar trauma facial com obstrução de via aérea como parte da sequência
+causal do óbito e identificar acidente de transporte como circunstância da causa externa.
+— Correta
+Em mortes decorrentes de trauma, a Declaração de Óbito deve descrever
+adequadamente a sequência causal que levou ao óbito e registrar a circunstância
+externa responsável pelo evento. No caso apresentado, o trauma facial grave associado à
+obstrução de via aérea integra a cadeia causal da morte, enquanto o acidente de
+transporte constitui a causa externa relacionada ao óbito.
+O correto preenchimento da DO possui relevância epidemiológica, jurídica e assistencial,
+subsidiando o Sistema de Informações sobre Mortalidade (SIM) e a vigilância das causas
+externas.
+Alternativa: Registrar insuficiência respiratória aguda como causa básica do óbito e
+identificar obstrução de via aérea como circunstância terminal do atendimento. —
+Incorreta
+Insuficiência respiratória aguda representa mecanismo fisiopatológico terminal e não
+deve ser registrada isoladamente como causa básica do óbito quando existe evento
+traumático definido responsável pela cadeia causal da morte.
+Alternativa: Registrar parada cardiorrespiratória como causa principal do óbito e
+descrever trauma facial como complicação secundária do evento traumático. — Incorreta
+Parada cardiorrespiratória corresponde a evento terminal inespecífico e não deve ser
+utilizada como causa principal do óbito na presença de causa traumática identificável.
+Alternativa: Registrar politraumatismo como causa única do óbito e omitir referência à
+circunstância externa relacionada ao acidente motociclístico. — Incorreta
+O termo “politraumatismo” é inespecífico quando utilizado isoladamente e não substitui a
+descrição adequada da sequência causal nem o registro da circunstância externa
+relacionada ao acidente de transporte.
+Referências:
+BRASIL. Ministério da Saúde.
+Manual de instruções para o preenchimento da Declaração de Óbito. Brasília: Ministério
+da Saúde, 2022. Disponível em: https://www.gov.br/saude. Acesso em: 29 mar. 2026.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Sistema de Informações sobre Mortalidade (SIM): orientações para preenchimento da
+Declaração de Óbito. Brasília: Ministério da Saúde, 2021.
+AMERICAN COLLEGE OF SURGEONS.
+ATLS®: Advanced Trauma Life Support®. 10. ed. Chicago: American College of Surgeons,
+2018.
+BRASIL. Ministério da Saúde.
+Guia de Vigilância em Saúde. 5. ed. Brasília: Ministério da Saúde, 2021.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA ITAPERUNA) Adolescente do sexo masculino, 15 anos, é encaminhado ao
+ambulatório especializado por queda importante do rendimento escolar. Apresenta
+pensamentos intrusivos recorrentes relacionados à contaminação e realiza rituais
+prolongados de lavagem das mãos, consumindo várias horas do dia. Relata sofrimento
+significativo e dificuldade para concluir tarefas escolares. Nega uso de substâncias e não
+apresenta sintomas psicóticos ou risco iminente. Diante do quadro clínico e do prejuízo
+funcional descrito, qual é a conduta terapêutica de primeira linha mais adequada?
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 2 de 76
+
+Alternativas:
+(alternativa A)
+Antipsicótico atípico em monoterapia.
+(alternativa B) (CORRETA)
+Terapia cognitivo-comportamental com ISRS.
+(alternativa C)
+Internação psiquiátrica imediata.
+(alternativa D)
+Benzodiazepínico contínuo diário.
+
+Resposta comentada:
+A presença de obsessões e compulsões com prejuízo funcional escolar caracteriza
+transtorno obsessivo-compulsivo, cujo tratamento de primeira linha em adolescentes
+consiste em terapia cognitivo-comportamental com técnica de exposição e prevenção de
+resposta, associada a inibidor seletivo da recaptação de serotonina quando há prejuízo
+moderado a grave. Essa abordagem apresenta melhor evidência de eficácia e segurança
+nessa faixa etária.
+O uso isolado de antipsicótico atípico não constitui primeira linha, sendo reservado como
+potencial adjuvante em casos refratários após tentativa adequada com terapia cognitivocomportamental e inibidor seletivo da recaptação de serotonina.
+O emprego contínuo de benzodiazepínicos não é indicado como tratamento de base,
+devido ao risco de dependência, tolerância e ausência de impacto consistente sobre
+obsessões e compulsões.
+A internação psiquiátrica está indicada apenas em situações de risco iminente à
+integridade física, ideação suicida grave ou incapacidade total de autocuidado, o que não
+foi descrito no caso.
+Referência:
+ASSOCIAÇÃO BRASILEIRA DE PSIQUIATRIA. Tratado de Psiquiatria. 2. ed. Porto Alegre:
+Artmed, 2021.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(AFYA PORTO NACIONAL) Durante atendimento em uma Unidade Básica de Saúde
+vinculada à rede municipal de urgência, um homem de 32 anos é levado por familiares
+após acidente motociclístico em via urbana. Refere dor intensa em membro inferior
+direito e incapacidade de apoiar o membro. Ao exame físico, apresenta ferida profunda
+na região anteromedial da perna, exposição óssea, deformidade local, edema importante
+e sangramento moderado. Encontra-se consciente, orientado, hemodinamicamente
+estável, com pulsos distais palpáveis e perfusão periférica preservada.
+A unidade não dispõe de atendimento ortopédico presencial, porém possui materiais para
+estabilização inicial e acesso ao sistema municipal de regulação.
+Considerando o caso descrito, a suspeita diagnóstica e os princípios do atendimento
+inicial ao trauma musculoesquelético, assinale a alternativa que apresenta a conduta
+inicial mais adequada.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 3 de 76
+
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar cobertura estéril da ferida, imobilizar o membro acometido, solicitar radiografias
+e encaminhar o paciente por regulação para avaliação especializada.
+(alternativa B)
+Realizar curativo compressivo da ferida, reduzir manipulação do membro acometido,
+dispensar exames de imagem e aguardar transporte familiar para transferência.
+(alternativa C)
+Realizar limpeza local da ferida, solicitar tomografia do membro acometido, estimular
+mobilização precoce e encaminhar o paciente para reavaliação ambulatorial.
+(alternativa D)
+Realizar analgesia sistêmica, manter o membro sem imobilização inicial, solicitar
+radiografias e orientar acompanhamento ortopédico eletivo após alta.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 4 de 76
+
+Resposta comentada:
+Alternativa: Realizar cobertura estéril da ferida, imobilizar o membro acometido, solicitar
+radiografias e encaminhar o paciente por regulação para avaliação especializada. —
+Correta
+O quadro clínico é compatível com fratura aberta, caracterizada por exposição óssea
+associada a deformidade, dor intensa e limitação funcional após trauma de alta energia.
+A conduta inicial deve priorizar estabilização do membro, cobertura estéril da ferida,
+avaliação radiográfica e encaminhamento regulado para atendimento especializado.
+A imobilização adequada reduz dor, sangramento e risco de agravamento de lesões
+associadas, enquanto a regulação organiza o acesso oportuno ao cuidado ortopédico de
+maior complexidade.
+Alternativa: Realizar limpeza local da ferida, solicitar tomografia do membro acometido,
+estimular mobilização precoce e encaminhar o paciente para reavaliação ambulatorial. —
+Incorreta
+Embora a limpeza local e a investigação por imagem possam integrar o manejo do
+trauma, a tomografia não constitua exame inicial prioritário nesse contexto, e a
+mobilização precoce do membro acometido pode agravar lesões ósseas e de partes
+moles.
+Alternativa: Realizar analgesia sistêmica, manter o membro sem imobilização inicial,
+solicitar radiografias e orientar acompanhamento ortopédico eletivo após alta. —
+Incorreta
+A analgesia sistêmica é medida importante no manejo inicial do trauma, porém a
+ausência de imobilização adequada e a proposta de seguimento eletivo não são
+compatíveis com a suspeita de fratura aberta decorrente de trauma de alta energia.
+Alternativa: Realizar curativo compressivo da ferida, reduzir manipulação do membro
+acometido, dispensar exames de imagem e aguardar transporte familiar para
+transferência. — Incorreta
+O curativo compressivo e a redução da manipulação do membro podem integrar a
+estabilização inicial, porém a ausência de avaliação por imagem e a transferência sem
+regulação adequada comprometem a condução segura do caso.
+Referências:
+AMERICAN COLLEGE OF SURGEONS.
+ATLS®: Advanced Trauma Life Support®. 10. ed. Chicago: American College of Surgeons,
+2018.
+SOCIEDADE BRASILEIRA DE ORTOPEDIA E TRAUMATOLOGIA (SBOT).
+Manual de trauma ortopédico. São Paulo: SBOT, 2021.
+BRASIL. Ministério da Saúde.
+Política Nacional de Atenção às Urgências. Brasília: Ministério da Saúde, 2006.
+BRASIL. Ministério da Saúde.
+Portaria nº 2.436, de 21 de setembro de 2017. Aprova a Política Nacional de Atenção
+Básica. Brasília: Ministério da Saúde, 2017. Disponível em: https://bvsms.saude.gov.br/.
+Acesso em: 29 mar. 2026.
+Feedback:
+-4ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 5 de 76
+
+Enunciado:
+(AFYA UNIGRANRIO BARRA DA TIJUCA) Um homem de 80 anos é trazido ao ambulatório
+por queixa de esquecimento progressivo há cerca de 1 ano. Segundo a esposa, ele
+passou a repetir perguntas e esquecer compromissos recentes, mas ainda consegue
+administrar seus medicamentos e realizar compras no mercado do bairro, embora com
+maior lentidão.
+Nega alucinações, alterações comportamentais marcantes ou episódios de desorientação
+espacial fora de casa. Nega história de AVC. Possui hipertensão controlada.
+Exame físico sem déficits motores focais.
+Mini-Exame do Estado Mental (MEEM): 25/30
+(Perdeu pontos em memória de evocação e atenção)
+Avaliação funcional:
+Independente para atividades básicas de vida diária (banho, vestir-se, alimentação).
+Independente para atividades instrumentais, com leve lentificação, mas sem necessidade
+de ajuda.
+Com base nos dados clínicos e funcionais apresentados, o diagnóstico sindrômico mais
+provável é:
+Alternativas:
+(alternativa A) (CORRETA)
+Comprometimento Cognitivo Leve.
+(alternativa B)
+Doença de Alzheimer em fase inicial.
+(alternativa C)
+Demência vascular subcortical.
+(alternativa D)
+Declínio cognitivo relacionado à idade (senescência normal).
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 6 de 76
+
+Resposta comentada:
+O ponto central da questão é a correlação entre desempenho cognitivo e funcionalidade.
+O paciente apresenta:
+Queixa cognitiva corroborada por familiar.
+Alteração objetiva no MEEM (25/30, com déficit em memória e atenção).
+Preservação da independência funcional nas atividades básicas e instrumentais.
+Para diagnóstico de demência, é obrigatória a presença de comprometimento cognitivo
+associado a prejuízo funcional significativo.
+Neste caso, há alteração cognitiva mensurável, porém sem perda de autonomia funcional
+— o que caracteriza Comprometimento Cognitivo Leve (CCL).
+Discussão das alternativas:
+Doença de Alzheimer em fase inicial.
+Incorreta. Embora o padrão amnéstico seja sugestivo de possível fase prodrômica de
+Alzheimer, o diagnóstico sindrômico de demência exige prejuízo funcional. Como o
+paciente mantém independência nas atividades diárias, não preenche critérios para
+demência estabelecida.
+Comprometimento Cognitivo Leve
+Correta. Caracteriza-se por:
+Queixa cognitiva referida pelo paciente ou informante.
+Evidência objetiva de declínio cognitivo.
+Preservação da independência funcional.
+Ausência de critérios para demência.
+O MEEM discretamente reduzido, associado à autonomia preservada, é compatível com
+esse diagnóstico.
+Demência vascular subcortical.
+Incorreta. Não há história de eventos cerebrovasculares, declínio em degraus, sinais
+neurológicos focais ou achados que sugiram comprometimento executivo predominante
+típico do padrão vascular.
+Declínio cognitivo relacionado à idade (senescência normal).
+Incorreta. Na senescência normal, pode haver lentificação, mas não há prejuízo objetivo
+significativo em testes cognitivos nem queixa progressiva com impacto percebido por
+familiar. Aqui há alteração mensurável no MEEM e progressão em 1 ano.
+Referências:
+ACADEMIA BRASILEIRA DE NEUROLOGIA. Recomendações para o diagnóstico de
+comprometimento cognitivo leve e demências. Arquivos de Neuro-Psiquiatria, São Paulo,
+2011.
+SOCIEDADE BRASILEIRA DE GERIATRIA E GERONTOLOGIA. Diretrizes para avaliação do
+idoso com queixa de memória. Rio de Janeiro: SBGG, 2019.
+PETERSEN, R. C. Mild cognitive impairment. New England Journal of Medicine, 2011.
+DSM-5-TR. Manual Diagnóstico e Estatístico de Transtornos Mentais. 5. ed. rev. Porto
+Alegre: Artmed, 2023.
+Feedback:
+-5ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 7 de 76
+
+Enunciado:
+(AFYA PARNAÍBA) Homem de 32 anos é admitido na sala de trauma após colisão
+motocicleta versus automóvel em alta velocidade, sem uso de capacete. Foi encontrado
+inconsciente no local e transportado imobilizado em prancha rígida e colar cervical.
+Na avaliação primária, apresenta:
+Pressão arterial: 82 × 50 mmHg.
+Frequência cardíaca: 140 bpm.
+Frequência respiratória: 30 irpm.
+Saturação periférica de oxigênio: 83% em ar ambiente.
+Escala de Coma de Glasgow: 9.
+Ao exame físico, observa-se:
+Respiração ruidosa com roncos audíveis.
+Sangue e secreção espessa em cavidade oral.
+Retração supraesternal.
+Uso de musculatura acessória da respiração.
+Considerando os princípios do ATLS/PHTLS para abordagem inicial da via aérea no
+trauma, assinale a alternativa que descreve a primeira medida mais adequada nesse
+momento.
+Alternativas:
+(alternativa A)
+Executar hiperextensão cervical para facilitar visualização da orofaringe, mantendo
+monitorização contínua da saturação periférica durante o procedimento.
+(alternativa B)
+Priorizar expansão volêmica rápida antes de qualquer intervenção sobre a via aérea,
+considerando a hipotensão arterial como principal ameaça imediata à vida.
+(alternativa C) (CORRETA)
+Realizar aspiração cuidadosa da cavidade oral, associada à manobra de tração da
+mandíbula com estabilização manual da coluna cervical, seguida de oferta de oxigênio
+em alto fluxo.
+(alternativa D)
+Iniciar ventilação com bolsa-válvula-máscara e oxigênio suplementar, mantendo apenas o
+colar cervical como estabilização da coluna durante o procedimento.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 8 de 76
+
+Resposta comentada:
+Realizar aspiração cuidadosa da cavidade oral associada à manobra de tração da
+mandíbula com estabilização manual da coluna cervical, seguida de oferta de oxigênio
+em alto fluxo.— Correta.
+O paciente apresenta sinais de obstrução de vias aéreas superiores por sangue e
+secreções, sendo prioritária a permeabilização da via aérea com aspiração cuidadosa,
+manobra de tração da mandíbula e estabilização manual da coluna cervical. Após a
+abertura adequada da via aérea, deve-se ofertar oxigênio suplementar e reavaliar
+necessidade de ventilação assistida.
+Iniciar ventilação com bolsa-válvula-máscara e oxigênio suplementar, mantendo apenas o
+colar cervical como estabilização da coluna durante o procedimento.— Incorreta.
+A ventilação com bolsa-válvula-máscara pode ser necessária posteriormente, porém a
+presença de secreções e sangue em cavidade oral exige inicialmente desobstrução e
+permeabilização da via aérea. Além disso, apenas o colar cervical não substitui
+estabilização manual durante o manejo inicial.
+Executar hiperextensão cervical para facilitar visualização da orofaringe, mantendo
+monitorização contínua da saturação periférica durante o procedimento.— Incorreta.
+A hiperextensão cervical deve ser evitada em vítimas de trauma com suspeita de lesão
+cervical, sendo preferível a manobra de tração da mandíbula associada à estabilização
+manual.
+Priorizar expansão volêmica rápida antes de qualquer intervenção sobre a via aérea,
+considerando a hipotensão arterial como principal ameaça imediata à vida.— Incorreta.
+Embora o paciente apresente choque, a abordagem do trauma prioriza inicialmente
+controle e permeabilização da via aérea, especialmente diante de sinais de obstrução
+respiratória iminente.
+Referências:
+American College of Surgeons
+AMERICAN COLLEGE OF SURGEONS.
+ATLS: Advanced Trauma Life Support Student Course Manual. 11. ed. Chicago: ACS, 2025.
+NAEMT.
+PHTLS: Prehospital Trauma Life Support . 10. ed. Burlington: Jones & Bartlett Learning,
+2024.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(AFYA SÃO JOÃO DEL-REI) Homem, 65 anos, ex-tabagista (40 maços-ano), apresenta
+tosse e pequenos episódios de hemoptise. TC de tórax: massa central de 3,2 cm,
+contígua ao brônquio fonte direito, com redução luminal segmentar; sem lesões à
+distância conhecidas. Está clinicamente operável. O serviço precisa definir o próximo
+passo mais apropriado para obter diagnóstico histológico e direcionar o estadiamento.
+Considerando o caso apresentado, assinale a alternativa que indica a próxima etapa.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 9 de 76
+
+Alternativas:
+(alternativa A)
+PET-CT como exame único para fechar o diagnóstico definitivo e decidir tratamento
+curativo.
+(alternativa B) (CORRETA)
+Broncoscopia flexível com biópsia endobrônquica (e EBUS-TBNA, se houver linfonodos
+suspeitos) para confirmar histologia e avaliar mediastino de forma minimamente
+invasiva.
+(alternativa C)
+Videotoracoscopia (VATS) já como primeira abordagem para ressecar em cunha e
+confirmar, avançando para lobectomia no mesmo ato.
+(alternativa D)
+Biópsia transtorácica guiada por TC (TTNA) do nódulo, mesmo sendo central, pois tem
+maior acurácia e baixo risco de pneumotórax.
+
+Resposta comentada:
+Justificativa da correta:
+Lesão central/endobrônquica → broncoscopia é o método de escolha para diagnóstico
+tecidual; se houver linfonodo mediastinal suspeito, EBUS-TBNA permite amostragem para
+estadiamento N na mesma via, com bom rendimento e baixo risco. PMC+1
+Justificativa das incorretas:
+TTNA tem boa acurácia, sobretudo em lesões periféricas, porém maior risco de
+pneumotórax e não é o método preferido para massas centrais acessíveis por
+broncoscopia. PMC+1
+PET-CT é valioso para estadiar (N/M) e planejar conduta, mas não substitui biópsia para
+diagnóstico definitivo. PMC
+VATS é mais invasiva e, na presença de acesso endobrônquico claro, não é o primeiro
+passo; reserva-se quando métodos menos invasivos falham.
+Referências:
+FILHO, Darcy Ribeiro P.; CAMARGO, José J. Cirurgia Torácica Contemporânea. Rio de
+Janeiro: Thieme Revinter, 2019. E-book. ISBN 9788554651909. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788554651909/. Acesso em: 01
+set. 2025.
+SILVA, Luiz C. C.; HETZEL, Jorge L.; FELICETTI, José C.; et al. Pneumologia. Grupo A, 2012.
+E-book. ISBN 9788536326757 Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788536326757/. Acesso em: 01 set.
+2025.
+Feedback:
+-7ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 10 de 76
+
+Enunciado:
+(AFYA IPATINGA) Um mergulhador de 30 anos é atendido pelo serviço de atendimento
+pré-hospitalar cerca de 30 minutos após emergir de mergulho profundo recreativo.
+Relata dor intensa em joelhos e ombros, iniciada logo após a subida. Durante o
+transporte, evoluiu com parestesias em membros inferiores, sensação de peso torácico e
+dispneia leve progressiva.
+Na admissão, apresenta-se consciente e orientado, com os seguintes sinais vitais:
+Frequência respiratória: 24 irpm.
+Frequência cardíaca: 110 bpm.
+Pressão arterial: 118 × 72 mmHg.
+Saturação periférica de oxigênio: 95% em ar ambiente.
+No exame neurológico, apresenta discreta redução de força em membros inferiores, sem
+sinais de trauma associado.
+Considerando os achados clínicos e as recomendações atuais para manejo inicial da
+doença descompressiva, assinale a alternativa correta.
+
+Alternativas:
+(alternativa A)
+Restringir hidratação venosa e iniciar diurético intravenoso para reduzir edema
+neurológico associado ao quadro descompressivo.
+(alternativa B)
+Instituir oxigenoterapia suplementar com fração inspirada reduzida, analgesia e
+observação clínica, devido ao quadro compatível com doença descompressiva leve sem
+repercussão sistêmica.
+(alternativa C) (CORRETA)
+Administrar oxigênio a 100%, iniciar reposição volêmica, monitorização clínica contínua e
+encaminhar rapidamente para serviço com câmara hiperbárica.
+(alternativa D)
+Iniciar anticoagulação plena por suspeita de embolia gasosa e manter transporte sem
+necessidade de oxigenoterapia contínua.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 11 de 76
+
+Resposta comentada:
+Administrar oxigênio a 100%, iniciar reposição volêmica, monitorização clínica contínua e
+encaminhar rapidamente para serviço com câmara hiperbárica. — Correta.
+O paciente apresenta quadro compatível com doença descompressiva tipo II, com
+manifestações osteoarticulares, neurológicas e respiratórias. O manejo inicial inclui
+administração imediata de oxigênio a 100%, reposição volêmica, monitorização clínica e
+encaminhamento para terapia hiperbárica.
+Instituir oxigenoterapia suplementar com fração inspirada reduzida, analgesia e
+observação clínica, devido ao quadro compatível com doença descompressiva leve sem
+repercussão sistêmica.— Incorreta.
+A presença de sintomas neurológicos e respiratórios afasta quadro leve de doença
+descompressiva, havendo necessidade de oxigenoterapia em alta concentração e
+avaliação hiperbárica urgente.
+Restringir hidratação venosa e iniciar diurético intravenoso para reduzir edema
+neurológico associado ao quadro descompressivo.— Incorreta.
+A restrição hídrica e o uso rotineiro de diuréticos não fazem parte do manejo inicial da
+doença descompressiva e podem agravar a hipoperfusão tecidual.
+Iniciar anticoagulação plena por suspeita de embolia gasosa e manter transporte sem
+necessidade de oxigenoterapia contínua.— Incorreta.
+A oxigenoterapia contínua constitui medida fundamental no tratamento inicial das
+síndromes descompressivas. Anticoagulação não representa tratamento inicial de rotina
+nesses casos.
+Referências:
+Undersea and Hyperbaric Medical Society
+UNDERSEA AND HYPERBARIC MEDICAL SOCIETY.
+Guidelines for the treatment of decompression sickness . Durham: UHMS, 2023.
+TINÔCO, José César et al.
+Medicina hiperbárica. Rio de Janeiro: Atheneu, 2019.
+BRASIL. Ministério da Defesa.
+Manual de medicina submarina . Brasília: Marinha do Brasil, 2020.
+AMERICAN COLLEGE OF SURGEONS.
+ATLS: Advanced Trauma Life Support Student Course Manual. 11. ed. Chicago: American
+College of Surgeons, 2025.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(AFYA BRAGANÇA) Um paciente adulto é vítima de colisão frontal carro versus objeto fixo
+em rodovia. A equipe do SAMU encontra-o torporoso, com Escala de Glasgow 8,
+dispneico, hipotenso e apresentando amputação traumática da coxa direita com
+sangramento arterial ativo em jato.
+Considerando as diretrizes atuais do PHTLS e a abordagem sistematizada XABCDE no
+atendimento pré-hospitalar ao trauma, qual deve ser a conduta PRIORITÁRIA para evitar
+a morte imediata do paciente?
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 12 de 76
+
+Alternativas:
+(alternativa A)
+Iniciar reposição volêmica vigorosa com cristaloide isotônico aquecido até estabilização
+completa da pressão arterial sistêmica.
+(alternativa B)
+Avaliar a via aérea e proceder à intubação orotraqueal imediata para proteção
+ventilatória adequada e prevenção de aspiração pulmonar.
+(alternativa C) (CORRETA)
+Controlar o sangramento exsanguinante com aplicação imediata de torniquete proximal
+à lesão e iniciar transporte prioritário.
+(alternativa D)
+Realizar punção torácica descompressiva imediata no quinto espaço intercostal para
+tratamento de pneumotórax hipertensivo suspeito.
+
+Resposta comentada:
+Controlar o sangramento exsanguinante com aplicação imediata de torniquete proximal
+à lesão e iniciar transporte prioritário.
+Neste cenário de atendimento pré-hospitalar, o paciente apresenta uma amputação
+traumática de coxa com sangramento arterial ativo em jato, associada a hipotensão e
+rebaixamento do nível de consciência (Glasgow 8), o que caracteriza choque hemorrágico
+com risco iminente de morte. De acordo com as atualizações do PHTLS (9ª edição) e com
+a abordagem XABCDE, a prioridade passa a ser o passo X (eXsanguination), pois a
+hemorragia externa maciça pode levar ao óbito em poucos minutos, antes mesmo que
+intervenções na via aérea produzam benefício. Assim, a conduta emergencial mais
+importante para evitar a morte imediata é interromper a hemorragia por meio de
+torniquete aplicado proximalmente ao local da lesão (especialmente quando a
+compressão direta é insuficiente em sangramentos de grande vaso em membro), seguido
+de organização de transporte prioritário (“Load and Go”) para unidade capaz de realizar
+controle definitivo da hemorragia. Após o controle inicial do sangramento, a equipe deve
+prosseguir com as demais etapas do atendimento sistematizado (A, B, C, D, E), mantendo
+reposição volêmica controlada conforme protocolos e comunicação com a regulação
+médica.
+Referências:
+AMERICAN HEART ASSOCIATION. SAVC: Suporte avançado de vida cardiovascular: manual
+do profissional. Texas, USA: Orora Visual, 2021. 202 p. ISBN 978-1-61669-919-2.
+AMERICAN HEART ASSOCIATION. 2025 American Heart Association Guidelines for
+Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation, v. 152,
+n. 16_suppl_2, 2025. Disponível em: https://www.ahajournals.org/toc/circ/152/16_suppl_2.
+Acesso em: 22 out. 2025
+HAJJAR, L. A. Medicina de emergência: abordagem prática. 18. ed. Barueri: Manole, 2024.
+E-book. p. 403. ISBN 9788520459553. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520459553/. Acesso em: 22
+out. 2025..
+MAIA, Ian Ward A.; BENINCÁ, Vitor M.; SCHUBERT, Daniel Ujakow C.; et al. Tratado de
+Medicina de Emergência Abramede. Barueri: Manole, 2025. E-book, p. 731. ISBN
+9788520458181. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458181/. Acesso em: 22
+out. 2025.
+NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS PHTLS: Atendimento
+pré-hospitalar ao traumatizado. 11. ed. Rio de Janeiro: Elsevier, 2024.
+
+Feedback:
+-9ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 13 de 76
+
+Enunciado:
+(AFYA VITÓRIA DA CONQUISTA) Um homem de 68 anos, hipertenso e diabético, é
+atendido em uma Unidade Básica de Saúde (UBS) após início súbito de hemiparesia à
+direita e dificuldade para falar há aproximadamente 1 hora. Ao exame, encontra-se
+consciente, com pressão arterial de 180 × 100 mmHg, frequência cardíaca de 88 bpm e
+glicemia capilar de 120 mg/dL. A equipe suspeita de Acidente Vascular Encefálico (AVE)
+agudo.
+A UBS não dispõe de tomografia computadorizada nem de suporte hospitalar para
+terapias específicas do AVE. A equipe deve definir a conduta inicial considerando os
+princípios da Rede de Atenção às Urgências, da regulação em saúde e da linha de
+cuidado do AVE no SUS.
+Considerando o caso descrito e as recomendações vigentes para o manejo inicial do AVE
+agudo, assinale a alternativa mais adequada.
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar suporte clínico inicial, acionar imediatamente a regulação de urgência e
+providenciar transferência para serviço de referência com acesso à neuroimagem.
+(alternativa B)
+Realizar suporte clínico inicial, administrar ácido acetilsalicílico imediatamente e
+providenciar transferência após observação da evolução neurológica inicial.
+(alternativa C)
+Realizar suporte clínico inicial, manter observação clínica na UBS e solicitar avaliação
+hospitalar após definição do subtipo de AVE.
+(alternativa D)
+Realizar suporte clínico inicial, encaminhar diretamente ao hospital mais próximo e
+aguardar confirmação diagnóstica antes de acionar a regulação.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 14 de 76
+
+Resposta comentada:
+Alternativa: Realizar suporte clínico inicial, acionar imediatamente a regulação de
+urgência e providenciar transferência para serviço de referência com acesso à
+neuroimagem. — Correta
+Na suspeita de AVE agudo, a conduta inicial deve priorizar estabilização clínica,
+reconhecimento precoce do quadro neurológico e acionamento imediato da regulação de
+urgência para transferência a serviço de referência com acesso à neuroimagem e manejo
+especializado.
+A diferenciação entre AVE isquêmico e hemorrágico depende de exame de imagem,
+sendo inadequado iniciar terapias específicas antes da definição diagnóstica. A
+organização da linha de cuidado do AVE no SUS baseia-se na redução do tempo até
+diagnóstico e tratamento.
+Alternativa: Realizar suporte clínico inicial, administrar ácido acetilsalicílico
+imediatamente e providenciar transferência após observação da evolução neurológica
+inicial. — Incorreta
+Embora o suporte clínico inicial seja apropriado, a administração imediata de ácido
+acetilsalicílico antes da realização de neuroimagem não é recomendada, pois não há
+exclusão diagnóstica de AVE hemorrágico.
+Alternativa: Realizar suporte clínico inicial, manter observação clínica na UBS e solicitar
+avaliação hospitalar após definição do subtipo de AVE. — Incorreta
+A observação prolongada na UBS sem transferência imediata para serviço de referência
+pode atrasar o diagnóstico e comprometer o acesso oportuno às terapias específicas do
+AVE agudo.
+Alternativa: Realizar suporte clínico inicial, encaminhar diretamente ao hospital mais
+próximo e aguardar confirmação diagnóstica antes de acionar a regulação. — Incorreta
+O encaminhamento hospitalar sem articulação prévia com a regulação pode direcionar o
+paciente para serviço sem capacidade resolutiva adequada para atendimento do AVE
+agudo.
+Referências:
+BRASIL. Ministério da Saúde.
+Linha de cuidado do acidente vascular cerebral (AVC) na Rede de Atenção às Urgências e
+Emergências. Brasília: Ministério da Saúde, 2012.
+BRASIL. Ministério da Saúde.
+Portaria nº 665, de 12 de abril de 2012. Institui a Linha de Cuidados em AVC no âmbito
+da Rede de Atenção às Urgências e Emergências. Brasília: Ministério da Saúde, 2012.
+BRASIL. Ministério da Saúde.
+Manual instrutivo da Rede de Atenção às Urgências e Emergências no Sistema Único de
+Saúde (SUS). Brasília: Ministério da Saúde, 2013.
+SOCIEDADE BRASILEIRA DE DOENÇAS CEREBROVASCULARES.
+Diretrizes para tratamento do acidente vascular cerebral. São Paulo: SBDCV, 2022.
+Feedback:
+-10ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 15 de 76
+
+Enunciado:
+(AFYA JI-PARANÁ) A Atenção Primária à Saúde (APS) organiza o cuidado a partir da
+atuação multiprofissional, da coordenação longitudinal e da responsabilização sanitária
+sobre a população adscrita, articulando ações de promoção, prevenção, tratamento e
+acompanhamento de condições crônicas.
+Um homem de 58 anos, com hipertensão arterial sistêmica e diabetes mellitus tipo 2
+acompanhados na Estratégia Saúde da Família (ESF), apresenta persistência de níveis
+pressóricos elevados, hemoglobina glicada acima da meta terapêutica e dificuldade de
+adesão ao plano alimentar. Durante consulta na Unidade Básica de Saúde (UBS), refere
+sangramento gengival e dor ao mastigar, relatando comparecer aos atendimentos
+“apenas quando os sintomas pioram”. A equipe identifica necessidade de revisão do
+plano de cuidado com participação da nutrição e da saúde bucal.
+Considerando os princípios da APS, a organização do processo de trabalho em saúde e o
+manejo longitudinal das condições crônicas, assinale a alternativa mais adequada.
+Alternativas:
+(alternativa A)
+Revisar o plano terapêutico com encaminhamentos específicos, organizar
+acompanhamento compartilhado e priorizar monitoramento clínico centrado nas
+intercorrências agudas.
+(alternativa B)
+Reavaliar as metas assistenciais do cuidado, ampliar apoio matricial multiprofissional e
+organizar seguimento compartilhado sob coordenação prioritária da atenção
+especializada.
+(alternativa C)
+Reavaliar o manejo clínico das condições crônicas, ampliar acompanhamento
+especializado e reorganizar retornos conforme procura espontânea do usuário.
+(alternativa D) (CORRETA)
+Revisar o plano de cuidado de forma multiprofissional, pactuar metas terapêuticas e
+organizar acompanhamento longitudinal coordenado pela equipe de referência.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 16 de 76
+
+Resposta comentada:
+Alternativa: Revisar o plano de cuidado de forma multiprofissional, pactuar metas
+terapêuticas e organizar acompanhamento longitudinal coordenado pela equipe de
+referência. — Correta
+A APS deve coordenar o cuidado longitudinal das condições crônicas por meio da atuação
+da equipe de referência, organização multiprofissional do processo de trabalho e
+pactuação de metas terapêuticas compartilhadas com o usuário.
+A revisão do plano de cuidado com integração entre equipe médica, enfermagem,
+nutrição e saúde bucal favorece continuidade assistencial, integralidade do cuidado e
+maior adesão ao tratamento.
+Alternativa — Incorreta: Revisar o plano terapêutico com encaminhamentos específicos,
+organizar acompanhamento compartilhado e priorizar monitoramento clínico centrado
+nas intercorrências agudas.
+Embora os encaminhamentos específicos e o acompanhamento compartilhado possam
+integrar o cuidado das condições crônicas, a priorização do monitoramento centrado em
+intercorrências agudas enfraquece a lógica longitudinal e preventiva da APS.
+Alternativa — Incorreta: Reavaliar o manejo clínico das condições crônicas, ampliar
+acompanhamento especializado e reorganizar retornos conforme procura espontânea do
+usuário.
+A ampliação do acompanhamento especializado pode ser necessária em situações
+específicas, porém a organização dos retornos baseada predominantemente na demanda
+espontânea compromete a continuidade do cuidado e o seguimento programado das
+condições crônicas.
+Alternativa — Incorreta: Reavaliar as metas assistenciais do cuidado, ampliar apoio
+matricial multiprofissional e organizar seguimento compartilhado sob coordenação
+prioritária da atenção especializada.
+O apoio matricial multiprofissional pode contribuir para qualificação do cuidado na APS;
+entretanto, a coordenação longitudinal do caso permanece responsabilidade da equipe
+de referência da Atenção Primária à Saúde.
+Referências:
+BRASIL. Ministério da Saúde.
+Portaria nº 2.436, de 21 de setembro de 2017. Aprova a Política Nacional de Atenção
+Básica (PNAB). Brasília: Ministério da Saúde, 2017.
+BRASIL. Ministério da Saúde.
+Caderno de Atenção Básica: estratégias para o cuidado da pessoa com doença crônica.
+Brasília: Ministério da Saúde, 2014.
+CAMPOS, Gastão Wagner de Sousa; DOMITTI, Ana Carla.
+Apoio matricial e equipe de referência: uma metodologia para gestão do trabalho
+interdisciplinar em saúde. Cadernos de Saúde Pública, Rio de Janeiro, v. 23, n. 2, p. 399407, 2007.
+GUSSO, Gustavo; LOPES, José Mauro Ceratti.
+Tratado de medicina de família e comunidade: princípios, formação e prática. 2. ed. Porto
+Alegre: ArtMed, 2019.
+Feedback:
+-11ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 17 de 76
+
+Enunciado:
+(AFYA IPATINGA) Adolescente vítima de trauma torácico contuso em colisão
+automobilística chega ao pronto-socorro com rebaixamento do nível de consciência
+(Escala de Coma Glasgow = 10), taquipneia, taquicardia (FC 132 bpm) e PA 80×50
+mmHg, extremidades frias e tempo de enchimento capilar superior a 3 segundos.
+Encontra-se em ventilação espontânea com SpO₂ 94% em máscara não reinalante. No
+exame físico: murmúrio vesicular presente e simétrico em ambos os hemitórax, sem
+tiragem importante; sem enfisema subcutâneo palpável; bulhas cardíacas hipofonéticas;
+turgência jugular importante em posição semissentada; abdome sem distensão e sem dor
+à palpação; pelve estável; não há sangramento externo ativo. O monitor mostra
+taquicardia sinusal e não há desvio de traqueia à inspeção do pescoço. A radiografia de
+tórax (Rx) portátil é solicitada, mas ainda não foi realizada. À beira-leito, o FAST estendido
+demonstra grande quantidade de líquido anecoico circundando o coração, sem líquido
+livre em cavidade abdominal.
+Analise o caso proposto e identifique a conduta imediata a ser instituída para este
+paciente.
+Alternativas:
+(alternativa A)
+Realizar descompressão com agulha no 2º espaço intercostal na linha hemiclavicular
+direita, seguida de drenagem torácica em selo d’água.
+(alternativa B)
+Iniciar reposição volêmica vigorosa com cristaloides até normalização da pressão arterial,
+observar evolução e aguardar Rx para decisão cirúrgica.
+(alternativa C) (CORRETA)
+Proceder à pericardiocentese guiada pelo FAST como medida temporizadora, seguida de
+encaminhamento imediato para cirurgia definitiva.
+(alternativa D)
+Intubar o paciente e instituir ventilação com pressão positiva, pois o quadro é mais
+compatível com contusão pulmonar grave bilateral.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 18 de 76
+
+Resposta comentada:
+Resposta correta: "Proceder à pericardiocentese guiada pelo FAST como medida
+temporizadora, seguida de encaminhamento imediato para cirurgia definitiva."
+Comentários:
+O quadro clínico descreve choque obstrutivo com hipotensão, turgência jugular
+importante e bulhas hipofonéticas, compondo o quadro clássico de tamponamento
+cardíaco (tríade de Beck), em contexto de trauma torácico, reforçado pelo achado de
+grande derrame pericárdico ao FAST, sem pneumotórax ou hemotórax maciços e sem
+sangramento externo importante. Na abordagem do trauma, o ATLS 11 destaca o
+tamponamento cardíaco entre as causas torácicas imediatamente ameaçadoras à vida,
+recomendando o uso de ultrassom (e-FAST) para rápida identificação de líquido
+pericárdico como causa de choque. Diante de tamponamento traumático com
+instabilidade hemodinâmica, a drenagem pericárdica emergencial é considerada medida
+temporizadora até a correção definitiva da lesão cardíaca, e pode ser realizada por
+pericardiocentese guiada por ultrassom. Assim, a alternativa "Proceder à
+pericardiocentese guiada pelo FAST como medida temporizadora, seguida de
+encaminhamento imediato para cirurgia definitiva." traduz a conduta imediata adequada
+nesse cenário, alinhada ao princípio do ATLS de reconhecimento rápido da causa de
+choque e intervenção imediata para reversão da obstrução ao enchimento cardíaco.
+A alternativa "Realizar descompressão com agulha no 2º espaço intercostal na linha
+hemiclavicular direita, seguida de drenagem torácica em selo d’água." está relacionada
+ao tratamento de pneumotórax hipertensivo, o qual cursaria com murmúrio vesicular
+abolido ou reduzido em um hemitórax, possível desvio traqueal e melhora imediata após
+a descompressão, achados ausentes no enunciado.
+A alternativa "Iniciar reposição volêmica vigorosa com cristaloides até normalização da
+pressão arterial, observar evolução e aguardar Rx para decisão cirúrgica." é inadequada
+porque o paciente apresenta choque obstrutivo, no qual a reposição volêmica isolada não
+corrige a causa primária (compressão cardíaca), podendo atrasar intervenção definitiva e
+piorar o prognóstico.
+A alternativa "Intubar o paciente e instituir ventilação com pressão positiva, pois o quadro
+é mais compatível com contusão pulmonar grave bilateral." não é apropriada, porque
+contusão pulmonar grave tenderia a cursar com hipoxemia mais acentuada, alterações
+auscultatórias pulmonares e ausência de turgência jugular importante, além de o FAST já
+ter identificado tamponamento como causa provável do choque.
+Referência:
+AMERICAN COLLEGE OF SURGEONS. Committee on Trauma. Advanced Trauma Life
+Support (ATLS®): Student Course Manual. 11th ed. Chicago: American College of
+Surgeons, 2025.
+Feedback:
+-12ª QUESTÃO
+Enunciado:
+(AFYA PATO BRANCO) Uma mulher de 27 anos, com histórico prévio de depressão, é
+trazida pela família ao atendimento com quadro em evolução há 10 dias de humor
+elevado e irritabilidade. Ela tem a fala acelerada e conta que não tem dormido muito,
+pois está trabalhando em projetos importantes que mudarão sua carreira, após ter sido
+demitida de seu trabalho formal por ter entrado em conflito com o chefe. A família que a
+acompanha está preocupada, pois a paciente fez compras de valores consideráveis para
+o suposto projeto e teme dívidas financeiras. Não há relato de consumo de substâncias
+psicoativas. Com base no quadro clínico, assinale a alternativa que melhor define a
+interpretação do quadro e da conduta.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 19 de 76
+
+Alternativas:
+(alternativa A)
+Trata-se de quadro depressivo maior, com episódio moderado a grave, com presença de
+sintomas psicóticos. Indica-se tratamento com antipsicóticos e inibidores seletivos da
+recaptação da serotonina.
+(alternativa B)
+Trata-se de humor estável, com quadro depressivo em remissão. Paciente poderá
+receber alta.
+(alternativa C) (CORRETA)
+Trata-se de transtorno bipolar tipo I, com episódio maníaco, com delírios de grandeza e
+prejuízo funcional/social. Indica-se tratamento para controlar a agitação e uso de
+estabilizadores de humor.
+(alternativa D)
+Trata-se de transtorno bipolar tipo II, com episódio atual de hipomania. Podem ser
+indicados benzodiazepínicos para controle da irritabilidade em monoterapia.
+
+Resposta comentada:
+- Trata-se de humor estável, com quadro depressivo em remissão. Paciente poderá
+receber alta.
+Incorreta: há clara polaridade de humor, com evidência de prejuízo funcional e social
+para a paciente.
+- Trata-se de quadro depressivo maior, com episódio moderado a grave, com presença de
+sintomas psicóticos. Indica-se tratamento com antipsicóticos e inibidores seletivos da
+receptação da serotonina.
+Incorreta: trata-se de transtorno bipolar, com episódio maníaco. O humor está elevado e
+há potenciais delírios de grandeza.
+- Trata-se de transtorno bipolar tipo I, com episódio maníaco, com delírios de grandeza e
+prejuízo funcional/social. Indica-se tratamento para controlar a agitação e uso de
+estabilizadores de humor.
+Correta.
+- Trata-se de transtorno bipolar tipo II, com episódio atual de hipomania. Podem ser
+indicados benzodiazepínicos para controle da irritabilidade em monoterapia.
+Incorreta: pela intensidade dos sintomas, considera-se episódio maníaco. O uso de
+benzodiazepínicos pode ser considerado para controlar agitação e irritabilidade, mas
+deve ser associado ao uso de estabilizadores de humor e antipsicóticos.
+Referência:
+SADOCK, Benjamin J.; SADOCK, Virginia A.; RUIZ, Pedro. Compêndio de psiquiatria:
+ciência do comportamento e psiquiatria clínica. 11. ed. Porto Alegre: Artmed, 2017.
+Feedback:
+-13ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Um homem de 32 anos é admitido na sala de emergência após colisão
+automobilística de alta energia. Na avaliação primária, encontra-se taquicárdico,
+hipotenso e com murmúrio vesicular abolido à esquerda. É realizada toracostomia de
+emergência com drenagem de grande quantidade de sangue. Após estabilização inicial,
+na avaliação secundária, persiste drenagem superior a 1500 mL de sangue pelo dreno
+torácico, sendo indicada toracotomia de urgência por suspeita de lesão vascular
+pulmonar. Apesar da intervenção cirúrgica, o paciente evoluiu a óbito no intraoperatório.
+Considerando o correto preenchimento do atestado de óbito, assinale a alternativa que
+apresenta a sequência adequada da cadeia de eventos que levou ao óbito.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 20 de 76
+
+Alternativas:
+(alternativa A)
+a) Hemorragia interna; b) Parada cardiorrespiratória; c) Acidente automobilístico.
+(alternativa B)
+a) Parada cardiorrespiratória; b) Choque hemorrágico; c) Lesão pulmonar.
+(alternativa C)
+a) Choque hemorrágico; b) Trauma torácico; c) Toracotomia de urgência.
+(alternativa D) (CORRETA)
+a) Choque hipovolêmico; b) Hemotórax maciço; c) Trauma torácico fechado.
+
+Resposta comentada:
+a) Choque hipovolêmico; b) Hemotórax maciço; c) Trauma torácico fechado - correta: A
+sequência apresentada está adequada ao preenchimento do atestado de óbito, pois
+respeita a lógica cronológica e fisiopatológica da cadeia causal. O choque hipovolêmico
+representa a causa imediata do óbito, decorrente do hemotórax maciço, que foi
+consequência direta do trauma torácico fechado sofrido no acidente automobilístico. O
+encadeamento entre causa imediata, causa intermediária e causa básica está
+corretamente organizado.
+a) Parada cardiorrespiratória; b) Choque hemorrágico; c) Lesão pulmonar - incorreta: A
+alternativa utiliza “parada cardiorrespiratória” como parte da cadeia causal do óbito. Esse
+termo não deve ser empregado no atestado de óbito por representar apenas o
+mecanismo terminal da morte, comum a praticamente todos os óbitos, sem identificar a
+doença ou lesão responsável. Além disso, “lesão pulmonar” é uma descrição inespecífica
+e não traduz adequadamente a principal condição clínica envolvida no caso.
+a) Hemorragia interna; b) Parada cardiorrespiratória; c) Acidente automobilístico –
+incorreta: A sequência causal está inadequada e fisiopatologicamente incoerente.
+“Parada cardiorrespiratória” novamente aparece de maneira incorreta como causa
+intermediária, além de haver utilização de termo genérico (“hemorragia interna”), sem
+especificação da lesão traumática responsável pelo sangramento. O preenchimento do
+atestado de óbito deve priorizar diagnósticos específicos e relacionados causalmente.
+a) Choque hemorrágico; b) Trauma torácico; c) Toracotomia de urgência – incorreta: A
+alternativa inclui “toracotomia de urgência” na cadeia causal do óbito. Procedimentos
+terapêuticos realizados na tentativa de salvar o paciente não devem ser registrados
+como causa de morte, exceto quando houver evidência de complicação diretamente
+atribuída ao procedimento, o que não ocorre no caso apresentado. Além disso, a
+sequência não explicita adequadamente a lesão torácica específica responsável pelo
+choque hemorrágico.
+Referências:
+Ministério da Saúde – Manual de Instruções para o Preenchimento da Declaração de
+Óbito. Brasília: Ministério da Saúde, 2022/2023. Documento oficial utilizado como
+principal referência para o correto preenchimento do atestado/declaração de óbito no
+Brasil.
+Advanced Trauma Life Support (ATLS®) – American College of Surgeons. Chicago:
+American College of Surgeons. Referência internacional para abordagem sistematizada
+do trauma, incluindo manejo do trauma torácico e hemotórax maciço.
+Manual “Declaração de Óbito: documento necessário e importante” – Ministério da
+Saúde/CFM. Brasília: Ministério da Saúde.
+Feedback:
+-14ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 21 de 76
+
+Enunciado:
+(AFYA ITAJUBÁ) Mãe leva seu filho de 6 anos ao ambulatório, relatando o aparecimento de
+um “caroço” no pescoço há cerca de 10 dias. A criança não apresenta febre, perda de
+peso nem sudorese noturna. Ao exame físico, nota-se linfonodo cervical posterior de 1,5
+cm, móvel, elástico e não doloroso, sem sinais flogísticos locais. O restante do exame é
+normal. Com base nesse caso, qual é a hipótese diagnóstica mais provável e a conduta
+inicial adequada?
+Alternativas:
+(alternativa A)
+Linfonodomegalia tuberculosa, exigindo início imediato de tratamento específico sem
+necessidade de exames confirmatórios.
+(alternativa B)
+Linfoma, indicando investigação imediata com biópsia excisional e encaminhamento
+urgente à oncologia pediátrica.
+(alternativa C) (CORRETA)
+Linfadenopatia reacional, com conduta expectante e reavaliação clínica em quatro a seis
+semanas.
+(alternativa D)
+Abscesso cervical, devendo ser iniciado antibiótico empírico e programada drenagem
+cirúrgica precoce.
+
+Resposta comentada:
+Alternativa: Linfadenopatia reacional, com conduta expectante e reavaliação clínica em
+quatro a seis semanas.
+Comentário: Essa conduta está correta. Adenomegalias pequenas, móveis e indolores em
+crianças geralmente são reacionais a infecções virais ou bacterianas recentes. O
+acompanhamento clínico é suficiente, salvo se houver crescimento progressivo ou
+sintomas sistêmicos.
+Alternativa: Linfoma, indicando investigação imediata com biópsia excisional e
+encaminhamento urgente à oncologia pediátrica.
+Comentário: Conduta incorreta. Apesar de o linfoma poder se manifestar como linfonodo
+cervical, a ausência de sintomas sistêmicos, consistência elástica e curta duração tornam
+essa hipótese menos provável no momento inicial.
+Alternativa: Abscesso cervical, devendo ser iniciado antibiótico empírico e programada
+drenagem cirúrgica precoce.
+Comentário: Conduta inadequada. O abscesso apresenta dor intensa, calor, rubor e
+flutuação — sinais ausentes no caso descrito. Não há indicação de drenagem ou
+antibiótico imediato.
+Alternativa: Linfonodomegalia tuberculosa, exigindo início imediato de tratamento
+específico sem necessidade de exames confirmatórios.
+Comentário: Conduta incorreta. A tuberculose ganglionar tem curso crônico, linfonodos
+endurecidos e aderidos a planos profundos. O diagnóstico deve ser confirmado com PPD,
+imagem ou biópsia, antes de iniciar terapia específica.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. Ebook. p.v2-598. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 19
+out. 2025.
+Feedback:
+-15ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 22 de 76
+
+Enunciado:
+(AFYA ITABUNA) Paciente masculino, 35 anos, vítima de explosão em ambiente fechado,
+é admitido na sala de emergência com queimaduras extensas em face, tórax anterior e
+membros superiores. Apresenta rouquidão, presença de fuligem em cavidade oral e
+sinais de desconforto respiratório. Na avaliação inicial, encontra-se taquicárdico (FC 120
+bpm), PA 100x60 mmHg, FR 26 irpm e saturação de 92% em ar ambiente.
+Após início do atendimento conforme protocolo sistematizado ao trauma, a equipe
+identifica queimaduras envolvendo cerca de 35% da superfície corporal e suspeita de
+lesão inalatória. Durante a estabilização, um familiar chega à unidade e solicita
+informações sobre o estado do paciente.
+O médico responsável orienta o interno a realizar a comunicação da situação clínica.
+Assinale a alternativa que apresenta a conduta mais adequada, considerando o manejo
+inicial do paciente e os princípios de comunicação de más notícias.
+Alternativas:
+(alternativa A)
+Postergar a reposição volêmica até confirmação completa da extensão das queimaduras
+e evitar comunicação inicial para não gerar ansiedade no familiar.
+(alternativa B)
+Informar diretamente ao familiar a gravidade do quadro, utilizando linguagem técnica
+detalhada, sem necessidade de avaliar o nível de compreensão.
+(alternativa C)
+Priorizar a realização de curativos nas queimaduras antes da avaliação da via aérea e
+comunicar ao familiar apenas após conclusão de todo o atendimento.
+(alternativa D) (CORRETA)
+Garantir via aérea precoce diante da suspeita de lesão inalatória e realizar comunicação
+estruturada, avaliando a compreensão do familiar e fornecendo informações progressivas
+com suporte emocional.
+
+Resposta comentada:
+O paciente apresenta critérios de gravidade (queimadura extensa + suspeita de lesão
+inalatória), sendo prioritária a abordagem ABCDE, com ênfase em proteção precoce da
+via aérea.
+A comunicação de más notícias deve seguir modelo estruturado (ex.: SPIKES), incluindo
+avaliação da percepção do familiar, linguagem clara e suporte emocional.
+As demais alternativas apresentam falhas graves no manejo inicial e/ou na comunicação
+médico-paciente.
+Referências:
+AMERICAN COLLEGE OF SURGEONS. ATLS: Advanced Trauma Life Support – Student
+Course Manual. 10. ed. Chicago: ACS, 2018.
+NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS. PHTLS: Prehospital
+Trauma Life Support . 11. ed. Burlington: Jones & Bartlett Learning, 2023.
+AMERICAN BURN ASSOCIATION. Guidelines for the management of burn injuries . Journal of
+Burn Care & Research, atualizações recentes.
+BAILE, W. F. et al. SPIKES—A Six-Step Protocol for Delivering Bad News . The Oncologist,
+2000.
+HAJJAR, Ludhmila A. Medicina de Emergência: abordagem prática . 18. ed. Barueri:
+Manole, 2024.
+MAIA, Ian Ward A. et al. Tratado de Medicina de Emergência Abramede . Barueri: Manole,
+2025.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 23 de 76
+
+Feedback:
+-16ª QUESTÃO
+Enunciado:
+(AFYA PARNAÍBA) Mulher de 29 anos procura atendimento ambulatorial relatando crises
+súbitas de intensa ansiedade há cerca de 4 meses. Refere episódios de palpitações,
+sudorese, tremores, sensação de falta de ar, medo de morrer e de “perder o controle”,
+com duração aproximada de 15 a 20 minutos. Após os episódios, permanece apreensiva,
+com medo de novas crises, passando a evitar sair sozinha de casa. Nega uso de
+substâncias. Exames clínicos e laboratoriais prévios sem alterações.
+Pensando na principal hipótese diagnóstica, qual é a conduta terapêutica mais adequada
+para o manejo inicial?
+Alternativas:
+(alternativa A)
+Prescrever benzodiazepínico em uso contínuo como monoterapia de longo prazo.
+(alternativa B)
+Prescrever antipsicótico atípico como tratamento de primeira linha.
+(alternativa C) (CORRETA)
+Iniciar inibidor seletivo da recaptação de serotonina (ISRS) associado à psicoterapia
+cognitivo-comportamental.
+(alternativa D)
+Orientar apenas medidas comportamentais, sem necessidade de farmacoterapia.
+
+Resposta comentada:
+Incorreta. Benzodiazepínicos podem ser utilizados de forma adjunta e por curto prazo
+para controle inicial dos sintomas, mas não são recomendados como monoterapia
+prolongada devido ao risco de dependência, tolerância e prejuízo cognitivo. Não tratam
+adequadamente a ansiedade antecipatória.
+Correta. O tratamento de primeira linha para Transtorno do Pânico inclui: ISRS (ex.:
+sertralina, escitalopram, fluoxetina); Terapia Cognitivo-Comportamental (TCC). A
+combinação de farmacoterapia e TCC apresenta melhor resposta clínica, especialmente
+na redução de recaídas e no manejo da evitação agorafóbica.
+Incorreta. Antipsicóticos não são tratamento de primeira linha para transtorno do pânico.
+Podem ser considerados apenas em casos específicos e refratários, como estratégia
+adjuvante.
+Incorreta. Embora intervenções psicoterápicas sejam fundamentais, pacientes com
+sintomas moderados a graves e prejuízo funcional significativo se beneficiam do uso de
+ISRS. A conduta isolada pode ser insuficiente neste caso.
+Referência:
+Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision,
+American Psychiatric Association. Arlington, VA: APA; 2022.
+Feedback:
+-17ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 24 de 76
+
+Enunciado:
+(AFYA PORTO NACIONAL) Homem, 29 anos, procura UBS com relato de dor lombar há 10
+meses, início insidioso, piora no repouso, melhora com exercício, rigidez matinal ~60 min
+e dor glútea alternante. Teve episódio de uveíte há 1 ano. Exame: limitação de flexão
+lombar e dor à compressão sacroilíaca.
+Exames: PCR 18 mg/L; VHS 42 mm/h; HLA-B27 positivo. RX de sacroilíacas sem
+alterações conclusivas. RM de sacroilíacas: edema ósseo subcondral compatível com
+sacroiliíte ativa.
+Qual alternativa traz o diagnóstico mais provável e a conduta inicial mais adequada
+(incluindo quando escalar tratamento)?
+
+Alternativas:
+(alternativa A)
+Hérnia discal; solicitar TC lombar e iniciar corticoide sistêmico prolongado; manter
+opioide se dor intensa; dispensar investigação inflamatória; considerar infiltração como
+primeira linha antes de AINE e exercício.
+(alternativa B) (CORRETA)
+Axial espondiloartrite/espondilite anquilosante; iniciar AINE em dose plena e
+exercício/fisioterapia; reavaliar atividade; se falha a ≥2 AINEs, encaminhar para bDMARD
+(TNFi ou IL-17i) após triagens.
+(alternativa C)
+Fibromialgia; iniciar antidepressivo e higiene do sono; solicitar apenas hemograma e TSH;
+evitar imagem; não usar AINE; uveíte é achado independente; não há relação com dor
+lombar inflamatória.
+(alternativa D)
+Lombalgia mecânica; orientar repouso relativo e analgésico simples; pedir nova RM em 6
+meses; evitar AINE contínuo; não há indicação de reabilitação estruturada nem avaliação
+reumatológica inicial.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 25 de 76
+
+Resposta comentada:
+Correta: O padrão de dor lombar inflamatória + uveíte + HLA-B27 + RM com sacroiliíte
+ativa sustenta o diagnóstico de espondiloartrite axial (inclui a forma radiográfica,
+tradicionalmente chamada espondilite anquilosante). A conduta recomendada inicia com
+medidas não farmacológicas (exercício/physio) e AINEs; se persistir alta atividade apesar
+de tratamento convencional (incluindo tentativa adequada de AINEs), indica-se escalar
+para biológicos (TNFi, IL-17i; e, em cenários selecionados, outras terapias-alvo) com
+avaliação especializada e triagens prévias.
+Incorreta: Repouso e “analgésico simples” como núcleo do manejo contrariam a lógica da
+dor inflamatória, que melhora com atividade. Além disso, postergar conduta ativa e
+“esperar nova RM” tende a atrasar controle de doença e prevenção de incapacidade
+funcional.
+
+Incorreta: O quadro não é típico de hérnia discal (não há dor radicular/neurológica como
+eixo do caso) e corticoide sistêmico prolongado não é tratamento de rotina para
+envolvimento axial, além de não substituir o plano escalonado (AINE + reabilitação →
+biológico se refratário).
+
+Incorreta: Fibromialgia não explica sacroiliíte ativa na RM, PCR elevada e a associação
+com uveíte. Tratar como condição funcional isolada perderia o diagnóstico sindrômico e
+atrasaria terapia modificadora do curso em caso refratário.
+
+Referências:
+Ramiro S, et al. ASAS-EULAR recommendations for the management of axial
+spondyloarthritis: 2022 update. Annals of the Rheumatic Diseases. 2023.
+Zhao SS, et al. The 2025 British Society for Rheumatology guideline for the management
+of axial spondyloarthritis. Rheumatology (Oxford). 2025.
+Proft F, et al. Treatment strategies for spondyloarthritis: implementation and updates.
+2024.
+Feedback:
+
+18ª QUESTÃO
+Enunciado:
+(AFYA BRAGANÇA) Um homem de 34 anos procura uma Unidade de Saúde da Família
+relatando uso abusivo de álcool e crack há aproximadamente cinco anos, associado a
+conflitos familiares, isolamento social e dificuldade de manutenção do vínculo
+empregatício. Refere desejo de interromper o uso das substâncias, porém relata recaídas
+frequentes após tentativas anteriores. Durante o atendimento, a equipe multiprofissional
+realiza acolhimento, escuta qualificada e inicia a construção de um Projeto Terapêutico
+Singular (PTS), articulando seguimento compartilhado com o CAPS AD de referência. Em
+reunião de equipe, discute-se também a importância do Conselho Municipal de Saúde na
+formulação e acompanhamento das ações voltadas à saúde mental e ao cuidado de
+usuários de álcool e outras drogas. À luz dos princípios do Sistema Único de Saúde (SUS),
+da Rede de Atenção Psicossocial (RAPS) e da Política Nacional de Saúde Mental, assinale
+a alternativa correta.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 26 de 76
+
+Alternativas:
+(alternativa A)
+A condução terapêutica do usuário com dependência química deve priorizar
+exclusivamente a abstinência completa, não sendo recomendadas estratégias de
+redução de danos nos serviços territoriais.
+(alternativa B)
+O manejo de usuários com dependência química deve ocorrer preferencialmente em
+ambiente hospitalar fechado, sendo a Atenção Primária responsável apenas pela
+identificação e encaminhamento dos casos.
+(alternativa C) (CORRETA)
+O cuidado ao usuário deve ser desenvolvido de forma compartilhada entre os pontos da
+RAPS, incluindo estratégias de redução de danos, construção do PTS, atuação
+interdisciplinar e participação do controle social.
+(alternativa D)
+Os Conselhos de Saúde exercem função exclusivamente consultiva no SUS, não
+participando dos processos de planejamento, monitoramento e avaliação das ações em
+saúde mental.
+
+Resposta comentada:
+A alternativa correta - o cuidado ao usuário deve ser desenvolvido de forma
+compartilhada entre os pontos da RAPS, incluindo estratégias de redução de danos,
+construção do PTS, atuação interdisciplinar e participação do controle social — contempla
+os princípios organizativos da RAPS e do SUS, valorizando cuidado longitudinal, territorial,
+interdisciplinar e centrado na singularidade do usuário. A Atenção Primária integra o
+cuidado em saúde mental, atuando em conjunto com serviços especializados, como o
+CAPS AD. Além disso, estratégias de redução de danos são reconhecidas nas políticas
+públicas brasileiras, e os Conselhos de Saúde exercem papel deliberativo e de controle
+social no SUS.
+
+Referêncisas:
+Ministério da Saúde do Brasil. Saúde Mental no SUS: Os Centros de Atenção Psicossocial
+(CAPS). Brasília: Ministério da Saúde, 2004.
+Ministério da Saúde do Brasil. Portaria nº 3.088, de 23 de dezembro de 2011 – Institui a
+Rede de Atenção Psicossocial (RAPS).
+Feedback:
+-19ª QUESTÃO
+Enunciado:
+(AFYA ARAGUAÍNA) Um recém-nascido com 38 semanas de idade gestacional, parto
+vaginal sem intercorrências, peso adequado para a idade gestacional, encontra-se com
+30 horas de vida em aleitamento materno exclusivo. Apresenta icterícia visível até a
+região torácica. A bilirrubina total sérica é de 10 mg/dL. A mãe é grupo sanguíneo O, Rh
+positivo, e o recém-nascido, A, Rh positivo, com teste de Coombs direto positivo. O
+lactente apresenta boa sucção, diurese presente e perda ponderal de 4% em relação ao
+peso ao nascer.
+Com base na idade em horas, no valor da bilirrubina e na presença de hemólise imune,
+assinale a alternativa que interpreta corretamente o risco clínico e orienta a conduta
+quanto à alta hospitalar.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 27 de 76
+
+Alternativas:
+(alternativa A)
+Considerar que recém-nascidos a termo com esse valor de bilirrubina às 30 horas
+apresentam risco intermediário, mesmo na presença de incompatibilidade sanguínea.
+(alternativa B) (CORRETA)
+Reconhecer incompatibilidade ABO com Coombs positivo como fator de risco e realizar
+estratificação clínica conforme idade em horas.
+(alternativa C)
+Interpretar que a classificação do risco depende da bilirrubina associada à idade pósnatal, atribuindo menor peso aos fatores clínicos envolvidos.
+(alternativa D)
+Valorizar o nível sérico da bilirrubina como critério principal para alta, utilizando a idade
+pós-natal como parâmetro complementar da avaliação.
+
+Resposta comentada:
+A alternativa “Reconhecer incompatibilidade ABO com Coombs positivo como fator de
+risco e realizar estratificação clínica conforme idade em horas” está correta, pois a
+incompatibilidade ABO associada ao teste de Coombs direto positivo indica hemólise
+imune neonatal, condição que eleva o risco de hiperbilirrubinemia significativa. A
+interpretação adequada da bilirrubina total deve ser realizada com base na idade pósnatal em horas, utilizando o nomograma de Bhutani para estratificação do risco. A
+decisão quanto à alta hospitalar requer integração entre valor da bilirrubina, idade em
+horas e fatores clínicos associados.
+A alternativa “Valorizar o nível sérico da bilirrubina como critério principal para alta,
+utilizando a idade pós-natal como parâmetro complementar da avaliação” está incorreta,
+pois a idade em horas constitui variável central na aplicação do nomograma, não sendo
+elemento secundário. A avaliação isolada do valor absoluto da bilirrubina pode levar a
+interpretação inadequada do risco.
+A alternativa “Considerar que recém-nascidos a termo com esse valor de bilirrubina às 30
+horas apresentam risco intermediário, mesmo na presença de incompatibilidade
+sanguínea” está incorreta, pois a presença de hemólise imune modifica a estratificação e
+exige vigilância mais rigorosa, independentemente da idade gestacional adequada.
+A alternativa “Interpretar que a classificação do risco depende da bilirrubina associada à
+idade pós-natal, atribuindo menor peso aos fatores clínicos envolvidos” está incorreta,
+pois fatores como incompatibilidade sanguínea e Coombs positivo influenciam
+diretamente a conduta e o planejamento da alta hospitalar.
+A alta hospitalar segura deve considerar variáveis laboratoriais e clínicas de forma
+integrada, conforme recomendações atualizadas da American Academy of Pediatrics.
+Referências:
+AMERICAN ACADEMY OF PEDIATRICS. Clinical Practice Guideline: Management of
+Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation. Pediatrics,
+Itasca, v. 150, n. 3, 2022. Disponível em: https://pubmed.ncbi.nlm.nih.gov/35927462/.
+BHUTANI, V. K. et al. Predischarge screening for severe neonatal hyperbilirubinemia
+identifies infants who need phototherapy. The Journal of Pediatrics, St. Louis, v. 138, n. 3,
+p. 387-395, 2001. Disponível em: https://pubmed.ncbi.nlm.nih.gov/11241044/.
+BRASIL. Ministério da Saúde. Atenção à saúde do recém-nascido: guia para os
+profissionais de saúde. Brasília: Ministério da Saúde, 2014. Disponível em:
+https://bvsms.saude.gov.br.
+NELSON, W. E. et al. Nelson Textbook of Pediatrics. 21. ed. Philadelphia: Elsevier, 2020.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 28 de 76
+
+Feedback:
+A resolução mobiliza integração entre fisiopatologia da hemólise imune neonatal e
+aplicação prática do nomograma horário de Bhutani para estratificação de risco. Exige
+análise simultânea do valor da bilirrubina, idade pós-natal e presença de fatores
+modificadores, como incompatibilidade ABO e Coombs positivo. Avalia capacidade de
+julgamento clínico na definição de alta hospitalar, com base em diretrizes
+contemporâneas e raciocínio crítico. O item posiciona-se no nível Analisar/Avaliar da
+Taxonomia de Bloom, pois requer interpretação contextualizada e tomada de decisão
+fundamentada.
+20ª QUESTÃO
+Enunciado:
+(AFYA PATO BRANCO) Uma paciente de 24 anos, G2P0A1, com idade gestacional
+estimada de 7 semanas pela data da última menstruação, procura a Unidade Básica de
+Saúde com queixa de sangramento vaginal há 3 dias, inicialmente em pequena
+quantidade, evoluindo para moderado, com odor fétido. Refere dor hipogástrica intensa,
+contínua, associada a febre não aferida e mal-estar geral. Relata que há 5 dias
+apresentou eliminação de coágulos e fragmentos esbranquiçados pela vagina, mas não
+procurou atendimento.
+No exame físico:
+Estado geral comprometido, prostrada.
+PA: 90x60 mmHg.
+FC: 118 bpm.
+Temperatura: 38,9°C.
+Abdome doloroso à palpação profunda em hipogástrio.
+Toque vaginal: colo uterino entreaberto, amolecido, saída de secreção sanguinolenta com
+odor fétido, dor à mobilização do colo.
+Exames laboratoriais:
+Leucócitos: 18.500/mm³ com desvio à esquerda.
+Ultrassonografia transvaginal: cavidade uterina com imagens heterogêneas compatíveis
+com restos ovulares.
+Assinale a alternativa correta que indica qual o diagnóstico mais provável e a conduta
+adequada.
+Alternativas:
+(alternativa A)
+Doença inflamatória pélvica; antibioticoterapia oral e reavaliação em 48 horas.
+(alternativa B)
+Gravidez ectópica rota; laparotomia de urgência.
+(alternativa C)
+Abortamento incompleto; conduta expectante com analgesia e acompanhamento
+ambulatorial.
+(alternativa D) (CORRETA)
+Aborto infectado; internação hospitalar imediata, antibioticoterapia intravenosa e
+esvaziamento uterino após estabilização clínica.
+
+Resposta comentada:
+Incorreta: Abortamento incompleto; conduta expectante com analgesia e
+acompanhamento ambulatorial.
+Embora exista abortamento incompleto (colo aberto + restos ovulares), o quadro não é
+simples.
+Há sinais claros de infecção sistêmica:
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 29 de 76
+
+Febre alta.
+Odor fétido.
+Leucocitose importante.
+Hipotensão e taquicardia.
+Prostração.
+Conduta expectante é indicada apenas quando:
+Paciente está hemodinamicamente estável.
+Sem sinais de infecção.
+Sem repercussão sistêmica.
+Aqui há risco de sepse → conduta ambulatorial seria grave erro.
+Incorreta: Gravidez ectópica rota; laparotomia de urgência.
+Gravidez ectópica rota geralmente apresenta:
+Dor abdominal súbita e intensa.
+Sinais de irritação peritoneal.
+Possível líquido livre na cavidade abdominal.
+USG sem conteúdo intrauterino.
+Neste caso:
+Há restos ovulares intrauterinos.
+Colo está entreaberto.
+História de eliminação de fragmentos.
+Quadro infeccioso evidente.
+O achado ultrassonográfico praticamente exclui gravidez ectópica rota.
+Incorreta: Doença inflamatória pélvica; antibioticoterapia oral e reavaliação em 48 horas.
+Apesar de haver:
+Febre.
+Dor à mobilização do colo.
+O contexto clínico é diferente de DIP clássica.
+Aqui temos:
+Gestação de 7 semanas.
+Eliminação prévia de restos ovulares.
+Colo entreaberto.
+Restos intrauterinos à USG.
+Secreção fétida.
+Instabilidade hemodinâmica.
+Isso caracteriza infecção associada a abortamento, não DIP primária.
+Além disso, a paciente está instável → antibioticoterapia oral ambulatorial é
+absolutamente inadequada.
+Correta: Aborto infectado; internação hospitalar imediata, antibioticoterapia intravenosa e
+esvaziamento uterino após estabilização clínica.
+A paciente apresenta todos os critérios clássicos de aborto infectado (aborto séptico):
+Sangramento vaginal com odor fétido.
+Febre alta (38,9°C).
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 30 de 76
+
+Dor hipogástrica intensa.
+Dor à mobilização do colo.
+Colo entreaberto.
+Restos ovulares na cavidade uterina ao USG.
+Leucocitose com desvio à esquerda.
+Instabilidade hemodinâmica (PA 90x60, FC 118).
+Esses achados indicam infecção uterina com repercussão sistêmica, podendo evoluir para
+sepse e choque séptico.
+Conduta adequada:
+Internação imediata.
+Estabilização hemodinâmica.
+Antibioticoterapia intravenosa de amplo espectro.
+Esvaziamento uterino após início do antibiótico.
+Essa é a conduta padrão diante de aborto infectado.
+Referência:
+ZUGAIB, Marcelo. Zugaib obstetrícia. 5. ed. Barueri: Manole, 2023. E-book. p. Capa. ISBN
+9786555769340. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786555769340/.
+
+Feedback:
+-21ª QUESTÃO
+Enunciado:
+(AFYA ITAPERUNA) Uma mulher de 52 anos procura o ambulatório com queixa de
+rouquidão há 5 semanas. Refere tabagismo há 30 anos (20 maços/ano). Nega febre ou
+sintomas gripais recentes. Relata leve desconforto ao engolir, mas sem dor intensa.
+Ao exame físico geral, sem alterações relevantes.
+Considerando as causas benignas e malignas de disfonia, assinale a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+Disfonia com duração superior a 3 semanas em paciente tabagista é sinal de alerta e
+indica necessidade de laringoscopia para investigação.
+(alternativa B)
+Na ausência de dor intensa ou perda ponderal, a causa maligna pode ser descartada.
+(alternativa C)
+O tratamento empírico com antibiótico por 14 dias é indicado antes de qualquer
+investigação adicional.
+(alternativa D)
+A maioria das disfonias persistentes em adultos é causada por infecção viral prolongada,
+não sendo necessária investigação complementar.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 31 de 76
+
+Resposta comentada:
+- Disfonia com duração superior a 3 semanas em paciente tabagista é sinal de alerta e
+indica necessidade de laringoscopia para investigação. Correta.
+Disfonia persistente por mais de 3 semanas, especialmente em pacientes tabagistas, é
+considerada sinal de alerta para neoplasia de laringe. Nesses casos, está indicada
+avaliação por laringoscopia, mesmo na ausência de outros sintomas sistêmicos.
+- A maioria das disfonias persistentes em adultos é causada por infecção viral prolongada,
+não sendo necessária investigação complementar. Incorreta.
+Infecções virais costumam causar disfonia aguda e autolimitada, geralmente com
+melhora em até 2 semanas. Persistência do sintoma exige investigação.
+- Na ausência de dor intensa ou perda ponderal, a causa maligna pode ser descartada.
+Incorreta.
+Embora perda ponderal e dor sejam sinais de gravidade, sua ausência não exclui
+malignidade, especialmente em paciente com fator de risco como tabagismo.
+- O tratamento empírico com antibiótico por 14 dias é indicado antes de qualquer
+investigação adicional. Incorreta.
+Não há indicação de antibioticoterapia empírica na maioria dos casos de disfonia crônica
+sem sinais de infecção bacteriana. Essa conduta pode atrasar o diagnóstico correto.
+Referência:
+PAPARELLA, Michael M.; SHUMRICK, Donald A. Otorrinolaringologia. 4. ed. Rio de Janeiro:
+Revinter, 2018.
+Feedback:
+-22ª QUESTÃO
+Enunciado:
+(AFYA UNIGRANRIO BARRA DA TIJUCA) Homem de 28 anos é admitido na sala de
+emergência após agressão física com trauma direto em face e região cervical anterior.
+Encontra-se consciente, agitado e sentado espontaneamente.
+Na avaliação primária do trauma (ABCDE), apresenta:
+Voz abafada e rouca.
+Estridor inspiratório audível.
+Sialorreia e dificuldade para deglutir.
+Frequência respiratória: 26 irpm.
+Saturação periférica de oxigênio: 93% em ar ambiente.
+Expansibilidade torácica bilateral preservada.
+Não há sinais de choque ou rebaixamento importante do nível de consciência.
+Considerando os princípios do ATLS/PHTLS para manejo de via aérea no trauma cervical,
+assinale a alternativa correta.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 32 de 76
+
+Alternativas:
+(alternativa A)
+Administrar broncodilatador inalatório e manter observação clínica seriada, pois a
+ventilação espontânea preservada afasta risco imediato de deterioração da via aérea.
+(alternativa B)
+Solicitar tomografia computadorizada de face e pescoço antes de qualquer medida
+relacionada à via aérea, visando definir extensão anatômica das lesões traumáticas.
+(alternativa C) (CORRETA)
+Instituir oxigenoterapia suplementar, manter posicionamento que favoreça ventilação
+espontânea e preparar precocemente manejo avançado de via aérea devido ao risco de
+obstrução progressiva.
+(alternativa D)
+Realizar cricotireoidostomia imediata como primeira abordagem, pois a presença de
+estridor caracteriza obstrução completa de vias aéreas superiores.
+
+Resposta comentada:
+Instituir oxigenoterapia suplementar, manter posicionamento que favoreça ventilação
+espontânea e preparar precocemente manejo avançado de via aérea devido ao risco de
+obstrução progressiva.— Correta.
+O paciente apresenta sinais de via aérea ameaçada, incluindo estridor, voz abafada e
+sialorreia, sugerindo possível edema ou lesão laríngea progressiva. Nessa situação, devese ofertar oxigênio suplementar, manter posicionamento que favoreça ventilação
+espontânea e preparar precocemente abordagem avançada da via aérea.
+Administrar broncodilatador inalatório e manter observação clínica seriada, pois a
+ventilação espontânea preservada afasta risco imediato de deterioração da via aérea.—
+Incorreta.
+Broncodilatadores não constituem tratamento adequado para obstrução traumática de
+vias aéreas superiores. Além disso, a presença de estridor indica risco de deterioração
+respiratória progressiva.
+Realizar cricotireoidostomia imediata como primeira abordagem, pois a presença de
+estridor caracteriza obstrução completa de vias aéreas superiores.— Incorreta.
+Embora a cricotireoidostomia possa ser necessária em casos de falência ventilatória ou
+impossibilidade de intubação, o estridor isoladamente não caracteriza obstrução
+completa da via aérea.
+Solicitar tomografia computadorizada de face e pescoço antes de qualquer medida
+relacionada à via aérea, visando definir extensão anatômica das lesões traumáticas.—
+Incorreta.
+Exames de imagem não devem retardar medidas prioritárias de estabilização e manejo
+da via aérea em pacientes com sinais de comprometimento respiratório potencialmente
+progressivo.
+Referências:
+American College of Surgeons
+AMERICAN COLLEGE OF SURGEONS.
+ATLS: Advanced Trauma Life Support Student Course Manual. 11. ed. Chicago: ACS, 2025.
+NAEMT.
+PHTLS: Prehospital Trauma Life Support . 10. ed. Burlington: Jones & Bartlett Learning,
+2024.
+Feedback:
+-23ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 33 de 76
+
+Enunciado:
+(AFYA PORTO NACIONAL) Gestante, 29 anos, G2P1, 32+2 semanas, sem HAS crônica.
+Chega à UBS com cefaleia intensa e “luzes” na visão há 6 horas. PA em repouso: 162/112
+mmHg e, após 20 min, 164/110 mmHg. Edema ++/4. AU e BCF presentes. Sem dor
+epigástrica no momento.
+Exames disponíveis/solicitados com retorno rápido:
+EAS: proteinúria 2+.
+Relação proteína/creatinina urinária: 0,45 mg/mg.
+Plaquetas: 175.000/mm³; AST/ALT discretamente elevadas.
+Creatinina: 1,1 mg/dL.
+
+Qual alternativa indica o diagnóstico mais provável e a conduta imediata mais adequada
+na UBS (manejo clínico/farmacológico, corticoterapia e critérios gerais de
+interrupção/encaminhamento), visando prevenir complicações materno-fetais?
+Alternativas:
+(alternativa A)
+Pré-eclâmpsia leve; manter anti-hipertensivo de manutenção e liberar; suspender
+investigação laboratorial; não indicar magnésio; solicitar PET fetal e ultrassom mensal;
+programar interrupção imediata em 32 semanas, independentemente de controle
+pressórico.
+(alternativa B)
+Crise hipertensiva isolada por ansiedade; oferecer analgésico e repouso; repetir pressão
+no dia seguinte; evitar anti-hipertensivo na gestação; não encaminhar; solicitar apenas
+novo EAS na próxima consulta, sem avaliação de plaquetas e enzimas hepáticas.
+(alternativa C)
+Hipertensão gestacional sem gravidade hemodinâmica; iniciar metildopa oral 500 mg e
+reavaliar em 72 horas; observar sintomas em casa; não indicar magnésio nem corticoide;
+postergar decisões sobre parto até 40 semanas, se o doppler fetal estiver normal.
+(alternativa D) (CORRETA)
+Pré-eclâmpsia com critérios de gravidade; iniciar anti-hipertensivo de ação rápida e
+monitorizar; administrar sulfato de magnésio e encaminhar urgente; solicitar corticoide
+para maturação fetal; planejar parto conforme idade gestacional e estabilidade maternofetal.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 34 de 76
+
+Resposta comentada:
+Pré-eclâmpsia com critérios de gravidade; iniciar anti-hipertensivo de ação rápida e
+monitorizar; administrar sulfato de magnésio e encaminhar urgente; solicitar corticoide
+para maturação fetal; planejar parto conforme idade gestacional e estabilidade maternofetal. – Correta.
+O quadro clínico caracteriza pré-eclâmpsia com sinais de gravidade, evidenciado por PA
+≥ 160/110 mmHg, cefaleia intensa, escotomas e proteinúria. A conduta correta inclui
+controle pressórico imediato, profilaxia de convulsões com sulfato de magnésio,
+corticoterapia para maturação pulmonar fetal e encaminhamento hospitalar para
+monitorização materno-fetal e definição do momento da interrupção gestacional.
+Hipertensão gestacional sem gravidade hemodinâmica; iniciar metildopa oral 500 mg e
+reavaliar em 72 horas; observar sintomas em casa; não indicar magnésio e nem
+corticoide; postergar decisões sobre parto até 40 semanas, se o doppler fetal estiver
+normal. – Incorreta.
+A alternativa trata o quadro como hipertensão gestacional sem gravidade, o que não
+corresponde aos achados clínicos. A paciente apresenta hipertensão grave e sintomas
+neurológicos sugestivos de pré-eclâmpsia grave. A ausência de sulfato de magnésio e a
+proposta de acompanhamento domiciliar aumentam o risco de eclâmpsia e complicações
+materno-fetais.
+Crise hipertensiva isolada por ansiedade; oferecer analgésico e repouso; repetir pressão
+no dia seguinte; evitar anti-hipertensivo na gestação; não encaminhar; solicitar apenas
+novo EAS na próxima consulta, sem avaliação de plaquetas e enzimas hepáticas. –
+Incorreta.
+A interpretação de crise hipertensiva isolada é inadequada. O caso apresenta proteinúria,
+sintomas neurológicos e alterações laboratoriais que indicam doença hipertensiva
+específica da gestação. A conduta proposta ignora sinais de gravidade e não prevê
+investigação adequada nem encaminhamento, expondo a gestante a risco elevado de
+desfechos adversos.
+Pré-eclâmpsia leve; manter anti-hipertensivo de manutenção e liberar; suspender
+investigação laboratorial; não indicar magnésio; solicitar PET fetal e ultrassom mensal;
+programar interrupção imediata em 32 semanas, independentemente de controle
+pressórico. – Incorreta.
+Embora reconheça a possibilidade de pré-eclâmpsia, a alternativa propõe manejo
+ambulatorial e suspensão da investigação laboratorial, o que é inadequado em casos com
+critérios de gravidade. A ausência de sulfato de magnésio e de monitorização hospitalar
+contraria diretrizes clínicas, que recomendam estabilização materna e acompanhamento
+intensivo.
+Referências:
+WHO. Pré-eclampsia – Fact sheet (atualização 2025): reforça papel do sulfato de
+magnésio para reduzir risco de eclâmpsia.
+European Society of Hypertension (ESH). Position Statement on management of
+hypertensive disorders in pregnancy (2024): opções terapêuticas (labetalol, nifedipina,
+metildopa) e abordagem da HAS grave.
+SOMANZ. Hypertension in Pregnancy Guideline (2023): manejo, estratificação e condutas
+práticas, incluindo cenários de gravidade.
+AHA (Circulation). Hypertension in Pregnancy and Postpartum (2025): síntese
+contemporânea de limiares de tratamento e prevenção de complicações.
+NICE NG133. Hypertension in pregnancy: diagnosis and management (versão em PDF
+com direitos 2026): metas/monitorização e organização do cuidado.
+
+Feedback:
+-24ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 35 de 76
+
+Enunciado:
+(AFYA ITACOATIARA) Um homem de 45 anos é admitido na sala de emergência após
+queda de aproximadamente 4 metros de altura. Na avaliação inicial, apresenta cefaleia
+intensa, desorientação temporal e episódio de vômito durante o transporte.
+Ao exame físico inicial:
+Escala de Coma de Glasgow: 13.
+Pupilas isocóricas e fotorreagentes bilateralmente.
+Pressão arterial: 142 × 88 mmHg.
+Frequência cardíaca: 88 bpm.
+Frequência respiratória: 18 irpm.
+Saturação periférica de oxigênio: 97% em ar ambiente.
+A tomografia computadorizada de crânio evidencia hematoma epidural agudo associado
+a desvio de linha média de 8 mm.
+A equipe reconhece a necessidade de instituir medidas precoces para prevenção de lesão
+cerebral secundária e controle da hipertensão intracraniana durante a avaliação primária
+do trauma.
+Considerando os princípios fisiológicos da pressão intracraniana e o manejo inicial do
+traumatismo cranioencefálico grave, assinale a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+Manter cabeceira elevada a 30 graus, garantir oxigenação adequada, evitar hipotensão
+arterial e acionar neurocirurgia emergencial para tratamento definitivo do hematoma
+intracraniano.
+(alternativa B)
+Priorizar sedação leve e observação clínica seriada, postergando avaliação neurocirúrgica
+até nova tomografia computadorizada de controle.
+(alternativa C)
+Manter o paciente em posição de Trendelenburg e instituir hiperventilação agressiva
+contínua para reduzir rapidamente a pressão intracraniana.
+(alternativa D)
+Administrar corticosteroides em altas doses para redução do edema cerebral associado
+ao hematoma epidural traumático.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 36 de 76
+
+Resposta comentada:
+Manter cabeceira elevada a 30 graus, garantir oxigenação adequada, evitar hipotensão
+arterial e acionar neurocirurgia emergencial para tratamento definitivo do hematoma
+intracraniano.— Correta.
+No traumatismo cranioencefálico com efeito de massa intracraniano, medidas iniciais
+para prevenção de hipertensão intracraniana incluem elevação da cabeceira a 30 graus,
+manutenção de oxigenação e perfusão cerebral adequadas e acionamento precoce da
+neurocirurgia para tratamento definitivo.
+Manter o paciente em posição de Trendelenburg e instituir hiperventilação agressiva
+contínua para reduzir rapidamente a pressão intracraniana.— Incorreta.
+A posição de Trendelenburg pode elevar a pressão intracraniana ao dificultar drenagem
+venosa cerebral. Além disso, hiperventilação agressiva prolongada não é recomendada
+rotineiramente, pois reduz o fluxo sanguíneo cerebral.
+Priorizar sedação leve e observação clínica seriada, postergando avaliação neurocirúrgica
+até nova tomografia computadorizada de controle.— Incorreta.
+A presença de hematoma epidural com desvio de linha média representa lesão
+potencialmente cirúrgica e exige avaliação neurocirúrgica imediata, não sendo
+apropriada apenas observação clínica.
+Administrar corticosteroides em altas doses para redução do edema cerebral associado
+ao hematoma epidural traumático.— Incorreta.
+Corticosteroides não apresentam benefício no traumatismo cranioencefálico e podem
+aumentar morbimortalidade nesses pacientes.
+Referências:
+American College of Surgeons
+AMERICAN COLLEGE OF SURGEONS.
+ATLS: Advanced Trauma Life Support Student Course Manual. 11. ed. Chicago: ACS, 2025.
+NAEMT.
+PHTLS: Prehospital Trauma Life Support . 10. ed. Burlington: Jones & Bartlett Learning,
+2024.
+Feedback:
+-25ª QUESTÃO
+Enunciado:
+(AFYA ITAPERUNA) Um homem de 38 anos procura o ambulatório relatando episódios
+recorrentes de dor de cabeça há 6 meses. A dor é unilateral, pulsátil, de intensidade
+moderada a forte, associada a náuseas e fotofobia, com duração média de 12 horas.
+Refere piora com atividade física e melhora ao repousar em ambiente escuro. Nega
+febre, rigidez de nuca ou déficit neurológico focal.
+Considerando o quadro clínico e os diagnósticos diferenciais das cefaleias primárias,
+assinale a alternativa correta.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 37 de 76
+
+Alternativas:
+(alternativa A)
+O quadro é compatível com cefaleia tensional, caracterizada por dor bilateral em pressão,
+sem sintomas associados importantes.
+(alternativa B)
+O quadro sugere hemorragia subaracnoide, sendo necessária tomografia de urgência.
+(alternativa C)
+Trata-se provavelmente de cefaleia em salvas, caracterizada por dor unilateral pulsátil
+com náuseas e fotofobia.
+(alternativa D) (CORRETA)
+O quadro sugere enxaqueca (migrânea), não havendo sinais clínicos de alerta que
+indiquem neuroimagem imediata.
+
+Resposta comentada:
+- O quadro é compatível com cefaleia tensional, caracterizada por dor bilateral em
+pressão, sem sintomas associados importantes. Incorreta.
+A cefaleia tensional costuma ser bilateral, em pressão ou aperto, de intensidade leve a
+moderada e sem náuseas ou fotofobia importantes. O caso descreve dor pulsátil,
+unilateral e com sintomas associados típicos de migrânea.
+- O quadro sugere enxaqueca (migrânea), não havendo sinais clínicos de alerta que
+indiquem neuroimagem imediata. Correta.
+O quadro é típico de enxaqueca (migrânea):
+Dor unilateral.
+Pulsátil.
+Intensidade moderada a intensa.
+Náuseas e fotofobia.
+Piora com atividade física.
+Além disso, não há sinais de alerta (red flags), como início súbito explosivo, déficit
+neurológico focal ou alteração do nível de consciência, que indiquem necessidade
+imediata de neuroimagem.
+- Trata-se provavelmente de cefaleia em salvas, caracterizada por dor unilateral pulsátil
+com náuseas e fotofobia. Incorreta.
+A cefaleia em salvas caracteriza-se por dor unilateral intensa, geralmente orbitária,
+associada a sinais autonômicos ipsilaterais (lacrimejamento, congestão nasal, ptose), com
+duração mais curta (15–180 minutos). Náuseas e fotofobia não são predominantes.
+- O quadro sugere hemorragia subaracnoide, sendo necessária tomografia de urgência.
+Incorreta.
+Hemorragia subaracnoide cursa com cefaleia súbita de forte intensidade (“pior dor da
+vida”), frequentemente associada a rigidez de nuca e possível rebaixamento do nível de
+consciência. O quadro apresentado é crônico e recorrente.
+Referência:
+BRADLEY, Walter G. et al. Neurology in clinical practice. 7. ed. Philadelphia: Elsevier,
+2016.
+Feedback:
+-26ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 38 de 76
+
+Enunciado:
+(AFYA ITACOATIARA) Um homem de 34 anos é admitido no pronto-socorro após acidente
+de transporte terrestre envolvendo motocicleta. No atendimento inicial, apresenta trauma
+facial grave, sangramento oral abundante, fraturas maxilofaciais, rebaixamento do nível
+de consciência e sinais de obstrução de via aérea por sangue e fragmentos ósseos. A
+equipe realiza proteção cervical, aspiração de cavidade oral, oxigenação suplementar e
+tentativa de estabilização da via aérea. Apesar das medidas instituídas, o paciente evolui
+para insuficiência respiratória grave e posterior parada cardiorrespiratória refratária às
+manobras de reanimação.
+Após o óbito, o médico responsável deve preencher corretamente a Declaração de Óbito
+(DO), considerando a sequência causal da morte e as normas brasileiras para registro de
+causas externas no Sistema de Informações sobre Mortalidade (SIM).
+Considerando o caso descrito e as orientações do Ministério da Saúde para
+preenchimento da Declaração de Óbito, assinale a alternativa que apresenta
+corretamente a sequência causal da morte.
+Alternativas:
+(alternativa A) (CORRETA)
+Obstrução de via aérea; trauma facial grave; acidente de transporte terrestre envolvendo
+motociclista.
+(alternativa B)
+Insuficiência respiratória aguda; trauma facial grave; acidente de transporte terrestre
+envolvendo motociclista.
+(alternativa C)
+Trauma facial grave; obstrução de via aérea; acidente de transporte terrestre envolvendo
+motociclista.
+(alternativa D)
+Obstrução de via aérea; insuficiência respiratória aguda; acidente de transporte terrestre
+envolvendo motociclista.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 39 de 76
+
+Resposta comentada:
+Alternativa: Obstrução de via aérea; trauma facial grave; acidente de transporte terrestre
+envolvendo motociclista. — Correta
+Na Declaração de Óbito, a cadeia causal deve ser organizada da causa imediata até a
+causa básica da morte. No caso apresentado:
+a obstrução de via aérea corresponde à causa imediata;
+o trauma facial grave representa a condição intermediária;
+o acidente de transporte terrestre envolvendo motociclista constitui a causa básica,
+responsável pelo início da cadeia causal.
+Esse preenchimento está de acordo com as orientações do Ministério da Saúde para
+registro de causas externas no Sistema de Informações sobre Mortalidade (SIM).
+Alternativa: Insuficiência respiratória aguda; trauma facial grave; acidente de transporte
+terrestre envolvendo motociclista. — Incorreta
+A insuficiência respiratória aguda representa manifestação fisiopatológica terminal
+relacionada ao processo de morte, porém não descreve adequadamente a condição
+imediata diretamente associada ao óbito no contexto traumático apresentado.
+Alternativa: Trauma facial grave; obstrução de via aérea; acidente de transporte terrestre
+envolvendo motociclista. — Incorreta
+O trauma facial grave corresponde à condição intermediária da cadeia causal e não ao
+evento imediatamente responsável pelo óbito. A obstrução de via aérea foi a condição
+final diretamente associada ao desfecho fatal.
+Alternativa: Obstrução de via aérea; insuficiência respiratória aguda; acidente de
+transporte terrestre envolvendo motociclista. — Incorreta
+Embora a obstrução de via aérea possa integrar a causa imediata do óbito, a insuficiência
+respiratória aguda não substitui adequadamente a lesão traumática intermediária
+responsável pela evolução clínica do caso.
+Referências:
+BRASIL. Ministério da Saúde.
+Manual de instruções para o preenchimento da Declaração de Óbito. Brasília: Ministério
+da Saúde, 2022. Disponível em: https://www.gov.br/saude. Acesso em: 29 mar. 2026.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Sistema de Informações sobre Mortalidade (SIM): orientações para preenchimento da
+Declaração de Óbito. Brasília: Ministério da Saúde, 2021.
+AMERICAN COLLEGE OF SURGEONS.
+ATLS®: Advanced Trauma Life Support®. 10. ed. Chicago: American College of Surgeons,
+2018.
+BRASIL. Ministério da Saúde.
+Guia de Vigilância em Saúde. 5. ed. Brasília: Ministério da Saúde, 2021.
+Feedback:
+-27ª QUESTÃO
+Enunciado:
+(AFYA GUANAMBI) Um homem de 35 anos foi vítima de acidente de trânsito, colidindo
+frontalmente com outro veículo a aproximadamente 60 km/h, sem cinto de segurança.
+Ele estava consciente no momento do resgate, relatando cefaleia intensa e náuseas. Ao
+exame primário, apresenta Glasgow Coma Scale (GCS) 13 (O4, V4, M5), pupilas isocóricas
+e reativas, pressão arterial 135/85 mmHg e frequência cardíaca 110 bpm. Há hematoma
+frontotemporal direito e escoriações faciais. Não há sinais de fratura exposta.
+Com base na cinemática do trauma e avaliação de risco de lesão intracraniana, indique a
+conduta mais adequada para esse paciente.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 40 de 76
+
+Alternativas:
+(alternativa A)
+Administrar manitol e sedação profilática, sem exame de imagem.
+(alternativa B)
+Transferir diretamente para cirurgia, sem avaliação radiológica.
+(alternativa C) (CORRETA)
+Solicitar tomografia de crânio imediata e monitorização neurológica.
+(alternativa D)
+Observar clinicamente em ambulatório, sem exames de imagem.
+
+Resposta comentada:
+Trauma de alta energia e GCS <15 exigem investigação por imagem; observação isolada
+é insuficiente.
+TC detecta hematomas epidural/subdural, contusões e hemorragias subaracnóideas;
+monitorização permite detecção precoce de deterioração.
+Medidas farmacológicas preventivas não substituem a avaliação radiológica; manitol só é
+indicado se houver sinais de hipertensão intracraniana.
+Cirurgia sem confirmação radiológica não é indicada; decisão depende de lesão
+expansiva confirmada.
+Punção lombar contraindicada antes da exclusão de lesão expansiva, risco de herniação
+cerebral.
+Referências:
+NATIONAL ASSOCIATION OF EMERGENCY MEDICAL SERVICES PHYSICIANS; PHTLS 9th
+Edition. Prehospital Trauma Life Support . Jones & Bartlett Learning, 2022.
+AMERICAN TRAUMA SOCIETY. Advanced Trauma Life Support (ATLS), 11th Edition .
+Chicago: ACS, 2025.
+BRUCE, J. et al. Head trauma: initial assessment and management. New England Journal
+of Medicine, 2023; 388:1120–1130.
+Feedback:
+-28ª QUESTÃO
+Enunciado:
+(AFYA VITÓRIA DA CONQUISTA) Paciente do sexo masculino, 52 anos, etilista crônico há
+mais de 20 anos, com consumo diário elevado de bebidas alcoólicas, é levado à
+emergência por familiares após interromper abruptamente o uso de álcool há
+aproximadamente 48 horas. Evoluiu com agitação psicomotora intensa, desorientação
+temporoespacial, alucinações visuais, tremores generalizados e sudorese profusa. Ao
+exame físico, apresenta-se confuso, inquieto e pouco colaborativo.
+Sinais vitais na admissão: pressão arterial: 168/102 mmHg, frequência cardíaca: 124
+bpm, frequência respiratória: 24 irpm, temperatura axilar: 38,7°C e saturação de O₂: 98%
+em ar ambiente.
+Qual é a conduta adequada, considerando a principal hipótese diagnóstica para esse
+paciente?
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 41 de 76
+
+Alternativas:
+(alternativa A)
+Administrar solução glicosada intravenosa associada à hidratação vigorosa, com sedação
+leve se necessário e monitorização contínua até resolução do quadro.
+(alternativa B)
+Administrar haloperidol intramuscular para controle da agitação psicomotora, mantendo
+observação clínica e suporte sintomático.
+(alternativa C)
+Iniciar beta-bloqueador intravenoso para controle da taquicardia e hipertensão, mantendo
+hidratação venosa e vigilância clínica.
+(alternativa D) (CORRETA)
+Iniciar benzodiazepínico intravenoso em dose titulada conforme resposta clínica, associar
+reposição de tiamina antes de qualquer infusão de glicose e monitorizar.
+
+Resposta comentada:
+Alternativa correta: Iniciar benzodiazepínico intravenoso em dose titulada conforme
+resposta clínica, associar reposição de tiamina antes de qualquer infusão de glicose e
+monitorizar.
+Justificativa: O paciente apresenta quadro típico de síndrome de abstinência alcoólica
+grave, caracterizada por agitação intensa, desorientação, alucinações visuais, tremores,
+hipertermia, hipertensão e taquicardia, com início aproximadamente 48 horas após
+interrupção abrupta do álcool.
+A principal hipótese diagnóstica é delirium tremens, forma grave da abstinência alcoólica,
+potencialmente fatal, associada a hiperatividade autonômica e risco de convulsões e
+arritmias.
+A conduta de escolha é o uso de benzodiazepínicos (diazepam, lorazepam ou
+midazolam), preferencialmente por via intravenosa em casos graves, com titulação
+conforme resposta clínica. Os benzodiazepínicos atuam restaurando a atividade inibitória
+do sistema GABA, reduzindo risco de convulsões e controlando a hiperatividade
+autonômica.
+A tiamina deve ser administrada antes de qualquer solução glicosada, a fim de prevenir
+ou tratar encefalopatia de Wernicke, complicação associada à deficiência de vitamina B1
+em etilistas crônicos.
+Devido à gravidade do quadro, está indicada monitorização hospitalar, idealmente em
+ambiente com capacidade de suporte intensivo.
+Análise das alternativas incorretas:
+Alternativa incorreta: Administrar haloperidol intramuscular para controle da agitação
+psicomotora, mantendo observação clínica e suporte sintomático.
+Justificativa: antipsicóticos não são tratamento de primeira linha na abstinência alcoólica
+grave. Podem reduzir limiar convulsivo e não tratam a fisiopatologia da síndrome.
+Alternativa incorreta: Iniciar beta-bloqueador intravenoso para controle da taquicardia e
+hipertensão, mantendo hidratação venosa e vigilância clínica.
+Justificativa: beta-bloqueadores podem mascarar sinais autonômicos e não tratam a
+hiperexcitabilidade central. Não substituem benzodiazepínicos.
+Alternativa incorreta: Administrar solução glicosada intravenosa associada a hidratação
+vigorosa, com sedação leve se necessário e monitorização contínua até resolução do
+quadro.
+Justificativa: a glicose antes da tiamina pode precipitar encefalopatia de Wernicke. Além
+disso, hidratação isolada não trata o delirium tremens.
+Referências:
+Brasil. Ministério da Saúde. Linha de Cuidado para Atenção Integral à Saúde de Usuários
+de Álcool e Outras Drogas. Brasília: Ministério da Saúde, 2013.
+Kaplan, Harold I., e Sadock, Benjamin J. Compêndio de Psiquiatria: Ciência do
+Comportamento e Psiquiatria Clínica. Porto Alegre: Artmed, última edição.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 42 de 76
+
+Feedback:
+-29ª QUESTÃO
+Enunciado:
+(AFYA TERESINA) Uma mulher de 28 anos, gestante de 30 semanas, é admitida no
+pronto-socorro após acidente automobilístico. Encontra-se sonolenta, com abertura ocular
+ao chamado verbal, emissão de palavras desconexas e movimentação aos estímulos
+dolorosos. Apresenta frequência respiratória de 10 incursões por minuto, saturação de
+oxigênio de 88% em ar ambiente, frequência cardíaca de 110 batimentos por minuto e
+pressão arterial de 100/60 mmHg. Observa-se assimetria de movimentos em hemicorpo
+direito. A equipe inicia a abordagem primária, considerando a suspeita de lesão
+neurológica aguda e a condição gestacional, com preocupação quanto à oxigenação
+materna e à perfusão fetal. Considerando a abordagem inicial dessa paciente, com
+ênfase no manejo da via aérea, ventilação e repercussões fetais, é correto afirmar que:
+Alternativas:
+(alternativa A)
+a oxigenoterapia pode ser postergada até confirmação diagnóstica por imagem, evitando
+intervenções precoces na gestante.
+(alternativa B) (CORRETA)
+a intubação orotraqueal deve ser realizada diante da redução do nível de consciência e
+da ventilação inadequada, priorizando a oxigenação materna para manutenção da
+oxigenação fetal.
+(alternativa C)
+a abordagem da via aérea deve ser evitada inicialmente na gestante, devido ao risco de
+complicações, mesmo diante de sinais de insuficiência ventilatória.
+(alternativa D)
+a ventilação assistida não influencia a perfusão fetal, sendo a prioridade exclusiva a
+estabilização neurológica materna.
+
+Resposta comentada:
+Resposta comentada:
+a intubação orotraqueal deve ser realizada diante da redução do nível de consciência e
+da ventilação inadequada, priorizando a oxigenação materna para manutenção da
+oxigenação fetal. Correto. A paciente apresenta rebaixamento do nível de consciência e
+sinais de ventilação inadequada, o que indica necessidade de proteção de via aérea e
+suporte ventilatório. De acordo com o ATLS mais recente, a prioridade é garantir
+oxigenação e ventilação adequadas, pois a hipóxia materna compromete diretamente a
+oxigenação fetal.
+a oxigenoterapia pode ser postergada até confirmação diagnóstica por imagem, evitando
+intervenções precoces na gestante. Incorreto. A oferta de oxigênio deve ser imediata em
+pacientes com sinais de hipóxia, conforme a abordagem primária do trauma,
+independentemente de exames complementares.
+a ventilação assistida não influencia a perfusão fetal, sendo a prioridade exclusiva a
+estabilização neurológica materna. Incorreto. A ventilação e a oxigenação maternas estão
+diretamente relacionadas à oxigenação fetal. A estabilização materna inclui garantir
+adequada ventilação, o que impacta positivamente o feto.
+a abordagem da via aérea deve ser evitada inicialmente na gestante, devido ao risco de
+complicações, mesmo diante de sinais de insuficiência ventilatória. Incorreto. Apesar das
+particularidades da gestação, a via aérea deve ser prontamente manejada quando há
+comprometimento da ventilação ou do nível de consciência, seguindo os princípios da
+abordagem ABCDE do trauma.
+Referências:
+AMERICAN COLLEGE OF SURGEONS. ATLS: Advanced Trauma Life Support Student Course
+Manual. 11. ed. Chicago: American College of Surgeons, 2023. p. 42-50.
+CUNNINGHAM, F. Gary et al. Williams Obstetrics. 25. ed. New York: McGraw-Hill, 2018. p.
+1010-1015.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 43 de 76
+
+Feedback:
+-30ª QUESTÃO
+Enunciado:
+(AFYA MONTES CLAROS) Homem de 60 anos procura atendimento médico devido a dor
+lombar crônica há 8 meses. Refere dor de caráter mecânico, que piora com esforço físico
+e melhora com repouso, acompanhada de rigidez matinal inferior a 30 minutos. Refere
+que o quadro piorou após ganho de peso de 10 kg. Trabalha como mecânico, nega
+comorbidades e alergia medicamentosa. Exames de imagem evidenciam osteófitos
+marginais e redução do espaço intervertebral.
+Considerando o provável diagnóstico, qual o plano terapêutico inicial mais adequado?
+Alternativas:
+(alternativa A)
+Orientar perda de peso, repouso, fisioterapia e iniciar opioides de longa duração como
+primeira linha, devido à dor crônica.
+(alternativa B)
+Indicar repouso absoluto no leito, perda de peso, fisioterapia e iniciar corticoides
+sistêmicos de forma contínua.
+(alternativa C)
+Orientar perda de peso e fisioterapia e encaminhar imediatamente para cirurgia
+ortopédica, visto que alterações radiográficas confirmam osteoartrite.
+(alternativa D) (CORRETA)
+Orientar perda de peso, exercícios de fortalecimento muscular, fisioterapia, associando
+analgésicos simples ou AINEs.
+
+Resposta comentada:
+Indicar repouso absoluto no leito, perda de peso, fisioterapia e iniciar corticoides
+sistêmicos de forma contínua. Incorreta. O repouso absoluto piora a funcionalidade e leva
+à perda de força muscular. Corticoides sistêmicos não são indicados no tratamento da
+osteoartrite lombar, salvo em situações específicas (que não se aplicam aqui).
+Orientar perda de peso, exercícios de fortalecimento muscular, fisioterapia, associando
+analgésicos simples ou AINEs. Correta. O tratamento inicial da osteoartrite lombar
+combina medidas não farmacológicas (educação postural, exercícios físicos, fisioterapia,
+fortalecimento muscular e perda de peso quando necessário) com medidas
+farmacológicas (analgésicos simples como primeira linha; AINEs podem ser usados em
+caso de falha do analgésico simples, respeitando contraindicações).
+Orientar perda de peso e fisioterapia e encaminhar imediatamente para cirurgia
+ortopédica, visto que alterações radiográficas confirmam osteoartrite. Incorreta. A
+cirurgia não é tratamento inicial da osteoartrite lombar. A indicação cirúrgica ocorre
+apenas em casos de dor intratável ou comprometimento funcional grave após falha de
+tratamento clínico.
+Orientar perda de peso, repouso, fisioterapia e iniciar opioides de longa duração como
+primeira linha, devido à dor crônica. Incorreta. Opioides não são indicados como primeira
+linha devido ao risco de dependência e efeitos adversos. São reservados a casos
+refratários, após falha das medidas iniciais.
+Referência:
+SOCIEDADE BRASILEIRA DE REUMATOLOGIA. Diretrizes para o diagnóstico e manejo da
+osteoartrite. Rev Bras Reumatol. 2017;57(Suppl 2):S1–S49.
+Feedback:
+-31ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 44 de 76
+
+Enunciado:
+(AFYA PATO BRANCO) Paciente feminina de 34 anos procura atendimento com quadro
+agudo de dor no joelho direito há 10 dias, em evolução progressiva. Apresenta
+dificuldade para deambulação e aumento do volume articular. Faz uso de cetoprofeno
+100 mg duas vezes ao dia, sem melhora. Possui história de doença inflamatória intestinal
+em uso de adalimumabe 40 mg a cada 14 dias.
+No exame físico: bom estado geral, afebril, flexo de joelho direito, calor local e derrame
+articular. Sem lesões cutâneas e sem história prévia de artrite.
+A respeito da condução diagnóstica do caso, assinale a alternativa correta.
+
+Alternativas:
+(alternativa A)
+O quadro é compatível com artrite associada à doença inflamatória intestinal,
+dispensando punção articular.
+(alternativa B)
+A presença de líquido sinovial não purulento afasta artrite séptica.
+(alternativa C)
+Leucócitos <50.000 células/mm³ no líquido sinovial excluem artrite séptica.
+(alternativa D) (CORRETA)
+Deve-se realizar artrocentese com análise completa do líquido sinovial, incluindo
+bacterioscopia e cultura.
+
+Resposta comentada:
+Em monoartrite aguda com derrame — ainda mais em imunossuprimida — a conduta
+correta é artrocentese com análise do líquido sinovial para celularidade/diferencial,
+cristais e investigação infecciosa (Gram/cultura); e, pelo perfil (anti-TNF + curso de 10
+dias), é apropriado considerar micobactérias e fungos conforme suspeita
+clínica/epidemiológica. O ponto central é que clínica isolada não afasta artrite séptica.
+Distratores:
+Incorreta. Aspecto amarelo-citrino/não purulento não exclui artrite séptica. E a presença
+de cristais também não descarta infecção: pode haver coexistência (cristal + infecção) ou
+cristal como achado concomitante. Logo, não é seguro “fechar gota” e tratar apenas com
+colchicina sem manter investigação microbiológica quando o contexto clínico sugere risco
+de infecção.
+Incorreta. Artrite periférica associada à DII é um diagnóstico possível, mas não é
+diagnóstico “imperativo” diante de monoartrite aguda com derrame em paciente em
+adalimumabe. Em imunossuprimidos, a prioridade é excluir artrite séptica com
+artrocentese antes de atribuir a causa a doença inflamatória/autoimune.
+Incorreta. Cortes de celularidade (ex.: “<50.000”) e o diferencial (ex.:
+“linfomononuclear”) não têm poder de excluir artrite séptica de forma isolada,
+especialmente em imunossuprimidos, quadros iniciais/subagudos, ou etiologias como
+tuberculose/fungos (que podem ter padrão menos neutrofílico). Além disso, iniciar
+corticoide intra-articular sem excluir infecção é conduta de risco.
+Referência:
+SOCIEDADE BRASILEIRA DE REUMATOLOGIA. Tratado de Reumatologia. 3. ed. Barueri:
+Manole.
+Feedback:
+-32ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 45 de 76
+
+Enunciado:
+(AFYA PARAÍBA) Homem de 35 anos, vítima de acidente automobilístico de alta energia, é
+atendido em uma unidade de urgência. Apresenta trauma facial extenso, sangramento
+oronasal, ruído respiratório intenso (estridor) e dificuldade ventilatória progressiva. Sinais
+vitais: SpO₂ 80%, FR 32 irpm, FC 120 bpm, PA 90x60 mmHg, GCS 8 (A2V2M4).
+Com base no caso descrito, qual deve ser a conduta imediata no pronto-socorro e o
+correto preenchimento da Declaração de Óbito (DO) em caso de evolução desfavorável?
+Alternativas:
+(alternativa A)
+Priorizar reposição volêmica e estabilização hemodinâmica antes do controle de via
+aérea; em caso de óbito, registrar na DO: choque hipovolêmico (imediata) → hemorragia
+secundária (intermediária) → trauma facial grave (básica) → acidente automobilístico
+(causa externa).
+(alternativa B)
+Observar sob máscara de oxigênio até estabilização hemodinâmica, monitorando a
+ventilação; em caso de óbito, registrar na DO: hipóxia (imediata) → obstrução de via
+aérea (intermediária) → trauma facial grave (básica) → acidente de trânsito (causa
+externa).
+(alternativa C)
+Manter oxigênio suplementar e observação clínica até avaliação especializada para via
+aérea; em caso de óbito, registrar na DO: insuficiência respiratória (imediata) → edema
+facial pós-trauma (intermediária) → trauma facial (básica) → acidente automobilístico
+(causa externa).
+(alternativa D) (CORRETA)
+Realizar intubação orotraqueal precoce para controle da via aérea; em caso de óbito,
+registrar na DO: parada cardiorrespiratória (imediata) → insuficiência respiratória aguda
+por obstrução de via aérea (intermediária) → trauma facial grave (básica) → acidente
+automobilístico (causa externa).
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 46 de 76
+
+Resposta comentada:
+Correta. A obstrução de via aérea deve ser tratada com intubação orotraqueal precoce;
+se o paciente evoluir a óbito, a DO deve registrar parada cardiorrespiratória (causa
+imediata), insuficiência respiratória aguda por obstrução de via aérea (intermediária),
+trauma facial grave decorrente de acidente de transporte (básica) e acidente
+automobilístico (causa externa).
+O trauma facial com obstrução de via aérea é condição de ameaça imediata à vida,
+abordada na etapa “A” (Airway) da avaliação primária.
+A prioridade é garantir ventilação e oxigenação adequadas, com aspiração de
+sangue/secreções, intubação orotraqueal com proteção cervical.
+A hipóxia é a principal causa evitável de morte no trauma, devendo ser corrigida
+antes de qualquer outra intervenção.
+Em caso de óbito, o médico assistente é responsável pelo preenchimento da
+Declaração de Óbito (DO).
+Campo da DO
+
+Exemplo no caso proposto
+
+Causa imediata
+
+Parada cardiorrespiratória
+
+Causa intermediária
+
+Insuficiência respiratória aguda por obstrução de via aérea
+
+Causa básica
+
+Trauma facial grave decorrente de acidente de transporte
+
+Parte II – Causa externa Acidente automobilístico em via pública
+Incorreta. O trauma facial deve ser abordado com prioridade hemodinâmica antes da via
+aérea, realizando reposição volêmica inicial, hemoderivados e vasopressores; se houver
+óbito, a DO deve registrar choque hipovolêmico (imediata), hemorragia secundária
+(intermediária), trauma facial grave (básica) e acidente automobilístico (causa externa).
+Parcialmente coerente quanto à DO, mas a prioridade não é reposição volêmica,
+hemoderivados e vasopressores — é garantir a via aérea e oxigenação.
+Incorreta. O paciente deve ser mantido com oxigênio suplementar e aguardar avaliação
+especializada para intubação; se houver óbito, a DO deve conter insuficiência respiratória
+(imediata), edema de face pós-trauma (intermediária), trauma facial (básica) e acidente
+automobilístico (causa externa).
+Aguardar avaliação especializada é conduta de alto risco; manejo da via aérea é
+imediato.
+Incorreta. O trauma facial com obstrução parcial de via aérea deve ser observado sob
+máscara de oxigênio até estabilização hemodinâmica; se houver óbito, a DO deve incluir
+hipóxia (imediata), obstrução de via aérea (intermediária), trauma facial grave (básica) e
+acidente de trânsito (causa externa).
+Observar sem intervir pode levar à asfixia; o paciente com obstrução parcial deve ter via
+aérea assegurada de imediato.
+Referências:
+American College of Surgeons. ATLS – Advanced Trauma Life Support. 11th Edition.
+Chicago, IL: ACS; 2023.
+American Heart Association (AHA). Suporte Avançado de Vida Cardiovascular – Manual do
+Profissional. AHA, 2020.
+Ministério da Saúde (Brasil). Manual de Instruções para o Preenchimento da Declaração
+de Óbito. Brasília: SVS/MS; 2023.
+Conselho Federal de Medicina. Resolução CFM nº 1.779/2005. Define o preenchimento da
+DO como ato médico privativo.
+Feedback:
+-33ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 47 de 76
+
+Enunciado:
+(AFYA MONTES CLAROS) Mulher, 75 anos, é trazida pelo esposo devido a declínio
+cognitivo progressivo há 3 anos. Inicialmente, apresentava dificuldade para lembrar
+compromissos recentes e esquecia conversas. Evoluiu com dificuldade para realizar
+atividades instrumentais da vida diária, como administrar finanças e usar
+eletrodomésticos. Nega alucinações visuais. Não apresenta alterações motoras nem
+história de acidente vascular cerebral. Ao exame, encontra-se desorientada no tempo e
+com prejuízo da memória recente. A ressonância magnética evidencia atrofia cortical
+difusa, predominando em regiões temporais mediais.
+Com base no caso clínico, assinale a alternativa que apresenta o diagnóstico mais
+provável e o tratamento inicial mais indicado.
+Alternativas:
+(alternativa A) (CORRETA)
+Demência de Alzheimer – iniciar inibidor da acetilcolinesterase, como donepezila.
+(alternativa B)
+Demência com corpos de Lewy – iniciar levodopa como primeira escolha.
+(alternativa C)
+Demência vascular – iniciar anticoagulação plena.
+(alternativa D)
+Demência frontotemporal – iniciar memantina como tratamento específico modificador da
+doença.
+
+Resposta comentada:
+Demência com corpos de Lewy – iniciar levodopa como primeira escolha. Incorreta. A
+demência com corpos de Lewy apresenta: alucinações visuais precoces, parkinsonismo,
+flutuação cognitiva. O haloperidol deve ser evitado, pois pode piorar os sintomas motores
+nesses pacientes.
+Demência vascular – iniciar anticoagulação plena. Incorreta. A demência vascular
+geralmente apresenta: início súbito ou em degraus, história de AVC, déficits neurológicos
+focais; além disso, trombólise não é tratamento para demência estabelecida. O
+tratamento consiste no controle dos fatores de risco cardiovascular.
+Demência frontotemporal – iniciar memantina como tratamento específico modificador da
+doença. Incorreta. A demência frontotemporal apresenta: alterações comportamentais
+precoces, desinibição, mudança de personalidade. A levodopa é utilizada no tratamento
+da Doença de Parkinson, não sendo indicada para tratamento cognitivo da demência
+frontotemporal.
+Demência de Alzheimer – iniciar inibidor da acetilcolinesterase, como donepezila. Correta.
+O caso apresenta características clássicas da Doença de Alzheimer: início insidioso,
+comprometimento da memória recente, evolução progressiva e, em exame de imagem,
+atrofia hipocampal. O tratamento inicial é feito com inibidores da acetilcolinesterase
+(donepezila, rivastigmina ou galantamina), suporte familiar e acompanhamento
+multiprofissional.
+Referência:
+FREITAS, Elizabete Viana de; PY, Ligia. Tratado de Geriatria e Gerontologia. 5. ed. Rio de
+Janeiro: Guanabara Koogan, 2022.
+Feedback:
+-34ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 48 de 76
+
+Enunciado:
+(AFYA PORTO NACIONAL) Mulher, 34 anos, diagnóstico prévio de Transtorno Afetivo
+Bipolar tipo I, em uso de carbonato de lítio há 4 anos (dose habitual 900 mg/dia). Procura
+a UBS por náuseas, vômitos, diarreia, tremor grosseiro, marcha instável (ataxia) e
+confusão iniciados nas últimas 24–48 h. Relata que há 5 dias teve lombalgia e passou a
+usar ibuprofeno por conta própria; também refere ter “bebido pouca água” por mal-estar.
+Exame físico: desidratada (mucosas secas), PA 100/64 mmHg, FC 108 bpm, tremor
+intenso, disartria leve, ataxia, desorientação temporoespacial.
+Exames colhidos na UBS (resultado liberado rapidamente):
+Litemia (lítio sérico): 4,2 mEq/L.
+Creatinina: 2,1 mg/dL (prévia 0,8 mg/dL em consulta 6 meses antes).
+Na: 132 mEq/L; K: 5,4 mEq/L.
+ECG: sem arritmia grave no momento.
+Qual alternativa traz a interpretação mais provável e a conduta imediata mais
+adequada?
+
+Alternativas:
+(alternativa A) (CORRETA)
+Provável intoxicação por lítio com injúria renal aguda, precipitada por desidratação e
+AINE; suspender lítio e AINE, iniciar hidratação venosa, monitorização
+clínica/ECG/eletrólitos, dosar litemia, e encaminhar para hospital para hemodiálise por
+gravidade (litemia elevada + disfunção renal e sintomas neurológicos).
+(alternativa B)
+Quadro compatível com efeito adverso benigno do lítio; manter a dose e tratar apenas
+náuseas com antiemético, repetindo litemia em 7 dias. Monitorização
+clínica/ECG/eletrólitos, sem necessidade de dosar litemia seriada ou internação para
+procedimentos secundários, como hemodiálise.
+(alternativa C)
+Realizar carvão ativado e observar em domicílio, pois carvão reduz a absorção do lítio;
+orientar hidratação oral e retorno se piorar o quadro clínico ou novos sintomas. Pela
+estabilidade do quadro clínico, dispensa intervenção hospitalar ou qualquer manejo
+agudo.
+(alternativa D)
+Manter lítio e prescrever diurético de alça para “aumentar eliminação” do lítio;
+encaminhar apenas se aparecer convulsão. Iniciar hidratação com soro oral,
+monitorização clínica/ECG/eletrólitos, dosar litemia seriada (risco de “rebote”) somente se
+indicado posterior internação.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 49 de 76
+
+Resposta comentada:
+Alternativa correta: "Provável intoxicação por lítio com injúria renal aguda, precipitada
+por desidratação e AINE; suspender lítio e AINE, iniciar hidratação venosa, monitorização
+clínica/ECG/eletrólitos, dosar litemia, e encaminhar para hospital para hemodiálise por
+gravidade (litemia elevada + disfunção renal e sintomas neurológicos)."
+O conjunto GI + tremor grosseiro + ataxia + confusão em usuária crônica é típico de
+toxicidade por lítio, especialmente quando há fatores que reduzem depuração renal
+(desidratação, hiponatremia, AINEs).
+Hidratação com solução isotônica e suspensão do lítio/precipitantes é pilar inicial.
+Para casos graves, a terapia extracorpórea (hemodiálise) é a forma mais efetiva de
+remoção; recomendações do EXTRIP indicam hemodiálise especialmente quando há
+disfunção renal e litemia muito elevada e/ou sinais neurológicos importantes.
+Justificativas das alternativas incorretas:
+Não é “efeito benigno”: há sintomas neurológicos + litemia 4,2 mEq/L + injúria renal
+aguda, cenário de alto risco e que exige conduta urgente e monitorização hospitalar.
+
+Carvão ativado não adsorve lítio de forma útil; portanto, não é tratamento efetivo para
+intoxicação por lítio. Além disso, o quadro é grave demais para manejo domiciliar.
+
+Diurético de alça pode piorar a situação por alterar volume/sódio e precipitar mais
+toxicidade; não é estratégia padrão para “eliminar lítio” em intoxicação. A conduta
+correta é hidratação isotônica e avaliação de hemodiálise conforme gravidade.
+
+Referências:
+Hedya SA, Avula A. Lithium Toxicity. StatPearls/NCBI Bookshelf. 2023 (atualizações
+contínuas).
+StatPearls/NCBI Bookshelf. Lithium (Toxicity/Management – indicações de
+ECTR/hemodiálise). 2024.
+EXTRIP Workgroup. Lithium – Extracorporeal treatment recommendations (hemodialysis
+preferred). Página atualizada e mantida pelo grupo.
+
+Feedback:
+-35ª QUESTÃO
+Enunciado:
+(AFYA SÃO JOÃO DEL-REI) Uma criança de 2 anos de idade é levada ao pronto-socorro por
+apresentar episódio convulsivo tônico-clônico generalizado há cerca de 4 minutos,
+associado a febre de 39,2 °C iniciada no mesmo dia. Segundo a mãe, a criança não
+possui histórico prévio de convulsões, apresenta desenvolvimento neuropsicomotor
+adequado e recuperou-se completamente após o episódio, permanecendo sonolenta por
+alguns minutos. Ao exame físico, encontra-se consciente, sem déficits neurológicos focais
+e sem sinais de infecção do sistema nervoso central.
+Com base no quadro clínico descrito, assinale a alternativa que indica o diagnóstico mais
+provável.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 50 de 76
+
+Alternativas:
+(alternativa A)
+Epilepsia, pois houve crise convulsiva generalizada, independentemente da presença de
+febre.
+(alternativa B)
+Estado de mal convulsivo, pois toda crise tônico-clônica em criança pequena é
+considerada emergência neurológica prolongada.
+(alternativa C) (CORRETA)
+Convulsão febril simples, considerando idade, presença de febre e ausência de déficit
+neurológico focal ou recorrência nas últimas 24 horas.
+(alternativa D)
+Epilepsia mioclônica da infância, devido à ocorrência de crise na faixa etária pediátrica.
+
+Resposta comentada:
+Explicação para resposta correta:
+A convulsão febril simples ocorre em crianças entre 6 meses e 5 anos, associada à febre,
+com crise generalizada, duração inferior a 15 minutos, sem recorrência em 24 horas e
+sem déficit neurológico pós-ictal prolongado.
+Justificativa das alternativas incorretas:
+A epilepsia requer crises recorrentes e não provocadas por febre.
+O estado de mal convulsivo caracteriza-se por crise com duração ≥ 5 minutos ou crises
+repetidas sem recuperação do nível de consciência entre elas.
+A epilepsia mioclônica caracteriza-se por mioclônias bilaterais breves (1-2 segundos)
+afetando cabeça e membros superiores, muitas vezes no despertar e sem a presença de
+febre.
+Referência:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Tratado de pediatria . 6. ed. Barueri: Manole,
+2025. 2 v.
+Feedback:
+-36ª QUESTÃO
+Enunciado:
+(AFYA UNIGRANRIO BARRA DA TIJUCA) Homem de 32 anos é admitido no pronto-socorro
+após colisão automobilística de alta energia. Chega imobilizado em prancha rígida e com
+colar cervical.
+Durante a avaliação primária do trauma, apresenta:
+Escala de Coma de Glasgow: 8.
+Frequência respiratória: 30 irpm.
+Saturação periférica de oxigênio: 88% em ar ambiente, elevando para 90% com
+máscara com reservatório.
+Uso de musculatura acessória da respiração.
+Estridor inspiratório.
+Voz rouca.
+Sangue em cavidade oral.
+Os sinais hemodinâmicos mostram:
+Pressão arterial: 110 × 70 mmHg.
+Frequência cardíaca: 118 bpm.
+Considerando os princípios do atendimento inicial ao politraumatizado segundo os
+protocolos ATLS/PHTLS, assinale a alternativa correta em relação ao manejo das vias
+aéreas.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 51 de 76
+
+Alternativas:
+(alternativa A)
+Instituir ventilação não invasiva com pressão positiva associada à sedação leve, visando
+reduzir o esforço respiratório e melhorar a oxigenação inicial.
+(alternativa B) (CORRETA)
+Realizar intubação orotraqueal em sequência rápida, mantendo estabilização cervical e
+preparando manejo de via aérea difícil diante do risco iminente de falência ventilatória.
+(alternativa C)
+Manter oxigenoterapia com máscara reservatório e observação clínica contínua,
+priorizando inicialmente estabilização hemodinâmica antes da definição de via aérea
+definitiva.
+(alternativa D)
+Realizar aspiração das vias aéreas superiores e manter ventilação espontânea sob
+monitorização, devido à manutenção parcial da saturação periférica de oxigênio.
+
+Resposta comentada:
+Realizar intubação orotraqueal em sequência rápida, mantendo estabilização cervical e
+preparando manejo de via aérea difícil diante do risco iminente de falência ventilatória.—
+Correta.
+O paciente apresenta múltiplos sinais de via aérea ameaçada, incluindo Glasgow ≤ 8,
+estridor, sangue em cavidade oral e insuficiência respiratória progressiva. Nessa
+situação, está indicada via aérea definitiva por intubação orotraqueal com sequência
+rápida, mantendo estabilização cervical e preparo para via aérea difícil.
+Manter oxigenoterapia com máscara reservatório e observação clínica contínua,
+priorizando inicialmente estabilização hemodinâmica antes da definição de via aérea
+definitiva.— Incorreta.
+Embora a oxigenoterapia seja medida inicial importante, o paciente apresenta critérios
+de comprometimento iminente da via aérea, não sendo adequada apenas a observação
+clínica.
+Realizar aspiração das vias aéreas superiores e manter ventilação espontânea sob
+monitorização, devido à manutenção parcial da saturação periférica de oxigênio.—
+Incorreta.
+A aspiração de secreções pode ser necessária, porém não substitui a necessidade de via
+aérea definitiva diante do risco de deterioração ventilatória e neurológica.
+Instituir ventilação não invasiva com pressão positiva associada à sedação leve, visando
+reduzir o esforço respiratório e melhorar a oxigenação inicial.— Incorreta.
+A ventilação não invasiva é contraindicada em pacientes com rebaixamento importante
+do nível de consciência, risco de aspiração e sinais de obstrução de vias aéreas
+superiores.
+Referências:
+American College of Surgeons
+AMERICAN COLLEGE OF SURGEONS.
+ATLS: Advanced Trauma Life Support Student Course Manual. 11. ed. Chicago: ACS, 2025.
+NAEMT.
+PHTLS: Prehospital Trauma Life Support . 10. ed. Burlington: Jones & Bartlett Learning,
+2024.
+PORTO, Celmo Celeno; PORTO, Arnaldo Lemos.
+Semiologia médica . 8. ed. Rio de Janeiro: Guanabara Koogan, 2019.
+
+Feedback:
+-37ª QUESTÃO
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 52 de 76
+
+Enunciado:
+(AFYA PORTO VELHO) Um homem de 64 anos, hipertenso e tabagista, é admitido na
+emergência hospitalar com início súbito de fraqueza em hemicorpo direito e dificuldade
+para falar há 1 hora e 20 minutos. A esposa relata que o paciente estava assintomático
+até deixar cair um objeto da mão direita e passar a apresentar fala arrastada. Nega
+cefaleia intensa, vômitos ou perda de consciência.
+No exame físico: pressão arterial 168/96 mmHg, FC 88 bpm, glicemia capilar 112 mg/dL,
+Glasgow 15. Apresenta hemiparesia direita (força grau 3/5) e afasia motora. NIHSS = 9.
+Foi realizada tomografia computadorizada (TC) de crânio sem contraste, abaixo:
+
+Fonte: Radiopaedia (2026).
+Descrição dos achados tomográficos: TC de crânio sem contraste evidenciando estrutura
+vascular hiperdensa no trajeto da artéria cerebral média direita.
+Com base nos achados clínicos e tomográficos, indique o diagnóstico e a conduta
+terapêutica inicial mais adequada.
+Alternativas:
+(alternativa A)
+Hemorragia subaracnoidea aneurismática; iniciar nimodipina e solicitar angiotomografia
+cerebral para investigação etiológica imediata.
+(alternativa B)
+Ataque isquêmico transitório; manter observação hospitalar, iniciar antiagregação
+plaquetária e realizar investigação etiológica subsequente.
+(alternativa C) (CORRETA)
+Acidente vascular encefálico isquêmico em fase hiperaguda; realizar trombólise
+intravenosa após confirmação de critérios clínicos e laboratoriais de elegibilidade.
+(alternativa D)
+Hemorragia intracerebral aguda; iniciar controle pressórico intensivo e solicitar avaliação
+neurocirúrgica emergencial conforme protocolo institucional.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 53 de 76
+
+Resposta comentada:
+Alternativa correta: Acidente vascular encefálico isquêmico em fase hiperaguda; realizar
+trombólise intravenosa após confirmação de critérios clínicos e laboratoriais de
+elegibilidade.
+O quadro clínico caracteriza déficit neurológico focal súbito compatível com síndrome
+vascular do território da artéria cerebral média, com tempo de início conhecido inferior a
+4,5 horas. A tomografia computadorizada sem contraste não evidencia hemorragia
+intracraniana e demonstra sinal de hiperdensidade arterial no trajeto da artéria cerebral
+média, achado associado à presença de trombo intraluminal.De acordo com as diretrizes
+atuais para manejo do acidente vascular encefálico isquêmico agudo, pacientes com
+déficit neurológico mensurável e dentro da janela terapêutica devem ser avaliados para
+terapia de reperfusão, sendo a trombólise intravenosa com alteplase indicada quando
+não há contraindicações clínicas ou laboratoriais.
+Alternativas incorretas:
+Hemorragia intracerebral aguda; iniciar controle pressórico intensivo e solicitar avaliação
+neurocirúrgica emergencial conforme protocolo institucional. Incorreta. A tomografia não
+evidencia hemorragia intraparenquimatosa. A estrutura hiperdensa observada
+corresponde a vaso arterial, e não a coleção hemorrágica.
+Hemorragia subaracnoidea aneurismática; iniciar nimodipina e solicitar angiotomografia
+cerebral para investigação etiológica imediata. Incorreta. Hemorragia subaracnoidea
+tipicamente cursa com cefaleia súbita intensa e hiperdensidade nos sulcos ou cisternas
+basais na TC, achados que não estão presentes no exame descrito.
+Ataque isquêmico transitório; manter observação hospitalar, iniciar antiagregação
+plaquetária e realizar investigação etiológica subsequente. Incorreta. O paciente
+apresenta déficit neurológico persistente e mensurável (NIHSS 9), incompatível com
+ataque isquêmico transitório. Além disso, encontra-se dentro da janela terapêutica para
+tratamento de reperfusão.
+Referências:
+ACADEMIA BRASILEIRA DE NEUROLOGIA. Diretrizes para o manejo do acidente vascular
+cerebral isquêmico e hemorrágico. São Paulo: ABN, última edição.
+BRASIL. Ministério da Saúde. Protocolo clínico e diretrizes terapêuticas: acidente vascular
+encefálico (AVE). Brasília: Ministério da Saúde, 2013.
+DYNAMED. Stroke: acute management. Ipswich (MA): EBSCO Information Services.
+Disponível em: https://www.dynamed.com/management/stroke-acute-management-1.
+Acesso em: 3 mar. 2026.
+DYNAMED. Subarachnoid hemorrhage. Ipswich (MA): EBSCO Information Services.
+Disponível em: https://www.dynamed.com/condition/subarachnoid-hemorrhage. Acesso
+em: 3 mar. 2026.
+RADIOPAEDIA. Hyperdense MCA sign (brain). Disponível em:
+https://radiopaedia.org/articles/hyperdense-mca-sign-brain-1. Acesso em: 3 mar. 2026.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 54 de 76
+
+Feedback:
+Alternativa correta: Acidente vascular encefálico isquêmico em fase hiperaguda; realizar
+trombólise intravenosa após confirmação de critérios clínicos e laboratoriais de
+elegibilidade.
+O quadro clínico caracteriza déficit neurológico focal súbito compatível com síndrome
+vascular do território da artéria cerebral média, com tempo de início conhecido inferior a
+4,5 horas. A tomografia computadorizada sem contraste não evidencia hemorragia
+intracraniana e demonstra sinal de hiperdensidade arterial no trajeto da artéria cerebral
+média, achado associado à presença de trombo intraluminal.De acordo com as diretrizes
+atuais para manejo do acidente vascular encefálico isquêmico agudo, pacientes com
+déficit neurológico mensurável e dentro da janela terapêutica devem ser avaliados para
+terapia de reperfusão, sendo a trombólise intravenosa com alteplase indicada quando
+não há contraindicações clínicas ou laboratoriais.
+Alternativas incorretas:
+Hemorragia intracerebral aguda; iniciar controle pressórico intensivo e solicitar avaliação
+neurocirúrgica emergencial conforme protocolo institucional. Incorreta. A tomografia não
+evidencia hemorragia intraparenquimatosa. A estrutura hiperdensa observada
+corresponde a vaso arterial, e não a coleção hemorrágica.
+Hemorragia subaracnoidea aneurismática; iniciar nimodipina e solicitar angiotomografia
+cerebral para investigação etiológica imediata. Incorreta. Hemorragia subaracnoidea
+tipicamente cursa com cefaleia súbita intensa e hiperdensidade nos sulcos ou cisternas
+basais na TC, achados que não estão presentes no exame descrito.
+Ataque isquêmico transitório; manter observação hospitalar, iniciar antiagregação
+plaquetária e realizar investigação etiológica subsequente. Incorreta. O paciente
+apresenta déficit neurológico persistente e mensurável (NIHSS 9), incompatível com
+ataque isquêmico transitório. Além disso, encontra-se dentro da janela terapêutica para
+tratamento de reperfusão.
+Referências:
+ACADEMIA BRASILEIRA DE NEUROLOGIA. Diretrizes para o manejo do acidente vascular
+cerebral isquêmico e hemorrágico. São Paulo: ABN, última edição.
+BRASIL. Ministério da Saúde. Protocolo clínico e diretrizes terapêuticas: acidente vascular
+encefálico (AVE). Brasília: Ministério da Saúde, 2013.
+DYNAMED. Stroke: acute management. Ipswich (MA): EBSCO Information Services.
+Disponível em: https://www.dynamed.com/management/stroke-acute-management-1.
+Acesso em: 3 mar. 2026.
+DYNAMED. Subarachnoid hemorrhage. Ipswich (MA): EBSCO Information Services.
+Disponível em: https://www.dynamed.com/condition/subarachnoid-hemorrhage. Acesso
+em: 3 mar. 2026.
+RADIOPAEDIA. Hyperdense MCA sign (brain). Disponível em:
+https://radiopaedia.org/articles/hyperdense-mca-sign-brain-1. Acesso em: 3 mar. 2026.
+
+38ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 55 de 76
+
+Enunciado:
+(AFYA JI-PARANÁ) Paciente vítima de colisão motocicleta versus automóvel é admitido na
+sala de trauma do pronto-socorro. Segundo a equipe pré-hospitalar, foi encontrado a
+aproximadamente 8 metros do ponto de impacto, sem capacete, com perda de
+consciência no local e vômitos durante o transporte. Na admissão, apresenta respiração
+ruidosa, secreção e sangue em cavidade oral, saturação periférica de oxigênio de 88%
+em ar ambiente, frequência respiratória de 8 irpm, pressão arterial de 118/76 mmHg e
+frequência cardíaca de 112 bpm.
+Ao exame neurológico inicial, abre os olhos apenas à dor, emite sons incompreensíveis e
+apresenta flexão anormal ao estímulo doloroso. As pupilas são anisocóricas, com pupila
+direita maior e fotorreagência diminuída. Há escoriações frontotemporais e suspeita de
+trauma cervical associado.
+Considerando a cinemática do trauma, a avaliação neurológica e o manejo inicial da via
+aérea e ventilação, qual é a conduta mais adequada?
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar abordagem sistematizada pelo ABCDE, com proteção cervical, aspiração da
+cavidade oral, abertura da via aérea, oxigenação e ventilação assistida; diante do
+Glasgow grave e da ventilação inadequada, indicar intubação orotraqueal com proteção
+cervical e proceder à reavaliação neurológica e tomografia após estabilização inicial.
+(alternativa B)
+Encaminhar imediatamente o paciente para tomografia computadorizada de crânio, pois
+a anisocoria sugere lesão expansiva intracraniana, devendo o exame de imagem ser
+priorizado antes de intervenções de via aérea enquanto houver estabilidade
+hemodinâmica.
+(alternativa C)
+Realizar hiperventilação agressiva e imediata com bolsa-válvula-máscara para reduzir
+rapidamente a pressão intracraniana, priorizando correção da anisocoria e prevenção de
+herniação cerebral antes da aspiração das secreções e da estabilização da coluna
+cervical.
+(alternativa D)
+Administrar oxigênio suplementar por cateter nasal e manter observação clínica inicial,
+aguardando avaliação da neurocirurgia antes de realizar via aérea definitiva, pois a
+sedação e a intubação podem dificultar o acompanhamento evolutivo da Escala de Coma
+de Glasgow nas primeiras horas do trauma, devendo ser evitados até a realização da
+tomografia.
+
+Resposta comentada:
+Gabarito comentado:
+Resposta correta: Realizar abordagem sistematizada pelo ABCDE, com proteção cervical,
+aspiração da cavidade oral, abertura da via aérea, oxigenação e ventilação assistida;
+diante do Glasgow grave e da ventilação inadequada, indicar intubação orotraqueal com
+proteção cervical e proceder à reavaliação neurológica e tomografia após estabilização
+inicial.
+A alternativa é correta porque contempla a prioridade do atendimento ao
+politraumatizado segundo o protocolo do atendimento inicial ao trauma, com abordagem
+sistematizada pelo ABCDE, priorizando a manutenção da vida antes da investigação
+diagnóstica definitiva.
+O paciente apresenta múltiplos sinais de traumatismo cranioencefálico grave, associados
+a comprometimento ventilatório importante:
+Escala de Coma de Glasgow = 7
+Abertura ocular à dor = 2
+Sons incompreensíveis = 2
+Flexão anormal = 3
+Frequência respiratória de 8 irpm.
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 56 de 76
+
+Saturação de 88%.
+Respiração ruidosa.
+Sangue e secreções em cavidade oral.
+Vômitos prévios.
+Suspeita de trauma cervical.
+Nesse contexto, a prioridade imediata é garantir via aérea pérvia com proteção da coluna
+cervical, além de corrigir hipoxemia e hipoventilação. O Glasgow ≤ 8 configura indicação
+clássica de intubação orotraqueal para proteção da via aérea.
+A sequência adequada inclui:
+1. Proteção cervical;
+2. Aspiração de secreções e sangue;
+3. Oxigenação e ventilação assistida;
+4. Intubação orotraqueal com estabilização cervical;
+5. Reavaliação clínica e neurológica;
+6. Tomografia computadorizada após estabilização inicial.
+A anisocoria sugere possível lesão expansiva intracraniana e hipertensão intracraniana,
+porém isso não precede a estabilização das funções vitais.
+Comentário das alternativas incorretas:
+Alternativa incorreta: Encaminhar imediatamente o paciente para tomografia
+computadorizada de crânio, pois a anisocoria sugere lesão expansiva intracraniana,
+devendo o exame de imagem ser priorizado antes de intervenções de via aérea enquanto
+houver estabilidade hemodinâmica.
+Embora a anisocoria realmente sugira possível lesão expansiva intracraniana, o paciente
+apresenta insuficiência ventilatória e incapacidade de proteger a via aérea. Em trauma, a
+prioridade segue o ABCDE, e a tomografia só deve ser realizada após estabilização inicial.
+Encaminhar diretamente ao exame sem controle de via aérea aumenta risco de hipóxia,
+broncoaspiração e piora secundária da lesão cerebral.
+Alternativa incorreta: Administrar oxigênio suplementar por cateter nasal e manter
+observação clínica inicial, aguardando avaliação da neurocirurgia antes de realizar via
+aérea definitiva, pois a sedação e a intubação podem dificultar o acompanhamento
+evolutivo da Escala de Coma de Glasgow nas primeiras horas do trauma, devendo ser
+evitados até a realização da tomografia.
+O paciente não possui condições de manter ventilação e proteção de via aérea
+adequadas apenas com oxigênio por cateter nasal. A preocupação em preservar o
+acompanhamento evolutivo do Glasgow não pode se sobrepor à necessidade de
+estabilização vital. Em pacientes com Glasgow grave, hipoventilação e risco de aspiração,
+a intubação é indicada e não deve ser postergada aguardando avaliação neurocirúrgica.
+Alternativa incorreta: Realizar hiperventilação agressiva e imediata com bolsa-válvulamáscara para reduzir rapidamente a pressão intracraniana, priorizando correção da
+anisocoria e prevenção de herniação cerebral antes da aspiração das secreções e da
+estabilização da coluna cervical.
+A hiperventilação agressiva não constitui medida inicial prioritária no trauma
+cranioencefálico. Além disso, antes de qualquer estratégia ventilatória avançada, é
+fundamental garantir via aérea adequada, aspiração de secreções e proteção cervical.
+Hiperventilação excessiva pode causar vasoconstrição cerebral e redução da perfusão
+encefálica, sendo reservada apenas para situações específicas e temporárias de
+herniação iminente.
+Referências:
+AMERICAN COLLEGE OF SURGEONS. ATLS: Suporte Avançado de Vida no Trauma. Manual
+do Curso de Alunos. 11. ed. Chicago: American College of Surgeons, 2025.
+NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS PHTLS: Atendimento
+pré-hospitalar ao traumatizado. 10. ed. Rio de Janeiro: Elsevier, 2023.
+TOWNSEND, Courtney M.; BEAUCHAMP, R. Daniel; EVERS, B. Mark; MATTOX, Kenneth
+L. Sabiston. Tratado de Cirurgia: a base biológica da prática cirúrgica moderna. Tradução
+do Colégio Brasileiro de Cirurgiões. 21. ed. Rio de Janeiro: Guanabara Koogan, 2024.
+2128 p. ISBN 978-85-9515-981-5.
+Feedback:
+--
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 57 de 76
+
+39ª QUESTÃO
+Enunciado:
+(AFYA IPATINGA) Uma menina de 7 anos é atendida em ambulatórios de pediatria por
+febre diária (picos de 38,5–39,2 °C) há 17 dias, associada a perda ponderal (aprox. 2 kg
+no período), astenia e redução do apetite. Não há foco infeccioso evidente. Nega tosse
+persistente, disúria ou diarreia. Vacinas em dia.
+Ao exame físico: palidez cutaneomucosa, linfonodo cervical posterior palpável (2 cm de
+diâmetro, firme, pouco doloroso), hepatoesplenomegalia discreta. Ausculta pulmonar sem
+alterações, sem sinais meníngeos.
+O médico solicita exames iniciais: hemograma completo, PCR/VHS, transaminases, LDH,
+urina tipo I e hemoculturas. O hemograma retorna com Hb 9,2 g/dL, plaquetas
+85.000/mm³, leucócitos 3.100/mm³ (neutrófilos 900/mm³) e LDH elevada.
+Com base nesse cenário, assinale a alternativa que representa o próximo passo
+diagnóstico apropriado para estabelecer a estratégia diagnóstica, considerando a
+hipótese de doença oncológica na infância.
+Alternativas:
+(alternativa A)
+Solicitar cintilografia óssea como primeiro exame complementar, pois febre prolongada
+com perda de peso sugere metástase óssea.
+(alternativa B)
+Iniciar antibiótico de amplo espectro e observar a evolução da paciente por 72 horas;
+repetir hemograma caso haja evidente piora clínica.
+(alternativa C)
+Solicitar tomografia de crânio e ressonância magnética de coluna antes de outra
+investigação hematológica, para estadiar possível neoplasia.
+(alternativa D) (CORRETA)
+Encaminhar para realizar mielograma e estudo complementar (ex.: imunofenotipagem),
+mantendo investigação infecciosa em paralelo.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 58 de 76
+
+Resposta comentada:
+Resposta correta: "Encaminhar para realizar mielograma e estudo complementar (ex.:
+imunofenotipagem), mantendo investigação infecciosa em paralelo."
+Comentários:
+"Iniciar antibiótico de amplo espectro e observar a evolução da paciente por 72 horas;
+repetir hemograma caso haja evidente piora clínica." Há sinais de alarme que mudam a
+estratégia: citopenias em duas/três linhagens (anemia + trombocitopenia +
+leucopenia/neutropenia), LDH elevada e hepatoesplenomegalia/linfonodomegalia. Nesse
+contexto, “observar com antibiótico” posterga um diagnóstico potencialmente grave
+(como leucemia/linfoma) e não é o melhor próximo passo.
+"Solicitar tomografia de crânio e ressonância magnética de coluna antes de outra
+investigação hematológica, para estadiar possível neoplasia." TC/RM podem ser úteis em
+cenários específicos (massa mediastinal, sintomas neurológicos, tumor sólido suspeito),
+mas aqui o padrão é primariamente hematológico. Antes de “estadiar”, é necessário
+confirmar o diagnóstico, e as citopenias apontam para investigação de medula óssea.
+"Encaminhar para realizar mielograma e estudo complementar (ex.: imunofenotipagem),
+mantendo investigação infecciosa em paralelo." O conjunto febre prolongada + perda
+ponderal + adenomegalia + hepatoesplenomegalia + pancitopenia (ou bicitopenia
+importante) + LDH elevada é altamente sugestivo de neoplasia hematológica
+(especialmente leucemia aguda e, em alguns casos, linfoma com infiltração medular).
+Nessa situação, o próximo passo diagnóstico mais apropriado é avaliar medula óssea
+(aspirado/biópsia) para confirmação, classificação e direcionamento terapêutico, ao
+mesmo tempo em que se mantém a investigação infecciosa (por exemplo, por causa de
+neutropenia e febre).
+"Solicitar cintilografia óssea como primeiro exame, pois febre prolongada com perda de
+peso sugere metástase óssea." A cintilografia óssea pode ser útil em investigação de dor
+óssea, suspeita de acometimento esquelético por tumores sólidos, ou algumas neoplasias
+específicas. Porém, não é o primeiro passo diante de um padrão hematológico tão forte e
+objetivo no hemograma. Além disso, febre prolongada e perda de peso não significam
+“metástase óssea” por si só.
+Referências:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Manual de Oncologia Pediátrica / Documentos do
+Departamento Científico de Oncologia. Rio de Janeiro: SBP, s.d. Disponível em:
+https://www.sbp.com.br/. Acesso em: 1 mar. 2026.
+BRASIL. Ministério da Saúde. Protocolo de diagnóstico precoce do câncer pediátrico.
+Brasília, DF: Ministério da Saúde, 2017. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/protocolo_diagnostico_precoce_cancer_pediat
+rico.pdf. Acesso em: 1 mar. 2026.
+BRASIL. Ministério da Saúde. Protocolos de Atenção à Saúde: Atenção às Doenças
+Prevalentes na Infância (abordagem de sinais de alarme e investigação). Brasília:
+Ministério da Saúde, s.d.
+PUI, C.-H.; CAMPANA, D.; PEI, D. et al. Treating childhood acute lymphoblastic leukemia
+without cranial irradiation (artigos e revisões sobre diagnóstico e estratificação em
+leucemias pediátricas). New England Journal of Medicine , Boston, 2009. (Para
+fundamentos de abordagem diagnóstica e risco; consultar PubMed para a versão
+específica).
+Feedback:
+-40ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 59 de 76
+
+Enunciado:
+(AFYA JI-PARANÁ) A Vigilância em Saúde do Trabalhador (VISAT) integra o Sistema
+Nacional de Vigilância em Saúde e articula ações de promoção, prevenção, assistência e
+vigilância relacionadas aos agravos decorrentes dos processos de trabalho. No âmbito do
+Sistema Único de Saúde (SUS), acidentes ocupacionais com exposição a material
+biológico exigem medidas assistenciais imediatas, avaliação do risco biológico e registro
+nos sistemas oficiais de vigilância em saúde.
+Durante atendimento em uma Unidade Básica de Saúde (UBS), um médico sofre acidente
+perfurocortante com agulha previamente utilizada em paciente com sorologia
+desconhecida para HIV e hepatites virais. Após o acidente, o profissional procura
+atendimento imediato na própria unidade para definição das condutas iniciais.
+Considerando o caso descrito, as recomendações vigentes para exposição ocupacional a
+material biológico e os fluxos de vigilância em saúde do trabalhador no SUS, assinale a
+alternativa mais adequada.
+Alternativas:
+(alternativa A)
+Realizar avaliação clínica inicial, orientar seguimento ambulatorial do trabalhador exposto
+e programar notificação do agravo após confirmação sorológica do caso-fonte.
+(alternativa B)
+Realizar avaliação clínica inicial, solicitar sorologias complementares do trabalhador
+exposto e definir necessidade de profilaxia pós-exposição após reavaliação laboratorial
+seriada.
+(alternativa C)
+Realizar avaliação clínica inicial, emitir Comunicação de Acidente de Trabalho (CAT) e
+postergar definição das medidas de vigilância epidemiológica até avaliação
+especializada.
+(alternativa D) (CORRETA)
+Realizar avaliação clínica inicial, analisar indicação de profilaxia pós-exposição conforme
+protocolo vigente e registrar o agravo relacionado ao trabalho nos sistemas de vigilância
+em saúde.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 60 de 76
+
+Resposta comentada:
+Alternativa — Correta: Realizar avaliação clínica inicial, analisar indicação de profilaxia
+pós-exposição conforme protocolo vigente e registrar o agravo relacionado ao trabalho
+nos sistemas de vigilância em saúde.
+Acidentes ocupacionais com exposição a material biológico exigem avaliação clínica
+imediata, análise do risco de transmissão e definição precoce da necessidade de
+profilaxia pós-exposição (PEP), conforme protocolos vigentes do Ministério da Saúde.
+Além da assistência inicial, o agravo deve ser registrado nos sistemas oficiais de
+vigilância em saúde, permitindo monitoramento epidemiológico e organização das ações
+de saúde do trabalhador no SUS.
+Alternativa — Incorreta: Realizar avaliação clínica inicial, solicitar sorologias
+complementares do trabalhador exposto e definir necessidade de profilaxia pósexposição após reavaliação laboratorial seriada.
+Embora a solicitação de exames laboratoriais possa integrar o acompanhamento clínico,
+a definição da profilaxia pós-exposição não deve ser adiada até reavaliações seriadas,
+pois a efetividade da PEP depende do início oportuno das medidas indicadas.
+Alternativa — Incorreta: Realizar avaliação clínica inicial, orientar seguimento
+ambulatorial do trabalhador exposto e programar notificação do agravo após confirmação
+sorológica do caso-fonte.
+O seguimento ambulatorial do trabalhador exposto é parte importante do cuidado, porém
+a notificação do agravo não deve ser condicionada à confirmação sorológica do casofonte, devendo ocorrer conforme protocolos de vigilância.
+Alternativa — Incorreta: Realizar avaliação clínica inicial, emitir Comunicação de Acidente
+de Trabalho (CAT) e postergar definição das medidas de vigilância epidemiológica até
+avaliação especializada.
+A emissão da Comunicação de Acidente de Trabalho (CAT) pode integrar a condução
+administrativa do caso, porém não substitui a necessidade de definição imediata das
+medidas assistenciais e de vigilância epidemiológica.
+Referências:
+BRASIL. Ministério da Saúde.
+Portaria de Consolidação nº 4, de 28 de setembro de 2017. Consolidação das normas
+sobre os sistemas e os subsistemas do Sistema Único de Saúde. Diário Oficial da União :
+seção 1, Brasília, DF, 3 out. 2017. Disponível em:
+https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0004_03_10_2017.html. Acesso
+em: 29 mar. 2026.
+BRASIL. Ministério da Saúde.
+Acidentes de trabalho com exposição a material biológico. Brasília: Ministério da Saúde,
+2022. Disponível em: https://www.gov.br/saude. Acesso em: 29 mar. 2026.
+BRASIL. Ministério do Trabalho e Emprego.
+Norma Regulamentadora nº 32 (NR-32): Segurança e Saúde no Trabalho em Serviços de
+Saúde. Brasília: Ministério do Trabalho e Emprego, 2022. Disponível em:
+https://www.gov.br/trabalho-e-emprego. Acesso em: 29 mar. 2026.
+Feedback:
+-41ª QUESTÃO
+Enunciado:
+(AFYA MANACAPURU) Uma equipe de suporte avançado atende um homem de 30 anos,
+vítima de colisão frontal em rodovia. Após a conclusão da avaliação primária (XABCDE) e
+estabilização das ameaças imediatas à vida, o paciente apresenta-se com PA 110/70
+mmHg, FC 94 bpm e Glasgow 14. O médico inicia a avaliação secundária para detalhar
+lesões e definir o destino hospitalar.
+Considerando a sistematização da avaliação secundária e o Esquema de Decisão de
+Triagem de Campo, assinale a alternativa que descreve a conduta e interpretação
+corretas.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 61 de 76
+
+Alternativas:
+(alternativa A) (CORRETA)
+A pesquisa secundária deve ser realizada após a estabilização do XABCDE,
+compreendendo o exame céfalo-podálico, sinais vitais e histórico SAMPLE para decidir a
+transferência a um centro de trauma.
+(alternativa B)
+A avaliação secundária é o momento de identificar obstruções de vias aéreas e
+hemorragias exsanguinantes; utiliza a reanimação volêmica agressiva como parte do
+histórico SAMPLE para evitar o choque.
+(alternativa C)
+O exame céfalo-caudal deve ser iniciado simultaneamente ao XABCDE para garantir que
+fraturas ocultas sejam tratadas antes de qualquer intervenção ventilatória,
+independentemente da gravidade da cena.
+(alternativa D)
+O histórico SAMPLE deve priorizar o ambiente e o mecanismo do trauma, o exame físico
+detalhado dos membros; se os sinais vitais iniciais estiverem dentro da normalidade, não
+deve atrasar o transporte.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 62 de 76
+
+Resposta comentada:
+Alternativa: A pesquisa secundária deve ser realizada após a estabilização do XABCDE,
+compreendendo o exame céfalo-podálico, sinais vitais e histórico SAMPLE para decidir a
+transferência a um centro de trauma. Está correta. De acordo com o manual de HAM VIII,
+a avaliação secundária é uma busca sistemática (céfalo-caudal) por lesões
+remanescentes e ocultas, realizada somente após a estabilização das funções vitais
+(XABCDE). Ela integra os sinais vitais e o mnemônico SAMPLE (Alergias, Medicamentos,
+Passado médico, Líquidos/alimentos, Eventos/Ambiente) para fundamentar a decisão de
+transferência para uma unidade de tratamento definitivo.
+Alternativas incorretas:
+O histórico SAMPLE deve priorizar apenas o ambiente e o mecanismo do trauma,
+dispensando o exame físico detalhado dos membros se os sinais vitais iniciais estiverem
+dentro da normalidade fisiológica. Esta alternativa é incorreta, pois o mnemônico SAMPLE
+é abrangente (inclui alergias, medicações e passado médico) e o exame físico céfalopodálico é obrigatório na fase secundária para identificar lesões que não foram
+detectadas na fase primária, independentemente da estabilidade hemodinâmica
+aparente.
+A avaliação secundária é o momento de identificar obstruções de vias aéreas e
+hemorragias exsanguinantes, utilizando a reanimação volêmica agressiva como parte do
+histórico SAMPLE para evitar o choque. Esta alternativa está incorreta, pois confunde as
+etapas do atendimento. A identificação de obstrução de via aérea (A) e hemorragias
+graves (X/C) pertence à avaliação primária. O histórico SAMPLE é uma ferramenta de
+coleta de dados subjetivos e do passado clínico, não um protocolo de reanimação
+volêmica.
+O exame céfalo-caudal deve ser iniciado simultaneamente ao XABCDE para garantir que
+fraturas ocultas sejam tratadas antes de qualquer intervenção ventilatória,
+independentemente da gravidade da cena. Esta alternativa fere a hierarquia do trauma.
+O tratamento de fraturas ocultas e o exame detalhado (secundário) nunca devem atrasar
+as intervenções de suporte à vida (vias aéreas e ventilação). A segurança da cena e a
+avaliação primária sempre precedem a busca por lesões não ameaçadoras à vida.
+Referências:
+REFERÊNCIAS: AMERICAN COLLEGE OF SURGEONS. ATLS: suporte avançado de vida no
+trauma: manual do curso de alunos. 11. ed. Chicago: American College of Surgeons,
+2025.
+MAIA, Núbia Cristina de Freitas et al. HAM VIII - Manual do Professor: versão 2026.1, 8º
+Período [S.l.: s.n.], 2026.
+NATIONAL ASSOCIATION OF EMERGENCY MEDICAL TECHNICIANS. PHTLS: atendimento
+pré-hospitalar ao traumatizado. 10. ed. Rio de Janeiro: Elsevier, 2024.
+
+Feedback:
+-42ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 63 de 76
+
+Enunciado:
+(AFYA REDENÇÃO) A Portaria GM/MS nº 3.493/2024 reformulou o modelo de
+financiamento federal da Atenção Primária à Saúde (APS), substituindo a lógica centrada
+na capitação ponderada por uma metodologia orientada pela composição das equipes,
+equidade territorial e acompanhamento das condições de vulnerabilidade social.
+Durante reunião técnica de gestão em um município da região Norte do Brasil,
+caracterizado por extensas áreas rurais, vulnerabilidade social e dificuldades de acesso
+geográfico, a equipe gestora discute os impactos do novo modelo de financiamento sobre
+a sustentabilidade da rede assistencial e a distribuição dos recursos federais.
+Com base na Portaria GM/MS nº 3.493/2024 e nos princípios organizativos da Atenção
+Primária à Saúde, analise as assertivas a seguir.
+I. O componente de Vínculo e Acompanhamento Territorial considera indicadores
+relacionados à vulnerabilidade social e características territoriais para apoiar a
+distribuição equitativa de recursos federais na APS.
+II. O componente Qualidade (Desempenho) permanece previsto no financiamento da APS,
+associado ao monitoramento de indicadores e resultados assistenciais relacionados ao
+processo de cuidado.
+III. O financiamento federal da APS passou a contemplar componentes relacionados ao
+Valor Base por Equipe, Vínculo e Acompanhamento Territorial, Qualidade (Desempenho)
+e ações estratégicas específicas.
+IV. O modelo atual de financiamento da APS mantém mecanismos de acompanhamento
+populacional e territorial, porém deixa de utilizar o cadastramento individual como eixo
+predominante de transferência de recursos federais.
+Assinale a alternativa que apresenta apenas as assertivas corretas.
+Alternativas:
+(alternativa A) (CORRETA)
+I, II, III e IV.
+(alternativa B)
+I e II.
+(alternativa C)
+I e III.
+(alternativa D)
+II, III e IV.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 64 de 76
+
+Resposta comentada:
+Assertiva I — Correta.
+A Portaria GM/MS nº 3.493/2024 introduz o componente de Vínculo e Acompanhamento
+Territorial com foco em equidade distributiva, considerando vulnerabilidade social e
+características territoriais para qualificação do financiamento federal da APS.
+Assertiva II — Correta.
+O componente Qualidade (Desempenho) permanece previsto no modelo de
+financiamento, articulado ao acompanhamento de indicadores assistenciais e ao
+monitoramento dos resultados relacionados ao cuidado ofertado pelas equipes.
+Assertiva III — Correta.
+O financiamento federal da APS passou a organizar-se em componentes relacionados ao
+Valor Base por Equipe, Vínculo e Acompanhamento Territorial, Qualidade (Desempenho)
+e incentivos vinculados a ações estratégicas.
+Assertiva IV — Correta.
+A nova metodologia de financiamento deixa de utilizar o cadastramento individual como
+principal eixo de transferência financeira, priorizando maior equilíbrio entre composição
+das equipes, acompanhamento territorial e condições de vulnerabilidade social.
+Alternativa correta: I, II, III e IV.
+Referências:
+BRASIL. Ministério da Saúde. Portaria GM/MS nº 3.493, de 10 de abril de 2024. Institui
+nova metodologia de cofinanciamento federal do Piso da Atenção Primária à Saúde no
+âmbito do Sistema Único de Saúde (SUS). Diário Oficial da União: seção 1, Brasília, DF, 11
+abr. 2024. Disponível em: https://www.in.gov.br/. Acesso em: 29 mar. 2026.
+BRASIL. Ministério da Saúde. Novo modelo de financiamento federal da Atenção Primária
+à Saúde. Brasília: Ministério da Saúde, 2025.
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica (PNAB). Portaria nº
+2.436, de 21 de setembro de 2017. Brasília: Ministério da Saúde, 2017.
+CONSELHO NACIONAL DE SECRETARIAS MUNICIPAIS DE SAÚDE (CONASEMS).
+Financiamento da Atenção Primária à Saúde: orientações técnicas aos gestores
+municipais. Brasília: CONASEMS, 2025.
+Feedback:
+-43ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 65 de 76
+
+Enunciado:
+(AFYA JI-PARANÁ) A Vigilância em Saúde utiliza sistemas de informação para registro,
+monitoramento epidemiológico e produção de estatísticas vitais relacionadas ao
+nascimento e ao óbito. No Sistema Único de Saúde (SUS), destacam-se o Sistema de
+Informações sobre Mortalidade (SIM) e o Sistema de Informações sobre Nascidos Vivos
+(SINASC), utilizados para análise epidemiológica e planejamento das ações em saúde.
+Em uma maternidade vinculada ao SUS, ocorreram os seguintes eventos:
+Situação 1
+Gestante com 30 semanas de gestação evoluiu para parto de concepto pesando 1.400 g,
+sem respiração, batimentos cardíacos, pulsação do cordão umbilical ou movimentos
+musculares voluntários ao nascimento.
+Situação 2
+Recém-nascido apresentou sinais vitais ao nascimento, permanecendo internado e
+evoluindo para óbito aos 10 dias de vida.
+A equipe responsável pela vigilância dos eventos vitais necessita definir corretamente os
+documentos a serem emitidos, os sistemas de informação envolvidos e a classificação
+epidemiológica do óbito.
+Considerando as normas vigentes do SUS relacionadas às estatísticas vitais e à vigilância
+epidemiológica, assinale a alternativa mais adequada.
+Alternativas:
+(alternativa A)
+Na situação 1, devem ser emitidas Declaração de Nascido Vivo e Declaração de Óbito
+fetal, com registros no SINASC e no SIM; na situação 2, devem ser emitidas Declaração de
+Nascido Vivo e Declaração de Óbito, classificando o óbito como pós-neonatal.
+(alternativa B) (CORRETA)
+Na situação 1, deve ser emitida apenas Declaração de Óbito fetal com registro no SIM; na
+situação 2, devem ser emitidas Declaração de Nascido Vivo e Declaração de Óbito, com
+registros no SINASC e no SIM, classificando o óbito como neonatal tardio.
+(alternativa C)
+Na situação 1, devem ser emitidas Declaração de Nascido Vivo e Declaração de Óbito
+fetal com registros no SINASC e no SIM; na situação 2, devem ser emitidas Declaração de
+Nascido Vivo e Declaração de Óbito, classificando o óbito como neonatal tardio.
+(alternativa D)
+Na situação 1, deve ser emitida apenas Declaração de Óbito fetal com registro no SIM; na
+situação 2, devem ser emitidas Declaração de Nascido Vivo e Declaração de Óbito, com
+registros no SINASC e no SIM, classificando o óbito como neonatal precoce.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 66 de 76
+
+Resposta comentada:
+Alternativa — Correta: Na situação 1, deve ser emitida apenas Declaração de Óbito fetal
+com registro no SIM; na situação 2, devem ser emitidas Declaração de Nascido Vivo e
+Declaração de Óbito, com registros no SINASC e no SIM, classificando o óbito como
+neonatal tardio.
+Na situação 1, não houve sinais vitais ao nascimento, caracterizando óbito fetal. Nesses
+casos, deve ser emitida apenas a Declaração de Óbito fetal, com registro no Sistema de
+Informações sobre Mortalidade (SIM), sem emissão de Declaração de Nascido Vivo (DNV).
+Na situação 2, houve nascimento com sinais vitais, caracterizando nascido vivo segundo
+os critérios do Ministério da Saúde. Portanto, devem ser emitidas a Declaração de
+Nascido Vivo (DNV) e a Declaração de Óbito (DO), com registros no SINASC e no SIM.
+Como o óbito ocorreu entre o 7º e o 27º dia de vida, classifica-se como óbito neonatal
+tardio.
+Alternativa — Incorreta: Na situação 1, deve ser emitida apenas Declaração de Óbito fetal
+com registro no SIM; na situação 2, devem ser emitidas Declaração de Nascido Vivo e
+Declaração de Óbito, com registros no SINASC e no SIM, classificando o óbito como
+neonatal precoce.
+A condução documental da situação 1 está adequada; entretanto, o óbito ocorrido aos 10
+dias de vida não corresponde à classificação neonatal precoce, restrita aos óbitos
+ocorridos do nascimento até o 6º dia completo de vida.
+Alternativa — Incorreta: Na situação 1, devem ser emitidas Declaração de Nascido Vivo e
+Declaração de Óbito fetal, com registros no SINASC e no SIM; na situação 2, devem ser
+emitidas Declaração de Nascido Vivo e Declaração de Óbito, classificando o óbito como
+neonatal tardio.
+Na situação 1, a emissão de Declaração de Nascido Vivo é inadequada, pois o concepto
+não apresentou sinais vitais ao nascimento, caracterizando óbito fetal e não nascido vivo.
+Alternativa — Incorreta: Na situação 1, devem ser emitidas Declaração de Nascido Vivo e
+Declaração de Óbito fetal, com registros no SINASC e no SIM; na situação 2, devem ser
+emitidas Declaração de Nascido Vivo e Declaração de Óbito, classificando o óbito como
+pós-neonatal.
+Além da emissão inadequada de Declaração de Nascido Vivo na situação 1, o óbito
+ocorrido aos 10 dias de vida não corresponde ao período pós-neonatal, que se inicia após
+o 27º dia completo de vida.
+Referências:
+BRASIL. Ministério da Saúde.
+Manual de instruções para o preenchimento da Declaração de Óbito. Brasília: Ministério
+da Saúde, 2022. Disponível em: https://www.gov.br/saude. Acesso em: 29 mar. 2026.
+BRASIL. Ministério da Saúde.
+Manual de instruções para o preenchimento da Declaração de Nascido Vivo. Brasília:
+Ministério da Saúde, 2022. Disponível em: https://www.gov.br/saude. Acesso em: 29 mar.
+2026.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde.
+Guia de Vigilância em Saúde. 5. ed. Brasília: Ministério da Saúde, 2021.
+CONSELHO FEDERAL DE MEDICINA (CFM).
+Resolução CFM nº 1.779/2005. Regulamenta a responsabilidade médica no fornecimento
+da Declaração de Óbito. Brasília: CFM, 2005.
+
+Feedback:
+-44ª QUESTÃO
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 67 de 76
+
+Enunciado:
+(AFYA UNIGRANRIO BARRA DA TIJUCA) Um adolescente de 14 anos é levado à Unidade de
+Pronto Atendimento após ser retirado de uma piscina pública. Segundo testemunhas,
+permaneceu submerso por aproximadamente 2 minutos após uma brincadeira. Foi
+retirado da água consciente, apresentando tosse e desconforto respiratório.
+Na admissão, apresenta:
+Nível de consciência preservado, porém ansioso.
+Frequência respiratória: 28 irpm.
+Saturação periférica de oxigênio: 91% em ar ambiente.
+Frequência cardíaca: 118 bpm.
+Pressão arterial: 104 × 68 mmHg.
+Estertores finos bibasais à ausculta pulmonar.
+Tosse persistente associada à eliminação de pequena quantidade de espuma rosada.
+Temperatura corporal: 35,2 ºC.
+Não há sinais de trauma associado.
+Após administração de oxigênio suplementar por máscara com reservatório, a saturação
+periférica melhora para 95%.
+Considerando os princípios atuais de atendimento ao afogamento, assinale a alternativa
+correta.
+Alternativas:
+(alternativa A)
+A melhora parcial da saturação periférica após oxigenoterapia exclui risco de
+complicações respiratórias subsequentes, dispensando necessidade de monitorização
+hospitalar.
+(alternativa B)
+O quadro é compatível com afogamento leve sem repercussão respiratória significativa,
+sendo indicada observação breve seguida de alta após melhora subjetiva dos sintomas.
+(alternativa C) (CORRETA)
+Apresenta afogamento com comprometimento respiratório, necessitando oxigenoterapia
+suplementar, monitorização contínua e observação clínica devido ao risco de deterioração
+pulmonar tardia.
+(alternativa D)
+A presença de estertores pulmonares e espuma rosada indica necessidade obrigatória de
+intubação orotraqueal imediata e ventilação mecânica invasiva.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 68 de 76
+
+Resposta comentada:
+Apresenta afogamento com comprometimento respiratório, necessitando oxigenoterapia
+suplementar, monitorização contínua e observação clínica devido ao risco de deterioração
+pulmonar tardia.— Correta.
+O paciente apresenta sinais de comprometimento respiratório secundário ao afogamento,
+incluindo hipoxemia, estertores pulmonares e espuma rosada, compatíveis com
+aspiração pulmonar e edema alveolar inicial. O manejo inclui oxigenoterapia,
+monitorização contínua e observação clínica devido ao risco de deterioração respiratória
+tardia.
+O quadro é compatível com afogamento leve sem repercussão respiratória significativa,
+sendo indicada observação breve seguida de alta após melhora subjetiva dos sintomas.—
+Incorreta.
+A presença de hipoxemia e alterações pulmonares à ausculta afasta quadro leve sem
+repercussão respiratória significativa.
+A presença de estertores pulmonares e espuma rosada indica necessidade obrigatória de
+intubação orotraqueal imediata e ventilação mecânica invasiva. — Incorreta.
+Embora o paciente apresente desconforto respiratório, mantém ventilação espontânea
+eficaz e melhora parcial da oxigenação com suporte suplementar, não havendo indicação
+obrigatória imediata de ventilação invasiva.
+A melhora parcial da saturação periférica após oxigenoterapia exclui risco de
+complicações respiratórias subsequentes, dispensando necessidade de monitorização
+hospitalar.— Incorreta.
+Pacientes vítimas de afogamento podem apresentar piora respiratória progressiva
+mesmo após melhora inicial da saturação, sendo necessária observação clínica adequada.
+Referências:
+AMERICAN COLLEGE OF SURGEONS.
+ATLS: Advanced Trauma Life Support Student Course Manual. 11. ed. Chicago: American
+College of Surgeons, 2025.
+AMERICAN HEART ASSOCIATION.
+Pediatric Advanced Life Support: Provider Manual. Dallas: AHA, 2020.
+Feedback:
+-45ª QUESTÃO
+Enunciado:
+(AFYA BRAGANÇA) Gestante de 28 anos, G2P1A0, com 32 semanas de gestação,
+comparece à Unidade Básica de Saúde para consulta de pré-natal. Refere cefaleia
+persistente há três dias e edema em membros inferiores. Ao exame físico, apresenta
+pressão arterial de 158x102 mmHg, confirmada em duas aferições com intervalo
+adequado. Nega histórico prévio de hipertensão arterial. Exames laboratoriais revelam
+proteinúria de 450 mg em urina de 24 horas. Não há relato de convulsões ou alterações
+visuais.
+Com base nos critérios diagnósticos das doenças hipertensivas da gestação, assinale a
+alternativa que apresenta o diagnóstico mais adequado para o caso clínico.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 69 de 76
+
+Alternativas:
+(alternativa A)
+Hipertensão arterial crônica diagnosticada previamente à gestação atual.
+(alternativa B)
+Eclâmpsia caracterizada por crise convulsiva associada à hipertensão gestacional.
+(alternativa C)
+Hipertensão gestacional sem critérios laboratoriais de gravidade.
+(alternativa D) (CORRETA)
+Pré-eclâmpsia com critérios laboratoriais confirmatórios após vinte semanas gestacionais.
+
+Resposta comentada:
+O quadro clínico descrito apresenta gestante com idade gestacional superior a 20
+semanas, pressão arterial persistentemente elevada (158x102 mmHg) confirmada em
+duas aferições e presença de proteinúria de 450 mg em urina de 24 horas, sem histórico
+prévio de hipertensão arterial. Esses achados são compatíveis com o diagnóstico de préeclâmpsia, caracterizada pela associação entre hipertensão arterial de início após a 20.ª
+semana de gestação e proteinúria significativa ou sinais de disfunção de órgãos
+maternos.
+A hipertensão gestacional é definida pela elevação da pressão arterial após a 20.ª
+semana de gestação, porém sem presença de proteinúria ou sinais de comprometimento
+de órgãos-alvo, o que não corresponde ao quadro apresentado.
+A hipertensão arterial crônica é diagnosticada quando a elevação da pressão arterial
+precede a gestação, é identificada antes da 20.ª semana de gestação ou persiste após o
+período puerperal, o que também não se aplica ao caso descrito.
+A eclâmpsia caracteriza-se pela ocorrência de convulsões tônico-clônicas generalizadas
+em gestantes com pré-eclâmpsia, na ausência de outras causas neurológicas, situação
+que não foi relatada na paciente apresentada.
+Por sua vez, a síndrome HELLP corresponde a uma complicação grave associada à préeclâmpsia, caracterizada por hemólise, elevação de enzimas hepáticas e plaquetopenia,
+alterações laboratoriais que não foram descritas no caso clínico.
+Dessa forma, considerando os critérios clínicos e laboratoriais apresentados, o
+diagnóstico mais adequado para o caso é pré-eclâmpsia.
+Referências:
+BEREK, Jonathan S.; BEREK, Deborah L. Berek & Novak. Tratado de Ginecologia. 16. ed.
+Rio de Janeiro: Guanabara Koogan, 2016. E-book. p. Capa. ISBN 9788527738392.
+Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788527738392/.
+Acesso em: 12 maio 2025.
+CENDOROGLO, Maysa S. Guia de Geriatria e Gerontologia. Ed. Manole, 2011. E-book.
+ISBN 9788520451908. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788520451908/. Acesso em: 12 maio
+2025.
+Feedback:
+-46ª QUESTÃO
+Enunciado:
+(AFYA ITABUNA) Um homem de 52 anos procura a Unidade Básica de Saúde para
+consulta de rotina. Refere cefaleia occipital esporádica e cansaço aos esforços
+moderados. É sedentário, apresenta IMC de 31 kg/m² e dieta rica em alimentos
+ultraprocessados. Após técnica correta e repouso adequado, apresenta PA de 152/96
+mmHg na primeira consulta e 148/94 mmHg em retorno após uma semana. Exames
+laboratoriais sem alterações significativas. Com base nas recomendações atuais, assinale
+a alternativa correta.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 70 de 76
+
+Alternativas:
+(alternativa A)
+Hipertensão estágio 2; iniciar monoterapia anti-hipertensiva associada a mudança no
+estilo de vida e reavaliar em três meses antes de considerar associação medicamentosa
+adicional.
+(alternativa B) (CORRETA)
+Hipertensão estágio 2; iniciar tratamento farmacológico imediato, preferencialmente com
+combinação de dois fármacos de classes diferentes, associado a mudanças no estilo de
+vida.
+(alternativa C)
+Hipertensão estágio 1; solicitar MAPA obrigatoriamente antes de confirmar diagnóstico e
+adiar qualquer intervenção terapêutica até novo exame complementar.
+(alternativa D)
+Hipertensão estágio 1; indicar apenas mudanças no estilo de vida por três a seis meses e
+solicitar exames para investigação renal antes de iniciar qualquer tratamento
+farmacológico anti-hipertensivo.
+
+Resposta comentada:
+O paciente apresenta pressão arterial consistentemente ≥140/90 mmHg, confirmando
+hipertensão estágio 2. As recomendações atuais enfatizam:
+- Início imediato de terapia farmacológica em hipertensão estágio 2: Para PA ≥140/90
+mmHg em consultas repetidas, o risco cardiovascular já é suficiente para justificar
+medicação desde o diagnóstico. O uso inicial de dupla terapia combinada de fármacos de
+classes diferentes (por exemplo, IECA ou BRA + diurético tiazídico ou bloqueador de canal
+de cálcio) aumenta a chance de atingir a meta pressórica rapidamente e com menor
+efeito colateral.
+- Combinação com medidas não farmacológicas: Redução de peso, dieta balanceada
+(padrão DASH), restrição de sódio (<2 g/dia), prática regular de atividade física (150
+min/semana), moderação do álcool e cessação do tabagismo. As intervenções não
+farmacológicas podem reduzir a pressão arterial em até 10 mmHg e potencializam o
+efeito dos medicamentos.
+- Meta pressórica individualizada com recomendação de pressão alvo <130/80 mmHg
+para a maioria dos adultos, considerando risco cardiovascular global e tolerância clínica.
+- Monitoramento e seguimento com reavaliação periódica da PA, função renal, eletrólitos
+e adesão ao tratamento. Ajuste da terapia farmacológica conforme resposta e
+tolerabilidade.
+Referências:
+Brasil. Ministério da Saúde. Caderno de Atenção Básica – Estratégias para o Cuidado da
+Pessoa com Doença Crônica: Hipertensão Arterial Sistêmica. Brasília: Ministério da Saúde,
+2013.
+Brasil. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Hipertensão
+Arterial Sistêmica. Brasília: Ministério da Saúde, 2022.
+Feedback:
+-47ª QUESTÃO
+Enunciado:
+(AFYA ITAJUBÁ) Homem de 45 anos procura atendimento na emergência com dor
+epigástrica intensa iniciada há cerca de 12 horas, irradiando para dorso, associada a
+náuseas e múltiplos episódios de vômitos. Refere ingestão frequente de bebidas
+alcoólicas nos últimos anos, com consumo elevado no final de semana anterior. No
+exame físico, apresenta dor à palpação em epigástrio e discreta distensão abdominal. Os
+exames laboratoriais mostram elevação significativa de lipase e amilase séricas.
+Considerando o quadro, qual é a conduta terapêutica mais adequada no atendimento
+inicial a este paciente?
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 71 de 76
+
+Alternativas:
+(alternativa A)
+Indicação imediata de intervenção cirúrgica para descompressão pancreática em
+pacientes com dor abdominal intensa.
+(alternativa B)
+Introdução de dieta oral hipolipídica nas primeiras horas, com objetivo de reduzir
+estímulo pancreático.
+(alternativa C) (CORRETA)
+Jejum associado à hidratação venosa vigorosa, analgesia e monitorização para
+identificação precoce de complicações.
+(alternativa D)
+Introdução precoce de antibióticos de amplo espectro visando prevenir infecção
+pancreática em todos os casos.
+
+Resposta comentada:
+Alternativas comentadas:
+Jejum associado à hidratação venosa vigorosa, analgesia adequada e monitorização
+clínica para identificação precoce de complicações.
+Correta. O manejo inicial da pancreatite aguda baseia-se em medidas de suporte,
+incluindo jejum, hidratação venosa adequada, controle da dor e monitorização clínica e
+laboratorial para identificação de complicações como necrose pancreática, coleções e
+abscessos.
+Introdução precoce de antibióticos de amplo espectro visando prevenir infecção
+pancreática em todos os casos.
+Incorreta. O uso profilático de antibióticos não é recomendado rotineiramente na
+pancreatite aguda. Antibióticos são indicados apenas quando há suspeita ou confirmação
+de infecção, como necrose pancreática infectada ou outras complicações infecciosas.
+Indicação imediata de intervenção cirúrgica para descompressão pancreática em
+pacientes com dor abdominal intensa.
+Incorreta. A maioria dos casos de pancreatite aguda é manejada inicialmente de forma
+conservadora. A abordagem cirúrgica ou intervencionista é reservada para complicações
+específicas, como necrose infectada ou coleções complicadas.
+Introdução de dieta oral hipolipídica nas primeiras horas, com objetivo de reduzir
+estímulo pancreático.
+Incorreta. Na fase inicial da pancreatite aguda, costuma-se instituir jejum para reduzir o
+estímulo pancreático. A alimentação oral é reintroduzida gradualmente após melhora
+clínica e controle da dor.
+Referência:
+DOHERTY, Gerard M. CURRENT Cirurgia. 14. ed. Porto Alegre: AMGH, 2017. E-book. p.
+610. ISBN 9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580556018/. Acesso em: 04
+mar. 2026.
+Feedback:
+-48ª QUESTÃO
+Enunciado:
+(AFYA TERESINA) Criança de 4 anos é admitida no hospital com história de febre alta há
+24 horas, vômitos e irritabilidade progressiva. Evoluiu nas últimas horas com sonolência e
+episódio de crise convulsiva tônico-clônica generalizada. Ao exame físico, apresenta
+rigidez de nuca, sinal de Brudzinski positivo e múltiplas lesões petequiais em membros
+inferiores. Frequência cardíaca de 150 bpm, pressão arterial limítrofe para idade e
+enchimento capilar lento. Diante do quadro clínico sugestivo de meningite bacteriana, a
+equipe discute o plano terapêutico inicial. Qual é a conduta inicial mais adequada para
+essa criança?
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 72 de 76
+
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar antibioticoterapia endovenosa imediata com ceftriaxona após coleta de
+hemoculturas.
+(alternativa B)
+Administrar antibiótico via oral e manter acompanhamento ambulatorial.
+(alternativa C)
+Aguardar confirmação do líquor para iniciar antibiótico específico direcionado.
+(alternativa D)
+Prescrever anticonvulsivante isolado e observar evolução clínica por 24 horas.
+
+Resposta comentada:
+Iniciar antibioticoterapia endovenosa imediata com ceftriaxona após coleta de
+hemoculturas. – Correta. O quadro é altamente sugestivo de meningite meningocócica,
+especialmente pela presença de febre, sinais meníngeos e exantema petequial. A
+antibioticoterapia endovenosa deve ser iniciada imediatamente após coleta de
+hemoculturas, sem aguardar resultado do líquor, devido ao risco de rápida evolução para
+sepse e choque.
+Aguardar confirmação do líquor para iniciar antibiótico específico direcionado. – Incorreta.
+O atraso no início do antibiótico aumenta morbimortalidade. O tratamento deve ser
+iniciado empiricamente diante da suspeita clínica.
+Prescrever anticonvulsivante isolado e observar evolução clínica por 24 horas. – Incorreta.
+A crise convulsiva é manifestação da infecção do sistema nervoso central e não substitui
+a necessidade de antibioticoterapia imediata.
+Administrar antibiótico via oral e manter acompanhamento ambulatorial. – Incorreta.
+Trata-se de quadro grave que exige internação hospitalar e terapia endovenosa.
+Referências:
+BRASIL. Ministério da Saúde. Guia de Vigilância em Saúde . 5. ed. Brasília: Ministério da
+Saúde, 2021.
+KLIEGMAN, R. M. et al. Nelson – Tratado de Pediatria . 21. ed. Rio de Janeiro: Elsevier,
+2020.
+Feedback:
+-49ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Na UBS, comparece mulher de 56 anos com queixa de “lentidão” e
+“corpo duro” há 6 semanas, com piora progressiva. Refere dificuldade para abotoar
+roupas, escrita menor e marcha mais lenta. Nega episódios de perda de consciência,
+cefaleia, febre ou sintomas sensitivos. Diz que o humor está estável, mas relata uso de
+haloperidol iniciado há 4 meses por transtorno psicótico, em seguimento no CAPS. Nega
+uso de metoclopramida. Sinais vitais: PA 126/78 mmHg, FC 72 bpm, FR 16 irpm, T 36,6
+°C, SpO₂ 98% em ar ambiente. Exame neurológico: fácies hipomímica, bradicinesia
+evidente em membros superiores, rigidez em roda denteada bilateral (simétrica), marcha
+com passos curtos e redução do balanço dos braços de forma bilateral. Tremor de
+repouso ausente. Reflexos osteotendíneos normais, sensibilidade preservada. Sem sinais
+cerebelares. Não há paralisia do olhar vertical. Considerando o quadro clínico, o
+diagnóstico mais provável é
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 73 de 76
+
+Alternativas:
+(alternativa A)
+doença de Parkinson idiopática.
+(alternativa B)
+atrofia de múltiplos sistemas.
+(alternativa C) (CORRETA)
+parkinsonismo induzido por fármacos.
+(alternativa D)
+paralisia supranuclear progressiva.
+
+Resposta comentada:
+Doença de Parkinson idiopática. Incorreto: tipicamente inicia de forma assimétrica, com
+progressão lenta; tremor de repouso e sintomas não motores (hiposmia, constipação,
+distúrbio comportamental do sono REM) podem estar presentes. A relação temporal com
+neuroléptico e a simetria tornam menos provável.
+Parkinsonismo induzido por fármacos. Correto: o quadro é de síndrome parkinsoniana
+(bradicinesia + rigidez + alteração de marcha), com início subagudo após introdução de
+neuroléptico (haloperidol, potente antagonista dopaminérgico). A apresentação simétrica,
+a ausência de tremor de repouso e a relação temporal com o medicamento favorecem
+parkinsonismo induzido por fármacos, um diagnóstico comum e relevante na prática do
+SUS por impactar segurança, funcionalidade e adesão ao tratamento psiquiátrico.
+Paralisia supranuclear progressiva. Incorreto: costuma ter quedas precoces, rigidez axial
+importante e alteração do olhar vertical (principalmente para baixo), o que não aparece
+no exame.
+Atrofia de múltiplos sistemas. Incorreto: esperam-se disautonomia precoce (hipotensão
+ortostática, disfunção urinária), sinais cerebelares e pior resposta a levodopa; ausentes
+aqui.
+Referências:
+POSTUMA, Ronald B. et al. MDS clinical diagnostic criteria for Parkinson’s disease.
+Movement Disorders, Hoboken, v. 30, n. 12, p. 1591–1601, 2015.
+SHIRAIWA, Naoko et al. Clinical features of drug-induced parkinsonism. Neurology and
+Clinical Neuroscience, Tokyo, v. 3, n. 3, p. 99–103, 2015.
+Feedback:
+-50ª QUESTÃO
+Enunciado:
+(AFYA MONTES CLAROS) Paciente masculino, 75 anos, tabagista ativo (50 maços/ano),
+procura atendimento com história de tosse seca persistente há 4 meses, evoluindo
+recentemente com episódios de hemoptise. Refere perda ponderal de 8 kg no período,
+anorexia e dor torácica ventilatório-dependente à direita. Nega febre. No exame físico,
+apresenta emagrecimento importante, hipocratismo digital e diminuição do murmúrio
+vesicular em hemitórax superior direito.
+Radiografia de tórax evidenciou massa pulmonar em lobo superior direito.
+Considerando o caso clínico, a alternativa que apresenta o diagnóstico mais provável e
+um achado clínico frequentemente associado a essa condição é:
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 74 de 76
+
+Alternativas:
+(alternativa A) (CORRETA)
+carcinoma broncogênico – hipocratismo digital como possível manifestação associada.
+(alternativa B)
+tuberculose pulmonar – febre vespertina e sudorese noturna como principais achados
+associados.
+(alternativa C)
+doença pulmonar obstrutiva crônica – tosse produtiva matinal isolada como principal
+manifestação associada.
+(alternativa D)
+pneumonia bacteriana – leucocitose e febre alta como principais manifestações
+associadas.
+
+Resposta comentada:
+Carcinoama broncogênico – hipocratismo digital como possível manifestação associada.
+Correta.
+O paciente apresenta múltiplos sinais de alarme compatíveis com Câncer de Pulmão:
+idade avançada;
+tabagismo importante (50 maços/ano);
+tosse persistente;
+hemoptise;
+perda ponderal;
+anorexia;
+dor torácica;
+massa pulmonar em lobo superior;
+hipocratismo digital.
+O hipocratismo digital é um achado clássico associado a neoplasias pulmonares,
+especialmente carcinomas broncogênicos.
+Distratores:
+Tuberculose pulmonar – febre vespertina e sudorese noturna como principais achados
+associados. Incorreta. Embora a tuberculose possa cursar com tosse crônica e hemoptise,
+o achado de massa pulmonar em paciente tabagista com perda ponderal importante e
+hipocratismo digital é muito mais sugestivo de neoplasia pulmonar. Além disso, o
+hipocratismo é mais associado a câncer do que à tuberculose.
+Pneumonia bacteriana – leucocitose e febre alta como principais manifestações
+associadas. Incorreta. A pneumonia apresenta evolução aguda, geralmente com febre,
+expectoração purulenta e consolidação pulmonar, não sendo caracterizada por massa
+pulmonar crônica com perda ponderal progressiva.
+Doença pulmonar obstrutiva crônica – tosse produtiva matinal isolada como principal
+manifestação associada. Incorreta. Embora o tabagismo seja fator de risco para DPOC,
+essa condição não cursa com massa pulmonar nem com hemoptise persistente e perda
+ponderal significativa como principal característica inicial. Esses são sinais de alerta para
+câncer.
+Referências:
+Diagnóstico e Tratamento em Pneumologia (Cardoso et al.): CARDOSO, Alexandre Pinto;
+RABELLO, Eucir; MELLO, Fernanda Carvalho de Queiroz. Diagnóstico e tratamento em
+pneumologia. Barueri: Manole, 2021.
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 75 de 76
+
+Feedback:
+--
+
+000199.38001e.2c8bb4.38e93d.ad8f7f.8ae584.37ed10.575e2
+
+Página 76 de 76
+
+

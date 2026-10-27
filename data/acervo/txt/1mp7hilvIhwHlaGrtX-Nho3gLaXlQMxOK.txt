@@ -1,0 +1,1039 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Sistemas Orgânicos Integrados I
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 26/09/2025
+
+N1 ESPECÍFICA - MEDICINA - SOI I - 2025.2 - 1ª CHAMADA 26/SETEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17270 - CADERNO 001
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+
+Enunciado:
+(FIP Guanambi) Um neonato a termo, nascido de parto vaginal, apresenta cianose central e
+desconforto respiratório poucas horas após o nascimento. A equipe médica suspeita de uma falha
+na transição da circulação fetal para a neonatal. A ecocardiografia revela que uma estrutura que
+deveria desviar o sangue da circulação pulmonar na vida fetal permaneceu aberta, permitindo a
+passagem de sangue da aorta para a artéria pulmonar (shunt esquerda-direita) devido à queda da
+resistência vascular pulmonar. Essa condição está sobrecarregando a circulação pulmonar do
+bebê.
+Com base no cenário clínico descrito, qual estrutura fetal falhou em seu processo de fechamento
+fisiológico, resultando na sintomatologia do recém-nascido?
+Alternativas:
+(alternativa A)
+O forame oval, causando um shunt atrial progressivo.
+(alternativa B)
+O ducto venoso, mantendo um desvio do fluxo portal.
+(alternativa C)
+As artérias umbilicais, causando fluxo sanguíneo anormal.
+(alternativa D) (CORRETA)
+O ducto arterioso, resultando em hiperfluxo pulmonar.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 1 de 27
+
+Resposta comentada:
+O forame oval, causando um shunt atrial progressivo.
+O forame oval é uma comunicação entre os átrios, importante na vida fetal para desviar o sangue
+da direita para a esquerda, evitando o pulmão.
+Se ele permanecer aberto, pode gerar shunt atrial (normalmente da esquerda para a direita após o
+nascimento, já que a pressão atrial esquerda fica maior).
+No entanto, no enunciado há passagem de sangue da aorta para a artéria pulmonar, o que não é
+compatível com o forame oval, mas sim com outra estrutura.
+Comentário: alternativa incorreta, pois o shunt descrito não ocorre em nível atrial.
+O ducto venoso, mantendo um desvio do fluxo portal.
+O ducto venoso, na vida fetal, conecta a veia umbilical diretamente à veia cava inferior, desviando
+o sangue oxigenado do fígado.
+Após o nascimento, ele se fecha espontaneamente, transformando-se em ligamento venoso.
+Sua persistência não causaria cianose ou sobrecarga pulmonar, mas sim alterações
+hemodinâmicas hepáticas/portais.
+Comentário: alternativa incorreta, não explica o quadro clínico descrito.
+O ducto arterioso, resultando em hiperfluxo pulmonar.
+O ducto arterioso, na vida fetal, conecta a artéria pulmonar à aorta, permitindo que o sangue
+bypass o pulmão.
+Após o nascimento, com a queda da resistência vascular pulmonar e aumento da pressão
+aórtica, o fluxo se inverte (da aorta para a artéria pulmonar), resultando em shunt esquerda-direita,
+levando a hiperfluxo pulmonar e sintomas de desconforto respiratório e cianose central.
+Comentário: alternativa correta, pois descreve exatamente o mecanismo fisiopatológico do caso
+clínico.
+As artérias umbilicais, causando fluxo sanguíneo anormal.
+As artérias umbilicais levam sangue venoso do feto para a placenta. Após o nascimento, o cordão
+é clampeado e elas se obliteram, tornando-se ligamentos umbilicais mediais.
+Sua persistência não tem relação direta com cianose ou sobrecarga pulmonar, apenas com
+alterações locais de fluxo.
+Comentário: alternativa incorreta, não explica o quadro do neonato.
+Referência:
+MOORE, Keith M.; PERSAUDE, T. V. N. Embriologia Clínica. 11. ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2020. E-book. Capa. ISBN 9788595157811. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595157811/. Acesso em: 20 ago. 2025.
+Feedback:
+-2ª QUESTÃO
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 2 de 27
+
+Enunciado:
+(UNIFIPMOC) Um homem de 62 anos apresenta dor torácica em aperto após caminhar por
+alguns minutos. Durante a investigação, o exame de angiotomografia evidencia obstrução
+significativa em ramo da artéria coronária direita. O médico explica que alterações na irrigação
+cardíaca comprometem a oferta de oxigênio ao miocárdio, podendo desencadear arritmias devido
+à influência sobre a excitabilidade das fibras cardíacas e à ação da inervação autônoma.
+A análise do caso permite concluir que:
+Alternativas:
+(alternativa A)
+a estimulação parassimpática cardíaca aumenta a frequência e a força de contração, elevando a
+demanda de oxigênio do miocárdio.
+(alternativa B)
+a perfusão coronária ocorre de forma mais intensa durante a sístole, quando há maior pressão
+intraventricular e expansão dos ramos arteriais.
+(alternativa C)
+a circulação sistêmica é responsável pelo retorno venoso ao coração por meio do seio coronário,
+localizado na face posterior do átrio direito.
+(alternativa D) (CORRETA)
+a circulação coronária garante o suprimento energético ao miocárdio, uma vez que o sangue
+intracavitário não é capaz de nutrir diretamente a parede cardíaca.
+
+Resposta comentada:
+A perfusão coronária ocorre de forma mais intensa durante a sístole, quando há maior pressão
+intraventricular e expansão dos ramos arteriais. – Incorreto.
+A perfusão ocorre principalmente na diástole, quando há relaxamento ventricular e menor
+compressão dos vasos intramiocárdicos.
+A circulação coronária garante o suprimento energético ao miocárdio, uma vez que o sangue
+intracavitário não é capaz de nutrir diretamente a parede cardíaca. – Correto.
+A função da circulação coronariana é nutrir o tecido cardíaco, já que a parede do coração é
+espessa e não recebe oxigênio de forma eficaz do sangue dentro das câmaras.
+A circulação sistêmica é responsável pelo retorno venoso ao coração por meio do seio coronário,
+localizado na face posterior do átrio direito. – Incorreto.
+O retorno venoso do seio coronário faz parte da circulação coronariana, não da sistêmica em
+geral.
+A estimulação parassimpática cardíaca aumenta a frequência e a força de contração, elevando a
+demanda de oxigênio do miocárdio. – Incorreto.
+O parassimpático reduz a frequência cardíaca e a força de contração; quem aumenta é o
+simpático.
+Referência:
+TORTORA, Gerard J. Princípios de anatomia e fisiologia. 14ª ed. Rio de Janeiro: Guanabara
+Koogan, 2019, 1201 p.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 3 de 27
+
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(AFYA Palmas) Homem, 45 anos, chega ao consultório médico com queixas de fadiga crônica,
+desconforto abdominal e diarreia intermitente que persistem há aproximadamente um mês. Ele
+relata ter viajado recentemente para uma área rural com saneamento básico precário. O exame
+físico não revela alterações significativas, exceto por uma leve palidez. O médico suspeita de
+uma infecção parasitária e solicita um hemograma completo para investigar a causa dos
+sintomas.
+Resultado do Hemograma:
+Parâmetro
+
+Resultado Unidade Valor de Referência
+
+Hemácias
+
+4,2 x 106
+
+/µL
+
+4,5 – 5,5 x 106
+
+Hemoglobina
+
+12,5
+
+g/dL
+
+13 – 17
+
+Leucócitos totais 8.500
+
+/µL
+
+4.000 – 11.000
+
+Neutrófilos
+
+47
+
+%
+
+50 – 70
+
+Eosinófilos
+
+18
+
+%
+
+1–4
+
+Linfócitos
+
+30
+
+%
+
+20 – 40
+
+Monócitos
+
+4
+
+%
+
+2–8
+
+Basófilos
+
+1
+
+%
+
+0-1
+
+Com base no hemograma e no quadro clínico do paciente, qual das seguintes alternativas
+descreve corretamente a função da principal célula envolvida na infecção?
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 4 de 27
+
+Alternativas:
+(alternativa A)
+Diferencia-se em plasmócitos para produzir anticorpos específicos que neutralizam toxinas e
+vírus na corrente sanguínea.
+(alternativa B)
+Atua como célula apresentadora de antígenos, ativando outras células de defesa para coordenar a
+resposta imune adaptativa.
+(alternativa C)
+Realiza a fagocitose de pequenas bactérias e fungos, sendo a primeira a chegar ao local da
+infecção para a defesa inicial.
+(alternativa D) (CORRETA)
+Libera grânulos citotóxicos, contendo enzimas e proteínas, para danificar a membrana e a parede
+de parasitas grandes.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 5 de 27
+
+Resposta comentada:
+A alteração mais notável no hemograma do paciente é a eosinofilia (aumento significativo de
+eosinófilos). Essa condição está frequentemente associada a infecções parasitárias
+(especialmente por vermes) e reações alérgicas. A questão buscava a função específica dos
+eosinófilos no contexto de uma infecção parasitária, devido ao precário saneamento básico.
+Correta: Libera grânulos citotóxicos, contendo proteínas e enzimas, para danificar a membrana e
+a parede de parasitas grandes.
+Esta é a função primária dos eosinófilos no combate a parasitas helmintos (vermes) que são
+grandes demais para serem englobados por fagocitose. Os eosinófilos se aderem à superfície
+desses parasitas e liberam o conteúdo de seus grânulos, que contêm proteínas e enzimas
+tóxicas. A proteína básica principal (MBP) e a proteína catiônica dos eosinófilos (ECP) são
+particularmente eficazes em perfurar e desestabilizar a membrana do parasita, levando à sua
+morte.
+Incorretas:
+- Realiza a fagocitose de pequenas bactérias e fungos, sendo a primeira a chegar ao local da
+infecção para a defesa inicial.
+Esta função é a principal dos neutrófilos, que são os leucócitos mais abundantes e a linha de
+frente de defesa contra infecções bacterianas. Embora eosinófilos possam realizar fagocitose,
+essa não é sua especialidade nem o motivo do seu aumento em parasitoses.
+- Diferencia-se em plasmócitos para produzir anticorpos específicos que neutralizam toxinas e
+vírus na corrente sanguínea.
+Esta função pertence aos linfócitos B. Após o reconhecimento de um antígeno, eles se
+diferenciam em plasmócitos, que são as "fábricas" de anticorpos. Este mecanismo faz parte da
+imunidade humoral, que é importante em diversas infecções, mas não é a principal resposta
+mediada por eosinófilos.
+- Atua como célula apresentadora de antígenos, ativando outras células de defesa para coordenar
+a resposta imune adaptativa.
+A apresentação de antígenos é uma função central de células como os macrófagos e as células
+dendríticas. Elas internalizam patógenos, processam seus antígenos e os apresentam aos
+linfócitos T para ativar uma resposta imune adaptativa mais específica. Esta função não é o papel
+principal dos eosinófilos.
+Referências:
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Básica - Funções e Distúrbios
+do Sistema Imunológico. 7. ed. Rio de Janeiro: GEN Guanabara Koogan, 2025. E-book. p. 59.
+ISBN 9786561110204. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9786561110204/. Acesso em: 27 ago. 2025.
+GARTNER, Leslie P.; LEE, Lisa M J. Gartner & Hiatt. Histologia: Texto e Atlas. 8. ed. Rio de
+Janeiro: Guanabara Koogan, 2024. E-book. ISBN 9788527740142. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527740142/. Acesso em: 27 ago. 2025.
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. p. 447. ISBN 9788527739283. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 27 ago. 2025.
+
+Feedback:
+-000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 6 de 27
+
+4ª QUESTÃO
+Enunciado:
+(UNISL Porto Velho) A hemoglobina (Hb) é uma proteína encontrada exclusivamente nos
+eritrócitos e sua principal função é o transporte de oxigênio (O2) dos pulmões até os capilares dos
+tecidos periféricos. Existem variações nas cadeias polipeptídicas da Hb, que possibilitam
+classificá-las como HbF, HbA1, HbA2 e HbS, sendo esta última associada à anemia falciforme.
+Com base nessas informações, analise a figura a seguir:
+
+Fonte: Autoria do Elaborador
+
+Marque a alternativa que representa adequadamente o tipo de hemoglobina de acordo com a
+figura.
+Alternativas:
+(alternativa A) (CORRETA)
+A figura "B" representa a hemoglobina mais encontrada no feto e no recém-nascido.
+(alternativa B)
+A figura "A" representa a hemoglobina que está em menor quantidade nos adultos.
+(alternativa C)
+A figura "B" representa a hemoglobina que possui menor afinidade com oxigênio.
+(alternativa D)
+A figura "C" representa a hemoglobina que está em maior quantidade nos adultos.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 7 de 27
+
+Resposta comentada:
+A figura A ( 2 2) a hemoglobinana mais comum em adultos, denominada HbA1.
+A figura B ( 2 2) é a Hemoglobina fetal - HbF, presente no feto e no recém-nascido e pode
+constituir até 1% da Hb no adulto.
+Figura C ( 2δ2) é ahemoglobinaa menos comum no adulto,representandoo 2-5% - denominada
+HbA2.
+A alternativa correta é: A figura "B" representa a hemoglobina mais encontrada no feto e no
+recém-nascido.
+As alternativas incorretas:
+A figura "A" representa a hemoglobina que está em menor quantidade nos adultos. Está incorreta
+porque a figura A representa a hemoglobina mais encontrada em adultos, HbA1.
+A figura "C" representa a hemoglobina que está em maior quantidade nos adultos. Está incorreta
+porque a letra C representa a hemoglobina HbA2, que é menos comum no adulto.
+A figura "B" representa a hemoglobina que possui menor afinidade com oxigênio. Está incorreta
+porque a letra B é a hemoglobina fetal, que possui alta afinidade por O2. ISSO deve-se à baixa
+afinidade da cadeia pelo 2,3-BPG, o qual interage eficientemente com as cadeias expressas
+no adulto e garante transferência eficiente de oxigênio da mãe para o feto.
+Referência:
+HARVEY, R. A.; FERRIER, D. R. Bioquímica Ilustrada de Ferrier. 5ª edição. Porto Alegre:
+Artmed, 2012.
+
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(FACIMPA) Um homem de 55 anos, sedentário e com histórico de tabagismo, procura
+atendimento médico para uma consulta de rotina. Ele não relata queixas específicas no momento.
+Ao exame físico, apresenta-se em bom estado geral, com Índice de Massa Corporal (IMC) de 29
+kg/m². A ausculta cardíaca e pulmonar não revela alterações. Suas medidas de pressão arterial,
+aferidas em três ocasiões diferentes com a técnica correta, são consistentemente elevadas, com
+média de 150/95 mmHg. Exames laboratoriais complementares não sugerem uma causa
+secundária para a sua condição. O médico o diagnostica com Hipertensão Arterial Sistêmica
+(HAS) primária e explica que a condição está associada a um aumento da resistência ao fluxo
+sanguíneo nos vasos.
+Considerando a fisiologia do sistema vascular e o quadro clínico apresentado, qual segmento da
+árvore vascular é o principal responsável pelo aumento da resistência vascular periférica total que
+fundamenta o diagnóstico de hipertensão primária neste paciente?
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 8 de 27
+
+Alternativas:
+(alternativa A)
+As grandes artérias elásticas, como a aorta, que perdem sua complacência com a idade,
+dificultando a acomodação do volume sistólico ejetado pelo ventrículo.
+(alternativa B)
+As vênulas e veias, que atuam como os principais reservatórios de volume do sistema
+circulatório (vasos de capacitância) e, portanto, controlam a pressão de todo o sistema.
+(alternativa C)
+Os capilares, pois representam a maior área de secção transversal total do sistema, o que
+naturalmente impõe a maior barreira para a passagem do sangue.
+(alternativa D) (CORRETA)
+As arteríolas, devido à sua capacidade de contrair a espessa camada de músculo liso em sua
+parede, regulando ativamente o fluxo sanguíneo para os leitos capilares.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 9 de 27
+
+Resposta comentada:
+Alternativa Correta: As arteríolas, devido à sua capacidade de contrair a espessa camada de
+músculo liso em sua parede, regulando ativamente o fluxo sanguíneo para os leitos capilares.
+A regulação da pressão arterial sistêmica é primariamente determinada pelo débito cardíaco e
+pela resistência vascular periférica total (RVP). No caso da hipertensão arterial primária, o
+mecanismo fisiopatológico fundamental é, na maioria das vezes, um aumento inadequado e
+sustentado da RVP. As arteríolas são conhecidas como os "vasos de resistência" do sistema
+circulatório. Elas possuem uma parede muscular relativamente espessa (túnica média) em
+comparação com seu lúmen, que é ricamente inervada pelo sistema nervoso simpático e
+sensível a agentes vasoativos locais e humorais. A contração (vasoconstrição) ou relaxamento
+(vasodilatação) desse músculo liso altera drasticamente o raio do vaso, e como a resistência é
+inversamente proporcional à quarta potência do raio (R∝1/r4), pequenas mudanças no diâmetro
+arteriolar causam grandes variações na resistência. Portanto, as arteríolas são o principal local de
+controle da RVP e, consequentemente, da pressão arterial.
+Análise das alternativas incorretas:
+As grandes artérias elásticas, como a aorta, que perdem sua complacência com a idade,
+dificultando a acomodação do volume sistólico ejetado pelo ventrículo. - Incorreta. Embora a
+redução da complacência das grandes artérias (enrijecimento arterial) seja um fator que contribui
+para o aumento da pressão de pulso (diferença entre a sistólica e a diastólica), especialmente em
+idosos, ela não é o principal determinante do aumento da resistência vascular periférica total, que
+é a principal causa da elevação da pressão arterial média e diastólica na HAS primária. A função
+primária desses vasos é a de amortecimento da pulsação (efeito Windkessel).
+Os capilares, pois representam a maior área de secção transversal total do sistema, o que
+naturalmente impõe a maior barreira para a passagem do sangue. - Incorreta: Embora a área de
+secção transversal total dos capilares seja a maior do sistema, o que resulta na menor velocidade
+de fluxo sanguíneo (ideal para as trocas gasosas e de nutrientes), eles não são o principal local de
+resistência regulável. A resistência principal ocorre antes dos capilares, nas arteríolas, que
+funcionam como "torneiras", controlando o fluxo para dentro do leito capilar. A grande queda de
+pressão ocorre no segmento pré-capilar (arteríolas).
+As vênulas e veias, que atuam como os principais reservatórios de volume do sistema
+circulatório (vasos de capacitância), controlam a pressão de todo o sistema. - Incorreta: As
+vênulas e veias são corretamente descritas como vasos de capacitância, pois abrigam cerca de
+60-70% do volume sanguíneo total em repouso. Elas têm baixa resistência ao fluxo devido ao seu
+grande diâmetro. Embora a venoconstrição possa aumentar o retorno venoso e,
+consequentemente, o débito cardíaco, as veias não são o principal local de controle da resistência
+vascular periférica que eleva a pressão arterial na hipertensão.
+Referência:
+Hall JE, Hall ME. Guyton and Hall Textbook of Medical Physiology. 14th ed. Philadelphia, PA:
+Elsevier; 2021. Chapter 17, Vascular Distensibility and Functions of the Arterial and Venous
+Systems.
+
+Feedback:
+-6ª QUESTÃO
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 10 de 27
+
+Enunciado:
+(AFYA Manacapuru) Durante uma aula prática em laboratório de morfofisiologia, os alunos
+analisam um hemograma completo de um paciente com anemia ferropriva crônica e observam
+lâminas histológicas da medula óssea hematopoiética. O caso clínico descreve um paciente com
+dispneia aos esforços, palidez e fadiga. O hemograma mostra redução significativa no número de
+hemácias e hemoglobina, com VCM (Volume Corpuscular Médio) baixo.
+Considerando os mecanismos fisiológicos da eritropoiese, avalie as asserções a seguir e a
+relação proposta entre elas:
+I. A eritropoiese é regulada pela eritropoietina (EPO), secretada principalmente pelos rins em
+resposta à hipóxia, e pela disponibilidade de ferro, vitamina B12 e ácido fólico, essenciais para a
+síntese de hemoglobina e a maturação das hemácias.
+Porque
+II. A eritropoietina estimula apenas os estágios finais da diferenciação eritroide, sem influenciar
+células progenitoras comprometidas nem depender da presença de substratos nutricionais para
+efetivar sua ação.
+Alternativas:
+(alternativa A) (CORRETA)
+A asserção I é uma proposição verdadeira e a II é uma proposição falsa.
+(alternativa B)
+A asserção I é uma proposição falsa e a II é uma proposição verdadeira.
+(alternativa C)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+(alternativa D)
+As asserções I e II são proposições verdadeiras e a II é uma justificativa correta da I.
+
+Resposta comentada:
+Asserção I – Verdadeira.
+A produção de hemácias é regulada pela EPO, que aumenta em situações de hipóxia. A
+eritropoiese também depende de ferro (síntese de heme) e de vitamina B12 e ácido fólico (síntese
+de DNA para divisão celular). Esses fatores garantem eritropoiese eficiente e maturação
+adequada das hemácias.
+Asserção II – Falsa.
+A EPO não age apenas nos estágios finais: ela estimula desde células progenitoras
+comprometidas (UFC-E) até fases intermediárias da linhagem eritroide. Além disso, sua ação é
+efetiva somente se houver substratos adequados, como ferro, B12 e folato, que permitem a
+síntese de hemoglobina e a divisão celular.
+Referência:
+HALL, John E.; HALL, Michael E. Guyton & Hall Fundamentos de Fisiologia. 14. ed. Rio de
+Janeiro: GEN Guanabara Koogan, 2023. E-book. p. 204. ISBN 9788595159518. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788595159518/. Acesso em: 18 set. 2025.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 11 de 27
+
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(ITPAC Porto Nacional) Durante uma atividade prática de fisiologia, dois estudantes de Medicina
+coletaram dados de frequência cardíaca e volume sistólico em repouso. O primeiro, um jovem
+atleta de alto rendimento, apresentou frequência cardíaca de repouso de 48 bpm e volume
+sistólico aumentado. O segundo, um colega sedentário, apresentou frequência cardíaca de 78
+bpm e volume sistólico dentro da média. O professor pediu que a turma discutisse como o
+exercício físico crônico influencia o débito cardíaco e seus determinantes, relacionando essas
+variáveis às adaptações observadas nos dois colegas.
+Qual das alternativas explica corretamente a diferença entre os achados no atleta e no
+sedentário?
+Alternativas:
+(alternativa A)
+O sedentário mantém o débito cardíaco de repouso reduzido, pois sua frequência cardíaca mais
+alta não é suficiente para compensar o baixo volume sistólico.
+(alternativa B) (CORRETA)
+No atleta, o débito cardíaco de repouso é semelhante ao do sedentário, mas o volume sistólico
+aumentado compensa a frequência cardíaca mais baixa, resultado de maior eficiência cardíaca.
+(alternativa C)
+O atleta apresenta menor débito cardíaco em repouso, já que a frequência cardíaca reduzida não
+é capaz de manter a perfusão adequada dos tecidos.
+(alternativa D)
+O atleta apresenta maior débito cardíaco em repouso devido à frequência cardíaca reduzida, que
+é compensada pelo menor volume sistólico.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 12 de 27
+
+Resposta comentada:
+Verdadeira: No atleta, o débito cardíaco de repouso é semelhante ao do sedentário, mas o volume
+sistólico aumentado compensa a frequência cardíaca mais baixa, resultado de maior eficiência
+cardíaca.
+O exercício físico crônico promove bradicardia fisiológica de repouso (maior tônus vagal e
+remodelamento cardíaco), aumentando a eficiência do coração. Assim, mesmo com frequência
+cardíaca menor, o volume sistólico aumentado garante débito cardíaco semelhante ao de
+indivíduos sedentários.
+Errada: O atleta apresenta maior débito cardíaco em repouso devido à frequência cardíaca
+reduzida, que é compensada pelo menor volume sistólico.
+O atleta tem frequência cardíaca menor, pois possui maior força para ejetar o sangue.
+Errada: O sedentário mantém o débito cardíaco de repouso reduzido, pois sua frequência
+cardíaca mais alta não é suficiente para compensar o baixo volume sistólico.
+Ele precisa aumentar a frequência cardíaca para compensar a falta de força de ejeção.
+Errada: O atleta apresenta menor débito cardíaco em repouso, já que a frequência cardíaca
+reduzida não é capaz de manter a perfusão adequada dos tecidos.
+O débito em repouso é normal e atende à demanda, visto que o volume sistólico é alto.
+Referência:
+Guyton, A. C.; Hall, J. E. Tratado de Fisiologia Médica. 14ª ed. Elsevier, 2021.
+Feedback:
+-8ª QUESTÃO
+Enunciado:
+(AFYA Itacoatiara) Durante uma aula prática de histologia, os alunos analisaram lâminas coradas
+em HE contendo cortes transversais e longitudinais do tecido cardíaco. Ao observar as lâminas,
+perceberam que as fibras musculares apresentavam-se estriadas, curtas e ramificadas, com
+núcleos centrais, além da presença de discos intercalares unindo as células vizinhas. Também foi
+possível identificar vasos sanguíneos de pequeno e médio calibre localizados no tecido conjuntivo
+intersticial que envolve as fibras. O professor destacou que essas características não apenas
+diferenciam o tecido cardíaco de outros tipos de músculo, mas também são essenciais para
+compreender sua origem embrionária e sua função fisiológica. Diante disso, propôs que os alunos
+relacionassem as observações histológicas com o papel desempenhado pelo coração na
+manutenção da circulação sanguínea.
+Com base no texto, qual alternativa explica corretamente a importância funcional dessas
+características?
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 13 de 27
+
+Alternativas:
+(alternativa A)
+As fibras cardíacas possuem múltiplos núcleos periféricos, semelhantes ao músculo esquelético,
+o que favorece contrações voluntárias rápidas e sustentadas.
+(alternativa B)
+A baixa vascularização do miocárdio limita a oferta de oxigênio, sendo compensada pela
+contração lenta e contínua semelhante ao músculo liso.
+(alternativa C)
+A origem embrionária do coração no endoderma justifica a presença de fibras musculares lisas
+adaptadas à resistência ao estiramento contínuo.
+(alternativa D) (CORRETA)
+A presença dos discos intercalares garante a conexão elétrica e mecânica entre as fibras,
+permitindo a propagação coordenada do estímulo.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 14 de 27
+
+Resposta comentada:
+As fibras cardíacas possuem múltiplos núcleos periféricos, semelhantes ao músculo esquelético,
+o que favorece contrações voluntárias rápidas e sustentadas.
+Esta alternativa está incorreta. O músculo esquelético, sim, apresenta fibras longas,
+multinucleadas e com núcleos periféricos. Já o tecido cardíaco tem fibras curtas, ramificadas e
+com um único núcleo central, além de contrações involuntárias. Portanto, a descrição não
+corresponde ao coração.
+A presença dos discos intercalares garante a conexão elétrica e mecânica entre as fibras,
+permitindo a propagação coordenada do estímulo.
+Esta alternativa está correta: Os discos intercalares possuem junções comunicantes (gap
+junctions) e desmossomos, que garantem a transmissão elétrica e a adesão mecânica entre as
+fibras. Isso permite que o miocárdio funcione como um sincício funcional, no qual o estímulo
+elétrico se propaga rapidamente e de forma coordenada, essencial para a contração rítmica e
+eficiente do coração.
+A baixa vascularização do miocárdio limita a oferta de oxigênio, sendo compensada pela
+contração lenta e contínua semelhante ao músculo liso.
+Esta alternativa está incorreta. O miocárdio é altamente vascularizado, justamente porque tem
+elevada demanda metabólica e de oxigênio. Essa vascularização é fundamental para sustentar as
+contrações rápidas e rítmicas, não lentas e contínuas como no músculo liso.
+A origem embrionária do coração no endoderma justifica a presença de fibras musculares lisas
+adaptadas à resistência ao estiramento contínuo.
+Esta alternativa está incorreta. O coração tem origem mesodérmica, e não endodérmica. Além
+disso, sua histologia é típica de músculo estriado cardíaco, não de músculo liso.
+Referência:
+SILVERTHORN, Dee U. Fisiologia humana. 7ª ed. Porto Alegre: ArtMed. E-book. pág. 457. ISBN
+9788582714041. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788582714041/. Acesso em: 28 ago. 2025.
+Feedback:
+-9ª QUESTÃO
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 15 de 27
+
+Enunciado:
+(UNIDEP) Um paciente procura a Unidade Básica de Saúde após se cortar com um pedaço de
+vidro enquanto lavava louça. Apesar de o sangramento ter diminuído espontaneamente, ele relata
+preocupação com a possibilidade de o ferimento sangrar novamente. Durante a consulta, o
+profissional de saúde aproveita para explicar como o corpo reage a lesões vasculares por meio
+de mecanismos naturais de controle da perda sanguínea, regulando a fluidez do sangue e
+evitando tanto hemorragias quanto a formação de trombos indesejados.
+Com base no contexto acima, avalie as assertivas a seguir e a relação entre elas:
+I. O endotélio íntegro exerce função anticoagulante e antiagregante, mas quando lesado, passa a
+expor colágeno e liberar fatores pró-coagulantes que iniciam a adesão plaquetária e a cascata de
+coagulação.
+Porque
+II. O endotélio lesado libera fator de von Willebrand (FvW), que facilita a adesão das plaquetas ao
+colágeno subendotelial, ao mesmo tempo em que a produção de prostaciclina (PGI₂) e óxido
+nítrico (NO) é reduzida, favorecendo a agregação plaquetária.
+É correto afirmar que:
+Alternativas:
+(alternativa A)
+As asserções I e II são verdadeiras, mas a II não justifica a I.
+(alternativa B)
+A assertiva I é verdadeira e a II é falsa.
+(alternativa C) (CORRETA)
+As asserções I e II são verdadeiras e a II justifica a I.
+(alternativa D)
+A assertiva I é falsa e a II é verdadeira.
+
+Resposta comentada:
+A asserção I está correta ao destacar o duplo papel do endotélio (anticoagulante quando íntegro e
+pró-coagulante quando lesado), e a segunda asserção complementa explicando os mediadores
+envolvidos. FvW, pró-coagulante, e PGI₂ e NO, anticoagulantes.
+Referências:
+HALL, John E.; HALL, Michael E. Guyton & Hall Fundamentos de Fisiologia. 14. ed. Rio de
+Janeiro: GEN Guanabara Koogan, 2023. E-book.
+KUMAR, Vinay; ABBAS, Abul K.; ASTER, Jon C. Robbins & Cotran Patologia: Bases Patológicas
+das Doenças. 10. ed. Rio de Janeiro: GEN Guanabara Koogan, 2023. E-book. p. 118.
+HOFFBRAND, AV.; MOSS, P. AH. Fundamentos em hematologia de Hoffbrand. 7. ed. Porto
+Alegre: ArtMed, 2018. E-book. pág. 265.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 16 de 27
+
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(UNIDOMPEDRO) Em uma aula prática de biologia celular, os alunos preparam lâminas para
+observação ao microscópio óptico e analisam diferentes estruturas de células eucarióticas
+animais. Durante a discussão, são levantadas algumas afirmações sobre a organização e função
+dessas estruturas. Analise abaixo as afirmações feitas pelos alunos.
+I. O núcleo celular, delimitado pelo envelope nuclear, contém o material genético e é responsável
+pelo controle das atividades celulares por meio da regulação da expressão gênica.
+II. As mitocôndrias são organelas que apresentam DNA próprio e participam da respiração celular
+aeróbica e do processo de produção de ATP.
+III. Os lisossomos são responsáveis pela síntese de proteínas e lipídios, além de atuarem no
+transporte intracelular de substâncias recém-produzidas.
+IV. O complexo de Golgi é responsável pela degradação do peróxido de hidrogênio para evitar a
+oxidação celular.
+Marque a alternativa que contém todas as assertivas corretas.
+Alternativas:
+(alternativa A)
+Apenas II e III.
+(alternativa B)
+Apenas I e IV.
+(alternativa C) (CORRETA)
+Apenas I e II.
+(alternativa D)
+Apenas III e IV.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 17 de 27
+
+Resposta comentada:
+I. O núcleo celular, delimitado pelo envelope nuclear, contém o material genético e é responsável
+pelo controle das atividades celulares por meio da regulação da expressão gênica.
+Verdadeiro. O núcleo celular é delimitado pelo envelope nuclear, que é uma dupla membrana que
+separa o conteúdo nuclear do citoplasma. Ele abriga o DNA organizado na forma de cromatina e é
+o local onde ocorre a transcrição do RNA, essencial para a regulação da expressão gênica e o
+controle das atividades celulares. (Junqueira & Carneiro, 2013; Alberts et al., 2011).
+II. As mitocôndrias são organelas que apresentam DNA próprio e participam da respiração celular
+aeróbica e do processo de produção de ATP.
+Verdadeiro. As mitocôndrias são organelas delimitadas por dupla membrana e possuem DNA
+próprio, o que lhes confere certa autonomia. Sua principal função é participar da respiração celular
+aeróbica, processo em que moléculas de glicose e ácidos graxos são degradados para gerar
+energia. A produção de ATP ocorre principalmente na membrana interna, nas cristas
+mitocondriais, por meio da fosforilação oxidativa, tornando a mitocôndria a principal fonte de
+energia para a célula. (Guyton & Hall, 2021).
+III. Os lisossomos são responsáveis pela síntese de proteínas e lipídios, além de atuarem no
+transporte intracelular de substâncias recém-produzidas.
+Falso. Os lisossomos não participam da síntese de proteínas e lipídios. Sua principal função é a
+degradação de macromoléculas e organelas celulares danificadas por meio da autofagia. A
+síntese de proteínas ocorre nos ribossomos e no retículo endoplasmático rugoso, enquanto os
+lipídios são sintetizados no retículo endoplasmático liso. (Junqueira & Carneiro, 2013; Alberts et
+al., 2011).
+IV. O complexo de Golgi tem como função principal a degradação do peróxido de hidrogênio para
+evitar a oxidação celular.
+Falso. O complexo de Golgi não é responsável pela degradação do peróxido de hidrogênio. Essa
+função pertence aos peroxissomos, que utilizam enzimas como a catalase para neutralizar
+substâncias tóxicas, evitando a oxidação celular. O complexo de Golgi, por sua vez, funciona em
+associação com o retículo endoplasmático, recebendo continuamente vesículas dele derivadas.
+Nessas vesículas, moléculas como proteínas e lipídios são processadas, modificadas e
+encaminhadas para formar lisossomos, vesículas secretoras e outros componentes
+citoplasmáticos. (Guyton & Hall, 2021).
+Dessa forma:
+Correto: Apenas I e II.
+Incorreto: Apenas II e III.
+Incorreto: Apenas I e IV.
+Incorreto: Apenas III e IV.
+Referências:
+ALBERTS, B. et. al. Fundamentos da biologia celular. 3. ed. Porto Alegre: Artmed, 2011.
+GUYTON, John E.; HALL, Michael E. Tratado de Fisiologia Médica. 14. ed. Rio de Janeiro: Editora
+Guanabara Koogan, 2021.
+JUNQUEIRA, L. C.; CARNEIRO, J. Biologia celular e molecular. 9. ed. Rio de Janeiro: Guanabara
+Koogan, 2013.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 18 de 27
+
+Feedback:
+-11ª QUESTÃO
+Enunciado:
+(UNITPAC) Idoso, 65 anos, procura atendimento relatando cansaço nas pernas ao final do dia,
+inchaço nos tornozelos e sensação de peso. No exame físico, observam-se varicosidades leves
+nos membros inferiores. Considerando a anatomia do retorno venoso dos membros inferiores,
+qual estrutura é a mais diretamente relacionada com esse quadro, podendo tornar-se insuficiente
+e favorecer os sintomas descritos?
+Alternativas:
+(alternativa A) (CORRETA)
+Veia safena parva e magna, vasos superficiais drenam a perna e região poplítea.
+(alternativa B)
+Artéria femoral comum, responsável pela irrigação principal do membro inferior.
+(alternativa C)
+Veia cava inferior, principal via de drenagem sanguínea da metade inferior do corpo.
+(alternativa D)
+Artéria tibial posterior, responsável pela irrigação da região plantar e dorsal do pé.
+
+Resposta comentada:
+Artéria femoral comum, responsável pela irrigação principal do membro inferior. Esta alternativa
+está incorreta, pois trata-se de um vaso arterial responsável pela irrigação do membro inferior.
+Não participa do retorno venoso e, portanto, não está diretamente envolvida no quadro de
+insuficiência venosa crônica.
+Veia safena parva e magna, vasos superficiais drenam a perna e região poplítea. Esta alternativa
+está correta, pois são os principais vasos do sistema venoso superficial dos membros inferiores,
+frequentemente acometidos na insuficiência venosa crônica. Sua incompetência valvar favorece
+estase venosa, varicosidades, edema e sintomas de dor e cansaço.
+Veia cava inferior, principal via de drenagem sanguínea da metade inferior do corpo. Está
+incorreta, pois, apesar de ser o principal vaso de drenagem venosa da metade inferior do corpo,
+não costuma ser a estrutura diretamente responsável por sintomas locais de varizes e
+insuficiência venosa, que se originam principalmente no sistema venoso superficial.
+Artéria tibial posterior, responsável pela irrigação da região plantar e dorsal do pé. Está incorreta,
+pois é um vaso arterial que irriga a região plantar e dorsal do pé. Não participa do retorno venoso,
+logo não explica sintomas de varizes, edema ou insuficiência venosa.
+Referências:
+NETTER, F. H. Atlas de Anatomia Humana. 7. ed. Rio de Janeiro: Elsevier, 2019.
+TORTORA, G. J.; DERRICKSON, B. Princípios de Anatomia e Fisiologia. 15. ed. Rio de Janeiro:
+Guanabara Koogan, 2019.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 19 de 27
+
+Feedback:
+O ponto central da questão é diferenciar estruturas arteriais e venosas e identificar quais delas
+explicam melhor o quadro de cansaço, dor e edema nos membros inferiores com varicosidades.
+As artérias (como a femoral comum e a tibial posterior) têm a função de levar sangue do coração
+para os tecidos, garantindo oxigenação. Alterações nessas artérias podem gerar isquemia,
+claudicação e dor relacionada ao esforço, mas não edema ou varizes. Por isso, essas
+alternativas não eram adequadas.
+A veia cava inferior é responsável por drenar grandes volumes de sangue da metade inferior do
+corpo, mas não é a causa mais comum de sintomas localizados nos membros inferiores. A
+insuficiência venosa costuma iniciar-se em veias superficiais ou profundas mais distais.
+A veia femoral é parte do sistema venoso profundo. Embora relevante para o retorno venoso, ela
+não é a principal estrutura envolvida em quadros de varizes, que predominam no sistema venoso
+superficial.
+As veias safenas (magna e parva) são as mais frequentemente associadas à insuficiência
+venosa crônica. Quando suas válvulas se tornam incompetentes, o sangue reflui, favorecendo
+estase, dilatação, edema e sintomas de cansaço/dor. Por isso, essa era a alternativa correta.
+O raciocínio esperado, portanto, era: sintomas de varizes e edema = problema de retorno venoso
+superficial → veias safenas.
+
+12ª QUESTÃO
+Enunciado:
+(AFYA Cruzeiro do Sul) Em uma atividade prática de laboratório de Fisiologia, estudantes do 1º
+período de Medicina realizaram a aferição da frequência cardíaca de um colega em repouso e
+registraram seu eletrocardiograma. Observaram que cada onda P era seguida de um complexo
+QRS e uma onda T, com intervalos regulares entre os ciclos. O professor orientou os estudantes
+a correlacionarem esse traçado com as fases do ciclo cardíaco e a explicarem como a sequência
+elétrica observada garante o fluxo sanguíneo eficiente. Durante a discussão, um estudante
+pergunta: “Por que a despolarização ventricular, observada no ECG, ocorre antes da ejeção do
+sangue?” Sendo assim, assinale a opção que responde corretamente ao questionamento do
+aluno.
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 20 de 27
+
+Alternativas:
+(alternativa A)
+Relaciona-se ao fato de a despolarização atrial sincronizar-se com a contração ventricular,
+assegurando a sequência correta entre enchimento e ejeção do sangue.
+(alternativa B)
+Relaciona-se à ocorrência da repolarização ventricular, que gera a queda de pressão e possibilita
+a abertura das valvas atrioventriculares para o esvaziamento do coração.
+(alternativa C)
+Relaciona-se à presença da onda T, que marca o relaxamento ventricular, permitindo o retorno do
+sangue venoso e a manutenção do débito cardíaco.
+(alternativa D) (CORRETA)
+Relaciona-se à necessidade de o estímulo elétrico ventricular deflagrar a contração, elevando a
+pressão até abrir as valvas semilunares e permitir o escoamento do sangue.
+
+Resposta comentada:
+Resposta correta: Relaciona-se à necessidade de o estímulo elétrico ventricular deflagrar a
+contração, elevando a pressão até abrir as valvas semilunares e permitir o escoamento do
+sangue.
+A despolarização ventricular precede a ejeção porque inicia a contração ventricular, gerando o
+aumento da pressão intraventricular até superar a pressão arterial, o que abre as valvas
+semilunares e permite o débito de sangue.
+Justificativas das incorretas:
+· Incorreta: Relaciona-se à ocorrência da repolarização ventricular, que gera a queda de pressão e
+possibilita a abertura das valvas atrioventriculares para o esvaziamento do coração.
+A repolarização ventricular (onda T) está associada ao relaxamento e queda de pressão, mas
+isso ocorre após a ejeção, não antes dela. Não provoca abertura de valvas semilunares.
+· Incorreta: Relaciona-se ao fato de a despolarização atrial sincronizar-se com a contração
+ventricular, assegurando a sequência correta entre enchimento e ejeção do sangue.
+A despolarização atrial (onda P) ocorre antes da ventricular, e sua contração complementa o
+enchimento, não se sincroniza com a ejeção ventricular.
+· Incorreta: Relaciona-se à presença da onda T, que marca o relaxamento ventricular, permitindo
+o retorno do sangue venoso e a manutenção do débito cardíaco.
+A onda T indica o início do relaxamento ventricular, não o mecanismo da ejeção. O retorno
+venoso ocorre na diástole, mas não tem relação direta com a sequência elétrica descrita no
+enunciado.
+Referências:
+GUYTON, A. C.; HALL, J. E. Tratado de Fisiologia Médica. 14. ed. Rio de Janeiro: Elsevier, 2021.
+COSTANZO, L. S. Fisiologia. 6. ed. Rio de Janeiro: Guanabara Koogan, 2022.
+BERNE, R. M.; LEVY, M. N. Fisiologia. 6. ed. Rio de Janeiro: Elsevier, 2018.
+Feedback:
+-000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 21 de 27
+
+13ª QUESTÃO
+Enunciado:
+(UNIDOMPEDRO) Durante uma aula prática de Fisiologia, os estudantes analisam dois tipos de
+potenciais de ação registrados em células cardíacas. Um tipo apresenta uma despolarização
+rápida, caracterizada por uma subida abrupta do potencial de membrana, enquanto o outro
+apresenta uma despolarização lenta, com uma subida gradual. O professor solicita que os alunos
+relacionem, para cada tipo de potencial, os íons responsáveis, os canais iônicos predominantes e
+as regiões do coração em que esses potenciais ocorrem.
+Compare os potenciais de ação de resposta rápida e de resposta lenta quanto aos íons
+envolvidos, canais predominantes e regiões cardíacas em que ocorrem e, em seguida, assinale a
+alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+O potencial de resposta rápida depende de canais rápidos de sódio, ocorre em ventrículos, átrios
+e fibras de Purkinje, enquanto o de resposta lenta depende de canais de cálcio e predomina nos
+nódulos sinoatrial e atrioventricular.
+(alternativa B)
+O potencial de resposta rápida ocorre apenas em células musculares atriais e ventriculares,
+mediado por canais de potássio, enquanto o de resposta lenta ocorre em todos os tecidos
+cardíacos, mediado por canais de cálcio.
+(alternativa C)
+O potencial de resposta rápida depende de canais de cálcio, ocorre nos nódulos sinoatrial e
+atrioventricular, enquanto o de resposta lenta depende de canais rápidos de sódio e predomina em
+ventrículos e átrios.
+(alternativa D)
+O potencial de resposta lenta depende de canais de potássio, ocorre em ventrículos e átrios,
+enquanto o de resposta rápida depende de canais rápidos de sódio e predomina nos nódulos
+sinoatrial e atrioventricular.
+
+Resposta comentada:
+Resposta comentada:
+Correta:
+O potencial de resposta rápida depende de canais rápidos de sódio, ocorre em ventrículos, átrios
+e fibras de Purkinje, enquanto o de resposta lenta depende de canais de cálcio e predomina nos
+nódulos sinoatrial e atrioventricular.
+Justificativa:
+O potencial de ação de resposta rápida ocorre nas fibras contráteis atriais e ventriculares,
+incluindo as fibras de Purkinje. A fase de despolarização rápida é mediada pela abertura de canais
+de sódio rápidos (Na⁺), permitindo entrada massiva de íons e rápida mudança do potencial de
+membrana.
+O potencial de ação de resposta lenta ocorre nas células marcapasso do nódulo sinoatrial (SA) e
+atrioventricular (AV), com despolarização gradual mediada principalmente por canais de cálcio
+tipo L e pelo “funny current” (If) de sódio.
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 22 de 27
+
+Essa diferença explica a condução rápida nas fibras ventriculares e a capacidade de gerar ritmos
+automáticos pelos marcapassos.
+Incorreta:
+O potencial de resposta rápida depende de canais de cálcio, ocorre nos nódulos sinoatrial e
+atrioventricular, enquanto o de resposta lenta depende de canais rápidos de sódio e predomina em
+ventrículos e átrios.
+Justificativa:
+Esta alternativa está inversa.
+O potencial rápido não depende de cálcio, mas sim de Na⁺, e ocorre em fibras contráteis
+ventriculares e atriais.
+O potencial lento não depende de Na⁺ rápido, mas de cálcio, e está nos nódulos SA/AV.
+Incorreta:
+O potencial de resposta lenta depende de canais de potássio, ocorre em ventrículos e átrios,
+enquanto o de resposta rápida depende de canais rápidos de sódio e predomina nos nódulos
+sinoatrial e atrioventricular.
+Justificativa:
+Incorreta porque o potencial lento não é mediado por canais de K⁺ para a despolarização inicial,
+embora o K⁺ seja crucial na repolarização.
+Além disso, o potencial rápido não ocorre nos nódulos SA/AV, mas nas fibras ventriculares e
+atriais.
+Incorreta:
+O potencial de resposta rápida ocorre apenas em células musculares atriais e ventriculares,
+mediado por canais de potássio, enquanto o de resposta lenta ocorre em todos os tecidos
+cardíacos, mediado por canais de cálcio.
+Justificativa:
+Incorreta porque o potencial rápido é mediado por Na⁺, não por K⁺.
+O potencial lento não ocorre em todos os tecidos cardíacos, mas apenas nos nódulos
+marcapasso (SA e AV).
+Referências:
+HALL, John E.; HALL, Michael E. Guyton & Hall. Tratado de Fisiologia Médica. 14. ed. 2021.
+AIRES, Margarida de M. Fisiologia. 5ª ed. 2018.
+CURI, Rui; PROCÓPIO, Joaquim. Fisiologia Básica. 2ª ed. 2017.
+Feedback:
+-14ª QUESTÃO
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 23 de 27
+
+Enunciado:
+(UNIGRANRIO Barra) Durante uma aula prática de Morfofisiologia do Sistema Linfático, os alunos
+de Medicina do primeiro período estudaram a estrutura e a função dos vasos linfáticos. O foco da
+atividade foi a formação da linfa, seu trajeto, o fluxo unidirecional e os fatores que impulsionam
+sua circulação.
+Com base nesse contexto, responda:
+A) Formação da linfa e seu trajeto.
+Explique como o fluido intersticial se transforma em linfa e descreva seu percurso até o retorno à
+circulação sanguínea.
+B) Função das válvulas e fluxo linfático.
+Explique o papel das válvulas nos vasos linfáticos e como elas garantem o fluxo unidirecional da
+linfa.
+C) Fatores que impulsionam a circulação linfática.
+Cite os mecanismos que contribuem para o movimento da linfa em direção ao coração, incluindo
+a atuação da musculatura e de forças externas.
+Alternativas:
+--
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 24 de 27
+
+Resposta comentada:
+A) Formação da linfa e trajeto (0,83 ponto).
+O fluido intersticial entra nos capilares linfáticos (vasos de fundo de saco, endotélio simples,
+lâmina basal incompleta), tornando-se linfa.
+Percurso: capilares linfáticos → vasos aferentes dos linfonodos → linfonodos → vasos eferentes
+→ ductos linfáticos → veias subclávias, retornando à circulação sanguínea.
+B) Função das válvulas e fluxo linfático (0,83 ponto).
+As válvulas impedem o refluxo, garantindo que a linfa flua somente em direção ao coração.
+Entre as válvulas, os vasos apresentam dilatações que conferem aspecto “em colar de contas”.
+A linfa atravessa linfonodos e órgãos linfóides de forma contínua, mantendo o transporte de
+linfócitos e fatores imunológicos.
+C) Fatores que impulsionam a circulação linfática (0,84 ponto).
+Contração da musculatura esquelética circunjacente aos vasos.
+Contração rítmica da musculatura lisa das paredes dos vasos linfáticos maiores.
+Pressão externa intermitente sobre os vasos e presença das válvulas.
+Esses mecanismos mantêm o fluxo unidirecional em direção ao coração e auxiliam no transporte
+de células e mediadores do sistema imune.
+Referências
+JUNQUEIRA, L. C.; CARNEIRO, J. Histologia Básica: Texto e Atlas. 14. ed. Rio de Janeiro:
+Guanabara Koogan, 2023. Disponível em:
+https://minhabiblioteca.com.br/catalogo/livro/99092/histologia-b-sica-texto-e-atlas/. Acesso em: 10
+set. 2025.
+SILVERTHORN, D. U. Fisiologia Humana: Uma Abordagem Integrada. 7. ed. Porto Alegre:
+ArtMed, 2024. Disponível em: https://minhabiblioteca.com.br/catalogo/livro/77280/fisiologiahumana/. Acesso em: 10 set. 2025.
+Feedback:
+-15ª QUESTÃO
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 25 de 27
+
+Enunciado:
+(AFYA Itacoatiara) Durante uma aula prática de histologia, os alunos receberam lâminas
+representando órgãos linfoides: timo, linfonodo, baço e tonsila palatina. Cada lâmina apresenta
+características histológicas distintas, que refletem a função imunológica de cada órgão.
+Na lâmina 1, observou-se uma estrutura bilobada, com córtex e medula, contendo corpúsculos de
+Hassall.
+Na lâmina 2, observou-se tecido linfoide com criptas profundas, folículos e acúmulo de linfócitos.
+Com base nas lâminas 1 e 2:
+a. Identifique cada órgão, descrevendo sua organização histológica (regiões e tipos celulares
+predominantes) e sua função imunológica. (1,25 pontos)
+b. Compare os dois órgãos quanto à participação na resposta imune, destacando um aspecto em
+que se complementam funcionalmente. (1,25 pontos)
+Alternativas:
+-Resposta comentada:
+Descreva cada órgão observado pelos dois grupos, nas lâminas 1 e 2, explicando sua
+organização histológica e descrevendo sua função imunológica.
+Lâmina 1:
+Timo é um órgão bilobado localizado no tórax, logo acima do coração. Não tem folículos linfoides;
+em vez disso, seus lóbulos são divididos em um córtex externo, corado mais intensamente,
+composto de células reticulares epiteliais, macrófagos e linfócitos T pequenos (timócitos), e, em
+uma medula interna, corada mais fracamente, que consiste em linfócitos T grandes, células
+reticulares epiteliais e corpúsculos de Hassall (corpúsculos tímicos). As células reticulares
+epiteliais derivadas do endoderma são diferentes das células reticulares de outros órgãos
+linfoides, pois fornecem muitos suportes estruturais e funcionais importantes para o timo.
+As principais funções desse órgão linfoide primário são a formação, a potencialização e, quando
+necessário, a destruição de linfócitos T, que o timo realiza das seguintes maneiras. Os
+precursores dos linfócitos T imunoincompetentes (imaturos) entram na junção corticomedular do
+timo, onde são conhecidos como timócitos, e migram para o córtex externo, onde são ativados
+pelas citocinas liberadas pelas células reticulares epiteliais de modo a expressarem certos
+marcadores dos linfócitos T.
+Lâmina 2:
+As tonsilas palatinas, comumente chamadas de amígdalas, são duas e estão localizadas uma de
+cada lado na parte oral da faringe. Nelas, o tecido linfoide forma uma faixa relativamente espessa
+sob o epitélio estratificado pavimentoso da faringe, com folículos linfoides e grande quantidade de
+linfócitos dispostos de maneira difusa.
+Uma característica importante das tonsilas palatinas é a presença de invaginações epiteliais, que
+penetram profundamente no parênquima da tonsila, formando as criptas da tonsila. As criptas
+estão em continuidade com a cavidade da faringe e frequentemente contêm células epiteliais
+descamadas, linfócitos e bactérias. O epitélio que reveste as criptas está frequentemente infiltrado
+por linfócitos e outras células inflamatórias, às vezes tornando difícil a visualização das camadas
+do epitélio. As células inflamatórias são provenientes dos acúmulos de tecido linfoide localizados
+abaixo do epitélio e, em grande parte, migram para o interior das criptas, onde morrem. Em caso
+de inflamação aguda (tonsilite, antigamente denominada amigdalite), as aberturas das criptas
+podem ser vistas como pontos purulentos na superfície das tonsilas.
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 26 de 27
+
+Compare as lâminas 1 e 2 quanto à sua participação na resposta imune, destacando um aspecto
+em que se complementam funcionalmente.
+O timo (lâmina 1) é um órgão linfóide primário, responsável pela maturação dos linfócitos T.
+Histologicamente, apresenta córtex rico em linfócitos imaturos e uma medula mais clara, com os
+corpúsculos de Hassall, relacionados ao processo de seleção e tolerância imunológica. O timo
+não entra em contato direto com antígenos externos, mas prepara os linfócitos para atuarem de
+forma eficaz e segura na periferia.
+A tonsila palatina (lâmina 2), por sua vez, é um órgão linfóide secundário, situado na orofaringe e
+constantemente exposto a microrganismos do ar e dos alimentos. Sua histologia mostra epitélio
+pavimentoso estratificado não queratinizado, com invaginações formando criptas, e presença de
+folículos linfoides com centros germinativos ativos. Isso permite a ativação de linfócitos B e T em
+resposta a antígenos que penetram pelas vias aéreas e digestivas.
+Assim, os dois órgãos se complementam funcionalmente: o timo fornece linfócitos T maduros,
+enquanto a tonsila palatina utiliza esses linfócitos e outros elementos imunes para montar
+respostas contra patógenos que entram pela boca e faringe, atuando como uma barreira inicial de
+defesa.
+Referências:
+JUNQUEIRA, Luiz Carlos U.; CARNEIRO, José. Histologia Básica: Texto e Atlas. 14. ed. Rio de
+Janeiro: Guanabara Koogan, 2023. E-book. pág. 303. ISBN 9788527739283. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527739283/. Acesso em: 28 ago. 2025.
+SILVERTHORN, Dee U. Fisiologia humana. 7. ed. Porto Alegre: ArtMed. pág. 783. ISBN
+9788582714041. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788582714041/. Acesso em: 28 ago. 2025.
+Feedback:
+--
+
+000172.700013.07b083.e5ece2.1f79d8.be3aa1.cd2ba6.7dbee
+
+Pgina 27 de 27
+
+

@@ -1,0 +1,658 @@
+NOTA FINAL
+
+CURSO DE MEDICINA
+Aluno:
+Componente Curricular: N1 Es pecífica 2021.2_2º período
+Profes s or (es ):
+Período: 202102
+
+Turma:
+
+Data: 06/10/2021
+
+N1_MEP II_PROVA 1
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 04017 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+33869
+
+Tipo da questão:
+
+Múltipla Escolha
+
+acervo.top / acervotop.com
+
+Unidade de avaliação: 1ª avaliação
+Enunciado:
+
+(M2_S1_Q1_ITPAC STA INES)
+A epidemiologia é a ciência que estuda os padrões da ocorrência de doença em
+populações humanas e os fatores que determinam esses padrões. Atualmente,
+com alta taxa de infectividade, a doença do coronavírus 2019 (COVID-19), causada
+pelo SARS-CoV-2, atingiu proporção mundial. Um estudo publicado na prestigiada
+revista "Science" comprova que o uso de máscara diminui muito a possibilidade de
+transmissão do SARS-CoV-2 e o grau de eficácia depende da capacidade de filtrar
+o ar e da quantidade de vírus presente no lugar onde a pessoa está. Os achados
+sugerem também que o distanciamento social adotado pela população é efetivo,
+especialmente quando combinado ao isolamento de casos e à quarentena dos
+contatos. Como padrões de ocorrência de doenças temos: surto, epidemia,
+pandemia e endemia. Identifique os conceitos e preencha as lacunas e, em
+seguida, assinale a alternativa que apresenta a sequência correta.
+I - ____________ é a concentração de casos de uma mesma doença em
+determinado local e época, claramente em excesso ao que seria teoricamente
+esperado.
+II. ____________ é a presença constante de uma doença ou de um agente
+infeccioso em determinada área geográfica.
+III.____________ é o nome dado à ocorrência epidêmica caracterizada por uma
+larga distribuição espacial, atingindo várias nações.
+IV. ____________ é caracterizada quando um surto acontece em diversas regiões,
+ou seja, um elevado número de casos novos e sua rápida difusão.
+
+Alternativas:
+
+(alternativa A) (CORRETA)
+Surto / endemia / pandemia / epidemia.
+(alternativa B)
+Epidemia / surto / pandemia / endemia.
+(alternativa C)
+Surto / pandemia / epidemia / endemia
+(alternativa D)
+Pandemia / epidemia / surto / endemia.
+
+Grau de dificuldade:
+
+Fácil
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 1 de 12
+
+Resposta comentada:
+
+Surto
+Acontece quando há o aumento repentino do número de casos de uma doença
+em uma região específica. Para ser considerado surto, o aumento de casos deve
+ser maior do que o esperado pelas autoridades.
+Epidemia
+A epidemia se caracteriza quando um surto acontece em diversas regiões. Uma
+epidemia a nível municipal acontece quando diversos bairros apresentam uma
+doença, a epidemia a nível estadual acontece quando diversas cidades têm casos
+e a epidemia nacional acontece quando há casos em diversas regiões do país.
+Pandemia
+Em uma escala de gravidade, a pandemia é o pior dos cenários. Ela acontece
+quando uma epidemia se espalha por diversas regiões do planeta.
+Endemia
+A endemia não está relacionada a uma questão quantitativa. Uma doença é
+classificada como endêmica (típica) de uma região quando acontece com muita
+frequência no local. As doenças endêmicas podem ser sazonais.
+REFERÊNCIAS: Martins, Amanda de Ávila Bicca. Epidemiologia. Porto Alegre:
+SAGAH, 2018.
+
+Feedback:
+Filtros da questão:
+
+[Semanas]
+Semana 1
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+2ª QUESTÃO
+
+Código da questão:
+
+33637
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: 1ª avaliação
+Enunciado:
+
+(M2_S7_Q3_UNIDEP) Uma fábrica brasileira localizada em São Paulo possui
+diversas máquinas para a produção de frascos e rótulos para a utilização em
+vacinas. Foi realizada uma pesquisa nessa fábrica para a verificação dos materiais
+produzidos e conferir se há itens sendo produzidos com defeitos. Consideramos a
+hipótese nula sendo a que afirma que “uma máquina não está produzindo mais
+frascos com defeito do que a taxa máxima esperada de frascos com defeito”.
+Considerando a situação acima, avalie as afirmações a seguir
+I. O erro tipo II diz que a máquina não está produzindo itens defeituosos a mais
+quando na verdade está.
+II. O erro tipo I acontece na situação em que rejeitamos a hipótese nula mas ela é
+verdadeira.
+III. O erro tipo I acontece quando aceitamos a hipótese nula mas ela deve ser
+rejeitada.
+IV. O erro tipo I diz que a máquina não está produzindo itens defeituosos a mais
+quando na verdade está.
+É correto o que se afirma em:
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 2 de 12
+
+Alternativas:
+
+(alternativa A)
+I, II e IV.
+(alternativa B)
+I, II e III.
+(alternativa C)
+II, III e IV.
+(alternativa D) (CORRETA)
+I e II.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada: O erro tipo 1 ocorre quando rejeitamos a hipótese nula mas ela é verdadeira. O
+erro tipo 2 acontece quando aceitamos a hipótese nula mas na verdade ela
+deveria ser rejeitada.
+Feedback:
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+[Semanas]
+Semana 7
+3ª QUESTÃO
+
+Código da questão:
+
+33635
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: 1ª avaliação
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 3 de 12
+
+Enunciado:
+
+(M2_S5_Q1_UNIDEP) Do total de 188 casos de raiva humana ocorridos no país, 125
+(66,5%) eram do sexo masculino e 126 (67,0%) residiam em zona rural; a idade dos
+casos variou de 1 a 82 anos (média = 20,9; desvio-padrão = 17,1 e mediana = 14,5
+anos; 1º quartil = 7 e 3º quartil = 30).
+
+[Adaptado de VARGAS, Alexander; ROMANO, Alessandro Pecego Martins; MERCHÁNHAMANN, Edgar. Raiva humana no Brasil: estudo descritivo, 2000-2017. Epidemiologia e
+Serviços de Saúde, Brasília, v. 28, n. 2, p. 1-9, jul. 2019. FapUNIFESP (SciELO).
+http://dx.doi.org/10.5123/s1679-49742019000200001.]
+Considerando o estudo apresentado acima, avalie as afirmações a seguir
+I. A faixa etária mais acometida foi a de menores de 15 anos, com 49,6% dos casos.
+II. A amplitude dos casos registrados ocorreu na população de 1 a 64 anos.
+III. Podemos afirmar que 25% dos casos ocorreram na população de até 7 anos.
+IV. 75% dos casos ocorreram na população de até 30 anos de idade.
+É correto o que se afirma em:
+Alternativas:
+
+(alternativa A)
+II, III e IV.
+(alternativa B)
+I, II e III.
+(alternativa C)
+I e II.
+(alternativa D) (CORRETA)
+I, III e IV.
+
+Grau de dificuldade:
+
+Médio
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 4 de 12
+
+Resposta comentada:
+
+A única resposta incorreta é a que afirma que a amplitude dos casos ocorreu na
+população entre 1 a 64 anos. No texto afirma-se que a idade máximo foi de 82 anos.
+REFERÊNCIAS
+VARGAS, Alexander; ROMANO, Alessandro Pecego Martins; MERCHÁN-HAMANN, Edgar.
+Raiva humana no Brasil: estudo descritivo, 2000-2017. Epidemiologia e Serviços de
+Saúde, Brasília, v. 28, n. 2, p. 1-9, jul. 2019. FapUNIFESP (SciELO).
+http://dx.doi.org/10.5123/s1679-49742019000200001.
+
+Feedback:
+Filtros da questão:
+
+[Semanas]
+Semana 5
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+4ª QUESTÃO
+
+Código da questão:
+
+34004
+
+Tipo da questão:
+
+Discursiva
+
+Unidade de avaliação: 1ª avaliação
+Enunciado:
+
+S7/MEPII/ITPACPALMAS) Em um estudo fase III para avaliar uma nova Droga
+antineoplásica em comparação a uma Droga usual, obteve uma taxa de recidiva
+de 5 casos por 100 pacientes/ano no grupo com a nova Droga e de 6,1 casos por
+100 pacientes por ano no grupo controle (Droga usual). A razão entre as taxas foi
+de 1,02 (IC95% de 0,85 à 1,5 com p= 0,25) para o grupo de Intervenção. A
+incidência de efeitos adversos graves foi de 10 por 100 pacientes/ano (IC95% de
+8,1 à 12,2) entre os pacientes tratados com a nova Droga e de 9 por 100
+pacientes/ano (IC95% de 8,2 à 14,0 com p=0,32) no grupo controle. De acordo
+com este enunciado, responda:
+A) Quais são as Hipóteses para este estudo? (0,75 pontos)
+B) Interprete o valor de p. (0,75 pontos)
+C) Qual conclusão a partir dos resultados. (1,0 ponto)
+
+Alternativas:
+
+--
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+
+Semana 07. Objetivo do item. Determinar as hipóteses H0 e H1 e os intervalos de
+confiança.
+Respostas.
+A)
+H0: O efeito da nova droga não difere do efeito da droga usual.
+H1: Há diferença no efeito da droga nova em comparação a droga usual.
+B) O alto valor de p indica que a razão entre as taxas de incidência não são
+estatisticamente significativas.
+C) Como os IC95% dos pacientes tratados com a nova droga estão sobrepondo ao
+IC95% dos pacientes tratados com a droga usual, conclui-se que não há diferença
+na comparação dos efeitos gerados na utilização da nova droga com a droga
+usual. Aceita H0 e Rejeita H1.
+
+Feedback:
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 5 de 12
+
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+[Semanas]
+Semana 7
+5ª QUESTÃO
+
+Código da questão:
+
+34311
+
+Tipo da questão:
+
+Discursiva
+
+Unidade de avaliação: 1ª avaliação
+Enunciado:
+
+(MEPII/S5/ITPACPorto) Um grupo de pesquisa, composto por estudantes do curso de
+medicina, objetivou aplicar os conhecimentos sobre os instrumentos de coletas de dados
+em uma amostra de pacientes atendidos em determinada unidade básica de saúde.
+Após a obtenção dos dados, o grupo apresentou na Tabela 01 os registros dos pacientes
+selecionados aleatoriamente da referida UBS para a verificação individual de algumas
+variáveis. Em um dos resultados apresentados, o grupo relatou a baixa variabilidade
+obtida para a variável Creatinina Sérica.
+
+Avalie as informações apresentadas, reponda o que se pede:
+A) Qual o desenho deste estudo? (1,25pontos)
+B) Qual a classificação geral das variáveis deste estudo? (1,25pontos)
+Alternativas:
+
+--
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+
+Respostas:
+A) O desenho do estudo caracteriza-se por ser um: Estudo Epidemiológico do tipo
+Observacional Descritivo.
+B) As váriáveis do estudo são classificadas como qualitativa (Sexo) e Quantitativa
+(demais variáveis). Quali-Quantitativo.
+
+Feedback:
+Filtros da questão:
+
+[Semanas]
+Semana 5
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+6ª QUESTÃO
+
+Código da questão:
+
+33880
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 6 de 12
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: 1ª avaliação
+Enunciado:
+
+M2_S4_Q4_FCM
+Alguns alunos do curso de Medicina estão querendo realizar
+uma pesquisa sobre as mudanças nos hábitos de vida de uma comunidade
+durante a pandemia da Covid-19 e juntamente com os professores de MEP
+definiram as variáveis que irão investigar.
+Dentre as variáveis selecionadas, eles irão avaliar idade, gênero, escolaridade,
+peso, altura, Índice de Massa Corporal (IMC) e prática de exercício físico.
+Com base neste contexto, avalie as afirmações a seguir:
+I – Podemos considerar que o gênero é uma variável qualitativa ordinal.
+II – O peso, a altura e o IMC são variáveis quantitativas contínuas.
+III – A escolaridade é uma variável qualitativa ordinal.
+IV – Uma variável quantitativa pode ser coletada de forma qualitativa, como por
+exemplo, a idade.
+
+Assinale a alternativa correta:
+Alternativas:
+
+(alternativa A)
+Apenas II e III estão corretas
+(alternativa B) (CORRETA)
+Apenas II, III e IV estão corretas
+(alternativa C)
+Apenas I e II estão corretas
+(alternativa D)
+Apenas I e III estão corretas
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada: O gênero é uma variável qualitativa NOMINAL, podendo ser apresentado em
+qualquer ordem, ou seja, sem necessidade de ordenação entre as categorias.
+Feedback:
+Filtros da questão:
+
+[Semanas]
+Semana 4
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+7ª QUESTÃO
+
+Código da questão:
+
+33862
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: 1ª avaliação
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 7 de 12
+
+Enunciado:
+
+M2_S2_Q2_FCM
+Determinada pesquisa propõe acompanhar pacientes em dois
+momentos diferentes (2021 a 2023) diagnosticados com a doença pulmonar
+obstrutiva crônica (DPOC) a fim de avaliar a função respiratória, comorbidades e
+mortalidade. Um grupo será acompanhado semanalmente por agentes de saúde,
+os quais orientarão sobre o correto tratamento e a redução a fatores de risco, e
+outro grupo não terá o acompanhamento.
+Com base neste contexto, avalie as afirmações a seguir:
+
+I- Sabendo-se que a DPOC duplica o risco de AVC e infarto, é possível calcular a
+incidência destes acometimentos no estudo em questão.
+II- A melhoria no tratamento da DPOC, prolongando-se o tempo de sobrevivência
+destes pacientes, pode ser considerada um fator que reduz a prevalência.
+III- A mortalidade é considerada sempre uma medida de prevalência, já que é
+medida em um único recorte do tempo, como na pesquisa transversal.
+IV - Trata-se de um estudo de coorte prospectivo, tendo as seguintes
+características: pesquisa observacional, analítica e longitudinal.
+Assinale a alternativa correta:
+Alternativas:
+
+(alternativa A) (CORRETA)
+I e IV estão corretas
+(alternativa B)
+I e III estão corretas
+(alternativa C)
+II e III estão corretas
+(alternativa D)
+I e II estão corretas
+
+Grau de dificuldade:
+Resposta comentada:
+
+Médio
+A melhoria no tratamento da DPOC, prolongando-se o tempo de sobrevivência
+destes pacientes, pode ser considerada um fator que AUMENTA a prevalência.
+A mortalidade é considerada sempre uma medida de INCIDÊNCIA, pois precisa de
+um período de tempo para ser medida, como na pesquisa longitudinal.
+
+Feedback:
+Filtros da questão:
+
+[Semanas]
+Semana 2
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+8ª QUESTÃO
+
+Código da questão:
+
+34308
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: 1ª avaliação
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 8 de 12
+
+Enunciado:
+
+(MEPII/S3/ITPACPorto) O objetivo de uma pesquisa era o de se obter, relativamente
+aos moradores de um bairro, informações sobre duas variáveis: nível educacional e
+renda familiar. Para cumprir tal objetivo, dentre todos os domicílios do bairro, foi
+criado uma amostra com 300 moradores, em que todos no bairro tinham chances
+iguais de ser selecionado, para informar o nível educacional, e, sobre a renda
+familiar, todos os moradores foram entrevistados e arguídos. As abordagens
+utilizadas para as variáveis nível educacional e renda familiar foram,
+respectivamente:
+
+Alternativas:
+
+(alternativa A) (CORRETA)
+amostragem aleatória simples e censo.
+(alternativa B)
+censo e amostragem por conglomerados.
+(alternativa C)
+amostragem estratificada e amostragem sistemática.
+(alternativa D)
+amostragem intensional e amostragem aleatória simples.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada: O texto-base apresenta a informação de que foi criado uma amostra com 300
+moradores, em que todos no bairro tinham chances iguais de ser selecionado,
+para informar o nível educacional, o que caracteriza uma amostragem aleatória. E
+sobre a renda familiar, todos os moradores foram entrevistados e arguídos,
+caracterizando Censo.
+Feedback:
+Filtros da questão:
+
+[Semanas]
+Semana 3
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+9ª QUESTÃO
+
+Código da questão:
+
+33279
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: 1ª avaliação
+Enunciado:
+
+A Roseola infantum – ou exantema súbito – é uma doença infecciosa viral,
+normalmente benigna, muito comum entre 6 meses e 2 anos de idade. Crianças
+que a contraem ficam posteriormente imunes ao vírus. Em uma creche com 52
+crianças, constatou-se que 2 crianças estavam com roséola no dia 01 de
+setembro, sendo que até dia 11 de setembro, haviam surgido mais 5 casos novos,
+totalizando 7 casos no total desde o início do surto. De posse dessas informações,
+escolha a alternativa correta:
+
+Alternativas:
+
+(alternativa A) (CORRETA)
+a incidência cumulativa entre os dias 1 e 10 de setembro é de 10%.
+(alternativa B)
+a incidência cumulativa entre os dias 1 e 10 de setembro é de 20%.
+(alternativa C)
+a prevalência de casos entre os dias 1 e 10 de setembro é de 20%.
+(alternativa D)
+a prevalência de casos no dia 1 de setembro é de 14%.
+
+Grau de dificuldade:
+
+Médio
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 9 de 12
+
+Resposta comentada:
+
+A prevalência é dada pelo número de casos em determinado dia / total da
+população * 100. Não há como estimar prevalência em um intervalo de tempo
+(como na letra b). Já para o dia 1 de setembro, ela seria de 2 casos / 52 crianças *
+100 = 3,85% (quase 4%).
+A incidência cumulativa é dada pel
+o número de casos novos em determinado período / população de risco. O número
+de casos novos entre 1-10 setembro foi de 5 (numerador). A população de risco no
+período deve desconsiderar as 2 crianças que já estavam doentes no dia 1 de
+setembro. O denominador, portanto, ficaria 52 – 2 = 50. A incidência cumulativa
+ficaria, portanto, 5/50=10%.
+CALLEGARI-JACQUES SM. Bioestatística: princípios e aplicações. 2. Ed.
+Porto Alegre: Artmed, 2008.
+
+Feedback:
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+[Semanas]
+Semana 6
+10ª QUESTÃO
+
+Código da questão:
+
+33835
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: 1ª avaliação
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 10 de 12
+
+Enunciado:
+
+(MEPII_S3_Q1_UNIPTAN) Um grupo de alunos resolveu avaliar o perfil glicêmico de morado
+4 diferentes bairros. Os dados coletados estão mostrados no gráfico abaixo.
+
+Analise as afirmativas sobre o gráfico acerca dos valores da glicemia.
+I. O desvio padrão é maior nos moradores do bairro D.
+II. A dispersão é maior nos moradores dos bairros C.
+III. A amplitude é maior nos moradores do bairro D.
+IV. A mediana é maior nos moradores do bairro C.
+É correto o que se afirma em
+Alternativas:
+
+(alternativa A)
+I, II, III e IV.
+(alternativa B)
+III e IV.
+(alternativa C) (CORRETA)
+I, III e IV.
+(alternativa D)
+I e II.
+
+Grau de dificuldade:
+
+Fácil
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 11 de 12
+
+Resposta comentada:
+
+A glicemia dos moradores do bairro D tem uma maior variação (ou dispersão), o que pode
+percebido analisando a extensão do boxplot referente aos valores da glicemia no bairro D.
+o desvio padrão da glicemia nesse bairro é o maior dentre todos. Ou seja, a glicemia dos
+moradores do bairro D têm uma maior dispersão (o que é o mesmo que dizer que tem ma
+variação ou maior desvio padrão).
+
+A amplitude é também maior nos moradores do bairro D, pois amplitude é a diferença ent
+maior e o menor valor.
+
+Nos bairros A e C a caixa do boxplot é mais estreita, indicando uma menor variação dos da
+A linha horizontal na caixa do boxplot representa a mediana. A mediana é maior no bairro
+menor no bairro A.
+CONTEÚDO PROGRAMÁTICO
+·
+
+Mensuração da variabilidade dos dados.
+
+OBJETIVOS DE APRENDIZAGEM
+
+·
+Conhecer as formas de mensuração da variabilidade dos dados (amplitude, variância
+desvio padrão, desvio médio, coeficiente de variação).
+REFERÊNCIAS
+
+SILVA, H. A. da. Introdução à pesquisa médica: Teoria e prática da metodologia da pe
+científica na medicina, uma abordagem computacional. São João del Rei, 2019. Disponível
+https://www.amazon.com.br/dp/B07NCRJXGH/ref=cm_sw_em_r_mt_dp_J0Q7KR5J5BW6WWZ
+Acesso em: 15 set. 2021.
+Feedback:
+Filtros da questão:
+
+[Semanas]
+Semana 3
+[Áreas de Conhecimento]
+Métodos de Estudo e Pesquisa 2
+
+000040.17001a.2fbf8d.8f3d28.188f11.5f264b.5f3914.d0b79
+
+Pgina 12 de 12
+
+

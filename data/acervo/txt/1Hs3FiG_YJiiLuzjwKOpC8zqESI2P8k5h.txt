@@ -1,0 +1,1016 @@
+AFYA FACULDADE DE CIÊNCIAS MÉDICAS DA PARAÍBA
+CURSO DE MEDICINA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Sistemas Orgânicos Integrados I, Integração
+Ensino-Serviço-Comunidade I, Habilidades e Atitudes Médicas I,
+SISTEMAS ORGÂNICOS INTEGRADOS I, INTEGRAÇÃO ENSINOSERVIÇO-COMUNIDADE I e HABILIDADES E ATITUDES MÉDICAS I
+Professor (es): Eveline Abrantes
+Período: 202501
+
+Turma:
+
+Data: 27/06/2025
+
+SUBSTITUTIVA INTEGRADORA 1º PERÍODO (SOI)
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16760 - CADERNO 004
+1ª QUESTÃO
+Enunciado:
+Durante uma aula prática de histologia, os acadêmicos de medicina analisam diferentes lâminas
+histológicas de órgãos linfoides corados com hematoxilina-eosina (HE). O professor propõe que
+os alunos identifiquem os órgãos com base em suas características histológicas e relacionem
+essas estruturas com suas funções na circulação linfática e na hematopoiese. Com base na
+situação descrita e nos conceitos fisiológicos, analise as afirmativas abaixo e assinale a
+alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+Tonsilas palatinas podem ser reconhecidas histologicamente pela presença de epitélio
+estratificado pavimentoso não queratinizado e criptas profundas, refletindo sua função como
+barreiras imunológicas da mucosa oral.
+(alternativa B)
+Em cortes do baço, a polpa vermelha é composta, principalmente, por linfócitos em maturação,
+enquanto a polpa branca é responsável pela degradação de hemácias envelhecidas.
+(alternativa C)
+O timo atua como principal órgão linfóide secundário e a presença de centros germinativos e
+folículos linfóides na medula do timo é um dos principais critérios para sua identificação
+histológica.
+(alternativa D)
+A medula óssea vermelha, observada como um tecido esponjoso com ilhotas hematopoiéticas, é
+o principal local de produção de células sanguíneas e maturação dos linfócitos T na vida adulta.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 1 de 26
+
+Resposta comentada:
+A alternativa correta é aquela que refere que as tonsilas fazem parte do sistema linfático
+associado à mucosa (MALT) e atuam na detecção de patógenos inalados ou ingeridos. Guyton e
+Silverthorn descrevem sua histologia típica, com criptas profundas e epitélio pavimentoso, que
+permite o contato com antígenos e a ativação imune local.
+A polpa vermelha do baço está associada à remoção de hemácias envelhecidas e à fagocitose,
+enquanto a polpa branca contém linfócitos e está envolvida na resposta imune adaptativa.
+O timo é um órgão linfóide primário, cuja principal função é a maturação dos linfócitos T e,
+diferente de linfonodos e outros órgãos linfóides, o timo não apresenta folículos linfóides nem
+centros germinativos e sim, possui os Corpúsculos de Hassall (exclusivos do timo) que são
+estruturas em forma de rosácea ou espiral, compostas por células epiteliais medulares em
+degeneração.
+A medula óssea vermelha é o local de hematopoiese e maturação de linfócitos B, não de linfócitos
+T. A maturação dos linfócitos T ocorre exclusivamente no timo.
+Referência:
+GUYTON, A.C.; Hall J.E. Tratado de Fisiologia Médica. Editora Elsevier. 13ª ed., 2017.
+SILVERTHORN, D. Fisiologia Humana: Uma Abordagem Integrada. Artmed. 7ª Edição, 2017.
+
+2ª QUESTÃO
+Enunciado:
+Um menino de 7 anos é levado ao pronto atendimento após apresentar sangramento articular
+(hemartrose) recorrente, principalmente nos joelhos, mesmo após pequenos traumas. Sua mãe
+relata que o mesmo quadro ocorreu com dois tios maternos. A investigação laboratorial revela
+prolongamento do tempo de tromboplastina parcial ativada (TTPa) e deficiência do fator VIII da
+coagulação.
+Com base no caso descrito, assinale a alternativa que caracteriza corretamente o processo de
+hemostasia afetado, a via de coagulação envolvida e o padrão de herança da condição
+apresentada.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 2 de 26
+
+Alternativas:
+(alternativa A)
+A hemofilia tipo A afeta a via extrínseca da coagulação. A doença é herdada de forma
+mitocondrial, sendo transmitida por mulheres, mas manifestando-se igualmente em ambos os
+sexos.
+(alternativa B)
+A hemofilia A afeta a hemostasia primária, pois o fator VIII é responsável pela adesão plaquetária
+inicial. A doença é mais comum em mulheres devido à sua herança autossômica dominante.
+(alternativa C)
+A hemofilia tipo A, afeta a hemostasia terciária, responsável pela fibrinólise. A herança é
+autossômica recessiva e afeta igualmente homens e mulheres.
+(alternativa D) (CORRETA)
+A hemofilia A compromete a hemostasia secundária, envolvendo a via intrínseca da coagulação.
+É mais prevalente em homens, pois resulta de uma mutação ligada ao cromossomo X, com
+herança recessiva.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 3 de 26
+
+Resposta comentada:
+Incorreta
+A hemostasia primária envolve adesão e agregação plaquetária, com participação do
+fator de von Willebrand, não do fator VIII.
+A hemofilia A afeta a hemostasia secundária, pois o fator VIII atua na formação da
+trombina.
+Além disso, o padrão genético está incorreto: a hemofilia A tem herança ligada ao X
+recessiva, não autossômica dominante, e não é mais comum em mulheres.
+Erro na fase da hemostasia e na genética.
+Correta
+A hemostasia secundária refere-se à formação da rede de fibrina, estabilizando o
+coágulo.
+O fator VIII, ausente na hemofilia A, participa da via intrínseca da coagulação.
+O tempo de TTPa prolongado confirma o acometimento dessa via.
+A hemofilia A é mais comum em homens porque é uma doença recessiva ligada ao
+cromossomo X. Mulheres geralmente são portadoras assintomáticas.
+Correta na via envolvida, fase da hemostasia e padrão genético.
+Incorreta
+A hemostasia terciária está relacionada à fibrinólise (degradação do coágulo), não ao
+fator VIII.
+A hemofilia A não é uma condição com herança autossômica recessiva, e não afeta
+igualmente homens e mulheres.
+Erro na fase da hemostasia e no padrão de herança.
+Incorreta
+O fator VIII não pertence à via extrínseca, mas sim à via intrínseca da coagulação.
+A herança mitocondrial não se aplica à hemofilia A. Mitocôndrias são herdadas
+exclusivamente por via materna, e doenças mitocondriais afetam ambos os sexos.
+Erro na via da coagulação e tipo de herança.
+Referência bibliográfica:
+KUMAR, V.; ABBAS, A. K.; ASTER, J. C. Robbins & Cotran – Patologia: Bases Patológicas das
+Doenças. 10. ed. Rio de Janeiro: Elsevier, 2021.
+3ª QUESTÃO
+Enunciado:
+Um estudante de Medicina do 2o período, viu sua prima, de 9 anos sofrer um corte superficial ao
+brincar no parquinho da praça. Dias depois, percebeu um pequeno inchaço e vermelhidão ao
+redor do ferimento, mas sem sinais graves de infecção. Logo, imaginou que o organismo dela
+ativou uma resposta imunológica para combater possíveis microorganismos que entraram pela
+pele. Diante deste contexto, assinale a alternativa correta quanto à resposta imunonológica
+predominante nesta situação.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 4 de 26
+
+Alternativas:
+(alternativa A) (CORRETA)
+Resposta humoral com produção de anticorpos por linfócitos B que neutralizam bactérias e
+toxinas presentes no ferimento, ajudando a evitar infecções.
+(alternativa B)
+Resposta celular com ativação de linfócitos B que destroem células infectadas pelo vírus da
+ferida.
+(alternativa C)
+Resposta humoral com produção de anticorpos IgA para impedir que as bactérias se fixem no
+ferimento.
+(alternativa D)
+Resposta celular com ativação de células NK (natural Killer) para eliminar bactérias invasoras no
+ferimento.
+
+Resposta comentada:
+A alternativa correta é a que refere que a resposta predominante nesta situação é a resposta
+humoral com produção de anticorpos por linfócitos B que neutralizam bactérias e toxinas
+presentes no ferimento, ajudando a evitar infecções uma vez que a resposta humoral envolve a
+produção de anticorpos pelos linfócitos B.
+Já as demais:
+Resposta celular com ativação de linfócitos B que destroem células infectadas pelo vírus da ferida
+é falsa pois a resposta celular ativa linfócitos T CD9 + que atuam principalmente contra vírus e
+células infectadas.
+Resposta celular com ativação de células NK (natural Killer) para eliminar bactérias invasoras no
+ferimento é falsa pois as células NK atuam na resposta inata e estão mais envolvidas na
+destruição, principalmente, de células infectadas por vírus ou células tumorais, não sendo a
+principal defesa contra bactérias em um corte.
+Resposta humoral com produção de anticorpos IgA para impedir que as bactérias se fixem no
+ferimento é falsa pois a IgA é a principal classe de anticorpos presente em mucosas (como no
+trato respiratório e digestivo), mas não tem papel predominante na resposta contra
+microorganismos em um ferimento na pele.
+REFERÊNCIA:
+ABBAS, Abul K. Imunologia Celular e Molecular. 10. ed. Rio de Janeiro: Guanabara Koogan,
+2022.
+4ª QUESTÃO
+Enunciado:
+Uma mulher de 19 anos procura atendimento médico devido a episódios recorrentes de espirros,
+prurido nasal, coriza clara e obstrução nasal, especialmente ao entrar em contato com pólen e
+poeira. Ela não apresenta febre nem secreção nasal purulenta. O médico suspeita de um quadro
+de hipersensibilidade. Com base no quadro da paciente e nos mecanismos fisiológicos da
+hipersensibilidade, assinale a alternativa que indica corretamente o tipo de reação envolvida e o
+principal mecanismo fisiológico subjacente.
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 5 de 26
+
+Alternativas:
+(alternativa A) (CORRETA)
+Hipersensibilidade do tipo I (imediata), mediada por IgE ligada a mastócitos, com liberação de
+histamina e outros mediadores inflamatórios.
+(alternativa B)
+Hipersensibilidade do tipo III, mediada por complexos imunes circulantes que se depositam na
+mucosa nasal, ativando o sistema complemento.
+(alternativa C)
+Hipersensibilidade do tipo II (citotóxica), mediada por anticorpos IgG que reagem diretamente com
+células epiteliais do trato respiratório.
+(alternativa D)
+Hipersensibilidade do tipo IV, mediada por linfócitos T citotóxicos que destroem diretamente as
+células da mucosa respiratória.
+
+Resposta comentada:
+A reação clínica descrita corresponde à hipersensibilidade do tipo I, também chamada de
+reação alérgica imediata. Esse tipo de resposta é caracterizado por uma sensibilização prévia
+ao alérgeno, com produção de anticorpos IgE que se ligam a mastócitos e basófilos. Na
+reexposição ao alérgeno (como poeira ou pólen), há ativação dessas células e liberação de
+mediadores como histamina, que promovem vasodilatação, aumento da permeabilidade vascular,
+contração do músculo liso e secreção mucosa — os responsáveis por sintomas como espirros,
+prurido e obstrução nasal.
+Tipo II envolve anticorpos IgG ou IgM contra antígenos fixos em células, levando à lise
+celular, o que não é o caso aqui.
+Tipo III ocorre por deposição de complexos imunes em tecidos, gerando inflamação
+sistêmica ou localizada, mas com manifestações diferentes das relatadas.
+Tipo IV é uma resposta celular tardia, mediada por linfócitos T, como observado na
+dermatite de contato ou tuberculose.
+Referências
+Kumar, V.; Abbas, A. K.; Aster, J. C. Robbins & Cotran: Bases Patológicas das Doenças, 8ª ed.
+Elsevier, 2010.
+Hall, J. E. Tratado de Fisiologia Médica, 12ª ed. Elsevier, 2011. Cap. 34: Sistema Imunológico –
+Imunidade e Alergias.
+5ª QUESTÃO
+Enunciado:
+Durante a primeira consulta pediátrica, a mãe relata que o recém-nascido nasceu com um lábio
+leporino unilateral. O médico explica que essa condição resulta de uma falha na fusão de
+estruturas embrionárias durante o desenvolvimento facial. Com base nesse caso, assinale a
+alternativa que apresenta corretamente as estruturas embrionárias cuja fusão foi prejudicada,
+levando ao lábio leporino.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 6 de 26
+
+Alternativas:
+(alternativa A) (CORRETA)
+Processos maxilares e processos nasais mediais.
+(alternativa B)
+Processos mandibulares e processos nasais laterais.
+(alternativa C)
+Processos mandibulares e processos nasais mediais.
+(alternativa D)
+Processos maxilares e processos nasais laterais.
+
+Resposta comentada:
+A alternativa "Processos maxilares e processos nasais mediais" está CORRETA porque o lábio
+superior é formado pela fusão entre os processos maxilares e nasais mediais e falhas nesse
+processo resultam na ocorrência de lábio leporino.
+As alternativas "Processos mandibulares e processos nasais laterais" e "Processos
+mandibulares e processos nasais mediais" estão INCORRETAS porque os processos
+mandibulares formam o lábio inferior, que não sofre alteração no lábio leporino.
+A alternativa "Processos maxilares e processos nasais laterais" está INCORRETA porque no
+contexto do caso apresentado, apenas o lábio superior foi afetado. A participação dos processos
+nasais laterais em fendas faciais ocorre nos subtipos denominados de oblíquos, onde há
+exposição do canal nasolacrimal.
+REFERÊNCIA:
+SADLER, T.W. Langman embriologia médica. 14. ed. Rio de Janeiro: Guanabara Koogan, 2021.
+(pp. 225-230). Disponível em :
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737289/epubcfi/6/62[%3Bvnd.vst.id
+ref%3Dchapter17]!/4/168/3:4[%20FA%2CCE]
+6ª QUESTÃO
+Enunciado:
+Um recém-nascido prematuro, com 30 semanas de gestação, apresenta logo após o parto
+intensa dificuldade respiratória, com gemência, batimento de asas nasais e cianose. Exames
+indicam hipoxemia persistente e baixa saturação de oxigênio, com necessidade de ventilação
+mecânica em unidade neonatal. Esses achados são compatíveis com a imaturidade funcional do
+parênquima pulmonar, especialmente, relacionada à produção deficiente de surfactante alveolar.
+Com base na situação apresentada e nos conhecimentos sobre a fisiologia alveolar, assinale a
+alternativa correta.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 7 de 26
+
+Alternativas:
+(alternativa A)
+A ausência de surfactante leva à diminuição da tensão superficial, mantendo os alvéolos abertos
+durante a expiração e evitando colapsos alveolares.
+(alternativa B)
+A deficiência de surfactante, secretado por pneumócitos tipo I, compromete a difusão de oxigênio
+e dificulta o transporte adequado de gases no recém-nascido.
+(alternativa C) (CORRETA)
+A deficiência de surfactante, produzido pelos pneumócitos tipo II, leva ao aumento da tensão
+superficial alveolar, reduz a complacência pulmonar e favorece o colapso alveolar,
+comprometendo a hematose.
+(alternativa D)
+A baixa produção de surfactante aumenta a complacência pulmonar, facilitando a expansão
+alveolar e otimizando a hematose.
+
+Resposta comentada:
+A alternativa correta é aquela que refere que a deficiência de surfactante, produzido pelos
+pneumócitos tipo II, leva ao aumento da tensão superficial alveolar, reduz a complacência
+pulmonar e favorece o colapso alveolar, comprometendo a hematose pois o surfactante,
+composto por fosfolipídios e proteínas com funções imunológicas (como SP-A e SP-D), é
+secretado por pneumócitos tipo II. Ele reduz a tensão superficial, aumenta a complacência e
+previne o colapso alveolar. Sua ausência dificulta a expansão dos alvéolos e prejudica a
+hematose.
+O surfactante aumenta a complacência pulmonar, pois reduz a tensão superficial. Sem
+surfactante suficiente, a complacência diminui, tornando a expansão alveolar mais difícil e
+prejudicando a troca gasosa.
+Sem surfactante, a tensão superficial nos alvéolos aumenta, promovendo o colapso alveolar
+(atelectasia) ao final da expiração. O surfactante é crucial para diminuir essa tensão, estabilizando
+os alvéolos.
+O surfactante é secretado por pneumócitos tipo II, não tipo I. Os pneumócitos tipo I são células
+finas responsáveis pela difusão de gases. A produção insuficiente de surfactante afeta a
+estabilidade alveolar e não diretamente a função de difusão dos pneumócitos tipo I.
+REFERÊNCIAS:
+GUYTON, A.C. e Hall J.E.– Tratado de Fisiologia Médica. Editora Elsevier. 13ª ed., 2017.
+SILVERTHORN, D. Fisiologia Humana: Uma Abordagem Integrada, 7ª Edição, Artmed,
+2017.
+7ª QUESTÃO
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 8 de 26
+
+Enunciado:
+Homem de 65 anos, hipertenso, busca atendimento por episódios recorrentes de tontura e fadiga
+aos pequenos esforços. Durante o exame físico, apresenta pulso lento e regular, com frequência
+cardíaca de 38 bpm. O eletrocardiograma revela dissociação entre atividade elétrica atrial e
+ventricular, com significativa redução da frequência ventricular. Esses achados são indicativos de
+disfunção no sistema de condução elétrica do coração. Considerando os princípios da
+eletrofisiologia cardíaca e a suspeita de bloqueio na condução elétrica entre os átrios e os
+ventrículos, qual das alternativas abaixo descreve corretamente o mecanismo mais provável para
+a baixa da frequência cardíaca observada neste paciente?
+Alternativas:
+(alternativa A)
+O bloqueio da condução no nó sinoatrial leva à perda da geração de estímulos regulares,
+resultando em frequência ventricular reduzida.
+(alternativa B)
+Um bloqueio reversível do feixe de His ocasiona dissociação intermitente e redução da frequência
+cardíaca pela interrupção parcial da condução para os ventrículos.
+(alternativa C)
+O bloqueio interatrial impede a condução entre as paredes atriais, determinando bradicardia por
+falência na propagação do impulso.
+(alternativa D) (CORRETA)
+Um bloqueio completo no nodo atrioventricular impede a transmissão dos impulsos dos átrios
+para os ventrículos, levando à ativação de um marcapasso de escape ventricular com frequência
+lenta.
+
+Resposta comentada:
+A alternativa correta descreve com precisão o mecanismo de um bloqueio atrioventricular total
+(BAVT), no qual os impulsos gerados pelo nó sinoatrial não são conduzidos ao sistema de
+condução ventricular. Como resultado, os ventrículos passam a ser ativados por um marcapasso
+de escape distal, normalmente localizado nas fibras do feixe de His ou de Purkinje, que possui
+uma frequência intrínseca significativamente menor (geralmente entre 20 a 40 bpm), justificando a
+bradicardia observada no paciente.
+As demais alternativas apresentam erros conceituais importantes:
+O bloqueio do nó sinoatrial, embora possa causar pausas ou bradicardia sinusal, não
+leva à dissociação átrio-ventricular, que é o achado central neste caso.
+O bloqueio interatrial, que afeta a condução entre as paredes dos átrios, não
+compromete diretamente a condução para os ventrículos, e não justifica uma
+bradicardia com dissociação AV.
+O bloqueio no feixe de His, se parcial, pode gerar atrasos na condução intraventricular
+(como nos bloqueios de ramo), mas não provoca dissociação elétrica entre átrios e
+ventrículos, tampouco ativa um marcapasso de escape ventricular, o que o torna
+inconsistente com o caso clínico descrito.
+Referência:
+HALL, John E. Tratado de Fisiologia Médica, 12ª ed. Rio de Janeiro: Elsevier, 2011.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 9 de 26
+
+8ª QUESTÃO
+Enunciado:
+Durante a avaliação de um paciente com doença pulmonar obstrutiva crônica (DPOC), o médico
+solicita uma gasometria arterial e explica ao estudante de medicina a importância de interpretar a
+curva de saturação da hemoglobina, que relaciona a pressão parcial de oxigênio (PaO₂) com a
+saturação de oxigênio (SaO₂) no sangue. Sobre a curva de saturação da hemoglobina, assinale a
+alternativa correta.
+Alternativas:
+(alternativa A)
+Um desvio da curva para a direita ocorre quando há alcalose, favorecendo a maior afinidade da
+hemoglobina pelo oxigênio.
+(alternativa B) (CORRETA)
+A afinidade da hemoglobina pelo oxigênio diminui quando há aumento da temperatura, da PCO₂
+ou da concentração de 2,3-BPG, deslocando a curva para a direita.
+(alternativa C)
+No platô da curva, pequenas reduções da PaO₂ resultam em grandes quedas na saturação de
+oxigênio, caracterizando risco imediato de hipóxia.
+(alternativa D)
+A curva de dissociação da oxi-hemoglobina possui um formato linear, o que facilita a liberação
+uniforme de oxigênio aos tecidos em todas as pressões parciais.
+
+Resposta comentada:
+O aumento da temperatura, da pressão parcial de dióxido de carbono (PCO₂) e da concentração
+de 2,3-bisfosfoglicerato (2,3-BPG) diminui a afinidade da hemoglobina pelo oxigênio, facilitando a
+liberação deste gás aos tecidos. Esse conjunto de fatores provoca um desvio da curva de
+dissociação da oxiemoglobina para a direita, conhecido como efeito Bohr.
+Alternativas incorretas:
+A curva não é linear, mas sigmoide (em forma de “S”). No platô da curva (altas PaO₂), a
+saturação permaneça alta apesar de pequenas quedas na PaO₂ — protegendo contra hipóxia. Na
+parte inclinada da curva (PaO₂ menor), a hemoglobina libera O₂ de forma mais eficiente para os
+tecidos.
+Alcalose (pH alto) provoca deslocamento da curva para a esquerda, e não para a direita. O
+deslocamento para a esquerda aumenta a afinidade da hemoglobina pelo oxigênio, dificultando
+sua liberação nos tecidos.
+O platô da curva corresponde a altas PaO₂ (acima de 60 mmHg). Nesse trecho, a saturação
+permanece quase constante, mesmo com pequenas quedas na PaO₂ — uma característica
+protetora, pois permite que os tecidos ainda recebam O₂ mesmo com leve hipoxemia. É na parte
+inclinada da curva (PaO₂ abaixo de 60 mmHg) que pequenas variações provocam grandes
+quedas na saturação, aumentando o risco de hipóxia.
+Referência bibliográfica:
+Guyton, A. C., & Hall, J. E. (2021). Tratado de Fisiologia Médica (14ª ed.). Rio de
+Janeiro: Elsevier.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 10 de 26
+
+9ª QUESTÃO
+Enunciado:
+Durante uma aula prática no laboratório de fisiologia, os estudantes observam diferentes gráficos
+de curvas pressão-volume do pulmão em condições normais e patológicas. O professor chama
+atenção para a importância da complacência pulmonar na mecânica respiratória. Com base nos
+conhecimentos sobre a mecânica respiratória, particularmente sobre as curvas pressão-volume,
+complacência e elastância, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+A elastância pulmonar refere-se à capacidade do pulmão de se expandir e está diretamente
+relacionada à complacência.
+(alternativa B)
+A histerese observada no gráfico pressão-volume reflete a variação da elastância pulmonar, que é
+diretamente proporcional à complacência durante os ciclos respiratórios
+(alternativa C) (CORRETA)
+A complacência pulmonar representa a capacidade do pulmão de expandir-se sob uma
+determinada pressão, sendo inversamente proporcional à elastância.
+(alternativa D)
+A complacência pulmonar é a resistência que o pulmão oferece ao fluxo de ar, sendo
+inversamente proporcional à elastância.
+
+Resposta comentada:
+A complacência pulmonar é definida como a relação entre a variação de volume e a variação de
+pressão no sistema respiratório (ΔV/ΔP). Quanto maior a complacência, mais facilmente o
+pulmão se expande sob uma determinada pressão. Por outro lado, a elastância é a tendência do
+pulmão de retornar ao seu volume original após ser distendido, sendo, portanto, inversamente
+proporcional à complacência.
+Incorretas:
+Complacência pulmonar não é uma medida de resistência ao fluxo de ar.
+Elastância é o oposto de complacência: ela representa a capacidade do pulmão de retornar à sua
+forma original após ser distendido, ou seja, sua retratilidade ou rigidez.
+A histerese é o fenômeno em que, para um mesmo volume pulmonar, a pressão necessária na
+inspiração é maior que na expiração. Esse fenômeno está relacionado a fatores como tensão
+superficial alveolar e dinâmica dos surfactantes, não diretamente à variação de elastância. Além
+disso, elastância e complacência são inversamente proporcionais, não diretamente proporcionais,
+como afirma a alternativa.
+Referência bibliográfica:
+Guyton, A. C., & Hall, J. E. (2021). Tratado de Fisiologia Médica (14ª ed.). Rio de
+Janeiro: Elsevier.
+10ª QUESTÃO
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 11 de 26
+
+Enunciado:
+Um homem de 25 anos sofreu um pequeno corte na palma da mão enquanto cortava legumes.
+Apesar do ferimento superficial, houve sangramento leve e dor local. Com base nesse caso,
+assinale a alternativa que descreve corretamente uma característica histológica da pele que
+justifica essa resposta fisiológica.
+Alternativas:
+(alternativa A)
+Os folículos pilosos, presentes na palma da mão, contêm terminações nervosas que, quando
+lesionadas, causam dor, e estão associados a uma rica rede capilar que facilita o sangramento.
+(alternativa B)
+O tecido subcutâneo é formado por tecido adiposo bem vascularizado, que causa o sangramento,
+e possui terminações nervosas sensoriais (corpúsculos de Meissner) que transmitem a dor ao
+sistema nervoso central.
+(alternativa C) (CORRETA)
+A derme é altamente vascularizada, permitindo o sangramento imediato após o corte, e contém
+terminações nervosas livres que transmitem a sensação dolorosa.
+(alternativa D)
+A epiderme contém vasos sanguíneos que, ao serem lesionados, provocam sangramento,
+enquanto os corpúsculos de Pacini presentes no tecido subcutâneo são responsáveis pela
+percepção da dor.
+
+Resposta comentada:
+Alternativa 1 (correta): A derme é rica em vasos sanguíneos, explicando o
+sangramento, e possui terminações nervosas livres para a dor.
+Alternativa 2 (incorreta): A epiderme é avascular, portanto não causa sangramento;
+os corpúsculos de Pacini são mecanorreceptores para pressão e vibração, não dor.
+Alternativa 3 (incorreta): O tecido subcutâneo é vascularizado, mas não é o principal
+responsável pelo sangramento em ferimentos superficiais da pele; além disso, a dor
+vem principalmente da derme e epiderme, estando os corpúsculos de Meissner
+presentes nas papilas dérmicas.
+Alternativa 4 (incorreta): A palma da mão é uma região glabra, sem folículos pilosos;
+portanto, esta alternativa está incorreta quanto à presença desses folículos.
+REFERÊNCIA:
+JUNQUEIRA, L.C.U.; CARNEIRO, J. Histologia básica: texto e atlas. 14. ed. Rio de Janeiro:
+Guanabara Koogan, 2025. (pp. 393-395; 400). Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527739283/epubcfi/6/60[%3Bvnd.vst.id
+ref%3Dchapter18]!/4/70/2/3:17[ICA%2CDA]
+11ª QUESTÃO
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 12 de 26
+
+Enunciado:
+Durante a anamnese, um paciente relata episódios recorrentes de infecção respiratória,
+especialmente na infância. O médico explica que diversos mecanismos atuam na proteção do
+sistema respiratório, desde barreiras físicas até componentes do sistema imune. Em relação aos
+mecanismos de defesa do sistema respiratório, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O sistema mucociliar atua principalmente na traqueia e brônquios, sendo pouco funcional nas
+fossas nasais devido à menor presença de células ciliadas nessa região.
+(alternativa B)
+O sistema fagocitário pulmonar é composto por células como linfócitos e macrófagos, que atuam
+na remoção de partículas inaladas nos alvéolos
+(alternativa C)
+A tosse é predominantemente um reflexo voluntário, embora possa, em algumas situações,
+ocorrer de forma involuntária.
+(alternativa D) (CORRETA)
+As tonsilas, localizadas na faringe e laringe, atuam como órgãos linfoides secundários
+importantes na defesa imunológica das vias aéreas superiores.
+
+Resposta comentada:
+As tonsilas são órgãos linfoides secundários situados na faringe e laringe, formando o anel de
+Waldeyer. Elas desempenham papel fundamental na defesa imunológica, detectando e iniciando
+respostas contra patógenos que entram pelas vias aéreas superiores. Além disso, participam da
+indução de imunidade adaptativa.
+Incorretas:
+O erro está em minimizar a função do sistema mucociliar nas fossas nasais, quando na verdade
+ele atua ativamente desde as fossas nasais até os bronquíolos terminais. As fossas nasais
+também possuem epitélio ciliado e muco, essenciais para a filtragem inicial do ar.
+A inversão da ordem correta está sutil: o normal é a tosse ser involuntária, podendo
+ocasionalmente ser voluntária.
+Incorreta por incluir linfócitos como parte do sistema fagocitário. Linfócitos não realizam
+fagocitose; são células da resposta imune adaptativa, enquanto os macrófagos alveolares são os
+principais fagócitos no pulmão.
+Referência bibliográfica:
+Guyton, A. C., & Hall, J. E. (2021). Tratado de Fisiologia Médica (14ª ed.). Rio de
+Janeiro: Elsevier.
+12ª QUESTÃO
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 13 de 26
+
+Enunciado:
+Durante consulta nutricional, um paciente de 35 anos relata fraqueza muscular progressiva, fadiga
+persistente e perda de peso não intencional. Ele relata que, nos últimos 4 meses, passou a seguir
+uma dieta vegana estrita, sem realizar acompanhamento nutricional. Os exames laboratoriais
+apontam níveis baixos de albumina e deficiência de vitamina B12. Considerando a estrutura
+bioquímica dos macronutrientes, assinale a alternativa que apresenta o macronutriente que está
+mais diretamente relacionado aos sintomas apresentados pelo paciente.
+Alternativas:
+(alternativa A) (CORRETA)
+Constituídas por aminoácidos unidos por ligações peptídicas, desempenham funções estruturais,
+enzimáticas e estão relacionadas à manutenção da massa muscular.
+(alternativa B)
+Formadas por unidades de monossacarídeos ligadas por ligações glicosídicas, fornecem energia
+imediata e são a principal fonte energética do sistema nervoso central.
+(alternativa C)
+Compostas por carbono, hidrogênio e oxigênio, essas moléculas são metabolizadas rapidamente
+e acumuladas no fígado e nos músculos em forma de glicogênio.
+(alternativa D)
+Compostas por ácidos graxos e glicerol, são moléculas hidrofóbicas que atuam como reserva
+energética de longo prazo e na formação das membranas celulares.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 14 de 26
+
+Resposta comentada:
+O foco da questão, que é identificar a proteína.
+Esta descrição corresponde aos lipídeos. Eles são formados por uma molécula de glicerol ligada
+a ácidos graxos. São importantes para a reserva energética, isolamento térmico e estrutura da
+membrana plasmática (fosfolipídios). No entanto, não são a causa principal da perda de massa
+muscular ou da hipoalbuminemia.
+Essa alternativa descreve corretamente os carboidratos. Eles são polímeros de
+monossacarídeos, como a glicose, unidos por ligações glicosídicas. São rapidamente
+metabolizados para fornecer energia, especialmente para o cérebro.
+Essa é a definição bioquímica das proteínas. Elas são formadas por aminoácidos conectados por
+ligações peptídicas. Exercem diversas funções no organismo:
+Estruturais (ex.: actina, miosina – musculatura)
+Enzimáticas (catalisadores de reações)
+Transporte (ex.: albumina, hemoglobina)
+A deficiência de proteína em dietas veganas mal planejadas pode levar à perda
+muscular, hipoalbuminemia e fadiga, como descrito no caso.
+Correta, pois relaciona a estrutura e função da proteína com os sintomas do paciente.
+Essa alternativa também descreve os carboidratos. A principal forma de armazenamento de
+glicose no corpo é o glicogênio, presente no fígado e nos músculos. Essa estrutura contém CHO
+(carbono, hidrogênio e oxigênio).
+Referência:
+GUYTON, A. C.; HALL, J. E. Tratado de Fisiologia Médica. 14ª edição. Rio de Janeiro: Elsevier,
+2021.
+13ª QUESTÃO
+Enunciado:
+Um jovem de 20 anos, procura atendimento médico relatando cansaço excessivo, palidez e
+dificuldade de concentração nas últimas semanas. Durante o exame físico, é observada palidez
+cutaneomucosa. Um hemograma foi solicitado e revelou os seguintes resultados: hemoglobina de
+9 g/dL (valor de referência: 12-16 g/dL) e hematócrito reduzido, enquanto as contagens de
+leucócitos e plaquetas estão dentro dos valores normais. Diante do quadro clínico, assinale a
+alternativa que apresenta a célula sanguínea que está diretamente relacionada à condição
+apresentada pelo paciente.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 15 de 26
+
+Alternativas:
+(alternativa A)
+Plaqueta (trombócito) – célula responsável pelo processo de coagulação sanguínea.
+(alternativa B)
+Linfócito (glóbulo branco) – célula responsável pelos mecanismos de defesa imunológica.
+(alternativa C) (CORRETA)
+Hemácia (eritrócito) – célula responsável pelo transporte de oxigênio no sangue.
+(alternativa D)
+Neutrófilo – célula específica de defesa, predominante na resposta contra infecções bacterianas.
+
+Resposta comentada:
+ALTERNATIVA CORRETA:
+Hemácia (eritrócito).
+O quadro clínico descrito caracteriza uma anemia, que é definida como a redução dos níveis de
+hemoglobina e/ou da quantidade de hemácias no sangue, comprometendo o transporte de
+oxigênio para os tecidos.
+As hemácias, também chamadas de eritrócitos, são células anucleadas (nos mamíferos), de
+formato bicôncavo, cuja principal função é o transporte de oxigênio (O₂), por meio da proteína
+hemoglobina. Quando há redução na quantidade de hemoglobina ou no número de hemácias,
+ocorre uma diminuição na oxigenação dos tecidos, levando a sintomas como cansaço, palidez,
+taquicardia, tontura e dificuldade de concentração.
+As outras células citadas — leucócitos (b), plaquetas (c) e neutrófilos (d) — possuem funções
+distintas, relacionadas respectivamente à defesa imunológica e à coagulação, e não estão
+diretamente relacionadas com o transporte de oxigênio, razão pela qual não justificam o quadro
+clínico apresentado.
+JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Histologia Básica. 13. ed. Rio de Janeiro:
+Guanabara Koogan, 2017.
+GUYTON, Arthur C.; HALL, John E. Tratado de Fisiologia Médica. 14. ed. Rio de Janeiro:
+Elsevier, 2021.
+14ª QUESTÃO
+Enunciado:
+A respiração é um processo vital controlado por mecanismos neurais. Esse controle é essencial
+para ajustar a frequência e profundidade respiratória de acordo com as necessidades metabólicas
+do organismo.
+Com base nesse contexto, assinale a alternativa correta sobre o controle neural da respiração.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 16 de 26
+
+Alternativas:
+(alternativa A)
+A regulação da respiração é feita apenas pelos quimiorreceptores periféricos, que monitoram os
+níveis de oxigênio e influenciam o ritmo respiratório em repouso.
+(alternativa B) (CORRETA)
+A regulação automática da respiração ocorre principalmente por centros localizados no bulbo e na
+ponte, que ajustam o ritmo respiratório de forma involuntária e contínua.
+(alternativa C)
+As alterações emocionais, como na ansiedade, não afetam diretamente os centros respiratórios,
+pois esses são insensíveis aos estímulos do sistema límbico.
+(alternativa D)
+O controle da respiração depende exclusivamente de comandos voluntários do córtex cerebral,
+como ocorre durante a fala ou a apneia.
+
+Resposta comentada:
+A respiração é regulada automaticamente por centros localizados no tronco encefálico,
+especialmente no bulbo (grupo respiratório dorsal e ventral) e na ponte (centros pneumotáxico e
+apnêustico). Esses centros recebem informações de quimiorreceptores, mecanorreceptores e
+também podem ser modulados por influências emocionais vindas do sistema límbico e do córtex,
+como ocorre em situações de ansiedade.
+Incorretas:
+Embora o córtex cerebral possa atuar no controle voluntário da respiração (como ao falar, cantar
+ou prender a respiração), ele não é a única estrutura envolvida.
+O controle principal da respiração é automático e realizado por centros do tronco encefálico. A
+voluntariedade tem ação limitada e pode ser sobreposta pela necessidade automática de respirar
+(por exemplo, após um tempo em apneia).
+O sistema límbico, responsável pelas emoções, tem influência direta sobre os centros
+respiratórios. Emoções como medo, estresse e ansiedade podem causar aumento da frequência
+respiratória (taquipneia), muitas vezes de forma inconsciente. Isso ocorre pela integração de vias
+neurais entre o sistema límbico e os centros respiratórios do tronco encefálico.
+Portanto, a afirmação de que os centros são “insensíveis” ao sistema límbico está incorreta.
+Os quimiorreceptores periféricos, localizados nos corpos carotídeos e aórticos, detectam
+principalmente baixos níveis de O₂ e alterações no pH e CO₂.
+No entanto, os quimiorreceptores centrais, localizados no bulbo, são ainda mais importantes para
+a regulação da respiração em repouso, pois são altamente sensíveis ao pH do líquido
+cefalorraquidiano, refletindo os níveis de CO₂ arterial.
+Assim, afirmar que a regulação é feita apenas pelos periféricos é incorreto.
+GUYTON, Arthur C.; HALL, John E. Tratado de fisiologia médica. 14. ed. Rio de Janeiro: Elsevier,
+2021.
+SILVERTHORN, Dee Unglaub. Fisiologia humana: uma abordagem integrada. 8. ed. Porto Alegre:
+Artmed, 2021.
+15ª QUESTÃO
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 17 de 26
+
+Enunciado:
+Homem de 30 anos, previamente saudável, relata que após uma viagem de cinco dias a uma
+região de clima frio e seco começou a apresentar irritação na garganta, ressecamento nasal,
+espirros e desconforto ao respirar. Refere que os sintomas surgiram especialmente ao caminhar
+ao ar livre pela manhã e durante a noite. Não há sinais de infecção ativa ou febre. O exame físico
+revela leve hiperemia orofaríngea e ausência de secreção purulenta nasal. Com base no caso
+clínico apresentado, analise as afirmativas a seguir sobre as funções das vias aéreas superiores,
+particularmente no que se refere à condução, filtração, umidificação e aquecimento do ar
+inspirado:
+I - As vias aéreas superiores, especialmente as cavidades nasais, promovem o aquecimento e a
+umidificação do ar inspirado, graças à rica vascularização da mucosa respiratória e à presença
+de células caliciformes produtoras de muco.
+II - A filtração do ar ocorre principalmente por meio dos pelos nasais (vibrissas) e pela ação
+mucociliar da epitélio respiratório ciliado, que retém partículas e microrganismos, direcionando-os
+à orofaringe para deglutição ou eliminação.
+III - O clima frio e seco compromete a função da mucosa respiratória, podendo levar à redução da
+atividade ciliar e ao espessamento do muco, o que favorece irritação, desconforto respiratório e
+maior vulnerabilidade a infecções.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A)
+II e III.
+(alternativa B)
+I e II.
+(alternativa C) (CORRETA)
+I, II e III.
+(alternativa D)
+I e III.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 18 de 26
+
+Resposta comentada:
+A alternativa I, II e III. é correta, pois todas as afirmativas estão alinhadas com o conhecimento
+anatômico e fisiológico das vias aéreas superiores e com a interpretação clínica do caso
+apresentado.
+Justificativas:
+I – Correta:
+A mucosa nasal é ricamente vascularizada, especialmente nos cornetos nasais, favorecendo o
+aquecimento do ar inspirado. As glândulas seromucosas e células caliciformes produzem muco,
+contribuindo para a umidificação do ar, essencial para evitar o ressecamento das vias
+respiratórias.
+II – Correta:
+A filtração mecânica inicial ocorre pelas vibrissas, que retêm partículas maiores. Já as partículas
+menores e microrganismos são capturados pela mucosa respiratória ciliada, que atua através do
+movimento mucociliar, conduzindo o material para ser expelido ou deglutido.
+III – Correta:
+Em ambientes de baixa umidade e baixa temperatura, a viscosidade do muco aumenta e a
+atividade ciliar pode ser reduzida, dificultando o transporte mucociliar. Isso explica a irritação
+relatada pelo paciente, e também a maior suscetibilidade a infecções respiratórias nessas
+condições.
+Referências Bibliográficas:
+1. Moore, K. L., Dalley, A. F., & Agur, A. M. R. (2019).
+Anatomia Orientada para a Clínica. 8ª ed. Guanabara Koogan.
+
+16ª QUESTÃO
+Enunciado:
+Durante um exame de Ecocardiograma Fetal com Doppler, o médico explica à gestante que,
+diferentemente da circulação neonatal, o pulmão do feto está funcionalmente inativo e seus vasos
+encontram-se colapsados, de modo que o sangue que chega ao cérebro do feto, por exemplo, é
+oxigenado a partir de um desvio no trajeto do sangue para contornar os pulmões. Com base
+nisso, marque a alternativa que descreve corretamente esse desvio característico da circulação
+fetal.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 19 de 26
+
+Alternativas:
+(alternativa A)
+O sangue rico em oxigênio flui da veia cava inferior diretamente para o ventrículo esquerdo,
+contornando os pulmões.
+(alternativa B)
+O sangue oxigenado vindo através da veia umbilical entra no átrio esquerdo através do ducto
+arterioso, evitando o pulmão.
+(alternativa C)
+O sangue oxigenado do ducto arterioso é desviado diretamente para o átrio esquerdo,
+contornando os pulmões.
+(alternativa D) (CORRETA)
+O sangue oxigenado passa do átrio direito para o átrio esquerdo por meio do forame oval,
+desviando os pulmões não funcionais.
+
+Resposta comentada:
+A alternativa "O sangue rico em oxigênio flui da veia cava inferior diretamente para o ventrículo
+esquerdo, contornando os pulmões" está INCORRETA porque o sangue rico em oxigênio flui da
+veia cava inferior para o átrio direito e desse diretamente para o átrio esquerdo.
+A alternativa "O sangue oxigenado vindo através da veia umbilical entra no átrio esquerdo através
+do ducto arterioso, evitando o pulmão" está INCORRETA porque o sangue oxigenado flui para o
+átrio esquerdo através do forame oval.
+A alternativa "O sangue oxigenado passa do átrio direito para o átrio esquerdo por meio do forame
+oval, desviando os pulmões não funcionais" está CORRETA porque, de fato, o sangue rico em
+oxigênio, proveniente da placenta e que chega ao feto através da veia umbilical, é desviado dos
+pulmões não funcionais passando diretamente do átrio direito para o esquerdo através do forame
+oval.
+A alternativa "O sangue oxigenado do ducto arterioso é desviado diretamente para o átrio
+esquerdo, contornando os pulmões" está INCORRETA porque pelo ducto arterioso circula sangue
+pobre em oxigênio. Além disso, o sangue é drenado desse ducto diretamente para a aorta e não
+para o átrio esquerdo.
+REFERÊNCIA:
+SADLER, T.W. Langman embriologia médica.14. ed. Rio de Janeiro: Guanabara Koogan, 2021.
+(pp. 166-167). Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737289/epubcfi/6/54[%3Bvnd.vst.id
+ref%3Dchapter13]!/4/360/5:37[MEN%2CTO]
+17ª QUESTÃO
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 20 de 26
+
+Enunciado:
+Um paciente sofre um corte superficial na pele ao manusear uma folha de papel. Nas primeiras
+horas após a lesão, observa-se edema, rubor e calor no local. Após alguns dias, o processo
+inflamatório evolui e a cicatrização se inicia. No entanto, caso a lesão persistisse devido à
+presença de um corpo estranho não removido, o quadro inflamatório poderia se tornar crônico.
+Considerando os mecanismos envolvidos, assinale a alternativa que diferencia corretamente a
+inflamação aguda da inflamação crônica.
+Alternativas:
+(alternativa A)
+A inflamação crônica se instala imediatamente após o trauma tecidual e é marcada por edema e
+calor local, enquanto a inflamação aguda surge tardiamente, com substituição do exsudato por
+tecido cicatricial.
+(alternativa B)
+A inflamação aguda e a inflamação crônica apresentam os mesmos mediadores químicos e
+células envolvidas, sendo diferenciadas apenas pela presença ou ausência de infecção
+bacteriana.
+(alternativa C) (CORRETA)
+A inflamação aguda apresenta início rápido, curta duração e predomínio de neutrófilos; já a
+inflamação crônica é mais prolongada, com infiltração de macrófagos, linfócitos e proliferação de
+vasos e tecido conjuntivo.
+(alternativa D)
+A inflamação aguda é caracterizada pela presença predominante de linfócitos e fibroblastos,
+enquanto a crônica apresenta neutrófilos e exsudato purulento.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 21 de 26
+
+Resposta comentada:
+Incorreta
+Erro conceitual: inverte os tipos celulares.
+Linfócitos e fibroblastos são típicos da inflamação crônica, enquanto os neutrófilos e o
+exsudato purulento predominam na inflamação aguda.
+Referência cruzada: esse tipo de confusão é comum, mas biologicamente incorreto.
+Correta
+Inflamação aguda: rápida (minutos a horas), curta duração (dias), com predomínio de
+neutrófilos.
+Inflamação crônica: prolongada (semanas a meses), com presença de macrófagos,
+linfócitos, células plasmáticas, além de angiogênese e fibrose.
+A alternativa apresenta corretamente os aspectos celulares e temporais.
+Incorreta
+A inflamação aguda ocorre logo após o trauma, não tardiamente.
+A inflamação crônica não se instala imediatamente, ela surge quando há persistência
+do agente agressor ou falha na resolução da inflamação aguda.
+Mistura eventos de forma temporalmente incorreta.
+Incorreta
+Embora existam mediadores químicos comuns, os tipos celulares e o contexto
+fisiopatológico são distintos.
+A presença de infecção bacteriana pode ocorrer tanto na aguda quanto na crônica, não
+sendo critério exclusivo de diferenciação.
+Reduz a inflamação a um fator apenas infeccioso, o que é equivocado.
+Referência Bibliográfica:
+ROBBINS, S. L.; COTRAN, R. S.; KUMAR, V. Robbins e Cotran: Patologia – Bases Patológicas
+das Doenças. 10. ed. Rio de Janeiro: Elsevier, 2021.
+18ª QUESTÃO
+Enunciado:
+Durante uma aula prática de anatomia e histologia, um estudante analisa cortes histológicos de
+diferentes segmentos do trato digestório alto. Ao observar atentamente as lâminas do esôfago e
+do estômago, percebe diferenças marcantes na composição do epitélio e na organização das
+camadas da mucosa entre essas duas regiões. Acerca do exposto, assinale a alternativa que
+descreve corretamente as principais diferenças histológicas entre o esôfago e o estômago.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 22 de 26
+
+Alternativas:
+(alternativa A)
+O esôfago apresenta epitélio cilíndrico simples com vilosidades, especializado na absorção,
+enquanto o estômago possui epitélio pavimentoso estratificado que protege contra o ácido
+gástrico.
+
+(alternativa B)
+No esôfago, há predominância de glândulas gástricas na mucosa, responsáveis pela secreção de
+ácido, enquanto o estômago é formado apenas por tecido conjuntivo e musculatura lisa.
+(alternativa C)
+Ambos os órgãos possuem epitélio pavimentoso estratificado, pois essa é uma característica
+comum do trato digestório alto, oferecendo proteção contra agentes químicos.
+
+(alternativa D) (CORRETA)
+O esôfago é revestido por epitélio pavimentoso estratificado não queratinizado, adequado à
+proteção contra atrito, enquanto o estômago possui epitélio cilíndrico simples, especializado na
+secreção de muco, ácido e enzimas digestivas.
+
+Resposta comentada:
+O esôfago é revestido por epitélio pavimentoso estratificado não queratinizado, adequado à
+proteção contra atrito, enquanto o estômago possui epitélio cilíndrico simples, especializado na
+secreção de muco, ácido e enzimas digestivas.
+O esôfago é revestido por um epitélio pavimentoso estratificado não queratinizado, cuja principal
+função é proteger contra o atrito mecânico causado pela passagem dos alimentos. Essa
+característica é típica de órgãos sujeitos a desgaste mecânico, oferecendo resistência sem a
+necessidade de absorção ou secreção especializada.
+Já o estômago apresenta epitélio cilíndrico simples, especializado na secreção de muco, ácido
+clorídrico (HCl) e enzimas digestivas, fundamentais para o início da digestão química. Além disso,
+a mucosa gástrica contém diferentes tipos de células, como células mucosas superficiais, células
+parietais (produtoras de HCl e fator intrínseco) e células principais (produtoras de pepsinogênio).
+Portanto, a alternativa B está correta por descrever precisamente as principais diferenças
+histológicas entre essas regiões. As alternativas A, C e D estão incorretas por apresentarem
+erros conceituais tanto na descrição dos tipos epiteliais quanto na função das estruturas.
+JUNQUEIRA, Luiz Carlos; CARNEIRO, José. Histologia Básica. 13. ed. Rio de Janeiro:
+Guanabara Koogan, 2017.
+ROSS, Michael H.; PAWLINA, Wojciech. Histologia: Texto e atlas. 7. ed. Rio de Janeiro:
+Guanabara Koogan, 2016.
+19ª QUESTÃO
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 23 de 26
+
+Enunciado:
+Um paciente de 72 anos, com histórico de hipertensão arterial em uso de anti-hipertensivos, relata
+episódios de tontura ao se levantar rapidamente da posição deitada. Durante a aferição dos sinais
+vitais, sua pressão arterial é de 130/80 mmHg em decúbito e cai para 100/65 mmHg ao assumir a
+posição ortostática, acompanhada de leve taquicardia.
+Com base nos mecanismos fisiológicos de regulação da pressão arterial, assinale a alternativa
+que explica a resposta compensatória desencadeada nesse paciente.
+Alternativas:
+(alternativa A)
+A queda da pressão arterial ativa os barorreceptores arteriais, reduzindo a atividade simpática e
+aumentando a parassimpática, o que resulta em bradicardia compensatória.
+(alternativa B) (CORRETA)
+A redução da pressão arterial é detectada pelos barorreceptores do seio carotídeo e arco aórtico,
+que disparam resposta simpática reflexa, elevando a frequência cardíaca, gerando a
+vasoconstrição periférica.
+(alternativa C)
+A estimulação dos quimiorreceptores periféricos leva ao aumento do débito cardíaco e à
+vasoconstrição reflexa para restabelecer a pressão arterial.
+(alternativa D)
+A ativação dos receptores cardiopulmonares inibe a liberação de noradrenalina e suprime a
+resposta adrenérgica, o que contribui para a hipotensão postural.
+
+Resposta comentada:
+Quando ocorre uma mudança súbita de posição, como da posição deitada para a ortostática, o
+volume sanguíneo tende a se redistribuir para os membros inferiores devido à gravidade. Essa
+redistribuição causa uma redução transitória da pressão arterial sistêmica. Os barorreceptores
+de alta pressão, localizados no seio carotídeo e no arco aórtico, detectam essa queda da
+pressão e reduzem sua taxa de disparo. Como consequência, há ativação reflexa do sistema
+nervoso simpático, que promove taquicardia (aumento da frequência cardíaca) e vasoconstrição
+periférica, tentando restaurar a pressão arterial e manter a perfusão cerebral.
+Os Quimiorreceptores respondem primariamente a alterações de O₂, CO₂ e pH, e não são os
+principais mediadores da resposta imediata à hipotensão postural. Ocorre aumento da atividade
+simpática e inibição da parassimpática — o oposto do descrito. Receptores cardiopulmonares de
+baixa pressão não são os mediadores diretos da resposta reflexa à hipotensão ortostática e sua
+ativação não tem o efeito descrito.
+Referência:
+HALL, John E. Tratado de Fisiologia Médica. 12. ed. Rio de Janeiro: Elsevier, 2011.
+20ª QUESTÃO
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 24 de 26
+
+Enunciado:
+Homem de 58 anos, tabagista, hipertenso e diabético tipo 2, apresenta-se ao pronto-socorro com
+dor torácica opressiva irradiada para o braço esquerdo, associada a sudorese e náuseas. O
+eletrocardiograma mostra supradesnivelamento do segmento ST nas derivações V1 a V4. A
+troponina sérica está significativamente elevada. A ecocardiografia evidencia disfunção sistólica
+importante do ventrículo esquerdo, com hipocinesia de parede anterior e septo interventricular. A
+angiotomografia coronariana mostra obstrução significativa em um dos ramos coronários,
+comprometendo a irrigação da face anterior do ventrículo esquerdo e parte do septo
+interventricular. Com base nos achados clínicos, anatômicos e fisiopatológicos do caso
+apresentado, analise as afirmativas a seguir sobre o ramo coronário acometido, considerando a
+anatomia cardíaca, a circulação coronária e a inervação do coração.
+I - O ramo interventricular anterior (descendente anterior) da artéria coronária esquerda é o
+principal responsável pela irrigação da parede anterior do ventrículo esquerdo e da maior parte do
+septo interventricular.
+II - A artéria coronária direita é responsável exclusiva pela irrigação do ventrículo direito e do nó
+sinoatrial, não apresentando ramos que alcancem o septo interventricular em nenhuma variação
+anatômica.
+III - Lesões no território irrigado pela artéria interventricular anterior estão associadas a maiores
+índices de disfunção ventricular esquerda e risco aumentado de choque cardiogênico.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I e III.
+(alternativa B)
+II e III.
+(alternativa C)
+I, II e III.
+(alternativa D)
+I e II.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 25 de 26
+
+Resposta comentada:
+A alternativa correta é I e III, pois apresentam informações anatômica e fisiopatologicamente
+corretas com relação ao caso clínico proposto.
+Justificativas:
+Afirmativa I – Correta:
+A artéria interventricular anterior (ou descendente anterior) é um ramo da artéria coronária
+esquerda e percorre o sulco interventricular anterior, sendo responsável pela irrigação da parede
+anterior do ventrículo esquerdo, do ápice do coração e da maior parte da porção anterior do septo
+interventricular. Lesões nesta artéria podem comprometer significativamente a função do
+ventrículo esquerdo.
+Afirmativa II – Incorreta:
+Embora a artéria coronária direita seja responsável pela irrigação do ventrículo direito, nó sinoatrial
+e nó atrioventricular, ela pode, dependendo da dominância coronariana, enviar o ramo
+interventricular posterior, que irriga a porção posterior do septo interventricular. Logo, ela pode sim
+contribuir com a irrigação do septo, o que invalida a exclusividade atribuída à coronária esquerda.
+Afirmativa III – Correta:
+A obstrução da artéria interventricular anterior está associada ao infarto extenso do ventrículo
+esquerdo, com alto risco de complicações como disfunção sistólica grave, choque cardiogênico,
+ruptura septal e arritmias ventriculares malignas. É conhecida como a “artéria da morte” devido à
+gravidade das lesões que ocasiona.
+MOORE, Keith L.; DALLEY, Arthur F.; AGUR, Anne M. R.. Anatomia orientada para a clínica. 8
+Rio de Janeiro: Guanabara Koogan, 2019
+GUYTON, A. C.; HALL, J. E. Tratado de Fisiologia Médica. 12. ed. Rio de ... 14. ed. RIo de
+Janeiro: Guanabara Koogan, 2016.
+
+000167.600019.2b1720.c3b445.d74918.5ecd12.26ddbe.f279e
+
+Pgina 26 de 26
+
+

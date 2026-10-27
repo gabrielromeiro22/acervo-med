@@ -1,0 +1,2758 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Estágio em Atenção Ambulatorial e Hospitalar em
+Clínica Médica
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 26/08/2025
+
+N2 INTERNATO - MEDICINA - CM - 2025.2 - ROT 1 - 26/AGOSTO - 12
+TEMAS
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16965 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+141809
+
+Tipo da questão:
+
+Múltipla Escolha
+
+acervo.top / acervotop.com
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNISL Porto Velho) Paciente de 28 anos procura atendimento com quadro de febre de início
+súbito há 3 dias, mialgia intensa, cefaleia e exantema. O hemograma revela leucopenia, linfocitose
+atípica, hematócrito de 46% (valor basal: 39%), plaquetas de 110.000/mm³. Sorologia IgM para
+Dengue: negativa com 4 dias de sintomas realizado com teste rápido. Qual é a interpretação mais
+adequada a partir dos exames laboratoriais e do quadro clínico?
+Alternativas:
+(alternativa A)
+A sorologia negativa para Dengue exclui o diagnóstico, sendo necessária a investigação
+específica de febre amarela, especialmente por conta da leucopenia significativa.
+(alternativa B) (CORRETA)
+A elevação do hematócrito com plaquetopenia sugere risco de extravasamento plasmático na
+Dengue, mesmo com IgM negativa, o que pode ocorrer nos primeiros dias.
+(alternativa C)
+A presença de linfócitos atípicos e plaquetopenia pode ocorrer em infecções virais como Zika,
+porém o hematócrito elevado não é um achado esperado nem irrelevante nesse contexto.
+(alternativa D)
+O quadro laboratorial é mais sugestivo de Chikungunya, pois a linfocitose atípica e a elevação do
+hematócrito são marcadores específicos da fase aguda da doença.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 1 de 68
+
+Resposta comentada:
+"A elevação do hematócrito com plaquetopenia sugere risco de extravasamento plasmático na
+Dengue, mesmo com IgM negativa, o que pode ocorrer nos primeiros dias." Correta: A elevação
+do hematócrito associada à plaquetopenia é um indicador precoce de extravasamento plasmático,
+típico das formas mais graves de Dengue. A sorologia IgM pode ser negativa nos primeiros dias
+da doença, e por isso não exclui o diagnóstico. O diagnóstico precoce depende muitas vezes da
+clínica associada ao hemograma.
+Justificativa das Alternativas Incorretas:
+"A presença de linfócitos atípicos e plaquetopenia pode ocorrer em infecções virais como Zika,
+porém o hematócrito elevado não é um achado esperado nem irrelevante nesse contexto."
+Incorreta: Embora a Zika possa cursar com linfócitos atípicos e rash, a elevação do hematócrito
+não é característica nem considerada irrelevante. Este achado é sugestivo de risco de
+complicação em Dengue, sendo um marcador importante para evolução clínica.
+"A sorologia negativa para Dengue exclui o diagnóstico, sendo necessária a investigação
+específica de febre amarela, especialmente por conta da leucopenia significativa." Incorreta: A
+sorologia negativa para Dengue com 4 dias de sintomas não descarta o diagnóstico, já que os
+anticorpos IgM aparecem entre 4–5 dias após início da febre. Além disso, a febre amarela
+costuma cursar com leucopenia mais intensa e alterações hepáticas importantes, o que não está
+presente no caso descrito.
+"O quadro laboratorial é mais sugestivo de Chikungunya, pois a linfocitose atípica e a elevação do
+hematócrito são marcadores específicos da fase aguda da doença." Incorreta: A Chikungunya se
+caracteriza por febre alta e artralgias/artrite intensas, podendo apresentar linfocitose, mas a
+elevação do hematócrito não é um marcador específico da doença, nem faz parte do seu quadro
+típico laboratorial agudo.
+Referências:
+Ministério da Saúde do Brasil. Diretrizes para diagnóstico e manejo clínico das arboviroses
+(Dengue, Zika e Chikungunya). Brasília: Ministério da Saúde, 2020.
+BRASIL. Protocolo de manejo clínico da febre amarela. Ministério da Saúde, 2018.
+HARRISON, P. Harrison’s Principles of Internal Medicine. 21st ed. McGraw Hill, 2022.
+CDC. Dengue Clinical Guidance and Laboratory Diagnosis. Centers for Disease Control and
+Prevention. Acesso em: 18 ago. 2025.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 2 de 68
+
+Filtros da questão:
+
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNISL PORTO VELHO
+[Habilidades]
+Reconhecer os sinais e sintomas clínicos de Dengue, Zika,
+Chikungunya e Febre Amarela, diferenciando as apresentações
+típicas.
+Interpretar exames laboratoriais e sorológicos indicados no manejo
+das arboviroses, incluindo hemograma e provas específicas.
+[Tema]
+Dengue, Zika, Chikungunya e FEBRE AMARELA
+2ª QUESTÃO
+
+Código da questão:
+
+141868
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDOMPEDRO) Paciente masculino, 56 anos, com cirrose hepática por hepatite C, procura
+atendimento com quadro de febre baixa, dor abdominal difusa e piora do estado geral. Ao exame
+físico, apresenta-se descorado, com ascite importante e dor à palpação abdominal difusa, sem
+sinais de irritação peritoneal. É realizada paracentese diagnóstica com líquido de aspecto turvo,
+contagem de polimorfonucleares de 320 células/mm³.
+Com base nesse caso, qual é a conduta mais apropriada?
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar ceftriaxona EV e albumina conforme protocolo.
+(alternativa B)
+Realizar TC de abdome antes de qualquer conduta.
+(alternativa C)
+Iniciar ciprofloxacino VO e manter observação ambulatorial.
+(alternativa D)
+Repetir paracentese em 48h e observar evolução clínica.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 3 de 68
+
+Resposta comentada:
+Resposta Comentada
+Incorreta - Repetir paracentese em 48h e observar evolução clínica.
+A conduta expectante é contraindicada em casos suspeitos de PBE.
+Incorreta - Iniciar ciprofloxinacino VO e manter observação ambulatorial.
+Ciprofloxacino VO é reservado à profilaxia secundária.
+Correta - Iniciar ceftriaxona EV e albumina conforme protocolo.
+Trata-se de peritonite bacteriana espontânea (PBE), definida por ≥250 PMN/mm³ no líquido
+ascítico. A conduta padrão é iniciar antibiótico de amplo espectro (cefalosporina de 3ª geração) e
+administrar albumina (1,5 g/kg no dia 1 e 1,0 g/kg no dia 3) para reduzir risco de IRA. (PCDT
+Hepatites Virais Crônicas/MS, 2023).
+Incorreta - Realizar TC de abdome antes de qualquer conduta.
+TC não é necessária para o diagnóstico e pode atrasar o início do tratamento.
+Referência:
+PARISE, Edison Roberto; ARRUDA, Érico Antonio Gomes de; e outros. Guia de recomendações
+para tratamento da hepatite C das Sociedades Brasileiras de Hepatologia e Infectologia. In:
+SOCIEDADE BRASILEIRA DE HEPATOLOGIA; SOCIEDADE BRASILEIRA DE
+INFECTOLOGIA. The Brazilian Journal of Infectious Diseases, São Paulo, v. 20, n. 2 (Suppl. 1),
+mar./abr. 2016. DOI: [se houver]. Disponível em:
+https://sbhepatologia.org.br/pdf/bjid_suplemento1-2016-web.pdf. Acesso em: 8 ago. 2025.
+Feedback:
+-Filtros da questão:
+
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDOMPEDRO
+[Habilidades]
+Reconhecer os sinais clínicos e complicações da cirrose hepática,
+incluindo ascite, encefalopatia, PBE e síndrome hepatorrenal.
+Aplicar critérios diagnósticos de ascite e PBE, utilizando
+paracentese e interpretação do líquor ascítico.
+3ª QUESTÃO
+
+Código da questão:
+
+141266
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 4 de 68
+
+Enunciado:
+(UNINOVAFAPI) Um homem de 52 anos comparece ao ambulatório de clínica médica após
+realização de ultrassonografia cervical solicitada por queixa de “caroço no pescoço” percebido há
+três semanas. O exame revela nódulo sólido hipoecoico de 1,8 cm no lobo direito da tireoide, com
+microcalcificações e margens irregulares. O paciente está assintomático. Exames laboratoriais
+demonstram TSH: 2,1 mUI/L (VR: 0,4–4,5); T4 livre: 1,1 ng/dL (VR: 0,8–1,8); T3 total: 110 ng/dL
+(VR: 80–180).
+Diante dos achados clínicos, laboratoriais e ultrassonográficos, qual deve ser a conduta inicial
+mais apropriada em relação ao nódulo tireoidiano?
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar punção aspirativa por agulha fina (PAAF) guiada por US, devido aos achados
+ultrassonográficos suspeitos.
+(alternativa B)
+Solicitar cintilografia da tireoide, já que o TSH normal indica risco de nódulo quente.
+(alternativa C)
+Repetir a ultrassonografia em 6 meses, visto que o TSH está normal e o nódulo tem menos de 2
+cm.
+(alternativa D)
+Iniciar levotiroxina para suprimir o TSH, evitando crescimento do nódulo.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 5 de 68
+
+Resposta comentada:
+Realizar punção aspirativa por agulha fina (PAAF) guiada por US, devido aos achados
+ultrassonográficos suspeitos.
+Comentário das alternativas:
+Alternativa correta: A indicação de PAAF baseia-se em características ultrassonográficas
+suspeitas (hipoecogenicidade, margens irregulares, microcalcificações) e tamanho igual ou
+superior a 1 cm em pacientes com TSH normal, segundo recomendações da American Thyroid
+Association e do consenso brasileiro.
+Repetir ultrassonografia: É uma conduta expectante válida apenas para nódulos com
+características benignas ao ultrassom. Neste caso, os achados são considerados de alto risco
+para malignidade.
+Iniciar levotiroxina: A terapia supressiva com levotiroxina não é recomendada para a maioria dos
+nódulos, especialmente se eutireoideos e com ultrassonografia suspeita. Essa prática é obsoleta
+devido aos efeitos adversos da supressão do TSH.
+Solicitar cintilografia: A cintilografia está indicada apenas se o TSH estiver suprimido. Em
+pacientes eutireoideos, não auxilia na estratificação inicial de risco.
+Referências:
+LOSCALZO, Joseph et al. Medicina interna de Harrison. 21. ed. Porto Alegre: McGraw Hill, 2024.
+v. 2, p. 1843–1849. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05 fev. 2024.
+GOLDMAN, Lee; SCHAFER, Arthur. Goldman-Cecil Medicina. 26. ed. Rio de Janeiro: Elsevier,
+2022. v. 2, p. 2209–2216. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159297. Acesso em: 05 fev. 2024.
+MARTINS, Mílton de Arruda et al. (ed.). Clínica médica: doenças endócrinas e metabólicas,
+doenças osteometabólicas; doenças reumatológicas. 2. ed. São Paulo: Manole, 2016. v. 5, p. 39–
+48. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788520447758.
+Acesso em: 05 fev. 2024.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 6 de 68
+
+Filtros da questão:
+
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNINOVAFAPI
+[Competências (Objetivos)]
+Interpretação de exames
+[Habilidades]
+Analisar exames hormonais (TSH, T4, T3) e ultrassonografia da
+tireoide, avaliando nódulos e disfunções endócrinas.
+[Tema]
+Doenças da hipófise e da tireoide - Rastreamento de nódulos
+tireoidianos
+4ª QUESTÃO
+
+Código da questão:
+
+141268
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNINOVAFAPI) Um homem de 37 anos, portador de HIV, chega à emergência com queixa de
+cefaleia intensa há 7 dias, febre vespertina, náuseas e vômitos. Ao exame, encontra-se febril,
+confuso e com rigidez de nuca. Relata abandono do tratamento antirretroviral há cerca de um ano.
+O exame laboratorial revela contagem de linfócitos CD4 abaixo de 100 células/mm³. Uma punção
+lombar é realizada e revela líquido cefalorraquidiano claro, com pressão de abertura elevada, além
+de tinta nanquim positiva para leveduras encapsuladas.
+Diante do caso clínico apresentado, qual é a conduta inicial mais adequada para o tratamento da
+infecção oportunista associada?
+Alternativas:
+(alternativa A)
+Realizar dexametasona intravenosa e iniciar tratamento empírico para tuberculose.
+(alternativa B)
+Prescrever aciclovir intravenoso e iniciar TARV imediatamente
+(alternativa C)
+Iniciar fluconazol oral em monoterapia por 6 semanas e iniciar TARV imediatamente.
+(alternativa D) (CORRETA)
+Iniciar anfotericina B associada à flucitosina e adiar TARV por pelo menos 4 semanas.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 7 de 68
+
+Resposta comentada:
+Gabarito:
+Iniciar anfotericina B associada à flucitosina e adiar TARV por pelo menos 4 semanas.
+Comentário das alternativas:
+Alternativa correta: A associação de anfotericina B e flucitosina é o tratamento de escolha para
+meningite criptocócica em pacientes com AIDS. O início da TARV deve ser adiado por 4 a 6
+semanas para evitar a síndrome inflamatória de reconstituição imune (IRIS), que pode piorar a
+evolução neurológica.
+Fluconazol em monoterapia e TARV imediata: Embora o fluconazol possa ser usado em fases
+posteriores, não é adequado como monoterapia na fase de indução. O início imediato da TARV
+aumenta o risco de IRIS.
+Aciclovir e TARV: Aciclovir é utilizado no tratamento de infecção por herpesvírus, o que não é
+compatível com o diagnóstico de criptococose.
+Dexametasona e tuberculose: Embora a tuberculose meníngea possa ter quadro semelhante, a
+tinta nanquim positiva confirma o diagnóstico de criptococose, afastando a necessidade de terapia
+empírica para TB neste momento.
+Referências:
+SALOMÃO, Reinaldo. Infectologia: bases clínicas e tratamento. Rio de Janeiro: Grupo GEN,
+2023. p. 689–692. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527739849/. Acesso em: 25 abr. 2024.
+LOSCALZO, Joseph; et al. Medicina interna de Harrison. 21. ed. Porto Alegre: McGraw Hill, 2024.
+v. 2, p. 1745–1748. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05 fev. 2024.
+MARTINS, Mílton de Arruda et al (ed.). Clínica médica: alergia e imunologia clínica, doenças da
+pele, doenças infecciosas e parasitárias. 2. ed. São Paulo: Manole, 2016. v. 7, p. 239–243.
+Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788520447772. Acesso
+em: 05 fev. 2024.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 8 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Infectologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNINOVAFAPI
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Analisar a fisiopatologia da infecção pelo HIV e da criptococose,
+orientando a conduta clínica diante da imunossupressão avançada.
+[Tema]
+HIV e Criptococose
+5ª QUESTÃO
+
+Código da questão:
+
+141890
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Santa Inês) Paciente masculino, 58 anos, com histórico de prolapso valvar mitral com
+insuficiência leve, procura atendimento no ambulatório com febre diária há duas semanas,
+sudorese noturna, perda de peso não intencional e fadiga progressiva. Nega uso recente de
+antibióticos. No exame físico, apresenta sopro holossistólico em foco mitral (mais audível do que
+em consultas anteriores), palidez cutâneo-mucosa e lesão violácea dolorosa na polpa digital do 3º
+dedo da mão esquerda.
+Os exames complementares revelam:
+Hemograma: anemia normocítica normocrômica, leucocitose discreta (11.500/mm³), plaquetas
+normais.
+VHS: 82 mm/h.
+PCR: 56 mg/L.
+Creatinina: 1,0 mg/dL.
+Urina 1: hematúria microscópica.
+Ecocardiograma transtorácico: imagem sugestiva de vegetação de 1,2 cm na valva mitral
+anterior.
+Considerando o caso acima, qual das condutas abaixo é a mais apropriada neste momento da
+investigação diagnóstica?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 9 de 68
+
+Alternativas:
+(alternativa A)
+Iniciar antibioticoterapia empírica imediatamente, pois a presença de vegetação é suficiente para
+confirmar endocardite infecciosa e guiar seu tratamento.
+(alternativa B)
+Aguardar o resultado das hemoculturas antes de iniciar qualquer tratamento, pois o diagnóstico
+depende da comprovação microbiológica.
+(alternativa C) (CORRETA)
+Iniciar antibioticoterapia empírica após coleta das hemoculturas e encaminhar para
+ecocardiograma transesofágico para maior acurácia diagnóstica.
+(alternativa D)
+Solicitar biópsia da lesão digital para confirmar diagnóstico diferencial com lúpus eritematoso
+sistêmico antes de tratar.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 10 de 68
+
+Resposta comentada:
+Comentários das alternativas:
+Iniciar antibioticoterapia empírica imediatamente, pois a presença de vegetação é suficiente para
+confirmar endocardite infecciosa.
+Incorreta. Apesar de a presença de vegetação no ecocardiograma ser um critério maior nos
+critérios de Duke modificados, não se deve iniciar antibióticos antes da coleta adequada de
+hemoculturas, pois isso reduz significativamente a chance de isolar o agente etiológico. A imagem
+sugestiva de vegetação não basta por si só para fechar o diagnóstico sem o componente
+microbiológico.
+Aguardar o resultado das hemoculturas antes de iniciar qualquer tratamento, pois o diagnóstico
+depende da comprovação microbiológica.
+Incorreta. Embora a identificação microbiológica seja crucial, não é necessário aguardar o
+resultado das culturas para iniciar tratamento, sobretudo em casos com alto grau de suspeição
+clínica e com exames sugestivos. Após coleta adequada das hemoculturas, o início de
+antibioticoterapia empírica é indicado.
+Iniciar antibioticoterapia empírica após coleta das hemoculturas e encaminhar para
+ecocardiograma transesofágico para maior acurácia diagnóstica.
+Correta. A conduta mais adequada é coletar hemoculturas antes de qualquer antibiótico e iniciar
+tratamento empírico com base na suspeita clínica e achados de imagem. A solicitação de
+ecocardiograma transesofágico é recomendada para aumentar a sensibilidade diagnóstica,
+especialmente em pacientes com vegetações pequenas, válvulas nativas ou próteses.
+Solicitar biópsia da lesão digital para confirmar diagnóstico diferencial com lúpus eritematoso
+sistêmico antes de tratar.
+Incorreta. A lesão digital dolorosa descrita (possivelmente nódulo de Osler) é uma manifestação
+clássica de endocardite infecciosa subaguda. Não é prioritário investigar lúpus nesse contexto,
+especialmente diante de sinais clínicos e laboratoriais compatíveis com endocardite. A biópsia da
+lesão digital é de baixo rendimento e desnecessária neste momento.
+Referência:
+MANDSELL, Douglas L.; BENNETT, John E.; DOLIN, Raphael. Mandell, Douglas e Bennett:
+Princípios e Prática das Doenças Infecciosas. 9. ed. Rio de Janeiro: Elsevier, 2020. Capítulo
+sobre Endocardite Infecciosa.
+
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 11 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cardiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Competências (Objetivos)]
+Interpretação de exames
+[Habilidades]
+Analisar exames laboratoriais e de imagem, contribuindo para a
+investigação diagnóstica de pericardites, miocardites e
+endocardites.
+[Tema]
+Doenças do Pericárdio, Miocardites e ENDOCARDITES
+6ª QUESTÃO
+
+Código da questão:
+
+141428
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(IESVAP) Um paciente com história de hepatopatia apresentou aumento abdominal progressivo,
+fadiga e edema de membros inferiores. Ao exame, encontra-se abdome globoso, sinal de Piparote
+positivo e a realização de paracentese revelou líquido com aspecto transparente, com graduação
+de proteína de 1,5 g/dL e células mononucleares, com citometria de células de 250 células/mm³.
+Considerando o diagnóstico de ascite em cirrose, qual das seguintes afirmativas é a mais
+adequada?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 12 de 68
+
+Alternativas:
+(alternativa A)
+A presença de mais de 500 células/mm³ neste líquido indica PBE, que deve ser tratado
+imediatamente com antibióticos, independentemente de cultura.
+(alternativa B) (CORRETA)
+Na ascite relacionada à cirrose, células neutrofílicas predominaram em PBE, e a cultura deve ser
+realizada para confirmação diagnóstica.
+(alternativa C)
+A presença de níveis de proteína abaixo de 2,5 g/dL indica ascite hipertensiva, e o diagnóstico de
+PBE deve ser descartado.
+(alternativa D)
+A classificação do líquido ascítico como transudato é baseada no gradiente de albumina soroascite (GASA), que deve ser inferior a 1,1 g/dL para ascite por hipertensão portal.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 13 de 68
+
+Resposta comentada:
+Na ascite de cirrose, o líquido geralmente apresenta predomínio de células mononucleares, mas
+na PBE, há aumento de neutrófilos (>250 células/mm³). O diagnóstico de PBE é feito por
+citometria com contagem de leucócitos e cultura. A resposta reflete corretamente que na ascite
+relacionada à cirrose, células neutrofílicas predominaram em PBE, e a cultura deve ser realizada
+para confirmação diagnóstica.
+Análise das alternativas incorretas:
+A presença de níveis de proteína abaixo de 2,5 g/dL indica ascite hipertensiva, e o diagnóstico de
+PBE deve ser descartado.
+Errada. Embora a ascite por hipertensão portal tenha tipicamente proteína <2,5 g/dL, isso não
+exclui a possibilidade de PBE. PBE pode ocorrer mesmo com baixa proteína e deve ser
+considerada quando há sintomas ou contagem de neutrófilos ≥250/mm³.
+A classificação do líquido ascítico como transudato é baseada no gradiente de albumina soroascite (GASA), que deve ser inferior a 1,1 g/dL para ascite por hipertensão portal.
+Errada. A gradiente de albumina soro-ascite (GASA) é considerado positivo (indicativo de
+hipertensão portal) quando é maior ou igual a 1,1 g/dL, e não menor. Portanto, essa afirmativa
+está invertida.
+A presença de mais de 500 células/mm³ neste líquido indica PBE, que deve ser tratado
+imediatamente com antibióticos, independentemente de cultura.
+Parcialmente incorreta. O critério para PBE é ≥250 neutrófilos/mm³, não 500 células totais. Além
+disso, a conduta correta é iniciar antibiótico se houver ≥250 neutrófilos/mm³, independentemente
+da cultura, mas isso deve ser baseado na contagem de polimorfonucleares, não de células totais
+ou mononucleares.
+Referências:
+European Association for the Study of the Liver (EASL).
+"EASL Clinical Practice Guidelines on the management of ascites, spontaneous bacterial
+peritonitis, and hepatorenal syndrome in cirrhosis." Journal of Hepatology (2010); 53(3): 397-417.
+Este documento fornece critérios diagnósticos detalhados para ascite, PBE e outras
+complicações da cirrose.
+MacSween RNM, Crawford JM, Burt AD.
+Pathology of the Liver. 6ª edição. Ed. Churchill Livingstone, 2018.
+Aborda aspectos patológicos, critérios laboratoriais e diagnósticos de ascite e infecções
+peritoneais associadas.
+Runyon BA.
+"Management of Adult Patients with Cirrhosis and Ascites." Hepatology 2004; 39(3): 841-856.
+Disponível na literatura médica sobre diagnóstico e manejo de ascite na cirrose.
+Instituto Nacional de Saúde e Cuidados de Saúde (NICE).
+"Chronic liver disease: ascites and spontaneous bacterial peritonitis," Clinical guideline, 2016.
+Diretrizes para diagnóstico e conduta clínica.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 14 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Gastroenterologia
+[Competências (Objetivos)]
+Prescrição médica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+IESVAP
+[Habilidades]
+Aplicar critérios diagnósticos de ascite e PBE, utilizando
+paracentese e interpretação do líquor ascítico.
+[Tema]
+Cirrose e complicações (PBE, Ascite, Encefalopatia hepática,
+Síndrome hepatorrenal)
+7ª QUESTÃO
+
+Código da questão:
+
+141975
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Cruzeiro do Sul) Você está atendendo em uma unidade de saúde de área endêmica para
+arboviroses no Brasil. Em uma mesma semana, chegam quatro pacientes com síndrome febril
+aguda, todos com sinais inespecíficos (febre, mialgia, cefaleia, exantema). Considerando os
+quadros clínicos abaixo, assinale a alternativa correta em relação à complicação mais provável e
+à população mais vulnerável a cada arbovirose.
+Alternativas:
+(alternativa A)
+Uma gestante no primeiro trimestre com exantema e conjuntivite está em maior risco de
+desenvolver encefalite hemorrágica associada ao vírus Zika.
+(alternativa B)
+Um jovem com histórico vacinal incompleto, febre alta, vômitos e icterícia leve tem maior risco de
+Guillain-Barré se o agente for o vírus da febre amarela.
+(alternativa C) (CORRETA)
+Um paciente com febre alta, dor retro-orbital e plaquetopenia progressiva pode evoluir com
+sangramentos e choque, sendo uma complicação da dengue grave.
+(alternativa D)
+Um paciente idoso com dor intensa nas articulações e edema de mãos e pés tem maior risco de
+desenvolver hepatite fulminante se o agente for o vírus Chikungunya.
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 15 de 68
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+A alternativa correta mostra que a dengue pode evoluir para formas graves, com
+comprometimento vascular, extravasamento plasmático, sangramentos importantes,
+plaquetopenia intensa e até choque hipovolêmico. Esses riscos aumentam em pacientes com
+infecções secundárias por diferentes sorotipos ou com comorbidades.
+As demais alternativas estão incorretas, porque:
+a artralgia intensa e prolongada é típica do Chikungunya, principalmente em idosos,
+mas complicações hepáticas graves são mais associadas à febre amarela.
+a infecção por Zika em gestantes está associada a malformações fetais, especialmente
+microcefalia, e não encefalite hemorrágica.
+a febre amarela pode cursar com comprometimento hepático grave, icterícia e até
+insuficiência hepatorrenal, mas a síndrome de Guillain-Barré é mais associada ao Zika
+vírus.
+Referência:
+GOLDMAN, Lee; SCHAFFER, Andrew I. Cecil: medicina interna. 27. ed. Rio de Janeiro: Elsevier,
+2023. 2 v.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Infectologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA CRUZEIRO DO SUL
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Identificar riscos de complicações neurológicas, hemorrágicas e
+hepáticas, monitorando populações vulneráveis frente às
+arboviroses.
+[Tema]
+Dengue, Zika, Chikungunya e FEBRE AMARELA
+8ª QUESTÃO
+
+Código da questão:
+
+141715
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 16 de 68
+
+Enunciado:
+(UNIDEP) Um paciente de 34 anos, sexo masculino, comparece ao ambulatório de reumatologia
+devido a lesões cutâneas há cinco meses. Relata placas eritematosas bem delimitadas,
+recobertas por escamas prateadas, localizadas no couro cabeludo, cotovelos e joelhos. Refere
+prurido moderado e histórico depressivo associado. Na anamnese, menciona tabagismo há mais
+de 10 anos e história familiar de psoríase em um irmão. No exame, as lesões são compatíveis
+com o quadro descrito, além de onicólise e pitting ungueal em alguns dedos. Com base no
+diagnóstico de psoríase vulgar, recomenda-se avaliar potenciais complicações sistêmicas
+associadas à doença. Qual das seguintes condições precisa ser regularmente monitorada neste
+paciente, devido à sua associação frequente com a psoríase, excetuando a artrite psoriásica?
+Alternativas:
+(alternativa A)
+Glomerulonefrite rapidamente progressiva.
+(alternativa B) (CORRETA)
+Doença de Crohn.
+(alternativa C)
+Endocardite bacteriana.
+(alternativa D)
+Miastenia gravis.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 17 de 68
+
+Resposta comentada:
+Correta:
+- Doença de Crohn
+A psoríase está associada a várias doenças inflamatórias sistêmicas, incluindo doenças
+inflamatórias intestinais (DII), como a doença de Crohn e a retocolite ulcerativa. Ambas
+compartilham mecanismos imunológicos semelhantes (envolvendo a via Th17/IL-23), o que
+justifica sua coexistência. Pacientes com psoríase têm risco aumentado de desenvolver DII, e o
+rastreamento de sintomas gastrointestinais é indicado em casos sugestivos.
+Incorretas:
+- Glomerulonefrite rapidamente progressiva
+Embora algumas formas graves de psoríase pustulosa possam causar proteinúria discreta,
+glomerulonefrite rapidamente progressiva (GNRP) não é uma complicação clássica da psoríase
+vulgar. GNRP geralmente está associada a doenças autoimunes específicas, como vasculites
+ANCA-positivas ou lúpus eritematoso sistêmico.
+- Miastenia gravis
+A miastenia gravis é uma doença autoimune da junção neuromuscular, não estando associada à
+psoríase. Seus mecanismos autoimunes são distintos, sem sobreposição imunopatológica
+significativa. Portanto, não há indicação de rastreio de miastenia em pacientes com psoríase.
+- Endocardite bacteriana
+Endocardite bacteriana não está relacionada diretamente à psoríase. Embora pacientes
+imunossuprimidos possam ter maior risco infeccioso em alguns contextos, a psoríase por si só
+não aumenta o risco de endocardite. Logo, essa condição não faz parte do conjunto de
+comorbidades sistemicamente associadas à doença.
+Referências:
+GREB, JE, Goldminz AM, Elder JT, et al. Psoriasis. Nature Reviews Disease Primers.
+2016;2:16082. https://doi.org/10.1038/nrdp.2016.82
+PARISI, R, Symmons DP, Griffiths CE, Ashcroft DM. Global epidemiology of psoriasis: a
+systematic review of incidence and prevalence. Journal of Investigative Dermatology.
+2013;133(2):377–385.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 18 de 68
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Subáreas de Conhecimento]
+Reumatologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDEP
+[Habilidades]
+Analisar os mecanismos imunológicos e inflamatórios, orientando
+a conduta nas doenças eritematodescamativas.
+[Tema]
+Doenças Eritematodescamativas (PSORÍASE, DERMATITE
+ATÓPICA)
+9ª QUESTÃO
+
+Código da questão:
+
+141523
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIFIPMOC) Paciente, masculino, 55 anos, encaminhado ao ambulatório para avaliação sem
+queixas. Portador de hipertensão arterial sistêmica e tabagista. Uso diário de losartana 50 mg 2 x
+dia. Apresenta glicemia de jejum 131 mg/dL e outra realizada há 15 dias, 128 mg/dL. Demais
+exames: colesterol total = 264 mg/dL, LDL = 181 mg/dL, HDL = 35 mg/dL, triglicérides = 140
+mg/dL.
+A conduta é
+Alternativas:
+(alternativa A)
+solicitar hemoglobina glicada, dieta, atividade física.
+(alternativa B) (CORRETA)
+iniciar atorvastatina, metformina, atividade física e dieta.
+(alternativa C)
+iniciar metformina, orientar atividade física e dieta.
+(alternativa D)
+solicitar glicemia 2h após 75 g de dextrosol e iniciar sinvastatina.
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 19 de 68
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Paciente portador de Diabetes Mellitus com mais de 49 anos, tabagista e portador de hipertensão
+arterial sistêmica, pela estratificação de risco cardiovascular é considerado portador de alto risco
+cardiovascular, portanto indicada terapia com estatina de alta potência. Considerando o
+diagnóstico de Diabetes Mellitus (duas glicemias séricas = ou > 126 mg/dl), há indicação de
+terapia medicamentosa para controle glicêmico, sendo indicada a metformina, além de dieta e
+atividade física.
+Alternativas:
+Solicitar hemoglobina glicada, dieta, atividade física: nessa alternativa não há prescrição de
+estatina e não foi prescrito tratamento medicamentoso para diagnóstico de diabetes.
+Solicitar glicemia 2h após 75 g de dextrosol e iniciar sinvastatina: não há indicação de teste oral de
+tolerância à glicose visto que o diagnóstico já foi realizado com os resultados de glicemias de
+jejum informados, além de prescrito estatina de baixa potência isolada.
+Iniciar metformina, orientar atividade física e dieta: não foi prescrita estatina de alta potência.
+Orientar atividade física e dieta, iniciar atorvastatina: não foi prescrito tratamento medicamentoso
+para diagnóstico de diabetes.
+Iniciar atorvastatina, metformina, atividade física e dieta: correta.
+Referência:
+VILAR, Lúcio. Endocrinologia clínica. Guanabara Koogan, 7ª ed. 2021. 1871p.
+Feedback:
+-Filtros da questão:
+
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIFIPMOC
+[Habilidades]
+Identificar os critérios diagnósticos da síndrome metabólica e das
+principais dislipidemias, seguindo as diretrizes clínicas vigentes.
+Analisar exames laboratoriais como perfil lipídico, glicemia, HbA1c
+e circunferência abdominal, avaliando distúrbios metabólicos e
+risco cardiovascular.
+10ª QUESTÃO
+
+Código da questão:
+
+141269
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 20 de 68
+
+Enunciado:
+(UNINOVAFAPI) Paciente masculino, 64 anos, com história de hipertensão e diabetes tipo 2,
+procura atendimento por edema em membros inferiores, fadiga e redução do volume urinário nos
+últimos 3 dias. Ao exame físico, apresenta PA de 170/95 mmHg e anasarca. Exames
+laboratoriais demonstram:
+Creatinina: 3,2 mg/dL (valor prévio 1,0 mg/dL, há 1 mês).
+Ureia: 120 mg/dL.
+EAS: proteinúria +++, hematúria +, cilindros granulosos.
+Urina de 24h: 5,5 g de proteína.
+Ecografia renal: rins de tamanho preservado, sem hidronefrose.
+Com base nos dados clínicos e laboratoriais, qual é o diagnóstico mais provável?
+Alternativas:
+(alternativa A)
+Injúria renal aguda pré-renal secundária à desidratação.
+(alternativa B)
+Nefropatia obstrutiva com hidronefrose bilateral.
+(alternativa C) (CORRETA)
+Injúria renal aguda com padrão nefrótico, possivelmente por glomerulopatia.
+
+(alternativa D)
+Doença renal crônica em estágio avançado com perda de função renal irreversível.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 21 de 68
+
+Resposta comentada:
+Injúria renal aguda com padrão nefrótico, possivelmente por glomerulopatia
+Comentário das alternativas:
+Alternativa correta: A elevação abrupta da creatinina em curto período de tempo, associada a rins
+com tamanho preservado e sedimento urinário ativo (hematúria, cilindros, proteinúria maciça),
+indica injúria renal aguda com provável causa glomerular. O achado de proteinúria superior a 3,5
+g/24h é compatível com síndrome nefrótica.
+IRA pré-renal por desidratação: Incompatível com anasarca e proteinúria maciça. IRA pré-renal
+costuma ter sedimento urinário inócuo, sem proteinúria significativa.
+Doença renal crônica em estágio avançado: A função renal era normal há um mês, o que exclui
+cronicidade. Além disso, o tamanho renal está preservado, o que reforça a hipótese aguda.
+Nefropatia obstrutiva: A ecografia mostra rins sem hidronefrose. A ausência desse achado torna
+improvável a obstrução.
+Referências:
+MARTINS, Mílton de Arruda et al (ed.). Clínica médica: doenças hematológicas, oncologia,
+doenças renais. 2. ed. São Paulo: Manole, 2016. v. 3, p. 130–135; 153–159. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520447734. Acesso em: 05 fev. 2024.
+LOSCALZO, Joseph et al. Medicina interna de Harrison. 21. ed. Porto Alegre: McGraw Hill, 2024.
+v. 2, p. 2489–2497. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05 fev. 2024.
+GOLDMAN, L.; SCHAFER, A. I. Goldman Cecil Medicina. 26. ed. Rio de Janeiro: Elsevier, 2022.
+v. 2, p. 1387–1395. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 05 fev. 2024.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 22 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNINOVAFAPI
+[Competências (Objetivos)]
+Interpretação de exames
+[Habilidades]
+Analisar alterações em exames de função renal e de imagem,
+identificando disfunções compatíveis com injúria renal aguda,
+doença renal crônica e glomerulopatias
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e Glomerulopatias
+11ª QUESTÃO
+
+Código da questão:
+
+141696
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Ipatinga) Vilma, 32 anos, internada para investigação diagnóstica. Tem hipertensão arterial
+recém-diagnosticada (ao redor de 160 x 100 mmHg), edema discreto de membros inferiores +/4+.
+Sem outras queixas. Seu exame de urina tipo I tinha proteinúria 3+/4+, hemácias dismórficas de
+67.000/ml, leucócitos 12.000/ml. Creatinina = 1,6 mg/dl. Seus valores séricos de C3, C4 e CH50
+eram normais. Proteinúria = 1.280 mg/24h.
+O diagnóstico mais provável é:
+Alternativas:
+(alternativa A)
+síndrome Nefrótica por vasculite pauci-imune.
+(alternativa B)
+síndrome Nefrótica por glomerulonefrite membranoproliferativa.
+(alternativa C)
+síndrome Nefrítica por glomerulonefrite pós-infecciosa.
+(alternativa D) (CORRETA)
+síndrome Nefrítica por nefropatia por IgA.
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 23 de 68
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+O enunciado nos traz uma paciente jovem e sem comorbidades prévias que interna para
+investigar um quadro de hipertensão arterial, edema e hematúria glomerular (com dismorfismo
+eritrocitário e acompanhada de proteinúria subnefrótica - < 3,5g/dia). Essa tríade define a
+síndrome nefrítica, uma manifestação clínico-laboratorial de doenças glomerulares.
+Uma informação indispensável para a resolução da questão é que não há consumo das frações
+do complemento. Dentre as 4 alternativas, a única que não há consumo de complemento é
+síndrome nefrítica por IgA , sendo assim, a resposta correta.
+Referência:
+Goldman L; Schafer AI. Goldman-Cecil Medicina - 2 vol. 25ª ed. Rio de Janeiro: Elsevier, 2018.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA IPATINGA
+[Habilidades]
+Utilizar critérios clínicos e laboratoriais, diferenciando síndrome
+nefrótica e síndrome nefrítica.
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e Glomerulopatias
+12ª QUESTÃO
+
+Código da questão:
+
+141695
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 24 de 68
+
+Enunciado:
+(UNIDEP) Paciente do sexo feminino, 24 anos, diabética tipo 1 desde os 13 anos, procurou o
+pronto-socorro com queixas de náuseas, vômitos, dor abdominal difusa, poliúria, polidipsia e
+fraqueza há dois dias. Relatou interrupção do uso de insulina há três dias por falta de acesso à
+medicação. No exame físico, apresentava-se letárgica, desidratada, PA de 90/60 mmHg, FC de
+120 bpm e glicemia capilar de 420 mg/dL. Os exames laboratoriais mostraram glicemia venosa
+de 460 mg/dL, pH arterial de 7,12, bicarbonato de 10 mEq/L, ânion gap elevado (22 mEq/L) e
+cetonemia positiva.
+Em relação ao caso clínico acima, analise as assertivas abaixo:
+I - A presença de cetonemia positiva, acidose metabólica com ânion gap elevado e hiperglicemia
+sugere o diagnóstico de cetoacidose diabética.
+II - Hiperventilação com padrão de Kussmaul é uma característica clínica marcante tanto na
+cetoacidose diabética quanto no estado hiperglicêmico hiperosmolar, sendo comum em ambos os
+quadros.
+III - Diferente da cetoacidose diabética, o estado hiperglicêmico hiperosmolar geralmente ocorre
+em pacientes com diabetes tipo 2, apresenta hiperglicemias mais acentuadas, maior
+osmolaridade plasmática e ausência significativa de cetonemia e acidose metabólica.
+IV - A principal prioridade no tratamento da cetoacidose diabética é a administração imediata de
+insulina em altas doses, antes da correção da hipovolemia.
+Assinale a alternativa que apresenta somente as assertivas corretas:
+Alternativas:
+(alternativa A)
+II e III.
+(alternativa B)
+I, III e IV.
+(alternativa C) (CORRETA)
+I e III.
+(alternativa D)
+I e II.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 25 de 68
+
+Resposta comentada:
+No caso clínico apresentado, a assertiva I está correta, pois a presença de cetonemia positiva,
+acidose metabólica com ânion gap elevado e hiperglicemia são características clássicas que
+indicam o diagnóstico de cetoacidose diabética, conforme descrito em Endocrinologia
+Clínica (Vilar). Esses achados refletem a descompensação do diabetes tipo 1, levando à
+produção excessiva de corpos cetônicos e acidose metabólica.
+Já a assertiva II é falsa. A respiração de Kussmaul, caracterizada por uma hiperventilação
+profunda e rápida, é uma resposta fisiológica à acidose metabólica severa típica da cetoacidose
+diabética, mas não é comum no estado hiperglicêmico hiperosmolar. Este último geralmente não
+cursa com acidose significativa, portanto, a hiperventilação típica da CAD não ocorre no estado
+hiperglicêmico hiperosmolar.
+A assertiva III está correta, pois o estado hiperglicêmico hiperosmolar geralmente acomete
+pacientes com diabetes tipo 2, com hiperglicemias mais elevadas e osmolaridade plasmática
+aumentada, mas sem acidose metabólica significativa ou cetonemia relevante. Esta diferenciação
+clínica e laboratorial é importante para o diagnóstico diferencial entre os dois quadros, conforme
+ensinado por Vilar.
+Por fim, a assertiva IV é falsa. Embora a insulina seja fundamental no tratamento da cetoacidose
+diabética, a prioridade inicial é a correção da hipovolemia por meio da reposição volêmica
+adequada. A administração de insulina deve ser iniciada após a estabilização do estado volêmico,
+para evitar complicações como hipotensão e alterações eletrolíticas graves.
+Portanto, apenas as assertivas I e III estão corretas.
+Referências:
+MELMED, Shlomo. et al. Williams Textbook of endocrinology. 14. ed. [S.l.]: Elsevier, 2019
+VILAR, Lucio. Endocrinologia Clínica. 7 ed. Rio de Janeiro: Guanabara Koogan, 2020. E-book.
+GARDNER, D. G.; SHOBACK, D. Greenspan Basic & Clinical Endocrinology. 10. ed. [S.l.]:
+McGraw Hill/Medical., 2018
+JAMESON, J.L. et al. (Coord.) Medicina interna de Harrison- 2 volumes. 20ª ed. Porto Alegre:
+Grupo A, 2019.
+BANDEIRA, Francisco. Protocolos Clínicos em Endocrinologia e Diabetes. 3 ed. Rio de Janeiro:
+Guanabara Koogan, 2021.
+GOOLDMAN, Lee; AUSIELO, Dennis. Cecil medicina. Rio de Janeiro: Elsevier, 2009.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 26 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIDEP
+[Habilidades]
+Identificar as manifestações clínicas das complicações agudas do
+diabetes, diferenciando cetoacidose diabética e estado
+hiperosmolar hiperglicêmico.
+[Tema]
+Diabetes mellitus - Classificação, diagnóstico, tratamento e
+complicações
+13ª QUESTÃO
+
+Código da questão:
+
+141878
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FACIMPA) Mulher de 26 anos, previamente hígida, com dor torácica pleurítica e febre há 2 dias.
+ECG mostra supra de ST difuso. Exame físico revela atrito pericárdico. Qual é a conduta
+terapêutica inicial mais apropriada?
+Alternativas:
+(alternativa A) (CORRETA)
+Anti-inflamatório não esteroidal (AINE) e repouso.
+(alternativa B)
+Anticoagulação com varfarina.
+(alternativa C)
+Antibiótico endovenoso de amplo espectro.
+(alternativa D)
+Corticoide sistêmico precoce.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 27 de 68
+
+Resposta comentada:
+Antibiótico endovenoso de amplo espectro. Incorreta. Antibióticos só são indicados em
+pericardites bacterianas, que são raras.
+Anticoagulação com varfarina. Incorreta. Anticoagulação é contraindicada, pois pode aumentar o
+risco de tamponamento.
+Anti-inflamatório não esteroidal (AINE) e repouso. Correta. O tratamento da pericardite viral ou
+idiopática consiste em AINEs e repouso.
+Corticoide sistêmico precoce. Incorreta. Corticoide é reservado para casos refratários ou
+autoimunes.
+Referências:
+Adler Y, Charron P, Imazio M, et al. 2015 ESC Guidelines for the Diagnosis and Management of
+Pericardial Diseases. European Heart Journal. 2015;36(42):2921–2964.
+UpToDate. Acute pericarditis: Clinical presentation and diagnostic evaluation. Atualizado em 2024.
+Zayas R, et al. Diagnosis and management of pericarditis. Am Fam Physician. 2002;66(12):20912098.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Cardiologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+FACIMPA
+[Competências (Objetivos)]
+Rastreamento
+[Habilidades]
+Analisar condutas terapêuticas nas formas agudas e crônicas das
+doenças, considerando o uso de antimicrobianos, anti-inflamatórios
+e suporte hemodinâmico.
+[Tema]
+Doenças do Pericárdio, Miocardites e ENDOCARDITES
+14ª QUESTÃO
+
+Código da questão:
+
+141872
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 28 de 68
+
+Enunciado:
+(FACIMPA) Paciente masculino, 65 anos, tabagista há 40 anos, apresenta tosse crônica,
+expectoração matinal e dispneia aos esforços há 2 anos. Faz uso intermitente de salbutamol, com
+pouca resposta. Exame físico revela roncos difusos e hiperinsuflação torácica. Qual é a principal
+característica fisiopatológica que diferencia a DPOC da asma, influenciando diretamente na
+escolha do tratamento?
+Alternativas:
+(alternativa A)
+A DPOC é caracterizada por hiperresponsividade brônquica intermitente, enquanto a asma
+apresenta obstrução crônica progressiva.
+(alternativa B)
+A limitação ao fluxo aéreo na DPOC é completamente reversível, o que torna os
+broncodilatadores de resgate suficientes na maioria dos casos.
+(alternativa C)
+A asma tem início tardio em pacientes tabagistas, enquanto a DPOC surge geralmente na
+infância e é desencadeada por alérgenos.
+(alternativa D) (CORRETA)
+A asma é uma doença inflamatória predominantemente eosinofílica e reversível, ao passo que a
+DPOC envolve inflamação neutrofílica com limitação irreversível ao fluxo aéreo.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 29 de 68
+
+Resposta comentada:
+A limitação ao fluxo aéreo na DPOC é completamente reversível, o que torna os
+broncodilatadores de resgate suficientes na maioria dos casos. Incorreta. A limitação ao fluxo
+aéreo na DPOC é parcialmente irreversível. Broncodilatadores de resgate (como salbutamol)
+isoladamente não são suficientes no manejo da DPOC, especialmente em casos moderados a
+graves, que requerem tratamento de manutenção com broncodilatadores de longa ação e, às
+vezes, corticoides.
+A asma é uma doença inflamatória predominantemente eosinofílica e reversível, ao passo que a
+DPOC envolve inflamação neutrofílica com limitação irreversível ao fluxo aéreo. Correta. A asma
+tem como principal característica fisiopatológica a inflamação eosinofílica e reversível, enquanto a
+DPOC é marcada por inflamação neutrofílica, destruição do parênquima pulmonar (enfisema) e
+remodelamento brônquico, levando à limitação irreversível ao fluxo aéreo. Essas diferenças
+impactam diretamente na resposta aos medicamentos e na estratégia terapêutica individualizada.
+A DPOC é caracterizada por hiperresponsividade brônquica intermitente, enquanto a asma
+apresenta obstrução crônica progressiva. Incorreta. É o contrário: a asma apresenta
+hiperresponsividade brônquica e obstrução intermitente, enquanto a DPOC evolui com obstrução
+crônica progressiva.
+A asma tem início tardio em pacientes tabagistas, enquanto a DPOC surge geralmente na
+infância e é desencadeada por alérgenos. Incorreta. A asma frequentemente inicia na infância e
+está associada à atopia. A DPOC costuma ocorrer em adultos com histórico de tabagismo ou
+exposição a biomassa, geralmente com início tardio.
+Referências:
+GOLD (Global Initiative for Chronic Obstructive Lung Disease). Global Strategy for the Diagnosis,
+Management, and Prevention of Chronic Obstructive Pulmonary Disease – 2024 Report.
+Disponível em: https://goldcopd.org. Acesso em: 19 ago. 2025.
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas – Doença Pulmonar
+Obstrutiva Crônica (DPOC). Brasília: 2021.
+GINA (Global Initiative for Asthma). Global Strategy for Asthma Management and Prevention –
+2024 Update. Disponível em: https://ginasthma.org. Acesso em: 19 ago. 2025.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 30 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Pneumologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+FACIMPA
+[Competências (Objetivos)]
+Educação em saúde
+[Habilidades]
+Analisar as diferenças fisiopatológicas e de resposta ao tratamento
+entre asma e DPOC, promovendo a individualização do cuidado.
+[Tema]
+Asma e DPOC (Exame físico e exames complementares,
+incluindo espirometria, Tratamento da DPOC pelo ABE do GOLD,
+tratamento da exacerbação)
+15ª QUESTÃO
+
+Código da questão:
+
+142584
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Paciente de 25 anos, previamente hígido, é encaminhado ao nefrologista por
+síndrome nefrótica com início há três semanas. Apresenta edema de membros inferiores,
+proteinúria de 7,2 g/24h, albumina sérica de 2,1 g/dL, função renal preservada e sorologias
+negativas para hepatites e HIV. A biópsia renal revela glomérulos com estrutura preservada na
+microscopia óptica, ausência de depósitos imunocomplexos na imunofluorescência e fusão dos
+processos podocitários na microscopia eletrônica.
+Com base nesses achados, o diagnóstico histopatológico mais provável é:
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 31 de 68
+
+Alternativas:
+(alternativa A)
+Nefropatia membranosa, que cursa com espessamento da membrana basal glomerular e
+depósitos subepiteliais.
+(alternativa B)
+Nefropatia por IgA, cuja principal característica é a deposição mesangial de IgA na
+imunofluorescência.
+(alternativa C)
+Glomeruloesclerose segmentar e focal, caracterizada por esclerose parcial de alguns glomérulos.
+(alternativa D) (CORRETA)
+Doença de lesões mínimas, compatível com biópsia sem alterações na óptica e fusão podocitária
+na microscopia eletrônica.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O quadro clínico de síndrome nefrótica em paciente jovem, sem perda da função renal, com
+biópsia mostrando glomérulos normais à microscopia óptica, ausência de depósitos na
+imunofluorescência e fusão de processos podocitários à microscopia eletrônica, é típico da
+doença de lesões mínimas. Essa condição é a principal causa de síndrome nefrótica em crianças
+e pode ocorrer em adultos jovens.
+As demais alternativas são incompatíveis com os achados: a nefropatia membranosa cursa com
+espessamento visível à microscopia óptica e depósitos subepiteliais; a glomeruloesclerose
+segmentar e focal exibe esclerose glomerular em segmentos; a nefropatia por IgA tem depósitos
+mesangiais de IgA; e a glomerulonefrite membranoproliferativa mostra duplicação da membrana
+basal.
+Referência:
+SILVA, S. F. Nefrologia Clínica. 5. ed. São Paulo: Manole, 2022. BARRETT, K. E. et al.
+Fisiopatologia Médica de Ganong. 25. ed. Porto Alegre: AMGH, 2023.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 32 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+[Habilidades]
+Reconhecer os sinais e sintomas clínicos da infecção do trato
+urinário (ITU) e da nefrolitíase, diferenciando apresentações
+simples e complicadas.
+[Tema]
+Infecção de Trato Urinário, Nefrolitíase
+16ª QUESTÃO
+
+Código da questão:
+
+141813
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNISL Porto Velho) Paciente masculino, 58 anos, internado por sepse abdominal, evolui com
+oligúria (<200 mL/24h), creatinina sérica de 5,6 mg/dL (basal: 1,0), ureia 180 mg/dL, hipercalemia
+(K⁺ 6,2 mEq/L) refratária ao tratamento clínico e acidose metabólica com pH 7,12. Apresenta
+sinais de sobrecarga volêmica, com dispneia progressiva e estertores bibasais. Diante do
+exposto, avalie a alternativa mais adequada para o tratamento do paciente acima.
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar terapia renal substitutiva imediatamente, devido à hipercalemia, acidose e sobrecarga
+volêmica refratárias.
+(alternativa B)
+Iniciar diurético de alça em altas doses para tentar reverter a oligúria antes de indicar terapia renal
+substitutiva.
+(alternativa C)
+Observar evolução clínica, pois a ausência de manifestações neurológicas graves permite
+aguardar antes de diálise.
+(alternativa D)
+Indicar hemodiálise apenas se a creatinina atingir 10 mg/dL, pois esse é o limiar absoluto para
+iniciar terapia.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 33 de 68
+
+Resposta comentada:
+O paciente apresenta três indicações absolutas para início de Terapia Renal Substitutiva (TRS):
+Hipercalemia refratária ao tratamento clínico.
+Acidose metabólica grave (pH <7,2).
+Sobrecarga volêmica com sinais clínicos de congestão pulmonar.
+Esses critérios configuram um quadro emergencial, no qual o início imediato da TRS é indicado,
+independentemente dos níveis absolutos de ureia e creatinina.
+Justificativas das Alternativas Incorretas:
+Incorreta: O uso de diuréticos de alça não é recomendado como medida de reversão da IRA em
+pacientes com indicações absolutas de TRS. Além disso, o paciente já está oligúrico e com sinais
+de sobrecarga.
+Incorreta: A presença de sintomas neurológicos não é obrigatória para indicar TRS. A existência
+de hipercalemia refratária, acidose severa e congestão pulmonar já configuram indicações
+clássicas.
+Incorreta: O tratamento não deve ser postergado para esperar novos exames laboratoriais
+quando já há sinais clínicos e laboratoriais claros de descompensação, com risco iminente à vida.
+Referências:
+KDIGO. Clinical Practice Guideline for Acute Kidney Injury. Kidney Int Suppl. 2012.
+Sociedade Brasileira de Nefrologia (SBN). Protocolo de Terapia Renal Substitutiva na Injúria Renal
+Aguda – SBN, 2021.
+UpToDate. Indications and timing for initiation of renal replacement therapy in acute kidney injury.
+Acesso em 2025.
+HARRISON, P. Harrison’s Principles of Internal Medicine. 21ª ed., 2022.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 34 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNISL PORTO VELHO
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Avaliar indicações para início de terapia renal substitutiva,
+conduzindo adequadamente casos de injúria renal aguda.
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e Glomerulopatias
+17ª QUESTÃO
+
+Código da questão:
+
+141648
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNITPAC) Paciente do sexo feminino, 27 anos, previamente saudável, procura atendimento em
+Unidade Básica de Saúde com quadro de febre alta há 2 dias, cefaleia intensa, mialgia difusa,
+náuseas e dor retroorbital. Refere que nas últimas 12 horas notou diminuição da diurese,
+sensação de desmaio ao levantar-se e que está com sede constante. Ao exame físico: PA 90x60
+mmHg, FC 108 bpm, tempo de enchimento capilar 3 segundos, presença de petéquias em
+membros inferiores e dor à compressão do abdome. A paciente encontra-se alerta, mas
+prostrada.
+Com base nesse quadro, qual é o estadiamento clínico e a conduta terapêutica mais adequada?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 35 de 68
+
+Alternativas:
+(alternativa A)
+Grupo B. Administrar corticosteroide e liberar para casa, pois os sintomas indicam provável
+chikungunya com mialgia intensa.
+(alternativa B) (CORRETA)
+Grupo C. Iniciar hidratação venosa e encaminhar para internação hospitalar devido a sinais de
+alarme e risco de evolução para formas graves.
+(alternativa C)
+Grupo B. Observar por 6 horas na unidade e, se houver melhora clínica com hidratação oral,
+liberar com orientação de retorno.
+(alternativa D)
+Grupo A. Encaminhar para acompanhamento ambulatorial com hidratação oral rigorosa e
+antitérmico, pois ainda está na fase febril da arbovirose.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Resposta correta: Iniciar hidratação venosa e encaminhar para internação hospitalar devido a
+sinais de alarme (grupo C) e risco de evolução para formas graves.
+A paciente apresenta sinais de alarme para dengue grave, como hipotensão postural e
+prostração. Estes achados indicam perda de plasma significativa, justificando hidratação venosa
+imediata e internação hospitalar para monitoramento contínuo.
+Referência:
+Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde e Ambiente. Departamento de
+Doenças Transmissíveis. Dengue: diagnóstico e manejo clínico: adulto e criança [recurso
+eletrônico] / Ministério da Saúde, Secretaria de Vigilância em Saúde e Ambiente, Departamento de
+Doenças Transmissíveis. – 6. ed. – Brasília: Ministério da Saúde, 2024.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 36 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Infectologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNITPAC
+[Competências (Objetivos)]
+Rastreamento
+[Habilidades]
+Analisar condutas terapêuticas para manejo ambulatorial e
+hospitalar de pacientes com arboviroses, justificando hidratação e
+internação.
+[Tema]
+Dengue, Zika, Chikungunya e FEBRE AMARELA
+18ª QUESTÃO
+
+Código da questão:
+
+141885
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Santa Inês) Uma mulher de 25 anos, previamente hígida, nega comorbidades e
+medicações de uso contínuo, procura a Unidade Básica de Saúde com queixa de disúria,
+polaciúria e urgência urinária há 2 dias. Nega gestação atual. Nega febre, dor lombar, prurido ou
+corrimento vaginal. Ao exame físico, está afebril, com sinais vitais normais, Giordano negativo. O
+exame ginecológico não evidenciou alterações.
+Diante do quadro clínico, qual é a conduta mais adequada?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 37 de 68
+
+Alternativas:
+(alternativa A)
+Solicitar sumário de urina e urocultura com antibiograma. Aguardar resultados e iniciar antibiótico
+se resultados confirmarem infecção do trato urinário.
+(alternativa B)
+A paciente será encaminhada ao urologista para investigação de infecção do trato urinário
+complicada.
+(alternativa C) (CORRETA)
+Iniciar antibiótico empírico para cistite não complicada, sem necessidade de exames laboratoriais
+neste momento.
+(alternativa D)
+Será repassada penas orientações de medidas comportamentais. Sem nenhuma outra conduta
+necessária.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Alternativa: Iniciar antibiótico empírico para cistite não complicada, sem necessidade de exames
+laboratoriais neste momento.
+Comentário:
+Correta. A paciente apresenta quadro clínico típico de cistite não complicada, sendo jovem,
+imunocompetente, não gestante e sem sinais sistêmicos. Nestes casos, o diagnóstico pode ser
+clínico e o tratamento pode ser iniciado empiricamente, sem necessidade imediata de exames
+laboratoriais, conforme orientações de protocolos nacionais (Ministério da Saúde) e internacionais
+(IDSA, CDC, NICE).
+Antibióticos de primeira linha incluem nitrofurantoína, fosfomicina ou trimetoprim-sulfametoxazol,
+dependendo da prevalência local de resistência.
+Exames laboratoriais são reservados para casos de falha terapêutica, recorrência ou suspeita de
+pielonefrite.
+Alternativa: Solicitar sumário de urina e urocultura com antibiograma. Aguardar resultados e iniciar
+antibiótico se resultados confirmarem infecção do trato urinário.
+Comentário:
+Incorreta. Embora exames laboratoriais sejam importantes em certos cenários, esta conduta não
+é indicada como rotina em casos típicos de cistite não complicada. A espera dos resultados para
+iniciar o tratamento pode prolongar os sintomas desnecessariamente, prejudicando a paciente. A
+urocultura é recomendada apenas em situações como: Falha terapêutica; Recorrência frequente;
+Casos atípicos ou complicados; Gestantes.
+Alternativa: Será repassada apenas orientações de medidas comportamentais. Sem nenhuma
+outra conduta necessária.
+Comentário:
+Incorreta. Medidas comportamentais, como aumentar a ingesta hídrica e urinar após relações
+sexuais, são úteis como prevenção de ITUs recorrentes, mas não substituem o tratamento
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 38 de 68
+
+antibiótico nos casos sintomáticos. Esta paciente apresenta sintomas típicos e deve ser tratada
+para evitar complicações ou prolongamento do quadro.
+Alternativa: A paciente será encaminhada ao urologista para investigação de infecção do trato
+urinário complicada.
+Comentário:
+Incorreta. Esta é uma paciente com ITU não complicada, sem critérios de gravidade ou fatores de
+risco para complicação (como diabetes, imunossupressão, gestação ou alterações anatômicas).
+O manejo pode e deve ser feito na Atenção Primária. Encaminhamento ao especialista só é
+indicado em casos de: ITU complicada; Pielonefrite com sinais sistêmicos; ITU de repetição;
+Anomalias urológicas suspeitas.
+Referência:
+DE ROSSI, Patricia et al. Relatório conjunto da SBI (Sociedade Brasileira de Infectologia),
+FEBRASGO (Federação Brasileira das Associações de Ginecologia e Obstetrícia), SBU
+(Sociedade Brasileira de Urologia) e SBPC/ML (Sociedade Brasileira de Patologia
+Clínica/Medicina Laboratorial): recomendações para o manejo clínico das infecções do trato
+urinário inferior em mulheres grávidas e não grávidas. Brazilian Journal of Infectious Diseases, [S.
+l.], v. 24, n. 5, p. 405–423, 2020. DOI: 10.1016/j.bjid.2020.04.002. Disponível em:
+https://www.sciencedirect.com/science/article/pii/S1413867020300283. Acesso em: 28 jul. 2025.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Compreender os mecanismos fisiopatológicos da ITU e da
+formação de cálculos renais, correlacionando com fatores
+predisponentes.
+[Tema]
+Infecção de Trato Urinário, Nefrolitíase
+19ª QUESTÃO
+
+Código da questão:
+
+141440
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 39 de 68
+
+Enunciado:
+(UNIPTAN) Homem de 72 anos comparece ao ambulatório com queixa de fraqueza e redução do
+débito urinário nos últimos dois dias. Refere uso recente de ibuprofeno para dor lombar e quadro
+gripal autolimitado há cerca de 5 dias. Nega febre, vômitos ou diarreia. Exame físico revela PA
+110 × 70 mmHg, mucosas discretamente ressecadas e sem edema. Exames laboratoriais
+mostram: creatinina 2,1 mg/dL (prévia de 1,0 mg/dL), ureia 68 mg/dL, potássio 4,6 mEq/L,
+urinálise sem hematúria ou proteinúria significativa.
+Qual das condutas abaixo é a mais adequada no momento?
+Alternativas:
+(alternativa A)
+Iniciar diurético de alça para forçar diurese e reverter rapidamente a retenção urinária.
+(alternativa B)
+Encaminhar para hemodiálise de urgência por suspeita de necrose tubular aguda.
+(alternativa C)
+Iniciar antibiótico empírico e solicitar urocultura, uma vez que a redução do débito urinário sugere
+pielonefrite.
+(alternativa D) (CORRETA)
+Suspender o anti-inflamatório, manter hidratação oral adequada, avaliar resposta clínica e repetir
+função renal em 48 horas.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A conduta frente a uma IRA leve em paciente ambulatorial, hemodinamicamente estável, sem
+hipercalemia, sem sinais de sobrecarga volêmica ou acidose é suporte clínico conservador, com
+suspensão de agentes nefrotóxicos (como AINEs), hidratação oral e reavaliação laboratorial
+precoce.
+Não há febre ou leucocitúria para sustentar hipótese de infecção urinária alta.
+Diuréticos não são indicados em pacientes hipovolêmicos ou sem sinais de sobrecarga.
+Hemodiálise é reservada a pacientes com indicações específicas (hipercalemia refratária,
+acidose grave, edema pulmonar ou uremia com repercussão clínica), o que não é o caso aqui.
+
+Referências:
+Harrison’s Principles of Internal Medicine, 21ª ed. (2022).
+Cecil Textbook of Medicine, 27ª ed. (2020).
+KDIGO Clinical Practice Guideline for Acute Kidney Injury (2021).
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 40 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIPTAN
+[Competências (Objetivos)]
+Rastreamento
+[Habilidades]
+Analisar condutas clínicas para manejo da IRA, considerando
+hidratação, suspensão de nefrotóxicos e suporte hemodinâmico.
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e Glomerulopatias
+20ª QUESTÃO
+
+Código da questão:
+
+141564
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) Paciente do sexo feminino, 40 anos, sem comorbidades conhecidas.
+Apresenta há 02 anos quadro composto por oligomenorreia e cefaleia frontal intermitente que
+melhorava com o uso de analgésicos comuns. Evoluiu nessa manhã com piora súbita da
+cefaleia, tornando-se no momento holocraniana e acompanhada de vômitos, hemianopsia
+bitemporal e confusão mental. Realiza RNM de crânio, que evidencia imagem ovalada e
+circunscrita, medindo aproximadamente 2 cm em topografia selar. Esta lesão apresenta
+densidade heterogênea, com sinal hiperintenso em T1, denotando sinais de sangramento recente.
+Há compressão do quiasma óptico e tração da haste hipofisária, sem invasão de outras
+estruturas adjacentes.
+Exames laboratoriais evidenciam: Na = 128mEq/l; K = 4,9mEq/L, Hb = 12mg/dl, uréia = 46mg/dl,
+Cr = 0,8mg/dl. Cortisol basal = 3µg/dl; prolactina = 42ng/ml (ref: < 25ng/ml); TSH = 6mUI/L (Ref:
+0,4 – 4,5 mUi/L); T4livre = 0,5 ng/dl (ref: 0,7 – 1,8ng/dl); anti TPO = 250U/ml(ref < 35Ui/ml); Anti
+Tireoglobulina = 300 Ui/ml (ref< 115Ui/ml).
+Sobre a condição apresentada acima, podemos afirmar que:
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 41 de 68
+
+Alternativas:
+(alternativa A)
+os níveis de TSH, anti-TPO e anti-TG sugerem patologia tireoidiana primária em concomitância
+(hipotireoidismo subclínico por tireoidite de Hashimoto).
+(alternativa B)
+os níveis elevados de prolactina sugerem um macroprolactinoma como condição de base.
+(alternativa C) (CORRETA)
+o quadro é sugestivo de apoplexia hipofisária, sendo recomendada a administração venosa de
+hidrocortisona.
+(alternativa D)
+a ausência de dosagem sérica de ACTH não nos permite afirmar que a paciente possua
+insuficiência adrenal.
+
+Grau de dificuldade:
+
+Fácil
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 42 de 68
+
+Resposta comentada:
+"O quadro é sugestivo de apoplexia hipofisária, sendo recomendada a administração venosa de
+hidrocortisona": (Correta)
+Justificativa: Apresentamos um quadro clínico sugestivo de macroadenoma hipofisário
+complicado com apoplexia hipofisária. Este é um distúrbio grave e potencialmente fatal, resultante
+da destruição abrupta do tecido hipofisário, devido a infarto agudo ou hemorragia da glândula. Em
+geral, está associada à presença de tumores hipofisários, sobretudo macroadenomas, ou
+decorrente de seu tratamento (p. ex., pós-radioterapia ou após o uso de medicamentos, como
+agonistas dopaminérgicos ou análogos da somatostatina). Pode acontecer espontaneamente em
+uma glândula normal, após hemorragia obstétrica (síndrome de Sheehan), em síndromes de
+hipertensão intracraniana ou como complicação de anticoagulação sistêmica. Outros fatores
+precipitantes incluem hipertensão arterial, diabetes melito, gravidez, angiografia das carótidas,
+cirurgia de bypass das coronárias, testes de estímulo com CRH ou TRH, ventilação mecânica e
+traumatismo cranioencefálico.
+"Os níveis elevados de prolactina sugerem um macroprolactinoma como condição de base"
+(Incorreta): Apesar do adenoma hipofisário secretor de prolactina ser o tumor hipofisário
+funcionante mais comum, a clínica de oligomenorréia e cefaleia não constituem os achados
+clássicos para essa situação. Não há relato de amenorreia, infertilidade, galactorreia ou descarga
+papilar intermitente. Além disso, essa condição normalmente é acompanhada de níveis de
+prolactina superiores a 100 ng/ml. Por sua vez, os níveis de prolactina elevados na questão
+sugerem um prejuízo ao tônus dopaminérgico em nível hipotalâmico gerado pelo efeito
+compressivo da lesão, o que ocasiona níveis discretamente elevados da prolactina.
+"Os níveis de TSH, anti-TPO e anti-TG sugerem patologia tireoidiana primária em concomitância
+(hipotireoidismo subclínico por tireoidite de Hashimoto)" (Incorreta): Com relação à produção de
+hormônios tireoidianos, observamos na questão, níveis de TSH inapropriadamente pouco
+elevados em detrimento a uma baixa produção de T4 livre. Essa é uma condição clássica de
+hipotireoidismo de origem hipofisária. Em contrapartida, esperaríamos encontrar um T4 livre
+normal acompanhado de TSH pouco elevado, se estivéssemos diante de um hipotireoidismo
+primário subclínico.
+"A ausência de dosagem sérica de ACTH não nos permite afirmar que a paciente possua
+insuficiência adrenal" (Incorreta): Por fim, um cortisol basal de 3µg/dl já é capaz de apontar para
+uma insuficiência adrenal, provavelmente relacionada à patologia hipofisária. Logo, a dosagem de
+ACTH seria apenas uma formalidade, na tentativa de estimar se a patologia é de origem
+hipofisária ou adrenal. Como a clínica e os achados complementares sugerem fortemente uma
+patologia hipofisária, a dosagem de ACTH não é indispensável. Essa afirmação pode ser
+corroborada pela ausência de hipocalemia no caso clínico, já que não há prejuízo na produção de
+mineralocorticoides.
+Referência:
+Tratado de Endocrinologia Clínica - Lúcio Vilar. Sétima edição, Capítulo 4, (p. 95 – 119).
+Feedback:
+*
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 43 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO BARRA
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Compreender os mecanismos fisiopatológicos dos distúrbios
+tireoidianos e hipofisários, correlacionando com a função
+endócrina.
+[Tema]
+Doenças da hipófise e da tireoide - Rastreamento de nódulos
+tireoidianos
+21ª QUESTÃO
+
+Código da questão:
+
+141477
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) Mulher de 68 anos com osteoartrite de joelho inicia o uso de diclofenaco
+diariamente para controle de dor. Após alguns dias, evoluiu com diarreia e passou a apresentar
+tontura, fraqueza e redução do volume urinário. Exame físico: PA de 95x60 mmHg, sem sinais de
+congestão. Exames laboratoriais: uréia: 100, creatinina de 2,1 mg/dL (valores prévios normais),
+sódio urinário baixo e urina concentrada. EAS com poucos cilindros hialinos.
+Qual é o diagnóstico mais provável da causa da injúria renal aguda dessa paciente?
+Alternativas:
+(alternativa A)
+Necrose tubular aguda por isquemia.
+(alternativa B)
+Injúria renal aguda pós renal.
+(alternativa C) (CORRETA)
+Injúria renal aguda pré-renal por uso de AINE.
+(alternativa D)
+Nefrite intersticial aguda por AINE.
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 44 de 68
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Alternativa (Correta) - "Injúria renal aguda pré-renal por uso de AINE."
+Justificativa: O uso de AINEs como diclofenaco inibe a síntese de prostaglandinas, prejudicando a
+vasodilatação da arteríola aferente, especialmente em pacientes idosos ou levemente
+hipovolêmicos. Isso pode levar à injúria renal aguda (IRA) pré-renal hemodinamicamente mediada
+com túbulos funcionantes (Na urinário baixo, urina concentrada, relação ureia/creatinina > 40).
+"Necrose tubular aguda por isquemia" (Incorreta). Apesar de o uso de AINE e a hipotensão
+contribuírem para isquemia, o padrão laboratorial não é compatível com necrose tubular aguda
+(NTA). Esperaríamos Na urinário elevado (> 40 mEq/L), urina diluída e presença de cilindros
+granulosos escuros — o que não está presente neste caso.
+"Nefrite intersticial aguda por AINE" (Incorreta). Embora os AINEs possam causar nefrite
+intersticial aguda (NIA), o quadro clínico não apresenta sinais típicos como febre, rash, eosinofilia
+ou piúria estéril. Além disso, a urina está concentrada e sem alterações celulares relevantes, o
+que não sugere processo inflamatório intersticial.
+"Injúria renal aguda pós-renal" (Incorreta): IRA pode ter etiologia pós-renal, mas é improvável
+neste caso, pois a paciente não apresenta sintomas como dor lombar, distensão vesical ou
+histórico urológico.
+Referências:
+MOUNT, D B. Azotemia e anormalidades urinárias in LOSCALZO, J. et al. Medicina interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024.
+Feedback:
+ALTERNATIVA (INCORRETA). Apesar de o uso de AINE e a hipotensão contribuírem para
+isquemia, o padrão laboratorial não é compatível com necrose tubular aguda (NTA).
+Esperaríamos Na urinário elevado (> 40 mEq/L), urina diluída e presença de cilindros granulosos
+escuros — o que não está presente neste caso.
+ALTERNATIVA (INCORRETA). Embora os AINEs possam causar nefrite intersticial aguda
+(NIA), o quadro clínico não apresenta sinais típicos como febre, rash, eosinofilia ou piúria estéril.
+Além disso, a urina está concentrada e sem alterações celulares relevantes, o que não sugere
+processo inflamatório intersticial.
+ALTERNATIVA (INCORRETA): IRA pode ter etiologia pós renal, mas é improvável neste caso,
+pois a paciente não apresenta sintomas como dor lombar, distensão vesical ou histórico
+urológico.
+REFERÊNCIAS
+MOUNT, D B. Azotemia e anormalidades urinárias in LOSCALZO, J. et al. Medicina interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024.
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 45 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO BARRA
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Compreender os mecanismos fisiopatológicos da IRA e da DRC,
+correlacionando com fatores precipitantes e evolução clínica.
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e Glomerulopatias
+22ª QUESTÃO
+
+Código da questão:
+
+141814
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNISL Porto Velho) Paciente masculino, 52 anos, comparece à consulta ambulatorial de rotina.
+Refere aumento progressivo do peso abdominal nos últimos anos, sedentarismo e histórico
+familiar de diabetes tipo 2. Ao exame, apresenta pressão arterial de 148/94 mmHg, circunferência
+abdominal de 108 cm e IMC de 32 kg/m². Exames laboratoriais revelam triglicerídeos de 280
+mg/dL, HDL de 34 mg/dL e glicemia de jejum de 112 mg/dL. O paciente preenche os critérios
+diagnósticos para síndrome metabólica segundo as diretrizes atuais.
+Avalie as alternativas a seguir e marque a que descreve corretamente a fisiopatologia central
+dessa síndrome e suas implicações clínicas.
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 46 de 68
+
+Alternativas:
+(alternativa A)
+A resistência insulínica reduz a lipólise no tecido adiposo, levando à menor liberação de ácidos
+graxos livres e favorecendo hipoglicemia de jejum em pacientes com sobrepeso.
+(alternativa B) (CORRETA)
+A resistência insulínica leva à disfunção endotelial, eleva a pressão arterial e promove dislipidemia
+aterogênica, elevando o risco cardiovascular do paciente.
+(alternativa C)
+A principal causa da síndrome metabólica é a disfunção tireoidiana, sendo a resistência insulínica
+um achado secundário e de menor relevância clínica.
+(alternativa D)
+A hiperinsulinemia inicial ajuda a manter a glicemia normal, mas está ligada a alterações
+vasculares e aumento do risco de eventos cardiovasculares.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 47 de 68
+
+Resposta comentada:
+"A resistência insulínica leva à disfunção endotelial, eleva a pressão arterial e promove
+dislipidemia aterogênica, elevando o risco cardiovascular do paciente." Correta: A resistência
+insulínica é o mecanismo fisiopatológico central da síndrome metabólica. Ela leva à elevação dos
+ácidos graxos livres, disfunção endotelial, aumento da pressão arterial, dislipidemia aterogênica
+(com aumento de triglicerídeos e redução do HDL) e inflamação crônica de baixo grau, todos
+fatores que elevam significativamente o risco cardiovascular.
+Justificativas das Alternativas Incorretas:
+"A resistência insulínica reduz a lipólise no tecido adiposo, levando à menor liberação de ácidos
+graxos livres e favorecendo hipoglicemia de jejum em pacientes com sobrepeso." Incorreta: A
+resistência insulínica aumenta a lipólise, elevando os níveis de ácidos graxos livres, o que
+contribui para hiperglicemia e dislipidemia, não hipoglicemia.
+"A hiperinsulinemia inicial ajuda a manter a glicemia normal, mas está ligada a alterações
+vasculares e aumento do risco de eventos cardiovasculares." Incorreta: A hiperinsulinemia
+compensatória pode inicialmente manter a normoglicemia, mas não previne os efeitos deletérios
+vasculares e metabólicos. Ao contrário, favorece a aterosclerose e alterações hemodinâmicas.
+"A principal causa da síndrome metabólica é a disfunção tireoidiana, sendo a resistência insulínica
+um achado secundário e de menor relevância clínica." Incorreta: A disfunção tireoidiana pode
+influenciar o metabolismo, mas não é a causa primária da síndrome metabólica. A resistência
+insulínica e a obesidade visceral são centrais na gênese da síndrome.
+Referências:
+Alberti KGMM et al. Harmonizing the Metabolic Syndrome. Circulation, 2009.
+Sociedade Brasileira de Endocrinologia e Metabologia (SBEM). Diretrizes sobre síndrome
+metabólica, 2022.
+UpToDate. Pathogenesis and pathophysiology of the metabolic syndrome. Acesso em 2025.
+Harrison’s Principles of Internal Medicine. 21ª ed., 2022.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 48 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNISL PORTO VELHO
+[Competências (Objetivos)]
+Fisiopatologia
+[Habilidades]
+Analisar os mecanismos fisiopatológicos da resistência à insulina,
+disfunção endotelial e acúmulo de gordura visceral, orientando a
+conduta clínica na síndrome metabólica.
+[Tema]
+Síndrome metabólica e dislipidemias - Classificação, diagnóstico,
+tratamento e complicações
+23ª QUESTÃO
+
+Código da questão:
+
+141649
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNITPAC) Homem de 43 anos, portador de HIV diagnosticado recentemente, procura
+atendimento para início da terapia antirretroviral (TARV). Apresenta exames laboratoriais com
+carga viral de 78.000 cópias/mL, CD4+ de 320 células/mm³. Relata história pregressa de
+tuberculose pulmonar tratada há 2 anos e atualmente encontra-se assintomático. É tabagista,
+hipertenso e faz uso contínuo de losartana. Exames de triagem revelam HBsAg positivo, anti-HBc
+total positivo e anti-HBs negativo. Função hepática está normal.
+Com base no caso clínico, qual das seguintes condutas é a mais adequada para o início da
+TARV, considerando coinfecções e efeitos adversos?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 49 de 68
+
+Alternativas:
+(alternativa A)
+Iniciar esquema com efavirenz + tenofovir + lamivudina, pois é eficaz na coinfecção HIV/HBV e
+evita interações medicamentosas com anti-hipertensivos.
+(alternativa B)
+Iniciar esquema com dolutegravir + lamivudina, pois é um regime de dois fármacos eficaz e com
+boa tolerabilidade, mesmo em coinfecção com hepatite B.
+(alternativa C)
+Adiar o início da TARV até investigação completa da hepatite B, pois a coinfecção exige avaliação
+hepática detalhada antes da introdução de qualquer antiviral.
+(alternativa D) (CORRETA)
+Iniciar esquema com dolutegravir + tenofovir + lamivudina, pois cobre o HIV e a hepatite B
+simultaneamente, com alta barreira genética e boa tolerabilidade.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Correta: Iniciar esquema com dolutegravir + tenofovir + lamivudina, pois cobre o HIV e a hepatite
+B simultaneamente, com alta barreira genética e boa tolerabilidade.
+O paciente tem indicação formal de início imediato da TARV, independentemente do CD4. A
+coinfecção com hepatite B (HBsAg positivo) exige a inclusão de dois análogos ativos contra o
+HBV, como tenofovir + lamivudina. A adição de dolutegravir oferece uma alta barreira genética e
+excelente eficácia. Esse é o regime preferencial em adultos com coinfecção HIV/HBV. A função
+hepática normal e a ausência de sintomas não contraindicam o início imediato da terapia.
+Referências:
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e Complexo da Saúde.
+Secretaria de Vigilância em Saúde e Ambiente Protocolo Clínico e Diretrizes Terapêuticas para
+Manejo da Infecção pelo HIV em Adultos: Módulo 1: Tratamento / Ministério da Saúde, Secretaria
+de Ciência, Tecnologia, Inovação e Complexo da Saúde, Secretaria de Vigilância em Saúde e
+Ambiente. - Brasília: Ministério da Saúde, 2024.
+Brasil. Ministério da Saúde. Secretaria de Ciência, Tenologia, Inovação e Complexo da Saúde.
+Secretaria de Vigilância em Saúde e Ambiente. Protocolo Clínico e Diretrizes Terapêuticas para
+Manejo da Infecção pelo HIV em Adultos: Módulo 2: Coinfecçõese Infecções Oportunistas
+[recurso eletrônico] / Ministério da Saúde, Secretaria de Ciência, Tenologia, Inovação e Complexo
+da Saúde, Secretaria de Vigilância em Saúde e Ambiente. - Brasília : Ministério da Saúde, 2024.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 50 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Infectologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNITPAC
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Avaliar critérios de início e escolha da terapia antirretroviral
+(TARV), considerando efeitos adversos e coinfecções.
+[Tema]
+HIV e Criptococose
+
+24ª QUESTÃO
+Código da questão:
+
+141438
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIPTAN) Homem de 43 anos, com diagnóstico de psoríase em placas há mais de 10 anos,
+apresenta lesões extensas em dorso, membros e couro cabeludo, acometendo cerca de 15% da
+superfície corporal. Já utilizou corticoides tópicos, calcipotriol, fototerapia e metotrexato, com
+resposta parcial e recidivas frequentes. Relata artralgia em joelhos e tornozelos. Exames
+laboratoriais mostram função hepática preservada e PPD não reator.
+Qual é a conduta mais apropriada neste momento?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 51 de 68
+
+Alternativas:
+(alternativa A) (CORRETA)
+Introduzir imunobiológico com inibidor de TNF-alfa (ex: adalimumabe), considerando psoríase
+grave refratária com provável artrite psoriásica.
+(alternativa B)
+Manter metotrexato por tempo indeterminado e iniciar fototerapia de manutenção, pois o paciente
+já respondeu parcialmente.
+(alternativa C)
+Introduzir ciclosporina oral, pois é mais segura que imunobiológicos em pacientes com lesão
+extensa e sintomas articulares.
+(alternativa D)
+Encaminhar o paciente para cirurgia dermatológica, pois casos refratários com mais de 10 anos
+de evolução indicam necessidade de excisão ampla.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+O paciente apresenta psoríase em placas grave (>10% de SCQ) e refratariedade a múltiplas
+terapias sistêmicas convencionais (metotrexato, fototerapia, tópicos). Além disso, os sintomas
+articulares sugerem artrite psoriásica, o que reforça a indicação de imunobiológico.
+Adalimumabe, um inibidor de TNF-alfa, é aprovado para casos graves de psoríase e artrite
+psoriásica, com boa eficácia e perfil de segurança favorável neste contexto (PPD negativo,
+função hepática normal).
+As demais opções estão incorretas:
+Manter metotrexato por tempo indeterminado e iniciar fototerapia de manutenção, pois o paciente
+já respondeu parcialmente.
+O paciente é refratário, manter o mesmo esquema é conduta inadequada.
+Introduzir ciclosporina oral, pois é mais segura que imunobiológicos em pacientes com lesão
+extensa e sintomas articulares.
+Ciclosporina é alternativa válida, porém seu uso prolongado é limitado por nefrotoxicidade e não é
+preferido quando há artrite.
+Encaminhar o paciente para cirurgia dermatológica, pois casos refratários com mais de 10 anos
+de evolução indicam necessidade de excisão ampla.
+Cirurgia não tem papel no manejo da psoríase em placas extensas.
+Referências:
+Jameson, J. L., Fauci, A. S., Kasper, D. L., Hauser, S. L., Longo, D. L., & Loscalzo, J. (2022).
+Harrison’s Principles of Internal Medicine, 21ª ed.
+Goldman, L., Schafer, A. I. (2020). Cecil Textbook of Medicine, 27ª ed.
+Diretrizes da AAD (American Academy of Dermatology) e SBAD (Sociedade Brasileira de
+Dermatologia) sobre psoríase.
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 52 de 68
+
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Reumatologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIPTAN
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Indicar terapias imunobiológicas nos casos graves e refratários de
+psoríase, personalizando a conduta conforme a resposta clínica e
+o perfil do paciente.
+[Tema]
+Doenças Eritematodescamativas (PSORÍASE, DERMATITE
+ATÓPICA)
+
+25ª QUESTÃO
+Código da questão:
+
+141628
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) Carlos, masc., 54 anos, portador de cirrose hepática de etiologia
+metabólica e sem sinais de descompensação desde o diagnóstico há 1 ano. Em consulta de
+rotina, informa quadro de intensa cervicalgia há 15 dias, quando fez uso de tenoxicam por 3 dias,
+como prescrito na UPA em que procurou atendimento. Exame clínico sem alterações. Resultado
+dos exames laboratoriais da semana anterior mostra aumento de 3x no valor basal da creatinina
+sérica. Qual é a provável explicação para a piora da função renal neste caso?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 53 de 68
+
+Alternativas:
+(alternativa A)
+É um provável portador de doença renal crônica agudizada por síndrome hepatorenal tipo 1.
+(alternativa B)
+É uma síndrome hepatorenal tipo 1 de etiologia medicamentosa.
+(alternativa C)
+É um quadro de síndrome hepatorenal tipo 2 por evolução natural da cirrose hepática.
+(alternativa D) (CORRETA)
+É um quadro de injúria renal aguda de etiologia medicamentosa.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Justificativa: A síndrome hepatorenal é uma perda da função renal aguda ou crônica por perda da
+função hepática sem existir doença renal propriamente dita. Na atualidade, o diagnóstico desta
+síndrome somente é realizado após serem descartados fatores de risco causadores de injúria
+renal independentes da cirrose (uso de drogas nefrotóxicas, diuréticos, uso de AINEs,
+vasodilatadores e infecções) e após a não normalização ou ao menos uma recuperação da
+função renal com a retirada do uso de diuréticos e uma prova de volume com albumina. Além
+disso, o paciente apresenta uma cirrose sem descompensação prévia há 1 ano sem possibilidade
+de síndrome hepatorenal nesta fase de doença, exceto em condição de hepatite crônica
+agudizada, quando também estariam presentes outras apresentações clínicas como icterícia,
+ascite e encefalopatia. O paciente fez uso de droga nefrotóxica capaz de causar injúria renal
+aguda independente da cirrose, o que o faz ser definido e classificado pelo KDIGO e não como
+uma síndrome hepatorenal. Conclui-se que o paciente apresentou uma injúria renal aguda por
+aumento em 3x na creatinina basal em até 7 dias pelo uso de AINEs/Tenoxicam.
+Alternativa: É um quadro de síndrome hepatorenal tipo 2 por evolução natural da cirrose hepática.
+(Incorreta). O paciente apresenta uma cirrose compensada sem qualquer quadro clínico descrito
+de descompensação que indique uma fase avançada de disfunção hepática, como ascite e
+encefalopatia, ou disfunção renal crônica, e ainda fez uso de droga nefrotóxica responsável por
+uma injúria renal aguda. Portanto, não é compatível com síndrome hepatorenal tipo 2, que ainda
+se trata de uma classificação em desuso.
+Alternativa: É um provável portador de doença renal crônica agudizada por síndrome hepatorenal
+tipo 1. (Incorreta). O relato é de um paciente com apenas uma doença crônica: hepática. Além
+disso, não surgiu ascite e PBE ou outra infecção que justificasse pensar em síndrome
+hepatorenal tipo 1, uma classificação em desuso.
+Alternativa: É uma síndrome hepatorenal tipo 1 de etiologia medicamentosa. (Incorreta). Quando
+existe uma etiologia para a injúria renal aguda, não podemos inferir em síndrome hepatorenal que
+está associada à disfunção renal associada à disfunção hepática na ausência de outros fatores
+causadores de injúria renal aguda, neste caso, AINEs.
+Referências:
+Alex S. Befeler, Bruce R. Bacon. Cirrhosis and Its Complicationsin LOSCALZO, J. et al. Medicina
+interna de Harrison. 21. ed. Porto Alegre: AMGH, 2024.
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 54 de 68
+
+Feedback:
+Alternativa: É um quadro de síndrome hepatorenal tipo 2 por evolução natural da cirrose hepática.
+(Incorreta). O paciente apresenta uma cirrose compensada sem qualquer quadro clínico descrito
+de descompensação que indique uma fase avançada de disfunção hepática, como ascite e
+encefalopatia, ou disfunção renal crônica, e ainda fez uso de droga nefrotóxica responsável por
+uma injúria renal aguda. Portanto, não é compatível com síndrome hepatorenal tipo 2, que ainda
+se trata de uma classificação em desuso.
+Alternativa: É um provável portador de doença renal crônica agudizada por síndrome hepatorenal
+tipo 1. (Incorreta). O relato é de um paciente com apenas uma doença crônica: hepática. Além
+disso, não surgiu ascite e PBE ou outra infecção que justificasse pensar em síndrome
+hepatorenal tipo 1, uma classificação em desuso.
+Alternativa: É uma síndrome hepatorenal tipo 1 de etiologia medicamentosa. (Incorreta). Quando
+existe uma etiologia para a injúria renal aguda, não podemos inferir em síndrome hepatorenal, que
+está associada à disfunção renal associada à disfunção hepática na ausência de outros fatores
+causadores de injúria renal aguda, neste caso, AINEs.
+Referências:
+Alex S. Befeler, Bruce R. Bacon. Cirrhosis and Its Complications in LOSCALZO, J. et al.
+Medicina interna de Harrison. 21. ed. Porto Alegre: AMGH, 2024.
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Gastroenterologia
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO BARRA
+[Competências (Objetivos)]
+Diagnóstico e conduta
+[Habilidades]
+Analisar critérios clínicos e laboratoriais, indicando internação e
+manejo intensivo da síndrome hepatorrenal.
+[Tema]
+Cirrose e complicações (PBE, Ascite, Encefalopatia hepática,
+Síndrome hepatorrenal)
+26ª QUESTÃO
+
+Código da questão:
+
+142578
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 55 de 68
+
+Enunciado:
+(Banco AFYA) Paciente de 38 anos procura atendimento no pronto-socorro por edema facial
+matinal e urina escurecida há dois dias. No exame físico, apresenta pressão arterial de 160/100
+mmHg e discreto edema periorbitário. Os exames laboratoriais revelam: creatinina sérica de 2,1
+mg/dL, proteinúria de 1,2 g/24h, hematúria com cilindros hemáticos e presença de dismorfismo
+eritrocitário.
+Diante do quadro clínico-laboratorial apresentado, a síndrome mais compatível é:
+Alternativas:
+(alternativa A)
+Síndrome nefrótica, pois a proteinúria superior a 1 g/dia define essa entidade e justifica o edema
+observado.
+(alternativa B)
+Nefrolitíase, devido à hematúria e à elevação de creatinina observadas no exame laboratorial.
+(alternativa C)
+Nefropatia túbulo-intersticial, uma vez que a hematúria associada a disfunção renal é típica dessa
+condição.
+(alternativa D) (CORRETA)
+Síndrome nefrítica, caracterizada por hematúria dismórfica, hipertensão arterial e disfunção renal.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+A síndrome nefrítica é caracterizada por hematúria com dismorfismo eritrocitário (sugerindo
+origem glomerular), presença de cilindros hemáticos na urina, proteinúria geralmente inferior a 3,5
+g/24h, hipertensão e elevação da creatinina por disfunção renal aguda. O edema, quando
+presente, tende a ser leve ou localizado (como o
+periorbitário). Os achados clínicos e laboratoriais descritos no caso apresentado são compatíveis
+com essa síndrome.
+As demais alternativas apresentam erros conceituais: a síndrome nefrótica requer proteinúria
+maciça (>3,5 g/24h), nefropatia túbulo-intersticial cursa predominantemente com leucocitúria e
+eosinofilia, nefrolitíase raramente provoca disfunção renal sem obstrução significativa, e a
+pielonefrite se manifesta com sinais sistêmicos e leucocitúria, não com dismorfismo eritrocitário.
+Referência:
+JUNQUEIRA, L. C.; CARNEIRO, J. Histologia Básica. 13. ed. Rio de Janeiro: Guanabara
+Koogan, 2021. SILVA, S. F. Nefrologia Clínica. 5. ed. São Paulo: Manole, 2022.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 56 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Competências (Objetivos)]
+Diagnóstico diferencial
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+[Habilidades]
+Analisar condutas clínicas para manejo da IRA, considerando
+hidratação, suspensão de nefrotóxicos e suporte hemodinâmico.
+[Tema]
+Injúria Renal Aguda, Doença Renal Crônica e Glomerulopatias
+
+27ª QUESTÃO
+Código da questão:
+
+141270
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNINOVAFAPI) Mulher de 56 anos, obesa (IMC 34,2 kg/m²), sedentária, com antecedentes de
+hipertensão arterial controlada com hidroclorotiazida e histórico familiar de infarto agudo do
+miocárdio em ambos os pais antes dos 60 anos, comparece ao ambulatório para avaliação de
+risco cardiovascular. Relata episódios de cefaleia e formigamentos nas mãos nos últimos dois
+meses. Nega tabagismo. Exames solicitados:
+Glicemia de jejum: 118 mg/dL.
+HDL-c: 38 mg/dL.
+Triglicerídeos: 220 mg/dL.
+PA: 144/94 mmHg.
+Circunferência abdominal: 98 cm.
+Com base nos critérios diagnósticos da síndrome metabólica e na relação com o risco
+cardiovascular, qual é a abordagem prioritária mais adequada neste caso?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 57 de 68
+
+Alternativas:
+(alternativa A)
+Orientar apenas mudanças comportamentais, pois a paciente ainda não tem diagnóstico de
+diabetes tipo 2.
+(alternativa B)
+Solicitar teste ergométrico antes de qualquer conduta, dado o histórico familiar de IAM.
+(alternativa C) (CORRETA)
+Iniciar estatina de alta potência e intensificar controle pressórico com associação de IECA.
+(alternativa D)
+Confirmar diabetes com hemoglobina glicada antes de qualquer intervenção farmacológica.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 58 de 68
+
+Resposta comentada:
+Comentário das alternativas:
+"Iniciar estatina de alta potência e intensificar controle pressórico com associação de IECA"
+correta: A paciente preenche critérios para síndrome metabólica (pressão arterial elevada,
+circunferência abdominal aumentada, triglicerídeos elevados, HDL baixo e glicemia alterada). A
+presença de múltiplos fatores de risco, incluindo histórico familiar de doença cardiovascular
+precoce, justifica abordagem farmacológica precoce com estatinas de alta intensidade, além de
+intensificação do controle pressórico com medicação de primeira linha para proteção endotelial
+(como IECA). O objetivo é reduzir o risco cardiovascular global.
+"Confirmar diabetes com hemoglobina glicada antes de qualquer intervenção farmacológica"
+incorreta: Confirmar diabetes antes de qualquer intervenção: Apesar da glicemia alterada em
+jejum, a abordagem do risco cardiovascular não depende exclusivamente do diagnóstico de
+diabetes tipo 2. O conjunto de fatores presentes já justifica intervenção imediata.
+"Orientar apenas mudanças comportamentais, pois a paciente ainda não tem diagnóstico de
+diabetes tipo 2" incorreta: Somente orientações comportamentais: Mudanças no estilo de vida são
+fundamentais, mas, isoladamente, não são suficientes neste contexto de alto risco
+cardiovascular. Medidas farmacológicas são indicadas pela diretriz.
+"Solicitar teste ergométrico antes de qualquer conduta, dado o histórico familiar de IAM" incorreta:
+Solicitação de teste ergométrico: Embora o histórico familiar seja relevante, o teste ergométrico
+não é necessário como primeiro passo na ausência de sintomas anginosos. A prioridade deve ser
+o manejo do risco cardiovascular global.
+Referências:
+MARTINS, Mílton de Arruda et al (ed.). Clínica médica: doenças endócrinas e metabólicas,
+doenças osteometabólicas; doenças reumatológicas. 2. ed. São Paulo: Manole, 2016. v. 5, p. 80–
+87. Disponível em: https://integrada.minhabiblioteca.com.br/reader/books/9788520447758.
+Acesso em: 05 fev. 2024.
+GOLDMAN, L.; SCHAFER, A. I. Goldman Cecil Medicina. 26. ed. Rio de Janeiro: Elsevier, 2022.
+v. 2, p. 1452–1459. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595159297/. Acesso em: 05 fev. 2024.
+LOSCALZO, Joseph et al. Medicina interna de Harrison. 21. ed. Porto Alegre: McGraw Hill, 2024.
+v. 2, p. 2071–2079. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231. Acesso em: 05 fev. 2024.
+SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Diretriz Brasileira de Dislipidemias e Prevenção
+da Aterosclerose – 2022. Disponível em: http://publicacoes.cardiol.br/consenso/2022. Acesso em:
+05 fev. 2024.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 59 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Endocrinologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+UNINOVAFAPI
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Avaliar a associação entre síndrome metabólica, diabetes tipo 2 e
+eventos cardiovasculares, promovendo ações de prevenção e
+cuidado em saúde
+[Tema]
+Síndrome metabólica e dislipidemias - Classificação, diagnóstico,
+tratamento e complicações
+28ª QUESTÃO
+
+Código da questão:
+
+141884
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Santa Inês) Um homem de 45 anos, previamente hígido, comparece à unidade de
+urgência com dor lombar intensa à direita, de início súbito, em cólica, associada a vômitos. Relata
+também disúria e febre alta. Ao exame físico, apresenta dor à palpação profunda do flanco direito,
+sem sinais de peritonismo. Está hemodinamicamente estável. O exame de urina tipo I revela
+hematúria microscópica, leucocitúria e nitrito positivo. Solicitada uma tomografia sem contraste,
+que evidencia cálculo de 6 mm em ureter distal com discreta dilatação pielocalicinal ipsilateral.
+Com base no quadro clínico, qual é a conduta inicial mais adequada?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 60 de 68
+
+Alternativas:
+(alternativa A)
+Realizar litotripsia extracorpórea de urgência e observar até eliminação completa do cálculo.
+(alternativa B)
+Início de antibioticoterapia oral, analgesia e seguimento ambulatorial com controle de imagem.
+(alternativa C)
+Alta com analgésicos e orientação hídrica, aguardando eliminação espontânea do cálculo.
+(alternativa D) (CORRETA)
+Internação hospitalar, antibioticoterapia venosa e avaliação urológica urgente.
+
+Grau de dificuldade:
+
+Médio
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 61 de 68
+
+Resposta comentada:
+Comentários das Alternativas:
+Internação hospitalar, antibioticoterapia venosa e avaliação urológica urgente.
+Comentário:
+Correta. O paciente apresenta um quadro sugestivo de pielonefrite obstrutiva secundária a cálculo
+ureteral, uma condição potencialmente grave e com risco de sepse. Nesses casos, o manejo
+deve incluir:
+Internação hospitalar;
+Antibioticoterapia parenteral empírica.
+Avaliação urológica urgente para possível desobstrução (ex.: duplo J ou nefrostomia percutânea).
+Essa conduta visa controlar a infecção e prevenir deterioração renal ou complicações sépticas.
+Fisiopatologicamente, o cálculo impede o fluxo urinário, facilitando a colonização e proliferação
+bacteriana.
+Alta com analgésicos e orientação hídrica, aguardando eliminação espontânea do cálculo.
+Comentário:
+Incorreta. Embora cálculos <5–6 mm possam ser eliminados espontaneamente, neste caso há
+sinais de infecção urinária associada à obstrução, o que contraindica conduta ambulatorial inicial.
+O risco de piora clínica é elevado. A simples analgesia e orientação hídrica seriam insuficientes
+nesse cenário.
+Início de antibioticoterapia oral, analgesia e seguimento ambulatorial com controle de imagem.
+Comentário:
+Incorreta. Antibióticos orais são inadequados neste caso pela suspeita de pielonefrite obstrutiva. O
+tratamento oral pode não atingir níveis terapêuticos suficientes no rim afetado em presença de
+obstrução. O risco de evolução para sepse exige abordagem hospitalar.
+Realizar litotripsia extracorpórea de urgência e manter observação hospitalar até eliminação
+completa do cálculo.
+Comentário:
+Incorreta. A litotripsia extracorpórea por ondas de choque (LECO) não é indicada em casos de
+infecção ativa e/ou obstrução significativa. O risco de disseminação bacteriana com a
+fragmentação do cálculo é elevado. Primeiro, deve-se tratar a infecção e drenar o trato urinário.
+Referência.
+TOWNSEND, C. M.; BEAUCHAMP, R. D.; EVERS, B. M.; MATTOX, K. L. Sabiston: Tratado de
+Cirurgia. 21. ed. Rio de Janeiro: Elsevier, 2022.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 62 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Nefrologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Reconhecer os sinais e sintomas clínicos da infecção do trato
+urinário (ITU) e da nefrolitíase, diferenciando apresentações
+simples e complicadas.
+[Tema]
+Infecção de Trato Urinário, Nefrolitíase
+
+29ª QUESTÃO
+Código da questão:
+
+141888
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Santa Inês) Você está na unidade de urgência do hospital-escola e atende uma paciente
+de 32 anos com história conhecida de asma moderada persistente. Ela chega referindo dispneia
+progressiva nas últimas 6 horas, uso de bombinha com salbutamol sem alívio significativo e relato
+de episódios semelhantes nas últimas semanas, mas nunca com essa intensidade. Ao exame,
+encontra-se consciente, ansiosa, fala frases curtas, apresenta sibilância difusa, frequência
+respiratória de 30 irpm, saturação de O₂ em ar ambiente de 89%, frequência cardíaca de 118
+bpm, sem sinais de cianose periférica. A gasometria arterial mostra: pH 7,32, pCO₂ 48 mmHg,
+pO₂ 64 mmHg, HCO₃⁻ 24 mEq/L.
+Com base nesse cenário, qual é a conduta imediata mais adequada para essa paciente?
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 63 de 68
+
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar oxigenoterapia com cateter nasal 2 L/min, nebulização com salbutamol + ipratrópio,
+corticoide sistêmico EV e monitorização intensiva.
+(alternativa B)
+Intubar a paciente imediatamente, iniciar ventilação mecânica e administrar salbutamol
+intravenoso contínuo.
+(alternativa C)
+Iniciar antibiótico empírico, oxigênio por máscara de Venturi 50%, sem broncodilatadores devido
+ao risco de taquiarritmias.
+(alternativa D)
+Administrar salbutamol inalatório em espaçador a cada 20 minutos por 1 hora, associar corticoide
+oral e observar em sala de medicação.
+
+Grau de dificuldade:
+
+Difícil
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 64 de 68
+
+Resposta comentada:
+Administrar salbutamol inalatório em espaçador a cada 20 minutos por 1 hora, associar corticoide
+oral e observar em sala de medicação.
+Incorreta. Embora a administração repetida de salbutamol via espaçador seja uma conduta
+adequada em exacerbações leves a moderadas, este caso configura uma exacerbação grave,
+com sinais de insuficiência respiratória iminente (taquipneia, hipoxemia, hipercapnia incipiente, fala
+entrecortada). O uso de corticoide oral isoladamente e a simples observação seriam insuficientes.
+Iniciar oxigenoterapia com cateter nasal 2 L/min, nebulização com salbutamol + ipratrópio,
+corticoide sistêmico EV e monitorização intensiva.
+Correta. A paciente apresenta critérios de asma grave com risco de deterioração respiratória. A
+conduta imediata deve incluir oxigenoterapia suplementar para manter saturação ≥ 92%,
+broncodilatadores por nebulização com salbutamol e ipratrópio, corticoide sistêmico
+(preferencialmente intravenoso no contexto agudo), além de monitoramento contínuo. Essa
+abordagem é preconizada nas diretrizes nacionais e internacionais para manejo de crises graves
+de asma.
+Intubar a paciente imediatamente, iniciar ventilação mecânica e administrar salbutamol
+intravenoso contínuo.
+Incorreta. A intubação orotraqueal e ventilação mecânica são indicadas em situações de falência
+respiratória iminente ou rebaixamento do nível de consciência, o que não é o caso neste
+momento. Além disso, o uso intravenoso de salbutamol é reservado para situações refratárias à
+terapia inalatória e pode trazer mais efeitos adversos.
+Iniciar antibiótico empírico, oxigênio por máscara de Venturi 50%, sem broncodilatadores devido
+ao risco de taquiarritmias.
+Incorreta. Não há evidência de infecção bacteriana para justificar antibiótico empírico neste
+momento. Além disso, a suspensão do broncodilatador por medo de taquiarritmia é inadequada,
+uma vez que o salbutamol é o principal agente broncodilatador na crise asmática. A máscara de
+Venturi com 50% de FiO₂ é desnecessária para uma saturação inicial de 89%; o oxigênio deve
+ser titulado com base na oximetria.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Asma. Brasília:
+Ministério da Saúde, 2021 researchgate.net+8asbai.org.br+8gov.br+8. Disponível em:
+https://www.gov.br/conitec/ptbr/midias/consultas/relatorios/2021/20210526_pcdt_relatorio_asma_cp_39.pdf. Acesso em: 19
+ago. 2025.
+GINNS, Lionel C.; GOLDMAN, Lee; AUSIELLO, Dennis. Cecil: Tratado de Medicina Interna. 24.
+ed. Rio de Janeiro: Elsevier, 2012. Capítulo sobre Doenças Pulmonares Obstrutivas.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 65 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Pneumologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA SANTA INÊS
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Avaliar condutas clínicas durante a exacerbação de asma ou
+DPOC, incluindo oxigenoterapia e ajuste farmacológico.
+[Tema]
+Asma e DPOC (Exame físico e exames complementares,
+incluindo espirometria, Tratamento da DPOC pelo ABE do GOLD,
+tratamento da exacerbação)
+30ª QUESTÃO
+
+Código da questão:
+
+141979
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Cruzeiro do Sul) homem de 35 anos, portador de HIV há vários anos, porém sem
+seguimento médico, é internado com quadro de febre, cefaleia intensa e rigidez de nuca há 5 dias.
+A punção lombar revela líquor claro com pressão de abertura aumentada, leucometria reduzida,
+hipoglicorraquia, hiperproteinorraquia e tinta da China positiva. A contagem de linfócitos T CD4+ é
+de 35 células/mm³. O paciente ainda não faz uso de TARV. Com base no quadro clínico e nas
+recomendações atuais, assinale a alternativa que contém a conduta mais adequada em relação
+ao início da TARV.
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 66 de 68
+
+Alternativas:
+(alternativa A)
+Adiar indefinidamente o início da TARV até que a carga viral esteja indetectável com antifúngicos.
+(alternativa B)
+Postergar a TARV por pelo menos 3 meses, até normalização do líquor, para reduzir risco de
+resistência antifúngica.
+(alternativa C)
+Iniciar a TARV imediatamente, juntamente com o tratamento antifúngico, para evitar progressão
+da imunossupressão.
+(alternativa D) (CORRETA)
+Iniciar a TARV após 2 a 4 semanas de tratamento antifúngico, devido ao risco de síndrome
+inflamatória de reconstituição imune (IRIS).
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A alternativa correta demonstra que em pacientes com meningite criptocócica associada ao HIV,
+o início da TARV deve ser adiado por 2 a 4 semanas após o início do tratamento antifúngico, a fim
+de reduzir o risco de síndrome inflamatória de reconstituição imune (IRIS), que pode ser grave e
+até fatal em infecções fúngicas do sistema nervoso central.
+As demais alternativas estão incorretas, porque:
+Início imediato da TARV aumenta risco de IRIS e não é recomendado nesse cenário.
+Aguardar 3 meses é um atraso excessivo e não tem respaldo nas diretrizes atuais.
+A TARV deve ser iniciada de forma programada, e não indefinidamente postergada.
+Referência:
+GOLDMAN, Lee; SCHAFFER, Andrew I. Cecil: medicina interna. 27. ed. Rio de Janeiro: Elsevier,
+2023. 2 v.
+Feedback:
+--
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 67 de 68
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Infectologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas de
+Inteligência Artificial (IA). Profissionais especialistas humanos
+revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA CRUZEIRO DO SUL
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Avaliar critérios clínicos para início ou atraso da terapia
+antirretroviral, manejando adequadamente pacientes com infecção
+oportunista por Cryptococcus.
+[Tema]
+HIV e Criptococose
+
+000169.65001d.bfb8f7.72e07a.494fcf.65f2f0.ad8e81.1e85e
+
+Pgina 68 de 68
+
+

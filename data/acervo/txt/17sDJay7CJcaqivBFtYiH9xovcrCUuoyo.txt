@@ -1,0 +1,643 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina I
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 08/10/2025
+
+N1 ESPECÍFICA - MEDICINA - MCM I - 2025.2 - 1ª CHAMADA 08/OUTUBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17358 - CADERNO 001
+1ª QUESTÃO
+
+acervo.top / acervotop.com
+
+Enunciado:
+(UNITPAC) Em uma atividade de APG, um estudante de Medicina é desafiado a
+realizar uma busca bibliográfica sobre a eficácia da telemedicina no
+acompanhamento da saúde mental de idosos. Consciente da necessidade de ser
+preciso e de não se perder na imensa quantidade de artigos disponíveis, ele precisa
+adotar uma estratégia metodológica de busca que seja rigorosa e eficiente.
+Dentre as alternativas que seguem, indique a que reflete a estratégia metodológica
+mais adequada para o cenário apresentado.
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 1 de 18
+
+Alternativas:
+(alternativa A)
+O estudante elabora a estratégia de busca com base apenas em palavras-chave
+derivadas do tema — telemedicina, saúde mental, idosos e eficácia — articuladas
+com operadores booleanos nas bases SciELO e PubMed, priorizando a simplicidade e
+considerando que a correspondência direta de termos sempre recupera os mesmos
+artigos.
+(alternativa B)
+O estudante combina termos livres extraídos de artigos previamente localizados
+com alguns descritores não verificados no DeCS ou MeSH, estruturando a busca com
+operadores booleanos em bases como PubMed e LILACS, assumindo que a
+integração de diferentes fontes garante cobertura adequada, mesmo sem
+padronização prévia dos termos.
+
+(alternativa C) (CORRETA)
+O aluno inicia pesquisando no DeCS e MeSH os termos telemedicina, saúde mental,
+eficácia e idosos para identificar os descritores correspondentes em português e
+inglês, e utiliza esses descritores combinados com operadores booleanos (AND, OR)
+para realizar buscas nas bases Scielo e PubMed, garantindo maior precisão.
+
+(alternativa D)
+O estudante seleciona termos livres como telemedicina, saúde mental e idosos, e
+opta por refinamentos manuais dos resultados com filtros de ano, idioma e tipo de
+estudo, entendendo que a filtragem avançada nas bases é suficiente para
+compensar a ausência de descritores padronizados.
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 2 de 18
+
+Resposta comentada:
+Estratégia que utiliza descritores padronizados (DeCS/MeSH), em português e
+inglês, combinados a operadores booleanos em bases indexadas (SciELO, PubMed):
+Correta. Essa é a metodologia mais completa e rigorosa, garantindo precisão,
+padronização terminológica e abrangência internacional da busca.
+Estratégia baseada apenas em palavras-chave livres articuladas com operadores
+booleanos:
+Incorreta. Embora plausível, não contempla o uso de descritores padronizados. Pode
+recuperar parte dos artigos, mas compromete a sensibilidade e a reprodutibilidade
+da busca.
+Estratégia que utiliza apenas termos livres e refina os resultados com filtros (ano,
+idioma, tipo de estudo):
+Incorreta. O refinamento melhora a especificidade, mas não substitui a
+padronização oferecida pelos descritores. A busca fica dependente do julgamento
+individual do pesquisador.
+Estratégia que combina termos livres com descritores retirados diretamente de
+artigos, sem verificar no DeCS ou MeSH:
+Incorreta. A integração sem padronização compromete a consistência metodológica.
+Apesar de parecer abrangente, não garante alinhamento com os vocabulários
+oficiais de indexação.
+Referência:
+DE OLIVEIRA CRUZ LATORRACA, C. et al. Busca em bases de dados eletrônicas da
+área da saúde: por onde começar. Diagnóstico & Tratamento, p. 59–63, 2019.
+Disponível em: https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_5963.pdf. Acesso em: 25 ago. 2025.
+Feedback:
+A resposta correta, além disso, considera a busca em português e inglês, aspecto
+essencial para explorar bases de dados nacionais e internacionais, como Scielo e
+PubMed. Por fim, a estratégia incorpora o uso de operadores booleanos (AND, OR),
+que permitem combinar os termos de forma lógica e precisa, ampliando a
+recuperação de artigos relevantes e reduzindo vieses.
+As outras opções contêm falhas metodológicas significativas, como a dependência
+exclusiva de palavras-chave, confusão entre termos livres e controlados ou restrição
+de busca a um único idioma. O cenário exige precisão, e apenas a abordagem da
+alternativa a) entrega o rigor científico necessário para não se perder no "mar de
+literatura".
+2ª QUESTÃO
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 3 de 18
+
+Enunciado:
+(UNIGRANRIO Caxias) A professora da disciplina de Metodologia Científica solicitou
+que os alunos elaborassem um pré-projeto de pesquisa. A estudante Marina ficou
+em dúvida sobre como estruturar corretamente a introdução e o referencial teórico.
+Ela escreveu um texto inicial apresentando o problema de saúde a ser estudado,
+sua relevância e os objetivos gerais do trabalho. Em seguida, reuniu e organizou
+artigos científicos recentes para discutir os principais conceitos, autores e
+evidências que embasam o tema escolhido.
+Qual das alternativas abaixo descreve de forma adequada o modelo de organização
+de uma introdução e do referencial teórico em um projeto de pesquisa?
+Alternativas:
+(alternativa A)
+A introdução consiste em revisar autores e teorias específicas sobre o tema
+escolhido, enquanto o referencial teórico tem a função de apresentar os objetivos
+da pesquisa e justificar a relevância do estudo.
+(alternativa B)
+A introdução deve trazer uma descrição detalhada das ações promovidas no estudo,
+enquanto o referencial teórico deve apresentar dados numéricos que comprovem a
+importância do problema investigado.
+(alternativa C)
+A introdução corresponde a um resumo de todo o projeto, enquanto o referencial
+teórico é um espaço para a apresentação de resultados e conclusões de pesquisas
+anteriores.
+(alternativa D) (CORRETA)
+A introdução deve contextualizar o tema, indicar sua relevância e apresentar
+objetivos do estudo; já o referencial teórico deve reunir, discutir e fundamentar o
+trabalho com base em literatura científica existente.
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 4 de 18
+
+Resposta comentada:
+Alternativa correta: A introdução deve contextualizar o tema, indicar sua relevância
+e apresentar objetivos do estudo; já o referencial teórico deve reunir, discutir e
+fundamentar o trabalho com base em literatura científica existente.
+Essa alternativa aponta que a introdução contextualiza o tema, apresenta o
+problema, define objetivos e justifica a importância do estudo, enquanto o
+referencial teórico reúne, analisa e discute a literatura científica existente, é a
+correta. Esse é o papel clássico de cada seção, conforme normas metodológicas.
+Justificativa das incorretas:
+Há alternativa que atribui à introdução a função de revisar autores, o que é
+equivocado. A revisão da literatura é papel do referencial teórico; já a apresentação
+da relevância e dos objetivos pertence à introdução. A confusão entre essas funções
+invalida essa resposta.
+Outra alternativa incorreta descreve a introdução como local para detalhar a
+metodologia, o que não procede. O capítulo metodológico é independente. É
+verdade que alguns dados numéricos podem aparecer como justificativa inicial, mas
+eles não substituem o escopo do referencial teórico.
+Há ainda a alternativa que reduz a introdução a um “resumo do projeto” e limita o
+referencial teórico apenas a resultados de trabalhos prévios. Isso está incorreto, pois
+a introdução vai além de resumir, e o referencial discute conceitos, teorias e
+fundamentos que sustentam a pesquisa, não apenas resultados isolados.
+Referência:
+GIL, Antonio C. Como elaborar projetos de pesquisa. 7. ed. Grupo GEN, 2022. Ebook. ISBN 9786559771653. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/97865597716 53/.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(UNIPTAN) Leia o trecho abaixo:
+Segundo estudos recentes:
+A adesão ao tratamento medicamentoso em pacientes com transtornos
+mentais crônicos apresenta grandes variações, podendo ser influenciada por
+múltiplos fatores, como efeitos colaterais, crenças sobre a medicação e
+suporte familiar. A não adesão pode comprometer o prognóstico e aumentar
+os índices de recaída (Santos; Moura, 2021, p. 78).
+
+Com base no trecho acima e considerando as diretrizes da ABNT NBR 10520:2023,
+assinale a alternativa correta.
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 5 de 18
+
+Alternativas:
+(alternativa A)
+Trata-se de uma citação direta curta, de acordo com a norma ABNT.
+(alternativa B)
+Trata-se de uma citação indireta, em conformidade com as normas ABNT.
+(alternativa C)
+Trata-se de uma citação direta curta, de acordo com a norma Vancouver.
+(alternativa D) (CORRETA)
+Trata-se de uma citação direta longa, conforme as normas da ABNT.
+
+Resposta comentada:
+O trecho está destacado com recuo, sem aspas e com fonte menor, formato típico
+da citação direta longa (>3 linhas) segundo a ABNT.
+A referência (Santos; Moura, 2021, p. 78) segue o padrão da NBR 10520 de 2023 da
+ABNT.
+A norma atualizada aboliu a obrigatoriedade de escrever os nomes dos autores em
+CAIXA ALTA.
+A versão 2023 da ABNT NBR 10520 estabelece que o nome dos autores deve seguir
+a mesma forma como está apresentado na lista de referências — ou seja:
+Letra inicial maiúscula apenas (ex.: Silva; Moura, 2021).
+Não se utiliza mais caixa alta obrigatoriamente (ex.: SILVA; MOURA).
+As demais alternativas erram ao classificar como citação curta ou indireta e ao
+apontar erroneamente para Vancouver.
+Referência:
+NBR 10520/2023. Citações. Disponível em:
+http://plone.ufpb.br/secretariado/contents/documentos/abnt-docs/2023_abnt-10520citacoes.pdf. Acesso em: 05 jun. 2024.
+Feedback:
+-4ª QUESTÃO
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 6 de 18
+
+Enunciado:
+(AFYA Ipatinga) Leia a seguir os trechos de metodologias retirados de diferentes
+trabalhos.
+I. “Foram aplicados questionários estruturados em 120 estudantes de
+medicina, com análise estatística descritiva e inferencial para verificar a
+relação entre hábitos de estudo e desempenho acadêmico.”
+II. “A ação envolveu oficinas semanais sobre prevenção de doenças
+respiratórias em uma escola pública, com atividades lúdicas e participação
+de professores e alunos, visando à promoção da saúde.”
+III. “Realizou-se um estudo transversal com coleta de dados sobre hábitos
+alimentares em idosos, utilizando entrevistas semi-estruturadas e posterior
+análise quantitativa por software.”
+IV. “Durante três meses, estudantes de medicina desenvolveram uma
+campanha de conscientização sobre cuidados com a higiene em creches,
+avaliando a participação da comunidade e o engajamento dos familiares.”
+V. “Os participantes foram randomizados em dois grupos para testar a
+eficácia de um programa de exercícios físicos na melhora da pressão
+arterial, com desfechos avaliados antes e após a intervenção.”
+Marque a alternativa que contém apenas os trechos referentes à metodologia de
+extensão.
+Alternativas:
+(alternativa A)
+I, IV e V.
+(alternativa B) (CORRETA)
+II e IV.
+(alternativa C)
+II e III.
+(alternativa D)
+I e III.
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 7 de 18
+
+Resposta comentada:
+“Foram aplicados questionários estruturados em 120 estudantes de medicina, com
+análise estatística descritiva e inferencial para verificar a relação entre hábitos de
+estudo e desempenho acadêmico.”
+Tipo: Metodologia de pesquisa.
+Comentário: Há coleta sistemática de dados e análise estatística, com foco em
+gerar conhecimento novo sobre hábitos de estudo e desempenho. Não envolve ação
+direta com a comunidade.
+“A ação envolveu oficinas semanais sobre prevenção de doenças respiratórias em
+uma escola pública, com atividades lúdicas e participação de professores e alunos,
+visando à promoção da saúde.”
+Tipo: Metodologia de extensão.
+Comentário: O foco é a ação prática e educativa, com participação da comunidade e
+promoção da saúde, características típicas de extensão universitária.
+“Realizou-se um estudo transversal com coleta de dados sobre hábitos alimentares
+em idosos, utilizando entrevistas semi-estruturadas e posterior análise quantitativa
+por software.”
+Tipo: Metodologia de pesquisa.
+Comentário: Coleta de dados e análise quantitativa para gerar conhecimento novo.
+Não há interação prática com a comunidade ou ação educativa.
+“Durante três meses, estudantes de medicina desenvolveram uma campanha de
+conscientização sobre cuidados com a higiene em creches, avaliando a participação
+da comunidade e o engajamento dos familiares.”
+Tipo: Metodologia de extensão.
+Comentário: O trecho descreve ação comunitária, com envolvimento direto de
+estudantes e comunidade, visando educação e conscientização, típica de extensão.
+“Os participantes foram randomizados em dois grupos para testar a eficácia de um
+programa de exercícios físicos na melhora da pressão arterial, com desfechos
+avaliados antes e após a intervenção.”
+Tipo: Metodologia de pesquisa.
+Comentário: Descreve um ensaio clínico, com randomização e avaliação de
+desfechos, voltado para geração de conhecimento científico.
+Referências:
+GIL, Antonio C. Métodos e técnicas de pesquisa social. 7. ed. Grupo GEN, 2019. Ebook. ISBN 9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 05
+jun. 2024.
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. 1. ed.
+Grupo GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em:
+05 jun. 2024. (Cap. 6 - Método)
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 8 de 18
+
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(FASA VIC) Uma equipe multiprofissional desenvolve o projeto de extensão “Cuidar
+para Prevenir”, voltado à promoção da saúde materno-infantil em uma comunidade
+rural em situação de vulnerabilidade social. As ações incluem oficinas mensais com
+gestantes e puérperas sobre temas como alimentação, cuidados com o recémnascido e prevenção de infecções. A duração prevista é de 18 meses, e o projeto
+enfrenta desafios como manutenção do engajamento comunitário, registro contínuo
+das atividades e avaliação participativa de resultados.
+Com base nesse cenário, analise as estratégias listadas a seguir.
+I. Definir indicadores qualitativos e quantitativos de processo e resultado desde o
+início do projeto.
+II. Preencher relatórios mensais padronizados com descrição das atividades, públicoalvo e principais dificuldades.
+III. Realizar a avaliação de impacto somente ao final do projeto, com base na
+percepção da equipe executora.
+IV. Promover reuniões periódicas de feedback com a comunidade, incorporando
+sugestões no planejamento.
+São consideradas estratégias adequadas de monitoramento de um projeto de
+extensão:
+Alternativas:
+(alternativa A)
+apenas I e III.
+(alternativa B)
+I, II, III e IV.
+(alternativa C) (CORRETA)
+apenas I, II e IV.
+(alternativa D)
+apenas II e IV.
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 9 de 18
+
+Resposta comentada:
+I. Correta. A definição prévia de indicadores é essencial para monitorar o
+desempenho e os impactos.
+II. Correta. O registro contínuo e padronizado favorece o acompanhamento
+sistemático e a avaliação do projeto.
+III. Incorreta. Avaliar apenas ao final e sem participação da comunidade representa
+um erro metodológico grave, pois inviabiliza ajustes e ignora o princípio da
+corresponsabilidade. Não sendo possível utilizar a estratégia para monitorar as
+atividades de extensão.
+IV. Correta. O feedback participativo fortalece o vínculo com a comunidade e
+permite adaptações ao contexto local durante o monitoramento das atividades de
+extensão.
+Referências:
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia
+científica. 9. ed. São Paulo: Atlas, 2021.
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas,
+2017.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(ITPAC Porto Nacional) Durante a disciplina de Saúde Coletiva no curso de Medicina,
+um grupo de estudantes participou de diferentes atividades supervisionadas. Na
+primeira, realizaram levantamento sistemático de dados sobre prevalência de
+hipertensão entre idosos atendidos em uma Unidade Básica de Saúde (UBS). Em
+outro momento, prepararam aulas expositivas para colegas sobre os fatores de
+risco da doença. Por fim, desenvolveram oficinas comunitárias de educação em
+saúde, abordando práticas de autocuidado e adesão ao tratamento, em conjunto
+com a equipe multiprofissional.
+Considerando a definição formal de ensino, pesquisa e extensão no Ensino Superior,
+qual alternativa descreve corretamente a função específica de cada uma dessas
+atividades no contexto apresentado?
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 10 de 18
+
+Alternativas:
+(alternativa A)
+O levantamento de dados caracteriza ensino, pois seria apenas uma prática de aula;
+as aulas expositivas representam extensão, pois compartilham saberes sem relação
+com aplicação social; e as oficinas comunitárias constituem pesquisa, pois analisam
+apenas opiniões dos participantes.
+(alternativa B)
+O levantamento de dados caracteriza ensino, por ser parte de uma prática
+pedagógica; as aulas expositivas representam pesquisa, pois apenas revisam
+informações já conhecidas; e as oficinas comunitárias configuram extensão, pois
+consistem em atividades restritas a estudantes.
+(alternativa C) (CORRETA)
+O levantamento de dados caracteriza pesquisa, pois produz conhecimento científico;
+as aulas expositivas representam ensino, pois transmitem saberes acadêmicos; e as
+oficinas comunitárias constituem extensão, pois aplicam o conhecimento em
+benefício social.
+(alternativa D)
+O levantamento de dados caracteriza extensão, pois envolve somente contato com
+a comunidade; as aulas expositivas representam pesquisa, pois discutem conteúdos
+já existentes; e as oficinas comunitárias configuram ensino, pois se limitam à
+transmissão de informações.
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 11 de 18
+
+Resposta comentada:
+O levantamento de dados caracteriza pesquisa, pois produz conhecimento científico;
+as aulas expositivas representam ensino, pois transmitem saberes acadêmicos; e as
+oficinas comunitárias constituem extensão, pois aplicam o conhecimento em
+benefício social. Correta. Diferencia claramente as três dimensões: pesquisa
+(produção de dados científicos), ensino (transmissão de saberes) e extensão (ação
+comunitária aplicada).
+O levantamento de dados caracteriza extensão, pois envolve somente contato com
+a comunidade; as aulas expositivas representam pesquisa, pois discutem conteúdos
+já existentes; e as oficinas comunitárias configuram ensino, pois se limitam à
+transmissão de informações. Incorreta. Inverte conceitos: levantamento de dados
+não é extensão, e aulas expositivas não são pesquisa.
+O levantamento de dados caracteriza ensino, pois seria apenas uma prática de aula;
+as aulas expositivas representam extensão, pois compartilham saberes sem relação
+com aplicação social; e as oficinas comunitárias constituem pesquisa, pois analisam
+apenas opiniões dos participantes. Incorreta. Equivoca funções: oficinas
+comunitárias não configuram pesquisa, mas sim extensão.
+O levantamento de dados caracteriza ensino, por ser parte de uma prática
+pedagógica; as aulas expositivas representam pesquisa, pois apenas revisam
+informações já conhecidas; e as oficinas comunitárias configuram extensão, pois
+consistem em atividades restritas a estudantes. Incorreta. Embora reconheça a
+extensão corretamente, confunde ensino com pesquisa, distorcendo os papéis
+institucionais.
+Referências:
+AQUINO, Ítalo de S. Como escrever artigos científicos. 9. ed. São Paulo: Saraiva
+Educação, 2019. E-book. ISBN 9788571440289.
+GIL, Antonio C. Como elaborar projetos de pesquisa. 7. ed. Rio de Janeiro: Grupo
+GEN, 2022. E-book. ISBN 9786559771653.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(ITPAC Porto Nacional) Em uma Unidade Básica de Saúde (UBS) localizada em área
+periférica de um município de médio porte, um grupo de estudantes de Medicina
+participa de um projeto acadêmico supervisionado. O projeto surgiu a partir da
+demanda da comunidade por orientação sobre o uso racional de medicamentos,
+devido ao uso frequente de antibióticos sem prescrição. Durante a discussão em
+sala, os docentes propuseram duas possibilidades: (1) elaborar um estudo para
+analisar os padrões de automedicação entre os moradores da região e (2) planejar
+ações educativas, em conjunto com a equipe multiprofissional, para promover o uso
+adequado de antibióticos.
+Considerando a diferença entre objetivos de pesquisa e objetivos de extensão, qual
+dos seguintes objetivos específicos está mais adequado à proposta de extensão
+descrita no texto-base?
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 12 de 18
+
+Alternativas:
+(alternativa A)
+Identificar fatores sociodemográficos associados à automedicação em antibióticos
+na população atendida pela unidade.
+(alternativa B)
+Avaliar a prevalência do uso de antibióticos sem prescrição entre moradores
+cadastrados na UBS da comunidade.
+(alternativa C) (CORRETA)
+Promover atividades educativas sobre uso racional de antibióticos em escolas e
+associações comunitárias locais.
+(alternativa D)
+Descrever os padrões de aquisição de antibióticos em farmácias próximas à área de
+abrangência da UBS.
+
+Resposta comentada:
+Avaliar a prevalência do uso de antibióticos sem prescrição entre moradores
+cadastrados na UBS da comunidade. Incorreta. Esse objetivo corresponde à
+pesquisa, pois envolve coleta de dados epidemiológicos com ênfase em prevalência.
+Identificar fatores sociodemográficos associados à automedicação em antibióticos
+na população atendida pela unidade. Incorreta. Focado em análise associativa
+(variáveis sociodemográficas), típico de estudos observacionais de pesquisa.
+Promover atividades educativas sobre uso racional de antibióticos em escolas e
+associações comunitárias locais. Correta. É um objetivo de extensão, voltado à
+intervenção prática e educativa junto à comunidade, articulando universidade e
+sociedade.
+Descrever os padrões de aquisição de antibióticos em farmácias próximas à área de
+abrangência da UBS. Incorreta. Refere-se a estudo descritivo de padrões de
+consumo, caracterizando objetivo de pesquisa.
+Referências:
+AQUINO, Ítalo de S. Como escrever artigos científicos. 9. ed. São Paulo: Saraiva
+Educação, 2019. E-book. ISBN 9788571440289.
+GIL, Antonio C. Como elaborar projetos de pesquisa. 7. ed. Rio de Janeiro: Grupo
+GEN, 2022. E-book. ISBN 9786559771653.
+Feedback:
+-8ª QUESTÃO
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 13 de 18
+
+Enunciado:
+(UNINOVAFAPI) Um estudante de medicina precisa realizar uma busca bibliográfica
+para um trabalho sobre “atividade física” e “hipertensão”. Ele acessa a base
+PubMed e utiliza diferentes combinações de operadores booleanos. Em uma das
+tentativas, escreve: “physical activity AND hypertension”. Em outra, utiliza:
+“physical activity OR hypertension”. Por fim, faz o teste: “physical activity NOT
+hypertension”.
+Avalie as análises abaixo:
+I - A combinação physical activity AND hypertension retorna apenas artigos que
+contenham simultaneamente os dois descritores, restringindo a busca.
+II - A combinação physical activity OR hypertension amplia a busca, trazendo artigos
+que contenham qualquer um dos descritores, em separado ou juntos.
+III - A combinação physical activity NOT hypertension exclui os artigos que
+contenham o descritor “hypertension”, restringindo a busca ao termo “physical
+activity” sem associação ao outro.
+É correto o que se afirma em
+Alternativas:
+(alternativa A) (CORRETA)
+I, II e III.
+(alternativa B)
+II e III, apenas.
+(alternativa C)
+I, apenas.
+(alternativa D)
+I e II, apenas.
+
+Resposta comentada:
+A assertiva I está correta, pois o operador AND tem efeito restritivo, recuperando
+apenas artigos que contenham os dois termos em conjunto.
+A assertiva II está correta, já que o operador OR tem efeito aditivo, ampliando o
+escopo da busca.
+A assertiva III está correta, porque o operador NOT atua de forma excludente,
+eliminando da busca todos os resultados que contenham o termo indicado.
+Portanto, a opção que reúne as três assertivas corretas é a mais adequada.
+Referência:
+PICOLOTO, S. et al. Bases de dados em saúde: estratégias de busca e uso de
+operadores booleanos. Revista de Saúde Digital e Tecnologias Educacionais, v. 6, n.
+1, p. 45-52, 2021.
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 14 de 18
+
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(UNIGRANRIO Barra) Em uma aldeia de pescadores localizada na foz de um rio,
+foram detectados altos níveis de mercúrio na água e nos peixes consumidos pela
+população, provavelmente relacionados à atividade de garimpos ilegais rio acima.
+Profissionais da UBS local observaram aumento de sintomas compatíveis com
+intoxicação, como tremores e cansaço, e os moradores demonstram preocupação
+com os riscos à saúde e ao impacto na venda dos peixes, principal fonte de renda da
+comunidade. A liderança local solicitou apoio da universidade para desenvolver, em
+parceria com a UBS, um projeto de extensão para educar a população sobre os
+riscos do mercúrio, prevenir doenças e estimular práticas seguras de consumo e
+manejo do pescado.
+Com base na situação apresentada, elabore, de forma dissertativa, a metodologia
+de um projeto de extensão para intervir na aldeia de pescadores.
+Sua resposta deve descrever de forma clara e organizada:
+As etapas da atividade a ser desenvolvida;
+Como os alunos e profissionais participarão da ação;
+Os recursos que serão utilizados;
+O público-alvo direto da intervenção;
+A forma de monitoramento da atividade
+(1,5 pontos)
+Alternativas:
+--
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 15 de 18
+
+Resposta comentada:
+A resposta deve conter, de forma organizada:
+1. Estratégia de ação – Descrever como o projeto será implementado, com
+exemplos de atividades: oficinas, palestras, rodas de conversa, campanhas
+educativas e orientações sobre práticas seguras de consumo.
+2. Público-alvo – Definir quem será beneficiado, com foco nos pescadores e
+suas famílias.
+3. Profissionais envolvidos – Indicar os membros da equipe (estudantes,
+docentes, UBS, lideranças comunitárias, especialistas).
+4. Descrição das Atividades – Relacionar as ações aos objetivos do projeto,
+explicando como cada uma contribui para reduzir os riscos.
+5. Materiais e recursos – Apontar materiais e recursos humanos necessários
+para a execução.
+6. Cronograma – Definir etapas e duração aproximada.
+7. Monitoramento e Avaliação – Explicar como o andamento e o impacto do
+projeto serão acompanhados.
+Referências:
+GIL, Antonio C. Métodos e técnicas de pesquisa social. 7. ed. Grupo GEN, 2019. Ebook. ISBN 9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 05
+jun. 2024.
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. 1. ed.
+Grupo GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em:
+05 jun. 2024. (Cap. 6 - Método)
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(UNIGRANRIO Barra) Uma Unidade Básica de Saúde (UBS) localizada em área
+urbana identificou que grande parte da população adulta apresenta sobrepeso,
+hipertensão e diabetes tipo 2. Durante rodas de conversa, os moradores relataram
+pouco acesso a acompanhamento médico contínuo e dificuldades em manter o
+tratamento prescrito, devido a limitações financeiras e rotinas de trabalho extensas.
+Diante dessa realidade, a equipe propôs a elaboração de um projeto de extensão
+que apoiasse a comunidade na prevenção e no acompanhamento das doenças
+crônicas não transmissíveis.
+Considerando o cenário descrito e utilizando a estrutura de um projeto de extensão,
+formule um objetivo geral e três objetivos específicos que poderiam orientar a
+proposta de intervenção da equipe. (1,5 pontos)
+Alternativas:
+--
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 16 de 18
+
+Resposta comentada:
+O objetivo geral deve ser amplo, indicando a finalidade do projeto de forma
+abrangente.
+Os objetivos específicos devem ser claros, mensuráveis e derivados do objetivo
+geral, permitindo avaliação em médio e curto prazo.
+A resposta deve ser redigida com verbos no infinitivo, contemplando um objetivo
+geral e três objetivos específicos.
+Não se deve confundir objetivos específicos com ações da metodologia porque:
+Objetivos específicos dizem respeito ao resultado que se deseja alcançar. Eles
+apontam para o que se pretende obter com o projeto ou atividade.
+Exemplo: promover o desenvolvimento da autonomia dos alunos no estudo
+individual.
+Ações da metodologia são os meios utilizados para chegar a esse resultado. Elas
+descrevem o que será feito na prática para atingir o objetivo.
+Exemplo: Criar protocolos simples de acompanhamento para pacientes com risco
+cardiovascular, articulados com a equipe multiprofissional.
+Exemplos de objetivo geral:
+Promover a prevenção e o acompanhamento clínico de doenças crônicas não
+transmissíveis na comunidade atendida pela UBS.
+Contribuir para a redução de complicações associadas à hipertensão e ao diabetes,
+fortalecendo ações de cuidado continuado em Atenção Primária.
+Contribuir para a prevenção e o acompanhamento das doenças crônicas não
+transmissíveis (DCNT), como hipertensão, diabetes tipo 2 e obesidade, fortalecendo
+a promoção da saúde na comunidade atendida pela UBS.
+Exemplos de objetivos específicos:
+Educar a população sobre hábitos saudáveis de alimentação e prática regular de
+atividade física.
+Oferecer apoio ao autocuidado no controle da hipertensão e do diabetes,
+incentivando a adesão ao tratamento.
+Promover a integração entre UBS, estudantes e comunidade, fortalecendo a rede de
+apoio no enfrentamento das DCNT.
+Referências:
+AQUINO, Ítalo de S. Como escrever artigos científicos. 9. ed. São Paulo: Saraiva
+Educação, 2019. E-book. ISBN 9788571440289. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788571440289/. Acesso em: 05
+jun. 2024.
+GIL, Antonio C. Como elaborar projetos de pesquisa. 7. ed. Grupo GEN, 2022. Ebook. ISBN 9786559771653. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786559771653/. Acesso em: 05
+jun. 2024.
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 17 de 18
+
+Feedback:
+--
+
+000173.580013.4c91b7.002bbc.21cb1b.a8f723.a945c4.571f0
+
+Página 18 de 18
+
+

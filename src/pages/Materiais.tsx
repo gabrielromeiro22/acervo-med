@@ -50,7 +50,9 @@ export default function Materiais() {
         </label>
       </div>
 
-      {!groups.length ? <Empty>Nenhum material encontrado.</Empty> : groups.map((g) => (
+      {!materials.length ? (
+        <Empty>Os resumos do acervo estão em PDF. <Link to="/app/acervo?tipo=resumo" className="text-accent hover:underline">Ver resumos no Acervo</Link></Empty>
+      ) : !groups.length ? <Empty>Nenhum material encontrado.</Empty> : groups.map((g) => (
         <section key={g} className="mb-8">
           <h2 className="mb-3 font-display text-lg font-semibold">{g}</h2>
           <ul className="grid gap-3 sm:grid-cols-2">

@@ -42,8 +42,8 @@ export default function Flashcards() {
   }
 
   return (
-    <div className="-mx-4 -my-6 grid min-h-[calc(100dvh-3.5rem)] sm:-my-10 md:grid-cols-[16rem_1fr] lg:min-h-dvh">
-      <aside className="flex flex-col gap-1 border-b border-line bg-panel/60 p-4 md:border-r md:border-b-0">
+    <div className="-mx-4 -mt-20 -mb-10 grid min-h-dvh md:grid-cols-[16rem_1fr] lg:-mt-10">
+      <aside className="flex flex-col gap-1 border-b border-line bg-panel/60 p-4 pt-20 md:border-r md:border-b-0">
         <div className="mb-3 px-1">
           <p className="text-sm font-bold uppercase tracking-[0.14em]">Meus flashcards</p>
           <p className="text-xs text-mute">Estude no seu ritmo.</p>
@@ -82,7 +82,7 @@ export default function Flashcards() {
         ))}
       </aside>
 
-      <section className="min-w-0 p-4 sm:p-6">
+      <section className="min-w-0 p-4 pt-20 sm:p-6 sm:pt-20">
         {sel.k === 'estudar' && <Study title="Estudar tudo" sub="Cartões de todos os baralhos e do acervo" pool={cards} />}
         {sel.k === 'disc' && <Study title={sel.nome} sub="Flashcards do acervo" pool={cards.filter((c) => !c.deck && c.disciplina === sel.nome)} />}
         {sel.k === 'deck' && (deck

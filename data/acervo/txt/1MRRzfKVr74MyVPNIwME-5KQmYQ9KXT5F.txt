@@ -1,0 +1,564 @@
+AFYA FACULDADE DE CIÊNCIAS MÉDICAS DA PARAÍBA
+CURSO DE MEDICINA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas IV, HABILIDADES
+E ATITUDES MÉDICAS IV e HABILIDADES E ATITUDES MÉDICAS IV
+Professor (es): Kassio Romulo
+Período: 202501
+
+Turma:
+
+Data: 18/06/2025
+
+HAM IV - Reposição
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16534 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+Homem de 60 anos, ex-tabagista (40 maços/ano), refere dispneia progressiva aos esforços,
+tosse produtiva crônica e perda ponderal leve. Ao exame: tórax em barril, hipersonoridade à
+percussão, uso de musculatura acessória e presença de sibilos dispersos. A espirometria
+evidencia VEF1/CVF < 0,70 e VEF1 de 52% do previsto. Radiografia de tórax (PA e perfil) mostra
+aumento do espaço aéreo retroesternal, hipertransparência difusa e rebaixamento das cúpulas
+diafragmáticas.
+Com base no caso e nos exames, assinale a alternativa que apresenta o diagnóstico mais
+compatível.
+Alternativas:
+(alternativa A)
+Fibrose pulmonar idiopática em estágio inicial.
+(alternativa B)
+Bronquiectasias por infecção crônica.
+(alternativa C) (CORRETA)
+DPOC com padrão obstrutivo moderado.
+(alternativa D)
+Asma brônquica persistente grave.
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 1 de 15
+
+Resposta comentada:
+Resposta correta: DPOC com padrão obstrutivo moderado.
+O paciente tem história compatível (tabagismo, tosse crônica, dispneia), achados físicos típicos
+(tórax em barril, sibilos), espirometria com VEF1/CVF < 0,70 e VEF1 reduzido (obstrução
+moderada), e RX com sinais de hiperinsuflação. Esses dados são clássicos de DPOC,
+especialmente enfisema.
+Análise das alternativas incorretas:
+Asma brônquica tem reversibilidade no VEF1 após broncodilatador e não costuma causar
+hiperinsuflação fixada ou rebaixamento diafragmático.
+Fibrose pulmonar mostra padrão restritivo (VEF1 e CVF reduzidos proporcionalmente, relação
+VEF1/CVF normal ou aumentada) e redução de campos pulmonares com reticulado basal na
+radiografia, o que não ocorre aqui.
+Bronquiectasias têm tosse crônica com escarro purulento, hemoptise recorrente e imagem de
+dilatação brônquica, o que não aparece no RX apresentado.
+Bibliografia:
+1. GOLD – Global Initiative for Chronic Obstructive Lung Disease, 2024.
+2. Sociedade Brasileira de Pneumologia e Tisiologia. Diretrizes para o Manejo da DPOC,
+2020.
+3. Behrman RE, Kliegman RM. Nelson Tratado de Pediatria, 21ª ed., Elsevier, 2020.
+4. Felson B. Principles of Chest Roentgenology, 4ª ed., Elsevier, 2014.
+5. ATS/ERS Task Force: Standardisation of Spirometry. Eur Respir J, 2005.
+2ª QUESTÃO
+Enunciado:
+Menino de 8 anos, previamente hígido, é levado à UPA com dor abdominal em flanco direito e
+hipogástrio há 24h, associada a febre (38,5 °C) e vômitos. Ao exame físico, apresenta dor à
+palpação profunda em fossa ilíaca direita, sinal de Rovsing positivo, sinal de Blumberg presente. A
+ultrassonografia mostra imagem hiperecogênica com reforço posterior, junto à topografia do
+apêndice cecal. Sobre esse caso, analise as afirmativas:
+I. O sinal de Rovsing positivo indica irritação peritoneal por distensão do cólon descendente.
+II. O sinal de Blumberg é caracterizado por dor à descompressão brusca.
+III. A imagem hiperecogênica com reforço posterior sugere gás intraperitoneal.
+IV. O quadro clínico e achados apontam para abdome agudo inflamatório, provável apendicite.
+Está correto apenas o que se afirma em:
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 2 de 15
+
+Alternativas:
+(alternativa A)
+I e III.
+(alternativa B)
+I, II e III.
+(alternativa C) (CORRETA)
+II e IV.
+(alternativa D)
+III e IV.
+
+Resposta comentada:
+Gabarito:
+
+Apenas II e IV estão corretas.
+Justificativas
+I. INCORRETA: O sinal de Rovsing é positivo quando há dor em fossa ilíaca direita ao
+se comprimir o quadrante inferior esquerdo, sugerindo irritação peritoneal — não por
+distensão do cólon, mas por deslocamento do conteúdo intestinal que irrita o peritônio
+inflamado.
+II. CORRETA: O sinal de Blumberg indica dor à descompressão brusca da parede
+abdominal após palpação profunda, típico de peritonite.
+III. INCORRETA: Imagem hiperecogênica com reforço posterior em USG sugere
+presença de líquido espesso ou conteúdo purulento (abscesso), não gás. Gás aparece
+com artefato de reverberação ou sombra suja, e não reforço posterior.
+IV. CORRETA: O conjunto de sinais (febre, dor em FID, sinais de peritonite e imagem
+sugestiva no USG) é compatível com abdome agudo inflamatório, sendo apendicite
+aguda o diagnóstico mais provável em criança dessa faixa etária.
+Bibliografia:
+1. Silva Junior, J.R. Semiologia Médica. 9ª ed. Guanabara Koogan, 2022.
+2. Nelson. Tratado de Pediatria. 21ª ed. Elsevier, 2020.
+3. Pestana, J.O. Abdome Agudo de Causa Cirúrgica. 2ª ed. Atheneu, 2016.
+4. Guyton & Hall. Tratado de Fisiologia Médica. 14ª ed. Elsevier, 2021.
+5. Ministério da Saúde. Caderno de Atenção Básica: Saúde da Criança – crescimento e
+desenvolvimento. Brasília: MS, 2012.
+3ª QUESTÃO
+Enunciado:
+Menino de 5 anos, previamente hígido, é levado à consulta com história de edema facial matinal
+há 3 dias, que evoluiu para edema em membros inferiores. Ao exame físico: bom estado geral,
+pressão arterial normal, peso acima do habitual. Exames laboratoriais: proteinúria 4+, albumina
+sérica de 2,1 g/dL, colesterol total 320 mg/dL. Ureia: 30mg/dL e creatinina: 1,10mg/dL. Com base
+na fisiopatologia da síndrome nefrótica, marque a alternativa que apresenta a alteração laboratorial
+que é consequência direta da proteinúria persistente.
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 3 de 15
+
+Alternativas:
+(alternativa A)
+Aumento da ureia por insuficiência renal aguda.
+(alternativa B)
+Hipercalcemia por perda de albumina e cálcio ligado.
+(alternativa C) (CORRETA)
+Hiperlipidemia por estimulação hepática compensatória.
+(alternativa D)
+Hiperglicemia pela perda de insulina urinária.
+
+Resposta comentada:
+Gabarito: Hiperlipidemia por estimulação hepática compensatória.
+Justificativa da correta: Na síndrome nefrótica, há perda maciça de proteínas pela urina,
+principalmente albumina. Isso leva a hipoalbuminemia, redução da pressão oncótica e
+consequente edema. O fígado, ao tentar compensar a perda proteica, aumenta a síntese de
+proteínas plasmáticas, incluindo lipoproteínas, resultando em hiperlipidemia (colesterol e
+triglicerídeos elevados), achado clássico na síndrome nefrótica.
+Análise das incorretas:
+Errada: A ureia está normal. Na síndrome nefrótica simples (como na doença de lesões
+mínimas), não há insuficiência renal aguda. Aumento da ureia não decorre diretamente
+da proteinúria.
+Errada: A perda de proteínas pode afetar o cálcio ligado à albumina, mas não leva a
+hipercalcemia. Frequentemente ocorre hipocalcemia, não o oposto.
+DErrada: A insulina não é significativamente perdida na urina na síndrome nefrótica, e
+não há hiperglicemia decorrente dessa condição.
+Bibliografia:
+1. Goldman-Cecil. Tratado de Medicina Interna. 26ª ed. Elsevier, 2020.
+2. Nelson. Tratado de Pediatria. 21ª ed. Elsevier, 2020.
+3. Guyton & Hall. Tratado de Fisiologia Médica. 14ª ed. Elsevier, 2021.
+4. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas - Síndrome Nefrótica
+Primária na Infância. Brasília: MS, 2022.
+4ª QUESTÃO
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 4 de 15
+
+Enunciado:
+Paciente masculino, 35 anos, previamente saudável, procura atendimento por apresentar quadro
+de diarreia há 3 dias, com evacuações líquidas (cerca de 8 episódios por dia), associadas a
+cólicas abdominais, febre de até 38,5 °C e náuseas. Nega sangue ou muco nas fezes. Relata
+sensação de fraqueza e tontura ao se levantar. Ao exame físico: paciente consciente, porém
+hipocorado +/4+, com olhos fundos, boca seca, turgor diminuído e FC = 104 bpm, PA = 90/60
+mmHg, T = 37,9 °C, FR = 20 irpm.
+Considerando o caso, responda:
+a) Qual o provável diagnostico e a provável etiologia mais comum neste caso?
+b) Com base nos achados clínicos, classifique o quadro e o plano terapêutico mais adequado
+para este paciente.
+Alternativas:
+--
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 5 de 15
+
+Resposta comentada:
+Resposta Comentada:
+a)
+1. Tipo de diarreia e provável etiologia:
+O paciente apresenta diarreia aguda de provável origem infecciosa, mais especificamente
+uma diarreia do tipo secretora, com características de grande volume, ausência de sangue e
+início súbito. A etiologia mais comum nesse contexto é infecciosa, por enterotoxinas bacterianas
+(como Escherichia coli enterotoxigênica ou Vibrio cholerae) ou vírus (como norovírus ou
+rotavírus), com base na ingestão de alimentos contaminados.
+b)
+2. Classificação do grau de desidratação:
+Com base no quadro clínico (hipotensão, taquicardia, mucosas secas, turgor diminuído, sinais
+ortostáticos), o paciente apresenta desidratação grave.
+3. Plano terapêutico:
+Deve ser instituído o Plano C de reidratação (para desidratação grave), com hidratação venosa
+imediata, preferencialmente com soro fisiológico 0,9%.
+A recomendação inicial é administrar 30 mL/kg em 30 minutos, seguidos por 70 mL/kg
+em 2h30min, com reavaliação clínica contínua.
+Avaliar e corrigir distúrbios hidroeletrolíticos.
+Dieta leve deve ser retomada assim que possível.
+Em caso de febre persistente ou toxemia, considerar exames complementares e
+antibioticoterapia conforme suspeita etiológica.
+Notificar vigilância sanitária se houver surto ou suspeita de contaminação alimentar
+coletiva.
+Bibliografia:
+1. Ministério da Saúde. Manejo da diarreia aguda na Atenção Básica – Brasília, 2017.
+2. Guyton & Hall. Tratado de Fisiologia Médica. 14ª ed. Elsevier, 2021.
+3. Feldman M, Friedman LS, Brandt LJ. Sleisenger and Fordtran’s Gastrointestinal and
+Liver Disease. 11ª ed. Elsevier, 2020.
+4. UpToDate. Evaluation and management of acute diarrhea in adults. Acesso em
+2024.
+5ª QUESTÃO
+Enunciado:
+Menino de 5 anos é levado à consulta por apresentar distensão abdominal, dor à evacuação e
+episódios de escape fecal há mais de 3 meses. A mãe relata evacuações a cada 5 a 7 dias, com
+fezes endurecidas e muito esforço evacuatório. Ao exame, nota-se massa palpável em
+hipogástrio. Radiografia de abdome revela grande acúmulo fecal em cólon distal. Tendo em vista
+o apresentado, marque a alternativa que apresenta o diagnóstico mais provável.
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 6 de 15
+
+Alternativas:
+(alternativa A)
+Megacólon agangliônico.
+(alternativa B) (CORRETA)
+Constipação funcional.
+(alternativa C)
+Diarreia por transbordamento.
+(alternativa D)
+Doença celíaca atípica.
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 7 de 15
+
+Resposta comentada:
+Alternativa correta:Constipação funcional
+Justificativa:
+A constipação funcional é a causa mais comum de constipação crônica em crianças. O
+diagnóstico é clínico e baseia-se nos critérios de Roma IV, que incluem:
+Menos de 2 evacuações por semana;
+Fezes volumosas e endurecidas;
+Dor à evacuação;
+Comportamento de retenção (a criança evita evacuar);
+Escape fecal (encoprese);
+Palpação de massa abdominal compatível com fecaloma.
+No caso apresentado:
+O menino tem evacuações infrequentes, fezes endurecidas, dor à evacuação e
+episódios de escape fecal — todos sinais clássicos.
+O exame físico revela massa palpável em hipogástrio, sugerindo fecaloma.
+A radiografia de abdome mostra grande acúmulo fecal no cólon distal — achado
+comum e sugestivo.
+Doença celíaca atípica – ERRADA:
+Pode ter dor abdominal e constipação, mas geralmente cursa com anemia, alterações nutricionais
+e anticorpos positivos. Fecaloma e encoprese são incomuns.
+Megacólon agangliônico – ERRADA:
+Mais comum em recém-nascidos, com retardo na eliminação do mecônio. Em crianças maiores,
+exige suspeita clínica e confirmação com biópsia retal.
+Diarreia por transbordamento – ERRADA:
+Pode ocorrer como consequência da impactação fecal, mas não é diagnóstico primário. É uma
+complicação da constipação funcional, e não doença à parte.
+Bibliografia:
+1. Nelson Tratado de Pediatria. 21ª ed. Elsevier, 2020.
+2. Tabbers MM, Di Lorenzo C, Berger MY, et al. Evaluation and treatment of functional
+constipation in infants and children: ESPGHAN/NASPGHAN guidelines. J Pediatr
+Gastroenterol Nutr. 2014.
+3. Ministério da Saúde. Caderno de Atenção Básica: Saúde da Criança – Crescimento e
+Desenvolvimento. Brasília: MS, 2012.
+4. Hyams JS, et al. Rome IV criteria for functional gastrointestinal disorders in children and
+adolescents. Gastroenterology. 2016.
+6ª QUESTÃO
+Enunciado:
+Durante atendimento em Unidade de Saúde da Família, uma adolescente de 13 anos,
+acompanhada da mãe, relata dor vulvar intermitente há 3 semanas. A mãe comenta mudança de
+comportamento, com episódios de isolamento e recusa de ir à escola. Ao exame físico, observase hiperemia vulvar, fissura perianal e ausência de hímen em posição compatível com anel
+himenal íntegro esperado para a idade. A adolescente evita contato visual e chora durante a
+anamnese. Não há relato de queda ou trauma físico. Diante do quadro apresentado, marque a
+alternativa que apresenta a conduta mais adequada da equipe da APS.
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 8 de 15
+
+Alternativas:
+(alternativa A)
+Manter sigilo com base no Estatuto da Criança e do Adolescente e evitar notificação para proteger
+a paciente.
+(alternativa B) (CORRETA)
+Notificar o caso como suspeita de violência sexual, garantir acolhimento e acionar a rede de
+proteção.
+(alternativa C)
+Prescrever pomada antifúngica e solicitar retorno em 15 dias para reavaliação.
+(alternativa D)
+Registrar apenas como vulvite e encaminhar à ginecologia para avaliação especializada.
+
+Resposta comentada:
+Gabarito:
+Notificar o caso como suspeita de violência sexual, garantir acolhimento e acionar a rede de
+proteção.
+Justificativa da correta:
+A adolescente apresenta sinais físicos compatíveis com abuso sexual (fissura perianal, dor vulvar
+crônica, alterações himenais não esperadas) e alterações comportamentais sugestivas. A Lei
+8.069/90 (ECA) e a Portaria GM/MS nº 2.406/2005 estabelecem obrigatoriedade de notificação
+compulsória de suspeitas de violência sexual em menores de 18 anos, independente da
+confirmação. A APS deve acolher, notificar, proteger e articular com CRAS/CREAS, Conselho
+Tutelar e rede de apoio psicossocial.
+Erros nas demais alternativas:
+Errada: O sigilo não é absoluto em casos de suspeita de violência. A omissão da
+notificação fere o ECA e compromete a proteção da adolescente.
+Errada: Registrar como vulvite sem considerar os achados e o contexto negligencia
+sinais de violência. Encaminhar isoladamente não substitui a notificação.
+DErrada: Prescrever antifúngico sem investigar a fundo omite a causa real dos
+sintomas. A conduta é minimamente assistencial, mas inadequada frente à suspeita de
+abuso.
+Bibliografia:
+1. Ministério da Saúde. Linha de Cuidado para Atenção Integral à Saúde de Crianças,
+Adolescentes e suas Famílias em Situação de Violências: orientação para gestores e
+profissionais de saúde. Brasília: MS, 2010.
+2. Estatuto da Criança e do Adolescente – Lei nº 8.069/90.
+3. Sociedade Brasileira de Pediatria. Manual de Abordagem do Abuso Sexual na Infância
+e Adolescência. SBP, 2017.
+4. Ministério da Saúde. Caderno 33 - Saúde do Adolescente – Atenção Básica. Brasília:
+MS, 2013.
+5. Portaria GM/MS nº 2.406, de 5 de novembro de 2005. Dispõe sobre o atendimento
+integral a pessoas em situação de violência sexual.
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 9 de 15
+
+7ª QUESTÃO
+Enunciado:
+Um paciente de 72 anos, com histórico de hipertensão e diabetes, procura atendimento por
+quadro de dispneia aos mínimos esforços, ortopneia e edema em membros inferiores. Ao exame
+físico, apresenta turgência jugular, B3 audível e estertores crepitantes bibasais. Foi solicitado um
+RX de tórax (PA), reproduzida abaixo:
+
+Fishman EK, ed. Kerley B lines. In: Merck Manual Professional Edition, Merck & Co.; 2017.
+
+Com base nos dados clínicos e na imagem radiológica, assinale a alternativa que descreve o
+achado mais característico da insuficiência cardíaca congestiva neste paciente.
+Alternativas:
+(alternativa A)
+Desvio do mediastino para a direita e broncograma aéreo.
+(alternativa B)
+Hipertransparência pulmonar e rebaixamento das cúpulas diafragmáticas.
+(alternativa C) (CORRETA)
+Índice cárdio-torácico aumentado e redistribuição venosa para ápices.
+(alternativa D)
+Espessamento pleural bilateral e calcificações hilares.
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 10 de 15
+
+Resposta comentada:
+Alternativa correta:
+A alternativa descreve três alterações clássicas e características da insuficiência cardíaca
+congestiva (ICC) observadas na radiografia de tórax:
+Índice cárdio-torácico (ICT) aumentado (>0,5) → indica cardiomegalia.
+Linhas B de Kerley → indicam edema intersticial.
+Redistribuição do fluxo venoso para os ápices (cefalização) → ocorre na congestão
+venosa pulmonar.
+Análise das alternativas incorretas:
+Hipertransparência e rebaixamento diafragmático são típicos de doença pulmonar obstrutiva
+crônica (DPOC), não de ICC.
+Espessamento pleural e calcificações hilares sugerem doença pleural crônica ou granulomatosa
+(como tuberculose ou silicose), não ICC.
+Desvio de mediastino e broncograma aéreo ocorrem em atelectasias ou pneumonias extensas, e
+não são achados primários da ICC.
+Bibliografia:
+1. Felson B. Principles of Chest Roentgenology, 4ª edição. Elsevier, 2014.
+2. McKee PA et al. The natural history of congestive heart failure: the Framingham study.
+N Engl J Med. 1971.
+3. Guyton AC, Hall JE. Tratado de Fisiologia Médica, 14ª ed. Elsevier, 2021.
+8ª QUESTÃO
+Enunciado:
+Maria, 36 anos, G4P2A1, comparece à Unidade de Saúde da Família para a primeira consulta de
+pré-natal, relatando atraso menstrual de 7 semanas e teste de farmácia positivo. Refere história
+de hipertensão crônica e uso irregular de captopril. Apresenta IMC de 34 kg/m². Ao exame: PA =
+150x100 mmHg. Relata perda gestacional com 10 semanas há dois anos. A equipe confirma a
+gestação por teste rápido. Com base na abordagem da APS e nos critérios da Caderneta da
+Gestante e do Manual de Gestação de Alto Risco, marque a alternativa que apresenta a conduta
+mais adequada.
+Alternativas:
+(alternativa A) (CORRETA)
+Encaminhar ao pré-natal de alto risco e iniciar acompanhamento compartilhado com a ESF
+(alternativa B)
+Iniciar imediatamente ácido fólico e agendar retorno com 30 dias.
+(alternativa C)
+Confirmar gestação, iniciar pré-natal de risco habitual e monitorar PA.
+(alternativa D)
+Encaminhar ao ginecologista e suspender o pré-natal na APS.
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 11 de 15
+
+Resposta comentada:
+resposta correta
+Encaminhar ao pré-natal de alto risco e iniciar acompanhamento compartilhado com a ESF.
+Justificativa da correta: Maria apresenta múltiplos critérios de alto risco: hipertensão crônica,
+obesidade grau I, idade ≥ 35 anos e antecedente de perda gestacional. De acordo com a
+Caderneta da Gestante e o Manual Técnico de Gestação de Alto Risco do Ministério da Saúde,
+essas condições exigem acompanhamento conjunto da APS com a atenção especializada. A
+Unidade de Saúde da Família continua responsável pelo cuidado longitudinal (imunizações,
+exames básicos, orientações educativas), enquanto o ambulatório de alto risco acompanha os
+aspectos clínicos específicos.
+Análise das alternativas incorretas:
+Errada: Embora iniciar ácido fólico seja correto, não é suficiente diante de uma gestante
+com vários fatores de risco. A conduta é incompleta e negligencia a necessidade de
+atenção especializada.
+Errada: O monitoramento exclusivo pela ESF não é indicado em pacientes com
+comorbidades como hipertensão crônica e histórico de perda gestacional. Trata-se de
+gestação de alto risco.
+DErrada: O pré-natal não deve ser suspenso na APS. A APS realiza acompanhamento
+compartilhado, promovendo o vínculo com a gestante e o cuidado integral.
+Bibliografia:
+1. Ministério da Saúde. Caderneta da Gestante. Brasília: MS, 2023. Disponível em:
+https://www.gov.br/saude/pt-br/assuntos/gestante
+2. Ministério da Saúde. Manual Técnico de Gestação de Alto Risco. 5ª ed. Brasília: MS,
+2022.
+3. FEBRASGO. Protocolo de Assistência Pré-Natal – Série Orientações e
+Recomendações FEBRASGO nº 03, 2018.
+4. Organização Pan-Americana da Saúde (OPAS). Atenção ao Pré-Natal na Atenção
+Primária à Saúde. 2021.
+9ª QUESTÃO
+Enunciado:
+Paciente, 15 anos, comparece sozinha à Unidade Básica de Saúde para confirmar uma gravidez.
+Relata atraso menstrual há 10 semanas e teste positivo de farmácia. Ao confirmar a gestação
+com teste rápido, a paciente solicita sigilo, afirmando que não deseja contar aos pais e sinaliza
+desejo de interromper a gravidez por meios próprios. Ela não relata situação de violência. Diante
+desse cenário, marque a alternativa que apresenta a conduta médica mais adequada.
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 12 de 15
+
+Alternativas:
+(alternativa A)
+Informar os pais imediatamente e comunicar o Conselho Tutelar por se tratar de menor de idade.
+(alternativa B)
+Manter o sigilo absoluto, pois a adolescente tem direito ao atendimento sem notificação.
+(alternativa C) (CORRETA)
+Acolher, avaliar riscos e orientar que o aborto legal só é permitido em casos específicos,
+mantendo sigilo até onde não implique risco.
+(alternativa D)
+Encaminhar diretamente ao serviço de aborto legal por solicitação espontânea da adolescente.
+
+Resposta comentada:
+Gabarito: Acolher, avaliar riscos e orientar que o aborto legal só é permitido em casos
+específicos, mantendo sigilo até onde não implique risco.
+Justificativa da correta
+O atendimento à adolescente deve respeitar sua autonomia progressiva e o direito ao sigilo,
+conforme o Estatuto da Criança e do Adolescente (ECA) e normas do Ministério da Saúde. No
+entanto, o sigilo pode ser relativizado se houver risco de vida ou intenção de provocar aborto
+inseguro, como sinalizado. A abordagem exige escuta qualificada, orientação clara sobre a
+legislação do aborto no Brasil (permitido em caso de estupro, risco de vida da gestante ou
+anencefalia fetal), e possível articulação com equipe multidisciplinar e rede de proteção.
+Análise das alternativas incorretas:
+Errada: Embora o sigilo seja protegido, não é absoluto. O risco iminente à saúde ou à
+vida da adolescente permite sua quebra justificada para proteção.
+Errada: A comunicação imediata e obrigatória aos pais não é exigida por lei em todas
+as situações. Isso pode afastar a adolescente e inviabilizar o cuidado. A atuação deve
+ser orientada pelo risco e não pela idade isoladamente.
+DErrada: A solicitação espontânea de aborto não configura por si só um direito ao
+aborto legal no Brasil. É preciso que o caso se enquadre nos critérios legais.
+Bibliografia:
+1. Ministério da Saúde. Atenção à Saúde de Adolescentes e Jovens na Atenção Básica.
+Brasília: MS, 2018.
+2. Estatuto da Criança e do Adolescente – ECA (Lei nº 8.069/1990).
+3. Código de Ética Médica – CFM. Resolução CFM nº 2.217/2018.
+4. Lei nº 12.845/2013. Dispõe sobre o atendimento obrigatório e integral de pessoas em
+situação de violência sexual.
+5. Ministério da Saúde. Normas Técnicas para Prevenção e Tratamento dos Agravos
+Resultantes da Violência Sexual contra Mulheres e Adolescentes. 2012.
+10ª QUESTÃO
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 13 de 15
+
+Enunciado:
+Uma paciente de 25 anos, G1P0A0, comparece à unidade de saúde para sua primeira consulta
+de pré-natal. Relata atraso menstrual de cerca de 9 semanas, com teste de gravidez de farmácia
+positivo. Refere-se como saudável, nega uso de medicações contínuas ou doenças crônicas.
+Não é tabagista, não faz uso de álcool ou drogas ilícitas. Sinais vitais: PA 110/70 mmHg, FC 82
+bpm, IMC 23 kg/m². Exame físico sem alterações. Traz cartão do SUS e relata disponibilidade
+para comparecer às consultas regulares.
+Descreva os principais passos e condutas da primeira consulta de pré-natal no primeiro trimestre
+para uma gestação de baixo risco, incluindo orientações, exames iniciais e registro adequado do
+acompanhamento.
+
+Alternativas:
+-Resposta comentada:
+A primeira consulta de pré-natal no primeiro trimestre é fundamental para estabelecer o
+vínculo com a gestante, identificar fatores de risco e iniciar o acompanhamento adequado da
+gestação. Em casos de gestação de baixo risco, os seguintes passos e condutas devem ser
+seguidos:
+1. Acolhimento e escuta ativa
+Criar vínculo com a gestante, esclarecendo dúvidas e acolhendo expectativas.
+Garantir privacidade e confidencialidade.
+2. História clínica completa
+Anamnese obstétrica (Gestações anteriores, partos, abortos).
+História ginecológica, clínica, medicamentosa, vacinal, social e familiar.
+Identificação de fatores de risco ou vulnerabilidades.
+3. Exame físico geral e obstétrico
+Verificar peso, altura, calcular IMC.
+Verificar sinais vitais (PA, FC).
+Palpação abdominal (mesmo que útero ainda não palpável).
+Exame das mamas e inspeção perineal se indicado.
+4. Solicitação de exames laboratoriais iniciais:
+Hemograma completo.
+Tipagem sanguínea e fator Rh.
+Teste de Coombs indireto (se Rh negativo).
+Glicemia de jejum.
+Urina tipo I e urocultura.
+VDRL (sífilis).
+HIV, HBsAg, anti-HCV.
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 14 de 15
+
+Sorologias para toxoplasmose e rubéola (IgG e IgM).
+Citopatológico (se não atualizado no último ano).
+Ultrassonografia obstétrica precoce (preferencialmente até 12 semanas) para datar a
+gestação e avaliar viabilidade fetal.
+5. Atualização vacinal
+Verificar e administrar vacinas recomendadas: dT (dupla adulto), dTpa (idealmente
+entre 27-36 semanas), hepatite B e influenza (sazonal).
+6. Prescrição de suplementações:
+Ácido fólico (0,4 mg/dia) até 12 semanas.
+Sulfato ferroso (a partir da 20ª semana, ou antes se anemia).
+7. Orientações gerais:
+Importância do acompanhamento pré-natal regular.
+Alimentação saudável e cuidados com higiene.
+Atividade física segura.
+Sinais de alerta (sangramentos, dor intensa, febre).
+Direitos da gestante e planejamento do parto.
+Agendar retorno em até 30 dias ou conforme necessidade.
+8. Registro e planejamento
+Preencher a caderneta da gestante.
+Agendar próximas consultas.
+Registrar em prontuário (papel ou eletrônico).
+Objetivo pedagógico:
+Capacitar o estudante a reconhecer e executar os passos fundamentais da primeira consulta de
+pré-natal no primeiro trimestre, segundo os protocolos de baixo risco, com enfoque na
+integralidade e continuidade do cuidado.
+Bibliografia:
+1. Ministério da Saúde. Caderno de Atenção Básica nº 32 – Atenção ao Pré-natal de
+Baixo Risco. Brasília: MS, 2012.
+2. Ministério da Saúde. Rede Cegonha – Linha de cuidado para a atenção integral à
+saúde de mulheres e crianças. Brasília: MS, 2011.
+3. Federação Brasileira das Associações de Ginecologia e Obstetrícia (FEBRASGO).
+Manual de assistência pré-natal.
+4. UpToDate. Prenatal care: Initial assessment. Acesso em 2024.
+
+000165.34001f.91d9c8.bcb278.0d0519.0731a9.3535be.ca0a8
+
+Pgina 15 de 15
+
+

@@ -1,0 +1,810 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas VII
+Professor (es):
+
+Período: 202601
+
+Turma:
+
+Data: 09/04/2026
+
+N1 ESPECÍFICA - MEDICINA - HAM VII - 2026.1 1ª CHAMADA - 09/ABRIL
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19241 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA MARABÁ) Escolar, de 5 anos, feminino, é levado ao pronto-socorro infantil
+com quadro de dispneia intensa, taquicardia, extremidades frias, pulsos filiformes,
+pressão arterial reduzida e rebaixamento progressivo do nível de consciência. Sem
+história de perdas volêmicas recentes ou infecções sistêmicas. Ao exame físico,
+observa-se presença de estertores crepitantes em bases pulmonares e
+hepatomegalia dolorosa à palpação. Os exames laboratoriais iniciais revelam
+acidose metabólica e elevação do lactato sérico.
+
+acervo.vip
+
+Qual é a conduta inicial apropriada segundo as diretrizes do (PALS) Pediatric
+Advanced Life Support?
+Alternativas:
+(alternativa A)
+Iniciar antibioticoterapia de amplo espectro, considerando o risco de sepse como
+principal fator causal do quadro.
+(alternativa B)
+Prescrever vasodilatadores de ação imediata visando redução da pós-carga e
+melhora do débito cardíaco.
+(alternativa C) (CORRETA)
+Administrar agente inotrópico como adrenalina associado a suporte ventilatório e
+correção de distúrbios metabólicos.
+(alternativa D)
+Iniciar reposição volêmica com cristaloides em bolus de grande volume, visando
+normalizar a perfusão tecidual.
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 1 de 18
+
+Resposta comentada:
+Justificativas das alternativas:
+Iniciar reposição volêmica com cristaloides em bolus de grande volume, visando
+normalizar a perfusão tecidual. Incorreta: A infusão rápida de grandes volumes de
+cristaloide pode agravar a congestão pulmonar no choque cardiogênico. Deve-se
+ser cauteloso com a reposição volêmica, já que o problema é a falência de bomba,
+não a depleção volêmica 1 .
+Administrar agente inotrópico como adrenalina associado a suporte ventilatório e
+correção de distúrbios metabólicos. Correta: A dobutamina não deve ser indicada
+em caso de choque cardiogênico com hipotensão, o inotrópico indicado em casos
+de choque cardiogênico com hipotensão. Deve ser administrada precocemente,
+associada ao suporte respiratório e correção de distúrbios como acidose e
+hipoxemia 1,2 .
+Iniciar antibioticoterapia de amplo espectro, considerando o risco de sepse como
+principal fator causal do quadro. Incorreta: Embora o choque séptico também possa
+cursar com sinais semelhantes, o quadro clínico com estertores, hepatomegalia e
+sinais de congestão é mais compatível com choque cardiogênico, sendo a
+antibioticoterapia importante, mas não a conduta prioritária nesse cenário 3 .
+Prescrever vasodilatadores de ação imediata visando redução da pós-carga e
+melhora do débito cardíaco. Incorreta: Vasodilatadores podem reduzir a pós-carga e
+ajudar na performance cardíaca, porém não são indicados na abordagem inicial do
+choque cardiogênico grave com hipotensão, sob risco de piora do débito cardíaco e
+perfusão tecidual 1 .
+Referência:
+AMERICAN HEART ASSOCIATION. Pediatric Advanced Life Support: Provider Manual.
+2020.
+BRASIL. Ministério da Saúde. Diretrizes de Suporte Avançado de Vida em Pediatria.
+Brasília: MS, 2022.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+( BANCO AFYA) Uma criança de 8 anos, previamente hígida, encontra-se internada
+em unidade de terapia intensiva por pneumonia grave, evoluindo com insuficiência
+respiratória e necessidade de ventilação mecânica invasiva. Após 24 horas de
+suporte ventilatório, apresenta piora súbita da saturação de oxigênio, queda da
+pressão arterial e aumento da frequência cardíaca. Ao exame físico, observa-se
+assimetria da expansibilidade torácica, redução do murmúrio vesicular à direita e
+timpanismo à percussão no mesmo hemitórax.
+Com base no quadro clínico e nas complicações associadas à ventilação mecânica,
+assinale a alternativa correta:
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 2 de 18
+
+Alternativas:
+(alternativa A)
+o quadro indica insuficiência respiratória leve, com estabilidade hemodinâmica,
+devendo-se manter os parâmetros ventilatórios e observar evolução clínica.
+(alternativa B) (CORRETA)
+o quadro é compatível com pneumotórax secundário ao barotrauma, devendo-se
+realizar descompressão imediata e ajuste dos parâmetros ventilatórios.
+(alternativa C)
+o quadro é compatível com atelectasia pulmonar, caracterizada por macicez à
+percussão e instalação progressiva, devendo-se intensificar fisioterapia respiratória.
+(alternativa D)
+o quadro sugere pneumonia associada à ventilação mecânica, com evolução
+progressiva, febre persistente e secreção purulenta, sendo indicada ampliação da
+antibioticoterapia.
+
+Resposta comentada:
+INCORRETA
+Atelectasia pulmonar
+A atelectasia é uma complicação possível da ventilação mecânica, geralmente
+associada a:
+hipoventilação alveolar
+acúmulo de secreções
+redução da complacência pulmonar
+Do ponto de vista semiológico, caracteriza-se por:
+macicez à percussão
+redução do murmúrio vesicular
+instalação progressiva
+No entanto, o quadro descrito apresenta:
+timpanismo à percussão
+piora súbita
+instabilidade hemodinâmica
+Esses achados são incompatíveis com atelectasia. Portanto, apesar de plausível
+como complicação, não explica o quadro clínico apresentado, tornando a alternativa
+incorreta.
+INCORRETA
+Pneumonia associada à ventilação mecânica (PAV)
+A PAV é uma complicação frequente da ventilação mecânica, caracterizada por:
+evolução progressiva
+febre persistente
+secreção purulenta
+piora gradual da oxigenação
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 3 de 18
+
+Entretanto, o caso descreve:
+piora abrupta
+instabilidade hemodinâmica
+assimetria pulmonar
+timpanismo
+Esses achados não são compatíveis com infecção pulmonar progressiva. Logo,
+embora a PAV seja uma complicação real da ventilação mecânica, não corresponde
+ao mecanismo fisiopatológico do quadro descrito.
+CORRETA
+Pneumotórax por barotrauma
+O pneumotórax é uma complicação clássica da ventilação mecânica, especialmente
+em pulmões inflamados, como na pneumonia.
+Fisiopatologia:
+aumento da pressão alveolar
+ruptura de alvéolos
+escape de ar para o espaço pleural
+Manifestações típicas:
+piora súbita da oxigenação
+timpanismo à percussão
+redução unilateral do murmúrio vesicular
+assimetria torácica
+instabilidade hemodinâmica
+O conjunto de achados descritos no caso é altamente sugestivo de pneumotórax
+hipertensivo, situação que exige descompressão imediata.
+INCORRETA
+Insuficiência respiratória leve
+A insuficiência respiratória leve caracteriza-se por:
+estabilidade hemodinâmica
+ausência de sinais de choque
+alterações respiratórias sem comprometimento sistêmico grave
+No caso apresentado, há:
+hipotensão
+taquicardia
+piora súbita
+sinais de comprometimento ventilatório grave
+Esses elementos indicam insuficiência respiratória grave associada a instabilidade
+hemodinâmica, incompatível com a alternativa proposta.
+Referências
+American Heart Association. Pediatric Advanced Life Support (PALS) Provider
+Manual. 2020.
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 4 de 18
+
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Departamento Científico de Terapia
+Intensiva. Diretrizes para ventilação mecânica em pediatria. Rio de Janeiro:
+SBP, 2022.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(AFYA PORTO VELHO) Criança de 2 anos é levada ao Pronto Atendimento com febre
+há três dias, tosse produtiva e cansaço progressivo. Na avaliação pelo Triângulo de
+Avaliação Pediátrica, apresenta aparência ansiosa, retrações intercostais e palidez
+discreta. Na avaliação primária, observa-se: frequência respiratória: 48 irpm;
+estertores finos em base pulmonar direita; saturação de oxigênio: 84% em ar
+ambiente; frequência cardíaca: 160 bpm. A criança mantém respiração espontânea
+e responsividade ao estímulo, com hipoxemia grave.
+De acordo com as recomendações do (PALS) Pediatric Advanced Life Support, qual é
+a forma adequada de oferta inicial de oxigênio suplementar neste cenário?
+Alternativas:
+(alternativa A)
+Ofertar oxigênio por cateter nasal de baixo fluxo (1 a 2 L/min), mantendo
+monitorização clínica contínua e reavaliação da saturação periférica de oxigênio
+após estabilização inicial da criança com respiração espontânea preservada.
+(alternativa B) (CORRETA)
+Administrar oxigênio por máscara com reservatório e fluxo elevado, visando rápida
+correção da hipoxemia em criança com respiração espontânea e sinais clínicos de
+desconforto respiratório durante a avaliação inicial.
+(alternativa C)
+Iniciar oxigênio suplementar por máscara facial simples com fluxo entre 5 e 10
+L/min, buscando melhora progressiva da saturação periférica e monitorando sinais
+clínicos de esforço respiratório durante a avaliação clínica.
+(alternativa D)
+Indicar intubação orotraqueal imediata e ventilação mecânica invasiva, pois toda
+criança que apresentar saturação inferior a 90% necessita de uma via aérea
+avançada devido ao quadro de obstrução de via aérea inferior.
+
+Resposta comentada:
+Alternativa incorreta: Iniciar oxigênio suplementar por máscara facial simples com
+fluxo entre 5 e 10 L/min, buscando melhora progressiva da saturação periférica e
+monitorando sinais clínicos de esforço respiratório durante a avaliação clínica.
+Esta alternativa não é a mais adequada para o caso clínico apresentado, embora
+represente uma forma válida de oferta de oxigênio em situações de hipoxemia leve
+a moderada. A máscara facial simples, com fluxo de aproximadamente 5 a 10
+L/min, fornece uma fração inspirada de oxigênio (FiO₂) aproximada de 40% a 60%,
+sendo utilizada em pacientes que necessitam de suplementação de oxigênio acima
+do cateter nasal, mas que não apresentam hipoxemia grave.
+Entretanto, no caso descrito, a criança apresenta:
+saturação periférica de oxigênio de 84% em ar ambiente;
+taquipneia (48 irpm);
+retrações intercostais;
+sinais clínicos de insuficiência respiratória hipoxêmica.
+De acordo com as diretrizes do PALS/SAVP (2020), nesses casos recomenda-se
+oferta inicial de oxigênio em alta concentração, preferencialmente por máscara
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 5 de 18
+
+com reservatório (não reinalante), capaz de fornecer FiO₂ próxima de 90–100%,
+permitindo correção mais rápida da hipoxemia.
+Portanto, embora a máscara simples seja uma forma de suplementação de
+oxigênio, ela não fornece a concentração de oxigênio mais adequada para uma
+criança com hipoxemia significativa, motivo pelo qual essa alternativa não
+representa a melhor conduta inicial.
+Correta: Administrar oxigênio por máscara com reservatório e fluxo elevado,
+visando rápida correção da hipoxemia em criança com respiração espontânea e
+sinais clínicos de desconforto respiratório durante a avaliação inicial.
+Justificativa da alternativa correta:
+A criança apresenta quadro clínico compatível com insuficiência respiratória
+hipoxêmica, caracterizado por:
+taquipneia (frequência respiratória de 48 irpm para idade);
+retrações intercostais, indicando aumento do trabalho respiratório;
+saturação de oxigênio de 84% em ar ambiente, evidenciando hipoxemia
+significativa;
+estertores finos em base pulmonar direita, sugerindo comprometimento do
+parênquima pulmonar, possivelmente por pneumonia.
+Segundo as recomendações do PALS/SAVP (2020), em crianças com respiração
+espontânea e hipoxemia importante, a estratégia inicial deve ser a oferta de
+oxigênio em alta concentração, utilizando dispositivos capazes de fornecer maior
+fração inspirada de oxigênio (FiO₂).
+A máscara com reservatório (máscara não reinalante), com fluxo elevado
+(geralmente 10 a 15 L/min), permite oferecer FiO₂ próxima de 90–100%,
+proporcionando correção mais rápida da hipoxemia e redução do risco de
+deterioração clínica.
+Essa conduta é indicada quando:
+a criança mantém respiração espontânea,
+há sinais de insuficiência respiratória,
+e existe hipoxemia significativa.
+Portanto, a administração de oxigênio por máscara com reservatório representa a
+forma mais adequada de suporte inicial, enquanto se procede à monitorização
+clínica contínua e avaliação da necessidade de outras intervenções respiratórias ou
+terapêuticas.
+Alternativa incorreta: Indicar intubação orotraqueal imediata e ventilação mecânica
+invasiva, pois toda criança que apresentar saturação inferior a 90% necessita de
+uma via aérea avançada devido ao quadro de obstrução de via aérea inferior.
+A intubação orotraqueal é indicada quando há falha na oxigenação/ventilação com
+medidas menos invasivas ou deterioração clínica. Saturação < 90% isoladamente
+não determina intubação imediata, especialmente na presença de ventilação
+espontânea eficaz. Diagnóstico também incorreto, pois, para aventar doença de
+obstrução de via aérea inferior, precisa de relato de sibilância e alteração de tempo
+expiratório.
+Alternativa incorreta: Ofertar oxigênio por cateter nasal de baixo fluxo (1 a 2 L/min),
+mantendo monitorização clínica contínua e reavaliação da saturação periférica de
+oxigênio após estabilização inicial da criança com respiração espontânea
+preservada.
+O cateter nasal de baixo fluxo pode ser insuficiente diante de hipoxemia
+significativa (SpO₂ 84%) e sinais de gravidade, como o de choque. O PALS
+recomenda escalonamento apropriado do suporte de oxigênio conforme a
+gravidade.
+Referência:
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 6 de 18
+
+American Heart Association. Suporte Avançado de Vida em Pediatria – Manual do
+Profissional (PALS/SAVP 2020). 2021.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA PORTO VELHO) Criança de 5 anos é levada ao pronto atendimento com
+história de febre há 2 horas. Relata ainda muitos episódios de diarreia e vômitos de
+início há 48 horas. À avaliação inicial, apresenta palidez, letargia e frequência
+respiratória (FR) aumentada. Durante avaliação primária, apresenta frequência
+respiratória de 48 irpm, ausculta pulmonar com entrada de murmúrio vesicular e
+sem ruídos adventícios audíveis, saturação de 94%. Frequência cardíaca (FC) 168
+bpm, PA 75 x 65 mmHg (pressão de pulso 10 mmHg), extremidades frias, pulsos
+periféricos finos, tempo de enchimento capilar de 4 segundos, fígado não palpável
+abaixo do rebordo costal.
+Com base nas diretrizes do (PALS) Pediatric Advanced Life Support Provider,
+assinale a alternativa que apresenta o diagnóstico provável e a conduta inicial
+adequada, incluindo as metas do tratamento.
+Alternativas:
+(alternativa A)
+Choque séptico: iniciar antibiótico empírico e vasodilatador, visando redução da
+resistência vascular sistêmica como meta principal e expansão volêmica com 20
+ml/kg de solução cristalóide.
+(alternativa B)
+Choque obstrutivo: realizar intubação imediata e iniciar drogas vasoativas antes de
+expansão volêmica, priorizando saturação maior que 94% como meta, além de
+resolver causa base do choque.
+(alternativa C) (CORRETA)
+Choque hipovolêmico: administrar bolus rápido de cristalóide isotônico 20 mL/kg,
+reavaliar perfusão e repetir se necessário, visando normalizar FC, enchimento
+capilar e estado mental.
+(alternativa D)
+Choque cardiogênico: iniciar expansão hídrica com 10 ml/kg de Ringer lactato,
+administrar diurético intravenoso e manter a pressão arterial normal como meta
+terapêutica imediata.
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 7 de 18
+
+Resposta comentada:
+Choque cardiogênico: iniciar expansão hídrica com 10 ml/kg de Ringer lactato,
+administrar diurético intravenoso e manter a pressão arterial normal como única
+meta terapêutica imediata. Incorreta.
+O quadro clínico não sugere choque cardiogênico (ausência de estertores,
+hepatomegalia ou sinais de congestão). Além disso, diuréticos e restrição hídrica
+são contraindicados no choque hipovolêmico, no qual há déficit de volume
+intravascular.
+Choque séptico: iniciar antibiótico empírico e vasodilatador, visando redução da
+resistência vascular sistêmica como meta principal e expansão volêmica com 20
+ml/kg de solução cristalóide. Incorreta.
+Choque distributivo (como séptico) pode cursar com pressão de pulso normal ou
+alargada, diferente do que é apontado. A história de perdas gastrointestinais
+importantes sugere hipovolemia. Vasodilatadores não fazem parte do manejo inicial
+do choque hipovolêmico.
+Choque hipovolêmico: administrar bolus rápido de cristalóide isotônico 20 mL/kg,
+reavaliar perfusão e repetir se necessário, visando normalizar FC, enchimento
+capilar e estado mental. Correta.
+A história de perdas hídricas, taquicardia, enchimento capilar prolongado e pulsos
+finos indicam choque hipovolêmico. Segundo o PALS 2020, a conduta inicial é
+expansão volêmica rápida com cristalóide isotônico (20 mL/kg em bolus), com
+reavaliação frequente. As metas incluem melhora da perfusão periférica,
+normalização da frequência cardíaca, do estado mental e da pressão arterial
+adequada para a idade.
+Choque obstrutivo: realizar intubação imediata e iniciar drogas vasoativas antes de
+expansão volêmica, priorizando saturação maior que 94% como meta. Além de
+resolver a causa base do choque. Incorreta.
+Choque obstrutivo está associado a causas como tamponamento cardíaco ou
+pneumotórax hipertensivo, não compatíveis com o caso. A prioridade no choque
+hipovolêmico é reposição volêmica, não intubação imediata ou uso precoce isolado
+de drogas vasoativas.
+Referência:
+American Heart Association. Suporte Avançado de Vida em Pediatria – Manual do
+Profissional (PALS/SAVP 2020).
+Parte 4 – Abordagem sistemática da criança gravemente enferma;
+Parte 9 – Identificação do choque;
+Parte 10 – Tratamento do choque.
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) Um menino de 7 anos no quinto dia de internação por uma
+pneumonia estafilocócica, em uso de antibioticoterapia, com melhora da curva
+térmica e da aceitação de dieta. A radiografia de tórax de entrada evidenciou
+hipotransparência de terço médio esquerdo e presença de pneumatocele. Evoluiu
+com dor torácica súbita e intensa, acompanhada de dispneia progressiva, tosse
+seca e queda da saturação. No exame, o paciente encontrava-se ansioso,
+taquipneico (FR 40 irpm), com tiragem intercostal, saturação de O₂ 85% em ar
+ambiente, frequência cardíaca de 160 bpm e pressão arterial adequada para idade
+e altura. Expansibilidade torácica reduzida à esquerda, diminuição significativa do
+murmúrio vesicular em hemitórax esquerdo, com hipertimpanismo à esquerda.
+Ausculta cardíaca: bulhas normofonéticas sem sopros. Ausência de hepatomegalia.
+Considerando o quadro clínico descrito, qual o tipo de choque mais provável neste
+paciente?
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 8 de 18
+
+Alternativas:
+(alternativa A)
+Obstrutivo por derrame pericárdico.
+(alternativa B)
+Cardiogênico por resposta inflamatória sistêmica.
+(alternativa C) (CORRETA)
+Obstrutivo por pneumotórax hipertensivo.
+(alternativa D)
+Distributivo em fase inicial de sepse.
+
+Resposta comentada:
+Correta:
+- Obstrutivo por pneumotórax hipertensivo.
+O pneumotórax hipertensivo é uma emergência médica caracterizada pelo acúmulo
+progressivo de ar no espaço pleural sob pressão, levando à compressão pulmonar e
+deslocamento de estruturas mediastinais.
+No caso descrito, há múltiplos elementos clássicos:
+início súbito dos sintomas;
+história prévia de pneumatocele (fator de risco para ruptura);
+hipertimpanismo à percussão;
+redução do murmúrio vesicular unilateral;
+assimetria da expansibilidade torácica;
+hipoxemia significativa.
+Fisiopatologicamente, o aumento da pressão intratorácica compromete o retorno
+venoso ao coração, podendo evoluir para choque obstrutivo, mesmo que a pressão
+arterial ainda esteja preservada nas fases iniciais.
+Portanto, o diagnóstico mais provável é pneumotórax hipertensivo com repercussão
+hemodinâmica.
+Incorreta:
+- Cardiogênico por resposta inflamatória sistêmica.
+O choque cardiogênico está relacionado à falência da bomba cardíaca, podendo
+ocorrer em situações como miocardite, cardiopatias estruturais ou isquemia
+miocárdica.
+Os achados esperados incluem:
+congestão pulmonar (estertores difusos);
+hepatomegalia;
+sinais de baixo débito cardíaco.
+No caso apresentado:
+não há sinais de congestão sistêmica significativa;
+ausência de hepatomegalia;
+bulhas cardíacas normais;
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 9 de 18
+
+presença de assimetria pulmonar com hipertimpanismo, o que não se explica por
+cardiogênico.
+Portanto, essa alternativa não é compatível com o quadro clínico.
+Incorreta:
+- Distributivo em fase inicial de sepse.
+O choque distributivo séptico é caracterizado por vasodilatação periférica e
+alteração da perfusão, geralmente com:
+febre persistente;
+sinais sistêmicos de infecção;
+evolução mais gradual.
+Além disso, não justificaria:
+dor torácica súbita;
+assimetria pulmonar;
+hipertimpanismo unilateral.
+Apesar do paciente estar em contexto infeccioso, o quadro atual é de evento agudo
+respiratório, não de descompensação séptica.
+Incorreta:
+- Obstrutivo por derrame pericárdico.
+O choque obstrutivo por derrame pericárdico (tamponamento cardíaco) cursa com:
+turgência jugular;
+bulhas cardíacas abafadas;
+hipotensão progressiva;
+pulso paradoxal.
+No caso descrito:
+bulhas cardíacas são normofonéticas;
+não há sinais de congestão venosa;
+há achados pulmonares unilaterais típicos.
+Além disso, o tamponamento não explica o hipertimpanismo torácico, que é
+característico de pneumotórax.
+Referências:
+SOCIEDADE BRASILEIRA DE PEDIATRIA. Tratado de pediatria. 6.ª ed. Barueri:
+Manole, 2024. E-book. P. Capa ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso
+em: 27 mar. 2026.
+AMERICAN HEART ASSOCIATION. SAVP: Suporte avançado de vida em pediatria:
+manual do profissional. Texas, EUA: Orora Visual, 2020. 330 p. ISBN 978-1-61669957-4.
+Feedback:
+-6ª QUESTÃO
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 10 de 18
+
+Enunciado:
+(AFYA PALMAS) Criança de 7 anos, previamente hígida, é levada ao Pronto
+Atendimento com história de febre alta há 3 dias, tosse produtiva e piora
+progressiva do padrão respiratório nas últimas 12 horas. Ao exame físico: FR: 42
+irpm, FC: 138 bpm, saturação: 86% em ar ambiente, uso de musculatura acessória,
+tiragem intercostal, gemência expiratória, ausculta: estertores crepitantes difusos,
+estado mental: sonolenta, responsiva ao chamado. Após oferta de oxigênio por
+máscara com reservatório a 10 L/min, a saturação mantém-se em 88%. Gasometria
+arterial evidencia:
+pH: 7,28 (7,35 - 7,45);
+PaCO₂: 58 mmHg (35 - 45 mmHg);
+PaO₂: 52 mmHg (80 - 100 mmHg);
+HCO₃⁻: 26 mEq/L (22-26 mEq/L);
+Observa-se piora progressiva da sonolência.
+Considerando o quadro clínico apresentado e os princípios básicos da ventilação
+mecânica pediátrica descritos no (PALS) Pediatric Advanced Life Support Provider,
+qual estratégia ventilatória definitiva deve ser instituída neste momento?
+Alternativas:
+(alternativa A)
+Iniciar ventilação assistida com bolsa-válvula-máscara, garantindo adequada
+vedação da máscara e ventilação eficaz, mantendo o paciente sob monitorização
+contínua.
+(alternativa B)
+Iniciar ventilação não invasiva com pressão positiva contínua em máscara facial,
+com ajuste progressivo de pressão.
+(alternativa C)
+Manter a oferta de oxigênio por meio de máscara com reservatório, ajustando e
+otimizando o fluxo administrado conforme a necessidade clínica do paciente.
+(alternativa D) (CORRETA)
+Proceder à intubação orotraqueal e iniciar ventilação mecânica invasiva com
+parâmetros protetores ajustados ao peso.
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 11 de 18
+
+Resposta comentada:
+Correta:
+O quadro demonstra insuficiência respiratória hipoxêmica associada à retenção de
+CO₂ e rebaixamento do sensório. A intubação orotraqueal com ventilação mecânica
+invasiva e estratégia protetora ajustada ao peso segue os princípios atuais
+recomendados no PALS.
+Incorretas:
+A ventilação não invasiva é indicada em insuficiência respiratória com estabilidade
+neurológica. A presença de hipercapnia, acidose e piora do nível de consciência
+indica falência ventilatória iminente, o que demanda via aérea definitiva.
+A criança já recebeu oxigenoterapia em alto fluxo sem resposta adequada. A
+persistência de hipoxemia associada à hipercapnia indica falha da terapia com
+oxigênio isolado.
+A ventilação com bolsa-válvula-máscara é medida transitória durante preparo para
+via aérea definitiva, não sendo estratégia ventilatória adequada para manejo
+contínuo da falência respiratória progressiva.
+Referências:
+AMERICAN HEART ASSOCIATION. SAVP: Suporte avançado de vida em pediatria:
+manual do profissional. Texas, EUA: Orora Visual, 2021. 330 p. ISBN 978-1-61669957-4.
+AMERICAN HEART ASSOCIATION. 2025 American Heart Association Guidelines for
+Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation, v.
+152, n. 16_suppl_2, 2025. Disponível em:
+https://www.ahajournals.org/toc/circ/152/16_suppl_2. Acesso em: 22 out. 2025.
+AMERICAN HEART ASSOCIATION. PALS: Pediatric Advanced Life Support Provider
+Manual. Dallas: American Heart Association, 2020.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Pré-escolar de 4 anos de idade, sexo feminino, 14 kg, é levada
+à Unidade de Pronto Atendimento (UPA) com quadro de tosse e cansaço há 3 dias,
+com piora há 24 horas. Nega febre, com antecedente conhecido de asma, segundo
+relato da genitora. Ao exame físico, encontra-se alerta, corada, hidratada e
+acianótica. Apresenta retrações intercostais e subcostais, frequência respiratória de
+50 irpm (22–34 irpm), sibilos difusos à ausculta pulmonar e saturação de oxigênio
+de 88% em ar ambiente (≥ 95%). Ausculta cardíaca com bulhas normofonéticas,
+sem sopros. Não há sinais clínicos de congestão.
+Assinale a alternativa que descreve corretamente a sequência de intervenções
+indicadas para o manejo inicial desta criança.
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 12 de 18
+
+Alternativas:
+(alternativa A)
+Posicionar a criança para manter via aérea aberta, administrar broncodilatador
+beta-2 agonista de curta duração por nebulização contínua, realizar ventilação com
+bolsa-válvula-máscara e indicar corticoterapia intravenosa em associação precoce.
+(alternativa B)
+Manter a via aérea aberta, administrar epinefrina intramuscular, iniciar
+corticoterapia intravenosa, fornecer hidratação isotônica e solicitar exames
+complementares para definir necessidade de via aérea avançada.
+(alternativa C) (CORRETA)
+Posicionar a criança para manter a via aérea aberta, administrar oxigênio
+suplementar, realizar broncodilatação com beta-2 agonista de curta duração via
+inalador com espaçador, iniciar corticoide sistêmico e manter saturação de O₂ ≥
+94%.
+(alternativa D)
+Administrar broncodilatador beta-2 agonista de curta duração por nebulização,
+fornecer oxigênio se a saturação estiver < 85%, hidratar por via endovenosa e
+monitorar a evolução clínica subsequente do paciente.
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 13 de 18
+
+Resposta comentada:
+Justificativa da correta:
+Posicionar a criança para manter a via aérea aberta, administrar oxigênio
+suplementar, realizar broncodilatação com beta-2 agonista de curta duração via
+inalador dosimetrado com espaçador, iniciar corticoide sistêmico e manter
+saturação de O₂ ≥ 94%.
+Essa conduta está plenamente alinhada com o PALS 2020 e GINA 2025, que
+orientam o manejo de crise asmática em crianças. O paciente apresenta sinais de
+desconforto respiratório moderado a grave (FR aumentada, retrações, sibilos
+difusos e saturação de 88%), portanto o uso imediato de oxigênio suplementar é
+indicado, com alvo de saturação ≥ 94%.
+A administração de broncodilatador de curta ação (salbutamol) deve ser feita
+preferencialmente com inalador dosimetrado + espaçador, pois é tão eficaz quanto
+a nebulização e tem menos efeitos colaterais. O uso de corticoide sistêmico (oral ou
+intravenoso) está indicado nos casos moderados a graves, especialmente com
+histórico de asma e resposta incompleta ao beta-agonista.
+Justificativa das incorretas:
+Posicionar a criança adequadamente, administrar broncodilatador beta-2 agonista
+de curta duração por nebulização contínua, realizar ventilação com bolsa-válvulamáscara e indicar corticoterapia intravenosa em associação precoce. Incorreta – A
+ventilação com bolsa-válvula-máscara não é indicada neste momento, pois a
+criança está alerta e ventilando espontaneamente. A nebulização contínua pode ser
+útil em casos graves, mas o inalador dosimetrado com espaçador é preferido,
+quando possível.
+Manter a via aérea aberta, administrar epinefrina intramuscular, iniciar
+corticoterapia intravenosa, fornecer hidratação isotônica e solicitar exames
+complementares para definir necessidade de via aérea avançada. Incorreta – A
+epinefrina intramuscular não é indicada para crises asmáticas, e sim para laringite
+obstrutiva grave ou anafilaxia. A avaliação de via aérea avançada deve ocorrer
+apenas diante de sinais de falência respiratória iminente, o que não é o caso clínico
+apresentado.
+Administrar broncodilatador beta-2 agonista de curta duração por nebulização,
+fornecer oxigênio se a saturação estiver < 85%, hidratar venosamente, e observar
+evolução clínica antes de qualquer intervenção adicional. Incorreta – O
+fornecimento de oxigênio deve ocorrer com saturações < 94%, não apenas quando
+< 85%. Além disso, a conduta omite o uso de corticoide, essencial em pacientes
+com exacerbação grave e histórico de asma.
+Referências:
+American Heart Association. Pediatric Advanced Life Support (PALS) Provider
+Manual. 2020.
+Global Initiative for Asthma (GINA). Global Strategy for Asthma Management and
+Prevention – Updated 2025.
+PORTO, C. C. Exame clínico. 8. ed. Rio de Janeiro: Guanabara Koogan, 2023.
+Feedback:
+-8ª QUESTÃO
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 14 de 18
+
+Enunciado:
+(AFYA UNIGRANRIO DUQUE DE CAXIAS) Uma criança de 5 anos internada com
+quadro de suspeita de meningite evolui com rebaixamento do sensório,
+hipoatividade e recusa alimentar. No triângulo de avaliação pediátrica, observavase: C hipoatividade, pálidez cutâneo-mucosa, sonolência e taquipnéia. Na avaliação
+primária: via aérea pérvia, frequência respiratória = 40 irpm, SatO2 90 % em ar
+ambiente, FC 140 bpm. Pulsos periféricos finos, pulsos centrais palpáveis e de boa
+amplitude, enchimento capilar 4 segundos,. Pressão arterial: 94/55 mmHg, percentil
+50 para sexo, idade e estatura. Ausculta cardíaca: RCR 2T bulhas normofonéticas
+sem sopros. Ausculta pulmonar: sem ruídos adventícios. Abdome e fígado não
+palpados. A mãe relata redução do volume urinário nas últimas 12h.
+Quanto ao tipo de choque, podemos afirmar que a criança encontra-se em:
+Alternativas:
+(alternativa A)
+choque obstrutivo descompensado.
+(alternativa B)
+choque hipovolêmico descompensado.
+(alternativa C) (CORRETA)
+choque distributivo compensado.
+(alternativa D)
+choque distributivo descompensado.
+
+Resposta comentada:
+Correta:
+- Choque distributivo compensado.
+O paciente apresenta sinais de hipoperfusão tecidual:
+taquicardia;
+enchimento capilar prolongado;
+oligúria;
+alteração do nível de consciência.
+Entretanto, a pressão arterial encontra-se preservada (percentil 50), o que
+caracteriza fase compensada do choque, segundo as diretrizes do PALS e da
+Sociedade Brasileira de Pediatria.
+A etiologia mais provável é choque distributivo de origem séptica, considerando o
+quadro de suspeita de meningite.
+Incorretas:
+- Choque hipovolêmico descompensado.
+O choque hipovolêmico geralmente ocorre em situações de:
+desidratação grave;
+hemorragia;
+perdas gastrointestinais.
+No caso descrito, não há história de perda volêmica. Além disso, o paciente não
+apresenta hipotensão, condição necessária para classificar o choque como
+descompensado.
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 15 de 18
+
+- Choque distributivo descompensado.
+Embora o quadro seja compatível com choque distributivo séptico, não há
+hipotensão arterial, que é o principal critério para caracterizar choque
+descompensado em pediatria.
+A pressão arterial informada no caso está dentro do percentil 50, indicando
+manutenção da compensação hemodinâmica.
+- Choque obstrutivo descompensado.
+O choque obstrutivo ocorre em situações que impedem o fluxo sanguíneo
+adequado, como:
+tamponamento cardíaco;
+pneumotórax hipertensivo;
+embolia pulmonar.
+Não há achados clínicos que indiquem obstrução ao fluxo cardiovascular, como:
+assimetria ventilatória;
+turgência jugular;
+desvio traqueal;
+alteração cardíaca sugestiva de tamponamento.
+Referência:
+American Heart Association. Pediatric Advanced Life Support – PALS Provider
+Manual. 2020.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) No mesmo plantão, duas crianças menores de 5 anos são atendidas
+no Pronto Atendimento:
+Paciente 1:
+2 anos, tosse e chiado há 2 dias. FR: 46 irpm; SatO₂: 94% em ar ambiente; tiragem
+subcostal leve; ativa e chorando durante o exame.
+Paciente 2:
+3 anos, febre e dificuldade respiratória há 24h. FR: 62 irpm; SatO₂: 85% mesmo com
+O₂ suplementar; gemência; cianose perioral; sonolenta ao exame.
+Responda:
+a) Classifique cada paciente como portador de desconforto respiratório ou
+insuficiência respiratória, justificando com base nos dados clínicos (0,75 ponto).
+b) Indique a medida inicial de suporte ventilatório para cada caso, segundo os
+princípios do PALS (Pediatric Advanced Life Support) (0,75 ponto).
+Alternativas:
+--
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 16 de 18
+
+Resposta comentada:
+Item A: (0,75 ponto).
+O paciente 1 apresenta desconforto respiratório, evidenciado por taquipneia e
+tiragem subcostal leve, porém com oxigenação preservada (SatO₂ 94%) e estado
+mental adequado, mantendo atividade e choro durante o exame.
+O paciente 2 apresenta insuficiência respiratória, caracterizada por hipoxemia
+importante (SatO₂ 85% mesmo com oxigênio suplementar), sinais de esforço
+respiratório grave, cianose e alteração do nível de consciência, indicando falha dos
+mecanismos compensatórios.
+Item B: (0,75 ponto).
+Paciente 1:
+Oxigenoterapia suplementar e tratamento da causa (ex.: broncodilatador se
+broncoespasmo), com monitorização clínica.
+Paciente 2:
+Suporte ventilatório imediato com ventilação assistida por bolsa-válvula-máscara e
+oxigênio a alto fluxo, preparando via aérea avançada se necessário.
+Referências:
+AMERICAN HEART ASSOCIATION. SAVP: Suporte avançado de vida em pediatria:
+manual do profissional. Texas, EUA: Orora Visual, 2021. 330 p. ISBN 978-1-61669957-4.
+AMERICAN HEART ASSOCIATION. 2025 American Heart Association Guidelines for
+Cardiopulmonary Resuscitation and Emergency Cardiovascular Care. Circulation, v.
+152, n. 16_suppl_2, 2025. Disponível em:
+https://www.ahajournals.org/toc/circ/152/16_suppl_2. Acesso em: 22 out. 2025.
+AMERICAN HEART ASSOCIATION. PALS: Pediatric Advanced Life Support Provider
+Manual. Dallas: American Heart Association, 2020.
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) Uma criança de 7 anos é levada ao pronto atendimento com história
+de febre há 36 horas, vômitos, prostração e diminuição do volume urinário nas
+últimas 10 horas. Na admissão apresenta-se sonolenta e pouco responsiva aos
+estímulos verbais. No triângulo de avaliação pediátrica observa-se alteração da
+aparência, pele pálida e marmorizada e taquipneia. Na avaliação primária são
+encontrados os seguintes parâmetros: frequência cardíaca: 158 bpm, frequência
+respiratória: 40 irpm, saturação de O₂: 91% em ar ambiente, pulsos periféricos
+filiformes e pulsos centrais presentes. Tempo de enchimento capilar: 5 segundos,
+pressão arterial: 100/60 mmHg( adequada para a idade e altura), diurese reduzida
+nas últimas horas.
+Considerando o caso acima descrito, responda:
+a) Cite dois sinais clínicos do caso que indicam hipoperfusão tecidual, justificando a
+classificação do paciente em choque compensado. (0,75 ponto)
+b) De acordo com as diretrizes atuais do (PALS) Pediatric Advanced Life Support,
+descreva dois parâmetros clínicos mensuráveis utilizados para monitorar a resposta
+ao tratamento nas primeiras horas do tratamento do choque pediátrico. (0,75
+ponto)
+Alternativas:
+--
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 17 de 18
+
+Resposta comentada:
+Item A — hipoperfusão:
+O paciente apresenta sinais clínicos de hipoperfusão tecidual, tais como:
+tempo de enchimento capilar prolongado (5 segundos)
+pulsos periféricos fracos
+taquicardia importante
+redução do débito urinário
+Apesar desses sinais, a pressão arterial encontra-se preservada, o que caracteriza
+choque compensado, fase em que os mecanismos fisiológicos ainda conseguem
+manter a pressão arterial normal.
+(0,75 ponto)
+Item B — metas hemodinâmicas do tratamento:
+Entre as metas hemodinâmicas recomendadas para o manejo inicial do choque
+séptico pediátrico estão:
+normalização do tempo de enchimento capilar (< 2 segundos);
+restabelecimento do débito urinário adequado (> 1 mL/kg/h);
+frequência cardíaca apropriada para a idade;
+normalização da pressão arterial para a idade;
+melhora do estado mental;
+extremidades aquecidas e pulsos periféricos adequados.
+Essas metas indicam restabelecimento da perfusão tecidual e do débito cardíaco
+adequado, sendo utilizadas para guiar o tratamento nas primeiras horas do
+atendimento.
+(0,75 ponto)
+Referência:
+American Heart Association. Pediatric Advanced Life Support (PALS) Provider
+Manual. Dallas: AHA, 2020.
+Feedback:
+--
+
+000192.41001b.5d3387.f2028c.6d5ac5.40a16a.152a3c.efdaf
+
+Página 18 de 18
+
+

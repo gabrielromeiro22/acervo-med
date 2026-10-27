@@ -1,0 +1,3261 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Estágio Curricular em Atenção Primária
+em Saúde
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 22/10/2025
+
+N2 INTERNATO - MEDICINA - APS - 2025.2 - ROT 2 22/OUTUBRO - B - 14 TEMAS
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17448 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+136054
+
+Tipo da questão:
+
+Múltipla Escolha
+
+acervo.top / acervotop.com
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Durante atendimento de rotina na Unidade Básica de Saúde, uma
+equipe da Estratégia de Saúde da Família avalia um adolescente de 13 anos com
+esquema vacinal incompleto. A mãe relata que ele não recebeu vacinas importantes
+na infância e que deseja regularizar a situação.
+Com base nas diretrizes do Programa Nacional de Imunizações (PNI) e nos princípios
+da APS, analise os itens a seguir:
+I. A vacina contra o papilomavírus humano (HPV) deve ser aplicada entre 9 e 14
+anos, mesmo na ausência de vida sexual ativa, pois a vacinação é mais eficaz antes
+da exposição ao vírus.
+II. A vacina meningocócica ACWY é indicada como dose única para adolescentes aos
+11 e 12 anos, podendo ser aplicada até os 14 anos em caso de não administração
+prévia.
+III. A vacina dTpa pode ser administrada como reforço no calendário vacinal do
+adolescente, sendo especialmente indicada para gestantes e profissionais de saúde,
+mas ainda não está amplamente disponível para adolescentes na rotina do SUS.
+IV. A atuação da APS deve incluir estratégias extramuros de vacinação de
+adolescentes com esquemas incompletos, priorizando territórios com barreiras de
+acesso e baixa cobertura vacinal.
+Assinale a alternativa que contém apenas assertivas corretas.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 1 de 80
+
+Alternativas:
+(alternativa A)
+I, II, III e IV.
+(alternativa B) (CORRETA)
+I, II e III.
+(alternativa C)
+II e IV.
+(alternativa D)
+I e III.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Item I – Correto:
+A vacina HPV é indicada para meninos e meninas de 9 a 14 anos,
+independentemente do início da vida sexual, com o objetivo de prevenir infecções
+por papilomavírus e suas complicações. A vacinação precoce favorece melhor
+resposta imunológica.
+Item II – Correto:
+A vacina meningocócica ACWY foi incorporada ao PNI em 2020, para aplicação em
+dose única aos 11 e 12 anos, podendo ser aplicada até os 14 anos como resgate.
+Ela complementa a proteção oferecida pela vacina meningocócica C, utilizada na
+infância.
+Item III – Correto:
+A vacina dTpa (tríplice bacteriana acelular do tipo adulto) pode ser usada como
+reforço na adolescência em esquemas alternativos, mas no SUS sua oferta ainda é
+prioritária para gestantes e profissionais de saúde. Embora tenha vantagem em
+relação à dT (convencional), não está disponível amplamente para adolescentes
+sem condições específicas.
+Item IV – Incorreto:
+Embora a vacinação extramuros seja uma estratégia da APS, ela deve estar
+articulada com dados epidemiológicos, cobertura vacinal e planejamento territorial,
+e não se aplica de forma indiscriminada. A atuação baseada em vulnerabilidade
+exige critério, logística e equidade.
+Referência:
+Gusso G, Lopes JMC. Tratado de Medicina de Família e Comunidade: Princípios,
+Formação e Prática. 2. ed. Porto Alegre: Artmed; 2019.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 2 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Epidemiologia
+[Competências (Objetivos)]
+Cuidado em saúde
+Promoção em saúde
+[Habilidades]
+Conhecer o calendário vacinal atualizado, analisando
+sua aplicabilidade em diferentes faixas etárias e
+contextos.
+[Tema]
+Vacinação (indicações, contraindicações, efeitos
+adversos, faixa etária)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+2ª QUESTÃO
+
+Código da questão:
+
+148492
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDEP) Em uma área urbana com alta vulnerabilidade social, uma UBS registra
+aumento de atendimentos por síndrome febril aguda em adultos. Um paciente de
+36 anos apresenta febre alta, cefaleia intensa, mialgia difusa e icterícia. Ele relata
+contato com águas de enchente nos últimos dias. O município possui histórico de
+surtos de doenças transmissíveis relacionadas a enchentes.
+Considerando os princípios da vigilância em saúde e a lista nacional de doenças de
+notificação compulsória, qual deve ser a conduta imediata da equipe da APS diante
+deste caso?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 3 de 80
+
+Alternativas:
+(alternativa A) (CORRETA)
+Notificar compulsoriamente como suspeita de leptospirose, integrando a
+investigação clínica com a vigilância epidemiológica.
+(alternativa B)
+Aguardar exames confirmatórios antes de proceder a qualquer notificação, pois a
+icterícia pode ter múltiplas etiologias.
+(alternativa C)
+Realizar notificação compulsória imediata como caso suspeito de febre amarela,
+visto que há icterícia associada a febre.
+(alternativa D)
+Priorizar apenas manejo clínico e suporte sintomático, deixando a notificação a
+cargo do hospital de referência.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 4 de 80
+
+Resposta comentada:
+Notificar compulsoriamente como suspeita de leptospirose, integrando a
+investigação clínica com a vigilância epidemiológica. - Correta. O quadro clínico,
+associado ao contato com enchente, indica suspeita de leptospirose, de notificação
+compulsória semanal. A APS deve notificar o caso suspeito e acionar a vigilância.
+Realizar notificação compulsória imediata como caso suspeito de febre amarela,
+visto que há icterícia associada a febre. - Incorreta. A febre amarela é de notificação
+compulsória imediata, mas o enunciado não sugere circulação viral recente; a
+conduta correta é considerar o contexto epidemiológico.
+Priorizar apenas manejo clínico e suporte sintomático, deixando a notificação a
+cargo do hospital de referência. - Incorreta. A notificação é dever de todos os pontos
+de atenção, incluindo a APS, e não apenas de hospitais de referência.
+Aguardar exames confirmatórios antes de proceder a qualquer notificação, pois a
+icterícia pode ter múltiplas etiologias. - Incorreta. A notificação deve ser feita na
+suspeita clínica, não sendo necessária confirmação laboratorial para iniciar a
+vigilância.
+Referências:
+BRASIL. Ministério da Saúde. Guia de Vigilância em Saúde. 5. ed. Brasília: Ministério
+da Saúde, 2021. Disponível em: https://www.gov.br/saude/pt-br/assuntos/saude-dea-a-z/g/guia-de-vigilancia-em-saude. Acesso em: 1 out. 2025.
+BRASIL. Ministério da Saúde. Portaria GM/MS nº 420, de 2 de março de 2022. Define
+a Lista Nacional de Notificação Compulsória de doenças, agravos e eventos de
+saúde pública. Diário Oficial da União, Brasília, DF, 3 mar. 2022. Disponível em:
+https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-420-de-2-de-marco-de-2022384579210. Acesso em: 1 out. 2025.
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Lêda Chaves (org.). Tratado de
+Medicina de Família e Comunidade: princípios, formação e prática. 2. ed. Porto
+Alegre: Artmed, 2019.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 5 de 80
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Violência Sexual e Autoprovocada + Doenças de
+notificação compulsória
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIDEP
+[Habilidades]
+Reconhecer as principais doenças de notificação
+compulsória no Brasil, descrevendo seus critérios
+diagnósticos e formas de transmissão.
+3ª QUESTÃO
+
+Código da questão:
+
+149041
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Um médico da Unidade Básica de Saúde é informado sobre um caso
+de acidente de trabalho envolvendo um funcionário de uma empresa de construção
+civil, que caiu de uma altura de 2 metros, resultando em uma fratura de fêmur. O
+paciente está estável, já foi encaminhado ao hospital para os cuidados necessários
+e está em processo de recuperação. No retorno para reavaliação na Unidade Básica,
+o trabalhador questiona sobre os seus direitos relacionados ao acidente de trabalho.
+Levando em consideração os direitos do trabalhador acidentado, quais benefícios
+previdenciários e trabalhistas pode requerer?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 6 de 80
+
+Alternativas:
+(alternativa A)
+Pensão por morte e aposentadoria por idade.
+(alternativa B)
+Seguro-desemprego e auxílio-reclusão.
+(alternativa C)
+Auxílio-doença e aposentadoria por invalidez.
+(alternativa D) (CORRETA)
+Auxílio-acidente e auxílio-doença.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Auxílio-doença e aposentadoria por invalidez.
+Comentário: O trabalhador que sofre um acidente de trabalho pode requerer o
+auxílio-doença, que é concedido a partir de 15 dias de afastamento do trabalho. A
+aposentadoria por invalidez é um benefício para casos de incapacidade permanente
+para o trabalho e, após a constatação da incapacidade e da impossibilidade de
+reabilitação em outra profissão, não se aplica imediatamente após o acidente se
+não houver sequela que justifique.
+Auxílio-acidente e auxílio-doença.
+Comentário: O trabalhador tem o direito de requerer o auxílio-doença em casos de
+incapacidade temporária para o trabalho, como no caso da fratura de fêmur. O
+auxílio-acidente pode ser concedido após a estabilização das sequelas, que resultem
+em redução da capacidade de trabalho que o trabalhador possuía antes do acidente.
+Seguro-desemprego e auxílio-reclusão.
+Comentário: O seguro-desemprego é um benefício para trabalhadores que foram
+demitidos sem justa causa, o que não é aplicável ao caso descrito. O auxílio-reclusão
+é destinado aos dependentes de trabalhadores que foram presos, não se
+relacionando a um acidente de trabalho.
+Pensão por morte e aposentadoria por idade.
+Comentário: A pensão por morte é um benefício destinado aos dependentes do
+trabalhador que falece, o que não é o contexto do caso, e a aposentadoria por idade
+é um benefício concedido com base na idade e no tempo de contribuição do
+trabalhador, não estando relacionada diretamente ao acidente de trabalho.
+Referência:
+Brasil. Ministério da Saúde. Manual de Orientações sobre Comunicação de Acidente
+de Trabalho . Brasília, 2015.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 7 de 80
+
+Filtros da questão:
+
+[IES]
+AFYA
+BANCO AFYA
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Saúde do trabalhador + CAT
+[Habilidades]
+Entender os direitos do trabalhador acidentado,
+relacionando os benefícios previdenciários e
+trabalhistas disponíveis.
+[Competências (Objetivos)]
+Gestão em saúde
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+
+4ª QUESTÃO
+Código da questão:
+
+148551
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Durante atendimento na Unidade Básica de Saúde, uma criança de 4
+anos chega acompanhada da avó, que relata que a neta foi agredida fisicamente
+pela mãe com cintadas após “desobedecer”. Ao exame físico, observam-se
+hematomas em regiões do tronco e membros.
+Sabendo que a violência contra crianças e adolescentes não pode ser entendida
+como ato isolado, mas como fenômeno decorrente de múltiplos fatores individuais,
+familiares e sociais, assinale a alternativa correta em relação às situações e
+definições importantes a serem consideradas na abordagem desse tipo de agravo:
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 8 de 80
+
+Alternativas:
+(alternativa A)
+A violência observada na síndrome de Münchausen por procuração compreende
+sinais e sintomas de alarme que ocorrem mesmo na ausência do cuidador.
+(alternativa B)
+A violência física, em geral, está associada a práticas disciplinares e punitivas,
+sendo uma causa de menor relevância na morbimortalidade de crianças menores de
+três anos.
+(alternativa C) (CORRETA)
+A violência psicológica é caracterizada por ações ou omissões que colocam em risco
+ou causam danos à autoestima, à identidade e ao desenvolvimento da criança e do
+adolescente
+(alternativa D)
+A negligência ou o abandono estão presentes especialmente em classes sociais
+mais baixas, sendo a notificação obrigatória apenas para Conselhos Tutelares e
+Ministério Público.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 9 de 80
+
+Resposta comentada:
+Incorreta: Na síndrome de Münchausen por procuração, o cuidador (geralmente
+mãe, pai ou responsável) provoca ou simula sintomas na criança/adolescente para
+que pareça doente, buscando atenção da equipe de saúde. Os sinais e sintomas,
+portanto, ocorrem apenas na presença do cuidador, que os produz.
+Incorreta: A violência física é uma das principais causas de morbimortalidade em
+crianças pequenas, sobretudo abaixo de três anos, devido à fragilidade corporal.
+Agressões podem levar a lesões graves como rotura de órgãos e hemorragias
+internas, com alto risco de letalidade.
+Correta: A violência psicológica é definida como ação ou omissão capaz de causar
+prejuízos emocionais, danos à autoestima, à identidade ou ao desenvolvimento da
+criança e do adolescente.
+Incorreta: A negligência não é exclusiva de classes sociais mais baixas, podendo
+ocorrer em qualquer contexto socioeconômico. Além disso, a notificação é
+obrigatória para todo o sistema de vigilância em saúde, e não apenas para
+Conselhos Tutelares ou Ministério Público.
+Referências:
+BRASIL. Ministério da Saúde. Linha de cuidado para a atenção integral à saúde de
+crianças, adolescentes e suas famílias em situação de violências: orientação para
+gestores e profissionais de saúde. Brasília: Ministério da Saúde, 2010.
+BRASIL. Presidência da República. Lei nº 8.069, de 13 de julho de 1990. Dispõe
+sobre o Estatuto da Criança e do Adolescente e dá outras providências. Diário Oficial
+da União: seção 1, Brasília, DF, 16 jul. 1990.
+BRASIL. Presidência da República. Lei nº 11.340, de 7 de agosto de 2006. Lei Maria
+da Penha. Diário Oficial da União: seção 1, Brasília, DF, 8 ago. 2006.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 10 de 80
+
+Filtros da questão:
+
+[Tema]
+Violência e maus-tratos contra a criança e a
+adolescente
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Avaliação clínica
+[Habilidades]
+Reconhecer a importância da articulação intersetorial
+e do trabalho em equipe, fortalecendo a abordagem
+da violência contra idosos na comunidade.
+Identificar sinais físicos, comportamentais e
+contextuais sugestivos de violência, estabelecendo o
+diagnóstico precoce em crianças e adolescentes.
+5ª QUESTÃO
+
+Código da questão:
+
+141932
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Caxias) Durante um atendimento na Unidade de Saúde da Família,
+uma médica avalia um homem de 38 anos com queixas inespecíficas de cefaleia
+leve. Após a anamnese e o exame físico, a profissional não identifica sinais de
+incapacidade laborativa. O paciente, no entanto, solicita um atestado de
+afastamento por 7 dias, alegando apenas o desejo de “descansar um pouco” e
+dizendo confiar que “o médico pode ajudar nisso”.
+Diante desse contexto, e com base nos fundamentos éticos e legais do exercício
+profissional, qual deve ser a conduta mais adequada da médica?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 11 de 80
+
+Alternativas:
+(alternativa A)
+Sugerir ao paciente que procure outra unidade, caso insista, já que a recusa pode
+comprometer a relação terapêutica e gerar conflito ético.
+(alternativa B)
+Atender ao pedido do paciente, desde que ele assine uma declaração de
+responsabilidade, pois o atestado pode fortalecer a confiança na relação médicopaciente.
+(alternativa C) (CORRETA)
+Recusar a emissão do atestado, pois sua finalidade deve estar estritamente
+vinculada à constatação de incapacidade laborativa devidamente registrada em
+prontuário.
+(alternativa D)
+Emitir o atestado com os dias solicitados, registrando a queixa subjetiva no
+prontuário, visto que a palavra do paciente é suficiente para justificar o documento.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 12 de 80
+
+Resposta comentada:
+Alternativa: “Atender ao pedido do paciente, desde que ele assine uma declaração
+de responsabilidade, pois o atestado pode fortalecer a confiança na relação médicopaciente.”
+Incorreta. O médico não pode emitir atestados sem respaldo clínico, mesmo que o
+paciente consinta por escrito. O artigo 80 do Código de Ética Médica proíbe a
+emissão de documentos inverídicos. A confiança não justifica ações antiéticas.
+Alternativa: “Recusar a emissão do atestado, pois sua finalidade deve estar
+estritamente vinculada à constatação de incapacidade laborativa devidamente
+registrada em prontuário.”
+Correta. O atestado é um documento legal e só pode ser emitido com base em
+avaliação clínica que comprove a necessidade de afastamento. A Resolução CFM nº
+1.658/2002 e o Código de Ética Médica (arts. 80 e 81) reforçam a obrigatoriedade
+de embasamento técnico e registro em prontuário.
+Alternativa: “Emitir o atestado com os dias solicitados, registrando a queixa
+subjetiva no prontuário, visto que a palavra do paciente é suficiente para justificar o
+documento.”
+Incorreta. Embora o relato do paciente seja valorizado, ele não é suficiente para
+justificar um atestado de afastamento sem evidência clínica. A responsabilidade do
+conteúdo do documento é do médico.
+Alternativa: “Sugerir ao paciente que procure outra unidade, caso insista, já que a
+recusa pode comprometer a relação terapêutica e gerar conflito ético.”
+Incorreta. Encaminhar para outro profissional com o objetivo de obter um atestado
+indevido caracteriza omissão ética. O vínculo deve ser mantido com base no diálogo
+e nas normas do exercício profissional, não pela complacência.
+Referências:
+BRASIL. Conselho Federal de Medicina. Resolução CFM nº 1.658, de 20 de dezembro
+de 2002. Aprova as normas éticas para a emissão de atestados médicos. Diário
+Oficial da União: seção 1, Brasília, DF, 7 jan. 2003. Disponível em:
+https://www.in.gov.br/en/web/dou/-/resolucao-n-1.658-de-20-de-dezembro-de-2002558506.
+BRASIL. Conselho Federal de Medicina. Resolução CFM nº 2.217, de 27 de setembro
+de 2018. Aprova o Código de Ética Médica. Diário Oficial da União: seção 1, Brasília,
+DF, 1 nov. 2018. Disponível em: https://www.in.gov.br/en/web/dou/-/resolucao-n2.217-de-27-de-setembro-de-2018-43104133.
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de medicina de família e
+comunidade: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed, 2019.
+
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 13 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Ética médica
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Medicina legal (principais documentos médicos)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO CAXIAS
+[Habilidades]
+Analisar situações clínicas que demandam
+documentação adequada, justificando a correta
+elaboração e o uso dos documentos legais.
+6ª QUESTÃO
+
+Código da questão:
+
+141243
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Durante uma consulta de enfermagem na UBS, um paciente com
+diabetes tipo 2 e hipertensão relata dificuldades para seguir a dieta, diz que não
+gosta de “tomar remédio todo dia” e sente-se triste desde que se aposentou. O
+médico residente, ao supervisionar o atendimento, reforça com a equipe a
+importância de seguir os princípios do Modelo Clínico Centrado na Pessoa (MCCP).
+Nesse sentido, segundo os referenciais da Medicina de Família e Comunidade,
+marque a alternativa que apresenta o elemento que faz parte dos componentes
+centrais do MCCP.
+Alternativas:
+(alternativa A)
+Priorização da autonomia do profissional na definição do plano terapêutico.
+(alternativa B)
+Ênfase na prescrição medicamentosa como eixo estruturante da consulta.
+(alternativa C)
+Foco exclusivo na doença e adesão estrita ao protocolo clínico.
+(alternativa D) (CORRETA)
+Compreensão do significado da doença na vida do paciente.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 14 de 80
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Alternativa: "Foco exclusivo na doença e adesão estrita ao protocolo clínico."
+Incorreta.
+Essa alternativa representa o modelo biomédico tradicional, centrado no diagnóstico
+e no controle de parâmetros, com base em diretrizes clínicas aplicadas de forma
+universal e rígida. No entanto, o MCCP rompe com esse modelo, pois busca integrar
+o contexto de vida da pessoa ao raciocínio clínico, entendendo que a doença não
+existe isoladamente, mas sim inserida na biografia e na cultura do paciente. Gusso
+(2019) reforça que protocolos são instrumentos úteis, mas devem ser adaptados ao
+paciente, não impostos a ele. Duncan (2022) lembra que o plano terapêutico deve
+ser individualizado e viável, respeitando as condições sociais, emocionais e culturais
+do usuário.
+Alternativa: "Priorização da autonomia do profissional na definição do plano
+terapêutico." Incorreta.
+Embora o profissional tenha responsabilidade técnica, o MCCP não prioriza sua
+autonomia unilateral, mas sim a construção compartilhada do plano de cuidado,
+respeitando os valores e escolhas da pessoa atendida. Essa alternativa representa
+um modelo vertical e paternalista, em que o saber médico se impõe sobre o
+paciente, o que contraria a noção de tomada de decisão compartilhada. Segundo
+Gusso (2019), o MCCP é sustentado por relação horizontal, diálogo e
+corresponsabilidade. Para Duncan (2022), “o sucesso terapêutico depende tanto da
+pertinência clínica quanto da aderência subjetiva”, ou seja, do envolvimento ativo
+do paciente.
+Alternativa: "Compreensão do significado da doença na vida do paciente." Correta.
+Essa alternativa expressa um dos pilares centrais do MCCP: compreender o que a
+doença representa para aquela pessoa — seu impacto emocional, social e prático.
+Isso inclui entender as percepções, medos, crenças e prioridades do paciente frente
+ao diagnóstico. Em pacientes com doenças crônicas como DM2 e HAS, isso é ainda
+mais relevante, pois a adesão ao cuidado depende menos da prescrição e mais da
+construção de sentido e engajamento. Gusso (2019) destaca esse ponto no capítulo
+“Consulta centrada na pessoa”, com base no modelo canadense de Stewart. Duncan
+(2022) afirma que esse entendimento é essencial para alinhar metas clínicas com
+metas de vida do paciente.
+Alternativa: "Ênfase na prescrição medicamentosa como eixo estruturante da
+consulta." Incorreta.
+Essa alternativa também reflete o modelo tradicional, em que a consulta é
+organizada em torno da receita, e o sucesso é medido pela “adesão” à
+farmacoterapia. No MCCP, a medicação é apenas um dos recursos possíveis, e o
+vínculo, a escuta, o plano de vida e o cuidado interprofissional têm peso igual ou
+maior. Além disso, muitos pacientes com DM2 e HAS têm múltiplas barreiras para o
+uso adequado dos medicamentos: acesso, compreensão, medo de efeitos adversos,
+desconfiança. Duncan (2022) ressalta que “o tratamento farmacológico deve ser
+racional, contextualizado e compreendido”, e que reduzir a consulta à prescrição
+empobrece o cuidado.
+Referências:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 15 de 80
+
+DUNCAN, Bruce et al. Medicina ambulatorial: condutas de atenção primária
+baseadas em evidências. 5. ed. Porto Alegre: Artmed, 2022.
+Feedback:
+-Filtros da questão:
+
+[Tema]
+DM e HAS centrada na pessoa
+[Competências (Objetivos)]
+Conduta
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA PARAÍBA
+[Habilidades]
+Identificar as particularidades da abordagem
+centrada na pessoa, conduzindo o manejo de
+pacientes com diabetes mellitus do tipo II, visando
+um cuidado integral.
+7ª QUESTÃO
+
+Código da questão:
+
+141891
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Durante o atendimento em uma Unidade de Saúde da Família, uma
+adolescente revela à equipe que sofre violência sexual recorrente praticada por um
+familiar. A profissional da saúde a acolhe em ambiente reservado, ouve o relato
+com escuta qualificada e realiza os encaminhamentos para atendimento médico e
+psicológico. Considerando os fluxos adequados, a legislação vigente e os direitos da
+vítima, qual deve ser a conduta correta da profissional de saúde em relação à
+notificação do caso?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 16 de 80
+
+Alternativas:
+(alternativa A)
+Notificar o caso ao Conselho Tutelar apenas com autorização expressa da vítima ou
+de seu responsável legal, para garantir o sigilo.
+(alternativa B) (CORRETA)
+Realizar a notificação compulsória ao sistema de saúde, mesmo sem o
+consentimento da vítima, garantindo o sigilo e informando os órgãos de proteção
+competentes.
+(alternativa C)
+Aguardar que a adolescente denuncie formalmente o caso por vontade própria,
+respeitando sua autonomia, antes de tomar qualquer medida institucional.
+(alternativa D)
+Registrar o caso no prontuário e comunicar à Polícia Militar para investigação
+imediata, sem necessidade de notificação oficial ao sistema de saúde.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 17 de 80
+
+Resposta comentada:
+Alternativa correta:
+- Realizar a notificação compulsória ao sistema de saúde, mesmo sem o
+consentimento da vítima, garantindo o sigilo e informando os órgãos de proteção
+competentes: nos casos de violência contra crianças, adolescentes, mulheres,
+idosos ou pessoas com deficiência, a notificação é obrigatória (compulsória),
+independentemente do consentimento da vítima, conforme preveem o Estatuto da
+Criança e do Adolescente (ECA), a Lei Maria da Penha e a Portaria nº 1.271/2014 do
+Ministério da Saúde. A conduta deve ser feita com garantia de sigilo, registro em
+sistema próprio (como o Sinan) e comunicação aos órgãos responsáveis (ex.:
+Conselho Tutelar, Ministério Público, rede de proteção).
+Alternativas incorretas:
+- Notificar o caso ao Conselho Tutelar apenas com autorização expressa da vítima ou
+de seu responsável legal, para garantir o sigilo: a notificação não depende de
+autorização da vítima ou do responsável legal. Pelo contrário, quando há suspeita ou
+confirmação de violência, o profissional de saúde tem a obrigação legal de notificar.
+Condicionar a notificação à autorização compromete a proteção da vítima e
+configura omissão de dever legal.
+- Registrar o caso no prontuário e comunicar à Polícia Militar para investigação
+imediata, sem necessidade de notificação oficial ao sistema de saúde: embora o
+caso possa chegar à polícia (especialmente em situações de risco iminente), o canal
+oficial e obrigatório no âmbito da saúde é a notificação ao Sinan e aos órgãos de
+proteção específicos. Acionar apenas a polícia não substitui a notificação
+compulsória, além de poder expor a vítima se feito sem os devidos cuidados e
+fluxos intersetoriais.
+- Aguardar que a adolescente denuncie formalmente o caso por vontade própria,
+respeitando sua autonomia, antes de tomar qualquer medida institucional: em casos
+de violência contra menores de idade, a responsabilidade é do profissional de saúde
+e não pode ser delegada à vítima. A omissão nesse contexto pode agravar a
+exposição da adolescente ao risco, violar a legislação e comprometer sua proteção
+integral. A escuta deve ser acolhedora, mas a ação institucional é mandatória,
+respeitando o sigilo e os direitos da vítima.
+Referência:
+GUSSO, Gustavo; LOPES, José M. C. ; DIAS, Lêda C. Tratado de medicina de família e
+comunidade - 2 volumes: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed,
+2019. E-book. p. 701. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso
+em: 26 maio 2025.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 18 de 80
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Medicina de Família e Comunidade e Programa Mais
+Médicos
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Habilidades]
+Compreender os fluxos de acolhimento, atendimento
+e notificação desses casos de violência, respeitando
+o sigilo e os direitos da vítima.
+
+8ª QUESTÃO
+Código da questão:
+
+141221
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 19 de 80
+
+Enunciado:
+(UNIGRANRIO Barra) Durante uma visita domiciliar, a equipe da Estratégia Saúde da
+Família atende à família de um paciente de 58 anos, que vive com a esposa e o filho
+mais novo, de 17 anos. O casal tem mais dois filhos adultos que residem no mesmo
+bairro, mas mantém pouco contato com eles devido a desentendimentos antigos
+relacionados a questões financeiras. O paciente apresenta hipertensão arterial
+sistêmica não controlada, além de sinais de tristeza, desânimo e anedonia. Como
+plano de cuidado, o médico de família elabora um genograma, que evidencia alguns
+vínculos frágeis e conflituosos, e um ecomapa, que mostra uma rede de apoio
+comunitária pouco ativa, com ausência de participação em grupos sociais e
+religiosos.
+Em relação ao caso apresentado acima e com base na abordagem familiar, avalie as
+afirmativas.
+I- Em casos de não adesão ao tratamento ou problemas mentais e interpessoais, o
+envolvimento de outros membros da família facilita a compreensão do sistema
+familiar e a adesão por parte das pessoas ao tratamento.
+II- A compreensão da abordagem familiar sistêmica pode contribuir no plano da
+prevenção, da investigação clínica e do tratamento de casos simples e complexos,
+integrando diferentes dimensões do cuidado.
+III- Problemas clínicos e emocionais podem ser manejados por meio de uma
+abordagem individual centrada na pessoa; em certos casos, a abordagem familiar
+oferece maior benefício, mesmo sem a presença da família durante a consulta.
+IV: O genograma é uma ferramenta utilizada para mapear e ampliar o conhecimento
+sobre a família, por meio de uma representação gráfica que expressa uma visão
+estática da estrutura e das relações familiares.
+É correto o que se afirma em:
+Alternativas:
+(alternativa A)
+I, II, III e IV.
+(alternativa B)
+III e IV.
+(alternativa C) (CORRETA)
+I, II e III.
+(alternativa D)
+I e II.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 20 de 80
+
+Resposta comentada:
+Afirmativa I: correta. O envolvimento de outros membros da família permite ao
+profissional compreender melhor as dinâmicas e os fatores que interferem na saúde
+e no cuidado da pessoa. Essa abordagem facilita a identificação de conflitos, apoios
+e barreiras dentro do sistema familiar, contribuindo para estratégias mais eficazes
+de adesão ao tratamento e para o manejo dos problemas mentais e interpessoais na
+Atenção Primária à Saúde.
+Afirmativa II: correta. O entendimento da abordagem sistêmica da família favorece a
+prevenção, o diagnóstico e o manejo de casos tanto simples quanto complexos, pois
+permite ao profissional identificar padrões de relacionamento, fatores de risco,
+recursos e vulnerabilidades no contexto familiar. Isso contribui para a construção de
+intervenções mais efetivas e alinhadas à realidade do paciente e de sua família na
+Atenção Primária à Saúde.
+Afirmativa III: correta. Os problemas clínicos e emocionais podem ser tratados com
+uma abordagem individual, centrada na pessoa, mas alguns vão alcançar maior
+benefício com a abordagem familiar, estando a família presente ou não na consulta.
+Entender como a família influencia a saúde dá, ao médico de família e comunidade,
+a oportunidade de antecipar e reduzir os efeitos adversos do estresse familiar e usar
+a família como recurso para cuidar das pessoas.
+Afirmativa IV: incorreta. O genograma não expressa uma visão estática; é uma
+representação funcional, que complementa a informação obtida com uma visão
+dinâmica das relações e interações familiares. É uma ferramenta utilizada para
+mapear e aprofundar o conhecimento sobre a família, além de auxiliar os
+profissionais de saúde na realização de intervenções. Sua representação gráfica
+resume uma grande quantidade de informações, permitindo a identificação de
+conflitos e recursos familiares. Há uma representação estrutural, que retrata a
+composição da família — seus membros, idades, doenças ou fatores de risco,
+situação laboral, vivos e falecidos — e uma representação funcional, que
+complementa os dados com uma visão dinâmica das relações e interações
+familiares.
+Referência:
+DIAS, Lêda Chaves. Capítulo 35 – Abordagem familiar. In: GUSSO, Gustavo; LOPES,
+José Mauro Ceratti; DIAS, Lêda Chaves. Tratado de medicina de família e
+comunidade: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed, 2019. Ebook. p. 237. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso
+em: 02 jul. 2025.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 21 de 80
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Medicina de Família e Comunidade e Programa Mais
+Médicos
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO BARRA
+[Habilidades]
+Analisar, à luz da teoria sistêmica, a abordagem
+familiar e seus instrumentos, tais como ecomapa,
+genograma e APGAR familiar, compreendendo suas
+aplicações na prática clínica da Atenção Primária.
+9ª QUESTÃO
+
+Código da questão:
+
+148484
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDEP) Em um turno de atendimentos, a Unidade de Saúde da Família Boa
+Esperança acolhe uma adolescente de 15 anos que procura a equipe 2
+acompanhada de uma amiga. Ela apresenta comportamento retraído, evita contato
+visual e, após uma escuta inicial, relata ter sofrido violência sexual por um
+conhecido da família dois dias atrás. A jovem demonstra medo de contar à mãe e
+refere pensamentos recorrentes de “não querer mais viver”. Diante dessa situação,
+considerando o papel da Atenção Primária à Saúde (APS), qual deve ser a conduta
+prioritária da equipe de saúde para fornecer cuidado integral a adolescente vítima
+de violência?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 22 de 80
+
+Alternativas:
+(alternativa A) (CORRETA)
+Garantir escuta qualificada, notificar compulsoriamente o caso e articular a rede de
+proteção, assegurando também avaliação de risco para autoagressão.
+(alternativa B)
+Orientar a adolescente a retornar com a mãe ou responsável legal para que
+medidas formais de proteção possam ser tomadas de forma adequada.
+(alternativa C)
+Focar no suporte dentro da unidade, ainda que seja necessária a demora permitida
+ao notificar e articular ações intersetoriais para que a adolescente demonstre
+segurança e estabilidade emocional.
+(alternativa D)
+Encaminhar a adolescente para atendimento hospitalar especializado em violência
+sexual, sem registro em prontuário ou notificação, a fim de preservar sigilo.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 23 de 80
+
+Resposta comentada:
+Garantir escuta acolhedora, notificar compulsoriamente o caso e articular a rede de
+proteção (Conselho Tutelar, CRAS/CREAS), assegurando também avaliação de risco
+para autoagressão. - Correta.
+A APS deve realizar acolhimento qualificado e escuta sem julgamento, registrar em
+prontuário, proceder à notificação compulsória imediata (mesmo em casos
+suspeitos) e articular com a rede intersetorial de proteção (Conselho Tutelar,
+Ministério Público, CRAS/CREAS). Além disso, no relato de ideação suicida, a
+avaliação de risco para autoagressão é obrigatória, integrando cuidado clínico,
+psicológico e social. Essa conduta reflete integralidade, responsabilidade sanitária e
+atuação em rede.
+Orientar a adolescente a retornar com a mãe ou responsável legal para que
+medidas formais de proteção possam ser tomadas de forma adequada. – Incorreta.
+Condicionar a notificação ou a proteção da adolescente à presença de responsável
+legal fere o ECA, que garante proteção integral à criança e ao adolescente
+independentemente da autorização familiar. A equipe de saúde tem obrigação legal
+de agir diante da suspeita ou confirmação de violência.
+Encaminhar a adolescente diretamente para atendimento hospitalar especializado
+em violência sexual, sem registro em prontuário ou notificação, a fim de preservar a
+confidencialidade. – Incorreta.
+O encaminhamento hospitalar pode ser necessário para profilaxias, exames e
+atendimento especializado, mas não substitui a responsabilidade da APS em
+notificar e articular a rede de proteção. O argumento de “preservar
+confidencialidade” não justifica a omissão da notificação compulsória.
+Focar inicialmente no suporte psicológico dentro da UBS, adiando notificações e
+articulações intersetoriais até que a adolescente demonstre maior segurança. –
+Incorreta.
+Embora o suporte psicológico seja essencial, postergar notificações e articulações
+intersetoriais compromete a proteção imediata da adolescente, expondo-a a novos
+riscos. A APS não pode se limitar à clínica isolada sem acionar a rede de proteção.
+Referências:
+BRASIL. Ministério da Saúde. Linha de cuidado para a atenção integral à saúde de
+crianças, adolescentes e suas famílias em situação de violências: orientação para
+gestores e profissionais de saúde. Brasília: Ministério da Saúde, 2010. Disponível
+em:
+https://bvsms.saude.gov.br/bvs/publicacoes/linha_cuidado_criancas_adolescentes_vi
+olencia.pdf. Acesso em: 1 out. 2025.
+BRASIL. Ministério da Saúde. Notificação de violências interpessoais e
+autoprovocadas: orientações para profissionais de saúde. 2. ed. Brasília: Ministério
+da Saúde, 2016. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/violencia_inter_pessoal_autoprovocadas
+.pdf. Acesso em: 1 out. 2025.
+BRASIL. Lei nº 8.069, de 13 de julho de 1990. Dispõe sobre o Estatuto da Criança e
+do Adolescente e dá outras providências. Diário Oficial da União, Brasília, DF, 16 jul.
+1990.
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Lêda Chaves (org.). Tratado de
+medicina de família e comunidade: princípios, formação e prática. 2. ed. Porto
+Alegre: Artmed, 2019.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 24 de 80
+
+Feedback:
+-Filtros da questão:
+
+[Competências (Objetivos)]
+Educação em saúde
+[Tema]
+Violência Sexual e Autoprovocada + Doenças de
+notificação compulsória
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIDEP
+[Habilidades]
+Identificar situações de violência sexual e tentativas
+de suicídio, realizando a notificação compulsória
+imediata desses agravos.
+10ª QUESTÃO
+
+Código da questão:
+
+136089
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Durante o acompanhamento de rotina, a equipe da Estratégia Saúde
+da Família realiza visita domiciliar a Dona Maria, 78 anos, acamada, com histórico
+de AVC, diabetes tipo 2 e hipertensão. Nos últimos dois meses, apresentou três
+episódios de infecção urinária, atualmente em tratamento com antibiótico
+intramuscular aplicado pela equipe de enfermagem. Faz uso contínuo de insulina
+NPH e regular, com necessidade de administração supervisionada. Alimenta-se por
+via oral, com ajuda, e utiliza fraldas. É assistida exclusivamente pela filha, que tem
+dificuldade de levá-la à unidade de saúde.
+Considerando o caso descrito e as modalidades de atenção domiciliar (AD1, AD2 e
+AD3), qual alternativa representa corretamente o nível indicado de atenção para o
+acompanhamento da paciente?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 25 de 80
+
+Alternativas:
+(alternativa A)
+AD1, pois o quadro é de baixa complexidade e pode ser acompanhado com visitas
+esporádicas e manejo no domicílio pela equipe local.
+(alternativa B)
+AD3, pois o quadro exige equipe especializada e atenção contínua, com suporte
+avançado e tecnologias como ventilação mecânica domiciliar.
+(alternativa C)
+AD1, pois, apesar da estabilidade clínica, Dona Maria necessita apenas de visitas
+esporádicas e tem suporte familiar adequado no domicílio.
+(alternativa D) (CORRETA)
+AD2, pois o caso demanda visitas frequentes da equipe para medicação e avaliação
+clínica, sem uso de tecnologia de alta complexidade.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+AD1, pois, apesar da estabilidade clínica, Dona Maria necessita apenas de visitas
+esporádicas e tem suporte familiar adequado no domicílio.
+Incorreta. A paciente precisa de aplicação regular de antibiótico e insulina, além de
+acompanhamento contínuo. A frequência e a natureza do cuidado exigem AD2.
+AD3, pois o quadro exige equipe especializada e atenção contínua, com suporte
+avançado e tecnologias como ventilação mecânica domiciliar.
+Incorreta. Dona Maria não utiliza tecnologias complexas como oxigenoterapia
+contínua ou ventilação mecânica, que justificariam AD3.
+AD2, pois o caso demanda visitas frequentes da equipe para medicação e avaliação
+clínica, sem uso de tecnologia de alta complexidade.
+Correta. O caso envolve necessidade de intervenções regulares da equipe de saúde,
+como antibióticos e insulina, configurando AD2 conforme critérios do MS.
+AD1, pois o quadro é de baixa complexidade e pode ser acompanhado com visitas
+esporádicas e manejo no domicílio pela equipe local.
+Incorreta. Apesar de estável, Dona Maria apresenta condições que exigem
+acompanhamento frequente da equipe, o que ultrapassa os critérios de AD1.
+Referências:
+BRASIL. Ministério da Saúde. Portaria nº 825, de 25 de abril de 2016. Redefine a
+Atenção Domiciliar no âmbito do Sistema Único de Saúde (SUS). Diário Oficial da
+União: seção 1, Brasília, DF, 26 abr. 2016.
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Lêda Chaves (org.). Tratado de
+Medicina de Família e Comunidade: princípios, formação e prática. 2. ed. Porto
+Alegre: Artmed, 2019.
+DUNCAN, Bárbara et al. (org.). Medicina ambulatorial: condutas de atenção primária
+baseadas em evidências. 6. ed. Barueri: Manole, 2022.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 26 de 80
+
+Feedback:
+-Filtros da questão:
+
+[Tema]
+Visitas domiciliares e atenção domiciliar na ESF
+[Habilidades]
+Identificar os objetivos das visitas domiciliares e as
+condições de saúde que requerem acompanhamento
+no domicílio.
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+[Competências (Objetivos)]
+Conceituar, diagnóstico e conduta
+11ª QUESTÃO
+
+Código da questão:
+
+137324
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIFIPMOC) Uma criança de 8 anos é atendida em uma Unidade Básica de Saúde
+(UBS), acompanhada por sua mãe, que relata "quedas frequentes". No exame físico,
+identiﬁcam-se múltiplas equimoses em diferentes estágios de cicatrização (braços,
+coxas e dorso), uma deformidade no úmero direito (sugestiva de fratura mal
+consolidada) e comportamento retraído. A mãe insiste que a criança é "desajeitada",
+mas nega traumas intencionais. O prontuário mostra três consultas prévias nos
+últimos seis meses por lesões similares, sem registro de suspeita de violência até o
+momento. Exames básicos (hemograma, coagulograma e radiograﬁa) descartam
+doenças hematológicas ou osteometabólicas. A equipe da UBS conhece a família,
+que reside em área de vulnerabilidade social.
+Na Atenção Primária à Saúde, qual é a ação prioritária e obrigatória do médico
+diante dessa suspeita de violência contra a criança?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 27 de 80
+
+Alternativas:
+(alternativa A)
+Iniciar acompanhamento multiprofissional (psicólogo e assistente social) na UBS
+sem notificação formal.
+(alternativa B)
+Encaminhar a criança para um centro especializado em ortopedia e aguardar laudo
+técnico antes de qualquer medida.
+(alternativa C) (CORRETA)
+Notificar o caso ao Conselho Tutelar e acionar a rede de proteção, conforme
+determina o Estatuto da Criança e do Adolescente.
+(alternativa D)
+Realizar visita domiciliar para avaliar condições de segurança e orientar a família
+sobre prevenção de acidentes.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Notificar o caso ao Conselho Tutelar e acionar a rede de proteção, conforme
+determina o ECA.
+A alternativa correta é: "Notificar o caso ao Conselho Tutelar e acionar a rede de
+proteção, conforme determina o ECA." Na Atenção Primária, a notificação imediata
+ao Conselho Tutelar é obrigatória (ECA, Art. 13), mesmo sem confirmação
+diagnóstica, pois a suspeita clínica é suficiente.
+A visita domiciliar, embora relevante no entendimento do contexto e no auxílio de
+intervenções futuras, não substitui a notificação para desencadear o procedimento
+de proteção ao menor.
+O encaminhamento ortopédico posterga a proteção da criança, e o
+acompanhamento multiprofissional é complementar, mas a notificação é prioritária.
+A Atenção Primária tem papel crucial na identificação precoce e articulação com a
+rede de proteção, conforme o Protocolo do Ministério da Saúde (2021).
+Referências:
+BRASIL. Lei nº 8.069, de 13 de julho de 1990. Dispõe sobre o Estatuto da Criança e
+do Adolescente e dá outras providências. Diário Oficial da União, Brasília, DF, 16 jul.
+1990. Seção 1, p. 13563.
+BRASIL. Ministério da Saúde. Linha de cuidado para a atenção integral à saúde de
+crianças, adolescentes e suas famílias em situação de violências: orientação para
+gestores e profissionais de saúde. Brasília, DF: Ministério da Saúde, 2021.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 28 de 80
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Violência e maus-tratos contra a criança e a
+adolescente
+[Habilidades]
+Entender as condutas adequadas diante de casos de
+violência contra crianças e adolescentes, respeitando
+os aspectos legais e éticos.
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIFIPMOC
+12ª QUESTÃO
+
+Código da questão:
+
+141755
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNISL Porto Velho) Durante o atendimento remoto de uma UBS com suporte digital,
+uma enfermeira realiza triagem por chamada de vídeo com um paciente de 59
+anos, portador de hipertensão controlada. Ele relata dor torácica leve nos últimos
+dois dias, com irradiação para o braço esquerdo e leve dispneia ao subir escadas. A
+pressão arterial aferida em casa foi 145 x 88 mmHg, e a frequência cardíaca, 92
+bpm. Não há história prévia de angina, mas o paciente é tabagista e sedentário. A
+UBS conta com agendamento de consulta presencial em até 24h, mas o hospital de
+referência está a 30 minutos de distância.
+Diante da situação apresentada em atendimento remoto, avalie a conduta mais
+adequada da equipe de saúde, garantindo a integralidade e a continuidade do
+cuidado?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 29 de 80
+
+Alternativas:
+(alternativa A)
+Orientar repouso e retorno em 48h para avaliação presencial, pois os sinais são
+leves e podem estar relacionados à ansiedade.
+(alternativa B) (CORRETA)
+Realizar imediatamente o encaminhamento presencial para avaliação médica,
+devido à suspeita de síndrome coronariana aguda.
+(alternativa C)
+Manter o monitoramento digital por 24h e agendar consulta presencial na UBS, se
+houver persistência dos sintomas.
+(alternativa D)
+Solicitar que o paciente registre um eletrocardiograma domiciliar e envie por
+mensagem digital antes de encaminhá-lo.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Alternativa correta: Realizar imediatamente o encaminhamento presencial para
+avaliação médica, devido à suspeita de síndrome coronariana aguda.
+A suspeita de síndrome coronariana exige avaliação imediata. A telemedicina não
+substitui a escuta clínica e exames físicos nesses casos.
+Alternativas incorretas:
+- Manter o monitoramento digital por 24h e agendar consulta presencial na UBS, se
+houver persistência dos sintomas. A dor torácica com irradiação e fatores de risco
+exige avaliação presencial imediata. Monitoramento remoto isolado é inadequado.
+- Orientar repouso e retorno em 48h para avaliação presencial, pois os sinais são
+leves e podem estar relacionados à ansiedade. Supor que seja ansiedade sem
+avaliação presencial pode retardar o diagnóstico de condição potencialmente grave.
+- Solicitar que o paciente registre um eletrocardiograma domiciliar e envie por
+mensagem digital antes de encaminhá-lo. O eletrocardiograma domiciliar não é uma
+realidade viável na maioria dos contextos da APS e pode atrasar o cuidado
+necessário.
+Referência:
+GUSSO, Gustavo; LOPES, João Luiz de Alencar (Orgs.). Tratado de Medicina de
+Família e Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed,
+2019. Capítulo 96 – Telessaúde e Capítulo 22 – Manejo de condições agudas na APS.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 30 de 80
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Atendimento por meio de recursos digitais e
+telemedicina na APS
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNISL PORTO VELHO
+[Habilidades]
+Reconhecer as indicações e limitações do uso da
+telemedicina na atenção primária, avaliando os
+contextos clínicos adequados para atendimento
+remoto.
+13ª QUESTÃO
+
+Código da questão:
+
+141759
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNITPAC) Em uma Unidade Básica de Saúde (UBS) com suporte digital, a equipe
+utiliza recursos de telessaúde para acompanhamento remoto de pacientes com
+doenças crônicas. Um dos médicos recém-chegados questiona a utilidade da
+telemedicina na APS. Diante disso, qual das alternativas melhor justifica a adoção
+dessas estratégias no contexto da Atenção Primária à Saúde?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 31 de 80
+
+Alternativas:
+(alternativa A) (CORRETA)
+A telessaúde contribui para o cuidado longitudinal, promove o acesso qualificado,
+fortalece o vínculo e melhora a coordenação do cuidado em todo o território.
+(alternativa B)
+A telessaúde é usada apenas em áreas remotas, substituindo completamente o
+atendimento presencial nas regiões onde há carência de médicos.
+(alternativa C)
+O atendimento remoto na APS deve ser evitado, pois enfraquece o vínculo entre
+paciente e equipe, comprometendo a integralidade do cuidado.
+(alternativa D)
+A telemedicina na APS serve principalmente para reduzir custos com infraestrutura,
+sem impacto significativo na qualidade do cuidado.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 32 de 80
+
+Resposta comentada:
+Alternativa "A telessaúde é usada apenas em áreas remotas, substituindo
+completamente o atendimento presencial nas regiões onde há carência de
+médicos." Incorreta: Embora a telessaúde possa ser estratégica em áreas remotas,
+seu uso não substitui completamente o atendimento presencial. Ela é
+complementar e utilizada em diversos contextos para ampliar o acesso e apoiar
+decisões clínicas.
+Alternativa "A telemedicina na APS serve principalmente para reduzir custos com
+infraestrutura, sem impacto significativo na qualidade do cuidado." Incorreta: A
+economia de recursos pode ser um benefício secundário, mas o objetivo central da
+telemedicina é melhorar o acesso, a continuidade e a qualidade do cuidado,
+especialmente para usuários com dificuldade de comparecer presencialmente.
+Alternativa "A telessaúde contribui para o cuidado longitudinal, promove o acesso
+qualificado, fortalece o vínculo e melhora a coordenação do cuidado em todo o
+território." Correta: A telemedicina e o telemonitoramento fortalecem o cuidado
+longitudinal, ampliam o acesso, promovem vínculo e garantem acompanhamento
+contínuo, especialmente em situações de doenças crônicas e populações
+vulneráveis. Essas estratégias são reconhecidas como parte da modernização da
+APS.
+Alternativa "O atendimento remoto na APS deve ser evitado, pois enfraquece o
+vínculo entre paciente e equipe, comprometendo a integralidade do cuidado."
+Incorreta: O atendimento remoto, quando bem estruturado e supervisionado, pode
+reforçar o vínculo entre paciente e equipe ao possibilitar contato mais frequente, e
+não compromete a integralidade, desde que integrado com o plano de cuidado.
+Referências:
+BRASIL. Ministério da Saúde. Portaria GM/MS nº 1.348, de 2 de junho de 2022.
+Institui a Estratégia Saúde Digital para o Brasil 2020–2028. Diário Oficial da União:
+seção 1, Brasília, DF, n. 106, p. 152, 03 jun. 2022. Disponível em:
+https://www.in.gov.br/en/web/dou/-/portaria-gm/ms-n-1.348-de-2-de-junho-de-2022404891313. Acesso em: 8 ago. 2025.
+BRASIL. Ministério da Saúde. Manual de Telessaúde para Atenção Primária à Saúde.
+Brasília, DF: Ministério da Saúde, 2022. Disponível em:
+https://aps.saude.gov.br/ape/telemedicina/manual_telessaude_aps_2022.pdf. Acesso
+em: 8 ago. 2025.
+BRASIL. Ministério da Saúde. Caderno de Atenção Básica nº 40: Telemedicina e
+Telessaúde na APS. Brasília, DF: Ministério da Saúde, 2023. Disponível em:
+https://www.gov.br/saude/pt-br/assuntos/atencao-primaria/cab-40.pdf. Acesso em: 8
+ago. 2025.
+ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE. Telessaúde na América Latina e no
+Caribe: análise da situação e recomendações. Brasília, DF: OPAS, 2016. Disponível
+em: https://iris.paho.org/handle/10665.2/31234. Acesso em: 8 ago. 2025.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 33 de 80
+
+Filtros da questão:
+
+[Tema]
+Atendimento por meio de recursos digitais e
+telemedicina na APS
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNITPAC
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Justificar a adoção de estratégias de telessaúde e
+telemonitoramento, fortalecendo o cuidado
+longitudinal e ampliando o acesso à APS.
+14ª QUESTÃO
+
+Código da questão:
+
+148884
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FASA VIC) A Unidade de Saúde da Família de uma determinada região está
+conduzindo um inquérito sorológico para detecção precoce da Hepatite C. O estudo
+em questão é do tipo observacional e utiliza um delineamento transversal para
+estimar a prevalência da infecção na população atendida. A hepatite C apresenta
+uma prevalência de 2,5% na população em estudo. O teste empregado possui
+sensibilidade de 96% e especificidade de 92%, conforme informado pelo fabricante.
+Considerando os diferentes delineamentos de estudo epidemiológico e o cenário
+apresentado, assinale a alternativa correta.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 34 de 80
+
+Alternativas:
+(alternativa A)
+O número de falsos negativos será maior do que o de falsos positivos, pois a
+especificidade do teste é menor que a sensibilidade.
+(alternativa B)
+OS estudos transversais são adequados para avaliar causalidade entre fatores de
+risco e desfechos clínicos, sendo preferíveis aos ensaios clínicos randomizados
+nesse contexto.
+(alternativa C)
+O estudo transversal utilizado é um delineamento experimental, pois avalia o
+impacto do teste diagnóstico na progressão da hepatite C ao longo do tempo.
+(alternativa D) (CORRETA)
+O estudo realizado permite estimar a prevalência da doença na população
+investigada, mas não estabelece relação temporal entre exposição e desfecho.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 35 de 80
+
+Resposta comentada:
+Alternativa correta: O estudo realizado permite estimar a prevalência da doença na
+população investigada, mas não estabelece relação temporal entre exposição e
+desfecho. O estudo transversal é amplamente utilizado para estimar a prevalência
+de uma doença, pois fornece uma "fotografia" da população em um determinado
+momento. No entanto, por ser um estudo observacional de corte transversal, ele
+não estabelece uma relação de causa e efeito entre exposição e desfecho, já que a
+coleta de dados ocorre simultaneamente.
+Estudos transversais são adequados para avaliar causalidade entre fatores de risco
+e desfechos clínicos, sendo preferíveis aos ensaios clínicos randomizados nesse
+contexto. Incorreta. Estudos transversais não são adequados para avaliar
+causalidade, pois não estabelecem uma relação temporal entre exposição e
+desfecho. Ensaios clínicos randomizados são a melhor abordagem para testar
+causalidade em intervenções.
+O estudo transversal utilizado é um delineamento experimental, pois avalia o
+impacto do teste diagnóstico na progressão da hepatite C ao longo do tempo.
+Incorreta. Estudos experimentais, como ensaios clínicos randomizados, envolvem
+manipulação ativa da variável de interesse (intervenção). O estudo descrito é
+observacional e transversal, sem qualquer intervenção dos pesquisadores no curso
+da infecção.
+O número de falsos negativos será maior do que o de falsos positivos, pois a
+especificidade do teste é menor que a sensibilidade. Incorreta. Dado que a
+prevalência da hepatite C na população estudada é baixa (2,5%), a grande maioria
+das pessoas não tem a doença. Isso significa que, mesmo que a taxa de falsos
+negativos seja pequena (4% dos 2,5% de casos reais), o número absoluto de falsos
+positivos será maior, pois eles vêm de um grupo muito maior de pessoas saudáveis
+(97,5% da população). Com uma sensibilidade de 96%, significa que o teste
+consegue identificar corretamente 96% dos indivíduos com hepatite C, mas 4% dos
+casos positivos terão um resultado falso negativo. Com uma especificidade de 92%,
+significa que 8% dos indivíduos saudáveis terão um resultado falso positivo.
+Referência:
+Rouquayrol, Maria Zélia; Gurgel, Marcelo. Rouquayrol: Epidemiologia e Saúde. 8. ed.
+Rio de Janeiro: MedBook, 2018.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 36 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Epidemiologia
+[Habilidades]
+Analisar as diferenças entre estudos observacionais
+e experimentais no contexto de métodos
+diagnósticos e estudos epidemiológicos, aplicando os
+conhecimentos em cada tipo de estudo em situações
+práticas.
+[Competências (Objetivos)]
+Análise epidemiológica
+[Tema]
+Análise de Métodos Diagnósticos e Estudos
+Epidemiológicos (sensibilidade, especificidade, valor
+preditivo positivo e negativo, prevalência e
+incidência)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+FASA VIC
+15ª QUESTÃO
+
+Código da questão:
+
+141929
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Caxias) Durante uma capacitação com a equipe da Estratégia Saúde
+da Família sobre identificação de violência contra a pessoa idosa, a médica da
+unidade apresenta um instrumento de triagem validado que contém 10 perguntas
+relacionadas a sinais de negligência, abuso físico, psicológico e exploração
+financeira. Ela compartilha os dados do estudo de validação do instrumento:
+Sensibilidade: 92% | Especificidade: 75% | Valor preditivo positivo: 60% | Valor
+preditivo negativo: 96%
+Ela propõe um estudo de caso:
+Um idoso de 81 anos, lúcido, comparece à unidade acompanhado de sua neta. Ao
+aplicar o instrumento, ele obteve um resultado positivo para possível violência. A
+equipe discute como interpretar esse resultado à luz das propriedades diagnósticas
+do teste. Com base nesses dados, qual é a interpretação mais adequada do
+resultado positivo no contexto da prática clínica da APS?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 37 de 80
+
+Alternativas:
+(alternativa A)
+Devido à alta especificidade do instrumento, um resultado positivo indica alta
+probabilidade de o idoso estar realmente em situação de violência.
+(alternativa B) (CORRETA)
+Um resultado positivo sugere que pode haver violência, mas, como o VPP é baixo, é
+necessário complementar com avaliação clínica e entrevista multidisciplinar.
+(alternativa C)
+Como o VPN é muito alto, um resultado positivo também deve ser considerado
+confiável para diagnóstico definitivo.
+(alternativa D)
+Como o instrumento tem alta sensibilidade e VPP elevado, um resultado positivo é
+suficiente para confirmar a ocorrência de violência, dispensando investigação
+adicional.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Embora a sensibilidade seja alta (92%), o valor preditivo positivo é apenas 60%, o
+que significa que 40% dos positivos são falsos-positivos. Portanto, um resultado
+positivo não confirma o diagnóstico, sendo necessária avaliação clínica e escuta
+qualificada.
+A especificidade de 75% não é considerada alta. Isso implica risco de falsos
+positivos, ou seja, pessoas que testam positivo, mas não estão realmente em
+situação de violência. O teste é mais útil para exclusão, e não confirmação.
+O baixo VPP (60%) indica que o teste sozinho não é suficiente para confirmar a
+hipótese de violência. Deve ser usado como triagem, e o passo seguinte é
+aprofundar com escuta qualificada, avaliação social e, se necessário, articulação
+com a rede de proteção.
+O valor preditivo negativo (VPN = 96%) indica que um resultado negativo
+praticamente exclui violência, mas não confere validade diagnóstica ao resultado
+positivo, que tem baixa confiabilidade por causa do VPP limitado.
+Referência:
+GUSSO, G.; LOPES, J. M. (orgs). Tratado de Medicina de Família e Comunidade:
+Princípios, Formação e Prática. Porto Alegre: Artmed, 2012.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 38 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Epidemiologia
+[Tema]
+Violência e maus-tratos contra os idosos
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO CAXIAS
+[Competências (Objetivos)]
+Análise Crítica
+[Habilidades]
+Compreender os conceitos de sensibilidade,
+especificidade, valor preditivo e acurácia, aplicandoos na interpretação de testes diagnósticos.
+
+16ª QUESTÃO
+Código da questão:
+
+148465
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Em um território urbano periférico, uma equipe de Saúde da Família
+identifica: prevalência elevada de doenças crônicas não transmissíveis (DCNT),
+cobertura vacinal infantil abaixo do esperado e sobrecarga devido à demanda
+espontânea, com perda de acompanhamento de famílias em situação de
+vulnerabilidade. Considerando os princípios e atribuições fundamentais dos
+profissionais da Unidade de Saúde da Família (USF) e visando alcançar impacto
+sanitário mensurável no próximo trimestre, a coordenação local propõe reorganizar
+o processo de trabalho.
+Sobre as atribuições fundamentais dos profissionais da USF, avalie as afirmações a
+seguir:
+I. Implementação de planejamento territorial participativo com análise de situação
+de saúde, definição de microterritórios, metas e monitoramento contínuo de
+indicadores.
+II. Desenvolvimento integrado de ações de promoção, prevenção e vigilância ao
+longo do curso de vida, com busca ativa, educação em saúde e gestão de risco no
+território.
+III. Organização do trabalho em equipe interdisciplinar, com reuniões periódicas,
+matriciamento e elaboração de Projetos Terapêuticos Singulares quando indicado.
+IV. Abordagem integral centrada na família, considerando determinantes sociais e
+redes de apoio, articulando fluxos na Rede de Atenção à Saúde.
+V. Definição de metas de desempenho por categoria profissional, priorizando a
+produtividade de consultas e procedimentos como critério orientador para
+distribuição de agendas e seleção de ações territoriais ao longo do trimestre.
+É correto o que se afirma em:
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 39 de 80
+
+Alternativas:
+(alternativa A) (CORRETA)
+I, II, III e IV.
+(alternativa B)
+I e V.
+(alternativa C)
+II, III e V.
+(alternativa D)
+I, II e V.
+
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+O enunciado demanda reconhecer as atribuições nucleares da USF na APS orientada
+ao território: planejar com base em análise de situação, integrar promoçãoprevenção-vigilância, operar em equipe interdisciplinar e realizar abordagem
+centrada na família com coordenação do cuidado na rede. O conjunto I–IV compõe
+esse núcleo duro. O item V introduz um desvio gerencial sutil que recoloca a
+produtividade por categoria como eixo ordenador do cuidado, o que colide com a
+lógica territorial, a integralidade e o trabalho em equipe.
+Análise item a item.
+I. Planejamento territorial participativo com ASIS, microterritórios, metas e
+monitoramento.
+Correção conceitual. Planejamento em APS decorre da leitura do território,
+estratificação de risco e pactuação de metas factíveis, com acompanhamento
+sistemático de indicadores. A ideia de microterritórios e metas vinculadas ao ciclo
+de monitoramento é coerente com a prática da ESF e com a orientação comunitária.
+II. Promoção, prevenção e vigilância integradas ao longo do curso de vida.
+Correção conceitual. A integração de ações programáticas e de vigilância, incluindo
+busca ativa, educação em saúde e gestão de risco no território, traduz a vigilância
+em saúde como função essencial da APS, articulando clínica, promoção e
+intersetorialidade.
+III. Trabalho em equipe interdisciplinar, com reunião de equipe, matriciamento e PTS
+quando indicado.
+Correção conceitual. A organização do processo de trabalho em equipe, com
+momentos formais de análise de casos, apoio matricial e uso de Projetos
+Terapêuticos Singulares, expressa a clínica ampliada e a coordenação do cuidado.
+IV. Abordagem integral centrada na família, determinantes sociais e articulação em
+rede.
+Correção conceitual. A centralidade da família e do contexto, a leitura dos
+determinantes sociais e a coordenação de fluxos na RAS compõem a integralidade e
+a responsabilidade sanitária da equipe.
+V. Metas de desempenho por categoria, com produtividade de consultas e
+procedimentos guiando agendas e seleção de ações territoriais.
+Incorreção sutil. Metas e indicadores são úteis, mas, quando o critério organizador
+passa a ser a produtividade individual por categoria, a lógica deixa de ser a
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 40 de 80
+
+necessidade sanitária do território e o cuidado centrado na família. O efeito prático é
+a fragmentação do trabalho, a burocratização das agendas e a redução da
+integralidade. A equipe perde o comando pelo risco e pela prioridade sanitária e
+passa a se orientar por contagens de atos, o que é incompatível com a clínica
+ampliada, a abordagem centrada na pessoa e a coordenação da rede.
+Análise das alternativas.
+I, II, III e IV.
+Correta. Consolida o pacote de atribuições estruturantes da USF sem o viés
+produtivista do V.
+I, II e V.
+Incorreta. Introduz o desvio gerencial do V e exclui a dimensão interdisciplinar e a
+abordagem integral, que são estruturantes.
+II, III e V.
+Incorreta. Mantém o viés do V e omite planejamento territorial participativo e a
+centralidade da família, enfraquecendo a orientação comunitária e a integralidade.
+I e V.
+Incorreta. Combina planejamento com um critério de organização de agendas e
+ações que contraria a lógica territorial e a coordenação do cuidado, além de
+suprimir vigilância integrada e trabalho em equipe.
+Referências:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (org.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019. 2 v.
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica. Portaria nº 2.436,
+de 21 de setembro de 2017. Brasília: Ministério da Saúde, 2017. Disponível em:
+https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt2436_22_09_2017.html.
+Acesso em: 1 out. 2025.
+Feedback:
+-Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Visitas domiciliares e atenção domiciliar na ESF
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Políticas, Planejamento e Gestão em Saúde
+Organização da APS
+17ª QUESTÃO
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 41 de 80
+
+Código da questão:
+
+149042
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) Durante uma tarde de atendimentos em uma Unidade Básica
+de Saúde, uma menina de 8 anos é levada pela avó, que solicita a prescrição de
+vitaminas, relatando que a neta tem apresentado perda de peso, isolamento social e
+irritabilidade. O médico observa hematomas nas coxas e nádegas da criança, além
+de lesões em diferentes estágios de cicatrização. Ao ser questionada, a avó
+demonstra constrangimento e afirma que os machucados ocorreram devido a uma
+queda acidental em casa.
+Diante do caso apresentado, qual é a conduta mais apropriada a ser adotada pelo
+médico de família e comunidade?
+Alternativas:
+(alternativa A)
+Encaminhar a nutrição para elaborar um plano saudável para recuperação do peso e
+prescrever polivitamínico.
+(alternativa B)
+Agendar consulta de retorno para a criança e voltar a abordar o assunto da queda e
+suas circunstâncias, para que possa confirmar ou refutar a possibilidade de violência
+doméstica.
+(alternativa C) (CORRETA)
+Realizar notificação do caso de violência e construir com a equipe multiprofissional
+um plano conjunto de cuidado e proteção para a criança.
+(alternativa D)
+Compartilhar o caso com a psicologia para abordagem e confirmação de eventual
+ocorrência de violência doméstica.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 42 de 80
+
+Resposta comentada:
+Compartilhar o caso com a psicologia para abordagem e confirmação de eventual
+ocorrência de violência doméstica: Errado, pois o plano de cuidado deve ser
+compartilhado com a psicologia, pois a criança apresenta sintomas de sofrimento
+psíquico, como isolamento social e irritabilidade, porém a suspeita de maus-tratos já
+é suficiente para a notificação compulsória.
+Realizar notificação do caso de violência e construir com a equipe multiprofissional
+um plano conjunto de cuidado e proteção para a criança: correto, pois a notificação
+é compulsória nos casos de violência contra crianças e adolescentes, mesmo nos
+casos de suspeita. Nos casos de crianças submetidas a situações de violência, a
+equipe de saúde da família deve compartilhar o caso com a equipe multiprofissional,
+a fim de elaborar um plano conjunto de cuidado e promoção de proteção à criança.
+Agendar consulta de retorno para a criança e voltar a abordar o assunto da queda e
+suas circunstâncias, para que possa confirmar ou refutar a possibilidade de violência
+doméstica: Errado. É importante que haja acompanhamento longitudinal desta
+criança e da família, porém o seu principal propósito não é confirmar ou refutar a
+violência doméstica, pois, a partir da suspeita, já deve-se notificar.
+Encaminhar a nutrição para elaborar um plano saudável para recuperação do peso e
+prescrever polivitamínico: Errado, porque antes de realizar o encaminhamento à
+nutrição, é necessário realizar a notificação de violência e elaborar um plano de
+cuidado para a criança. A prescrição de polivitamínico deve ser realizada após
+avaliação do peso, estatura e IMC compatíveis com a idade e exames laboratoriais,
+se necessários.
+Referências:
+BRASIL. Ministério da Saúde. Secretaria de Assistência à Saúde. Notificação de
+maus-tratos contra crianças e adolescentes pelos profissionais de saúde: um passo
+a mais na cidadania em saúde / Ministério da Saúde, Secretaria de Assistência à
+Saúde. – Brasília: Ministério da Saúde, 2002. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/notificacao_maustratos_criancas_adoles
+centes.pdf. Acesso em: 30 jan. 25.
+BRASIL. Impacto da Violência na Saúde de Crianças e Adolescentes. Ministério da
+Saúde. Brasília, 2010. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/impacto_violencia_saude_criancas_adol
+escentes.pdf. Acesso em: 30 jan. 25.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 43 de 80
+
+Filtros da questão:
+
+[Competências (Objetivos)]
+Conduta
+[Tema]
+Violência e maus-tratos contra a criança e a
+adolescente
+[Habilidades]
+Reconhecer as condutas necessárias frente a casos
+de maus-tratos contra crianças e adolescentes,
+utilizando protocolos de intervenção e notificação.
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO BARRA
+18ª QUESTÃO
+
+Código da questão:
+
+141840
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Ipatinga) Durante uma consulta na Unidade Básica de Saúde, o médico de
+família atende uma paciente de 64 anos, com diagnóstico de hipertensão arterial
+sistêmica (HAS) e diabetes tipo 2 há mais de 10 anos. Ela relata dificuldades para
+manter o uso contínuo dos medicamentos, não realiza atividade física e refere
+alimentação desregulada. Também menciona que está desanimada e sentindo-se
+sozinha desde a perda do marido há dois anos.
+Com base na complexidade do caso e nos princípios da Atenção Primária à Saúde,
+analise qual seria a conduta mais adequada frente ao cuidado longitudinal e integral
+da paciente.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 44 de 80
+
+Alternativas:
+(alternativa A) (CORRETA)
+Avaliar os fatores emocionais e sociais envolvidos, elaborar plano terapêutico
+singular com a equipe e promover escuta qualificada.
+(alternativa B)
+Fornecer orientações sobre hábitos de vida saudáveis, incentivar uso regular da
+medicação e manter acompanhamento clínico bimestral.
+(alternativa C)
+Encaminhar a paciente para atendimento especializado em endocrinologia e
+psicologia, visando atenção mais específica à sua condição.
+(alternativa D)
+Ajustar o tratamento medicamentoso para HAS e diabetes, com foco na melhora dos
+parâmetros clínicos e retorno programado em três meses.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 45 de 80
+
+Resposta comentada:
+Reorganizar o tratamento medicamentoso para hipertensão e diabetes, com foco na
+melhora dos parâmetros clínicos e retorno programado em três meses.
+Incorreta. Apesar de sugerir uma reavaliação terapêutica, essa alternativa restringe
+o cuidado ao controle biomédico dos parâmetros clínicos, sem considerar os fatores
+emocionais e sociais que comprometem a adesão da paciente. Ignora o princípio da
+integralidade do cuidado.
+Fornecer orientações sobre hábitos de vida saudáveis, incentivar uso regular da
+medicação e manter acompanhamento clínico bimestral.
+Incorreta. Embora aborde ações importantes, essa conduta é unilateral e
+prescritiva, sem participação ativa da paciente. Não inclui escuta, nem proposta
+compartilhada de cuidado, o que contraria o modelo de atenção centrado na pessoa
+e desconsidera os fatores subjetivos envolvidos.
+Avaliar os fatores emocionais e sociais envolvidos, elaborar plano terapêutico
+singular com a equipe e promover escuta qualificada.
+Correta. Essa alternativa representa a abordagem integral e centrada na pessoa,
+fundamental na APS, especialmente no manejo de doenças crônicas como
+hipertensão e diabetes. A elaboração de um Plano Terapêutico Singular (PTS)
+permite levar em conta os determinantes sociais, emocionais e clínicos que
+interferem na adesão ao cuidado. O envolvimento da equipe multiprofissional e a
+escuta qualificada são essenciais para resgatar o vínculo e promover autonomia.
+Encaminhar a paciente para atendimento especializado em endocrinologia e
+psicologia, visando atenção mais específica à sua condição.
+Incorreta. O encaminhamento sem tentativa de intervenção na APS compromete a
+coordenação do cuidado e fere o princípio da resolutividade. A equipe da Estratégia
+Saúde da Família tem competência para iniciar o manejo de fatores emocionais e
+clínicos, integrando a rede apenas quando necessário.
+Referência:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Lêda Chaves (Orgs.). Tratado de
+medicina de família e comunidade: princípios, formação e prática. 2. ed. Porto
+Alegre: Artmed, 2019. v. 2
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 46 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Complexidade e integralidade na APS e DCNT
+[Competências (Objetivos)]
+Conduta
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA IPATINGA
+[Habilidades]
+Implementar estratégias de cuidado longitudinal e
+centrado na pessoa, manejando doenças crônicas na
+APS.
+19ª QUESTÃO
+
+Código da questão:
+
+148466
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) No nível local do Sistema Único de Saúde (SUS), um órgão ou
+instância de gestão elabora planos de saúde, executa orçamento próprio, contrata e
+aloca profissionais da equipe de Saúde da Família (ESF) e da equipe de Saúde Bucal
+(ESB), assegura a infraestrutura das Unidades de Saúde da Família, organiza
+agendas e fluxos assistenciais no território, monitora indicadores e pactua
+prioridades com o controle social. À luz da Lei nº 8.080/1990, art. 18 (direção local
+do SUS responsável por gerir e executar ações e serviços) e da Política Nacional de
+Atenção Básica (PNAB) – Portaria GM/MS nº 2.436/2017 (organização da Atenção
+Primária à Saúde e da Estratégia Saúde da Família sob gestão local), identifique a
+esfera administrativa descrita:
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 47 de 80
+
+Alternativas:
+(alternativa A)
+Secretaria Estadual de Saúde.
+(alternativa B)
+Conferência Municipal de Saúde.
+(alternativa C)
+Conselho Municipal de Saúde.
+(alternativa D) (CORRETA)
+Secretaria Municipal de Saúde.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Comentário detalhado das alternativas:
+Conferência Municipal de Saúde.
+Instância periódica de participação e deliberação social. Define diretrizes gerais,
+mas não executa orçamento, não contrata equipes e não mantém infraestrutura.
+Serve para orientar e avaliar, não para gerir o cotidiano da ESF. Portanto,
+incompatível com o enunciado.
+Secretaria Estadual de Saúde.
+Atua no plano regional/estadual: coordena, apoia técnica e interfederativamente,
+regula redes, promove educação permanente e cooperação com os entes locais.
+Não é a responsável direta por contratar as equipes da ESF/ESB nem por manter a
+infraestrutura cotidiana das USF. Logo, não casa com as atribuições descritas.
+Secretaria Municipal de Saúde.
+Órgão executivo da direção local do SUS. De acordo com a Lei nº 8.080/1990, art.
+18 (direção local do SUS: planejar, organizar, controlar, avaliar, gerir e executar
+serviços) e com a PNAB/2017 (a APS/ESF como arranjo sob gestão local), é quem
+elabora planos, executa orçamento, contrata e aloca equipes, garante estrutura das
+USF, organiza agendas/fluxos e monitora indicadores com pactuação no controle
+social. É exatamente o perfil narrado. Correta.
+Conselho Municipal de Saúde.
+Instância colegiada e permanente de controle social, caráter deliberativo e
+fiscalizador sobre a política de saúde local. Aprova planos e acompanha a execução,
+mas não contrata, não executa orçamento nem mantém a infraestrutura das USF.
+Descrição do enunciado é executiva, não deliberativa. Incorreta.
+Referências:
+Lei nº 8.080, de 19 de setembro de 1990. Art. 18: direção local do SUS com
+competência para gerir e executar ações e serviços de saúde.
+Ministério da Saúde. Portaria GM/MS nº 2.436, de 21 de setembro de 2017. Política
+Nacional de Atenção Básica – organização da APS e da ESF sob gestão local.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 48 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Habilidades]
+Realizar o manejo de doenças crônicas na Atenção
+Primária à Saúde (APS), utilizando os protocolos de
+rastreamento.
+Avaliar a atuação da APS, promovendo a
+identificação precoce, a abordagem humanizada e a
+articulação com a rede de proteção intersetorial.
+[Tema]
+Atenção Primária à Saúde e Estratégia de Saúde da
+Família (Atributos da APS, composição e atribuições
+da equipe de SF.)
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Organização da APS
+
+20ª QUESTÃO
+Código da questão:
+
+148569
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Durante o atendimento em uma Unidade Básica de Saúde, um
+trabalhador da construção civil relata dor lombar crônica, agravada pelas condições
+de trabalho, como levantamento de peso excessivo e ausência de equipamentos
+ergonômicos. Após avaliação clínica, o médico da equipe considera que se trata de
+uma doença relacionada ao trabalho.
+Com base na legislação brasileira e nos princípios da saúde do trabalhador, qual das
+afirmativas a seguir está corretamente fundamentada quanto à conduta da equipe e
+ao uso da Comunicação de Acidente de Trabalho (CAT)?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 49 de 80
+
+Alternativas:
+(alternativa A)
+A lombalgia, por ser um sintoma inespecífico, não pode ser considerada doença
+relacionada ao trabalho, dispensando qualquer notificação formal ou previdenciária.
+(alternativa B) (CORRETA)
+O médico da UBS pode emitir a CAT quando identificar nexo causal entre a doença e
+as atividades laborais, garantindo o direito do trabalhador à proteção previdenciária.
+(alternativa C)
+A emissão da CAT é de responsabilidade exclusiva da empresa empregadora, sendo
+vedada sua elaboração por profissionais da rede pública de saúde.
+(alternativa D)
+A CAT deve ser preenchida apenas em casos de acidentes com lesão imediata, não
+sendo obrigatória para doenças ocupacionais com evolução crônica e gradual.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 50 de 80
+
+Resposta comentada:
+“A CAT deve ser preenchida apenas em casos de acidentes com lesão imediata, não
+sendo obrigatória para doenças ocupacionais com evolução crônica e gradual.” —
+Esta afirmativa está incorreta. A CAT é obrigatória também em casos de doenças
+ocupacionais, mesmo que de evolução lenta ou crônica, desde que haja nexo entre
+a condição de saúde e o trabalho desempenhado.
+“A emissão da CAT é de responsabilidade exclusiva da empresa empregadora,
+sendo vedada sua elaboração por profissionais da rede pública de saúde.” — Esta
+afirmativa está incorreta. A CAT pode ser emitida por diversos agentes, incluindo
+médicos da rede pública, sindicatos e até o próprio trabalhador, caso a empresa se
+omita. O profissional de saúde do SUS tem papel importante no reconhecimento de
+agravos relacionados ao trabalho.
+“O médico da UBS pode emitir a CAT quando identificar nexo causal entre a doença
+e as atividades laborais, garantindo o direito do trabalhador à proteção
+previdenciária.” — Esta afirmativa está correta. O médico da atenção básica pode e
+deve emitir a CAT ao identificar agravos relacionados ao trabalho, contribuindo para
+o acesso do trabalhador aos seus direitos, inclusive benefícios previdenciários e
+reabilitação profissional.
+“A lombalgia, por ser um sintoma inespecífico, não pode ser considerada doença
+relacionada ao trabalho, dispensando qualquer notificação formal ou
+previdenciária.” — Esta afirmativa está incorreta. A lombalgia pode, sim, estar
+relacionada ao trabalho, especialmente em atividades que envolvem esforço físico
+intenso, má postura ou carga repetitiva. Nesses casos, deve-se avaliar o nexo e
+proceder à notificação adequada.
+Referências:
+BRASIL. Ministério da Saúde. Caderno de Atenção Básica n.º 41: Saúde do
+Trabalhador na Atenção Básica à Saúde. Brasília: Ministério da Saúde, 2012.
+Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/caderno_atencao_basica_41_saude_trab
+alhador.pdf. Acesso em: 01 jun. 2025.
+BRASIL. Instituto Nacional do Seguro Social. Lei nº 8.213, de 24 de julho de 1991.
+Dispõe sobre os Planos de Benefícios da Previdência Social. Diário Oficial da União,
+Brasília, 25 jul. 1991.
+BRASIL. Ministério do Trabalho e Previdência. Instrução Normativa INSS/PRES nº
+128, de 28 de março de 2022. Dispõe sobre procedimentos para concessão de
+benefícios. Diário Oficial da União, Brasília, 29 mar. 2022.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 51 de 80
+
+Filtros da questão:
+
+[Tema]
+Saúde do trabalhador + CAT
+[Competências (Objetivos)]
+Gestão em saúde
+[Habilidades]
+Identificar as principais doenças e lesões
+relacionadas à saúde do trabalhador, considerando
+os fatores de risco ocupacionais e a obrigatoriedade
+do registro por meio da Comunicação de Acidente de
+Trabalho (CAT).
+[Subáreas de Conhecimento]
+Segurança do trabalho
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+21ª QUESTÃO
+
+Código da questão:
+
+141889
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Um médico de família está avaliando uma meta-análise sobre intervenções
+comunitárias para cessação do tabagismo. O estudo inclui 15 ensaios clínicos
+randomizados e apresenta um risco relativo (RR) de 1,45 (IC95%: 1,10–1,90) a favor
+das intervenções. No entanto, observa-se uma heterogeneidade significativa (I² =
+72%) entre os estudos incluídos.
+Com base na análise crítica da evidência, qual das seguintes interpretações é a mais
+adequada?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 52 de 80
+
+Alternativas:
+(alternativa A)
+A intervenção deve ser descartada por apresentar alta heterogeneidade, o que
+invalida os resultados da meta-análise.
+(alternativa B) (CORRETA)
+A meta-análise indica benefício estatisticamente significativo da intervenção, mas a
+alta heterogeneidade exige cautela quanto à consistência dos resultados.
+(alternativa C)
+A presença de heterogeneidade alta comprova que a intervenção não é eficaz em
+nenhum dos estudos analisados.
+(alternativa D)
+Como o intervalo de confiança não inclui o valor nulo (1,0), não é necessário avaliar
+a heterogeneidade entre os estudos.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 53 de 80
+
+Resposta comentada:
+Alternativa correta.
+- A meta-análise indica benefício estatisticamente significativo da intervenção, mas
+a alta heterogeneidade exige cautela quanto à consistência dos resultados: esta é a
+interpretação mais adequada. O RR de 1,45 com IC95% acima de 1,0 indica um
+benefício estatisticamente significativo das intervenções comunitárias. No entanto,
+o I² = 72% sugere heterogeneidade substancial entre os estudos, o que pode ser
+devido a diferenças nos métodos, populações, contextos ou intervenções. Assim, a
+evidência é positiva, mas deve ser interpretada com cautela quanto à generalização
+e consistência, exigindo análise das causas da heterogeneidade.
+Alternativas incorretas:
+- A intervenção deve ser descartada por apresentar alta heterogeneidade, o que
+invalida os resultados da meta-análise: a presença de heterogeneidade não invalida
+automaticamente os resultados da meta-análise. Ela indica variação entre os
+estudos, o que deve ser explorado (por exemplo, em análises de subgrupo ou
+metarregressão), mas não implica que a intervenção seja ineficaz. Descartar a
+intervenção sem análise contextual seria uma decisão precipitada.
+- Como o intervalo de confiança não inclui o valor nulo (1,0), não é necessário
+avaliar a heterogeneidade entre os estudos: essa interpretação é equivocada, pois a
+significância estatística não elimina a necessidade de avaliar a heterogeneidade.
+Mesmo quando o resultado é significativo, uma alta heterogeneidade pode afetar a
+robustez e aplicabilidade clínica da evidência. Ignorar a heterogeneidade
+compromete a análise crítica.
+- A presença de heterogeneidade alta comprova que a intervenção não é eficaz em
+nenhum dos estudos analisados: a heterogeneidade alta não significa ausência de
+eficácia em todos os estudos. Pelo contrário, pode indicar que alguns estudos
+mostram benefício maior e outros menor, ou que há diferenças contextuais. Afirmar
+que nenhum estudo mostrou eficácia é inadequado e incorreto, pois o RR e o IC
+mostram que há efeito positivo global, mesmo com variabilidade.
+Referências:
+GUSSO, Gustavo; LOPES, José M. C. ; DIAS, Lêda C. Tratado de medicina de família e
+comunidade - 2 volumes: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed,
+2019. E-book. p. 305. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso
+em: 24 jul. 2025.
+GUSSO, Gustavo; LOPES, José M. C. ; DIAS, Lêda C. Tratado de medicina de família e
+comunidade - 2 volumes: princípios, formação e prática. 2. ed. Porto Alegre: ArtMed,
+2019. E-book. p. 244. ISBN 9788582715369. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/. Acesso
+em: 24 jul. 2025.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 54 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Epidemiologia
+[Tema]
+Medicina baseada em evidências, revisão sistemática
+e meta-análise
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+FMIT
+[Competências (Objetivos)]
+Análise Crítica
+[Habilidades]
+Interpretar os resultados de revisões sistemáticas e
+meta-análises, avaliando sua validade e
+aplicabilidade.
+22ª QUESTÃO
+
+Código da questão:
+
+148591
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 55 de 80
+
+Enunciado:
+(UNIGRANRIO Barra) No cenário atual, as doenças crônicas não transmissíveis são a
+principal causa de carga de doença no Brasil e no mundo, com repercussões
+individuais, familiares e sociais. Considerando a complexidade das DCNTs na
+Atenção Primária à Saúde, tomando o diabetes mellitus tipo 2 (DM2) como exemplo,
+assinale a alternativa correta.
+Sobre as DCNTs e o manejo do DM2 na APS, avalie as afirmações a seguir:
+I. Os principais fatores de risco comportamentais para DCNTs são tabagismo,
+consumo de álcool, alimentação não saudável e inatividade física.
+II. As condições de vida e os determinantes sociais, como acesso a bens e serviços
+públicos, escolaridade, emprego e renda, influenciam fortemente a ocorrência e o
+controle das DCNTs.
+III. No DM2 acompanhado na APS, o seguimento periódico deve incluir avaliação do
+pé diabético, estimativa da TFG, razão albumina-creatinina urinária e vigilância
+oftalmológica para retinopatia, além de educação em saúde e vacinação atualizada.
+IV. As doenças infecciosas e virais compõem o conjunto clássico das DCNTs, ao lado
+das cardiovasculares, neoplasias, respiratórias crônicas e diabetes.
+V. A efetividade do cuidado do DM2 na APS prescinde de ações comunitárias e
+intersetoriais, devendo focar-se prioritariamente na prescrição medicamentosa.
+É correto apenas o que se afirma em:
+Alternativas:
+(alternativa A)
+I e II.
+(alternativa B)
+II e IV.
+(alternativa C)
+I, III e V.
+(alternativa D) (CORRETA)
+I, II e III.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+I- Os principais fatores de risco comportamentais para DCNTs são tabagismo,
+consumo de álcool, alimentação não saudável e inatividade física. Correta. Esses
+quatro fatores de risco modificáveis são reconhecidos pela OMS e pelo Ministério da
+Saúde como os mais importantes no desenvolvimento das DCNTs. Eles estão
+diretamente associados ao surgimento de doenças cardiovasculares, câncer,
+diabetes e doenças respiratórias crônicas.
+II- As condições de vida e os determinantes sociais, como acesso a bens e serviços
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 56 de 80
+
+públicos, escolaridade, emprego e renda, influenciam fortemente a ocorrência e o
+controle das DCNTs. Correta. As DCNTs são fortemente determinadas pelo contexto
+social, econômico e ambiental. Piores condições de vida e menor acesso a serviços
+de saúde, educação e renda aumentam a vulnerabilidade da população, dificultando
+a prevenção, o diagnóstico precoce e o tratamento adequado.
+III- No DM2 acompanhado na APS, o seguimento periódico deve incluir avaliação do
+pé diabético, estimativa da TFG, razão albumina-creatinina urinária e vigilância
+oftalmológica para retinopatia, além de educação em saúde e vacinação atualizada.
+Correta. As diretrizes brasileiras para o cuidado da pessoa com diabetes na APS
+recomendam essas ações como rotina: prevenção de complicações crônicas (pé
+diabético, doença renal crônica, retinopatia), além de estratégias de educação em
+saúde e atualização vacinal.
+IV- As doenças infecciosas e virais compõem o conjunto clássico das DCNTs, ao lado
+das cardiovasculares, neoplasias, respiratórias crônicas e diabetes. Incorreta. As
+doenças infecciosas não integram o grupo das DCNTs. O conjunto clássico é
+formado por doenças cardiovasculares, neoplasias, doenças respiratórias crônicas e
+diabetes mellitus.
+V- A efetividade do cuidado do DM2 na APS prescinde de ações comunitárias e
+intersetoriais, devendo focar-se prioritariamente na prescrição medicamentosa.
+Incorreta. O cuidado efetivo do DM2 na APS deve ir além da prescrição
+medicamentosa, envolvendo ações educativas, comunitárias, intersetoriais e de
+promoção da saúde. A abordagem centrada apenas no medicamento não garante
+adesão nem controle adequado da doença.
+Complementação:
+No grupo das DCNT estão inseridas as doenças cardiovasculares, as neoplasias, as
+respiratórias crônicas e o diabetes. Há fatores de risco modificáveis (tabagismo,
+consumo de álcool, alimentação não saudável e inatividade física) e não
+modificáveis (como predisposição genética). A hipertensão arterial (HAS) pode ter
+como consequência direta a cardiopatia hipertensiva e doença isquêmica.
+Os cinco grupos de doenças crônicas não transmissíveis (DCNTs) comumente
+reconhecidos são:
+1. Doenças cardiovasculares.
+2. Diabetes.
+3. Doenças respiratórias crônicas.
+4. Neoplasias (câncer).
+5. Doenças mentais (ou distúrbios psiquiátricos).
+Referências:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Análise em Saúde e Vigilância de Doenças Não Transmissíveis. Plano de Ações
+Estratégicas para o Enfrentamento das Doenças Crônicas e Agravos não
+Transmissíveis no Brasil 2021-2030. Brasília, 2021.
+BRASIL. Ministério da Saúde. Plano de ações estratégicas para o enfrentamento das
+doenças crônicas e agravos não transmissíveis no Brasil, 2022-2030. Brasília:
+Ministério da Saúde, 2023. Disponível em: https://www.gov.br/saude/pt-br/centraisde-conteudo/publicacoes/publicacoes-svs/doencas-cronicas-nao-transmissiveisdcnt/09-plano-de-dant-2022_2030.pdf. Acesso em: 5 out. 2024.
+DUNCAN, B. B. et al. Medicina ambulatorial: condutas de atenção primária baseadas
+em evidências, 5. ed., Porto Alegre: Artmed, 2022. p.1639-1665.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 57 de 80
+
+Feedback:
+-Filtros da questão:
+
+[Tema]
+Complexidade e integralidade na APS e DCNT
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[IES]
+UNIGRANRIO BARRA
+[Competências (Objetivos)]
+Gestão do cuidado
+[Habilidades]
+Compreender os conceitos de complexidade e
+integralidade no cuidado à saúde, relacionando-os ao
+atendimento de pacientes com DCNT.
+23ª QUESTÃO
+
+Código da questão:
+
+148204
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) A Atenção Domiciliar, no âmbito da Atenção Primária à Saúde
+(APS), é uma estratégia voltada para o cuidado integral da pessoa em seu ambiente
+familiar e comunitário, buscando promover a saúde, prevenir agravos, apoiar a
+reabilitação e oferecer acompanhamento longitudinal. Esse tipo de cuidado é
+especialmente indicado para pessoas com limitações funcionais, condições crônicas
+descompensadas ou situações que demandam reabilitação no domicílio.
+Assinale a alternativa que apresenta uma situação prioritária para atendimento
+domiciliar pelo médico de família e comunidade na APS.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 58 de 80
+
+Alternativas:
+(alternativa A)
+Paciente, sexo masculino, 48 anos, tem diagnóstico de esquizofrenia, faz uso regular
+de seus medicamentos e faz acompanhamento no Centro de Atenção Psicossocial
+(CAPS).
+(alternativa B) (CORRETA)
+Paciente, sexo masculino, 62 anos, recebeu alta hospitalar recentemente após
+diagnóstico de acidente vascular cerebral isquêmico e apresenta déficit motor.
+(alternativa C)
+Paciente, sexo feminino, 85 anos, viúva, mora com sua filha, participa do grupo de
+atividade física da Unidade Básica de Saúde (UBS).
+(alternativa D)
+Paciente, sexo masculino, 75 anos, tem diagnóstico de neoplasia maligna de
+próstata, faz acompanhamento no centro de referência de tratamento de câncer,
+com controle adequado da doença.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 59 de 80
+
+Resposta comentada:
+Paciente, sexo feminino, 85 anos, viúva, mora com sua filha, participa do grupo de
+atividade física da Unidade Básica de Saúde (UBS) – deve receber visita domiciliar
+do Agente Comunitário de Saúde (ACS), que, se identificar alguma situação de
+vulnerabilidade, poderá levar para a equipe para decidir se é necessária a visita de
+outros membros da equipe. Pelo relato, observa-se que a paciente é ativa e
+consegue ir para a unidade para participar do grupo de atividade física.
+Paciente, sexo masculino, 75 anos, tem diagnóstico de neoplasia maligna de
+próstata, faz acompanhamento no centro de referência de tratamento de câncer,
+com controle adequado da doença – apesar de ter neoplasia de próstata com
+metástase óssea, está com doença controlada. O ACS deve realizar visita domiciliar
+a esse paciente e, se identificar alguma situação de vulnerabilidade, poderá levar
+para a equipe decidir se é necessária a visita de outros membros da equipe.
+Paciente, sexo masculino, 62 anos, recebeu alta hospitalar recentemente após
+diagnóstico de acidente vascular cerebral isquêmico e apresenta déficit motor. Por
+ser um paciente que recebeu alta hospitalar recente por um acidente vascular
+isquêmico e apresenta déficit motor, deverá ser uma prioridade para visita
+domiciliar do médico, para avaliar sua condição de saúde e verificar necessidade de
+ajuste do tratamento e elaboração do plano terapêutico de reabilitação, como
+necessidade de articular com outros profissionais da equipe interdisciplinar.
+Paciente, sexo masculino, 48 anos, tem diagnóstico de esquizofrenia, faz uso regular
+de seus medicamentos e faz acompanhamento no Centro de Atenção Psicossocial
+(CAPS). Apesar do diagnóstico de um transtorno mental grave, tem sua condição
+bem controlada e boa adesão ao tratamento medicamentoso, participa de
+atividades de grupo na unidade e acompanha no CAPS. É importante que o ACS faça
+visita domiciliar para vigilância e identificação de vulnerabilidade.
+Referência:
+DUNCAN, B. B. ; SCHMIDT, M. I.; GIUGLIANI, E. R. J. Medicina ambulatorial: condutas
+de atenção primária baseadas em evidências. 4. ed. Porto Alegre: Art.med., 2013.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 60 de 80
+
+Filtros da questão:
+
+[IES]
+UNIGRANRIO BARRA
+UNIGRANRIO BARRA
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Visitas domiciliares e atenção domiciliar na ESF
+[Habilidades]
+Conhecer os casos necessários de visita domicilar do
+médico
+Reconhecer a importância da visita domiciliar como
+ferramenta de vínculo, vigilância e cuidado
+longitudinal, fortalecendo as ações da Estratégia de
+Saúde da Família
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso
+de ferramentas de Inteligência Artificial (IA).
+[Competências (Objetivos)]
+Planejamento em saúde
+24ª QUESTÃO
+
+Código da questão:
+
+148568
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Durante uma reunião da equipe de uma Unidade Básica de Saúde, os
+profissionais discutem estratégias para fortalecer as ações de promoção à saúde no
+território. Considerando os princípios e diretrizes da Política Nacional de Promoção
+da Saúde (PNPS), qual das alternativas abaixo reflete um de seus objetivos centrais?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 61 de 80
+
+Alternativas:
+(alternativa A)
+Concentrar recursos e esforços nos serviços especializados, fortalecendo a lógica de
+encaminhamento em rede.
+(alternativa B)
+Garantir acesso ampliado a medicamentos essenciais como forma prioritária de
+enfrentamento dos determinantes sociais da saúde.
+(alternativa C) (CORRETA)
+Incentivar o protagonismo das comunidades e a intersetorialidade nas ações que
+visem à criação de ambientes saudáveis.
+(alternativa D)
+Reduzir a participação popular na construção das políticas de saúde, a fim de
+agilizar processos de gestão.
+
+Grau de dificuldade:
+
+Fácil
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 62 de 80
+
+Resposta comentada:
+"Garantir acesso ampliado a medicamentos essenciais como forma prioritária de
+enfrentamento dos determinantes sociais da saúde."
+Incorreta. Apesar de o acesso a medicamentos ser um componente importante da
+Atenção Primária, a promoção da saúde na PNPS está centrada na abordagem
+intersetorial e preventiva, e não na medicalização como estratégia principal. O
+enfrentamento dos determinantes sociais da saúde envolve ações em educação,
+saneamento, mobilidade, trabalho e lazer, não sendo resolvido prioritariamente pela
+farmacoterapia. Assim, esta alternativa reduz a complexidade da promoção a um
+único eixo técnico-assistencial. PNPS (2014): "A promoção da saúde requer a
+articulação de saberes e práticas que ultrapassam o setor saúde, envolvendo
+políticas públicas que garantam ambientes saudáveis, equidade e participação
+social."
+"Correta. Incentivar o protagonismo das comunidades e a intersetorialidade nas
+ações que visem à criação de ambientes saudáveis." Essa alternativa reflete
+diretamente os princípios e diretrizes da PNPS, que coloca a autonomia das pessoas
+e das comunidades, a participação social e a intersetorialidade como eixos
+estruturantes da ação em saúde. Além disso, o conceito de ambientes promotores
+de saúde está amplamente descrito na política, como espaços que favorecem
+escolhas saudáveis e qualidade de vida. PNPS (2014): "A promoção da saúde
+compreende o fortalecimento da participação da sociedade civil e a construção de
+espaços saudáveis, com ênfase nos territórios e na autonomia das comunidades."
+Incorreta. "Concentrar recursos e esforços nos serviços especializados, fortalecendo
+a lógica de encaminhamento em rede." Essa alternativa traz uma lógica de
+centralização e verticalização do cuidado, típica do modelo hospitalocêntrico, que a
+PNPS justamente critica e busca superar. A promoção da saúde, segundo a PNPS,
+deve ser territorializada, orientada pela APS e integradora, e não focada na alta
+complexidade. O fortalecimento da rede é importante, sim, mas a centralização em
+serviços especializados foge da lógica promotora de saúde.
+Incorreta. "Reduzir a participação popular na construção das políticas de saúde, a
+fim de agilizar processos de gestão." A promoção da saúde, na perspectiva da PNPS,
+está profundamente ligada ao fortalecimento da cidadania e da democracia
+participativa. Reduzir a participação social contraria diretamente os princípios do
+SUS e os fundamentos da política. A alternativa também traz um viés tecnocrático,
+que é incompatível com os valores da promoção à saúde. PNPS (2014): "A
+participação é central na formulação, implementação e avaliação das políticas de
+promoção da saúde, como instrumento de democratização e garantia de equidade."
+Referência:
+BRASIL. Ministério da Saúde. Política Nacional de Promoção da Saúde. 3. ed. Brasília:
+Ministério da Saúde, 2010. Série B. Textos básicos de saúde. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_promocao_saude_3ed.
+pdf. Acesso em: 26 maio 2025.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 63 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Competências (Objetivos)]
+Gestão em saúde
+[Habilidades]
+Analisar as políticas de promoção à saúde,
+reconhecendo seus objetivos, estratégias e ações.
+[Tema]
+Promoção à Saúde
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+25ª QUESTÃO
+
+Código da questão:
+
+148567
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(Banco AFYA) Durante o acompanhamento de uma paciente com diabetes mellitus
+tipo 2 e hipertensão arterial sistêmica, a equipe da Unidade Básica de Saúde decide
+adotar a abordagem centrada na pessoa para melhorar o vínculo, a adesão ao
+tratamento e a autonomia da usuária.
+Considerando essa abordagem, qual das alternativas a seguir melhor representa a
+conduta adequada do profissional de saúde nesse contexto dos componentes do
+Método Clínico Centrado na Pessoa?
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 64 de 80
+
+Alternativas:
+(alternativa A) (CORRETA)
+Estabelecer uma escuta ativa, valorizando os relatos da paciente sobre sua rotina,
+suas dificuldades e seus objetivos, integrando essas informações ao plano
+terapêutico.
+(alternativa B)
+Priorizar as metas clínicas de controle glicêmico e pressórico, com base em
+protocolos de periódicos confiáveis, a despeito das preferências e condições de vida
+da paciente.
+(alternativa C)
+Aplicar condutas apenas padronizadas pelas diretrizes para os pacientes com DM e
+HAS, a fim de garantir equidade na oferta de serviços.
+(alternativa D)
+Focar nas orientações nutricionais e medicamentosas durante o atendimento, visto
+que aspectos emocionais interferem significativamente na adesão ao tratamento.
+
+Grau de dificuldade:
+
+Fácil
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 65 de 80
+
+Resposta comentada:
+“Priorizar as metas clínicas de controle glicêmico e pressórico, com base em
+protocolos de periódicos confiáveis, a despeito das preferências e condições de vida
+da paciente.” — Esta afirmativa está incorreta. Embora o controle clínico seja
+importante, a abordagem centrada na pessoa exige a consideração das
+necessidades, expectativas e contexto de vida do paciente, indo além de metas
+numéricas.
+“Aplicar condutas apenas padronizadas pelas diretrizes para os pacientes com DM e
+HAS, a fim de garantir equidade na oferta de serviços.” — Esta afirmativa está
+incorreta. A equidade exige a personalização do cuidado, oferecendo diferentes
+coisas às pessoas distintas, justamente porque os pacientes têm necessidades
+diferentes. Claro que as boas diretrizes sugerem caminhos eficazes de cuidado, mas
+nem todas as diretrizes são adequadas e a equidade não tem necessariamente a
+ver com a oferta de condutas rígidas e padronizadas que ignoram a singularidade
+de cada indivíduo.
+“Estabelecer uma escuta ativa, valorizando os relatos da paciente sobre sua rotina,
+suas dificuldades e seus objetivos, integrando essas informações ao plano
+terapêutico.” — Esta afirmativa está correta. Trata-se da essência da abordagem
+centrada na pessoa: considerar a biografia, os valores, os desejos e a autonomia do
+paciente para promover um cuidado mais humano e efetivo.
+“Focar nas orientações nutricionais e medicamentosas durante o atendimento, visto
+que aspectos emocionais interferem significativamente na adesão ao tratamento.”
+— Esta afirmativa está incorreta. Aspectos emocionais, sociais e comportamentais
+têm grande influência na adesão ao tratamento, sendo fundamentais na abordagem
+centrada na pessoa, ou seja, precisam ser abordados.
+Referências:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Lêda Chaves (org.). Tratado de
+medicina de família e comunidade: princípios, formação e prática. 2. ed. Porto
+Alegre: Artmed, 2019. 2 v.
+DUNCAN, Bárbara et al. (org.). Medicina ambulatorial: condutas de atenção primária
+baseadas em evidências. 6. ed. Barueri: Manole, 2022.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 66 de 80
+
+Filtros da questão:
+
+[Tema]
+DM e HAS centrada na pessoa
+[Competências (Objetivos)]
+Conduta
+[Habilidades]
+Compreender a abordagem centrada na pessoa no
+cuidado de Diabetes Mellitus (DM) e Hipertensão
+Arterial Sistêmica (HAS), identificando as
+competências e comportamentos necessários dos
+profissionais de saúde para sua implementação
+eficaz.
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+BANCO AFYA
+26ª QUESTÃO
+
+Código da questão:
+
+141246
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Em uma comunidade rural com casos esporádicos de raiva animal, a
+UBS identificou baixa cobertura da vacina antirrábica em idosos (>60 anos). A
+equipe deseja implementar estratégias efetivas para ampliar essa adesão, com
+base nas recomendações atualizadas da Sociedade Brasileira de Imunização (SBIm)
+para vacinação pré e pós-exposição. Assim, considerando a realidade local e as
+diretrizes da SBIm, marque a alternativa que apresenta a estratégia mais adequada
+para promover a cobertura vacinal entre os idosos dessa comunidade.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 67 de 80
+
+Alternativas:
+(alternativa A) (CORRETA)
+Promover campanhas de educação em saúde durante visitas domiciliares,
+identificando fatores de risco (exposição a morcegos ou cães errantes) e oferecendo
+vacinação pós-exposição conforme critérios clínicos e epidemiológicos.
+(alternativa B)
+Solicitar avaliação médica pré-vacinal com exame clínico e realização de
+hemograma apenas para idosos que mencionem sangramentos ou uso de
+antiagregantes, antes de aplicar a vacina posterior à exposição.
+(alternativa C)
+Incentivar a vacinação pós-exposição automatizada, orientando que qualquer
+contato com animais domésticos, mesmo sem lesão aparente, justifica iniciar o
+esquema sem necessidade de avaliação profissional prévia.
+(alternativa D)
+Oferecer a vacina pré-exposição apenas a idosos que residem em zonas com
+ocorrência de morcegos ou relatam convivência com animais errantes, mesmo sem
+incidente de mordida ou lambedura.
+
+Grau de dificuldade:
+
+Difícil
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 68 de 80
+
+Resposta comentada:
+Alternativa: "Oferecer a vacina pré-exposição apenas a idosos que residem em
+zonas com ocorrência de morcegos ou relatam convivência com animais errantes,
+mesmo sem incidente de mordida ou lambedura."
+Incorreta:
+A SBIm recomenda a vacina pré-exposição apenas para pessoas com risco contínuo
+de contato com o vírus (como trabalhadores com animais, espeleólogos), e não
+baseia critério apenas na residência em áreas com morcegos ([SBIm, 2025]). Essa
+abordagem pode gerar falsa sensação de proteção e desperdício de recursos.
+Alternativa: "Incentivar a vacinação pós-exposição automatizada, orientando que
+qualquer contato com animais domésticos, mesmo sem lesão aparente, justifica
+iniciar o esquema sem necessidade de avaliação profissional prévia."
+Incorreta:
+A vacinação após contato com animal deve ser baseada na avaliação do tipo de
+exposição (mordida, lambedura, arranhadura) e do estado do animal,
+preferencialmente com observação ou sorologia. Iniciar automaticamente não é
+indicado e vai contra a orientação da SBIm.
+Alternativa: "Promover campanhas de educação em saúde durante visitas
+domiciliares, identificando fatores de risco (exposição a morcegos ou cães errantes)
+e oferecendo vacinação pós-exposição conforme critérios clínicos e
+epidemiológicos."
+Correta:
+Estrategicamente, associar visitas domiciliares, educação em saúde e identificação
+de fatores de risco reais (morcegos, cães errantes, contato não familiar) equilibra
+responsividade com uso racional da vacina. Essa abordagem está em consonância
+com a SBIm e com princípios da APS.
+Alternativa: "Solicitar avaliação médica pré-vacinal com exame clínico e realização
+de hemograma apenas para idosos que mencionem sangramentos ou uso de
+antiagregantes, antes de aplicar a vacina posterior à exposição."
+Incorreta:
+Solicitar exames pré-vacinais, como hemograma ou avaliação clínica, não faz parte
+das recomendações da SBIm, que considera a vacina inativada de boa segurança
+mesmo em idosos com uso de antiagregantes ou risco de sangramento. Essa
+exigência cria barreira desnecessária ao acesso.
+Referência:
+SOCIEDADE BRASILEIRA DE IMUNIZAÇÕES – SBIm. Vacina antirrábica humana:
+vacinação pré e pós-exposição. Família SBIm.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 69 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Promoção à Saúde
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Promoção em saúde
+[Habilidades]
+Avaliar estratégias para ampliar a cobertura vacinal
+e enfrentar a hesitação vacinal, promovendo a
+adesão à imunização na Atenção Primária.
+27ª QUESTÃO
+
+Código da questão:
+
+148470
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIGRANRIO Barra) Um idoso de 70 anos procura a Unidade de Saúde da Família
+para atualização do cartão vacinal. Ele relata ter recebido todas as vacinas na
+infância, mas não se lembra de ter feito doses de reforço na vida adulta. O médico
+da equipe de Saúde da Família decide revisar quais vacinas estão indicadas na faixa
+etária do paciente para oferecer o melhor cuidado possível.
+Em relação às recomendações do Ministério da Saúde dentro do Programa Nacional
+de Imunização para idosos, avalie as afirmativas a seguir.
+I. A vacina contra varicela é indicada para todos os idosos sem histórico vacinal e
+aplicada em dose única.
+II. Após o esquema completo de 3 doses da vacina dT, é recomendada 1 dose de
+reforço a cada 10 anos, antecipada para 5 anos em caso de risco de difteria ou
+tétano.
+III. A vacina da febre amarela pode ser recomendada para esta idade apenas para
+não vacinados, quando há alto risco de contrair a doença e não é possível adiar a
+vacinação.
+IV. A vacina tríplice viral (SCR) deve ser aplicada em 2 doses, conforme o histórico
+vacinal, e protege contra sarampo, caxumba e rubéola.
+É correto apenas o que se afirma em:
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 70 de 80
+
+Alternativas:
+(alternativa A)
+I, III e IV.
+(alternativa B)
+I, II, III e IV.
+(alternativa C)
+I, II e III.
+(alternativa D) (CORRETA)
+II, III e IV.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+I - A vacina varicela é indicada para todos os idosos sem histórico vacinal e aplicada
+em dose única. Incorreta. A vacina contra varicela não faz parte do calendário
+vacinal de rotina para idosos no Brasil. Somente povos indígenas e trabalhadores de
+saúde que não tiveram a doença e sem histórico vacinal. São 2 doses.
+II - Após o esquema completo de 3 doses da vacina dT, é recomendado 1 reforço a
+cada 10 anos, antecipado para 5 anos em caso de risco de difteria ou tétano.
+Correta. Após o esquema completo de 3 doses, é recomendado 1 reforço a cada 10
+anos, antecipado para 5 anos em caso de risco de difteria ou tétano. Para
+profissionais de saúde, parteiras tradicionais e estagiários que atuam com recémnascidos, recomenda-se a vacina dTpa.
+III- A vacina da febre amarela pode ser recomendada para esta idade apenas para
+não vacinados, quando há alto risco de contrair a doença e não é possível adiar a
+vacinação. Correta. A vacina pode ser recomendada para esta idade apenas para
+não vacinados, quando há alto risco de contrair a doença e não é possível adiar a
+vacinação. Mas é necessária avaliação sobre a situação de saúde e as
+contraindicações. Isso vale para quem vive ou vai viajar para áreas com transmissão
+ativa. Para viajantes, a vacina deve ser tomada pelo menos 10 dias antes da
+viagem.
+IV - A vacina tríplice viral (SCR) deve ser aplicada em 2 doses, conforme o histórico
+vacinal, e protege contra sarampo, caxumba e rubéola. Correta. A vacina tríplice
+viral (SCR) é indicada para prevenção de sarampo, caxumba e rubéola. O esquema
+padrão consiste em duas doses, administradas conforme o histórico vacinal do
+indivíduo, garantindo imunidade adequada. A vacinação também contribui
+indiretamente para prevenir a síndrome da rubéola congênita, caso a mulher seja
+imunizada antes da gestação.
+Referência:
+Ministério da Saúde. Calendário Nacional de Vacinação 2024. Brasília: Ministério da
+Saúde; 2024.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 71 de 80
+
+Filtros da questão:
+
+[Tema]
+Vacinação (indicações, contraindicações, efeitos
+adversos, faixa etária)
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIGRANRIO BARRA
+[Competências (Objetivos)]
+Prevenção
+[Habilidades]
+Avaliar estratégias para ampliar a cobertura vacinal
+e enfrentar a hesitação vacinal, promovendo a
+adesão à imunização na Atenção Primária.
+
+28ª QUESTÃO
+Código da questão:
+
+148469
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(FMIT) Durante uma discussão de caso entre preceptor e alunos, surge a
+necessidade de avaliar a literatura sobre terapias para o controle da asma. O grupo
+identifica dois trabalhos: um ensaio clínico intitulado “Uso de Corticoides Inalatórios
+na Redução de Sintomas em Pacientes com Asma Moderada” e um artigo “Síntese
+de Evidências sobre Corticoides Inalatórios e Antagonistas de Receptores de
+Leucotrienos: revisão sistemática e meta-análise”. Selecione a alternativa que
+explicita, de forma conceitualmente correta, a diferença entre revisão sistemática e
+meta-análise, considerando que a revisão sistemática consiste em um método
+estruturado de busca, seleção, avaliação crítica e síntese das evidências, enquanto
+a meta-análise corresponde à técnica estatística que combina quantitativamente os
+resultados de estudos comparáveis dentro (ou a partir) de uma revisão sistemática.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 72 de 80
+
+Alternativas:
+(alternativa A)
+Em uma meta-análise, os resultados de vários estudos são combinados, enquanto
+uma revisão sistemática analisa múltiplos estudos em um único artigo.
+(alternativa B) (CORRETA)
+A revisão sistemática reúne, avalia criticamente e sintetiza estudos, enquanto a
+meta-análise utiliza métodos estatísticos para combinar quantitativamente esses
+resultados.
+(alternativa C)
+Nas revisões sistemáticas, a análise se restringe a artigos seminais, de forma
+qualitativa, enquanto nas meta-análises a análise é quantitativa baseada em
+ensaios clínicos randomizados duplo-cegos.
+(alternativa D)
+Uma meta-análise é realizada por pesquisadores sênior, enquanto uma revisão
+sistemática é conduzida necessariamente por uma equipe que busca realizar uma
+análise e síntese estatística.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 73 de 80
+
+Resposta comentada:
+"A revisão sistemática reúne, avalia criticamente e sintetiza estudos, enquanto a
+meta-análise utiliza métodos estatísticos para combinar quantitativamente esses
+resultados. Por que a correta está correta".
+A revisão sistemática é um método: pergunta estruturada, protocolo explícito de
+busca, critérios de elegibilidade, avaliação do risco de viés e síntese das evidências.
+A meta-análise é uma técnica estatística opcional dentro (ou a partir) da revisão
+sistemática, que calcula um efeito combinado quando há comparabilidade suficiente
+entre os estudos, lidando com heterogeneidade (por exemplo, I²), modelos de
+efeitos fixos/aleatórios e análises de sensibilidade.
+“Nas revisões sistemáticas, a análise se restringe a artigos seminais, de forma
+qualitativa, enquanto nas meta-análises a análise é quantitativa baseada em
+ensaios clínicos randomizados duplo-cegos.”
+Incorreta porque revisões sistemáticas não se limitam a “artigos seminais” e podem
+incluir diferentes desenhos de estudo, definidos por critérios pré-estabelecidos.
+Além disso, meta-análise não é exclusiva de ensaios duplo-cegos; pode combinar
+estudos observacionais quando apropriado e justificável.
+“Uma meta-análise é realizada por pesquisadores sênior, enquanto uma revisão
+sistemática é conduzida necessariamente por uma equipe que busca realizar uma
+análise e síntese estatística.”
+Incorreta porque senioridade dos autores não define o tipo de estudo. Revisão
+sistemática não é “necessariamente” estatística; muitas são narrativas quando a
+heterogeneidade ou a qualidade dos dados impedem a combinação quantitativa.
+“Em uma meta-análise, os resultados de vários estudos são combinados, enquanto
+uma revisão sistemática analisa múltiplos estudos em um único artigo.”
+Incorreta por ser vaga e tautológica. Dizer que a RS “analisa múltiplos estudos em
+um único artigo” não distingue método (RS) de técnica (meta-análise) nem
+menciona os elementos essenciais de cada um.
+Referências
+KAURA, Amit. Medicina Baseada em Evidências - Leitura e Redação de Textos
+Clínicos: Grupo GEN, 2016. E-book. ISBN 9788595151338. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595151338/. Acesso em: 06
+fev. 2024.
+STEIN, A.T. Cap.29. Medicina Baseada em Evidência aplicada à Prática do Médico de
+Família e Comunidade. In: GUSSO. G et al. Tratado de Medicina de Família e
+Comunidade. 2ed. 2019
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 74 de 80
+
+Filtros da questão:
+
+[IES]
+FMIT
+FMIT
+[Subáreas de Conhecimento]
+Epidemiologia
+[Tema]
+Medicina baseada em evidências, revisão sistemática
+e metanálise
+Medicina baseada em evidências, revisão sistemática
+e meta-análise
+[Competências (Objetivos)]
+Diferenciar
+Análise Crítica
+[Habilidades]
+Diferenciar revisão sistemática de meta análise
+Interpretar os resultados de revisões sistemáticas e
+meta-análises, avaliando sua validade e
+aplicabilidade.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+29ª QUESTÃO
+
+Código da questão:
+
+148493
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(UNIDEP) Durante reunião de equipe em uma Unidade Básica de Saúde, surge a
+dúvida sobre a correta utilização de documentos médicos-legais no cotidiano do
+serviço. Um usuário solicitou atestados, outro requereu um relatório médico
+detalhado, e a equipe também precisou preencher uma declaração de óbito.
+Considerando a finalidade de cada um desses documentos, assinale a alternativa
+correta.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 75 de 80
+
+Alternativas:
+(alternativa A) (CORRETA)
+O atestado justifica situações de saúde de forma sucinta e o relatório médico
+detalha informações para fins assistenciais, previdenciários ou jurídicos.
+(alternativa B)
+O atestado deve conter história clínica completa e resultados de exames, servindo
+como documento principal para vigilância epidemiológica.
+(alternativa C)
+O relatório médico é destinado a processos judiciais, não podendo ser solicitado
+pelo próprio paciente em situações assistenciais.
+(alternativa D)
+A declaração de óbito é usada em casos de morte violenta, enquanto as mortes
+naturais ficam sob responsabilidade exclusiva do cartório.
+
+Grau de dificuldade:
+
+Fácil
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 76 de 80
+
+Resposta comentada:
+Correta: O atestado justifica situações de saúde de forma sucinta e o relatório
+médico detalha informações para fins assistenciais, previdenciários ou jurídicos.
+Essa alternativa resume corretamente as finalidades de cada documento:
+Atestado: documento breve que justifica situações de saúde de interesse do
+paciente ou de terceiros (empregador, escola etc.), sem necessidade de exposição
+detalhada.
+Relatório médico: documento descritivo, com informações detalhadas e pertinentes,
+usado em situações assistenciais, previdenciárias, administrativas ou jurídicas.
+Incorreta: O atestado deve conter história clínica completa e resultados de exames,
+servindo como documento principal para vigilância epidemiológica.
+O atestado não deve conter história clínica completa nem resultados de exames.
+Seu objetivo é comprovar de forma sucinta uma condição de saúde, justificar
+afastamentos, restrições ou aptidão laboral, escolar e social. O detalhamento clínico
+excessivo viola princípios éticos de sigilo e só deve constar em relatórios médicos
+quando solicitados pelo paciente ou por determinação legal.
+Incorreta: A declaração de óbito é usada em casos de morte violenta, enquanto as
+mortes naturais ficam sob responsabilidade exclusiva do cartório.
+A declaração de óbito (DO) é documento obrigatório para qualquer falecimento, seja
+por causa natural ou externa (acidentes, violência, suicídio, causas mal definidas). O
+cartório não pode registrar o óbito sem a DO devidamente preenchida pelo médico
+responsável. Nas mortes violentas, deve ser emitida por médico-legista, mas isso
+não exclui a obrigatoriedade do documento nos demais casos.
+Incorreta: O relatório médico é destinado a processos judiciais, não podendo ser
+solicitado pelo próprio paciente em situações assistenciais.
+O relatório médico não é restrito a processos judiciais. Ele é um instrumento
+detalhado, solicitado em diferentes contextos: fornecimento de medicamentos de
+alto custo, benefícios previdenciários, encaminhamentos a outros serviços e
+processos administrativos. O paciente ou seu representante legal tem direito a
+solicitar esse documento, que deve ser elaborado com clareza, veracidade e
+respeito ao sigilo.
+Referências:
+BRASIL. Conselho Federal de Medicina. Resolução CFM nº 1.658, de 14 de janeiro de
+2002. Dispõe sobre a emissão de atestados médicos. Disponível em:
+https://www.portal.cfm.org.br. Acesso em: 08 out. 2025.
+BRASIL. Ministério da Saúde. Manual de Instruções para o Preenchimento da
+Declaração de Óbito. Brasília: MS, 2022. Disponível em:
+https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/dados-epesquisas/mortalidade/manual-do-2022.pdf. Acesso em: 08 out. 2025.
+BRASIL. Conselho Federal de Medicina. Código de Ética Médica (Resolução CFM nº
+2.217/2018). Brasília: CFM, 2019. Disponível em:
+https://portal.cfm.org.br/images/PDF/cem2019.pdf. Acesso em: 08 out. 2025.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 77 de 80
+
+Filtros da questão:
+
+[Tema]
+Medicina legal (principais documentos médicos)
+[Subáreas de Conhecimento]
+Medicina de Família e Comunidade
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+UNIDEP
+[Competências (Objetivos)]
+Aplicabilidade prática
+[Habilidades]
+Reconhecer os principais documentos médicos
+legais, como atestado, declaração de óbito e
+relatório médico, explicando suas finalidades.
+30ª QUESTÃO
+
+Código da questão:
+
+148467
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N2 INTERNATO
+Enunciado:
+(AFYA Paraíba) Considerando uma pergunta clínica de intervenção terapêutica
+(PICO) em adultos na atenção ambulatorial, com desfechos clínicos relevantes e
+comparador ativo, assinale o desenho cuja evidência tende a ocupar o nível mais
+alto na hierarquia, conforme a prática em Saúde Baseada em Evidências e o
+entendimento da pirâmide fluida de evidências orientada à pergunta.
+Alternativas:
+(alternativa A)
+Ensaio clínico randomizado individual.
+(alternativa B)
+Estudo de coorte.
+(alternativa C) (CORRETA)
+Revisão sistemática com meta-análise de ensaios clínicos randomizados.
+(alternativa D)
+Opinião de especialista.
+
+Grau de dificuldade:
+
+Médio
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 78 de 80
+
+Resposta comentada:
+Opinião de especialista. Incorreta. A opinião de especialista informa contexto e
+plausibilidade, porém não reduz adequadamente risco de vieses.
+Estudo de coorte. Incorreta. Coortes são valiosas para prognóstico, fatores de risco e
+segurança em mundo real; para efeito causal de intervenção, ficam abaixo de ECRs
+e de suas sínteses.
+Ensaio clínico randomizado individual. Incorreta. Um ECR bem conduzido pode
+superar uma revisão sistemática frágil; porém, quando a revisão atende a critérios
+metodológicos robustos, ocupa o topo para esse tipo de pergunta.
+Revisão sistemática com meta-análise de ensaios clínicos randomizados. Correta.
+Para perguntas de intervenção, sínteses de alta qualidade (revisão sistemática com
+meta-análise de ECRs, com busca abrangente, avaliação de risco de viés e GRADE)
+reúnem maior precisão e generalização do efeito do que estudos individuais.
+Nota didática:
+A “nova pirâmide” desloca o foco do desenho “em si” para a adequação ao tipo de
+pergunta. Ao especificarmos que a pergunta é de intervenção, com desfechos
+clínicos, reduzimos a controvérsia e tornamos a alternativa "Revisão sistemática
+com meta-análise de ensaios clínicos randomizados." a mais apropriada. Para outras
+perguntas, o topo pode variar (diagnóstico: estudos de acurácia e suas revisões;
+prognóstico: coortes e suas sínteses; etiologia rara: caso-controle bem conduzido
+etc.).
+Referência:
+Duncan BB, et al., Editores. Medicina ambulatorial: condutas de atenção primária
+baseadas em evidências. 5. ed. Porto Alegre: Artmed; 2022. 2 vols.
+Feedback:
+--
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 79 de 80
+
+Filtros da questão:
+
+[Subáreas de Conhecimento]
+Saúde Coletiva
+[Tema]
+Medicina baseada em evidências, revisão sistemática
+e meta-análise
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando
+ferramentas de Inteligência Artificial (IA).
+Profissionais especialistas humanos revisaram este
+conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Aplicabilidade prática
+[Habilidades]
+Interpretar os resultados de revisões sistemáticas e
+meta-análises, avaliando sua validade e
+aplicabilidade.
+
+000174.480012.709c5a.271a5c.f09586.093585.6c0f46.c692b
+
+Página 80 de 80
+
+

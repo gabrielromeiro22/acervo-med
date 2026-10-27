@@ -1,0 +1,308 @@
+DEVOLUTIVA DOS RECURSOS
+ATENÇÃO PRIMÁRIA EM SAÚDE – ROTAÇÃO 03 – 11/06/2025
+Aluno(a),
+A etapa de recursos das provas do Internato visa assegurar a isonomia e a qualidade
+das avaliações aplicadas. Assim, encorajamos todos os alunos a utilizarem esse
+mecanismo de forma responsável e construtiva.
+Após a interposição dos recursos, uma comissão revisa as solicitações de forma
+imparcial e objetiva, definindo quais recursos seguirão para a segunda etapa, que é a
+análise pela comissão de professores especialistas das unidades Afya.
+Na etapa inicial, são deferidos ou indeferidos os recursos, com base nas normas
+previamente compartilhadas. Sendo elas:
+•
+•
+•
+•
+•
+
+O recurso interposto deve conter argumentação lógica e consistente sobre o
+gabarito da questão.
+O recurso com dados incompletos e sem justificativa consistente e
+fundamentada será automaticamente indeferido.
+O recurso deve ser de autoria própria. Recursos que apresentem redação e/ou
+trechos iguais aos de outros alunos será automaticamente indeferido.
+Recursos que apresentem cópia do enunciado da questão ou das alternativas
+serão automaticamente indeferidos.
+As referências que embasaram o recurso devem estar obrigatoriamente
+conforme normas ABNT/Vancouver.
+
+Para aqueles recursos interpostos dentro das normas acima estabelecidas, estes foram
+analisados, e o parecer final foi registrado neste caderno de recursos.
+Importante: A divulgação do caderno de recursos finaliza a etapa de contestação, não
+sendo possível a reabertura de novos recursos.
+
+Diretoria de Ensino
+
+PARECER
+
+QUESTÃO 03: CADERNO 01
+QUESTÃO 29: CADERNO 02
+QUESTÃO 15: CADERNO 03
+QUESTÃO 01: CADERNO 04
+
+PARECER: INDEFERIDO
+JUSTIFICATIVA:
+A afirmativa “Como a sensibilidade e a especificidade são altas, o teste não
+depende da prevalência da doença para seu uso em rastreamentos” apresenta
+um equívoco conceitual relevante e, por isso, está incorreta.
+Embora seja verdadeiro que sensibilidade (capacidade de identificar
+corretamente os indivíduos com a doença) e especificidade (capacidade de
+identificar corretamente os indivíduos sem a doença) são características
+intrínsecas do teste diagnóstico — ou seja, não variam com a prevalência da
+doença na população —, a utilidade prática do teste em estratégias de
+rastreamento populacional depende, sim, da prevalência da doença.
+Isso ocorre porque os valores preditivos — valor preditivo positivo (VPP) e valor
+preditivo negativo (VPN) — são diretamente influenciados pela prevalência. Em
+populações com baixa prevalência, mesmo testes com alta sensibilidade e
+especificidade podem gerar um número significativo de falsos positivos,
+reduzindo o VPP e comprometendo a efetividade e o custo-benefício da
+estratégia de rastreamento.
+Portanto, ao afirmar que o teste “não depende da prevalência para seu uso em
+rastreamentos”, a alternativa desconsidera o impacto da prevalência sobre a
+interpretação dos resultados e sobre a aplicabilidade clínica do teste, o que é
+essencial na avaliação de políticas de rastreamento populacional.
+Conclusão:
+A alternativa é conceitualmente incorreta, pois confunde as propriedades do
+teste com os critérios epidemiológicos necessários para seu uso racional em
+saúde pública.
+REFERÊNCIA:
+Franco LJ, Passos ADC. Fundamentos de Epidemiologia. 2ª ed. Barueri: Manole;
+2011. Capítulo 7: Características dos instrumentos de medida, p. 149–150.
+
+Rouquayrol, Maria Zélia; Gurgel, Marcelo. Rouquayrol: epidemiologia e saúde.
+8. ed. Rio de Janeiro: MedBook, 2018.
+
+PARECER
+
+QUESTÃO 19: CADERNO 01
+QUESTÃO 26: CADERNO 02
+QUESTÃO 11: CADERNO 03
+QUESTÃO 02: CADERNO 04
+
+PARECER: INDEFERIDO
+JUSTIFICATIVA:
+O recurso apresenta contradição em sua argumentação. O próprio autor
+reconhece que a contraindicação formal da vacina BCG aplica-se a recémnascidos com peso inferior a 2.000 g, o que corrobora o conteúdo da afirmativa
+2. No entanto, esta foi redigida de forma imprecisa ao incluir, de maneira
+inadequada, a idade gestacional como critério impeditivo.
+REFERÊNCIA:
+BRASIL. Ministério da Saúde. Manual de procedimentos para vacinação. 2. ed.,
+rev. e atual. Brasília: Ministério da Saúde, 2024.
+
+PARECER
+
+QUESTÃO 15: CADERNO 01
+QUESTÃO 07: CADERNO 02
+QUESTÃO 03: CADERNO 03
+QUESTÃO 12: CADERNO 04
+
+PARECER: INDEFERIDO
+JUSTIFICATIVA:
+Após análise detalhada dos argumentos e das referências apresentadas,
+verifica-se que, embora o texto traga uma fundamentação respeitosa e com
+respaldo documental, há um equívoco na interpretação das diretrizes vigentes.
+Ressalta-se que os documentos oficiais do Ministério da Saúde, incluindo o
+Manual de Procedimentos para Vacinação (2ª ed., 2024), indicam de forma clara
+que o peso inferior a 2.000 g é o único critério para adiamento da administração
+da vacina BCG. A idade gestacional não é citada como contraindicação formal.
+Portanto, a inclusão desse fator na afirmativa 2 é considerada imprecisa.
+
+REFERÊNCIA:
+GUSSO, Gustavo; LOPES, José Mauro Ceratti; DIAS, Liliane; SCHENKEL,
+Inácio Crochemore. Tratado de Medicina de Família e Comunidade: Princípios,
+Formação e Prática. 2. ed. Porto Alegre: Artmed, 2019.
+
+PARECER
+
+QUESTÃO 18: CADERNO 01
+QUESTÃO 05: CADERNO 02
+QUESTÃO 06: CADERNO 03
+QUESTÃO 10: CADERNO 04
+
+PARECER: INDEFERIDO
+JUSTIFICATIVA:
+Ao utilizar recomendações relativas a outras vacinas ou imunoglobulinas para
+justificar a inclusão da idade gestacional como critério, o recurso evidencia a
+existência de critérios específicos para diferentes imunobiológicos. Essa
+distinção reforça que a afirmativa analisada apresenta informação incorreta ao
+generalizar tais critérios para a vacina BCG.
+REFERÊNCIA:
+GUSSO, Gustavo; MACHADO, Lucas Bastos Marcondes. Atenção primária à
+saúde. In: GUSSO, Gustavo; LOPES, José M. C.; DIAS, Lêda C. Tratado de
+medicina de família e comunidade – 2 volumes: princípios, formação e prática.
+2. ed. Porto Alegre: ArtMed, 2019. E-book. p. 237. ISBN 9788582715369.
+Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582715369/.
+Acesso em: 13 jun. 2025.
+
+PARECER
+
+QUESTÃO 17: CADERNO 01
+QUESTÃO 06: CADERNO 02
+QUESTÃO 05: CADERNO 03
+QUESTÃO 09: CADERNO 04
+
+PARECER: INDEFERIDO
+JUSTIFICATIVA:
+Após análise detalhada do recurso interposto sobre a questão referente aos
+Eventos Adversos Pós-Vacinação (EAPV), informamos que o recurso foi
+indeferido, pelos motivos técnicos e normativos a seguir expostos:
+A questão em debate apresentava três quadros clínicos distintos compatíveis
+com EAPV, sendo dois considerados não graves e um classificado como grave
+(idoso de 70 anos, imunossuprimido, com lúpus eritematoso sistêmico, vacinado
+inadvertidamente contra febre amarela, evoluindo com insuficiência hepática
+aguda).
+A alternativa considerada correta afirma:
+“Os três casos devem ser notificados como EAPV, pois mesmo reações leves
+contribuem para o monitoramento da segurança vacinal e identificação de
+padrões em nível populacional.”
+Entende-se que tal afirmativa está amparada na 4ª edição do Manual de
+Vigilância Epidemiológica de Eventos Adversos Pós-Vacinação (Ministério da
+Saúde, 2022), documento técnico de referência vigente e citado na devolutiva
+oficial da avaliação. Conforme consta nesse manual:
+“Além da notificação obrigatória dos eventos adversos graves, recomenda-se a
+notificação de eventos leves, principalmente em situações de campanha,
+introdução de novos imunobiológicos, investigação de eventos de causalidade
+incerta ou com potencial de associação com o imunizante utilizado. A vigilância
+ativa desses eventos permite detectar padrões populacionais e fortalecer a
+farmacovigilância vacinal.” (MS, 2022, p. 48)
+Adicionalmente, mesmo à luz da Portaria GM/MS nº 6.734, de 18 de março de
+2025, que atualiza a Lista Nacional de Notificação Compulsória de Doenças,
+Agravos e Eventos de Saúde Pública, não se observa contradição direta, pois o
+referido item 23 do Anexo dispõe:
+
+“Item 23 – Eventos adversos graves ou óbitos pós-vacinação: de notificação
+compulsória.”
+Isto é, a lista define os eventos cuja notificação é compulsória, mas não proíbe
+ou contraindica a notificação de eventos leves, especialmente quando há
+interesse epidemiológico. A afirmativa constante na alternativa não estabelece
+caráter compulsório absoluto, mas destaca a importância técnica da notificação
+ampliada dos três casos no contexto da vigilância em saúde pública.
+Quanto à ausência da menção ao erro de imunização no caso do paciente
+imunossuprimido, entende-se que tal dado, embora importante, não invalida a
+alternativa, pois a gravidade clínica do evento já justifica sua notificação como
+EAPV grave, conforme preconizado tanto pela Portaria quanto pelo Manual de
+2022. A inclusão do erro de imunização, por sua vez, representaria uma
+notificação complementar, cuja omissão não compromete a correção da
+afirmativa.
+Dessa forma, considera-se que a alternativa encontra respaldo técnico nas
+normativas utilizadas como referência institucional, e a ausência de citação
+explícita ao erro de imunização não compromete a assertiva principal.
+
+REFERÊNCIA:
+BRASIL. Ministério da Saúde. Manual de Normas e Procedimentos para
+Vacinação. Capítulo 6, p. 47. Brasília, 2021.
+BRASIL. Manual de Vigilância Epidemiológica de Eventos Adversos PósVacinação.
+4ª edição. Brasília: Ministério da Saúde, 2022.
+SOCIEDADE BRASILEIRA DE ALERGIA E IMUNOLOGIA. Manual de Alergia a
+Medicamentos. Capítulo 1, p. 10. São Paulo, 2020.
+
+PARECER
+
+QUESTÃO 06: CADERNO 01
+QUESTÃO 14: CADERNO 02
+QUESTÃO 01: CADERNO 03
+QUESTÃO 20: CADERNO 04
+
+PARECER: MUDANÇA DE GABARITO – ALTERNATIVA CORRETA: O
+médico deve comunicar à autoridade policial, uma vez que a investigação da
+causa da morte, quando não confirmada como natural, deve ser realizada pelo
+Instituto Médico Legal
+JUSTIFICATIVA:
+A alternativa “O médico deve comunicar à autoridade policial, uma vez que a
+investigação da causa da morte, quando não confirmada como natural, deve ser
+realizada pelo Instituto Médico Legal” deverá ser considerada correta. Quando
+não é possível afirmar com segurança que a morte ocorreu por causa natural, e
+não há histórico clínico prévio que comprove essa hipótese, a conduta legal e
+ética adequada é acionar a autoridade policial e providenciar o encaminhamento
+do corpo ao Instituto Médico Legal (IML) para investigação da causa do óbito.
+Está alinhada à Resolução CFM nº 2.231/2019 e aos manuais do Ministério da
+Saúde (2023).
+Respeita os limites da atuação médica: o médico comunica a autoridade policial,
+que então é responsável por acionar o IML.
+“O médico deve registrar a inexistência de causa natural definida, acionar a
+autoridade competente e providenciar o encaminhamento do corpo ao Instituto
+Médico Legal.” Deverá ser considerada INCORRETA.
+A frase “providenciar o encaminhamento do corpo ao IML” implica que o médico
+tomaria ações logísticas ou administrativas que não são de sua alçada,
+especialmente na Atenção Primária.
+A expressão “registrar a inexistência de causa natural definida” é ambígua. Pode
+ser confundida com o ato de preencher a Declaração de Óbito, o que é vedado
+nesses casos.
+REFERÊNCIA:
+Brasil. Ministério da Saúde. Manual de Atestado de Óbito: questões operacionais
+e epidemiológicas. 4ª ed. Brasília: MS, 2023.
+
+PARECER
+QUESTÃO 28: CADERNO 01
+QUESTÃO 19: CADERNO 02
+QUESTÃO 19: CADERNO 03
+QUESTÃO 13: CADERNO 04
+
+PARECER: INDEFERIDO
+JUSTIFICATIVA:
+A banca reconhece o empenho argumentativo do recorrente e valoriza o esforço
+em aprofundar a reflexão sobre o papel das tecnologias digitais na vigilância em
+saúde. No entanto, após análise cuidadosa, mantemos a correção da alternativa
+assinalada originalmente como correta, por entendermos que ela responde com
+maior precisão ao comando da questão, que solicita a conduta mais adequada
+neste contexto específico.
+A alternativa correta reconhece a utilidade das ferramentas digitais para fins
+administrativos e clínicos, mas ressalta com justeza que essas tecnologias não
+substituem as estratégias tradicionais de vigilância, como a visita domiciliar e a
+escuta qualificada no território. A Atenção Primária à Saúde (APS) no Brasil se
+estrutura a partir de laços, vínculos, saberes partilhados e presença concreta. A
+corporeidade do cuidado, a educação popular em saúde, os encontros entre
+agentes comunitários e usuários, o olhar atento ao contexto de vida nada disso
+é substituível por plataformas, algoritmos ou dashboards.
+Mesmo os recursos digitais mais sofisticados devem ser compreendidos como
+instrumentos complementares, e não como eixos estruturantes da APS. A
+presença física no território, o afeto nas relações e o diálogo com os saberes
+populares seguem sendo insubstituíveis como fundamentos da vigilância
+participativa e propositiva.
+Dessa forma, o recurso é indeferido, uma vez que os argumentos apresentados
+não invalidam a correção da alternativa, nem demonstram superior adequação
+das demais ao comando proposto.
+REFERÊNCIA:
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica. Portaria
+GM/MS no 2.436, de 21 de setembro de 2017. Brasília: Ministério da Saúde,
+2017.
+Disponível
+em:
+https://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_atencao_basica_
+2017.pdf. Acesso em: 15 jun. 2025. CONSELHO FEDERAL DE MEDICINA
+(Brasil). Resolução CFM no 2.314, de 20 de abril de 2022. Dispõe sobre a
+
+regulamentação da telemedicina como forma de serviços médicos mediados por
+tecnologias. Diário Oficial da União, seção 1, Brasília, DF, n. 76, p. 241-244, 26
+abr. 2022.
+BRASIL. Ministério da Saúde. Lei no 15.126, de 29 de abril de 2025. Altera a Lei
+no 8.080/1990 (Lei Orgânica da Saúde), para introduzir o princípio da atenção
+humanizada. Diário Oficial da União, 29 abr. 2025.
+
+PARECER
+
+QUESTÃO 09: CADERNO 01
+QUESTÃO 30: CADERNO 02
+QUESTÃO 12: CADERNO 03
+QUESTÃO 05: CADERNO 04
+
+PARECER: INDEFERIDO
+JUSTIFICATIVA:
+Mesmo com os avanços dos recursos digitais, é importante destacar que esses
+instrumentos devem ser compreendidos como complementares e não como
+elementos estruturantes da Atenção Primária à Saúde (APS). A presença no
+território, o vínculo afetivo e o diálogo com os saberes populares continuam
+sendo pilares essenciais e insubstituíveis para a prática da vigilância em saúde
+com base participativa e propositiva.
+Dessa forma, o recurso é indeferido, considerando que os argumentos
+apresentados não invalidam a correção da alternativa assinalada, tampouco
+demonstram maior adequação das demais opções ao enunciado da questão.
+
+REFERÊNCIA:
+BRASIL. Ministério da Saúde. Lei no 15.126, de 29 de abril de 2025. Altera a Lei
+no 8.080/1990 (Lei Orgânica da Saúde), para introduzir o princípio da atenção
+humanizada. Diário Oficial da União, 29 abr. 2025.
+
+

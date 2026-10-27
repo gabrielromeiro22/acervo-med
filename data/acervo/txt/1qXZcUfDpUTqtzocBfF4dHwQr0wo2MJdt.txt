@@ -1,0 +1,718 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina III
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 09/10/2025
+
+N1 ESPECÍFICA - MEDICINA - MCM III - 2025.2 - 1ª CHAMADA
+- 09/OUTUBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17393 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(UNISL Porto Velho) Um grupo de estudantes de Medicina está cursando o eixo de
+Métodos Científicos em Medicina e recebeu como atividade avaliativa formular uma
+questão de pesquisa para um determinado clínico.
+Após o uso da técnica adequada, a questão de pesquisa foi: “Em pacientes adultos
+com diagnóstico de insuficiência cardíaca, a prática regular de exercício físico
+supervisionado, em comparação à ausência de atividade física estruturada, melhora
+a qualidade de vida após seis meses de acompanhamento?”
+Considerando o caso acima e os diferentes tipos de técnica para formulação de
+perguntas de pesquisa, qual técnica os alunos utilizaram para formular sua questão?
+Alternativas:
+(alternativa A)
+PCC/PO.
+(alternativa B)
+PCC.
+(alternativa C) (CORRETA)
+PICO/PICOT.
+(alternativa D)
+PO.
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 1 de 18
+
+Resposta comentada:
+Correta: Técnica PICO/PICOT, pois são voltadas a questões clínicas de intervenção e
+comparação. O modelo PICO (Paciente–Intervenção–Comparação–Outcome), ou sua
+variação PICOT (que inclui Tempo), é o mais adequado para perguntas clínicas
+envolvendo ensaios clínicos randomizados, pois organiza de forma clara todos os
+componentes essenciais da pesquisa.
+“Em pacientes adultos com diagnóstico de insuficiência cardíaca (P), a prática
+regular de exercício físico supervisionado (I), em comparação à ausência de
+atividade física estruturada (C), melhora a qualidade de vida (O) após seis meses de
+acompanhamento (T)?”
+Incorretas:
+Técnica PO, pois permite organizar qualquer questão ampla de forma clínica e
+direta. O modelo PO (Paciente–Outcome) é útil para perguntas amplas e de caráter
+mais descritivo, mas não contempla intervenção e comparação, que são centrais em
+ensaios clínicos.
+Técnica PCC, pois mostra-se adequada a desenhos de revisões de escopo. O modelo
+PCC (População–Conceito–Contexto) é indicado para revisões de escopo e não para
+perguntas específicas sobre intervenção clínica.
+Técnica PCC/PO, pois são mais indicadas para perguntas gerais sem variáveis
+específicas. Tanto o PO quanto o PCC são indicados em situações de perguntas
+gerais, observacionais ou revisões de literatura, mas não para estudos de
+intervenção, como os ensaios clínicos.
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre:
+Artmed, 2021.
+GREENHALGH, Trisha. Como ler artigos científicos: fundamentos da medicina
+baseada em evidências. Porto Alegre: Artmed, 2015.
+SANTOS, C. A. M.; PIMENTA, MATTOS, C. A.; NOBRE, M. R. C. A estratégia PICO para
+a construção da pergunta de pesquisa e busca de evidências. Rev. Latino-Americana
+de Enfermagem, Ribeirão Preto, v. 15, n. 3, p. 508–511, 2007. DOI:
+https://doi.org/10.1590/S0104-11692007000300023. Acesso em: 19 nov. 2024.
+Feedback:
+-2ª QUESTÃO
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 2 de 18
+
+Enunciado:
+(AFYA Garanhuns) Leia o cenário hipotético abaixo:
+Objetivo: Este estudo buscou analisar as evidências disponíveis sobre estratégias de
+promoção da adesão ao tratamento em pacientes com hipertensão arterial.
+Métodos: foi realizada uma busca nas bases PubMed, Scopus e SciELO, sem recorte
+temporal, incluindo estudos qualitativos e quantitativos. A seleção seguiu critérios
+de inclusão e exclusão previamente definidos. A análise envolveu extração
+padronizada dos dados, categorização das evidências e síntese dos resultados.
+Resultados: foram incluídos 37 artigos que abordaram desde intervenções
+educativas até o uso de tecnologias digitais. Os dados foram organizados em
+categorias temáticas (educação em saúde, adesão medicamentosa, autocuidado),
+permitindo identificar lacunas de pesquisa e potenciais estratégias eficazes.
+Conclusão: A revisão possibilitou reunir resultados de diferentes tipos de estudos,
+favorecendo uma compreensão abrangente sobre intervenções que podem
+melhorar a adesão terapêutica em pacientes hipertensos.
+Avalie o cenário apresentado e identifique a alternativa que identifica o tipo de
+revisão utilizada e justifica sua classificação metodológica.
+Alternativas:
+(alternativa A)
+Trata-se de uma revisão narrativa, pois reuniu artigos de diferentes naturezas sem
+critérios rígidos de inclusão, permitindo ao autor análise interpretativa e subjetiva
+das evidências sem categorização sistemática.
+(alternativa B)
+Trata-se de uma revisão de escopo, pois mapeou a literatura ampla sobre o tema
+sem detalhamento ou categorização, enfatizando a contextualização e o panorama
+geral das evidências em vez de análise sistemática.
+(alternativa C) (CORRETA)
+Trata-se de uma revisão integrativa, pois definiu critérios de inclusão e exclusão,
+utilizou extração padronizada de dados e organizou os resultados em categorias
+temáticas a partir de estudos qualitativos e quantitativos.
+(alternativa D)
+Trata-se de uma revisão sistemática com metanálise, pois seguiu um protocolo
+rigoroso de seleção dos artigos e extração dos resultados, utilizando métodos
+estatísticos para comparar e analisar os resultados dos artigos em conjunto.
+
+Resposta comentada:
+Trata-se de uma revisão integrativa, pois definiu critérios de inclusão e exclusão,
+utilizou extração padronizada de dados e organizou os resultados em categorias
+temáticas a partir de estudos qualitativos e quantitativos. Correta: Revisão
+integrativa: busca sistematizada em bases, critérios de inclusão/exclusão, extração
+padronizada, análise de diferentes tipos de estudo (quantitativos e qualitativos) e
+organização em categorias, mas sem tanto rigor metodológico como a revisão
+sistemática.
+Alternativa: Trata-se de uma revisão narrativa, pois reuniu artigos de diferentes
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 3 de 18
+
+naturezas sem critérios rígidos de inclusão, permitindo ao autor análise
+interpretativa e subjetiva das evidências sem categorização sistemática. Incorreta:
+Revisão narrativa: caracteriza-se por ausência de critérios rigorosos, seleção e
+análise dos dados mais subjetiva e análise interpretativa do autor.
+Alternativa: Trata-se de uma revisão de escopo, pois mapeou a literatura ampla
+sobre o tema sem detalhamento ou categorização, enfatizando a contextualização e
+o panorama geral das evidências em vez de análise sistemática. Incorreta: Embora
+o cenário mencione a ausência de recorte temporal e a abordagem ampla, as
+revisões de escopo têm como objetivo principal mapear a literatura existente para
+identificar lacunas, e não realizam categorização temática estruturada com extração
+padronizada de dados - o que a diferencia da integrativa.
+Alternativa: Trata-se de uma revisão sistemática com metanálise, pois seguiu um
+protocolo rigoroso de seleção dos artigos e extração dos resultados, utilizando
+métodos estatísticos para comparar e analisar os resultados dos artigos em
+conjunto. Incorreta: esse tipo de revisão se caracteriza pelo protocolo de alta
+padronização, avaliação crítica da qualidade dos estudos incluídos e, quando
+aplicável, síntese quantitativa (metanálise). O cenário não mencionou avaliação de
+qualidade dos estudos e também mencionou que incluiu estudos quantitativos e
+qualitativos, o que diferencia a revisão integrativa da sistemática. As revisões
+sistemáticas avaliam apenas artigos de metodologia semelhante (quantitativos
+experimentais ou quantitativos observacionais). Ex.: RS de ensaios clínicos
+randomizados, RS de estudos de coorte.
+Referências:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde – Fundamentos,
+Métodos e Aplicações. Rio de Janeiro: Grupo GEN, 2011. E-book. ISBN 978-85-2772119-6. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85277-2119-6/. Acesso em: 16 maio 2024.
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre:
+Artmed, 2021. E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 10
+out. 2024.
+CAVALCANTE, L.; OLIVEIRA, A. A. S. de. Métodos de revisão bibliográfica nos estudos
+científicos. Psicologia em Revista, v. 26, n. 1, p. 82-100, jan./abr. 2020. Disponível
+em: v26n1a06.pdf. Acesso em: 19 ago. 2025.
+LEITE, T. H. et al. Epidemiologia da violência obstétrica: uma revisão narrativa do
+contexto brasileiro. Ciência & Saúde Coletiva, v. 29, n. 9, 2024. Disponível em:
+https://doi.org/10.1590/1413-81232024299.12222023. Epub em: 19 ago. 2025. ISSN
+1678-4561. Acesso em: 12 nov. 2024.
+MELO, A. P. L. de et al. Síndrome congênita do zika e impactos para as famílias: uma
+revisão integrativa. Ciência & Saúde Coletiva, v. 28, n. 5, p. 1425-1441, 2023.
+Disponível em: https://doi.org/10.1590/1413-81232023285.14852022. Epub em: 12
+maio 2023. ISSN 1678-4561. Acesso em: 12 nov. 2024.
+ROTHER, E. T. Revisão sistemática X revisão narrativa. Acta Paulista de
+Enfermagem, v. 20, n. 2, p. v–vi, abr. 2007. Disponível em:
+https://www.scielo.br/j/ape/a/z7zZ4Z4GwYV6FR7S9FHTByr/. Acesso em: 19 ago.
+2025. Acesso em: 12 nov. 2024.
+Feedback:
+-3ª QUESTÃO
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 4 de 18
+
+Enunciado:
+(UNISL JI-Paraná) Leia o abstract abaixo:
+Abstract:
+"A presente revisão de literatura teve como objetivo sintetizar as evidências
+disponíveis sobre a associação entre o consumo de ácidos graxos ômega-3 e a
+incidência de doenças cardiovasculares. Foram seguidas as diretrizes da ferramenta
+PRISMA, com buscas por meio de operadores booleanos em bases de dados
+científicas, Scielo, Dynamed, Pubmed, por exemplo. Estudos elegíveis foram
+selecionados com base em critérios predefinidos, e a qualidade metodológica foi
+avaliada por dois revisores independentes. Ao final, foi realizada análise dos dados,
+uma nova estatística foi conduzida para estimar o efeito conjunto das intervenções.
+Os resultados indicam uma redução significativa no risco de eventos
+cardiovasculares em indivíduos que consomem regularmente ácidos graxos ômega3."
+THEINGI-AUNG, M. B. B. S.; HALSEY, B. S. J.; KROMBHOUT D. et al. [...]. JAMA Cardiology – The Latest in
+Cardiovascular Medicine, v. 3, n. 3, p.225-233. doi:10.1001/jamacardio.2017.5205
+
+Levando em consideração o texto acima, marque a alternativa que identifica
+corretamente o tipo de revisão realizada nesse trabalho.
+Alternativas:
+(alternativa A) (CORRETA)
+Trata-se de uma revisão sistemática com metanálise, pois utilizou diretrizes
+metodológicas rigorosas, critérios predefinidos de inclusão e análise estatística dos
+dados.
+(alternativa B)
+Trata-se de uma revisão narrativa, pois sintetiza informações sobre um tema sem
+seguir um método estruturado.
+(alternativa C)
+Trata-se de uma revisão integrativa, pois combina diferentes metodologias para
+fornecer uma visão abrangente sobre o tema.
+(alternativa D)
+Trata-se de uma revisão narrativa, pois combina diferentes metodologias para
+fornecer uma visão abrangente sobre o tema.
+
+Resposta comentada:
+A alternativa "Trata-se de uma revisão sistemática com metanálise, pois utilizou
+diretrizes metodológicas rigorosas, critérios predefinidos de inclusão e análise
+estatística dos dados." é a correta, porque o abstract apresenta características
+fundamentais desse tipo de revisão:
+1. Uso de diretrizes metodológicas rigorosas (PRISMA):
+O estudo menciona que seguiu as diretrizes do PRISMA (Preferred
+Reporting Items for Systematic Reviews and Meta-Analyses), que
+é um padrão para condução de revisões sistemáticas e
+metanálises. Isso indica que houve um planejamento detalhado na
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 5 de 18
+
+busca, seleção e análise dos estudos.
+2. Busca sistemática em múltiplas bases de dados:
+A revisão incluiu uma busca estruturada em cinco bases de dados
+científicas, característica típica de revisões sistemáticas, que
+visam recuperar o maior número possível de estudos relevantes
+sobre o tema.
+3. Critérios predefinidos para inclusão de estudos:
+A seleção dos estudos foi baseada em critérios pré-definidos, um
+elemento essencial das revisões sistemáticas, garantindo que a
+inclusão ou exclusão de artigos seja objetiva e replicável.
+4. Avaliação da qualidade metodológica por revisores independentes:
+Esse processo reduz o risco de viés e aumenta a confiabilidade da
+revisão, sendo um procedimento padrão em revisões sistemáticas.
+5. Realização de metanálise:
+O abstract menciona que os dados foram analisados
+estatisticamente por meio de metanálise, que consiste na
+combinação quantitativa dos resultados dos estudos incluídos.
+Esse é um diferencial importante, pois nem todas as revisões
+sistemáticas incluem metanálise.
+Por que as outras alternativas estão incorretas:
+Trata-se de uma revisão narrativa, pois sintetiza informações sobre um tema sem
+seguir um método estruturado.
+A revisão não é narrativa, pois uma revisão narrativa não segue métodos
+estruturados e normalmente não inclui análise quantitativa. Além disso, a
+revisão descrita segue as diretrizes PRISMA e apresenta análise estatística,
+o que é mais característico de uma revisão sistemática ou metanálise.
+Trata-se de uma revisão integrativa, pois combina diferentes metodologias para
+fornecer uma visão abrangente sobre o tema.
+A revisão não é integrativa, pois uma revisão integrativa combina
+metodologias de estudos qualitativos e quantitativos, mas o foco da
+revisão descrita é mais específico, com análise estatística quantitativa e
+rigor metodológico, o que a aproxima mais de uma metanálise.
+Trata-se de uma revisão narrativa, pois combina diferentes metodologias para
+fornecer uma visão abrangente sobre o tema.
+Embora a revisão combine diferentes metodologias, o ponto mais relevante
+para caracterizá-la como uma revisão sistemática com metanálise é a
+avaliação de qualidade dos estudos incluídos e o uso de análise estatística
+para combinar dados e estimar efeitos conjuntos, o que a distingue de uma
+revisão narrativa.
+Referências:
+BRASIL. Ministério da Saúde. Diretrizes Metodológicas. Elaboração de revisão
+sistemática e metanálise de ensaios clínicos randomizados. Brasília: Editora do
+Ministério da Saúde, 2012.
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde – Fundamentos,
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 6 de 18
+
+Métodos e Aplicações. Rio de Janeiro: Grupo GEN, 2011. E-book. ISBN 978-85-2772119-6. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85277-2119-6/. Acesso em: 28 set. 2025.
+THEINGI-AUNG, M. B. B. S.; HALSEY, B. S. J.; KROMBHOUT D. et al. Associations of
+Omega-3 Fatty Acid Supplement Use With Cardiovascular Disease Risks - Metaanalysis of 10 Trials Involving 77 917 Individuals. JAMA Cardiology – The Latest in
+Cardiovascular Medicine, v. 3, n. 3, p.225-233. doi:10.1001/jamacardio.2017.5205.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(FMIT) Um ensaio clínico randomizado (ECR), paralelo e duplo-cego, avaliou a
+eficácia de uma nova estatina em adultos com LDL (lipoproteína de baixa
+densidade) ≥ 160 mg/dL. Foram randomizados 420 participantes e acompanhados
+por 24 meses. Desfecho primário: variação percentual do LDL aos 12 meses.
+Desfechos secundários (pré-especificados): eventos cardiovasculares maiores –
+MACE (do inglês major adverse cardiovascular events), definidos como infarto do
+miocárdio não fatal, acidente vascular cerebral (AVC) isquêmico e morte
+cardiovascular, além de eventos adversos. A intervenção reduziu o LDL em 35%
+versus controle (p<0,001), sem diferença em MACE até 24 meses.
+Com base no ECR acima, qual é o tipo de desfecho primário utilizado?
+Alternativas:
+(alternativa A) (CORRETA)
+Desfecho substituto.
+(alternativa B)
+Desfecho composto.
+(alternativa C)
+Desfecho subjetivo.
+(alternativa D)
+Desfecho clínico.
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 7 de 18
+
+Resposta comentada:
+Correta - Desfecho substituto. O desfecho primário é laboratorial/fisiológico
+(redução do LDL). Ele se correlaciona com risco cardiovascular, mas não mede
+diretamente um resultado clínico para o paciente (como infarto, AVC ou morte).
+Portanto, é desfecho substituto.
+Incorreta – Desfecho clínico.
+Desfechos clínicos são eventos ou resultados relevantes para o paciente (p. ex.,
+mortalidade, MACE, qualidade de vida). Na vinheta, eles aparecem como
+secundários, não como primários.
+Incorreta – Desfecho composto.
+Há um composto (MACE) entre os secundários, mas o primário é único e contínuo
+(variação do LDL), não agregando múltiplos eventos.
+Incorreta – Desfecho subjetivo.
+Desfechos subjetivos dependem da percepção/julgamento (p. ex., dor, fadiga). LDL é
+objetivo e mensurável, portanto não se enquadra aqui.
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol, epidemiologia e saúde. Rio
+de Janeiro: MedBook, p. 171-176; 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 28
+jul. 2025.
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(FIP Guanambi) Leia o resumo adaptado de um estudo hipotético:
+"Pesquisadores avaliaram a efetividade de uma campanha de incentivo à prática de
+atividade física em bairros de uma cidade do interior. Foram selecionados
+aleatoriamente 10 bairros, sendo que, em 5 deles, a campanha foi implementada
+com atividades educativas, instalação de equipamentos em praças e grupos de
+caminhada supervisionada. Nos outros 5 bairros, nenhuma intervenção foi realizada.
+Após 12 meses, os pesquisadores compararam os níveis médios de atividade física e
+a incidência de hipertensão entre os moradores dos bairros participantes."
+Com base no texto, o estudo descrito é classificado como:
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 8 de 18
+
+Alternativas:
+(alternativa A)
+ensaio clínico controlado randomizado, pois a intervenção foi aplicada
+aleatoriamente e houve grupo controle.
+(alternativa B)
+estudo de coorte, pois houve o acompanhamento dos indivíduos expostos e não
+expostos ao longo do tempo.
+(alternativa C) (CORRETA)
+ensaio comunitário, pois a intervenção foi realizada em grupos inteiros (bairros) e os
+desfechos avaliados em nível populacional.
+(alternativa D)
+estudo transversal, pois compara a prevalência de hipertensão entre diferentes
+populações em um único momento.
+
+Resposta comentada:
+Ensaio clínico controlado randomizado: incorreta. O estudo não aplicou a
+intervenção diretamente a indivíduos de forma aleatória, mas sim a bairros inteiros.
+Em um ensaio clínico individual, cada participante seria randomizado para grupo
+intervenção ou controle, o que não aconteceu aqui.
+Estudo transversal: incorreta. O estudo não é transversal porque houve
+acompanhamento por 12 meses e intervenção. Estudos transversais são
+observacionais e avaliam um "corte" em um único momento no tempo, sem seguir
+os participantes, apenas medindo prevalência.
+Ensaio comunitário: correta. O texto descreve um ensaio comunitário randomizado
+por clusters (bairros): alguns bairros receberam a intervenção (atividades
+educativas, equipamentos e caminhadas supervisionadas), e outros não. Depois de
+12 meses, compararam os resultados (níveis de atividade física e incidência de
+hipertensão) em nível populacional.
+Estudo de coorte: incorreta. Embora o desenho lembre um acompanhamento de
+grupos expostos (bairros com intervenção) e não expostos (sem intervenção), a
+característica de intervenção planejada pelos pesquisadores faz com que seja
+classificado como ensaio. O estudo de coorte é observacional, enquanto aqui houve
+intervenção pelos pesquisadores.
+Referências:
+ROTHMAN, Kenneth; GREENLAND, Sander; LASH, Timothy. Epidemiologia moderna.
+3.ª ed. Porto Alegre: ArtMed, 2011. E-book. p. 621. ISBN 9788536325880. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9788536325880/.
+Acesso em: 09 set. 2024.
+VIEIRA, Sonia; HOSSNE, William S. Metodologia Científica para a Área de Saúde. 3.
+ed. Rio de Janeiro: GEN Guanabara Koogan, 2021. E-book. p. 1. ISBN
+9788595158658. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595158658/. Acesso
+em: 20 ago. 2025.
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 9 de 18
+
+Feedback:
+A classificação correta do estudo apresentado como ensaio comunitário se
+fundamenta na natureza da intervenção descrita, que foi planejada e aplicada a
+grupos inteiros (bairros), e não a indivíduos isolados. Essa característica diferencia
+os ensaios comunitários dos ensaios clínicos individuais, cuja lógica é a alocação de
+tratamentos ou intervenções diretamente em cada participante.
+O raciocínio por trás da resposta está no nível de análise adotado: enquanto o
+ensaio clínico busca mensurar efeitos em desfechos individuais (como resposta
+clínica ou biomarcadores), o ensaio comunitário avalia o impacto de estratégias em
+populações ou comunidades inteiras, geralmente associadas a políticas públicas ou
+programas de promoção da saúde.
+Dessa forma, a resposta correta não apenas identifica a classificação metodológica,
+mas também reflete a compreensão de que o objeto central do estudo são os
+efeitos coletivos de uma intervenção em nível populacional, o que justifica o
+enquadramento como ensaio comunitário.
+
+6ª QUESTÃO
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 10 de 18
+
+Enunciado:
+(ITPAC Porto Nacional) Durante a disciplina de Metodologia Científica, um grupo de
+estudantes de Medicina foi desafiado a elaborar uma pesquisa que avaliasse
+intervenções não farmacológicas no controle da hipertensão arterial sistêmica
+(HAS), doença crônica altamente prevalente no Brasil e responsável por elevada
+carga de morbimortalidade cardiovascular. Após discussão com o orientador, o
+grupo definiu a seguinte pergunta, estruturada segundo a estratégia PICO:
+Em adultos com hipertensão arterial sistêmica, a dieta com restrição de sódio,
+quando comparada à dieta sem restrição, é eficaz para reduzir a pressão arterial
+sistólica?
+Considerando o uso de técnicas de busca avançada em bases científicas, qual das
+seguintes assertivas apresenta a estratégia de busca em português mais adequada
+para recuperar artigos relevantes sobre intervenções dietéticas no controle da
+hipertensão arterial sistêmica?
+Alternativas:
+(alternativa A)
+("Hipertensão arterial" AND "Dieta com restrição de sódio") AND ("Redução da
+pressão arterial sistólica").
+(alternativa B)
+("Hipertensão" AND "Dieta com sódio reduzido") AND ("Controle da pressão arterial"
+OR "Estudo observacion*").
+(alternativa C) (CORRETA)
+("Hipertensão" OR "Pressão arterial elevada") AND ("Restrição de sódio" OR "Dieta
+hipossódica") AND ("Ensai** clínic*").
+(alternativa D)
+("Hipertensão" AND "Restrição de sódio") AND ("Pressão arterial" AND "Estudo
+randomizad*" OR "Revis* sistemátic*").
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 11 de 18
+
+Resposta comentada:
+("Hipertensão arterial" AND "Dieta com restrição de sódio") AND ("Redução da
+pressão arterial sistólica"). Incorreta. Embora use operadores booleanos básicos, é
+pouco abrangente, pois não contempla sinônimos nem truncamento.
+("Hipertensão" OR "Pressão arterial elevada") AND ("Restrição de sódio" OR "Dieta
+hipossódica") AND ("Ensai** clínic*"). Correta. É a expressão mais completa:
+contempla sinônimos, combinações com AND, aspas para expressões compostas e
+truncamento para ampliar resultados.
+("Hipertensão" AND "Restrição de sódio") AND ("Pressão arterial" AND "Estudo
+randomizad*" OR "Revisão sistemátic*"). Incorreta. Restrita em termos, não explora
+sinônimos; truncamento e o uso de operadores booleanos inadequados reduzem a
+sensibilidade da busca.
+("Hipertensão" AND "Dieta com sódio reduzido") AND ("Controle da pressão arterial"
+OR "Estudo observacion*"). Incorreta. Apesar de utilizar aspas, truncamento e
+operadores booleanos, estão inadequados e carecem de sinônimos, limitando a
+abrangência.
+Referências:
+FREITAS, B. F. et al. O uso dos operadores como estratégia de busca em revisões de
+literatura científica. Brazilian Journal of Implantology and Health Sciences, v. 5, n. 3,
+p. 652–664, 2023.
+GREENHALGH, Trisha. Como Ler Artigos Científicos: fundamentos da medicina
+baseada em evidências. 5. ed. Porto Alegre: Artmed, 2015. 282 p.
+OLIVEIRA ARAÚJO, W. C. Recuperação da informação em saúde: construção, modelos
+e estratégias. ConCI: Convergências em Ciência da Informação, v. 3, n. 2, p. 100–
+134, 2020.
+SANTOS, C. A. M.; PIMENTA, M.; NOBRE, M. R. C. A estratégia PICO para a construção
+da pergunta de pesquisa e busca de evidências. Rev. Latino-Am. Enfermagem, v. 15,
+n. 3, p. 508–511, 2007.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Pesquisadores avaliaram uma nova vacina contra influenza em
+comparação à vacina padrão utilizada no Sistema Único de Saúde (SUS). O
+protocolo estabeleceu que a nova vacina seria considerada adequada se
+apresentasse uma resposta imunológica pelo menos tão eficaz quanto a vacina
+padrão, admitindo-se até 2% de diferença a menos, mas não exigindo que fosse
+superior. Ao final do estudo, as análises mostraram que a resposta da nova vacina
+não foi pior à da vacina padrão, dentro da margem estabelecida.
+Com base nessas informações, o estudo descrito pode ser classificado como:
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 12 de 18
+
+Alternativas:
+(alternativa A)
+estudo observacional do tipo coorte prospectiva.
+(alternativa B) (CORRETA)
+estudo experimental do tipo ensaio de não inferioridade.
+(alternativa C)
+estudo experimental do tipo ensaio de superioridade.
+(alternativa D)
+estudo experimental do tipo ensaio de equivalência.
+
+Resposta comentada:
+A alternativa que descreve o estudo como ensaio de não inferioridade está correta.
+Esse tipo de ensaio é utilizado quando se deseja demonstrar que uma nova
+intervenção não é clinicamente pior que a intervenção padrão, além de uma
+margem pré-definida. No caso descrito, admitiu-se até 2% de diferença a menos na
+eficácia imunológica, o que caracteriza exatamente um estudo de não inferioridade.
+A opção que classifica o estudo como ensaio de equivalência está incorreta. Ensaios
+de equivalência exigem que a nova intervenção seja testada dentro de duas
+margens (superior e inferior), demonstrando que os resultados estão compreendidos
+em um intervalo bilateral, o que não foi descrito no enunciado.
+A alternativa que define o estudo como ensaio de superioridade também está
+incorreta, pois não havia intenção de demonstrar que a nova vacina fosse melhor
+que a existente, mas apenas que não fosse inferior.
+Por fim, a opção que classifica o estudo como coorte prospectiva está incorreta, já
+que se trata de um estudo experimental com alocação de intervenção e não de um
+estudo observacional.
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre:
+Artmed, 2021.
+FRIEDMAN, L. M.; FURBERG, C. D.; DEMETS, D. L. Fundamentals of Clinical Trials. 5.
+ed. New York: Springer, 2015.
+PIAGGIO, G. et al. Reporting of noninferiority and equivalence randomized trials:
+extension of the CONSORT 2010 statement. JAMA, v. 308, n. 24, p. 2594–2604,
+2012.
+BRASIL. Ministério da Saúde. Agência Nacional de Vigilância Sanitária (ANVISA).
+Ensaios clínicos com medicamentos no Brasil: diretrizes e normas. Brasília: ANVISA,
+2021.
+Feedback:
+-8ª QUESTÃO
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 13 de 18
+
+Enunciado:
+(AFYA Itacoatiara) Uma equipe de pesquisadores deseja avaliar a eficácia de duas
+intervenções diferentes para o tratamento da obesidade grau III em adultos jovens.
+Os pesquisadores propõem dois estudos controlados distintos:
+Estudo A: comparar o uso de um novo fármaco que atua na saciedade com um
+placebo, analisando a perda de peso após 12 meses.
+Estudo B: comparar a cirurgia bariátrica laparoscópica com a cirurgia bariátrica por
+via aberta, avaliando complicações pós-operatórias e redução de peso após 12
+meses.
+Considerando os objetivos propostos, qual delineamento metodológico está sendo
+empregado em cada estudo?
+Alternativas:
+(alternativa A)
+Os estudos A e B são estudos observacionais, pois não há intervenção direta do
+pesquisador sobre os participantes.
+(alternativa B)
+Os dois estudos são ensaios clínicos farmacológicos, pois avaliam desfechos em
+saúde a partir de intervenções controladas.
+(alternativa C)
+O estudo A é observacional farmacológico e o estudo B é experimental cirúrgico,
+pois apenas a cirurgia envolve manipulação de técnica.
+(alternativa D) (CORRETA)
+O estudo A é um ensaio clínico farmacológico e o estudo B é um ensaio clínico
+cirúrgico, pois avaliam intervenções específicas em seus campos.
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 14 de 18
+
+Resposta comentada:
+O estudo A é um ensaio clínico farmacológico e o estudo B é um ensaio clínico
+cirúrgico, pois cada um avalia intervenções específicas ao seu campo, visto que o
+estudo A investiga a eficácia de um medicamento, sendo um ensaio clínico
+farmacológico. Já o estudo B compara duas técnicas cirúrgicas, caracterizando um
+ensaio clínico cirúrgico. Essa é a alternativa que diferencia corretamente os
+delineamentos.
+A alternativa que diz que ambos os estudos são estudos observacionais, pois não há
+intervenção direta do pesquisador sobre os participantes, está incorreta, pois os dois
+estudos propõem intervenções diretas: administração de um fármaco ou realização
+de procedimentos cirúrgicos. Estudos observacionais não envolvem intervenção,
+apenas acompanhamento de desfechos em condições naturais, o que não se aplica
+nestes estudos.
+A alternativa que diz que o estudo A é observacional farmacológico e o estudo B é
+experimental cirúrgico, pois apenas a cirurgia envolve manipulação de técnica, está
+incorreta, pois o estudo A não é observacional, já que envolve intervenção ativa
+(administração de um fármaco versus placebo), configurando um ensaio clínico.
+Ambos os estudos são experimentais, com metodologias distintas (farmacológica e
+cirúrgica).
+A alternativa que traz que os dois estudos são ensaios clínicos farmacológicos, pois
+avaliam desfechos em saúde a partir de intervenções controladas, também
+encontra-se incorreta. Embora ambos sejam ensaios clínicos, apenas o estudo A é
+farmacológico. O estudo B avalia técnicas cirúrgicas, logo se enquadra como ensaio
+clínico cirúrgico. Portanto, não é correto classificar os dois como “farmacológicos”.
+Referência:
+VIEIRA, Sonia; HOSSNE, William S. Metodologia Científica para a Área de Saúde. 3.
+ed. Rio de Janeiro: GEN Guanabara Koogan, 2021. E-book. p. 1. ISBN
+9788595158658. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595158658/. Acesso
+em: 17 ago. 2025.
+Feedback:
+-9ª QUESTÃO
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 15 de 18
+
+Enunciado:
+(UNIGRANRIO Barra) Um grupo de alunos do curso de Medicina pretende investigar
+quais tipos de intervenções não farmacológicas têm sido estudadas para melhorar a
+qualidade de vida de pacientes oncológicos durante o tratamento quimioterápico.
+Ao iniciarem o projeto, percebem que a literatura é ampla, heterogênea e inclui
+desde ensaios clínicos randomizados, estudos qualitativos, estudos observacionais e
+revisões narrativas. O objetivo inicial não é avaliar a eficácia de uma intervenção
+específica, mas mapear o que já foi produzido, organizar os diferentes tipos de
+evidências disponíveis e identificar lacunas de conhecimento que possam orientar
+pesquisas futuras.
+Com base nesse cenário:
+a) Identifique qual o tipo de revisão de literatura mais adequado para essa situação.
+(0,5 ponto)
+b) Justifique a escolha, apresentando as principais características desse tipo de
+revisão. (1,0 ponto)
+Alternativas:
+-Resposta comentada:
+a) Identificação do tipo de revisão; (0,5 ponto)
+O tipo de revisão mais adequado para esse cenário é a revisão de escopo.
+b) Justificativa da escolha(1,0 ponto)
+A revisão de escopo é indicada quando o objetivo é mapear a produção científica
+existente, sem a necessidade de avaliação crítica da qualidade metodológica dos
+estudos. Esse tipo de revisão é útil em temas amplos e heterogêneos, nos quais
+existem diferentes metodologias de pesquisa (ensaios clínicos, estudos
+observacionais, qualitativos, diretrizes, revisões narrativas etc.). Diferentemente da
+revisão sistemática, que busca responder a uma pergunta específica sobre a
+eficácia ou efetividade de uma intervenção, a revisão de escopo tem caráter
+exploratório e descritivo, permitindo uma visão panorâmica do estado da arte.
+Referências:
+FILHO, Naomar de A.; BARRETO, Mauricio L. Epidemiologia & Saúde – Fundamentos,
+Métodos e Aplicações. Rio de Janeiro: Grupo GEN, 2011. E-book. ISBN 978-85-2772119-6. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85277-2119-6/. Acesso em: 16 mai. 2024.
+GALVÃO, T. F.; PEREIRA, M. G. Revisões sistemáticas e outros tipos de síntese:
+comentários à série metodológica publicada na Epidemiologia e Serviços de Saúde.
+Epidemiologia e Serviços de Saúde, v. 31, n. 3, 2022. Disponível em:
+https://doi.org/10.1590/S2237-96222022000300023. Acesso em: 28 out. 2024.
+Feedback:
+-10ª QUESTÃO
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 16 de 18
+
+Enunciado:
+(UNIFIPMOC) Leia o resumo a seguir:
+Objetivo: Avaliar a eficácia e os efeitos tóxicos da CCRT (quimiorradioterapia
+concomitante padrão) com S-1 versus radioterapia (RT) isolada em pacientes idosos
+com câncer de esôfago. Desenho, cenário e participantes: um ensaio clínico
+randomizado, aberto, foi conduzido em 23 centros chineses entre 2015 e 2020. O
+estudo incluiu 698 pacientes com idades entre 70 e 85 anos. Os participantes
+elegíveis tinham câncer de esôfago confirmado histologicamente. Intervenções: os
+pacientes foram estratificados de acordo com a idade (<80 vs. ≥80 anos) e
+comprimento do tumor (<5 vs. ≥5 cm) e designados aleatoriamente (1:1) para
+receber CCRT com S-1 ou RT isoladamente. Principais resultados e medidas: O
+desfecho primário foi a taxa de sobrevida global em 5 anos, usando análise de
+intenção de tratar. Resultados: Dos 698 pacientes incluídos, 60,4% eram homens. A
+mediana de idade foi de 77 anos no grupo CCRT e 77 anos no grupo RT
+isoladamente. 50,7% dos pacientes apresentavam doença em estágio 3 ou 4. O
+grupo CCRT apresentou uma taxa de resposta completa significativamente maior do
+que o grupo RT (41,6% vs. 26,8%; p-valor = 0,007). Os pacientes sobreviventes
+tiveram um seguimento médio de 53,9 meses, e o grupo CCRT apresentou uma taxa
+de sobrevida global significativamente mais alta em 5 anos (53,2% vs 35,8%; pvalor = 0,002). Não houve diferenças significativas na incidência de efeitos tóxicos
+entre os grupos CCRT e RT. Morte relacionada ao tratamento foi observada em 3
+pacientes (2,0%) no grupo CCRT e 4 pacientes (2,7%) no grupo RT. Conclusões e
+relevância: Neste ensaio clínico randomizado, a CCRT com S-1 foi tolerável e
+proporcionou benefícios significativos em relação à RT isoladamente em pacientes
+idosos com câncer de esôfago.
+A partir das informações apresentadas, responda às questões abaixo:
+A) Identifique a fase do estudo clínico (I, II, III ou IV) descrita no resumo. Justifique
+sua resposta. (0,5 ponto)
+B) Apresente três características gerais dessa fase do estudo. (1,0 ponto)
+Alternativas:
+--
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 17 de 18
+
+Resposta comentada:
+A) Identifique a fase do estudo clínico (I, II, III ou IV) descrita no resumo. Justifique
+sua resposta.
+Fase do estudo: Fase III.
+Justificativa:
+A fase III de um ensaio clínico envolve a avaliação da eficácia de uma intervenção
+(neste caso, a CCRT com S-1) em um grande número de pacientes, comparando-a
+com tratamentos já estabelecidos (a radioterapia isolada, neste caso) em um estudo
+de longa duração (cinco anos).
+B) Apresente três características gerais dessa fase do estudo identificada.
+1. Grande número de participantes:
+A fase III geralmente envolve centenas a milhares de pacientes. Este estudo incluiu
+698 pacientes, o que é consistente com a fase III, pois a amostra precisa ser grande
+o suficiente para gerar resultados robustos.
+2. Comparação com tratamento padrão:
+A fase III compara um novo tratamento com um tratamento já estabelecido ou a
+prática padrão (neste caso, a radioterapia isolada). O estudo descreve a
+comparação da CCRT com S-1 (um novo regime de tratamento) com radioterapia
+isolada, que é um tratamento convencional.
+3. Duração prolongada:
+A fase III costuma ter uma duração de vários meses a anos, permitindo a
+observação dos efeitos colaterais a longo prazo.
+4. Avaliação de desfechos clínicos importantes:
+Na fase III, os desfechos primários costumam ser importantes para a prática clínica,
+como a sobrevida global e avaliação da eficácia. O estudo mede a taxa de sobrevida
+global em 5 anos e a taxa de resposta completa, que são desfechos críticos em
+tratamentos oncológicos.
+Referência:
+VIEIRA, Sonia; HOSSNE, William S. Metodologia Científica para a Área de Saúde. 3.
+ed. Rio de Janeiro: GEN Guanabara Koogan, 2021. E-book. p. 1. ISBN
+9788595158658. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595158658/. Acesso
+em: 09 set. 2025.
+Feedback:
+--
+
+000173.93001a.997707.20539d.b4717b.d0d5c3.6c787a.d1182
+
+Página 18 de 18
+
+

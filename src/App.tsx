@@ -14,6 +14,7 @@ import Notas from './pages/Notas'
 import Materiais from './pages/Materiais'
 import Busca from './pages/Busca'
 import Importar from './pages/Importar'
+import Acervo from './pages/Acervo'
 
 export default function App() {
   return (
@@ -34,6 +35,7 @@ export default function App() {
         <Route path="materiais/:id" element={<Materiais />} />
         <Route path="busca" element={<Busca />} />
         <Route path="importar" element={<Importar />} />
+        <Route path="acervo" element={<Acervo />} />
       </Route>
       <Route path="*" element={<Navigate to="/" replace />} />
     </Routes>

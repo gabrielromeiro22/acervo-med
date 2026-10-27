@@ -1,0 +1,597 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade II
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 30/09/2025
+
+N1 ESPECÍFICA - MEDICINA - IESC II - 2025.2 - 1ª CHAMADA 30/SETEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17302 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(UNIDEP) Em uma Unidade Básica de Saúde (UBS), a equipe tem agido de forma a
+sobrecarregar os serviços de saúde. Usuários com condições crônicas, como hipertensão e
+diabetes, são encaminhados diretamente para especialistas, sem uma avaliação clínica completa.
+Isso não só causa superlotação em ambulatórios, mas também gera atrasos para consultas
+prioritárias e resulta na duplicidade de exames, pois os resultados já existentes na Atenção
+Primária à Saúde (APS) não são considerados. Além disso, um paciente com transtorno de
+ansiedade foi orientado a buscar atendimento em outro município, sem qualquer acolhimento ou
+acompanhamento inicial na APS.
+Considerando a Portaria nº 2.436/2017, o caso descrito reflete principalmente uma falha na
+aplicação de qual diretriz da Atenção Básica?
+Alternativas:
+(alternativa A)
+Participação da comunidade.
+(alternativa B)
+Integralidade da atenção à saúde.
+(alternativa C) (CORRETA)
+Ordenação da rede de serviços.
+(alternativa D)
+População adscrita.
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 1 de 17
+
+Resposta comentada:
+Correta: ordenação da rede de serviços.
+A situação descrita mostra que a APS deixou de exercer seu papel de coordenadora do cuidado,
+uma de suas principais diretrizes. A falha na ordenação da rede de serviços fica evidente quando
+a UBS, em vez de gerenciar o fluxo dos pacientes, os encaminha de forma desnecessária,
+causando superlotação e duplicidade de exames. Esse processo demonstra uma desorganização
+na rede de atenção à saúde.
+Incorretas:
+Integralidade da atenção à saúde: apesar de o caso apresentar uma falha na integralidade (o
+paciente com ansiedade não recebeu um cuidado completo), o problema central e mais
+abrangente descrito no texto — a desorganização do fluxo de encaminhamentos e a duplicidade
+de exames — é um reflexo mais direto da falta de ordenação da rede. A integralidade é uma
+diretriz mais ampla do que a ordenação e, embora também tenha sido afetada, não é a principal
+falha apresentada na situação.
+População adscrita: este é um conceito organizativo da PNAB que se refere à responsabilidade
+da equipe sobre um território e um grupo de pessoas específicos. Não há no texto informações
+que sugiram falha na definição do território ou na responsabilidade sobre a população local.
+Participação da comunidade: esta diretriz trata do envolvimento dos usuários na gestão do
+serviço de saúde, por meio de conselhos e outros mecanismos. O texto-base não descreve
+nenhuma falha relacionada a essa diretriz.
+Referência:
+BRASIL. Ministério da Saúde. Portaria nº 2.436, de 21 de setembro de 2017. Aprova a Política
+Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a organização da
+Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Diário Oficial da União: seção 1,
+Brasília, DF, n. 183, p. 68, 22 set. 2017.
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(AFYA Bragança) Na Unidade Básica de Saúde de um município, um paciente de 40 anos,
+trabalhador rural, procura atendimento por dor lombar frequente. Ele foi atendido por um médico
+vinculado à unidade, sem acompanhamento de agente comunitário de saúde.
+Com base na PNAB vigente e no caso apresentado, analise as assertivas a seguir:
+I – O modelo descrito corresponde a uma Equipe de Atenção Primária (eAP), modalidade em que
+não há a presença obrigatória do agente comunitário de saúde.
+II – Na Equipe de Saúde da Família (eSF), diferentemente da eAP, o agente comunitário de saúde
+é considerado integrante obrigatório da composição mínima.
+III – As Equipes de Atenção Primária (eAP) deverão ser compostas, no mínimo, por médico e
+enfermeiro, preferencialmente especialistas em saúde da família, podendo ainda se articular com
+uma Equipe Multiprofissional (eMulti) para ampliar a resolutividade do cuidado.
+Está(ão) correta(s) apenas:
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 2 de 17
+
+Alternativas:
+(alternativa A)
+II e IV.
+(alternativa B)
+I e III.
+(alternativa C)
+I e II.
+(alternativa D) (CORRETA)
+I, II e III.
+
+Resposta comentada:
+I – O modelo descrito corresponde a uma Equipe de Atenção Primária (eAP), modalidade em que
+não há a presença obrigatória do agente comunitário de saúde.
+Correta. A PNAB (Portaria nº 2.436/2017) define que a eAP é uma equipe mínima de Atenção
+Primária formada por médico e enfermeiro, podendo incluir técnico ou auxiliar de enfermagem,
+mas sem obrigatoriedade de agente comunitário de saúde (ACS). Isso a diferencia da eSF, em
+que o ACS é integrante obrigatório.
+II – Na Equipe de Saúde da Família (eSF), diferentemente da eAP, o agente comunitário de saúde
+é considerado integrante obrigatório da composição mínima.
+Correta. A PNAB estabelece que a eSF deve obrigatoriamente contar com ACS, além de médico,
+enfermeiro e técnico/auxiliar de enfermagem. A atuação territorializada, a adscrição da população
+e o trabalho do ACS são pilares fundamentais desse modelo.
+III – As Equipes de Atenção Primária (eAP) deverão ser compostas, no mínimo, por médico e
+enfermeiro, preferencialmente especialistas em saúde da família, podendo ainda se articular com
+uma Equipe Multiprofissional (eMulti) para ampliar a resolutividade do cuidado.
+Correta. A PNAB determina que a composição mínima da eAP inclui médico e enfermeiro, sendo
+recomendada a especialização em Saúde da Família. Além disso, a articulação com as eMulti
+fortalece a integralidade e a capacidade de resposta da APS.
+Referência:
+BRASIL. Ministério da Saúde. Portaria 2436 de 21 de setembro de 2017.
+Feedback:
+-3ª QUESTÃO
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 3 de 17
+
+Enunciado:
+(AFYA Itacoatiara) Luiza é enfermeira de uma Equipe de Saúde da Família (eSF) e, durante
+reunião de planejamento, explicou sobre as atribuições previstas na Portaria nº 2.436/2017, que
+podem ser comuns a todos os membros da equipe ou específicas de cada profissional.
+Com base na PNAB vigente, avalie as alternativas a seguir como atribuições comuns a todos os
+membros da eSF:
+I – Participar do processo de territorialização e mapeamento da área de atuação da equipe,
+identificando grupos, famílias e indivíduos expostos a riscos e vulnerabilidades.
+II – Realizar o cuidado integral à saúde da população adscrita, prioritariamente no âmbito da
+Unidade Básica de Saúde e, quando necessário, no domicílio e em outros espaços
+comunitários.
+III – Indicar a necessidade de internação hospitalar ou domiciliar, mantendo a
+responsabilização pelo acompanhamento da pessoa.
+IV – Desenvolver cuidado individual, familiar e coletivo, visando propor intervenções que
+influenciem os processos saúde-doença.
+Sobre as atribuições comuns a todos os membros das equipes de saúde da família, é correto o
+que se afirma em:
+
+Alternativas:
+(alternativa A)
+I, II, III e IV.
+(alternativa B)
+II e IV.
+(alternativa C)
+III e IV.
+(alternativa D) (CORRETA)
+I, II e IV.
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 4 de 17
+
+Resposta comentada:
+4 - Atribuições dos Profissionais da Atenção Básica.
+I – Correta. A territorialização e o mapeamento do território, com identificação de grupos e
+vulnerabilidades, são atribuições comuns a todos os membros da eSF (diagnóstico situacional,
+planejamento e ações no território).
+II – Correta. Realizar cuidado integral à população adscrita, prioritariamente na UBS e, quando
+necessário, no domicílio e em outros espaços comunitários, é atribuição comum da equipe,
+envolvendo ações individuais e coletivas, programadas e por demanda espontânea.
+III – Incorreta. Indicar necessidade de internação (hospitalar ou domiciliar) é atribuição específica
+do médico na PNAB, não sendo comum a todos os membros da equipe (embora a
+responsabilização e o acompanhamento do usuário sejam compartilhados).
+IV – Correta. Desenvolver cuidado individual, familiar e coletivo com intervenções sobre os
+processos saúde-doença integra o rol de atribuições comuns da equipe na Atenção Básica.
+Referência:
+BRASIL. Ministério da Saúde. Portaria 2436 de 21 de setembro de 2017.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(UNISL Porto Velho) Um homem de 62 anos, hipertenso há 15 anos e em uso irregular de
+medicação, vai à Unidade de Pronto Atendimento (UPA), queixando-se de cefaleia intensa,
+tontura súbita e pressão arterial de 200/120 mmHg. O médico identifica que o quadro requer
+intervenção imediata, embora a doença de base seja de longa evolução e necessite
+acompanhamento contínuo na Atenção Primária.
+Considerando as características do caso descrito e a distinção entre condições agudas e
+crônicas, a situação apresentada corresponde a:
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 5 de 17
+
+Alternativas:
+(alternativa A) (CORRETA)
+um quadro agudo em doença crônica, pois a doença de longa duração apresentou
+descompensação súbita.
+(alternativa B)
+uma doença subaguda, pois os sintomas surgiram em tempo intermediário entre o agudo e o
+crônico.
+(alternativa C)
+uma doença aguda, pois o aumento pressórico ocorreu de forma súbita e exige intervenção
+imediata.
+(alternativa D)
+uma doença crônica, pois a hipertensão acompanha o paciente há anos e requer seguimento
+contínuo em longo prazo.
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 6 de 17
+
+Resposta comentada:
+- Alternativa correta: “Um quadro agudo em doença crônica, pois a doença de longa duração
+apresentou descompensação súbita.”
+Essa é a alternativa correta porque o paciente tem hipertensão arterial sistêmica crônica, presente
+há 15 anos, mas apresenta um episódio agudo de descompensação (crise hipertensiva, com
+pressão de 200/120 mmHg, cefaleia intensa e tontura). O enunciado deixa claro que há uma
+condição de base de longa evolução associada a um evento súbito que exige intervenção
+imediata.
+- Alternativas incorretas:
+“Uma doença aguda, pois o aumento pressórico ocorreu de forma súbita e exige intervenção
+imediata.”
+Incorreta. Apesar da apresentação súbita e grave, não se trata de uma doença exclusivamente
+aguda, mas sim de uma agudização dentro de uma doença crônica já estabelecida.
+“Uma doença crônica, pois a hipertensão acompanha o paciente há anos e requer seguimento
+contínuo em longo prazo.”
+Incorreta. A hipertensão é, de fato, uma condição crônica, mas essa alternativa é incompleta. Ela
+ignora o evento agudo (crise hipertensiva) que levou o paciente à UPA, que é o ponto principal da
+questão.
+“Uma doença subaguda, pois os sintomas surgiram em tempo intermediário entre o agudo e o
+crônico.”
+Incorreta. O termo “subagudo” refere-se a quadros que se desenvolvem em período intermediário
+(dias a semanas), o que não se aplica aqui. O caso descrito é de evolução súbita, caracterizando
+um quadro agudo.
+Referências:
+MENDES, E. V. As situações das condições de saúde e os sistemas de atenção à saúde. In:
+MENDES, E. V. As redes de atenção à saúde. 2. ed. Brasília: Organização Pan-Americana da
+Saúde, 2011. p. 11-20.
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes. São
+Luís: Universidade Federal do Maranhão, UNA-SUS/UFMA, 2016.
+Feedback:
+-5ª QUESTÃO
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 7 de 17
+
+Enunciado:
+(UNIFIPMOC) Uma gestão municipal está revisando o modelo de financiamento da Atenção
+Primária à Saúde (APS) após a publicação da Portaria GM/MS nº 3.493/2024. Ao comparar os
+componentes do Previne Brasil (instituído pela Portaria nº 2.979/2019) com o novo modelo de
+cofinanciamento, o gestor municipal, médico formado há cinco anos, apresentou as seguintes
+afirmações à equipe:
+I. A capitação ponderada do Previne Brasil foi substituída pelo componente de vínculo e
+acompanhamento territorial.
+II. O pagamento por desempenho do Previne Brasil foi reformulado como componente de
+qualidade (com classificação por resultados/indicadores).
+III. O componente fixo por equipe foi extinto; a partir da Portaria nº 3.493/2024, todo
+repasse passa a depender de desempenho.
+IV. O novo modelo incluiu um componente per capita de base populacional para ações no
+âmbito da APS.
+É correto o que se afirma apenas em:
+Alternativas:
+(alternativa A)
+II e III.
+(alternativa B) (CORRETA)
+I, II e IV.
+(alternativa C)
+I e III.
+(alternativa D)
+I e II.
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 8 de 17
+
+Resposta comentada:
+Correta: apenas I, II e IV.
+Justificativas:
+Afirmativa I (Verdadeira): A Portaria nº 3.493/2024, de fato, cria o componente de vínculo e
+acompanhamento territorial para as equipes de Saúde da Família (eSF) e de Atenção Primária
+(eAP), que assume o lugar da antiga capitação ponderada utilizada no Previne Brasil.
+Afirmativa II (Verdadeira): O antigo componente de pagamento por desempenho foi substituído
+por um novo componente de qualidade, que opera com base na classificação de resultados e
+faixas de valores, mantendo a lógica de incentivar boas práticas e aprimorar a qualidade dos
+serviços.
+Afirmativa III (Falsa): A Portaria nº 3.493/2024 não extinguiu o componente fixo. Pelo contrário, ela
+institui um componente fixo para a manutenção das equipes e ainda prevê recursos para a
+implantação. Portanto, parte do repasse federal não depende de desempenho. É importante notar
+que a recente Portaria GM/MS Nº 7.799, de 20 de agosto de 2025, mudou o nome desse
+componente fixo para componente de equidade, considerando a vulnerabilidade social.
+Afirmativa IV (Verdadeira): O novo modelo de financiamento, implementado pela portaria de 2024,
+acrescentou um componente per capita de base populacional para financiar ações específicas no
+âmbito da Atenção Primária à Saúde.
+Referência:
+BRASIL. Ministério da Saúde. Portaria GM/MS nº 3.493, de 10 de abril de 2024. Altera a Portaria
+de Consolidação GM/MS nº 6, de 28 de setembro de 2017, para instituir nova metodologia de
+cofinanciamento federal do Piso de Atenção Primária à Saúde no âmbito do SUS. Diário Oficial da
+União, Brasília, DF, 11 abr. 2024. Disponível em: portal do MS/Legislação. Acesso em: 17 ago.
+2025.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(AFYA Ipatinga) Durante reunião de equipe em uma Unidade de Saúde da Família, os
+profissionais discutem estratégias para qualificar o acompanhamento das famílias cadastradas.
+Destacaram-se três pontos:
+I. a importância das visitas domiciliares para fortalecer o vínculo com gestantes e idosos;
+II. a necessidade de que o financiamento da Atenção Primária esteja alinhado às práticas
+da equipe;
+III. o impacto do cadastramento adequado da população nos recursos federais repassados
+ao município, conforme o novo modelo de cofinanciamento da APS (Portaria GM/MS nº
+3.493/2024).
+Com base nesse contexto e na Portaria GM/MS nº 3.493/2024, assinale a alternativa correta.
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 9 de 17
+
+Alternativas:
+(alternativa A)
+O componente fixo é vinculado ao repasse per capita por habitante do território, porém,
+desvinculado da implantação e manutenção das equipes de Saúde da Família ou Equipe de
+Atenção Básica.
+(alternativa B) (CORRETA)
+O componente de vínculo e acompanhamento territorial valoriza a capacidade da equipe de
+manter o acompanhamento das pessoas cadastradas, fortalecendo a longitudinalidade e a
+responsabilização pelo cuidado.
+(alternativa C)
+O componente de qualidade do financiamento é medido por meio da cobertura vacinal e do
+número de consultas médicas, desconsiderando outros indicadores do processo de trabalho da
+equipe.
+(alternativa D)
+Os componentes para saúde bucal, consultório na rua, UBS fluvial e equipe multiprofissional
+(eMulti) foram extintos no novo modelo, sendo totalmente incorporados ao componente per capita
+de base populacional.
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 10 de 17
+
+Resposta comentada:
+- O componente de vínculo e acompanhamento territorial valoriza a capacidade da equipe de
+manter o acompanhamento das pessoas cadastradas, fortalecendo a longitudinalidade e a
+responsabilização pelo cuidado.
+Correta → O componente de vínculo e acompanhamento territorial mede a capacidade da equipe
+em acompanhar as pessoas de seu território, valorizando a continuidade do cuidado, a
+responsabilização pelo acompanhamento da população adscrita e a efetividade do trabalho da
+Equipe de Saúde da Família (eSF).
+- O componente de qualidade do financiamento é medido por meio da cobertura vacinal e do
+número de consultas médicas, desconsiderando outros indicadores do processo de trabalho da
+equipe.
+Incorreta → O componente de qualidade é composto por um conjunto de indicadores pactuados,
+que incluem não apenas a cobertura vacinal e o número de consultas, mas também aspectos do
+processo de trabalho, qualidade do acompanhamento clínico, promoção da saúde e desfechos
+assistenciais.
+- O componente fixo é vinculado ao repasse per capita por habitante do território, desvinculado da
+implantação e manutenção das equipes de Saúde da Família ou Equipe de Atenção Básica.
+Incorreta → O componente fixo não se limita ao critério per capita. Ele é definido conforme o
+Índice de Equidade e Dimensionamento (IED), que está vinculado à implantação, manutenção e
+custeio das equipes de saúde (eSF, eAP, eMulti), considerando fatores como vulnerabilidade
+social e porte populacional.
+- Os componentes para saúde bucal, consultório na rua, UBS fluvial e equipe multiprofissional
+(eMulti) foram extintos no novo modelo, sendo totalmente incorporados ao componente per capita
+de base populacional.
+Incorreta → Os componentes para saúde bucal, consultório na rua e demais ações estratégicas
+foram mantidos no novo modelo de financiamento, pois são considerados essenciais para a
+cobertura integral da Atenção Primária à Saúde.
+Referências:
+BRASIL. PORTARIA GM/MS Nº 3.493, DE 10 DE ABRIL DE 2024. Ver legislação vigente.
+PORTARIA GM/MS Nº 3.493, DE 10 DE ABRIL DE 2024.
+Portaria GM/MS N.º 3493/2024.
+
+Feedback:
+-7ª QUESTÃO
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 11 de 17
+
+Enunciado:
+(UNIREDENTOR) Na área de abrangência da Unidade Básica de Saúde (UBS) do bairro
+Esperança, a equipe de Saúde da Família acompanha diferentes situações de usuários que
+procuram os serviços de saúde:
+I. João, 58 anos, pedreiro, hipertenso e diabético, realiza consultas regulares na UBS, participa de
+grupos educativos sobre alimentação e faz acompanhamento contínuo da equipe de saúde.
+II. Ana, 8 anos, estudante, chega ao pronto atendimento com corte provocado por objeto cortante,
+sendo realizada sutura e devida prescrição de medicamentos.
+III. Pedro, 72 anos, aposentado, sofreu um AVC há seis meses e, desde então, está em
+acompanhamento multiprofissional contínuo na rede de atenção à saúde, com fisioterapia,
+fonoaudiologia e consultas regulares.
+IV. Maria, 35 anos, diarista, procura o pronto-socorro devido a uma crise de cólica renal, recebe
+medicação para alívio da dor e retorna para casa sem seguimento posterior.
+De acordo com a classificação das condições de saúde (crônicas ou agudas) e as respostas do
+sistema de saúde (reativa/episódica ou proativa/contínua), assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+I e III representam condições agudas com resposta proativa/contínua, enquanto II e IV
+representam condições crônicas com resposta reativa/episódica.
+(alternativa B) (CORRETA)
+I e III representam condições crônicas com resposta proativa/contínua, enquanto II e IV
+representam condições agudas com resposta reativa/episódica.
+(alternativa C)
+I e II representam condições agudas com resposta reativa/episódica, enquanto III e IV
+representam condições crônicas com resposta proativa/contínua.
+(alternativa D)
+I e IV representam condições crônicas com resposta contínua, enquanto II e III representam
+condições agudas com resposta episódica.
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 12 de 17
+
+Resposta comentada:
+- I e III representam condições crônicas com resposta proativa/contínua, enquanto II e IV
+representam condições agudas com resposta reativa/episódica. (Correta)
+Comentário: Esta é a alternativa correta porque agrupa as classificações de forma precisa. João
+(I) e Pedro (III) são casos de doenças crônicas (hipertensão, diabetes e sequelas de AVC) que
+exigem um acompanhamento proativo e contínuo por parte do sistema de saúde. Por outro lado,
+Ana (II) e Maria (IV) enfrentam condições agudas (corte e cólica renal) que demandam uma
+resposta reativa e episódica para a resolução do quadro.
+- I e II representam condições agudas com resposta reativa/episódica, enquanto III e IV
+representam condições crônicas com resposta proativa/contínua. (Incorreta)
+Comentário: Esta alternativa está incorreta porque inverte as classificações para os casos de
+João (I) e Maria (IV). Ela classifica João como um caso agudo, quando, na verdade, ele tem
+condições crônicas que requerem acompanhamento contínuo. Da mesma forma, classifica Maria
+como uma condição crônica, sendo que sua crise de cólica renal é um quadro agudo e episódico.
+- I e IV representam condições crônicas com resposta contínua, enquanto II e III representam
+condições agudas com resposta episódica. (Incorreta)
+Comentário: Esta alternativa falha em classificar corretamente Maria (IV) e Pedro (III). Ela associa
+o quadro agudo de Maria a uma resposta contínua, o que é conceitualmente incorreto. Além
+disso, classifica a condição crônica de Pedro (sequelas de AVC) como um caso agudo, ignorando
+a necessidade de reabilitação e acompanhamento contínuo.
+- I e III representam condições agudas com resposta proativa/contínua, enquanto II e IV
+representam condições crônicas com resposta reativa/episódica. (Incorreta)
+Comentário: Esta alternativa está completamente incorreta, pois inverte todas as classificações.
+Ela associa as condições crônicas de João (I) e Pedro (III) a uma resposta de caráter agudo, e as
+condições agudas de Ana (II) e Maria (IV) a um acompanhamento crônico. Essa inversão mostra
+uma falta de compreensão das características de cada tipo de condição de saúde e da resposta
+correspondente do sistema.
+Referências:
+MENDES, E.V. As situações das condições de saúde, os sistemas de atenção à saúde. In:
+MENDES, E.V. As redes de atenção à saúde. Organização Pan-Americana da Saúde, 2011,
+2010.
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+Feedback:
+-8ª QUESTÃO
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 13 de 17
+
+Enunciado:
+(UNIPTAN) Masculino, 75 anos, foi atendido na Unidade Básica de Saúde (UBS) do município
+Flores, onde é acompanhado por uma equipe da Estratégia Saúde da Família. Apresenta histórico
+de hipertensão arterial sistêmica e diabetes mellitus tipo 2, ambos controlados com medicação
+oral. Recentemente, queixou-se de cansaço ao caminhar longas distâncias e dificuldade para
+subir escadas. Durante a consulta, o médico realizou exame físico, iniciando a investigação para
+possíveis comorbidades associadas ao envelhecimento.
+Considerando o contexto apresentado, qual nível de densidade tecnológica da Rede de Atenção à
+Saúde (RAS) está sendo predominantemente utilizado no atendimento do Sr. Antônio?
+Alternativas:
+(alternativa A)
+Moderada densidade tecnológica (Atenção Secundária à Saúde).
+(alternativa B)
+Alta densidade tecnológica (Atenção Terciária à Saúde).
+(alternativa C)
+Baixa densidade tecnológica (Atenção Secundária à Saúde).
+(alternativa D) (CORRETA)
+Baixa densidade tecnológica (Atenção Primária à Saúde).
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 14 de 17
+
+Resposta comentada:
+- Correta: Baixa densidade tecnológica: Atenção Primária à Saúde.
+A Atenção Primária à Saúde (APS) é caracterizada por ser o primeiro nível de contato do
+indivíduo com o sistema de saúde, oferecendo cuidados contínuos, integrais e coordenados. No
+caso do Sr. Antônio, o acompanhamento realizado pela equipe da Estratégia Saúde da Família na
+UBS, incluindo visitas domiciliares e monitoramento de condições crônicas, se enquadra na APS.
+Esse nível de atenção é fundamental para a promoção da saúde, prevenção de doenças e
+manejo de condições crônicas como hipertensão e diabetes, especialmente em idosos.
+- Análise dos Distratores (incorretas):
+Moderada densidade tecnológica: Atenção Secundária à Saúde: refere-se a serviços
+especializados que, em geral, requerem encaminhamento da APS (consultas com cardiologistas
+ou endocrinologistas, por exemplo). O Sr. Antônio está sendo acompanhado na APS, e o texto
+não indica que ele tenha sido encaminhado para esse nível de atenção.
+Alta densidade tecnológica: Atenção Terciária à Saúde: envolve serviços de alta complexidade,
+como hospitais e unidades de terapia intensiva. Não é o nível de cuidado descrito no atendimento
+do paciente.
+Baixa densidade tecnológica: Atenção Domiciliar: Embora o Sr. Antônio recebe visitas
+domiciliares, o atendimento principal ocorre na UBS, caracterizando-se como Atenção Primária à
+Saúde com suporte domiciliar, e não como atenção secundária.
+Referências:
+MENDES, E.V. As situações das condições de saúde, os sistemas de atenção à saúde. In:
+MENDES, E.V. As redes de atenção à saúde. Organização Pan-Americana da Saúde, 2011,
+2010. Cap. 1. Acesso em: 30 abr. 2025.
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016. Acesso em: 30 abr. 2025.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Uma Secretaria Municipal de Saúde está em processo de reorganização da
+Atenção Primária à Saúde (APS). Em uma das reuniões de planejamento, surge a discussão
+sobre a melhor forma de estruturar as equipes que atuarão nas Unidades Básicas de Saúde,
+considerando a diversidade populacional e territorial. A gestão precisa decidir se adotará
+predominantemente as Equipes de Saúde da Família (eSF) ou as Equipes de Atenção Primária
+(eAP), bem como como se dará a articulação dos profissionais no cuidado à comunidade. Com
+base no enunciado, responda:
+a) Descreva as principais diferenças entre a composição de profissionais da Estratégia Saúde da
+Família (eSF) e da Equipe de Atenção Primária (eAP), destacando também as respectivas
+atribuições de cada modelo. (0,75 ponto)
+b) Explique como a atuação conjunta dos profissionais nesses diferentes modelos de equipe
+contribui para a saúde da população.(0,75 ponto)
+Alternativas:
+--
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 15 de 17
+
+Resposta comentada:
+a) As Equipes de Saúde da Família (eSF) são compostas minimamente por médico, enfermeiro,
+técnico ou auxiliar de enfermagem e agentes comunitários de saúde, podendo ser ampliadas com
+profissionais da Equipe Multiprofissional de Saúde (eMulti), equipe de Saúde Bucal (eSB) e
+agentes de endemia. Têm como atribuições principais o acompanhamento longitudinal das
+famílias em território definido, a promoção da saúde, a prevenção de doenças, o diagnóstico e
+tratamento de condições mais prevalentes e o encaminhamento quando necessário.
+As Equipes de Atenção Primária (eAP) apresentam maior flexibilidade de composição,
+geralmente com médico e enfermeiro como núcleo mínimo, sem a obrigatoriedade de agentes
+comunitários. Poderão agregar outros profissionais como técnicos e/ou auxiliares de
+enfermagem, dentistas, auxiliares e/ou técnicos de saúde bucal, agentes comunitários de saúde e
+agentes de combate a endemias. São voltadas para ampliar o acesso à APS, permitindo arranjos
+diferentes conforme a realidade local, mas com menor foco na territorialização e no
+acompanhamento domiciliar. (0,75).
+b) A atuação conjunta das equipes, em qualquer modelo, fortalece a integralidade ao integrar
+saberes distintos, permitindo que as necessidades de saúde sejam abordadas em diferentes
+dimensões — biológica, social e psicológica. A eSF favorece o cuidado contínuo e próximo da
+comunidade, com vínculos mais duradouros. A eAP, por sua vez, amplia o acesso em regiões
+com menor cobertura, podendo reduzir barreiras de entrada. A cooperação entre os profissionais
+contribui para o compartilhamento de responsabilidades, melhor coordenação do cuidado e
+fortalecimento da rede de atenção, garantindo maior resolutividade e qualidade na atenção
+prestada. (0,75).
+Referências:
+BRASIL. Ministério da Saúde. Portaria 2436 de 21 de setembro de 2017.
+DIAS, R. B; NOGUEIRA, O. S. Trabalho em equipe. In: GUSSO G.; LOPES, J. M. C.
+(Org.). Tratado de medicina de família e comunidade: princípios, formação e prática. Porto Alegre:
+Artmed, 2019. Cap. 42. Acesso em: 30 abr. 2025.
+Feedback:
+-10ª QUESTÃO
+Enunciado:
+(FMIT) Durante uma reunião de equipe na Unidade de Saúde da Família (USF), a enfermeira
+percebeu que vários hipertensos da área adscrita apresentavam dificuldade de adesão ao
+tratamento medicamentoso. Decidiu, então, realizar uma roda de conversa, na qual buscou
+estabelecer vínculo com os pacientes, acolhendo suas queixas, dialogando sobre suas
+dificuldades e compreendendo aspectos de sua rotina e valores.
+Considerando o caso acima, responda as alternativas abaixo:
+a) Identifique qual tipo de tecnologia do cuidado foi empregada pela enfermeira no caso
+apresentado. Justifique sua resposta. (0,75 ponto)
+b) Proponha outra ação/medida que seja do mesmo nível tecnológico utilizado no caso,
+explicando de que forma pode contribuir para a melhoria do cuidado em saúde. (0,75 ponto)
+Alternativas:
+--
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 16 de 17
+
+Resposta comentada:
+a) Resposta Correta: Tecnologia leve.
+Justificativa: envolve o uso de escuta qualificada, acolhimento, vínculo, diálogo e valorização da
+subjetividade do paciente. Trata-se de uma tecnologia centrada nas relações interpessoais e na
+comunicação entre profissional e usuário.
+b) Proposição de outra ação do mesmo nível tecnológico.
+Exemplos de ações possíveis (espera-se que o aluno cite uma):
+Realizar visita domiciliar para fortalecer o vínculo e compreender a realidade de vida do paciente.
+Promover roda de conversa em grupo de hipertensos para troca de experiências e apoio mútuo.
+Promover o acolhimento na unidade, garantindo escuta ativa às demandas do usuário.
+Incentivar práticas de autocuidado (como caminhadas em grupo ou oficinas de alimentação
+saudável) em que a ênfase esteja no diálogo e na motivação.
+Realizar escuta qualificada em momentos informais (sala de espera), valorizando narrativas do
+paciente e identificando dificuldades do cotidiano.
+Construir com o paciente um “contrato de cuidado” (metas compartilhadas), reforçando
+corresponsabilização e vínculo.
+Articular familiares no acompanhamento do usuário, estimulando o apoio social como parte do
+cuidado.
+Referências:
+FRANCO, T. B., & MERHY, E. E. (2012). Cartografias do Trabalho e Cuidado em Saúde. Tempus
+– Actas de Saúde Coletiva, 6(2), 151–163.
+BRITO, J. C. de. (2005). O trabalho em saúde: olhando e experienciando o SUS no cotidiano.
+Cadernos de Saúde Pública, 21(5), 1612–1614.
+Feedback:
+*
+
+000173.02001e.ef1ee6.ef98c5.061406.ccda58.fcfafb.af666
+
+Pgina 17 de 17
+
+

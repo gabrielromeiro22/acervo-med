@@ -1,0 +1,1558 @@
+Treine as provas online! www.acervo.vip
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino Serviço Comunidade II e Integradora 2º Período
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 25/11/2025
+
+N2 ESPECÍFICA - IESC II - MEDICINA - 2º PERÍODO - 2025.1 - 1ª CHAMADA 25/NOVEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17974 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+110103
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA Abaetetuba) As informações em saúde são essenciais para compreender a
+realidade sanitária e orientar o planejamento e a tomada de decisões, qualificando os
+processos de gestão e alocação de recursos. Nesse contexto, o Departamento de
+Informática do Sistema Único de Saúde (DATASUS) tem papel central na condução dos
+Sistemas de Informação em Saúde (BRASIL, 2008).
+Com base nas finalidades e características dos principais Sistemas de Informação em
+Saúde, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O Sistema de Informações do Programa Nacional de Imunizações (SIPNI) tem como
+principal função monitorar doenças imunopreveníveis, não incluindo o controle de
+estoques e distribuição de imunobiológicos.
+(alternativa B)
+O Sistema de Informação de Agravos de Notificação (SINAN) é responsável pela coleta de
+dados gerados pela vigilância sanitária, voltados ao controle de produtos e serviços de
+saúde em todo o território nacional.
+
+(alternativa C) (CORRETA)
+O Sistema de Informações sobre Mortalidade (SIM) produz estatísticas que possibilitam
+análises epidemiológicas e demográficas, subsidiando o planejamento de ações de
+saúde.
+
+(alternativa D)
+O Sistema de Informações de Nascidos Vivos (SINASC) é restrito ao registro de
+nascimentos, não fornecendo informações que possam orientar políticas voltadas à saúde
+materno-infantil.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 1 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+O SIM tem como objetivo produzir estatísticas de mortalidade, permitindo estudos
+epidemiológicos e demográficos. O SINAN coleta dados da vigilância epidemiológica, e
+não da vigilância sanitária. O SINASC fornece informações fundamentais para ações de
+saúde da mulher e da criança. Já o SIPNI também controla o estoque e distribuição de
+imunobiológicos.
+Referência:
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de
+Vigilância Epidemiológica. Sistema de Informação de Agravos de Notificação – Sinan:
+normas e rotinas / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento
+de Vigilância Epidemiológica. – 2. ed. – Brasília: Editora do Ministério da Saúde, 2007.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+11
+[Módulos integrados]
+IESC
+[IES]
+UNIPTAN
+AFYA ABAETETUBA
+UNIPTAN
+[Competências (Objetivos)]
+Entender a importância dos sistemas de informação para o
+planejamento das ações estratégicas de saúde.
+[Áreas de Conhecimento]
+SC/MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+
+2ª QUESTÃO
+Código da questão:
+
+141060
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(FACIMPA) Durante uma ação de grupo em uma Unidade Básica de Saúde (UBS), a
+equipe de saúde realiza uma roda de conversa com gestantes. O encontro começa com
+as profissionais perguntando às participantes sobre suas dúvidas e experiências em
+relação ao parto e puerpério. A partir das falas, são discutidos temas como violência
+obstétrica, plano de parto e direitos da gestante, promovendo trocas entre as mulheres e
+os profissionais, que atuam como facilitadores do diálogo.
+Com base nesse contexto, assinale a alternativa correta quanto à abordagem utilizada na
+ação de educação em saúde.
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 2 de 28
+
+Treine as provas online! www.acervo.vip
+Alternativas:
+(alternativa A)
+Trata-se de uma estratégia bancária, pois se baseia em conteúdos previamente definidos
+e sem participação ativa do público.
+
+(alternativa B)
+Trata-se de uma estratégia bancária, pois os profissionais transmitem os conteúdos de
+forma direta, com foco na prevenção de complicações.
+(alternativa C)
+Trata-se de uma estratégia problematizadora, pois é baseada na entrega de informações
+técnicas pelas autoridades de saúde.
+(alternativa D) (CORRETA)
+Trata-se de uma estratégia problematizadora, pois valoriza o saber dos participantes e
+parte da realidade deles para construir o conhecimento de forma compartilhada.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+- "Trata-se de uma estratégia bancária, pois os profissionais transmitem os conteúdos de
+forma direta, com foco na prevenção de complicações."
+Incorreta. Comentário: Esta alternativa descreve a metodologia "bancária", que é o
+oposto do que ocorre no cenário. O texto-base afirma que o encontro começa com as
+profissionais perguntando às participantes sobre suas dúvidas e experiências, e não com
+a transmissão direta de conteúdo.
+- "Trata-se de uma estratégia bancária, pois se baseia em conteúdos previamente
+definidos e sem participação ativa do público."
+Incorreta. Comentário: Assim como a anterior, esta alternativa descreve a metodologia
+"bancária". O cenário contradiz isso ao afirmar que os temas (violência obstétrica, plano
+de parto) são discutidos a partir das falas das gestantes e que há trocas entre as
+mulheres e os profissionais, indicando alta participação ativa.
+- "Trata-se de uma estratégia problematizadora, pois valoriza o saber dos participantes e
+parte da realidade deles para construir o conhecimento de forma compartilhada."
+Correta. Comentário: Esta alternativa descreve perfeitamente o cenário. A equipe valoriza
+o saber (ao perguntar sobre "dúvidas e experiências"), parte da realidade (discutindo os
+temas que elas trazem) e constrói o conhecimento de forma compartilhada (promovendo
+"trocas" e "diálogo" em vez de uma palestra).
+- "Trata-se de uma estratégia problematizadora, pois é baseada na entrega de
+informações técnicas pelas autoridades de saúde."
+Incorreta. Comentário: Este é um distrator muito bem elaborado. Ele acerta o nome da
+estratégia ("problematizadora"), mas erra completamente na justificativa ("pois..."). A
+"entrega de informações técnicas por autoridades" é a definição da metodologia
+bancária. A metodologia problematizadora, como vista no texto, baseia-se no diálogo e
+na facilitação, não na autoridade.
+Referências:
+VASCONCELOS E. M., VASCONCELOS M. O. D. Educação popular. In: GUSSO G.; LOPES, J.
+M. C. (Org.). Tratado de medicina de família e comunidade: princípios, formação e prática.
+Porto Alegre: Artmed, 2019. Cap. 12. Acesso em: 27 nov. 2024
+SALCI A. M. et al. Educação em saúde e suas perspectivas teóricas: algumas reflexões.
+Texto Contexto Enfermagem, Florianópolis, 2013 Jan-Mar; 22(1): 224-30.
+Feedback:
+--
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 3 de 28
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+11
+[Módulos integrados]
+IESC
+[Áreas de Conhecimento]
+SC/MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+FACIMPA
+[Competências (Objetivos)]
+Diferenciar as metodologias de educação em saúde
+(bancária e problematizadora).
+
+3ª QUESTÃO
+Código da questão:
+
+105571
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA PALMAS) Durante uma visita domiciliar, a equipe da Estratégia de Saúde da Família
+(ESF) encontra Dona Lúcia, 59 anos, portadora de diabetes mellitus tipo 2 e hipertensão
+arterial. Ela relata que há três semanas tem apresentado uma ferida no pé direito, de
+difícil cicatrização, que vem piorando mesmo com os cuidados caseiros. A enfermeira
+realiza avaliação clínica inicial, orienta sobre cuidados locais, ajusta a medicação
+conforme protocolo da Atenção Básica e, diante da gravidade da lesão, aciona o médico
+da equipe, que decide encaminhar a paciente para avaliação com especialista em
+angiologia, via sistema de regulação.
+Considerando o caso apresentado e os princípios organizativos das Redes de Atenção à
+Saúde (RAS), marque a alternativa correta.
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 4 de 28
+
+Treine as provas online! www.acervo.vip
+Alternativas:
+(alternativa A)
+A equipe da ESF extrapolou suas atribuições, pois o manejo de feridas complexas deve
+ser realizado exclusivamente nos serviços de média e alta complexidade.
+(alternativa B)
+A paciente deveria ter sido orientada a procurar diretamente o hospital de referência
+regional, já que a Atenção Básica não dispõe de recursos para atender complicações do
+diabetes.
+(alternativa C)
+O encaminhamento ao especialista deveria ter sido feito diretamente pela paciente, sem
+necessidade de mediação da equipe da ESF, reduzindo a burocracia e acelerando o
+acesso ao cuidado especializado.
+(alternativa D) (CORRETA)
+A conduta foi adequada, pois a Atenção Básica é a porta de entrada prioritária do SUS,
+responsável pela escuta, avaliação inicial, manejo conforme protocolos e
+encaminhamento regulado quando necessário, garantindo a continuidade e integralidade
+do cuidado.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+Incorreta: “A equipe da ESF extrapolou suas atribuições, pois o manejo de feridas
+complexas deve ser realizado exclusivamente nos serviços de média e alta
+complexidade.”
+A Atenção Básica tem papel fundamental na identificação, avaliação inicial e manejo de
+feridas, inclusive em casos de complicações de doenças crônicas. A atuação precoce da
+equipe evita agravamentos e facilita a coordenação do cuidado com outros pontos da
+rede.
+Correta: “A conduta foi adequada, pois a Atenção Básica é a porta de entrada prioritária
+do SUS, responsável pela escuta, avaliação inicial, manejo conforme protocolos e
+encaminhamento regulado quando necessário, garantindo a continuidade e integralidade
+do cuidado.”
+Essa alternativa reflete fielmente o papel da Atenção Básica nas Redes de Atenção à
+Saúde: realizar a escuta qualificada, manejo inicial e articulação com os demais níveis de
+atenção, garantindo o cuidado longitudinal e coordenado.
+Incorreta: “A paciente deveria ter sido orientada a procurar diretamente o hospital de
+referência regional, já que a Atenção Básica não dispõe de recursos para atender
+complicações do diabetes.”
+Encaminhar diretamente o usuário ao hospital desorganiza a rede e ignora o princípio da
+coordenação do cuidado. A Atenção Básica deve ser a primeira referência, responsável
+pela avaliação inicial e encaminhamento qualificado, conforme necessidade clínica.
+Incorreta: “O encaminhamento ao especialista deveria ter sido feito diretamente pela
+paciente, sem necessidade de mediação da equipe da ESF, reduzindo a burocracia e
+acelerando o acesso ao cuidado especializado.”
+O acesso direto aos especialistas, sem regulação e sem articulação com a Atenção
+Básica, fere o princípio de integralidade e compromete a continuidade do cuidado. O
+encaminhamento deve ser mediado pela equipe de referência, conforme critérios clínicos
+e regulatórios.
+Referências:
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica (PNAB), 2017.
+MENDES, E.V. As Redes de Atenção à Saúde. Organização Pan-Americana da Saúde,
+2011.
+Feedback:
+--
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 5 de 28
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+7
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+Compreender conceitos e fundamentos das Redes de
+Atenção à Saúde.
+[Áreas de Conhecimento]
+MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PALMAS
+
+4ª QUESTÃO
+Código da questão:
+
+150395
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNIPTAN) O senhor L., 72 anos, residente em um bairro periférico e adscrito à equipe da
+Estratégia Saúde da Família (ESF) da UBS Bonfim, vive sozinho e tem mobilidade reduzida
+após uma queda recente. Relata dificuldade para se deslocar até a unidade de saúde.
+Durante visita domiciliar, o agente comunitário identifica hipertensão controlada,
+diabetes tipo 2 com glicemia de jejum de 150 mg/dL, sobrepeso e sentimento de
+isolamento social. A equipe observa acompanhamento domiciliar irregular e pouca
+articulação com serviços de reabilitação e redes de apoio social. Diante disso, a equipe
+decide organizar visitas domiciliares quinzenais, articular-se com a reabilitação e mapear
+a rede de apoio social para fortalecer o acompanhamento do idoso.
+Considerando as diretrizes da Política Nacional de Atenção Básica (PNAB) vigente, qual
+delas está sendo melhor atendida por essa ação da equipe da ESF?
+Alternativas:
+(alternativa A)
+Territorialização — pressupõe que a equipe atue em território definido, conhecendo e
+responsabilizando-se pela população adscrita.
+(alternativa B)
+Longitudinalidade do cuidado — garante acompanhamento contínuo ao longo do tempo
+pela mesma equipe para a mesma pessoa.
+(alternativa C) (CORRETA)
+Coordenação do cuidado — envolve a articulação entre serviços de reabilitação, apoio
+social e atenção primária para garantir o fluxo e a integração da rede.
+(alternativa D)
+Cuidado centrado na pessoa — contempla o planejamento individualizado, considerando
+valores, preferências e contexto do idoso.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 6 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Resposta correta: Coordenação do cuidado — pelo fato de articular serviços de
+reabilitação, apoio social e atenção primária para garantir o fluxo e a integração da rede.
+A diretriz “coordenação do cuidado” da PNAB refere-se à função da atenção básica em
+ser porta de entrada e centro de comunicação da rede de atenção à saúde (RAS),
+organizando o fluxo de usuários entre níveis de atenção, promovendo articulação dos
+diferentes serviços para que o cuidado seja contínuo e integrado.
+No cenário apresentado, a equipe da ESF identifica lacunas no acesso e continuidade — e
+sua estratégia atua justamente na articulação entre atenção primária, reabilitação e
+apoio social. Portanto, está atendendo de forma mais específica essa diretriz.
+Incorretas:
+Territorialização → está presente no trabalho da ESF (conhecer o território e população
+adscrita), mas nesse caso particular a ação de articular redes e fluxos aponta mais
+fortemente para “coordenação do cuidado”.
+Longitudinalidade do cuidado → também importante (acompanhar ao longo do tempo),
+mas a ênfase da ação descrita chama-se articulação de rede e fluxo entre serviços, mais
+alinhado à coordenação.
+Cuidado centrado na pessoa → a equipe faz planejamento individualizado, o que
+corresponde a essa diretriz, mas a pergunta pergunta “qual (…) está sendo melhor
+atendida” e a articulação da rede caracteriza mais claramente a coordenação do cuidado.
+Participação da comunidade → embora importante e desejável (envolver comunidade,
+redes de apoio), não é o foco primário da ação descrita, que visa articulação entre
+serviços e continuidade do cuidado individual.
+Referência:
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica – PNAB: princípios e
+diretrizes. Brasília: Ministério da Saúde, 2017. Disponível em:
+http://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_atencao_basica_4ed.pdf.
+Acesso em: 22 out. 2025.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+3
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+Reconhecer os princípios da PNAB a partir do contexto da
+realidade de um território.
+[Áreas de Conhecimento]
+MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIPTAN
+5ª QUESTÃO
+
+Código da questão:
+
+130606
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 7 de 28
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(UNIDOMPEDRO) Maria é usuária do Sistema Único de Saúde (SUS) e frequenta uma
+Unidade Básica de Saúde (UBS) em seu município. Ela observou que as equipes
+passaram a organizar as consultas respeitando as necessidades de saúde da comunidade
+e as particularidades de cada paciente. Além disso, a unidade tem promovido atividades
+que estimulam a participação dos usuários em grupos e ações coletivas, fortalecendo o
+vínculo entre profissionais e população.
+Com base nas diretrizes da Política Nacional de Atenção Básica (PNAB), assinale a
+alternativa que melhor representa a diretriz expressa nas ações da UBS descritas no
+caso.
+Alternativas:
+(alternativa A) (CORRETA)
+As ações da UBS refletem a diretriz de cuidado centrado na pessoa, pois buscam atender
+às necessidades individuais dos usuários e fortalecer o vínculo entre equipe e
+comunidade.
+(alternativa B)
+As ações da UBS demonstram a diretriz de participação da comunidade, pois envolvem os
+usuários diretamente na gestão administrativa da unidade.
+(alternativa C)
+A organização das consultas conforme as necessidades da população indica a diretriz de
+hierarquização, relacionada à distribuição de responsabilidades entre os níveis de
+atenção.
+(alternativa D)
+O cenário descrito representa a diretriz de integralidade, pois se refere à oferta de todos
+os níveis de atenção à saúde em um mesmo serviço.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Correta: As ações da UBS refletem a diretriz de cuidado centrado na pessoa, pois buscam
+atender às necessidades individuais dos usuários e fortalecer o vínculo entre equipe e
+comunidade.
+Incorreta: As ações da UBS demonstram a diretriz de participação da comunidade, pois
+envolvem os usuários diretamente na gestão administrativa da unidade (inadequada
+situação não menciona participação na gestão).
+Incorreta: O cenário descrito representa a diretriz de integralidade, pois se refere à oferta
+de todos os níveis de atenção à saúde em um mesmo serviço (erro conceitual —
+integralidade não significa isso).
+Incorreta: A organização das consultas conforme as necessidades da população indica a
+diretriz de hierarquização, relacionada à distribuição de responsabilidades entre os níveis
+de atenção (confunde organização interna da UBS com hierarquia do SUS).
+Referência:
+BRASIL. Ministério da Saúde. Portaria nº 2.436, de 21 de setembro de 2017. Aprova a
+Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a
+organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Diário
+Oficial da União: seção 1, Brasília, DF p. 68, 22 set. 2017. Disponível em:
+https://www.in.gov.br/web/dou/-/portaria-n-2-436-de-21-de-setembro-de-2017-19308031.
+Feedback:
+--
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 8 de 28
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+3
+[Áreas de Conhecimento]
+SC/MFC
+[Subáreas de Conhecimento]
+APS
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Habilidades]
+Conhecer os princípios e diretrizes da PNAB.
+[IES]
+UNIDOMPEDRO
+6ª QUESTÃO
+
+Código da questão:
+
+121483
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA ABAETETUBA) Durante uma reunião de equipe, a médica da Estratégia de Saúde
+da Família relata que tem enfrentado dificuldade em envolver os moradores de uma
+comunidade na adesão às ações de prevenção de doenças crônicas. Ela comenta que,
+até então, tem utilizado encontros em que apresenta slides e explica as orientações
+médicas aos participantes, mas nota pouca mudança de comportamento. Uma agente
+comunitária sugere, então, realizar atividades que permitam aos moradores falar sobre
+suas próprias experiências e dificuldades, discutindo em grupo as soluções possíveis a
+partir de sua realidade.
+Considerando os princípios da educação popular em saúde e as concepções pedagógicas
+de Paulo Freire, é correto afirmar que a proposta da agente comunitária.
+Alternativas:
+(alternativa A)
+Mantém o foco na transmissão vertical do conhecimento, característica da metodologia
+bancária de ensino.
+
+(alternativa B)
+Enfraquece o papel do profissional de saúde como referência técnica, tornando o
+processo educativo desorganizado.
+
+(alternativa C)
+Substitui o conteúdo científico por experiências leigas, comprometendo a qualidade da
+educação em saúde.
+(alternativa D) (CORRETA)
+Representa uma prática problematizadora, centrada no diálogo e na valorização dos
+saberes e vivências dos participantes.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 9 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Comentário resposta correta:
+A proposta descrita reflete os princípios da educação problematizadora, conforme Paulo
+Freire, ao priorizar o diálogo, a escuta ativa e a construção coletiva do conhecimento a
+partir da realidade local. Essa metodologia reconhece e valoriza o saber popular,
+promove o protagonismo dos participantes e transforma o processo educativo em uma
+experiência crítica e participativa, integrando o saber técnico ao vivido pela comunidade.
+Justificativa das incorretas:
+As alternativas incorretas descrevem abordagens que se afastam da concepção freireana
+de educação popular:
+Uma delas apresenta a transmissão vertical do conhecimento, na qual o profissional de
+saúde assume o papel de detentor exclusivo do saber, limitando-se a “depositar”
+informações nos participantes. Esse modelo corresponde à metodologia bancária,
+criticada por Paulo Freire por reduzir o sujeito a mero receptor passivo do conteúdo.
+Outra alternativa sugere que o diálogo e a escuta popular enfraquecem a autoridade
+técnica do profissional, o que é uma interpretação equivocada. A educação
+problematizadora não exclui o conhecimento científico, mas o integra de forma crítica e
+compartilhada, reconhecendo o educador como facilitador e mediador do processo.
+A última incorreta afirma que a valorização das experiências e saberes populares
+substitui o conhecimento científico, o que também é incorreto. A proposta freireana
+busca articular o saber técnico-científico com o saber popular, construindo um
+aprendizado significativo e contextualizado, sem hierarquizar um sobre o outro.
+Referência:
+VASCONCELOS, E. M.; VASCONCELOS, M. O. D. Educação popular . In: GUSSO, G.; LOPES,
+J. M. C. (Orgs.). Tratado de Medicina de Família e Comunidade: princípios, formação e
+prática. Porto Alegre: Artmed, 2019. Cap. 12.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+10
+[Módulos integrados]
+IESC
+[Áreas de Conhecimento]
+SC/MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[IES]
+AFYA IPATINGA
+AFYA ABAETETUBA
+[Competências (Objetivos)]
+Diferenciar as metodologias de educação em saúde
+(bancária e problematizadora).
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+7ª QUESTÃO
+
+Código da questão:
+
+123954
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 10 de 28
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(UNIDEP) João, um agente comunitário de saúde, foi designado para organizar uma
+atividade sobre hipertensão arterial em uma comunidade rural. Ele considera duas
+abordagens metodológicas distintas e mutuamente exclusivas:
+Abordagem 1: João prepara uma apresentação detalhada (palestra) sobre a doença, seus
+fatores de risco, sintomas e tratamento. Seu plano é transmitir essas informações de
+forma vertical aos participantes, esperando que eles assimilem o conteúdo como
+receptores passivos do saber.
+Abordagem 2: João decide realizar um "círculo de conversa". Seu plano é que os
+participantes compartilhem suas próprias experiências e conhecimentos prévios sobre
+hipertensão. Atuando estritamente como facilitador (e não como expositor), João
+estimularia a discussão de dúvidas para que, juntos e partindo da realidade local, eles
+construam coletivamente soluções práticas para o controle da doença.
+Com base nas descrições e nas metodologias de educação em saúde de Paulo Freire,
+analise as alternativas abaixo, identificando a correta.
+Alternativas:
+(alternativa A)
+Na Abordagem 1, João utiliza a metodologia problematizadora, que incentiva a
+participação ativa dos indivíduos na construção do conhecimento, enquanto na
+Abordagem 2, ele utiliza a metodologia bancária, que é centrada na transmissão de
+conhecimento pelo educador.
+(alternativa B) (CORRETA)
+Na Abordagem 1, João utiliza a metodologia bancária, que é centrada na transmissão de
+conhecimento pelo educador, enquanto na Abordagem 2, ele utiliza a metodologia
+problematizadora, que incentiva a participação ativa dos indivíduos na construção do
+conhecimento.
+(alternativa C)
+Na Abordagem 1, João utiliza a metodologia bancária, que é centrada na transmissão de
+conhecimento pelo educador, assim como na Abordagem 2, que também é bancária, pois
+o facilitador conduz a discussão para validar suas próprias conclusões.
+(alternativa D)
+Na Abordagem 1, João utiliza a metodologia problematizadora, pois a palestra visa à
+construção do conhecimento, assim como na Abordagem 2, que também é
+problematizadora, pois incentiva a participação ativa dos indivíduos.
+
+Grau de dificuldade:
+
+Médio
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 11 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+- Na Abordagem 1, João utiliza a metodologia problematizadora... enquanto na
+Abordagem 2, ele utiliza a metodologia bancária...
+Comentário: incorreta. Esta alternativa inverte os conceitos. A Abordagem 1 (palestra,
+transmissão vertical) é a definição de bancária. A Abordagem 2 (círculo, construção
+coletiva) é a definição de problematizadora.
+- Na Abordagem 1, João utiliza a metodologia bancária... enquanto na Abordagem 2, ele
+utiliza a metodologia problematizadora...
+Comentário: correta. Esta alternativa aplica perfeitamente os conceitos às descrições:
+Abordagem 1 (Bancária): O texto-base descreve uma transmissão vertical de informação
+("transmitir essas informações", "receptores passivos"), o que é a essência da
+metodologia bancária ("depósito" de conhecimento).
+Abordagem 2 (Problematizadora): O texto-base descreve uma construção de saber
+("construam coletivamente soluções") que parte da realidade dos envolvidos ("partindo
+da realidade local"), com o educador como "facilitador". Esta é a definição exata de
+metodologia problematizadora.
+- Na Abordagem 1, João utiliza a metodologia bancária... assim como na Abordagem 2,
+que também é bancária, pois o facilitador conduz a discussão para validar suas próprias
+conclusões.
+Comentário: incorreta. Esta alternativa erra ao classificar a Abordagem 2. O texto-base
+contradiz explicitamente esta alternativa. O texto-base afirma que na Abordagem 2 o
+grupo "constrói coletivamente" e João é "estritamente como facilitador". A alternativa, ao
+contrário, alega que o facilitador "conduz... para validar suas próprias conclusões" (o que
+seria uma metodologia bancária "disfarçada", mas que não é o cenário descrito na
+questão).
+- Na Abordagem 1, João utiliza a metodologia problematizadora... assim como na
+Abordagem 2, que também é problematizadora...
+Comentário: incorreta. Esta alternativa erra ao classificar a Abordagem 1. A Abordagem 1
+(palestra, "receptores passivos") é o oposto da metodologia problematizadora, pois nela
+não há participação ativa na construção do conhecimento.
+Referência:
+VASCONCELOS E. M., VASCONCELOS M. O. D. Educação popular. In: GUSSO G.; LOPES, J.
+M. C. (Org.). Tratado de medicina de família e comunidade: princípios, formação e prática.
+Porto Alegre: Artmed, 2019. Cap. 12.
+Feedback:
+--
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 12 de 28
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+10
+[Módulos integrados]
+IESC
+[IES]
+UNIDEP
+UNIDEP
+[Áreas de Conhecimento]
+MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Competências (Objetivos)]
+Diferenciar as metodologias de educação em saúde
+(bancária e problematizadora).
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+
+8ª QUESTÃO
+Código da questão:
+
+121935
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA ITACOATIARA) Uma Unidade Básica de Saúde (UBS) localizada em uma área rural
+está enfrentando desafios para atender adequadamente sua população adulta. Os
+profissionais de saúde observam que as ações de promoção e prevenção em saúde,
+como campanhas de vacinação e programas de educação em saúde, têm baixa adesão
+por parte da comunidade. A equipe da Estratégia de Saúde da Família (ESF) está
+elaborando um plano de intervenção para aumentar a participação da comunidade
+nessas ações, conforme os princípios da Política Nacional de Atenção Básica (PNAB), que
+preconiza o fortalecimento da atenção integral e resolutiva no território.
+Qual estratégia a equipe da UBS deve adotar para aumentar a adesão da população
+adulta às ações de promoção e prevenção em saúde, conforme os princípios da PNAB?
+Alternativas:
+(alternativa A)
+Ampliar a oferta de consultas ambulatoriais, visando aumentar a procura pela UBS.
+(alternativa B)
+Realizar campanhas de divulgação nas redes sociais e em plataformas digitais,
+alcançando a população jovem e adulta.
+(alternativa C)
+Contratar mais médicos especialistas para realizar atendimentos individuais e específicos.
+(alternativa D) (CORRETA)
+Fortalecer o vínculo com a comunidade por meio de visitas domiciliares e participação
+social.
+
+Grau de dificuldade:
+
+Médio
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 13 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+- Contratar mais médicos especialistas para realizar atendimentos individuais e
+específicos.
+Incorreta. Justificativa: Esta estratégia foca no modelo curativo, individual e
+especializado. A Política Nacional de Atenção Básica (PNAB) prioriza a promoção da saúde
+e a prevenção de doenças no território, com uma abordagem generalista e focada na
+família e na comunidade, e não na especialidade.
+- Ampliar a oferta de consultas ambulatoriais, visando aumentar a procura pela UBS.
+Incorreta. Justificativa: O problema apresentado não é a falta de consultas, mas a baixa
+adesão às ações de promoção e prevenção (vacinação, educação em saúde). Aumentar a
+oferta de consultas (demanda espontânea, foco na doença) não resolve a causa-raiz do
+problema, que é a falta de engajamento e vínculo da comunidade com essas ações
+preventivas.
+- Fortalecer o vínculo com a comunidade por meio de visitas domiciliares e participação
+social.
+Correta. Justificativa: Esta é a estratégia central preconizada pela PNAB. O vínculo, a
+territorialização (conhecer a realidade local por meio de visitas domiciliares) e o estímulo
+à participação social são as ferramentas fundamentais para que a equipe de saúde ganhe
+a confiança da população. Com esse vínculo estabelecido, a adesão às ações de
+promoção e prevenção aumenta naturalmente, pois a comunidade passa a ver a equipe
+como parte de seu cotidiano e referência em saúde.
+- Realizar campanhas de divulgação nas redes sociais e em plataformas digitais,
+alcançando a população jovem e adulta.
+Incorreta. Justificativa: Embora seja uma ferramenta moderna, ela é insuficiente e, no
+contexto descrito ("área rural"), pode ser inadequada. A PNAB enfatiza o contato direto, a
+"saúde de perto" e a territorialização. Uma campanha digital é impessoal e não cria o
+vínculo que a PNAB estabelece como pilar para a adesão, sendo uma estratégia
+complementar, mas nunca principal.
+Referência:
+Brasil. Ministério da Saúde. Política Nacional de Atenção Básica. Brasília: Ministério da
+Saúde, 2017. Disponível
+em: http://bvsms.saude.gov.br/bvs/publicacoes/politica_nacional_atencao_basica_2017.pd
+f. Acesso em: 13 nov. 2025.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+3
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+Reconhecer os princípios da PNAB a partir do contexto da
+realidade de um território.
+[Áreas de Conhecimento]
+SC/MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ITACOATIARA
+9ª QUESTÃO
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 14 de 28
+
+Treine as provas online! www.acervo.vip
+Código da questão:
+
+105943
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(FASA VIC) Dona Antônia, 63 anos, mora em uma comunidade ribeirinha e é
+acompanhada pela equipe da Estratégia Saúde da Família (ESF) há vários anos. Durante
+visita domiciliar, relata cansaço constante, dor nas pernas e dificuldade para realizar suas
+atividades diárias. A equipe identifica hipertensão controlada, mas observa que Dona
+Antônia apresenta sinais de tristeza e isolamento após o falecimento recente do marido.
+Diante da situação, a equipe agenda nova consulta médica, orienta sobre atividade física
+leve, aciona a equipe multidisciplinar (e-Multi) para avaliação psicológica e inclui a idosa
+nas rodas de conversa do grupo de convivência da comunidade.
+Considerando as diretrizes da Política Nacional de Atenção Básica (PNAB) vigente, qual
+delas é mais fortemente expressa nas ações adotadas pela equipe?
+Alternativas:
+(alternativa A)
+Ao incluir Dona Antônia nas rodas de convivência da comunidade, evidencia-se a
+participação social como eixo central da atenção básica.
+(alternativa B) (CORRETA)
+Ao abordar não apenas as queixas físicas, mas também o sofrimento emocional e o
+isolamento social da paciente, a equipe demonstra a atenção integral às diferentes
+dimensões do cuidado.
+
+(alternativa C)
+Ao manter o acompanhamento da paciente pela mesma equipe ao longo dos anos,
+reforça-se a continuidade do vínculo profissional-usuário, característica da
+longitudinalidade.
+
+(alternativa D)
+Ao solicitar o apoio da e-Multi e organizar a agenda de atendimento, a equipe exemplifica
+a coordenação entre diferentes níveis e serviços da rede de saúde.
+
+Grau de dificuldade:
+
+Médio
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 15 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Resposta correta: A alternativa que aborda a integralidade — porque a equipe atua
+considerando o cuidado em suas múltiplas dimensões: física (controle da hipertensão e
+sintomas), mental (encaminhamento psicológico) e social (inserção em grupo de
+convivência). Essa abordagem global das necessidades da usuária expressa a diretriz da
+integralidade, que busca atender o indivíduo de forma completa, conforme os princípios
+da PNAB.
+Incorretas:
+A alternativa sobre longitudinalidade está parcialmente presente (a paciente é
+acompanhada há anos), mas o destaque do caso é o atendimento integral às suas
+diferentes necessidades, e não apenas a continuidade do vínculo.
+A alternativa sobre participação social menciona um aspecto comunitário, mas as rodas
+de convivência são uma estratégia de apoio social e convivência, não um espaço de
+controle social ou gestão participativa.
+A alternativa sobre coordenação do cuidado descreve a articulação dentro da própria
+atenção básica (com a e-Multi), não entre diferentes pontos da rede de atenção, o que é
+mais limitado do que a coordenação em sentido amplo.
+Referência:
+BRASIL. Ministério da Saúde. Política Nacional de Atenção Básica – PNAB. Brasília:
+Ministério da Saúde, 2017.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+2
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+Reconhecer os princípios da PNAB a partir do contexto da
+realidade de um território.
+[Áreas de Conhecimento]
+MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+FASA VIC
+10ª QUESTÃO
+
+Código da questão:
+
+142841
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(UNIDOMPEDRO) Durante um estágio supervisionado em uma Unidade de Saúde da
+Família (USF), uma estudante de medicina acompanha uma reunião entre os
+profissionais, em que se discutem as características das equipes que atuam na Atenção
+Básica. A preceptora explica que existem diferentes modelos de organização previstos na
+Política Nacional de Atenção Básica (PNAB), fundamentais para garantir a integralidade e
+o acesso à saúde da população.
+Com base na PNAB vigente, assinale a alternativa correta.
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 16 de 28
+
+Treine as provas online! www.acervo.vip
+Alternativas:
+(alternativa A)
+A Estratégia dos Agentes Comunitários de Saúde (EACS) pode ser implantada de forma
+isolada, composta apenas por Agentes Comunitários de Saúde e um enfermeiro
+supervisor, sem vínculo obrigatório com uma Unidade Básica de Saúde.
+(alternativa B)
+As equipes multiprofissionais de Atenção Básica têm caráter substitutivo às Equipes de
+Saúde da Família (eSF) e Equipes de Saúde da Família (eSF), assumindo o cuidado direto
+da população em territórios desassistidos.
+(alternativa C) (CORRETA)
+A Equipe de Saúde da Família (eSF) é composta, obrigatoriamente, por médico,
+enfermeiro, técnico ou auxiliar de enfermagem e agente comunitário de saúde, podendo
+incluir profissionais de saúde bucal e de vigilância ambiental.
+(alternativa D)
+A Equipe de Atenção Básica (eAB) é composta minimamente por médico, enfermeiro e
+técnico ou auxiliar de enfermagem, sendo obrigatória a presença de Agentes
+Comunitários de Saúde em todas as áreas de abrangência.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Comentário resposta correta: De acordo com a PNAB (Portaria nº 2.436/2017), a Equipe
+de Saúde da Família (eSF) é composta obrigatoriamente por médico, enfermeiro, técnico
+ou auxiliar de enfermagem e Agentes Comunitários de Saúde (ACS). A equipe pode ser
+ampliada com profissionais de saúde bucal e outros profissionais de áreas específicas,
+como vigilância ambiental, conforme as necessidades do território. Esse modelo é a base
+da Atenção Básica e prioriza a adscrição da população e o vínculo com o território.
+Comentário resposta incorreta: As Equipes de Atenção Básica (eAB) são mais flexíveis em
+sua composição. Elas devem ter no mínimo médico, enfermeiro e técnico ou auxiliar de
+enfermagem, mas não é obrigatória a presença de Agentes Comunitários de Saúde. Essa
+característica diferencia as eAB das eSF, oferecendo uma alternativa organizacional para
+contextos em que a Estratégia Saúde da Família ainda não está implantada plenamente.
+Comentário resposta incorreta: As equipes multiprofissionais de Atenção Básica não
+substituem as eSF nem as eAB. Seu papel é complementar, atuando de forma matricial
+para ampliar a resolutividade e apoiar o trabalho clínico e pedagógico das equipes de
+base. Elas sucederam o modelo dos Núcleos de Apoio à Saúde da Família (NASF-AB) e
+fortalecem o cuidado integral, mas não realizam atendimento direto como equipe
+principal do território.
+Comentário resposta incorreta: A Estratégia dos Agentes Comunitários de Saúde (EACS)
+não pode funcionar isoladamente. Segundo a PNAB, ela deve estar vinculada a uma
+Unidade Básica de Saúde (UBS) cadastrada no SCNES (Sistema de Cadastro Nacional de
+Estabelecimentos de Saúde), que serve como base de apoio e referência para o trabalho
+dos ACS. A atuação isolada fere o princípio da integração e da territorialização da Atenção
+Básica.
+Referência:
+BRASIL. Ministério da Saúde. Portaria nº 2.436, de 21 de setembro de 2017. Aprova a
+Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a
+organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Brasília:
+Ministério da Saúde, 2017. Disponível em:
+https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt2436_22_09_2017.html. Acesso
+em: 14 ago. 2025.
+Feedback:
+--
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 17 de 28
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+3
+[Áreas de Conhecimento]
+SC/MFC
+[Subáreas de Conhecimento]
+APS
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDOMPEDRO
+[Habilidades]
+Entender o funcionamento e tipos de equipes que atuam
+na atenção básica
+11ª QUESTÃO
+
+Código da questão:
+
+135092
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA Paraíba) Carlos, 46 anos, trabalhador informal, procura a Unidade de Saúde da
+Família (USF) após notar há algumas semanas episódios intermitentes de sangramento
+nasal, dores articulares e manchas roxas no corpo, sem causa aparente. Durante a
+consulta, o médico da equipe de Saúde da Família realiza uma escuta ativa, avalia o
+histórico clínico e familiar, examina o paciente e solicita exames laboratoriais iniciais
+disponíveis na Atenção Básica. Os resultados apontam alterações significativas nos níveis
+de plaquetas e leucócitos, levantando a suspeita de uma possível condição hematológica
+grave, como uma leucemia. Diante do achado, o profissional elabora um
+encaminhamento via sistema de regulação para um serviço especializado em
+hematologia, garantindo o seguimento clínico e a integralidade do cuidado.
+Considerando o caso apresentado e relacionando-o aos conceitos e fundamentos das
+Redes de Atenção à Saúde, marque a alternativa correta.
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 18 de 28
+
+Treine as provas online! www.acervo.vip
+Alternativas:
+(alternativa A) (CORRETA)
+A Atenção Básica atua como a porta de entrada prioritária do SUS, com responsabilidade
+de realizar a escuta qualificada, investigação inicial, acompanhamento e articulação com
+os demais níveis de atenção, promovendo a integralidade e a coordenação do cuidado.
+(alternativa B)
+Em casos de alta complexidade diagnóstica, como o descrito, o paciente deve procurar
+diretamente o serviço especializado, reduzindo etapas intermediárias e facilitando o
+acesso rápido ao diagnóstico definitivo, pois a Atenção Básica não faz hipóteses de
+diagnósticos complexos.
+(alternativa C)
+Em casos de alta complexidade diagnóstica, como o descrito, é recomendado que o
+usuário procure diretamente uma Unidade de Pronto Atendimento (UPA) ou hospital, visto
+que a Atenção Básica não possui estrutura adequada para lidar com suspeitas de
+doenças graves.
+(alternativa D)
+A Atenção Básica atua na prestação de serviços de baixo custo e baixa complexidade,
+cabendo à média e alta complexidade a responsabilidade pela suspeita diagnóstica e pelo
+plano terapêutico, sem a necessidade de articulação entre os níveis.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Incorreta: "Em casos de alta complexidade diagnóstica, como o descrito, o paciente deve
+procurar diretamente o serviço especializado, reduzindo etapas intermediárias e
+facilitando o acesso rápido ao diagnóstico definitivo, pois a Atenção Básica não faz
+hipóteses de diagnósticos complexos." A busca direta por serviços especializados ignora
+o papel fundamental da Atenção Básica na coordenação do cuidado. É responsabilidade
+da Atenção Básica fazer a identificação e suspeitar de situações clínicas complexas, visto
+que na AB envolve avaliação clínica inicial, estratificação de risco e encaminhamento
+qualificado.
+Correta: "A Atenção Básica atua como a porta de entrada prioritária do SUS, com
+responsabilidade de realizar a escuta qualificada, investigação inicial, acompanhamento
+e articulação com os demais níveis de atenção, promovendo a integralidade e a
+coordenação do cuidado." Essa alternativa reflete com precisão os princípios da Atenção
+Básica: ser porta de entrada prioritária, ofertar cuidado longitudinal e coordenar o acesso
+aos serviços especializados de forma articulada, garantindo a integralidade da atenção.
+Incorreta: "Em casos de alta complexidade diagnóstica, como o descrito, é recomendado
+que o usuário procure diretamente uma Unidade de Pronto Atendimento (UPA) ou
+hospital, visto que a Atenção Básica não possui estrutura adequada para lidar com
+suspeitas de doenças graves." A busca direta por serviços de urgência, sem passagem
+pela Atenção Básica, sobrecarrega a rede e desorganiza o cuidado. Situações como a
+descrita devem iniciar na Atenção Básica, que pode avaliar, iniciar condutas e referenciar
+com base em critérios clínicos.
+Incorreta: "A Atenção Básica atua na prestação de serviços de baixo custo e baixa
+complexidade, cabendo à média e alta complexidade a responsabilidade pela suspeita
+diagnóstica e pelo plano terapêutico, sem a necessidade de articulação entre os níveis."
+A Atenção Básica vai além da prestação de serviços de baixa complexidade. Ela é o
+centro de comunicação entre os pontos de atenção do SUS, sendo responsável por
+garantir a continuidade do cuidado, inclusive após a atenção especializada.
+Referências:
+MENDES, E.V. As situações das condições de saúde e os sistemas de atenção à saúde. In:
+MENDES, E.V. As redes de atenção à saúde. Organização Pan-Americana da Saúde, 2011,
+2010. Cap. 1.
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 19 de 28
+
+Treine as provas online! www.acervo.vip
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+8
+[Módulos integrados]
+IESC
+[Áreas de Conhecimento]
+MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Competências (Objetivos)]
+Compreender conceitos e fundamentos das Redes de
+Atenção à Saúde.
+12ª QUESTÃO
+
+Código da questão:
+
+121486
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+( AFYA IPATINGA) Um município brasileiro enfrenta altos índices de doenças crônicas não
+transmissíveis (DCNT) e a população apresenta dificuldade de acesso aos serviços de
+saúde. Considerando os princípios da Política Nacional de Atenção Básica (PNAB),
+assinale a alternativa que melhor reflete uma estratégia adequada e integral para
+melhorar a situação da saúde no território descrito.
+Alternativas:
+(alternativa A)
+Priorizar a construção de um hospital de referência para casos graves de DCNT,
+concentrando os recursos na alta complexidade para garantir tratamento especializado
+aos já doentes.
+(alternativa B)
+Incentivar um modelo de livre escolha de prestadores, flexibilizando a coordenação pela
+Atenção Primária para aumentar a agilidade e a satisfação do usuário com o serviço.
+(alternativa C)
+Focar os investimentos em um programa de telemedicina para condições agudas,
+visando reduzir o tempo de espera para consultas e otimizar o fluxo de emergências
+locais.
+(alternativa D) (CORRETA)
+Implantar equipes de Saúde da Família com cobertura territorial, garantindo a porta de
+entrada, o acompanhamento longitudinal das DCNT e as ações de prevenção comunitária.
+
+Grau de dificuldade:
+
+Médio
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 20 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+- Focar os investimentos em um programa de telemedicina para condições agudas,
+visando reduzir o tempo de espera para consultas e otimizar o fluxo de emergências
+locais.
+Comentário: Incorreta. Justificativa: Esta estratégia é falha porque se concentra
+em condições agudas e emergências. A PNAB (Política Nacional de Atenção
+Básica) tem como pilares a longitudinalidade (acompanhamento contínuo) e a
+prevenção, que são essenciais para o manejo das DCNT (Doenças Crônicas Não
+Transmissíveis) citadas no enunciado. Focar apenas no agudo negligencia o
+cuidado crônico.
+- Implantar equipes de Saúde da Família com cobertura territorial, garantindo a porta de
+entrada, o acompanhamento longitudinal das DCNT e as ações de prevenção comunitária.
+Comentário: Correta. Justificativa: Esta é a alternativa que melhor reflete os
+princípios da PNAB. A implantação de Equipes de Saúde da Família (eSF) com
+território definido ataca diretamente os dois problemas:
+1. Resolve a "dificuldade de acesso" ao funcionar como "porta de entrada"
+preferencial.
+2. Aborda as "DCNT" por meio do "acompanhamento longitudinal"
+(cuidando de quem já é doente) e da "prevenção" (evitando novos
+casos).
+- Priorizar a construção de um hospital de referência para casos graves de DCNT,
+concentrando os recursos na alta complexidade para garantir tratamento especializado
+aos já doentes.
+Comentário: Incorreta. Justificativa: Esta opção propõe um modelo
+hospitalocêntrico (focado em hospital), que é o oposto do que a PNAB preconiza.
+A PNAB organiza o sistema a partir da Atenção Primária (a base), que deve ser
+resolutiva e coordenar o cuidado. Focar na alta complexidade (hospital) sem
+fortalecer a base não resolve o acesso primário nem a prevenção.
+- Incentivar um modelo de livre escolha de prestadores, flexibilizando a coordenação pela
+Atenção Primária para aumentar a agilidade e a satisfação do usuário com o serviço.
+Comentário: Incorreta. Justificativa: Esta estratégia fere dois princípios centrais
+da PNAB: a territorialização (em que a equipe de saúde é responsável por uma
+população definida) e a coordenação do cuidado (em que a Atenção Primária
+"filtra" e "organiza" o caminho do paciente no sistema). A livre escolha irrestrita
+fragmenta o cuidado e impede o acompanhamento longitudinal eficaz.
+Referência:
+BRASIL. Ministério da Saúde. Portaria nº 2.436, de 21 de setembro de 2017. Aprova a
+Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para a
+organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). Diário
+Oficial da União: seção 1, Brasília, DF, n. 183, p. 68, 22 set. 2017.
+Feedback:
+--
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 21 de 28
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+2
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+Reconhecer os princípios da PNAB a partir do contexto da
+realidade de um território.
+[Áreas de Conhecimento]
+SC/MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[IES]
+AFYA IPATINGA
+AFYA IPATINGA
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+13ª QUESTÃO
+
+Código da questão:
+
+120411
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(UNISL JI-PARANÁ) Paciente do sexo feminino, 52 anos, usuária da Unidade Básica de
+Saúde (UBS), procura atendimento com queixas de dor torácica e cansaço frequente.
+Após avaliação clínica, o médico da família suspeita de doença cardíaca e decide
+encaminhá-la para um serviço especializado, a fim de realizar exames complementares e
+obter um diagnóstico definitivo.
+Considerando o funcionamento das Redes de Atenção à Saúde (RAS) e o papel da UBS
+nesse fluxo, assinale a alternativa que descreve corretamente a sua função.
+Alternativas:
+(alternativa A)
+A atenção básica garante que a paciente seja imediatamente internada em um hospital
+especializado, priorizando a especialidade sobre o cuidado continuado.
+(alternativa B)
+A atenção básica tem o papel de realizar o primeiro atendimento, definir o diagnóstico
+definitivo e encaminhar diretamente para o hospital especializado, sem acompanhamento
+posterior.
+(alternativa C)
+A atenção básica deve apenas informar a paciente sobre a necessidade de buscar um
+especialista por conta própria, sem garantir o acesso aos serviços especializados.
+(alternativa D) (CORRETA)
+A atenção básica é responsável por avaliar a paciente, encaminhá-la ao serviço
+especializado quando necessário, garantindo atendimento integral e promovendo a
+coordenação do cuidado.
+
+Grau de dificuldade:
+
+Médio
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 22 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Alternativa: A atenção básica é responsável por avaliar a paciente, encaminhá-la ao
+serviço especializado quando necessário, garantindo atendimento integral e promovendo
+a coordenação do cuidado. Correta: Esta alternativa reflete corretamente o papel da
+Atenção Básica na Rede de Atenção à Saúde. A AB é a porta de entrada preferencial,
+sendo responsável pelo atendimento inicial, pelo encaminhamento aos serviços
+especializados quando necessário e pelo acompanhamento contínuo após o atendimento
+especializado, promovendo a coordenação do cuidado. A integralidade do cuidado e a
+continuidade do acompanhamento são princípios fundamentais da RAS, em que a AB
+atua como coordenadora do cuidado, organizando o fluxo dos pacientes por meio dos
+diferentes níveis de complexidade (BRASIL, 2010).
+Alternativa: A atenção básica garante que a paciente seja imediatamente internada em
+um hospital especializado, priorizando a especialidade sobre o cuidado continuado.
+Incorreta: A Atenção Básica não tem como função garantir internamentos imediatos em
+hospitais especializados. Embora a AB tenha o papel de encaminhar os pacientes para
+serviços de maior complexidade quando necessário, não prioriza a especialidade sobre o
+cuidado continuado. Pelo contrário, a AB busca coordenar o cuidado ao longo do tempo,
+promovendo a integralidade e continuidade do cuidado, mesmo quando o paciente é
+encaminhado para serviços especializados. A RAS visa garantir que o paciente não seja
+tratado de forma fragmentada, mas que haja coordenação entre os níveis de atenção, do
+primário ao terciário.
+Alternativa: A atenção básica tem o papel de realizar o primeiro atendimento, definir o
+diagnóstico definitivo e encaminhar diretamente para o hospital especializado, sem
+acompanhamento posterior. Incorreta: Embora a AB seja a porta de entrada para o
+sistema de saúde, ela não tem o papel de definir diagnósticos definitivos em todos os
+casos, especialmente quando são necessários exames de maior complexidade. A AB é
+responsável pelo primeiro atendimento e pelo encaminhamento correto aos especialistas,
+mas a função primordial da AB é coordenar o cuidado, incluindo o acompanhamento
+contínuo após o atendimento especializado (MENDES, 2012). O acompanhamento
+posterior faz parte da responsabilidade da AB, o que não é contemplado nessa
+alternativa.
+Alternativa: A atenção básica deve apenas informar a paciente sobre a necessidade de
+buscar um especialista por conta própria, sem garantir o acesso aos serviços
+especializados. Incorreta: Esta alternativa vai contra os princípios da Atenção Básica e
+das Redes de Atenção à Saúde. A AB não é responsável apenas por orientar o paciente
+sobre a necessidade de buscar um especialista, mas também garante o acesso a esses
+serviços por meio de encaminhamentos formais e acompanhamentos. A AB atua para
+coordenar o cuidado entre os diferentes níveis de atenção, facilitando o fluxo dos
+pacientes dentro da rede (MENDES, 2012). Deixar o paciente por conta própria
+comprometeria a continuidade do cuidado e a integralidade do atendimento.
+Referências:
+MENDES, E.V. As redes de atenção à saúde: revisão bibliográfica, fundamentos, conceito
+e elementos constitutivos. In: MENDES, E.V. As redes de atenção à saúde. Organização
+Pan-Americana da Saúde, 2011, 2010. Cap. 2 (Fundamentos e conceitos, pág. 71 a 84)
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016.
+BRASIL. Ministério da Saúde. Portaria nº 4.279, de 30 de dezembro de 2010. Estabelece
+diretrizes para a organização das Redes de Atenção à Saúde no âmbito do Sistema Único
+de Saúde (SUS). Brasília: Ministério da Saúde, 2010. Disponível em:
+http://bvsms.saude.gov.br/bvs/saudelegis/gm/2010/prt4279_30_12_2010.html. Acesso
+em: 11 out. 2024.
+Feedback:
+--
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 23 de 28
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+7
+[Módulos integrados]
+IESC
+[IES]
+UNISL JI-PARANÁ
+UNISL JI-PARANÁ
+[Competências (Objetivos)]
+Compreender conceitos e fundamentos das Redes de
+Atenção à Saúde.
+[Áreas de Conhecimento]
+SC/MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+14ª QUESTÃO
+
+Código da questão:
+
+122190
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(UNISL PORTO VELHO) Durante um atendimento na Atenção Básica, um médico identifica
+um paciente com diabetes mellitus e hipertensão, sem acompanhamento regular. No
+exame, nota-se uma lesão ulcerada no hálux com cicatrização lenta, sugerindo a
+necessidade de acompanhamento especializado.
+Identifique a estratégia mais adequada para garantir cuidado integral a esse paciente.
+Alternativas:
+(alternativa A)
+Priorizar o tratamento da condição mais grave identificada no momento da avaliação
+médica, abordando as demais necessidades em consultas médicas futuras.
+(alternativa B)
+Encaminhar ao ambulatório de especialidades conforme a necessidade identificada na
+consulta, sem a indicação de acompanhamento contínuo pela equipe da unidade.
+(alternativa C) (CORRETA)
+Estabelecer plano de cuidado multiprofissional envolvendo a equipe, para garantir
+acompanhamento contínuo e comunicação entre os profissionais.
+(alternativa D)
+Prescrever medicamentos necessários para tratar as comorbidades identificadas após
+avaliação médica, desconsiderando o suporte social e psicológico inicialmente.
+
+Grau de dificuldade:
+
+Fácil
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 24 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Análise da alternativa correta:
+Estabelecer plano de cuidado multiprofissional envolvendo a equipe, para garantir
+acompanhamento contínuo e comunicação entre os profissionais. Correta: A criação de
+um plano de cuidado multiprofissional assegura o acompanhamento contínuo e a
+comunicação entre a Atenção Básica e os especialistas, conforme recomendado para o
+manejo integral de casos complexos na Atenção Primária.
+Análise das alternativas incorretas:
+Encaminhar ao ambulatório de especialidades conforme a necessidade identificada na
+consulta, sem a indicação de acompanhamento contínuo pela equipe da unidade.
+Incorreta: Embora o encaminhamento ao especialista seja necessário, o cuidado integral
+na Atenção Primária exige acompanhamento contínuo pela equipe de saúde local. A
+continuidade de cuidados na unidade garante o monitoramento do caso e a adesão ao
+tratamento.
+Priorizar o tratamento da condição mais grave identificada no momento da avaliação
+médica, abordando as demais necessidades em consultas médicas futuras. Incorreta:
+Priorizar apenas a condição mais grave pode negligenciar o cuidado integral necessário
+para pacientes com comorbidades, como diabetes e hipertensão, que requerem atenção
+multidisciplinar e planejamento para evitar complicações futuras.
+Prescrever medicamentos necessários para tratar as comorbidades identificadas após
+avaliação médica, desconsiderando o suporte social e psicológico inicialmente. Incorreta:
+O manejo integral deve incluir aspectos psicossociais, fundamentais para a adesão ao
+tratamento. Desconsiderar o suporte social e psicológico limita o alcance dos cuidados
+oferecidos ao paciente.
+Referência:
+CARVALHO, N. R. O. Redes de Atenção à Saúde: a atenção à saúde organizada em redes.
+Universidade Federal do Maranhão. UNA-SUS/UFMA. São Luís, 2016. Acesso em: 30 abr.
+2025.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+7
+[Módulos integrados]
+IESC
+[Competências (Objetivos)]
+Compreender conceitos e fundamentos das Redes de
+Atenção à Saúde.
+[Áreas de Conhecimento]
+MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[IES]
+UNISL PORTO VELHO
+UNISL PORTO VELHO
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+15ª QUESTÃO
+
+Código da questão:
+
+106067
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 25 de 28
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(UNIGRANRIO Barra) No território adscrito da Clínica da Família Morro Azul residem 2480
+pessoas que são acompanhadas por seis agentes comunitários de saúde (ACS). Na
+reunião de equipe, a ACS Rosa, microárea 04, relatou que na última visita ao território
+com a Dra. Branca, foi identificado um foco do mosquito da dengue na residência do Sr.
+Juvenal. A médica demonstrou preocupação e disse que, no dia anterior, foram
+notificados 4 casos suspeitos de dengue da mesma microárea. A reunião foi interrompida
+porque a médica recebeu um chamado para ir à residência do Sr. Gregório, um idoso de
+73 anos, em cuidados paliativos e que havia falecido. A médica foi ao local e emitiu a
+declaração de óbito para a família.
+Com base no relato e na importância dos Sistemas de Informação em Saúde (SIS) para a
+vigilância e o planejamento em saúde pública, assinale a alternativa que apresenta os
+formulários e SIS correspondentes.
+Alternativas:
+(alternativa A)
+Declaração de Nascido Vivo-DNV (SINASC) e Declaração de Óbito-DO (SIM).
+(alternativa B)
+Ficha Individual de Notificação-FIN (SINASC) e Ficha de Atendimento Individual (SISAB).
+(alternativa C) (CORRETA)
+Ficha Individual de Notificação-FIN (SINAN) e Declaração de Óbito-DO (SIM).
+(alternativa D)
+Declaração de Óbito-DO (SIM) e Ficha de Procedimento (SISAB).
+
+Grau de dificuldade:
+
+Fácil
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 26 de 28
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+- Ficha Individual de Notificação-FIN (SINASC) e Ficha de Atendimento Individual (SISAB).
+Comentário: Incorreta. Esta alternativa contém dois erros. Primeiro, o SINASC (Sistema de
+Informação sobre Nascidos Vivos) é alimentado pela Declaração de Nascido Vivo (DNV) e
+não tem qualquer relação com a notificação de dengue. Segundo, embora o atendimento
+possa ser registrado no SISAB, o enunciado direciona para os sistemas de "vigilância em
+saúde", tornando o SINAN o sistema prioritário para a notificação do agravo (dengue), e
+não o SISAB.
+- Declaração de Óbito-DO (SIM) e Ficha de Procedimento (SISAB).
+Comentário: Incorreta. Embora a primeira parte, DO (SIM), esteja correta para o registro
+do óbito, a segunda parte está errada. O SISAB não é o sistema prioritário para a
+vigilância epidemiológica da dengue. O sistema central para monitorar surtos, como o de
+dengue, e permitir o planejamento de ações de bloqueio é o SINAN.
+- Ficha Individual de Notificação-FIN (SINAN) e Declaração de Óbito-DO (SIM).
+Comentário: Correta. Esta alternativa responde perfeitamente ao que foi solicitado. O
+enunciado pede os sistemas prioritários para "vigilância em saúde".
+1. Os casos suspeitos de dengue são um agravo de notificação compulsória, registrados
+pela Ficha Individual de Notificação (FIN), que alimenta o Sistema de Informação de
+Agravos de Notificação (SINAN).
+2. O óbito é um evento vital registrado pela Declaração de Óbito (DO), que alimenta o
+Sistema de Informação sobre Mortalidade (SIM).
+Ambos são os sistemas de vigilância corretos para os eventos descritos.
+- Declaração de Nascido Vivo-DNV (SINASC) e Declaração de Óbito-DO (SIM).
+Comentário: Incorreta. Esta alternativa erra ao identificar o sistema para o primeiro
+evento. A DNV (Declaração de Nascido Vivo) e o SINASC (Sistema de Informação sobre
+Nascidos Vivos) referem-se ao registro de nascimentos, o que não tem nenhuma relação
+com a notificação dos casos de dengue mencionados no texto-base.
+Referências:
+CORIOLANO L. S. et al. Sistema de informação em Saúde. In: ROUQUAYROL, Maria Zélia;
+GURGEL, Marcelo. Epidemiologia e saúde. 8. ed. Rio de Janeiro: MedBook, 2017. p. 617634. Cap. 35. Acesso em: 30 abr. 2025.
+GALLEGUILLOS, Tatiana Gabriela B. Epidemiologia - Indicadores de Saúde e Análise de
+Dados. Rio de Janeiro: Érica, 2014. E-book, p. 1. ISBN 9788536520889. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788536520889/. Acesso em: 30
+abr. 2025.
+Feedback:
+--
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 27 de 28
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+11
+[Módulos integrados]
+IESC
+[IES]
+UNIGRANRIO BARRA
+UNIGRANRIO BARRA
+[Competências (Objetivos)]
+Entender a importância dos sistemas de informação para o
+planejamento das ações estratégicas de saúde.
+[Áreas de Conhecimento]
+MFC
+[Subáreas de Conhecimento]
+Atenção básica
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+
+000179.740010.0a0430.043e73.76155f.26cb88.9fb3b4.1c26a
+
+Página 28 de 28
+
+

@@ -1,0 +1,446 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Clínica Cirúrgica III
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_7 PERIODO_14ABRIL_2025.1_CC III IRREGULAR
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15592 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+www.acervo.top / acervotop.com
+
+(UNIGRANRIO CAXIAS) Uma mulher de 50 anos está sendo submetida a uma histerectomia
+total sob anestesia geral. Durante o procedimento, a equipe de anestesiologia percebeu que a
+paciente apresentava uma saturação de oxigênio (SpO2) de 92%, ausculta pulmonar revelando
+diminuição de murmúrio vesicular no lado esquerdo e aumento da pressão inspiratória. A pressão
+arterial estava estável, mas a frequência cardíaca começou a aumentar. A equipe percebeu que a
+ventilação estava assimétrica e que a paciente não estava respondendo adequadamente à
+ventilação assistida.
+Com base nos sinais e sintomas apresentados, qual é a complicação mais provável que ocorreu
+durante a cirurgia?
+Alternativas:
+(alternativa A) (CORRETA)
+Migração unilateral do tubo orotraqueal.
+(alternativa B)
+Aspiração de conteúdo gástrico durante a intubação.
+(alternativa C)
+Broncoespasmo bilateral.
+(alternativa D)
+Pneumotórax do lado direito.
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 1 de 12
+
+Resposta comentada:
+Resposta correta:
+A migração unilateral do tubo orotraqueal é uma complicação reconhecível que pode ocorrer
+durante a anestesia geral, especialmente em procedimentos cirúrgicos. Os sinais apresentados,
+como a diminuição do murmúrio vesicular no lado excluído e a baixa saturação de oxigênio,
+indicam que o tubo foi deslocado para o brônquio contralateral, resultando em ventilação
+inadequada e hipoxemia. A monitorização intraoperatória é crucial para identificar esta
+complicação rapidamente, permitindo a correção da posição do tubo (SABISTON, 2021, Capítulo
+11, p. 245-247; SCHWARTZ, 2022, Capítulo 5, p. 121-125).
+Embora a aspiração de conteúdo gástrico possa causar complicações durante a anestesia, a
+apresentação clínica não sugere que a paciente tenha desenvolvido sinais típicos dessa
+condição, como estertores ou broncoaspiração visível. Além disso, a desaturação e a ventilação
+assimétrica estão mais alinhadas com a migração do tubo (SCHWARTZ, 2022, Capítulo 5, p.
+125).
+Embora o pneumotórax possa causar desaturação, a apresentação de diminuição do murmúrio
+vesicular no lado esquerdo é mais coerente com a migração do tubo orotraqueal (SABISTON,
+2021, Capítulo 11, p. 248).
+Embora o broncoespasmo possa causar dificuldade na ventilação e dessaturação, normalmente
+seria acompanhado por sibilos e uma resposta mais uniforme na ausculta pulmonar.
+Referências:
+SABISTON, D. C. Cirurgia Geral. 11. ed. Rio de Janeiro: Elsevier, 2021.
+SCHWARTZ, S. I. Princípios de Cirurgia. 11. ed. São Paulo: Manole, 2022.
+
+2ª QUESTÃO
+Enunciado:
+(UNISL PORTO VELHO) Paciente masculino, 75 anos, é internado na ala da cirurgia geral com
+histórico de perda ponderal não intencional de 12 kg nos últimos 4 meses, associado a disfagia
+progressiva, plenitude pós-prandial e dor epigástrica. Relata episódios esporádicos de vômitos
+alimentares e astenia importante. Ex-tabagista e etilista por 40 anos, sem comorbidades
+conhecidas. Ao exame físico, apresenta dor leve à palpação epigástrica, sem sinais de abdome
+agudo. Não há linfonodomegalias palpáveis. A endoscopia digestiva alta revela lesão
+ulceroinfiltrativa na grande curvatura do estômago, com áreas de necrose e bordas irregulares,
+comprometendo a cárdia, com biópsia confirmando adenocarcinoma gástrico pouco diferenciado.
+A tomografia computadorizada demonstra espessamento parietal difuso na grande curvatura do
+estômago, sem invasão de órgãos adjacentes, além de linfonodos regionais aumentados, porém
+sem metástases à distância.
+Diante desse quadro, elabore a conduta cirúrgica e assinale a alternativa mais adequada.
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 2 de 12
+
+Alternativas:
+(alternativa A) (CORRETA)
+Gastrectomia total com linfadenectomia D2, pois o tumor é proximal, de padrão infiltrativo e
+associado a linfonodomegalias regionais.
+(alternativa B)
+Gastrojejunostomia paliativa, pois o paciente apresenta sintomas obstrutivos importantes e a
+idade avançada contraindica uma cirurgia de grande porte.
+(alternativa C)
+Gastrectomia subtotal distal com linfadenectomia D1, pois não há metástases à distância e o
+tumor se localiza na grande curvatura do estômago.
+(alternativa D)
+Quimioterapia neoadjuvante sempre deve ser realizada antes da cirurgia, para todos os casos de
+tumor gástrico.
+
+Resposta comentada:
+Correta:
+Gastrectomia total com linfadenectomia D2, pois o tumor é proximal, de padrão infiltrativo e
+associado a linfonodomegalias regionais.
+O tumor é proximal e infiltrativo, comprometendo a cárdia, o que contraindica a preservação do
+remanescente gástrico. A linfadenectomia D2 é a abordagem padrão para câncer gástrico
+localmente avançado, pois melhora a sobrevida ao aumentar a ressecção dos linfonodos
+potencialmente comprometidos. O paciente não apresenta metástases à distância, tornando a
+cirurgia com intenção curativa possível.
+A gastrectomia subtotal é indicada para tumores distais do estômago, enquanto o caso clínico
+apresenta um tumor proximal e infiltrativo, comprometendo a cárdia. A linfadenectomia D1
+(retirada apenas dos linfonodos perigástricos) é insuficiente para esse caso, pois há
+linfonodomegalias regionais, exigindo linfadenectomia D2, que inclui os linfonodos do tronco
+celíaco, hepáticos, esplênicos e pancreáticos.
+A gastrojejunostomia paliativa é indicada quando há tumores irressecáveis, sintomas obstrutivos
+graves ou doença metastática, o que não ocorre no caso.
+A quimioterapia neoadjuvante pode ser indicada em tumores gástricos localmente avançados,
+mas não é obrigatória em todos os casos. Como não há invasão de órgãos adjacentes nem
+metástases, a cirurgia pode ser realizada de imediato. O tratamento padrão para câncer gástrico
+ressecável é a gastrectomia associada à linfadenectomia D2, podendo a quimioterapia ser
+indicada no pós-operatório (adjuvante) conforme o estadiamento final.
+Referência:
+Townsend CM Jr, Beauchamp RD, Evers BM, Mattox KL. Sabiston Tratado de Cirurgia: A
+Base Biológica da Prática Cirúrgica Moderna. 21ª edição. Rio de Janeiro: Elsevier; 2022. p.
+1275-1300.
+3ª QUESTÃO
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 3 de 12
+
+Enunciado:
+(BANCO AFYA) Homem de 41 anos, vítima de colisão carro x poste, chega ao pronto-socorro
+politraumatizado, apresentando dor abdominal difusa, sinais de irritação peritoneal e instabilidade
+hemodinâmica inicial. A tomografia de abdome revela líquido livre e provável lesão traumática de
+vias biliares. Está indicada laparotomia de urgência com possível reconstrução biliar.
+Com base nesse cenário clínico, responda:
+1. O paciente tem indicação de antibioticoprofilaxia no preparo cirúrgico? Justifique brevemente.
+2. Qual classe de antibiótico você indicaria inicialmente, qual a justificativa para essa escolha e
+por quanto tempo deve durar a profilaxia?
+
+Alternativas:
+-Resposta comentada:
+Padrão de Resposta Esperada:
+1. Sim. A lesão de vias biliares em contexto traumático e cirurgia de urgência abdominal envolve
+alto risco de contaminação do trato gastrointestinal, exigindo antibioticoprofilaxia para reduzir o
+risco de infecção de sítio cirúrgico e peritonite.
+2. A classe indicada é cefalosporina de 1ª geração (ex.: cefazolina) associada a metronidazol ou,
+preferencialmente, uma cefalosporina de 2ª geração (ex.: cefuroxima) ou 3ª geração (ex.:
+ceftriaxona) com cobertura para enterobactérias e anaeróbios. A escolha deve considerar a flora
+entérica e o risco de contaminação por bile infectada. A profilaxia deve durar até 24 horas, salvo
+sinais de infecção estabelecida (ex: bile purulenta ou peritonite), quando se inicia antibioticoterapia.
+Referências:
+TOWNSEND, C. M. et al. Sabiston – tratado de cirurgia: fundamentos biológicos da prática
+cirúrgica moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+COLÉGIO BRASILEIRO DE CIRURGIÕES. Manual de condutas cirúrgicas. 6. ed. Rio de
+Janeiro: CBC, 2021.
+BRASIL. Ministério da Saúde. Protocolo de Prevenção de Infecção de Sítio Cirúrgico. Brasília:
+MS, 2019.
+4ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Paciente sexo feminino, 50 anos de idade, chega ao ambulatório de cirurgia
+encaminhada pela unidade de saúde de família do interior do nordeste. A paciente informa que
+apresenta disfagia há cerca de seis meses, acompanhada de pirose e episódios de regurgitação
+de alimentos não digeridos. Nega perda de peso, não fuma e nem ingere bebidas alcoólicas.
+Refere que o pai e um tio faleceram de doença de Chagas. Apresenta exame contrastado de
+esôfago e estômago revelando esvaziamento lento do contraste e estreitamento do esôfago ao
+nível da junção gastroesofágica. A endoscopia digestiva alta não revelou lesões expansivas no
+esôfago. Nesse sentido, marque a alternativa que apresenta a principal hipótese diagnóstica e o
+exame padrão ouro para confirmação diagnóstica.
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 4 de 12
+
+Alternativas:
+(alternativa A) (CORRETA)
+Acalasia de esôfago e manometria esofágica.
+(alternativa B)
+Adenocarcinoma de esôfago e tomografia de tórax.
+(alternativa C)
+Esôfago de Barrett e biópsia esofágica.
+(alternativa D)
+Esofagite de refluxo e pHmetria esofágica.
+
+Resposta comentada:
+Resposta correta.
+O paciente apresenta quadro característico de acalasia de esôfago, provavelmente decorrente de
+doença de Chagas (pois deve ser de área endêmica em que pai e tio faleceram da doença de
+Chagas).
+O exame padrão ouro para diagnóstico de acalasia é a manometria esofágica.
+Esôfago de Barrett e biópsia esofágica. Incorreta, pois o quadro clínico não é característico de
+esôfago de Barrett.
+Esofagite de refluxo e pHmetria esofágica. Incorreta, pois não é característica de esofagite.
+Adenocarcinoma de esôfago e tomografia de tórax. Incorreta, pois não é caso característico de
+esofagite.
+
+Referência:
+DOHERTY, Gerard M. CURRENT Cirurgia. Porto Alegre: Grupo A, 2017. E-book. ISBN
+9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788580556018/. Acesso em: 07 mar. 2025.
+5ª QUESTÃO
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 5 de 12
+
+Enunciado:
+(FIP GUANAMBI) Um paciente de 52 anos procura o pronto-socorro com história de dor
+abdominal leve no quadrante superior direito, seguida de icterícia que perdurou por dois dias, mas
+cessou. O paciente tem histórico de hipertensão arterial controlada com medicamentos e não tem
+antecedentes relevantes de quaisquer outras doenças. Na avaliação, o paciente apresenta
+icterícia moderada e desconforto leve à palpação na região hepática, mas respira normalmente à
+palpação do ponto cístico. Nega febre ou calafrios. Os únicos exames laboratoriais alterados
+mostram elevações nos níveis de bilirrubina total (12 mg/dL), bilirrubina direta (9 mg/dL) e
+fosfatase alcalina (450 U/L). A ultrassonografia abdominal revela múltiplos cálculos na vesícula
+biliar com paredes finas e dilatação das vias biliares com a presença de cálculo distal.
+Sobre esse caso clínico, marque a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+O paciente apresenta colelitíase e coledocolitíase sem colangite e deve ser submetido a CPRE.
+(alternativa B)
+O paciente apresenta a tríade clássica da colangite e deve ser operado imediatamente.
+(alternativa C)
+O paciente apresenta tumor das vias biliares e deve realizar colangioressonância.
+(alternativa D)
+O paciente apresenta pancreatite biliar aguda e deve realizar tomografia computadorizada.
+
+Resposta comentada:
+#
+6ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Paciente masculino, 25 anos, foi submetido a uma laparotomia exploradora
+devido a um abdome agudo. Durante o procedimento, que já se estende por mais de 2 horas, o
+anestesiologista observa, no monitor intraoperatório, um aumento progressivo na amplitude dos
+traçados na monitorização de bloqueio neuromuscular por eletromiografia (TOF, Train-of-four).
+Frente ao contexto, assinale a alternativa que apresenta a conduta mais adequada.
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 6 de 12
+
+Alternativas:
+(alternativa A) (CORRETA)
+Administrar imediatamente uma nova dose de agente bloqueador neuromuscular, como rocurônio,
+para manter o relaxamento muscular adequado.
+(alternativa B)
+Suspender a administração de anestésicos inalatórios, pois esses podem potencializar o efeito
+residual do bloqueio neuromuscular.
+(alternativa C)
+Avaliar se o paciente apresenta sinais clínicos de despertar intraoperatório antes de tomar
+qualquer conduta.
+(alternativa D)
+Administrar um agente reversor, como neostigmina, para antagonizar o efeito residual do bloqueio
+neuromuscular.
+
+Resposta comentada:
+Resposta correta: Administrar imediatamente uma nova dose de agente bloqueador
+neuromuscular, como rocurônio, para manter o relaxamento muscular adequado.
+Durante uma cirurgia prolongada, o monitoramento da transmissão neuromuscular é essencial
+para avaliar a necessidade de redosagem do bloqueador neuromuscular. O aumento progressivo
+na amplitude dos traçados do TOF indica recuperação parcial da função neuromuscular,
+sinalizando a necessidade de uma nova dose para manter o bloqueio adequado.
+Incorreta - A neostigmina é usada apenas para reverter o bloqueio ao final do procedimento.
+Incorreta - Avaliar sinais clínicos de despertar sem considerar o monitoramento específico pode
+atrasar a conduta adequada.
+Incorreta - Suspender anestésicos voláteis não é indicado, pois eles são parte essencial do plano
+anestésico.
+Referências:
+Miller RD, Cohen NH, Eriksson LI, et al. Miller’s Anesthesia. 9th ed. Elsevier; 2020.
+Sociedade Brasileira de Anestesiologia (SBA). Manual de Práticas Recomendadas em
+Anestesiologia. Atualização 2023.
+7ª QUESTÃO
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 7 de 12
+
+Enunciado:
+(UNIGRANRIO CAXIAS) Uma paciente diabética, com 55 anos de idade, comparece à unidade
+de atendimento médico para a avaliação de unha “inflamada” no quarto dedo da mão esquerda,
+com início há aproximadamente 5 dias e episódio de febrícula. Durante a consulta, observou-se
+edema e eritema, associados a coleção purulenta, limitados à borda lateral e base da unha. A
+paciente tinha consigo exames laboratoriais realizados havia 4 dias, onde se podia verificar
+leucocitose neutrofílica discreta e glicemia de jejum acima da meta glicêmica para pacientes
+diabéticos.
+Diante dessas informações, qual é a conduta mais adequada?
+
+Alternativas:
+(alternativa A)
+Exérese da unha e curativo local com antibiótico tópico por 7 dias.
+(alternativa B) (CORRETA)
+Drenagem cirúrgica da coleção purulenta, associada a antibioticoterapia por via oral e curativo.
+(alternativa C)
+Curativo local com iodopovidona ou clorexidina e anti-inflamatório por via oral por 7 dias e retorno
+para reavaliação.
+(alternativa D)
+Retornar após correção dos níveis glicêmicos e prescrição de anti-inflamatório por via oral.
+
+Resposta comentada:
+A paroníquia é a infecção em torno da unha. Pode ser classificada em aguda e crônica, sendo
+geralmente causada pelo S. aureus e, menos comumente, pelo estreptococo beta-hemolítico. Na
+vigência de coleção purulenta, a drenagem cirúrgica está indicada. Nos casos mais graves e
+dependendo da situação clínica do paciente, é mandatório o uso de antimicrobianos por via oral
+para evitar distrofia ungueal permanente e agravamento do quadro infeccioso na mão. Portanto,
+as outras alternativas não contemplam a abordagem correta do quadro clínico em análise.
+Referência:
+SAVASSI-ROCHA, Paulo R.; SANCHES, Soraya Rodrigues de A.; SAVASSI-ROCHA, Alexandre
+L. Cirurgia de ambulatório. Rio de Janeiro: MedBook Editora, 2013. E-book. p. 437. ISBN
+9786557830215. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786557830215/. Acesso em: 05 abr. 2025.
+8ª QUESTÃO
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 8 de 12
+
+Enunciado:
+(UNIGRANRIO CAXIAS) Uma mulher de 52 anos foi admitida no pronto-socorro com queixas de
+dor abdominal, localizada no quadrante superior direito, seguida evolutivamente de náuseas e
+episódios de vômitos. No exame físico, notou-se distensão abdominal e dor à palpação difusa,
+mas sem sinais de irritação peritoneal. Ela estava levemente ictérica. A ultrassonografia
+abdominal revelou a presença de vesícula biliar com paredes espessadas, sem cálculos, mas
+com aerobilia. A tomografia computadorizada confirmou a aerobilia, níveis hidroaéreos em
+delgado proximal e uma concreção calcárea no íleo distal.
+Com base no exposto, qual é o diagnóstico mais provável para esta paciente?
+Alternativas:
+(alternativa A)
+Obstrução intestinal por tumor de delgado.
+(alternativa B)
+Pancreatite biliar aguda complicada.
+(alternativa C) (CORRETA)
+Íleo biliar.
+(alternativa D)
+Colecistite aguda simples.
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 9 de 12
+
+Resposta comentada:
+Correta:
+O íleo biliar ocorre quando um cálculo biliar se desloca do trato biliar e impacta no intestino,
+causando obstrução. A apresentação clínica da paciente, incluindo dor abdominal intensa,
+náuseas, vômitos e a presença de uma imagem compatível com cálculo impactado no íleo distal,
+apoia fortemente esse diagnóstico. A ultrassonografia é uma ferramenta útil para confirmar a
+presença de cálculos biliares e a obstrução intestinal resultante, e a TC complementa a
+investigação do quadro obstrutivo (SABISTON, 2021, Capítulo 34, p. 865-867; SCHWARTZ, 2022,
+Capítulo 10, p. 150-152).
+Embora a paciente tenha vesícula biliar espessada sem cálculos, a colecistite aguda simples não
+evolui com aerobilia e níveis hidroaéreos, estes decorrentes da fístula entre a vesícula e o
+duodeno.
+A pancreatite aguda é frequentemente associada à presença de cálculos biliares, mas geralmente
+se apresenta com dor epigástrica intensa, irradiação para as costas e sinais de inflamação. A dor
+abdominal da paciente, além de ser difusa, não possui as características típicas da pancreatite, e
+a ultrassonografia não é indicativa de envolvimento pancreático (SABISTON, 2021, Capítulo 34, p.
+870-872).
+Embora a obstrução intestinal por outras causas, como aderências ou tumores, seja uma
+possibilidade para a obstrução do delgado, a presença específica de um cálculo impactado no íleo
+distal e os sinais de íleo biliar tornam essas opções menos prováveis. A história clínica e os
+achados de imagem são mais consistentes com o diagnóstico de íleo biliar do que com a
+obstrução por aderências, que normalmente não exibiria a presença de cálculos biliares
+(SCHWARTZ, 2022, Capítulo 10, p. 150-152).
+Referências:
+SABISTON, D. C. Cirurgia Geral. 11. ed. Rio de Janeiro: Elsevier, 2021.
+SCHWARTZ, S. I. Princípios de Cirurgia. 11. ed. São Paulo: Manole, 2022.
+9ª QUESTÃO
+Enunciado:
+(FIP GUANAMBI) Um paciente de 45 anos é admitido na emergência com história de dor
+abdominal intensa, irradiando para as costas, acompanhada de náuseas e vômitos iniciados há 3
+dias. O paciente tem histórico de consumo excessivo de álcool. Na avaliação inicial, ele
+apresenta fáscies de dor, desidratação cutâneo-mucosa, taquicardia, hipotensão e febre (38,9º C).
+Os exames laboratoriais revelam:
+Amilase: 300 U/L (normal: 30-120 U/L).
+Lipase: 600 U/L (normal: 0-160 U/L).
+Leucócitos: 25.000/mm³, com predominância de neutrófilos.
+Hemoglobina: 12 g/dL.
+Glicose: 180 mg/dL.
+PCR: 1.000 mg/L.
+A tomografia computadorizada abdominal mostra um pâncreas com extensas áreas de necrose e
+coleções líquidas intra e peripancreáticas. O paciente é admitido e tratado clinicamente, mas não
+responde ao tratamento conservador em 72 horas, com piora dos sintomas.
+Sobre este caso clínico, marque a afirmativa correta:
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 10 de 12
+
+Alternativas:
+(alternativa A)
+A laparotomia para colocação de drenos e coleta de líquido para cultura deve ser suficiente para a
+resolução do quadro.
+(alternativa B) (CORRETA)
+O resultado da tomografia deste paciente indica que ele tem indicação de cirurgia, uma vez que
+tem necrose e não apresentou melhora com tratamento conservador.
+(alternativa C)
+A drenagem percutânea do líquido peripancreático para alívio do quadro e coleta para cultura de
+bactérias é a conduta correta nesta fase.
+(alternativa D)
+Uma mudança no tratamento clínico visando corrigir o distúrbio hidroeletrolítico e a adequação do
+antibiótico devem ser suficientes para a resolução do quadro.
+
+Resposta comentada:
+Diante de um quadro clínico, laboratorial e radiológico de necrose pancreática infectada, como no
+caso descrito aqui, a conduta é cirúrgica, com realização de necrosectomia e drenagem. A
+simples drenagem percutânea ou mesmo a simples drenagem cirúrgica, sem ressecção do
+tecido morto e infectado, não são suficientes para a resolução do quadro clínico.
+Referências:
+Sabiston - Tratado de Cirurgia - Townsend, Courtney; Beauchamp, Daniel - 2 Volumes - 18ª Ed.
+Cirurgia Vascular: Doenças Vasculares Periféricas, 4ª edição, volumes 01 e 02. Maffei, Lastória,
+Yoshida, Rollo, Giannini, Moura.
+LOSCALZO, Joseph. Harrison's Principles of Internal Medicine. 21ª edição. McGraw Hill
+Education. 2022.
+10ª QUESTÃO
+Enunciado:
+(UNIGRANRIO CAXIAS) Um paciente com 60 anos de idade é portador de um carcinoma
+basocelular em antebraço direito e necessita ser submetido a exérese da lesão com rotação de
+retalho sob anestesia local. Durante a avaliação pré-operatória, ele informou ser portador de
+fibrilação atrial crônica e fazer uso regular de Marevan (varfarina sódica). Não possui outras
+comorbidades.
+Descreva e comente as condutas pré-operatórias a serem instituídas para esse paciente.
+Alternativas:
+--
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 11 de 12
+
+Resposta comentada:
+A varfarina deve ser suspensa 5 dias antes do procedimento, para se chegar a um INR normal (<
+1,3) ou próximo ao normal (1,3-1,4). A heparina de baixo peso molecular deve ser iniciada 3 dias
+antes do procedimento, sendo que a última dose precisa ser dada 24 horas antes do
+procedimento. Necessário e prudente realizar nova avaliação de INR e TAP após a suspensão do
+anticoagulante oral e antes da cirurgia.
+Referências:
+DOHERTY, Gerard M. CURRENT Cirurgia. 14. ed. Porto Alegre: AMGH, 2017. E-book. p. 19.
+ISBN 9788580556018. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580556018/. Acesso em: 05 abr. 2025.
+Portal Afya – Cardiologia – como manejar anticoagulantes e antiagregantes no perioperatório.
+
+000155.92001c.46a43f.3455ad.758344.2e2471.d49879.4d386
+
+Pgina 12 de 12
+
+

@@ -33,13 +33,13 @@ export function Agenda() {
 
   return (
     <div className="grid gap-5 md:grid-cols-[17rem_1fr]">
-      <div className="overflow-hidden rounded-2xl border border-line bg-panel-2">
+      <div className="overflow-hidden rounded-2xl border-4 border-ink bg-ink text-bg">
         <div className="flex items-center justify-between px-3 py-2.5">
-          <button className="rounded-full border border-line p-1 hover:bg-white/5" onClick={() => shift(-1)} aria-label="Mês anterior"><ChevronLeft className="size-4" /></button>
+          <button className="rounded-full border-2 border-bg p-0.5 hover:bg-bg hover:text-ink" onClick={() => shift(-1)} aria-label="Mês anterior"><ChevronLeft className="size-4" /></button>
           <span className="text-xs font-bold uppercase tracking-[0.14em]">{month.toLocaleDateString('pt-BR', { month: 'long', year: y === now.getFullYear() ? undefined : 'numeric' })}</span>
-          <button className="rounded-full border border-line p-1 hover:bg-white/5" onClick={() => shift(1)} aria-label="Próximo mês"><ChevronRight className="size-4" /></button>
+          <button className="rounded-full border-2 border-bg p-0.5 hover:bg-bg hover:text-ink" onClick={() => shift(1)} aria-label="Próximo mês"><ChevronRight className="size-4" /></button>
         </div>
-        <div className="grid grid-cols-7 gap-y-1 bg-bg/60 px-2 py-3 text-center text-xs">
+        <div className="grid grid-cols-7 gap-y-1 bg-black px-2 py-3 text-center text-xs text-ink">
           {WEEK.map((d, i) => <span key={i} className="pb-1 text-[10px] font-semibold text-mute">{d}</span>)}
           {cells.map((d, i) => {
             if (!d) return <span key={i} />
@@ -47,7 +47,7 @@ export function Agenda() {
             return (
               <button key={i} onClick={() => openDraft(date)} title="Adicionar evento"
                 className={`mx-auto grid size-7 place-items-center rounded-full tabular-nums transition hover:bg-white/10 ${
-                  date === today ? 'bg-accent font-bold text-bg hover:bg-accent' : marked.has(date) ? 'ring-1 ring-accent text-accent' : ''
+                  date === today ? 'bg-fuchsia-600 font-bold text-white hover:bg-fuchsia-600' : marked.has(date) ? 'ring-2 ring-fuchsia-500' : ''
                 }`}>
                 {d}
               </button>
@@ -55,7 +55,7 @@ export function Agenda() {
           })}
         </div>
         <p className="flex items-center justify-center gap-1.5 py-2 text-xs font-semibold">
-          <CalendarClock className="size-3.5 text-accent" />
+          <CalendarClock className="size-3.5" />
           {now.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' })}, {now.toLocaleTimeString('pt-BR', { hour: '2-digit', minute: '2-digit' })}
         </p>
       </div>
@@ -89,14 +89,14 @@ export function Agenda() {
         ) : (
           <ul className="space-y-2">
             {items.map((a) => (
-              <li key={a.id} className={`group flex items-center gap-2.5 rounded-full border border-line bg-bg/60 py-1.5 pr-2 pl-1.5 text-sm ${a.done ? 'opacity-50' : ''}`}>
+              <li key={a.id} className={`group flex items-center gap-2.5 rounded-3xl border border-line bg-black py-1.5 pr-2 pl-1.5 text-sm ${a.done ? 'opacity-50' : ''}`}>
                 <button onClick={() => patch(a.id, !a.done)} aria-label={a.done ? 'Desmarcar' : 'Concluir'}
                   className={`grid size-6 shrink-0 place-items-center rounded-full border ${a.done ? 'border-accent bg-accent text-bg' : 'border-mute/50 hover:border-accent'}`}>
                   {a.done && <Check className="size-3.5" />}
                 </button>
-                <span className="shrink-0 rounded-md bg-accent/15 px-1.5 py-0.5 text-xs font-bold text-accent tabular-nums">{a.date.slice(8)}/{a.date.slice(5, 7)}</span>
+                <span className="shrink-0 rounded-md bg-fuchsia-600 px-1.5 py-0.5 text-xs font-bold text-white tabular-nums">{a.date.slice(8)}/{a.date.slice(5, 7)}</span>
                 {a.start && <span className="shrink-0 rounded-md bg-white/5 px-1.5 py-0.5 text-xs text-mute tabular-nums">{a.start}{a.end && `–${a.end}`}</span>}
-                <span className={`min-w-0 truncate font-semibold uppercase ${a.done ? 'line-through' : ''}`}>{a.title}</span>
+                <span className={`min-w-0 line-clamp-2 text-xs leading-tight font-semibold uppercase ${a.done ? 'line-through' : ''}`}>{a.title}</span>
                 <button className="ml-auto rounded-full p-1 text-mute opacity-0 group-hover:opacity-100 hover:text-danger" onClick={() => remove(a.id)} aria-label="Excluir">
                   <Trash2 className="size-3.5" />
                 </button>

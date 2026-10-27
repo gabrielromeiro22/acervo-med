@@ -1,0 +1,885 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Clínica Integrada II
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 29/09/2025
+
+N1 ESPECÍFICA - MEDICINA - CI II - 2025.2 - 1ª CHAMADA 29/SETEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17286 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+acervo.top / acervotop.com
+
+(IESVAP) O plantão transcorria tranquilamente até que dois pacientes chegaram ao serviço com
+queixas distintas, cada um já portando um sumário de urina previamente realizado. Apesar de ser
+um exame simples e rotineiro, os achados laboratoriais levantaram dúvidas importantes quanto à
+sua interpretação clínica.
+Caso 1: Homem, 25 anos, previamente hígido, refere disúria, polaciúria, dor lombar e febre
+termometrada há 2 dias.
+Sumário de urina do caso 1: aspecto turvo, pH 6,5, densidade 1010, leucocitúria ++, nitrito
+positivo, hemoglobina ++, 2 hemácias/campo, cilindros leucocitários.
+Caso 2: Mulher, 45 anos, hipertensa há 10 anos (com bom controle) em uso de losartana,
+assintomática, comparece ao serviço devido a pico hipertensivo.
+Sumário de urina do caso 2: pH 6,0, densidade 1020, proteinúria ++, hemoglobina 2+, 20
+hemácias/campo, presença de cilindros hemáticos.
+Considerando os casos descritos, analise a alternativa que contempla a interpretação e conduta
+mais adequadas para cada caso.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 1 de 27
+
+Alternativas:
+(alternativa A)
+Caso 1: infecção urinária baixa (cistite) → iniciar antibioticoterapia oral direcionada;
+Caso 2: glomerulopatia (proteinúria + hematúria + cilindros hemáticos) → encaminhar para
+investigação nefrológica.
+
+(alternativa B)
+Caso 1: hematúria de origem glomerular → suspender imediatamente atividade física e repetir
+exame em 1 semana;
+Caso 2: nefrolitíase assintomática → acompanhamento clínico e aumento da ingesta hídrica.
+
+(alternativa C) (CORRETA)
+Caso 1: pielonefrite aguda → solicitar urocultura e iniciar antibioticoterapia endovenosa;
+Caso 2: glomerulopatia (proteinúria + hematúria + cilindros hemáticos) → encaminhar para
+investigação nefrológica.
+
+(alternativa D)
+Caso 1: infecção urinária baixa (cistite) → iniciar antibioticoterapia oral;
+Caso 2: infecção urinária assintomática → apenas observar, sem necessidade de intervenção.
+
+Resposta comentada:
+Justificativas:
+Caso 1: pielonefrite aguda → solicitar urocultura e iniciar antibioticoterapia endovenosa;
+Caso 2: glomerulopatia (proteinúria + hematúria + cilindros hemáticos) → encaminhar para
+investigação nefrológica."
+Correta:
+Caso 1: achados ao EAS típicos de infecção urinária → leucocitúria + nitrito positivo + cilindros
+leucocitários + sintomas urinários + febre + dor lombar → pielonefrite. A melhor conduta neste
+caso: urocultura + antibiótico endovenoso.
+Caso 2: presença de proteinúria, hematúria microscópica e cilindros hemáticos → altamente
+sugestivo de doença glomerular, especialmente devido à presença de cilindros hemáticos, que,
+associados ao achado de hipertensão e proteinúria, sugerem a presença de síndrome nefrítica →
+conduta: investigação nefrológica (inclui exames complementares e, possivelmente, biópsia
+renal).
+Caso 1: infecção urinária baixa (cistite) → iniciar antibioticoterapia oral;
+Caso 2: infecção urinária assintomática → apenas observar, sem necessidade de intervenção."
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 2 de 27
+
+Incorreta:
+Caso 1: "cistite" → ATB oral.
+Incorreto, pois trata-se de pielonefrite, com conduta mais adequada: antibiótico endovenoso.
+Caso 2: “infecção urinária assintomática” → observar.
+Incorreto. O EAS mostra proteinúria + hematúria + cilindros hemáticos, quadro não compatível
+com bacteriúria assintomática. O sedimento glomerular aqui exige investigação (e não
+“observar”).
+Caso 1: infecção urinária baixa (cistite) → iniciar antibioticoterapia oral direcionada;
+Caso 2: glomerulopatia (proteinúria + hematúria + cilindros hemáticos) → encaminhar para
+investigação nefrológica.
+Incorreta:
+Caso 1: "cistite": quadro clínico e EAS não compatíveis com cistite.
+Caso 2: "glomerulopatia": sedimento urinário ativo glomerular (proteinúria + hematúria + cilindros
+hemáticos) exige estratificação nefrológica e possibilidade de biópsia renal.
+Caso 2 está correto, mas, devido ao caso 1 estar incorreto, a alternativa torna-se incorreta.
+
+Caso 1: hematúria de origem glomerular → suspender imediatamente atividade física e repetir
+exame em 1 semana;
+Caso 2: nefrolitíase assintomática → acompanhamento clínico e aumento da ingesta hídrica."
+Incorreta:
+Caso 1: “hematúria glomerular” → repouso e repetir exame.
+Incorreto. Hematúria de origem glomerular costuma vir com proteinúria significativa, dismorfismo
+eritrocitário e/ou cilindros hemáticos — não presentes. Aqui temos nitrito positivo, leucocitúria e
+sintomas presentes na pielonefrite. “Suspender atividade física e repetir EAS” não aborda a
+etiologia infecciosa.
+Caso 2: “nefrolitíase assintomática” → hidratar.
+Incorreto. Cilindros hemáticos apontam para lesão glomerular, não para cálculo. Em nefrolitíase, o
+EAS usualmente mostra hematúria (por trauma urotelial), podendo ter cristais, mas não cilindros
+hemáticos; proteinúria importante também não é típica. A conduta proposta (só hidratar)
+negligencia uma possível glomerulonefrite.
+Referências:
+Gupta K, Hooton TM, Naber KG, Wullt B, Colgan R, Miller LG, et al. International clinical practice
+guidelines for the treatment of acute uncomplicated cystitis and pyelonephritis in women: A 2010
+update by the Infectious Diseases Society of America and the European Society for Microbiology
+and Infectious Diseases. Clin Infect Dis. 2011;52(5):e103–20.
+Kidney Disease: Improving Global Outcomes (KDIGO) Glomerular Diseases Work Group.
+KDIGO Clinical Practice Guideline for the Management of Glomerular Diseases. Kidney Int Suppl.
+2021; 100(4S): S1–276.
+Jameson JL, Fauci AS, Kasper DL, Hauser SL, Longo DL, Loscalzo J. Harrison’s principles of
+internal medicine. 21st ed. New York: McGraw-Hill Education; 2022.
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 3 de 27
+
+Feedback:
+-2ª QUESTÃO
+Enunciado:
+(UNIGRANRIO Duque de Caxias) Uma paciente de 45 anos, sem comorbidades, apresenta dor
+intensa no quadrante superior direito há 24 horas, associada a febre, náuseas e vômitos. Ao
+exame físico, observa-se sinal de Murphy positivo. Exames laboratoriais revelam leucocitose de
+15.000 e bilirrubina e fosfatase alcalina pouco elevadas. A ultrassonografia abdominal mostra uma
+vesícula biliar espessada, com presença de cálculo impactado no infundíbulo e líquido
+pericolecístico, com colédoco medindo 5mm.
+Qual é a conduta mais indicada para o manejo dessa paciente, baseada nas melhores evidências
+científicas?
+Alternativas:
+(alternativa A)
+Drenagem percutânea da vesícula biliar.
+(alternativa B)
+Antibióticos e observação clínica por 48 horas.
+(alternativa C) (CORRETA)
+Colecistectomia laparoscópica precoce.
+(alternativa D)
+Jejum, hidratação e tratamento conservador por sete dias.
+
+Resposta comentada:
+A colecistite aguda com sinais clínicos e ultrassonográficos, como dor no quadrante superior
+direito, sinal de Murphy positivo e espessamento da parede vesicular, é uma indicação clara para
+colecistectomia laparoscópica precoce. As melhores evidências recomendam a intervenção
+cirúrgica precoce (dentro de 72 horas) para reduzir o risco de complicações, como abscessos ou
+perfuração. O tratamento conservador com antibióticos e observação pode ser reservado para
+pacientes de alto risco cirúrgico. A drenagem percutânea é indicada em casos de colecistite
+complicada com abscesso ou em pacientes com contraindicações à cirurgia imediata.
+Referência:
+SCHWARTZ, Seymour I.; SHIRES, Gary T.; SPENCER, Frank C.; et al. Tratado de cirurgia:
+princípios e prática. 9. ed. Rio de Janeiro: Guanabara Koogan, 2010.
+Feedback:
+-3ª QUESTÃO
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 4 de 27
+
+Enunciado:
+(AFYA Itacoatiara) Mulher de 32 anos procura a Unidade Básica de Saúde informando que seu
+marido, com quem mantém relação estável há 8 anos, foi recentemente diagnosticado como
+soropositivo para HIV. Relata que tiveram relação sexual desprotegida (sem preservativo) nas
+últimas 48 horas antes da revelação do diagnóstico. Ela está angustiada e deseja saber o que
+pode ser feito para evitar a infecção.
+Considerando os protocolos clínicos vigentes do Ministério da Saúde, qual a conduta mais
+adequada neste caso?
+Alternativas:
+(alternativa A)
+Prescrever a PrEP de forma contínua, pois ela já esteve exposta ao risco de infecção.
+(alternativa B)
+Não há indicação de intervenção medicamentosa, pois a exposição foi com parceiro fixo e
+estável.
+(alternativa C)
+Aguardar resultado de testagem rápida para HIV antes de iniciar qualquer tratamento, mesmo que
+ultrapasse 72 horas.
+(alternativa D) (CORRETA)
+Iniciar imediatamente a PEP com esquema de três antirretrovirais, preferencialmente em até 72
+horas após a exposição.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 5 de 27
+
+Resposta comentada:
+Iniciar imediatamente a PEP com esquema de três antirretrovirais, preferencialmente em até 72
+horas após a exposição.
+Correta - descreve a conduta recomendada nos Protocolos Clínicos e Diretrizes Terapêuticas
+(PCDT) do Ministério da Saúde: iniciar profilaxia pós-exposição (PEP) o mais rápido possível,
+preferencialmente nas primeiras 2 horas, com limite de até 72 horas após a exposição, por 28
+dias. O esquema inclui três antirretrovirais combinados.
+Aguardar resultado de testagem rápida para HIV antes de iniciar qualquer tratamento, mesmo que
+ultrapasse 72 horas.
+Incorreta: aguardar testagem retarda a administração da PEP e compromete sua eficácia. O
+tratamento deve ser iniciado mesmo com sorologia inicial desconhecida.
+Prescrever a PrEP de forma contínua, pois ela já esteve exposta ao risco de infecção.
+Incorreta: a PrEP (profilaxia pré-exposição) é indicada para exposições futuras de risco, não
+sendo o protocolo inicial após uma exposição confirmada.
+Não há indicação de intervenção medicamentosa, pois a exposição foi com parceiro fixo e
+estável.
+Incorreta: relação com parceiro fixo não exclui risco de transmissão, especialmente com carga
+viral detectável e relação desprotegida recente.
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Profilaxia PósExposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais. Brasília: MS, 2021.
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas para Profilaxia PréExposição (PrEP) de Risco à Infecção pelo HIV. Brasília: MS, 2022.
+Cunha, C. A. Doenças Infecciosas e Parasitárias. 9.ª ed. Rio de Janeiro: Guanabara Koogan,
+2020.
+Feedback:
+-4ª QUESTÃO
+Enunciado:
+(AFYA Paraíba) Paciente do sexo feminino, 72 anos, internada em enfermaria para
+colecistectomia eletiva por laparoscopia. História de hipertensão arterial sistêmica controlada com
+uso de losartana. Exame físico sem alterações significativas e exames laboratoriais dentro da
+normalidade. O procedimento será realizado sob anestesia geral. De acordo com o caso
+apresentado e a classificação ASA (American Society of Anesthesiologists), marque a alternativa
+que apresenta a classificação anestésica mais adequada para esta paciente.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 6 de 27
+
+Alternativas:
+(alternativa A)
+ASA I – Paciente saudável, sem doença sistêmica e limitação funcional.
+(alternativa B) (CORRETA)
+ASA II – Paciente com doença sistêmica leve, bem controlada, sem limitação funcional.
+(alternativa C)
+ASA IV – Paciente com doença sistêmica grave que representa risco constante à vida.
+(alternativa D)
+ASA III – Paciente com doença sistêmica grave, com limitação funcional evidente.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 7 de 27
+
+Resposta comentada:
+Comentário:
+A classificação ASA é utilizada para estratificar o risco anestésico com base nas condições
+clínicas do paciente.
+ASA I: paciente saudável, sem doenças sistêmicas.
+ASA II: doença sistêmica leve ou moderada, bem controlada, sem impacto funcional (ex.:
+hipertensão bem controlada).
+ASA III: doença sistêmica grave com impacto funcional (ex.: DPOC com limitação importante).
+ASA IV: doença sistêmica grave com ameaça constante à vida (ex.: insuficiência cardíaca
+descompensada).
+Neste caso, a paciente idosa apresenta apenas hipertensão controlada, o que a classifica como
+ASA II.
+Referências:
+AMERICAN SOCIETY OF ANESTHESIOLOGISTS. Statement on ASA Physical Status
+Classification System. Schaumburg: ASA, 2020. Disponível em:
+https://www.asahq.org/standards-and-practice-parameters/statement-on-asa-physical-statusclassification-system. Acesso em: 1 set. 2025.
+HORVATH, B.; ANDERSON, T. A.; VETTORAZZI, E.; KOPEL, J. Evolution, current value, and
+future of the American Society of Anesthesiologists physical status classification system.
+Anesthesiology, Philadelphia, v. 135, n. 6, p. 904-919, 2021. DOI:
+https://doi.org/10.1097/ALN.0000000000004007.
+RAO, P. B.; SINGH, A. A practical guide to the American Society of Anesthesiologists physical
+status classification (ASA-PS). Indian Journal of Anaesthesia, Chennai, v. 66, n. 6, p. 541-547,
+2022. DOI: https://doi.org/10.4103/ija.ija_558_22.
+KUPPER, T. et al. Validation of the American Society of Anesthesiologists physical status
+classification system in ambulatory surgery: a cohort study of 2 million patients. BMC Surgery,
+London, v. 21, n. 1, p. 1-9, 2021. DOI: https://doi.org/10.1186/s12893-021-01256-6.
+MILLER, R. D.; KOPEL, J.; HORVATH, B. American Society of Anesthesiologists Physical Status
+Classification System. In: STATPEARLS [Internet]. Treasure Island: StatPearls Publishing, 2025.
+Disponível em: https://www.ncbi.nlm.nih.gov/books/NBK441940/. Acesso em: 1 set. 2025.
+Feedback:
+-5ª QUESTÃO
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 8 de 27
+
+Enunciado:
+(FASA Vic) Paciente feminina, 20 anos, gestante de 10 semanas, procura a UBS para consulta
+pré-natal, preocupada com resultado do teste de avidez de IgG para toxoplasmose < 30%,
+solicitado após resultado IgM positivo para toxoplasmose solicitado na primeira consulta pré-natal.
+Quais afirmativas abaixo estão corretas:
+I - O valor da avidez do IgG nesse caso sugere que a infecção ocorreu antes da gravidez.
+II - A PCR do líquido amniótico nessa TORCH deve ser realizada após 18 semanas de gestação
+para reduzir a taxa de falso-negativo.
+III - O diagnóstico de toxoplasmose congênita pode ser feito por ultrassonografia, que mostra
+calcificações intracerebrais, ventriculomegalia, microcefalia, hepatoesplenomegalia e restrição do
+crescimento acentuado.
+IV - Caso seja confirmada a infecção fetal por meio do PCR do líquido amniótico ou pela
+ultrassonografia, é iniciado o tratamento com a espiramicina.
+
+Alternativas:
+(alternativa A)
+I e III estão corretas.
+(alternativa B)
+II e IV estão corretas.
+(alternativa C) (CORRETA)
+II e III estão corretas.
+(alternativa D)
+II, III e IV estão corretas.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 9 de 27
+
+Resposta comentada:
+Resposta: II e III estão corretas.
+Afirmação I: A alta avidez (> 60%) no 1º trimestre sugere infecção há > 3 a 4 meses; portanto,
+antes da gravidez. Já a baixa avidez (< 30%) indica infecção recente (< 3 meses); o resultado
+intermediário (30 a 60%) é inconclusivo.
+Afirmação II: O diagnóstico da infecção fetal é feito atualmente pela PCR-LA. O teste só deve ser
+oferecido após 18 semanas da gestação e decorridas 4 semanas da infecção materna
+(soroconversão), para reduzir a taxa de resultados falso-negativos.
+Afirmação III: Eventualmente, o diagnóstico pode ser feito por ultrassonografia, que mostra
+calcificações intracerebrais, ventriculomegalia, microcefalia, hepatoesplenomegalia e CIR
+acentuado.
+Afirmação IV: Caso seja confirmada a infecção fetal pela PCR-LA ou pela ultrassonografia, é
+iniciado o tratamento com a pirimetamina/sulfadiazina – pirimetamina, 50 mg/dia; sulfadiazina, 3
+g/dia; e ácido folínico, 15 mg/dia. A espiramicina, mesmo se a PCR-LA for negativa, não será
+interrompida, mas mantida durante toda a gestação.
+Referência:
+MONTENEGRO, Carlos Antonio B.; FILHO, Jorge de R. Rezende, Obstetrícia Fundamental. 14.
+Ed. Grupo GEN, 2017. E-book. ISQN 9788527732802.
+Feedback:
+-6ª QUESTÃO
+Enunciado:
+(FACIMPA) Criança do sexo feminino, 3 anos, é trazida ao pronto-socorro com febre de 24 horas,
+temperatura de 39,0°C, vômitos e recusa alimentar. Refere queixa de dor no flanco direito desde
+a noite anterior. Histórico prévio de três episódios febris similares nos últimos 10 meses, um dos
+quais necessitou de antibioticoterapia parenteral e internação. Em episódios anteriores, as
+uroculturas documentaram crescimento de Escherichia coli. Há oito meses, a ultrassonografia
+renal e vesical apresentava-se sem alterações significativas. No exame físico atual, apresenta
+taquicardia, sinais leves de desidratação e dor à palpação do flanco direito. Coleta de urina por
+cateterismo mostrou piúria e nitrito positivo.
+Considerando o quadro descrito, indique a melhor conduta terapêutica imediata e o manejo
+subsequente mais adequado para esta criança.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 10 de 27
+
+Alternativas:
+(alternativa A)
+Prescrever tratamento sintomático e enviar amostra de urina para exame de urocultura, iniciando
+antibioticoterapia após receber o resultado, se o mesmo for positivo.
+(alternativa B)
+Iniciar antibioticoterapia empírica oral com amoxicilina-clavulanato e alta para manejo
+ambulatorial, com agendamento de ultrassonografia renal em 6 semanas.
+(alternativa C) (CORRETA)
+Internar, enviar amostra de urina para exame de urocultura e iniciar antibioticoterapia empírica
+parenteral até ajuste por antibiograma.
+(alternativa D)
+Indicar antibioticoterapia profilática com nitrofurantoína, mantendo a criança em manejo
+ambulatorial, sem investigação imaginológica no momento.
+
+Resposta comentada:
+A criança apresenta quadro febril, vômitos e sinais de desidratação, com história de recorrência e
+episódio prévio que exigiu terapia parenteral — sinais que justificam internação para hidratação,
+monitorização e antibioticoterapia empírica parenteral enquanto se aguarda o resultado da
+urocultura; a escolha empírica deve considerar cobertura para E. coli e padrões locais de
+sensibilidade (ceftriaxona é uma opção habitual em muitos contextos).
+Referência:
+Tratado de Pediatria. 6. ed. Rio de Janeiro: Manole, 2024.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(IESVAP) Um paciente masculino, 70 anos, encontra-se no segundo dia de pós-operatório de
+hernioplastia inguinal por hérnia estrangulada. Ao exame, paciente com febre (39,2 °C), PA 85×50
+mmHg, FC 120 bpm e frequência respiratória de 28 irpm, oligúria e rebaixamento do nível de
+consciência. O exame físico revela ferida operatória com sinais flogísticos intensos e secreção
+purulenta. Laboratório mostra leucocitose, acidose metabólica e elevação de lactato sérico.
+Com base no último consenso internacional de sepse, qual deve ser a conduta inicial mais
+adequada?
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 11 de 27
+
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar antibioticoterapia empírica após coleta de culturas, desde que a coleta não atrase o início
+da antibioticoterapia; expansão volêmica com cristaloides e vasopressores, se necessário.
+(alternativa B)
+Realizar lavagem da ferida operatória e observar a evolução clínica por 24 horas antes de iniciar
+antibioticoterapia.
+(alternativa C)
+Administrar vasopressores imediatamente para elevar a pressão arterial, sem iniciar
+antibioticoterapia até confirmação laboratorial da infecção.
+(alternativa D)
+Iniciar antibioticoterapia empírica e aguardar resposta clínica antes de realizar expansão volêmica
+com cristaloides.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 12 de 27
+
+Resposta comentada:
+O paciente apresenta choque séptico, definido como sepse com hipotensão persistente após
+reposição volêmica adequada e necessidade de vasopressores para manter PAM ≥ 65 mmHg,
+além de lactato elevado (> 2 mmol/L).
+Segundo o Surviving Sepsis Campaign 2021, as medidas iniciais devem ser realizadas dentro da
+primeira hora após identificação do quadro:
+Coleta de culturas (sangue, secreção cirúrgica, urina, etc.) antes do início dos antibióticos.
+Início imediato de antibioticoterapia empírica de amplo espectro.
+Reposição volêmica com cristaloides (30 mL/kg) nas primeiras 3 horas.
+Uso de vasopressores (preferencialmente noradrenalina) se a pressão arterial não responder à
+reposição volêmica.
+As demais alternativas ignoram o caráter emergencial da sepse e não seguem o protocolo de
+manejo precoce, que é fundamental para reduzir mortalidade:
+"Administrar vasopressores imediatamente para elevar a pressão arterial, sem iniciar
+antibioticoterapia até confirmação laboratorial da infecção." - Incorreto: O atraso na
+antibioticoterapia está associado a aumento da mortalidade em pacientes com sepse e choque
+séptico. Vasopressores não devem ser iniciados isoladamente; primeiro é necessário tentar
+expansão volêmica com cristaloides. A antibioticoterapia empírica deve ser iniciada o mais rápido
+possível, idealmente dentro da primeira hora, mesmo antes da confirmação laboratorial.
+"Realizar lavagem da ferida operatória e observar a evolução clínica por 24 horas antes de iniciar
+antibioticoterapia." - Incorreto: A conduta proposta retarda o tratamento antimicrobiano, o que é
+contraindicado em casos de sepse grave. O paciente apresenta sinais claros de infecção grave e
+disfunção orgânica (hipotensão, febre, oligúria, rebaixamento de consciência), exigindo
+intervenção imediata. A lavagem da ferida pode ser necessária, mas não substitui o início precoce
+da antibioticoterapia.
+"Iniciar antibioticoterapia empírica e aguardar resposta clínica antes de realizar expansão
+volêmica com cristaloides." - Incorreto: A expansão volêmica é parte fundamental e imediata do
+tratamento do choque séptico. A hipotensão (PA 85×50 mmHg) e taquicardia indicam
+necessidade urgente de reposição volêmica para restaurar perfusão tecidual. Aguardar resposta
+clínica sem suporte hemodinâmico pode levar à falência de múltiplos órgãos.
+Referência:
+RHODES, A. et al. Surviving Sepsis Campaign: International Guidelines for Management of
+Sepsis and Septic Shock 2021. Intensive Care Medicine, v. 47, p. 1181–1247, 2021.
+Feedback:
+-8ª QUESTÃO
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 13 de 27
+
+Enunciado:
+(FASA Vic) Homem, 62 anos, ex-tabagista e etilista crônico, é atendido no ambulatório de
+Medicina da AFYA por disfagia progressiva há 4 meses, inicialmente para sólidos e atualmente
+também para líquidos, acompanhada de perda ponderal de 12 kg no período. Endoscopia
+digestiva alta evidenciou lesão ulceroinfiltrativa em terço médio do esôfago, biópsia compatível
+com carcinoma espinocelular. A tomografia de tórax e abdome revelou invasão da adventícia e
+linfonodos regionais aumentados, sem metástases à distância.
+Qual a conduta terapêutica mais adequada para este paciente, considerando o estadiamento
+clínico?
+Alternativas:
+(alternativa A) (CORRETA)
+Quimioterapia e radioterapia neoadjuvantes seguidas de esofagectomia.
+(alternativa B)
+Radioterapia exclusiva como tratamento definitivo em todos os casos.
+(alternativa C)
+Esofagectomia exclusiva, sem tratamento adicional.
+(alternativa D)
+Quimioterapia paliativa isolada, sem indicação cirúrgica.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 14 de 27
+
+Resposta comentada:
+Quimioterapia e radioterapia neoadjuvantes seguidas de esofagectomia (correta):
+O paciente apresenta câncer de esôfago localmente avançado (T3–T4a N+ M0). Nestes casos, a
+estratégia mais indicada é tratamento multimodal, com quimiorradioterapia neoadjuvante para
+reduzir o volume tumoral e controlar linfonodos, seguida de esofagectomia em pacientes com
+boas condições clínicas. Essa abordagem aumenta a sobrevida global e é recomendada pelos
+principais guidelines e tratados. Fonte: Goldman-Cecil, 2022; Harrison, 2024; Rohde & Osvaldt,
+2018.
+Esofagectomia exclusiva, sem tratamento adicional (incorreta):
+A cirurgia isolada só é recomendada em tumores iniciais e ressecáveis sem comprometimento
+linfonodal (T1–T2 N0). No caso descrito, há invasão adventícia e linfonodos comprometidos, o
+que inviabiliza cirurgia exclusiva, pois aumenta risco de recidiva loco-regional e reduz sobrevida.
+Fonte: Rohde & Osvaldt, 2018.
+Quimioterapia paliativa isolada, sem indicação cirúrgica (incorreta):
+A quimioterapia isolada está indicada em pacientes com doença metastática (M1) ou em casos
+não ressecáveis. Como o paciente não apresenta metástase, a doença ainda é potencialmente
+ressecável com benefício de sobrevida, portanto o tratamento paliativo isolado não é a conduta
+adequada. Fonte: Harrison, 2024.
+Radioterapia exclusiva como tratamento definitivo em todos os casos (incorreta):
+A radioterapia isolada pode ser utilizada em pacientes sem condições clínicas para cirurgia ou em
+cenários paliativos de controle local. Porém, não é o tratamento padrão em casos potencialmente
+ressecáveis como este. O tratamento multimodal (quimiorradioterapia + cirurgia) é superior em
+sobrevida. Fonte: Goldman-Cecil, 2022.
+Referências:
+Goldman, Lee; Schafer, Andrew I. Goldman-Cecil Medicina. 26.ª ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2022.
+Loscalzo, Joseph; Fauci, Anthony S.; Kasper, Dennis L.; et al. Medicina Interna de Harrison. 21.ª
+ed. Porto Alegre: AMGH, 2024.
+Gusso, Gustavo; Lopes, José M. C.; Dias, Lêda C. Tratado de Medicina de Família e
+Comunidade. 2.ª ed. Porto Alegre: ArtMed, 2019.
+Rohde, Luiz; Osvaldt, Alessandro B. Rotinas em Cirurgia Digestiva. 3.ª ed. Porto Alegre: ArtMed,
+2018.
+Feedback:
+-9ª QUESTÃO
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 15 de 27
+
+Enunciado:
+(AFYA Palmas) Paciente masculino, 74 anos, comparece à UPA com febre (39,2 °C), calafrios,
+dor lombar direita intensa e náuseas há 3 dias. Relata disúria e polaciúria prévias. Ao exame: PA
+95x60 mmHg, FC 120 bpm, FR 26 irpm, SpO₂ 93%. Palpação dolorosa em flanco direito.
+Exames laboratoriais:
+Leucócitos: 21.000/mm³ com desvio à esquerda.
+Creatinina: 2,3 mg/dL (prévia 1,4).
+Sumário de urina: leucocitúria (+++), nitrito positivo, hematúria microscópica.
+Urocultura: pendente.
+Exame de imagem (USG de urgência): dilatação pielocalicial direita com cálculo de 1,2 cm em
+ureter proximal.
+Considerando os dados clínicos, laboratoriais e de imagem, qual deve ser a conduta inicial mais
+adequada neste paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Iniciar antibioticoterapia venosa de amplo espectro, hidratação, analgesia e solicitar drenagem
+urinária de urgência.
+(alternativa B)
+Prescrever anti-inflamatório e analgésico endovenosos sintomáticos e indicar hidratação venosa
+para promover a expulsão do cálculo.
+(alternativa C)
+Encaminhar para avaliação de intervenção por litotripsia eletiva, mantendo ambulatorialmente a
+prescrição de antibioticoterapia oral.
+(alternativa D)
+Indicar antibioticoterapia empírica venosa, hidratação vigorosa e analgesia, mantendo observação
+clínica ambulatorial.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 16 de 27
+
+Resposta comentada:
+Correta:
+O paciente apresenta pielonefrite aguda obstrutiva (cálculo + dilatação pielocalicial + sepse
+urinária). A conduta correta é internação hospitalar, antibioticoterapia empírica venosa de amplo
+espectro (ex.: cefalosporinas de 3ª geração, piperacilina-tazobactam ou carbapenêmicos
+conforme risco/resistência), além de drenagem urinária de urgência (cateter duplo J ou
+nefrostomia percutânea) para aliviar a obstrução.
+Explicação das incorretas:
+Embora a antibioticoterapia venosa seja indicada, este paciente apresenta sinais de pielonefrite
+obstrutiva complicada com instabilidade hemodinâmica. Não deve permanecer em observação
+ambulatorial; o risco de sepse urinária é elevado.
+A litotripsia pode ser considerada em momento posterior, mas jamais é conduta inicial em quadro
+séptico. A prioridade é desobstrução e antibioticoterapia.
+Sintomáticos isolados não tratam a infecção. A febre e a leucocitose não são secundárias apenas
+à obstrução, mas sim a uma infecção bacteriana ativa, que precisa de tratamento imediato.
+Referências:
+GOLDMAN, Lee; SCHAFER, Andrew I. Goldman-Cecil Medicina. 26. ed. Rio de Janeiro: GEN
+Guanabara Koogan, 2022. E-book. p. Capa. ISBN 9788595159297. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159297/. Acesso em: 17 maio
+2025.
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024. E-book. p. ii. ISBN 9786558040231. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558040231/. Acesso em: 17 maio
+2025.
+TOY, Eugene C.; JR., John T. P. Casos clínicos em medicina interna. 4. ed. Porto Alegre: ArtMed,
+2013. E-book. p. 1. ISBN 9788580552799. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580552799/. Acesso em: 17 maio
+2025.
+
+Feedback:
+-10ª QUESTÃO
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 17 de 27
+
+Enunciado:
+(FESAR) Paciente do sexo masculino, 62 anos, está internado na enfermaria após laparotomia
+por perfuração intestinal, em uso de antibioticoterapia e em recuperação pós-operatória.
+Apresenta os seguintes achados:
+Glicemia capilar: 220–250 mg/dL (em jejum e pós-prandial);
+Albumina sérica: 2,8 g/dL (VR: 3,5–5,0 g/dL);
+Cortisol plasmático: elevado;
+Hemograma: leucocitose com desvio à esquerda;
+Estado geral: emagrecido, catabólico, com risco nutricional elevado.
+Interprete os dados apresentados e analise a abordagem terapêutica mais adequada para a
+modulação da resposta endócrina desse paciente.
+Alternativas:
+(alternativa A)
+Manter a antibioticoterapia e não intervir na hiperglicemia nem na hipoalbuminemia, por serem
+respostas fisiológicas esperadas nesta situação.
+(alternativa B)
+Intensificar o uso de glicocorticoides e suspender a insulinoterapia para controlar a inflamação e
+evitar hipoglicemia.
+(alternativa C) (CORRETA)
+Iniciar insulinoterapia para manter glicemia <180 mg/dL, associando suporte nutricional precoce
+com adequação proteico-calórica e evitar uso indiscriminado de glicocorticoides.
+(alternativa D)
+Adiar o suporte nutricional até a normalização do hemograma, mantendo glicemia permissiva em
+níveis elevados.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 18 de 27
+
+Resposta comentada:
+Gabarito: O paciente apresenta hiperglicemia de estresse, hipoalbuminemia e sinais de
+catabolismo, exigindo intervenção ativa. A literatura recomenda controle glicêmico rigoroso, mas
+seguro, com insulina, visando glicemias <180 mg/dL no paciente crítico ou pós-operatório
+(evitando tanto hiperglicemia sustentada quanto hipoglicemia). O suporte nutricional precoce,
+preferencialmente via enteral, com adequação de proteína e calorias, é fundamental para reduzir
+complicações e modular a resposta endócrino-metabólica. O uso de glicocorticoides deve ser
+reservado a situações específicas (choque séptico refratário, insuficiência adrenal), pois seu uso
+indiscriminado pode agravar hiperglicemia, risco infeccioso e catabolismo.
+Referências:
+SABISTON, D. C. Tratado de Cirurgia: A Base Biológica da Prática Cirúrgica Moderna. 21.ª ed.
+Rio de Janeiro: Elsevier, 2022.
+FONSECA, Luiz A. M.; LORENZI, Gilberto. Endocrinologia Clínica. 6.ª ed. Rio de Janeiro:
+Guanabara Koogan, 2020.
+Feedback:
+-11ª QUESTÃO
+Enunciado:
+(UNITPAC) João, 15 anos, procura o pronto-socorro acompanhado pela mãe, relatando
+convulsões recorrentes há meses. Apesar de múltiplas internações e exames sem alterações,
+insiste na realização de novos procedimentos. A equipe observa que as crises ocorrem apenas
+na presença de profissionais de saúde e não apresentam achados compatíveis com epilepsia.
+Não há evidências de ganhos externos. Sobre as características clínicas do transtorno factício,
+analise as afirmações a seguir:
+I) O transtorno factício envolve a produção intencional de sinais ou sintomas físicos ou
+psicológicos, motivado principalmente pelo desejo de assumir o papel de doente.
+II) Diferentemente da simulação, no transtorno factício existe ganho externo evidente, como
+benefícios financeiros ou afastamento do trabalho.
+III) Pacientes com transtorno factício podem se submeter a procedimentos médicos
+desnecessários, apresentando amplo histórico de hospitalizações e exames invasivos.
+IV) No transtorno factício, o paciente reconhece e admite facilmente que seus sintomas são
+produzidos de forma intencional, buscando auxílio para cessar tal comportamento.
+Julga-se correto que, apenas as alternativas.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 19 de 27
+
+Alternativas:
+(alternativa A)
+II, III e IV são verdadeiras.
+(alternativa B)
+I, II e IV são verdadeiras.
+(alternativa C)
+I, II e III são verdadeiras.
+(alternativa D) (CORRETA)
+I e III são verdadeiras.
+
+Resposta comentada:
+O transtorno factício envolve a produção intencional de sinais ou sintomas físicos ou psicológicos,
+motivado principalmente pelo desejo de assumir o papel de doente. (Verdadeira): O transtorno
+factício é caracterizado pela produção intencional de sintomas (físicos ou psicológicos), sem
+ganhos externos claros, mas sim pelo desejo de ser percebido como doente.
+Diferentemente da simulação, no transtorno factício existe ganho externo evidente, como
+benefícios financeiros ou afastamento do trabalho. (Falsa): Quando há ganho externo evidente
+(financeiro, jurídico, afastamento de responsabilidades), o diagnóstico correto é simulação
+(malingering), não transtorno factício.
+Pacientes com transtorno factício podem se submeter a procedimentos médicos desnecessários,
+apresentando amplo histórico de hospitalizações e exames invasivos. (Verdadeira): Muitos
+pacientes submetem-se repetidamente a internações, exames e até cirurgias desnecessárias,
+chegando a falsificar resultados laboratoriais para manter o papel de doente.
+No transtorno factício, o paciente reconhece e admite facilmente que seus sintomas são
+produzidos de forma intencional, buscando auxílio para cessar tal comportamento. (Falsa):
+Geralmente, o paciente nega a fabricação dos sintomas e não admite o comportamento. A
+ausência de crítica é uma característica marcante da condição.
+Referências:
+American Psychiatric Association. DSM-5 – Manual Diagnóstico e Estatístico de Transtornos
+Mentais. 5.ª ed. Porto Alegre: Artmed; 2014.
+Sadock BJ, Sadock VA, Ruiz P. Compêndio de Psiquiatria: Ciência do Comportamento e
+Psiquiatria Clínica. 11.ª ed. Porto Alegre: Artmed; 2017.
+Feedback:
+-12ª QUESTÃO
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 20 de 27
+
+Enunciado:
+(AFYA Paraíba) Paciente de 65 anos foi submetida a laparotomia de urgência para apendicite com
+peritonite difusa. No 8º dia pós-operatório, apresenta abertura total da ferida operatória com
+evisceração de alças intestinais, associada a exsudato purulento. Encontra-se febril (38,5 °C),
+taquicárdica, com PA 90×60 mmHg, pele fria e úmida, taquipneica e com dor abdominal intensa.
+Com base nesse quadro, marque a alternativa que apresenta a conduta resolutiva para essa
+complicação pós-operatória grave.
+Alternativas:
+(alternativa A)
+Trocar o esquema antibiótico, realizar acesso venoso profundo, fazer curativo compressivo e
+acompanhar o caso.
+(alternativa B)
+Solicitar exame de imagem abdominal e iniciar dieta leve por via parenteral imediatamente após a
+avaliação laboratorial.
+(alternativa C)
+Manter analgesia e anti-inflamatório, aguardando estabilização clínica antes de qualquer
+procedimento cirúrgico.
+(alternativa D) (CORRETA)
+Realizar cobertura úmida estéril das vísceras, reposição venosa vigorosa e encaminhar à
+reoperação imediata.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 21 de 27
+
+Resposta comentada:
+"Trocar o esquema antibiótico, realizar acesso venoso profundo, fazer curativo compressivo e
+acompanhar o caso." alternativa - incorreta.
+Trocar antibiótico e realizar curativo é insuficiente. A paciente apresenta emergência cirúrgica
+com instabilidade hemodinâmica e risco de morte por sepse. Essa conduta atrasaria a
+intervenção necessária e aumentaria a mortalidade.
+"Realizar cobertura úmida estéril das vísceras, reposição venosa vigorosa e encaminhar à
+reoperação imediata." Alternativa – Correta.
+A deiscência total com evisceração deve ser considerada emergência absoluta. A conduta
+imediata inclui: cobertura estéril úmida das vísceras com solução fisiológica, reposição volêmica
+venosa vigorosa para estabilizar o quadro, encaminhamento para reoperação imediata com
+debridamento, limpeza e ressutura.
+"Manter analgesia e anti-inflamatório, aguardando estabilização clínica antes de qualquer
+procedimento cirúrgico." Alternativa – Incorreta.
+Manter apenas analgesia e anti-inflamatório enquanto aguarda melhora clínica é conduta passiva
+e inadequada. A complicação não se resolve espontaneamente e o atraso da reoperação expõe a
+paciente a choque séptico e risco de óbito.
+"Solicitar exame de imagem abdominal e iniciar dieta leve por via parenteral imediatamente após a
+avaliação laboratorial." Alternativa – Incorreta.
+Solicitar exame de imagem e iniciar dieta parenteral são medidas incompatíveis com a gravidade
+da situação. Exames complementares não são necessários para diagnóstico de evisceração, que
+é clínico e evidente.
+Referência:
+ROCHA, A.; et al. Tratado de Medicina de Urgência e Emergência: Bases da Gestão de
+Complicações Pós-operatórias. São Paulo: Editora Médica Nacional, 2024.
+Feedback:
+-13ª QUESTÃO
+Enunciado:
+(AFYA Ipatinga) Homem de 72 anos, em investigação de disfagia progressiva, comparece à
+consulta de médico especialista, trazendo exames, resumidos abaixo.
+Endoscopia Digestiva Alta: aos 36 cm da arcada dentária, identifica-se lesão vegetante de
+aproximadamente 3cm, de aspecto neoplásico, semi-obstrutiva. Realizadas biópsias.
+Tomografia de abdômen completo e tórax: evidencia-se espessamento parietal concêntrico do
+esôfago torácico inferior, medindo aproximadamente 3cm em extensão, com redução parcial da
+luz esofágica. Observam-se ainda múltiplos nódulos pulmonares com densidade de partes moles
+bilaterais, o maior com cerca de 1,5cm, além de linfonodomegalias mediastinais (até 2,0cm) e em
+cadeias linfonodais gástricas altas (até 1,8cm).
+Qual alternativa cita a hipótese diagnóstica mais provável e a conduta adequada?
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 22 de 27
+
+Alternativas:
+(alternativa A)
+Carcinoma espinocelular de esôfago distal. Conversar sobre esofagectomia com linfadenectomia
+e reconstrução com tubo gástrico.
+(alternativa B) (CORRETA)
+Adenocarcinoma de esôfago distal. Avaliar estado nutricional, garantir via alimentar e iniciar
+conversa sobre tratamento paliativo.
+(alternativa C)
+Adenocarcinoma de esôfago médio. Iniciar tratamento com quimioterapia e, após, ressecção
+endoscópica da lesão residual.
+(alternativa D)
+Carcinoma epidermóide de esôfago médio. Instituir tratamentos paliativos e encaminhar para
+cuidados domiciliares.
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 23 de 27
+
+Resposta comentada:
+Análise das alternativas:
+Adenocarcinoma de esôfago distal. Avaliar estado nutricional, garantir via alimentar e iniciar
+conversa sobre tratamento paliativo.
+Correta.
+Localização distal → adenocarcinoma é mais comum.
+Presença de metástases pulmonares e linfonodais → doença avançada, irressecável → conduta
+paliativa.
+Nutrição e discussão de via alimentar = muito pertinente.
+Carcinoma espinocelular de esôfago distal. Conversar sobre esofagectomia com linfadenectomia
+e reconstrução com tubo gástrico.
+Errada.
+Localização distal sugere adenocarcinoma, não espinocelular (mais comum em terço médio).
+Além disso, paciente já tem metástases → cirurgia curativa não indicada.
+Carcinoma epidermoide de esôfago médio. Instituir tratamentos paliativos e encaminhar para
+cuidados domiciliares.
+Errada.
+Localização incorreta (é distal).
+Conduta simplificada demais: não é apenas “cuidados domiciliares”, envolve equipe
+multiprofissional, possível quimio/radiopaliativa, nutrição, via alimentar.
+Adenocarcinoma de esôfago médio. Iniciar tratamento com quimioterapia e após, ressecção
+endoscópica da lesão residual.
+Errada.
+Localização incorreta (médio).
+Lesão de 3 cm + metástases → não é tratada com ressecção endoscópica.
+Referências:
+NATIONAL COMPREHENSIVE CANCER NETWORK (NCCN). Esophageal and
+Esophagogastric Junction Cancers (versão 2.2025). NCCN Clinical Practice Guidelines in
+Oncology, 2025. Disponível em:
+https://www.nccn.org/professionals/physician_gls/pdf/esophageal.pdf. Acesso em: 29 ago. 2025.
+TOWNSEND, Courtney M. et al. Sabiston: Tratado de cirurgia – a base biológica da prática
+cirúrgica moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+Feedback:
+-14ª QUESTÃO
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 24 de 27
+
+Enunciado:
+(AFYA Bragança) Você está atuando em uma Unidade Básica de Saúde (UBS) e atende dois
+pacientes distintos com queixa principal de cansaço e palidez. Foram solicitados exames
+laboratoriais (hemograma, ferritina, transferrina, contagem de reticulócitos e ferro sérico).
+Caso 1 – Paciente adulto (45 anos, agricultor):
+Refere fadiga progressiva, dispneia aos esforços e palidez cutânea.
+Hemograma: Hb = 9,2 g/dL; VCM = 72 fL; HCM = 24 pg.
+Ferritina: 8 ng/mL (baixo)
+Transferrina: elevada.
+Ferro sérico: baixo.
+Reticulócitos: reduzidos.
+Caso 2 – Paciente idoso (72 anos, com histórico de artrite reumatoide):
+Refere fadiga crônica e palidez discreta.
+Hemograma: Hb = 10,5 g/dL; VCM = 88 fL; HCM = 30 pg.
+Ferritina: 350 ng/mL (normal/alta)
+Transferrina: baixa.
+Ferro sérico: baixo.
+Reticulócitos: normais/baixos.
+A) A partir dos casos apresentados, estabeleça o diagnóstico mais provável em cada situação,
+discutindo os achados laboratoriais com ênfase na síntese e função da ferritina, transferrina, ferro
+sérico e reticulócitos. (1,5 pontos)
+B) Proponha o tratamento adequado para cada paciente, considerando também os principais
+diagnósticos diferenciais das anemias no adulto e no idoso. (1,0 ponto)
+Alternativas:
+--
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 25 de 27
+
+Resposta comentada:
+A) (Por cada diagnóstico: 0,75 pontos)
+Caso 1: Anemia ferropriva → caracterizada por anemia microcítica/hipocrômica, ferritina baixa
+(estoque diminuído), ferro sérico baixo e transferrina aumentada (tentativa de captação).
+Reticulócitos baixos indicam baixa produção medular.
+Caso 2: Anemia da doença crônica (inflamatória) → normocítica/normocrômica, ferritina
+normal/alta (resposta de fase aguda, estoque preservado), transferrina baixa (produção reduzida
+pelo fígado), ferro sérico baixo e reticulócitos normais ou baixos (produção medular limitada pela
+inflamação).
+B) (Por cada opção de tratamento: 0,5 pontos)
+Caso 1: Reposição de ferro (oral/parenteral conforme tolerância), investigação da causa da perda
+(sangramento gastrointestinal, parasitoses, menorragia etc.). Diferenciais: talassemias,
+intoxicação por chumbo.
+Caso 2: Tratar a doença de base (artrite reumatoide), medidas de suporte (eritropoetina em casos
+selecionados), evitar ferro desnecessário. Diferenciais: anemia megaloblástica (avaliar vitamina
+B12/ácido fólico), anemia aplásica, síndromes mielodisplásicas.
+Referência:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024. E-book. p. ii. ISBN 9786558040231.
+Feedback:
+-15ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Uma criança do sexo feminino, 7 anos, foi admitida em hospital pediátrico com
+história de edema periorbitário matinal há 5 dias, associado a urina escura semelhante a “cocacola”, hipertensão arterial leve e ganho ponderal de 2 kg no período. Ao exame físico, apresenta
+pressão arterial de 120/80 mmHg (p95 para idade), presença de edema em membros inferiores e
+ausculta cardíaca e pulmonar sem alterações. Exames laboratoriais mostram creatinina sérica
+normal, proteinúria de 2,5 g/24h, hematúria microscópica e hipoalbuminemia discreta.
+Ultrassonografia renal revela rins de tamanho preservado e ecotextura mantida.
+Considerando o caso descrito:
+a) Diferencie síndrome nefrítica de síndrome nefrótica, destacando os principais sinais clínicos e
+laboratoriais de cada uma. (1,25 pontos)
+b) Com base no caso apresentado, qual síndrome glomerular é mais provável? Justifique sua
+resposta relacionando achados clínicos e laboratoriais. (1,25 pontos)
+Alternativas:
+--
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 26 de 27
+
+Resposta comentada:
+a) A síndrome nefrítica caracteriza-se por hematúria (geralmente macroscópica ou microscópica
+com cilindros hemáticos), proteinúria geralmente menor que 3,5 g/24h, hipertensão arterial,
+oligúria e graus variáveis de edema. Já a síndrome nefrótica tem como características principais
+proteinúria maciça (≥ 3,5 g/24h), hipoalbuminemia (< 2,5 g/dL), edema generalizado (anasarca) e
+hiperlipidemia. (1,25 pontos)
+b) No caso clínico, a síndrome mais provável é a síndrome nefrítica, pois a criança apresenta
+hematúria macroscópica (urina “coca-cola”), hipertensão arterial, edema periorbitário e proteinúria
+inferior a 3,5 g/24h. Apesar de haver hipoalbuminemia discreta, o conjunto clínico-laboratorial é
+mais compatível com síndrome nefrítica, possivelmente associada a uma glomerulonefrite pósinfecciosa. (1,25 pontos)
+Referência:
+SCHWARTZ, G. J.; WONG, C. S. Clinical Pediatric Nephrology. 3. ed. Boca Raton: CRC Press,
+2021. p. 142-160.
+Feedback:
+--
+
+000172.860018.0056f1.4477b4.8d899f.305e0d.c7a8ba.00300
+
+Pgina 27 de 27
+
+

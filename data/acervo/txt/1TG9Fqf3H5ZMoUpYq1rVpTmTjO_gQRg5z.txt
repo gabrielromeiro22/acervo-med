@@ -1,0 +1,887 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Sistemas Orgânicos Integrados IV
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_4 PERIODO_07ABRIL_2025.1_SOI
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15481 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+www.acervo.top/soi-iv ou acervotop.com/soi-iv
+
+(AFYA SANTA INÊS) Um paciente, de 32 anos, sem comorbidades, apresenta febre, disúria,
+polaciúria e dor lombar unilateral há 48 horas. No exame físico, nota-se dor à palpação no ângulo
+costovertebral direito. O exame de urina tipo 1 revela piúria, bacteriúria e presença de nitrito
+positivo.
+Considerando o quadro clínico e laboratorial, responda às perguntas a seguir.
+a) Caracterize o quadro clínico do paciente e cite o provável agente etiológico.
+b) Explique os mecanismos fisiopatológicos subjacentes à infecção do trato urinário.
+c) Baseado na etiologia e nas manifestações clínicas, descreva o tratamento farmacológico
+adequado para este paciente, justificando a escolha dos medicamentos.
+Alternativas:
+--
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 1 de 24
+
+Resposta comentada:
+Chaves de resposta.
+a) Com base no quadro clínico descrito, o paciente apresenta sintomas clássicos de pielonefrite
+aguda, uma infecção do trato urinário superior. Os sinais incluem febre, disúria (dor ao urinar),
+polaciúria (aumento da frequência urinária), dor lombar unilateral e dor à palpação no ângulo
+costovertebral. Os achados laboratoriais, como piúria (presença de pus na urina), bacteriúria
+(bactérias na urina) e nitrito positivo, reforçam o diagnóstico.
+O provável agente etiológico é a Escherichia coli (E. coli), que é a bactéria mais frequentemente
+associada a infecções do trato urinário, incluindo pielonefrite. Outras bactérias, como Klebsiella
+pneumoniae e Proteus mirabilis, também podem ser responsáveis, mas são menos comuns.
+b) Os mecanismos fisiopatológicos incluem a invasão bacteriana com inflamação local que causa
+edema e obstrução parcial do fluxo urinário, o que pode levar a dor abdominal ou lombar.
+c) O tratamento envolve o uso de antibióticos que cobrem a E. coli e outros patógenos urinários.
+Para pielonefrite não complicada, uma fluoroquinolona como ciprofloxacino (por 7-14 dias) é
+frequentemente indicada, devido à sua penetração no tecido renal. Em casos de alergia,
+cefalosporinas de terceira geração são uma alternativa. O tratamento precoce é essencial para
+prevenir complicações como sepse ou abscessos renais.
+Referências:
+Loscalzo, Joseph, et al. Medicina Interna de Harrison. Disponível em: Minha Biblioteca, 21ª
+edição. Grupo A, 2024.
+Goldman, Lee, e Andrew I. Schafer. Goldman-Cecil Medicina. Disponível em: Minha Biblioteca,
+26ª edição. Grupo GEN, 2022.
+2ª QUESTÃO
+Enunciado:
+(UNISL PORTO VELHO) Uma paciente, de 45 anos, procura a Unidade Básica de Saúde com
+queixas de dor epigástrica em queimação, sensação de plenitude pós-prandial e episódios
+frequentes de náuseas nos últimos três meses. Relata piora dos sintomas em jejum prolongado e
+melhora parcial após a ingestão de alimentos. O exame clínico não revela anormalidades, e o
+médico suspeita de gastrite associada à infecção por Helicobacter pylori. O paciente é submetido
+a um teste respiratório da ureia, que apresenta resultado positivo.
+Com relação aos efeitos da infecção por H. pylori na regulação da secreção ácida gástrica e suas
+implicações clínicas, assinale a alternativa correta.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 2 de 24
+
+Alternativas:
+(alternativa A)
+A inflamação causada pela H. pylori reduz a secreção ácida, tornando o ambiente menos
+agressivo e diminuindo o risco de desenvolvimento de úlceras gastroduodenais.
+(alternativa B)
+A infecção por H. pylori, independentemente do local afetado, estimula a secreção ácida, levando
+ao aumento da acidez e ao desenvolvimento de úlceras gástricas.
+(alternativa C)
+A produção de urease pela H. pylori neutraliza a acidez no estômago, promovendo um pH
+persistentemente alcalino e prevenindo lesões gástricas.
+(alternativa D) (CORRETA)
+O efeito da H. pylori na secreção ácida depende da colonização: no antro há aumento da
+produção de ácido, no corpo gástrico pode ocorrer redução da secreção ácida.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 3 de 24
+
+Resposta comentada:
+Alternativa correta: O efeito do H. pylori na secreção ácida depende da colonização: no antro há
+aumento da produção de ácido, no corpo gástrico pode ocorrer redução da secreção ácida.
+- A infecção por H. pylori pode ter efeitos distintos sobre a secreção ácida dependendo do local de
+colonização. No antro gástrico, a inibição da somatostatina aumenta a secreção de gastrina,
+promovendo maior produção de ácido. Já no corpo gástrico, a inflamação crônica pode levar à
+atrofia da mucosa e redução da secreção ácida. Essa alternativa contempla os dois cenários
+possíveis, sendo a mais completa.
+Alternativas incorretas:
+- A resposta inflamatória pode reduzir a produção ácida em alguns casos, mas na infecção
+predominantemente antral, ocorre um aumento da secreção de gastrina devido à inibição da
+somatostatina. Isso resulta em maior produção de ácido e aumenta o risco de úlceras
+gastroduodenais.
+- A urease do H. pylori gera amônia e bicarbonato, neutralizando a acidez apenas no
+microambiente ao redor da bactéria. No entanto, isso não torna o pH estomacal persistentemente
+alcalino, pois a regulação da secreção ácida ainda ocorre.
+- O efeito da infecção por H. pylori sobre a secreção ácida não é uniforme. Quando a colonização
+ocorre predominantemente no antro gástrico, há aumento da secreção ácida, favorecendo a
+formação de úlceras. Porém, se a infecção comprometer o corpo gástrico, pode ocorrer atrofia da
+mucosa e hipocloridria. Como a alternativa afirma que há sempre aumento da secreção ácida, ela
+se torna incorreta.
+Referências:
+KUMAR, Vinay. Robbins Patologia Básica. 10. ed. Rio de Janeiro: GEN Guanabara Koogan,
+2018. E-book. p. 391. ISBN 9788595151895. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595151895/. Acesso em: 28 fev. 2025.
+NORRIS, Tommie L. Porth - Fisiopatologia. 10. ed. Rio de Janeiro: Guanabara Koogan, 2021. Ebook. p. 1072. ISBN 9788527737876. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737876/. Acesso em: 28 fev. 2025.
+3ª QUESTÃO
+Enunciado:
+(AFYA MANACAPURU) João S. reside em uma área rural próxima a um rio e trabalha
+frequentemente em plantações irrigadas. Ele procura atendimento médico queixando-se de fadiga
+progressiva, dor abdominal difusa e episódios intermitentes de diarreia com muco e sangue.
+Relata que há meses apresenta inchaço abdominal e que, recentemente, começou a notar urina
+escurecida.
+No exame físico, observa-se hepatomegalia moderada e leve edema em membros inferiores. Os
+exames laboratoriais revelam anemia discreta, eosinofilia e alterações hepáticas, com aumento
+de enzimas do fígado e sinais de hipertensão portal em exames de imagem.
+Com base no caso apresentado, responda às questões a seguir:
+a) Explique como ocorre o dano às mucosas intestinais e hepáticas na infecção pelo helminto
+identificado no caso.
+b) Descreva o tratamento indicado e explique seu mecanismo de ação sobre o parasita.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 4 de 24
+
+Alternativas:
+-Resposta comentada:
+A) 1. Reação inflamatória local - Os ovos do Schistosoma mansoni são depositados nas vênulas
+do intestino grosso e fígado. Muitos desses ovos não conseguem ser eliminados pelas fezes e
+acabam ficando retidos nos tecidos, desencadeando uma resposta inflamatória intensa.
+2. Formação de granulomas - O sistema imunológico reage à presença dos ovos formando
+granulomas compostos por macrófagos, linfócitos, eosinófilos e células gigantes. Esse processo
+visa conter os antígenos liberados pelos ovos, mas pode causar lesões na mucosa intestinal.
+3. Ulcerações e hemorragias - A inflamação crônica pode levar à formação de úlceras intestinais,
+que podem causar diarreia com muco e sangue. Essas lesões também podem contribuir para a
+anemia em casos avançados.
+4. Espessamento e fibrose da parede intestinal - Com o tempo, a reação granulomatosa crônica
+pode levar ao espessamento e fibrose da parede intestinal, resultando em alterações na
+motilidade intestinal e predisposição a complicações, como estenoses e pseudopólipos.
+5. Aumento da permeabilidade intestinal - A agressão constante à mucosa pode levar a um
+aumento na permeabilidade intestinal, favorecendo a translocação bacteriana e contribuindo para
+processos inflamatórios sistêmicos.
+
+B) Schistosoma mansoni: O fármaco de escolha é o praziquantel, que aumenta a permeabilidade
+da membrana do parasito ao cálcio, resultando em paralisia muscular e morte do helminto. A
+terapia visa reduzir a carga parasitária e minimizar as complicações, como fibrose hepática e
+hipertensão portal.
+Referências:
+LOSCALZO, José; FAUCI, Anthony S.; KASPER, Dennis L.; e outros. Medicina Interna de
+Harrison. Grupo A, 2024. E-book. ISBN 9786558040231. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231/. Acesso em: 18 mar. 2025.
+REY, Luís. Parasitologia, 4ª edição. Grupo GEN, 2008. E-book. ISBN 978-85-277-2027-4.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2027-4/. Acesso em:
+18 mar. 2025.
+JAMESON, J L.; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Manual de medicina de Harrison.
+Grupo A, 2021. 9786558040040. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040040/. Acesso em: 18 mar. 2025.
+4ª QUESTÃO
+Enunciado:
+( AFYA ITACOATIARA) Um paciente de 65 anos, com histórico de tabagismo e etilismo, chega
+ao pronto-socorro com dor abdominal súbita e intensa, que se iniciou há cerca de 6 horas. Relata
+também febre, náuseas e vômitos. Ao exame físico, apresenta-se com taquicardia, taquipneia e
+hipotensão. O abdômen está distendido, doloroso à palpação, com defesa e sinais de irritação
+peritoneal.
+Qual é a conduta inicial mais adequada para este caso?
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 5 de 24
+
+Alternativas:
+(alternativa A)
+Administrar analgésicos e antieméticos, aguardando melhora clínica.
+(alternativa B)
+Iniciar antibioticoterapia de amplo espectro e solicitar avaliação da gastroenterologia.
+(alternativa C)
+Hidratar o paciente, administrar antibióticos e agendar laparoscopia diagnóstica.
+(alternativa D) (CORRETA)
+Realizar tomografia computadorizada (TC) de abdome e solicitar avaliação da cirurgia geral.
+
+Resposta comentada:
+A alternativa correta: realizar tomografia computadorizada (TC) de abdome e solicitar avaliação da
+cirurgia geral.
+Justificativa:
+O quadro clínico do paciente sugere fortemente abdome agudo perfurativo, uma emergência
+cirúrgica que exige diagnóstico e tratamento rápidos.
+A TC de abdome é o exame de imagem de escolha para confirmar a suspeita diagnóstica,
+identificar o local da perfuração e avaliar a extensão da contaminação peritoneal. A avaliação da
+cirurgia geral é fundamental para indicar a laparotomia exploradora, que é o tratamento definitivo
+na maioria dos casos de abdome agudo perfurativo.
+Comentários:
+Administrar analgésicos e antieméticos, aguardando melhora clínica. A conduta expectante não é
+apropriada em um quadro de abdome agudo perfurativo, pois o retardo no diagnóstico e
+tratamento pode aumentar a morbimortalidade do paciente.
+Iniciar antibioticoterapia de amplo espectro e solicitar avaliação da gastroenterologia. A
+antibioticoterapia é importante no tratamento do abdome agudo perfurativo, mas não deve ser a
+primeira medida. O diagnóstico e a intervenção cirúrgica são prioritários. A avaliação da
+gastroenterologia pode ser útil em casos específicos, mas não é a conduta inicial mais adequada
+neste caso.
+Hidratar o paciente, administrar antibióticos e agendar laparoscopia diagnóstica: A hidratação e a
+antibioticoterapia são importantes no preparo do paciente para a cirurgia, mas a TC de abdome é
+fundamental para confirmar o diagnóstico e identificar o local da perfuração antes da laparoscopia.
+Referência:
+GOLDMAN, Lee; SCHAFER, Andrew I. Goldman-Cecil Medicina. Rio de Janeiro: Grupo GEN,
+2022.
+5ª QUESTÃO
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 6 de 24
+
+Enunciado:
+(FASA VIC) Um paciente, de 27 anos, residente em uma área com saneamento básico precário,
+procura atendimento médico devido a diarreia de evolução rápida, acompanhada de episódios de
+esteatorreia, cólicas abdominais e sensação de distensão. Ele relata que os sintomas
+começaram há cerca de duas semanas, sem febre associada. No exame clínico, o paciente está
+hemodinamicamente estável, sem sinais de desidratação, mas com leve desconforto abdominal à
+palpação. O exame parasitológico de fezes revelou a presença de cistos de Giardia lamblia.
+Diante desse achado, qual é o fármaco de primeira escolha para o tratamento dessa infecção e
+qual seu respectivo mecanismo de ação?
+Alternativas:
+(alternativa A)
+Nitazoxanida, que inibe a enzima piruvato-ferredoxina oxidorredutase, essencial para o
+metabolismo energético do protozoário.
+(alternativa B)
+Albendazol, que atua inibindo a polimerização da tubulina, interferindo na captação de glicose do
+parasita.
+(alternativa C)
+Ivermectina, que age promovendo o aumento da permeabilidade ao cloro mediada por glutamato,
+levando à paralisia do parasita.
+(alternativa D) (CORRETA)
+Metronidazol, que interage com as proteínas do DNA do parasita, causando sua destruição por
+meio da formação de radicais livres.
+
+Resposta comentada:
+A alternativa correta é a "Metronidazol, que interage com as proteínas do DNA do parasita,
+causando sua destruição por meio da formação de radicais livres". O metronidazol é o fármaco de
+primeira escolha no tratamento da giardíase. Seu mecanismo de ação envolve a redução do
+fármaco por proteínas do protozoário, gerando metabólitos reativos que se ligam ao DNA,
+causando quebras na cadeia e levando à morte celular.
+Referências:
+LOSCALZO, José; FAUCI, Anthony S.; KASPER, Dennis L.; e outros. Medicina Interna de
+Harrison. Grupo A, 2024. E-book. ISBN 9786558040231. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231/. Acesso em: 18 mar. 2025.
+REY, Luís. Parasitologia, 4ª edição. Grupo GEN, 2008. E-book. ISBN 978-85-277-2027-4.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2027-4/. Acesso em:
+18 mar. 2025.
+JAMESON, J L.; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Manual de medicina de Harrison.
+Grupo A, 2021. 9786558040040. Disponível
+em: https://integrada.minhabiblioteca.com.br/#/books/9786558040040/. Acesso em: 18 mar. 2025.
+6ª QUESTÃO
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 7 de 24
+
+Enunciado:
+(FACIMPA) Um homem, de 40 anos de idade, foi levado à clínica de gastroenterologia devido a
+uma hematêmese contínua iniciada há 2 horas. No exame físico, sua temperatura era de 36,5°C,
+pulso de 100/min, respirações de 20/min e pressão arterial de 100/60 mmHg. Ele estava com o
+abdômen distendido, com ondas de fluidos e a ponta do baço era palpável. Com base nos sinais
+clínicos descritos, qual doença hepática é mais provável no caso do paciente, e qual a explicação
+fisiopatológica para a presença desses sintomas?
+Alternativas:
+(alternativa A)
+Doença de Wilson é um distúrbio genético autossômico recessivo devido à mutação do gene
+ATP7B. Ela leva à acumulação de cobre em órgãos como fígado, cérebro e olhos devido à
+excreção inadequada de cobre na bile e incapacidade de incorporação na ceruloplasmina. Isso
+culmina na hipertensão portal e na apresentação clínica do paciente.
+(alternativa B)
+Esteatose hepática não alcoólica (NASH) ocorre em indivíduos com resistência à insulina e
+síndrome metabólica. O tecido adiposo visceral disfuncional gera inflamação e apoptose dos
+hepatócitos devido à redução da adiponectina e aumento de citocinas inflamatórias. Esses são os
+principais responsáveis pelos sintomas apresentados.
+(alternativa C)
+Hepatite viral crônica, e a presença de hematêmese e a palpabilidade da ponta do baço são
+devido à hipertensão portal, e esta alteração é associada à infecção pelo vírus da Hepatite A
+(HAV), onde a imunidade celular, particularmente as células TCD8+, tem um papel central na
+lesão hepatocelular durante a infecção por HAV.
+(alternativa D) (CORRETA)
+Cirrose hepática causa hipertensão portal devido ao aumento da resistência nas vênulas portais e
+à formação de colaterais portossistêmicos. Isso reduz o fluxo sanguíneo no fígado, desvia
+substâncias tóxicas para a circulação sistêmica e gera complicações como varizes esofágicas e
+ascite.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 8 de 24
+
+Resposta comentada:
+Hepatite viral crônica: essa opção não é a mais provável para este paciente, pois a hematêmese
+e a palpabilidade da ponta do baço são indicativos de problemas no sistema portal, não
+tipicamente associados à hepatite viral. E o HAV não causa hepatite viral crônica.
+Esteatose hepática não alcoólica (NASH): a NASH pode afetar o fígado, mas não é a causa mais
+provável para os sintomas apresentados pelo paciente, como a hematêmese e a hipotensão.
+Cirrose hepática: resposta correta. Os achados clínicos, incluindo a hematêmese, baixa pressão
+arterial, pulso rápido e abdome distendido com ondas de fluidos, são altamente sugestivos de
+cirrose hepática com hipertensão portal. A cirrose altera o fluxo sanguíneo hepático e pode
+resultar em sangramento das varizes esofágicas.
+Doença de Wilson: doença de Wilson é uma enfermidade metabólica rara que afeta o
+metabolismo do cobre, mas os sintomas apresentados pelo paciente não são indicativos dessa
+condição.
+Portanto, a resposta correta é a opção Cirrose hepática, devido aos achados clínicos compatíveis
+com hipertensão portal e sangramento das varizes esofágicas associadas à cirrose.
+Referência:
+KUMAR, Vinay; ABBAS, Abul; ASTER, Jon. Robbins & Cotran Patologia - Bases Patológicas
+das Doenças. Rio de Janeiro: Grupo GEN, 2016. E-book. ISBN 9788595150966. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595150966/. Acesso em: 21 ago. 2023.
+7ª QUESTÃO
+Enunciado:
+(FMIT) Um jovem rapaz de 20 anos, hígido, faz seguimento colonoscópico pela primeira vez por
+histórico familiar de polipose adenomatosa familiar. Relata pai e tio paterno com polipose familiar,
+avô paterno falecido aos 50 anos por câncer de colorretal (CCR) e uma tia paterna em tratamento
+oncológico para CCR. Durante o exame colonoscópico, foram encontrados inúmeros pólipos
+intestinais e instituídas as medidas adequadas.
+Analise as assertivas abaixo a respeito desse quadro.
+I - A polipose familial do cólon é uma doença genética de herança autossômica dominante
+causada por mutações no gene APC (adenomatous polyposis coli).
+II - A polipose familial do cólon manifesta-se geralmente na sexta década de vida, e o risco de
+desenvolver câncer do cólon é o mesmo que nos casos sem pólipos.
+III - No caso deste jovem, é provável que a maioria desses pólipos seja do tipo hiperplásico, sem
+grau de displasia.
+IV - Histologicamente, na polipose familial, os pólipos são representados por adenomas com
+diferentes graus de displasia.
+É correto o que se afirma em:
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 9 de 24
+
+Alternativas:
+(alternativa A)
+II e IV.
+(alternativa B)
+II e III.
+(alternativa C)
+I e III.
+(alternativa D) (CORRETA)
+I e IV.
+
+Resposta comentada:
+I - Correto: a polipose familial do cólon é doença genética de herança autossômica dominante,
+com alta penetrância, causada por mutações no gene APC (adenomatous polyposis coli), situado
+no braço longo do cromossomo 5 (5q21-22).
+II - Incorreto: a doença manifesta-se geralmente na segunda ou terceira década de vida, e o risco
+de desenvolver câncer do cólon é de 100% nos indivíduos não tratados.
+III - Incorreto: os pólipos são representados por adenomas com diferentes graus de displasia.
+IV - Correto: Histologicamente, os pólipos são representados por adenomas com diferentes graus
+de displasia.
+Referência:
+FILHO, Geraldo B. Bogliolo - Patologia. 10. ed. Rio de Janeiro: Guanabara Koogan, 2021. E-book.
+p. 777. ISBN 9788527738378. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527738378/. Acesso em: 03 mar.
+2025.
+8ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Um menino residente em área rural com condições sanitárias precárias é
+levado ao posto de saúde pela avó. Isso ocorre devido a queixas de dor abdominal contínua de
+moderada intensidade, episódios frequentes de vômito, inchaço progressivo do abdome e
+ausência de evacuação e eliminação de gases há quatro dias. No exame físico, apresentava
+estado geral regular, sinais de desnutrição leve e desidratação moderada, com abdome
+distendido, sensível à palpação difusa, mas sem evidências de peritonite. O médico esclarece à
+avó que se trata de uma infecção parasitária. Acerca do caso, assinale a alternativa que
+apresenta o ciclo biológico do parasita envolvido e o tratamento adequado.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 10 de 24
+
+Alternativas:
+(alternativa A)
+O parasita penetra ativamente pela pele ao contato com solo contaminado. As larvas atingem a
+corrente sanguínea, migram para os pulmões e, após serem deglutidas, instalam-se no intestino,
+onde causam lesões. O tratamento é feito com metronidazol.
+(alternativa B)
+O parasita é transmitido pela ingestão de cistos em água ou alimentos contaminados. No
+intestino, os cistos liberam trofozoítos, que se fixam na mucosa intestinal, causando inflamação.
+O tratamento é feito com albendazol ou mebendazol.
+(alternativa C)
+A infecção ocorre por meio da ingestão de carne malcozida contendo cistos do parasita. No
+intestino, os cistos liberam larvas que invadem a mucosa intestinal, podendo migrar para tecidos
+musculares e causar obstrução. O tratamento envolve a administração de praziquantel.
+(alternativa D) (CORRETA)
+O ciclo inicia-se com a ingestão de ovos do parasita presentes no solo contaminado. No intestino,
+as larvas eclodem e migram para a corrente sanguínea, atingindo pulmões, traqueia e sendo
+deglutidas para o intestino, onde amadurecem e causam obstrução. O tratamento é feito com
+albendazol ou mebendazol.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 11 de 24
+
+Resposta comentada:
+Trata-se de um caso de ascaridíase.
+O ciclo inicia-se com a ingestão de ovos do parasita presentes no solo contaminado. No intestino,
+as larvas eclodem e migram para a corrente sanguínea, atingindo pulmões, traqueia e sendo
+deglutidas para o intestino, onde amadurecem e causam obstrução. O tratamento é feito com
+albendazol ou mebendazol. Correto - Essa alternativa descreve corretamente o ciclo da Ascaris
+lumbricoides, agente etiológico da ascaridíase. Os ovos ingeridos eclodem no intestino, as larvas
+fazem um ciclo pulmonar antes de retornarem ao intestino, onde se tornam vermes adultos. A alta
+carga parasitária pode causar obstrução intestinal, como no caso descrito. O tratamento
+recomendado inclui albendazol ou mebendazol.
+O parasita é transmitido pela ingestão de cistos em água ou alimentos contaminados. No
+intestino, os cistos liberam trofozoítos, que se fixam na mucosa intestinal, causando inflamação.
+O tratamento é feito com albendazol ou mebendazol. Incorreta. A descrição se refere ao ciclo da
+Giardia lamblia, protozoário causador da giardíase. Embora a transmissão ocorra pela ingestão de
+cistos em alimentos ou água contaminados, a giardíase não costuma causar obstrução intestinal,
+como no caso apresentado. Além disso, o tratamento correto para giardíase é com metronidazol
+ou tinidazol, e não albendazol ou mebendazol.
+A infecção ocorre por meio da ingestão de carne malcozida contendo cistos do parasita. No
+intestino, os cistos liberam larvas que invadem a mucosa intestinal, podendo migrar para tecidos
+musculares e causar sintomas gastrointestinais e sistêmicos. O tratamento envolve a
+administração de praziquantel. Incorreta - A descrição se refere ao ciclo da Taenia spp. (tênia),
+causadora da teníase. Embora possa causar sintomas gastrointestinais, não é a parasitose
+envolvida no caso descrito, que apresenta obstrução intestinal associada a Ascaris lumbricoides.
+Além disso, o tratamento da ascaridíase não é feito com praziquantel, mas com albendazol ou
+mebendazol.
+O parasita penetra ativamente pela pele ao contato com solo contaminado. As larvas atingem a
+corrente sanguínea, migram para os pulmões e, após serem deglutidas, instalam-se no intestino,
+onde causam lesões. O tratamento é feito com metronidazol. Incorreta - A descrição remete ao
+ciclo de Ancylostoma duodenale e Necator americanus, agentes da ancilostomíase. Esses
+parasitas penetram ativamente pela pele e seguem um ciclo pulmonar antes de se estabelecerem
+no intestino, mas não causam obstrução intestinal significativa. Além disso, o tratamento da
+ancilostomíase é feito com albendazol ou mebendazol, e não com metronidazol.
+Referência:
+JAMESON, J L.; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Manual de medicina de Harrison.
+Grupo A, 2021.
+9ª QUESTÃO
+Enunciado:
+(FASA VIC) Paciente, 54 anos, sexo feminino, tabagista, em abstinência etílica há 6 anos, é
+internada no hospital com sinais de desnutrição, aumento do volume abdominal e aranhas
+vasculares. Em uso de AAS, furosemida e metoprolol. Apresenta exames laboratoriais com os
+seguintes resultados: albumina 2,7 g/dL (VR: 3,5 a 5,2 g/dL); INR 1,6; Bilirrubina total 2,3 mg/dL
+(VR: 0,2 a 1,20 mg/dL); Na+ 137mmol/L (VR: 135 a 145 mmol/L); K+ 3,8mmol/L (VR: 3,5-5,5
+mmol/L); HbsAg: reagente; Anti-HBc IgG: reagente e dosagem de albumina baixa.
+Considerando o caso acima, indique a alternativa correta.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 12 de 24
+
+Alternativas:
+(alternativa A)
+Paciente com sorologia para Hepatite A. Deve ser avaliado ultrassom de abdome ou tomografia
+de abdome para investigação de uma das principais complicações, a cirrose.
+(alternativa B)
+O paciente apresenta fatores de risco e sorologia para Hepatite E. A biópsia é o padrão-ouro para
+o diagnóstico definitivo.
+(alternativa C) (CORRETA)
+Paciente tem sinais e sintomas sugestivos de cirrose hepática de etiologia viral. A sorologia
+confirma a infecção crônica pelo vírus da hepatite B.
+(alternativa D)
+A suspeita diagnóstica é de Hepatite E, infecção autolimitada sem risco de cronificação ou
+evolução para hepatite fulminante. Paciente encontra-se na fase pré-ictérica.
+
+Resposta comentada:
+Paciente tem suspeita diagnóstica de cirrose hepática de etiologia viral. A sorologia para hepatite
+viral confirma a infecção crônica pelo vírus da hepatite B. A hepatite B é causada pelo vírus da
+hepatite B (HBV, de hepatitis B virus). O soro de pacientes com hepatite B contém três partíc ulas
+distintas, as quais contêm o antígeno de superfíc ie do vírus da hepatite B (HBsAg, de hepatitis B
+surface antigen), que pode ser detectado com anticorpos anti-HBsAg. Esses testes de anticorpo
+possibilitam a triagem conveniente do sangue para o HBV. Frequentemente subclínica; mas com
+probabilidade de progressão para dano hepático severo e ocorrência de doença crônica.
+Referências:
+BROOKS, Geo F.; CAROLL, Karen C.; BUTEL, Janete S.; et ai. Microbiologia Médica de Jawetz,
+Melnick & Adelberg: Grupo A. 2014.
+GOLDMAN L., AUSIELLO D. Cecil: Medicina. 23ª ed. Rio de Janeiro: Elsevier. 2009.
+TORTORA, Gerard J.; FUNKE, Berdell R.; CASE, Christine L. Microbiologia. Grupo A, 2017.
+9788582713549.
+10ª QUESTÃO
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 13 de 24
+
+Enunciado:
+(UNIREDENTOR) João, 6 anos, estava em uma festa junina de sua escola. Alguns minutos após
+a ingestão de amendoim torrado, ele começou a apresentar sintomas como inchaço na boca,
+dificuldade para respirar e urticária (erupção cutânea), sendo levado para a emergência de um
+hospital próximo. Após atendimento médico, foi diagnosticado com uma reação alérgica ao
+amendoim. A mãe de João relatou que, em ocasiões anteriores, ao ingerir leite e derivados, João
+apresentou sinais de desconforto, como dor abdominal e cólicas, entretanto, tais episódios
+passaram e ela não procurou atendimento médico. Considerando esse relato, leia as afirmativas
+abaixo.
+I. A reação ao amendoim apresentada por João sugere um caso de reação alérgica
+imediata, caracterizada por sintomas como edema em boca, dificuldade para respirar e
+urticária.
+II. O desconforto relacionado ao leite e derivados pode ser um sinal de intolerância
+alimentar ou uma alergia a proteínas do leite, tais como a caseína, ​lactoglobulina,
+lactoalbumina, soroalbumina.
+III. Pode-se dizer que tanto a alergia ao amendoim quanto a intolerância à lactose são
+patologias mediadas pelo sistema imunológico, com participação de IgE e mastócitos
+previamente sensibilizados que liberam potentes mediadores químicos.
+IV. A intolerância ao leite pode ser explicada pelo fato de o sistema digestivo de João não
+conseguir digerir adequadamente a lactose, o que sugere a ausência da enzima
+lactase.
+Marque a alternativa que indica apenas as assertivas corretas.
+Alternativas:
+(alternativa A)
+II, III e IV.
+(alternativa B) (CORRETA)
+I, II e IV.
+(alternativa C)
+I, II e III.
+(alternativa D)
+I, III e IV.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 14 de 24
+
+Resposta comentada:
+I. A reação ao amendoim apresentada por João sugere um caso de reação alérgica imediata,
+caracterizada por sintomas como edema na boca, dificuldade para respirar e urticária.
+Essa afirmativa é verdadeira. No caso do amendoim, João apresentou uma reação alérgica
+imediata, caracterizada por sintomas como inchaço na boca, dificuldade para respirar e urticária.
+Esse tipo de reação está relacionado a um mecanismo imunológico mediado por anticorpos IgE
+(Imunoglobulina E). Quando João consumiu o amendoim, seu sistema imunológico reconheceu a
+proteína do amendoim como uma substância perigosa e, como ele já estava sensibilizado, iniciou
+uma resposta imunológica rápida. A ligação entre os anticorpos IgE específicos para alérgeno
+presente no amendoim e os mastócitos liberou mediadores inflamatórios, como a histamina, que
+causaram os sintomas clássicos de uma reação alérgica imediata, como o inchaço (angioedema)
+na boca, dificuldade respiratória (devido à constrição das vias aéreas) e urticária (erupção
+cutânea com coceira).
+II. O desconforto relacionado ao leite e derivados pode ser um sinal de intolerância alimentar ou
+uma alergia a proteínas do leite, tais como a caseína, ​-lactoglobulina, ​-lactoalbumina,
+soroalbumina.
+Essa afirmativa é verdadeira uma vez que o desconforto gastrointestinal provocado pela ingestão
+de leite pode resultar de uma intolerância à lactose, mas também de uma alergia a proteínas do
+leite. Essa alergia tem como principais sintomas a distensão abdominal e excessiva eliminação
+de flatos, concomitantemente seguidos ou não de fezes amolecidas ou diarreia aquosa com
+fezes ácidas e assadura perianal, podendo ocorrer desidratação e acidose metabólica.
+III. Pode-se dizer que tanto a alergia ao amendoim quanto a intolerância à lactose são patologias
+mediadas pelo sistema imunológico, com participação de IgE e mastócitos previamente
+sensibilizados que liberam potentes mediadores químicos.
+Essa afirmativa é falsa, tendo em vista que a intolerância à lactose não é mediada pelo sistema
+imunológico.
+IV. A intolerância ao leite pode ser explicada pelo fato de o sistema digestivo de João não
+conseguir digerir adequadamente a lactose, o que sugere a ausência da enzima lactase.
+Essa afirmativa é verdadeira. Por outro lado, a reação ao leite e derivados de João, caso se trate
+de uma intolerância à lactose, é uma resposta não imunológica. Isso ocorre porque João não
+possui a enzima lactase necessária para digerir a lactose, e não envolve uma reação do sistema
+imunológico. Os sintomas de intolerância à lactose geralmente incluem distensão abdominal,
+gases, dor abdominal e diarreia, mas esses sintomas são mais lentos e restritos ao trato
+gastrointestinal, não sendo causados por uma reação alérgica imediata com liberação de
+histamina ou outros mediadores inflamatórios típicos das alergias alimentares."
+Referência:
+ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Celular e Molecular. 10. ed.
+Rio de Janeiro: GEN Guanabara Koogan, 2023. E-book. p.i. ISBN 9788595158924. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9788595158924/. Acesso em: 08 mar.
+2025.
+
+11ª QUESTÃO
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 15 de 24
+
+Enunciado:
+(UNISL PORTO VELHO) Um lactente de 2 meses é levado ao ambulatório de pediatria devido a
+episódios frequentes de regurgitação pós-alimentar. A mãe relata que o bebê está ganhando peso
+adequadamente, mas que frequentemente apresenta arqueamento do dorso e irritabilidade após
+as mamadas. Não há sinais de engasgo, cianose ou dificuldade respiratória. O exame físico não
+revela anormalidades, e a criança está bem hidratada e ativa.
+Analise o caso e identifique a alternativa que apresenta a melhor explicação para o quadro clínico
+do recém-nascido.
+Alternativas:
+(alternativa A)
+A idade do lactente associada aos sinais e sintomas descritos sugere Alergia à Proteína do Leite
+de Vaca (APLV) como principal fator de risco para refluxo gastroesofágico, sendo indicada a
+introdução de fórmula hipoalergênica.
+(alternativa B)
+A persistência dos episódios de regurgitação nesse lactente indica o desenvolvimento de Doença
+do Refluxo Gastroesofágico (DRGE), necessitando iniciar a investigação laboratorial e o
+tratamento farmacológico imediato.
+(alternativa C)
+O refluxo gastroesofágico em lactentes é um achado incomum e frequentemente está associado
+a malformações gastrointestinais, como a estenose hipertrófica do piloro, necessitando de
+avaliação cirúrgica precoce.
+(alternativa D) (CORRETA)
+O refluxo gastroesofágico é mais comum em lactentes devido à imaturidade da motilidade
+esofágica e menor tônus do esfíncter esofagiano inferior, sendo geralmente autolimitado nos
+primeiros meses de vida.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 16 de 24
+
+Resposta comentada:
+Alternativa correta: O refluxo gastroesofágico é mais comum em lactentes devido à imaturidade
+da motilidade esofágica e menor tônus do esfíncter esofagiano inferior, sendo geralmente
+autolimitado nos primeiros meses de vida.
+Justificativa: o refluxo gastroesofágico (RGE) fisiológico é muito comum nos primeiros meses de
+vida, ocorrendo em até 50% dos lactentes saudáveis. Ele resulta da imaturidade do esfíncter
+esofagiano inferior e da motilidade esofágica, levando à regurgitação frequente. Na maioria dos
+casos, esse refluxo é autolimitado e melhora espontaneamente por volta dos 12 a 18 meses de
+idade, sem necessidade de intervenção clínica. O quadro descrito no enunciado é característico
+do RGE fisiológico, pois a criança tem ganho de peso adequado e não apresenta sinais de
+alarme.
+Alternativas incorretas:
+A persistência dos episódios de regurgitação nesse lactente indica o desenvolvimento de Doença
+do Refluxo Gastroesofágico (DRGE), necessitando iniciar a investigação laboratorial e o
+tratamento farmacológico imediato. Justificativa: a doença do refluxo gastroesofágico (DRGE) é
+caracterizada por sintomas mais graves e/ou complicações, como perda de peso, vômitos
+persistentes, sinais de aspiração pulmonar ou esofagite. No caso apresentado, a criança tem
+regurgitação sem comprometimento nutricional, não há sinais de alarme e o exame físico é
+normal. Portanto, o quadro não indica DRGE, e o tratamento farmacológico não é necessário.
+A idade do lactente associada aos sinais e sintomas descritos sugere Alergia à Proteína do Leite
+de Vaca (APLV) como principal fator de risco para refluxo gastroesofágico, sendo indicada a
+introdução de fórmula hipoalergênica. Justificativa: embora a alergia à proteína do leite de vaca
+(APLV) possa causar sintomas gastrointestinais, incluindo regurgitação, ela normalmente se
+manifesta com outros sinais como diarreia, sangue nas fezes, dermatite atópica ou irritabilidade
+intensa e persistente. No caso descrito, a criança tem regurgitação fisiológica sem outras
+manifestações alérgicas, tornando a APLV um diagnóstico improvável. Assim, não há indicação
+para troca de fórmula ou intervenção dietética.
+O refluxo gastroesofágico em lactentes é um achado incomum e frequentemente esta associado
+à malformações gastrointestinais, como a estenose hipertrófica do piloro, necessitando de
+avaliação cirúrgica precoce. Justificativa: o RGE fisiológico é muito comum em lactentes
+saudáveis e não está necessariamente associado a malformações gastrointestinais. A estenose
+hipertrófica do piloro, por outro lado, se manifesta tipicamente com vômitos em jato não biliosos,
+perda de peso e desidratação, o que não é compatível com o quadro apresentado. Portanto, essa
+alternativa está incorreta.
+Referência:
+NORRIS, Tommie L. Porth - Fisiopatologia. Grupo GEN, 2021. 9788527737876. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527737876/;
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737876/epubcfi/6/116[%3Bvnd.vst.i
+dref%3Dchapter37]!/4/66/3:16[%C3%94FA%2CGO. Acesso em: 30 mar. 2025.
+12ª QUESTÃO
+Enunciado:
+(AFYA MANACAPURU) Os helmintos são parasitas que podem danificar as mucosas intestinais
+por meio de diversos mecanismos de agressão. Esses danos podem prejudicar a função
+intestinal e desencadear vários sintomas no hospedeiro. Para neutralizar essa agressão nas
+mucosas, são utilizados medicamentos anti-helmínticos, cujo principal mecanismo de ação é
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 17 de 24
+
+Alternativas:
+(alternativa A)
+inibir a síntese de proteínas dos helmintos, impedindo sua replicação no organismo hospedeiro.
+(alternativa B)
+diminuir a permeabilidade da membrana celular dos helmintos, resultando na morte do parasita.
+(alternativa C)
+destruir diretamente as células intestinais humanas, promovendo um ambiente hostil ao parasita.
+(alternativa D) (CORRETA)
+interferir na absorção de glicose e na função neuromuscular, paralisando os helmintos.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 18 de 24
+
+Resposta comentada:
+Resposta pessoal: Os principais fármacos anti-helmínticos interferem na absorção de glicose e
+na função neuromuscular dos helmintos, levando à paralisia e morte do parasita. Justificada: Os
+helmintos agridem a mucosa intestinal por meio de mecanismos como a ação mecânica (fixação
+à parede intestinal), liberação de enzimas proteolíticas e consumo de nutrientes do hospedeiro.
+Os fármacos anti-helmínticos atuam principalmente bloqueando a absorção de glicose dos
+parasitas (como o mebendazol e albendazol) ou interferindo na transmissão neuromuscular,
+resultando na paralisia e eliminação dos vermes (como a ivermectina e o praziquantel).
+Resposta comentada:
+Alternativa incorreta: Os fármacos anti-helmínticos atuam inibindo a síntese de proteínas dos
+helmintos, impedindo sua replicação no organismo hospedeiro.
+Justificativa: A maioria dos anti-helmínticos não age diretamente na inibição da síntese de
+proteínas. Em vez disso, os fármacos mais comuns atuam na interferência do metabolismo
+energético (como a absorção de glicose) e na função neuromuscular do parasita. Além disso,
+helmintos não se replicam no hospedeiro da forma como as bactérias ou vírus fazem, tornando
+essa afirmação incorreta.
+Alternativa incorreta: A ação dos anti-helmínticos se baseia na destruição direta das células
+intestinais humanas, promovendo um ambiente hostil ao parasita.
+Justificativa: Os anti-helmínticos não agem destruindo células humanas. Eles atuam
+especificamente no metabolismo e na estrutura dos helmintos, sem causar danos diretos
+significativos às células intestinais do hospedeiro. Um mecanismo desse tipo seria extremamente
+tóxico para o paciente.
+Alternativa incorreta: Os anti-helmínticos agem somente no aumento da permeabilidade da
+membrana celular dos helmintos, resultando em perda de nutrientes essenciais e morte do
+parasita.
+Justificativa: Alguns anti-helmínticos, como o praziquantel, de fato aumentam a permeabilidade da
+membrana celular dos parasitas, causando despolarização e promovendo a entrada excessiva de
+cálcio, o que resulta na paralisia e morte do helminto. No entanto, essa não é a única forma de
+ação dos anti-helmínticos, e não ocorre necessariamente por perda de nutrientes.
+Referências:
+LOSCALZO, José; FAUCI, Anthony S.; KASPER, Dennis L.; e outros. Medicina Interna de
+Harrison. Grupo A, 2024. E-book. ISBN 9786558040231. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040231/. Acesso em: 18 mar. 2025.
+REY, Luís. Parasitologia, 4ª edição. Grupo GEN, 2008. E-book. ISBN 978-85-277-2027-4.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2027-4/. Acesso em:
+18 mar. 2025.
+JAMESON, J L.; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Manual de medicina de Harrison.
+Grupo A, 2021. 9786558040040. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558040040/. Acesso em: 18 mar. 2025.
+
+13ª QUESTÃO
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 19 de 24
+
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Um homem, de 55 anos, com histórico de etilismo crônico, chega
+ao pronto atendimento com queixa de distensão abdominal progressiva, icterícia e confusão
+mental. Ao exame físico, apresenta ascite, telangiectasias e flapping. Exames laboratoriais
+revelam elevação de bilirrubinas, tempo de protrombina prolongado e hiponatremia.
+Com base no caso descrito, avalie a relação entre as assertivas abaixo.
+I - A ascite e a encefalopatia hepática apresentadas pelo paciente são complicações comuns da
+cirrose hepática, resultantes da hipertensão portal e da disfunção hepatocelular.
+Porque
+II - A fibrose hepática difusa e a formação de nódulos de regeneração na cirrose impedem o fluxo
+sanguíneo adequado através do fígado, levando ao aumento da pressão na veia porta e ao
+acúmulo de toxinas no sistema nervoso central.
+Assinale a alternativa que mostra a relação correta entre as assertivas.
+
+Alternativas:
+(alternativa A)
+A assertiva I é falsa e a II é verdadeira.
+(alternativa B)
+As assertivas I e II são verdadeiras, mas a II não justifica a I.
+(alternativa C)
+A assertiva I é verdadeira e a II é falsa.
+(alternativa D) (CORRETA)
+As assertivas I e II são verdadeiras e a II justifica a I.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 20 de 24
+
+Resposta comentada:
+Resposta:
+A resposta correta é: As assertivas I e II são verdadeiras e a II justifica a I.
+Resposta comentada:
+Assertiva I
+A ascite e a encefalopatia hepática são, de fato, complicações frequentes da cirrose. A
+hipertensão portal, causada pela resistência ao fluxo sanguíneo no fígado cirrótico, leva ao
+acúmulo de líquido na cavidade abdominal (ascite). A disfunção hepatocelular impede a
+desintoxicação adequada, permitindo que substâncias neurotóxicas, como a amônia, atinjam o
+cérebro, causando encefalopatia hepática.
+Assertiva II
+A razão explica corretamente a fisiopatologia da cirrose. A fibrose e os nódulos de regeneração
+distorcem a arquitetura hepática, aumentando a resistência ao fluxo sanguíneo portal. Esse
+aumento da pressão portal resulta em ascite, varizes esofágicas e outras complicações. A
+incapacidade do fígado de metabolizar substâncias tóxicas, como a amônia, resulta em acúmulo
+desses metabólitos no sistema nervoso central, resultando na encefalopatia.
+Incorreta: A asserção e a razão são verdadeiras, mas a razão não justifica a asserção: A razão
+explica diretamente a fisiopatologia que leva às complicações descritas na asserção.
+Incorreta: A asserção é verdadeira, e a razão é falsa: A razão descreve com precisão os
+mecanismos fisiopatológicos da cirrose.
+Incorreta: A asserção é falsa, e a razão é verdadeira: A asserção descreve complicações reais
+da cirrose.
+Referências:
+DANI, Renato; PASSOS, Maria do Carmo F. ​Gastroenterologia Essencial, 4ª edição. Rio de
+Janeiro: Guanabara Koogan, 2011. E-book. p. Capa 1. ISBN 978-85-277-1970-4. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/978-85-277-1970-4/. Acesso em: 04 mar.
+2025.
+NORRIS, Tommie L. Porth - Fisiopatologia. 10ª ed. Rio de Janeiro: Guanabara Koogan, 2021. Ebook. p. Capa. ISBN 9788527737876. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737876/. Acesso em: 04 mar.
+2025.
+14ª QUESTÃO
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 21 de 24
+
+Enunciado:
+(UNITPAC) Paciente do sexo masculino, 50 anos, com histórico de etilismo crônico há mais de
+30 anos, caracterizado por alto consumo diário de bebidas alcoólicas destiladas. Apresenta
+episódios recorrentes de internação devido à mesma sintomatologia atual. No momento,
+apresenta quadro clínico compatível com pancreatite aguda, corroborado pelos critérios de
+Ranson na admissão e após 48 horas de evolução, bem como por achados tomográficos, que
+classificaram o caso como pancreatite grau C segundo a classificação de Balthazar. Apesar do
+diagnóstico clínico e radiológico, os níveis séricos de amilase e lipase permaneceram dentro da
+normalidade.
+Marque a alternativa que explica corretamente a ausência de alterações nas concentrações das
+enzimas pancreáticas.
+
+Alternativas:
+(alternativa A)
+A formação de pseudocisto pancreático na pancreatite Balthazar C sequestra a amilase da
+glândula, impedindo sua excreção e elevando a concentração no sangue.
+(alternativa B)
+A ausência de elevação das enzimas pancreáticas pode ocorrer nos casos de pancreatite aguda
+por álcool com Balthazar C, onde a necrose compromete a glândula e consome as enzimas.
+(alternativa C)
+A amilase e lipase só se elevam nos casos de pancreatite biliar, raramente ocorrendo na
+pancreatite aguda por álcool. Sua elevação, nestes casos, ocorre pela formação de pseudocisto.
+(alternativa D) (CORRETA)
+Presença de fibrose pancreática pelos episódios anteriores de inflamação da glândula, remissão
+do processo e recidivas. A pancreatite alcoólica é crônica agudizada.
+
+Resposta comentada:
+A pancreatite por álcool classicamente é crônica, reagudizando a cada libação alcoólica,
+geralmente camuflada pela chamada "ressaca", sendo atribuídos a esta, os sintomas de vômitos
+e dor abdominal. A amilase e lipase deixarão de ser produzidas à medida que o parênquima vai
+sendo destruído e fibrosado. Esse paciente poderá surpreender a equipe médica com
+hematêmese de grande volume exatamente pelo desconhecimento desta peculiaridade da
+pancreatite por álcool; estas reagudizações podem levar à trombose da veia esplênica pela
+entrada de tripsina na luz do vaso a cada reagudização, até que a lesão endotelial resulte na
+formação de um trombo e, como consequência, varizes de fundo gástrico pela hipertensão porta
+segmentada. O diagnóstico postergado pode levar a condutas que pioram severamente o quadro,
+levando à morte do paciente.
+Referência:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024. E-book. p. 2659. ISBN 9786558040231. Disponível
+em: https://integrada.minhabiblioteca.com.br/reader/books/9786558040231/. Acesso em: 26 mar.
+2025.
+15ª QUESTÃO
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 22 de 24
+
+Enunciado:
+(UNINOVAFAPI) Um homem, de 62 anos, tabagista há 40 anos e com histórico familiar de
+câncer colorretal, procura atendimento médico devido a episódios recorrentes de dor abdominal,
+emagrecimento não intencional e alteração do hábito intestinal, caracterizada por períodos de
+diarreia intercalados com constipação. Durante a anamnese, ele relata a presença de sangue nas
+fezes há cerca de três meses. O exame físico revela palidez cutâneo-mucosa e dor à palpação
+no quadrante inferior esquerdo do abdômen.
+A colonoscopia evidencia uma lesão vegetante na porção distal do cólon sigmoide, e a biópsia
+confirma adenocarcinoma invasivo. Considerando os mecanismos envolvidos na carcinogênese
+colorretal, qual das alternativas melhor explica a patogênese desse tumor?
+Alternativas:
+(alternativa A)
+Acúmulo de mutações no gene TP53 como evento inicial da tumorigênese.
+(alternativa B)
+Mutação nos genes BRCA1 e BRCA2, levando à instabilidade cromossômica.
+(alternativa C) (CORRETA)
+Inativação do gene APC, levando à ativação descontrolada da via Wnt/β-catenina.
+(alternativa D)
+Ativação constitutiva da telomerase, induzindo senescência precoce das células epiteliais.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 23 de 24
+
+Resposta comentada:
+A carcinogênese colorretal é um processo multifatorial e progressivo, com diferentes vias
+moleculares envolvidas. A mutação no gene APC (polipose adenomatosa do cólon) é um evento
+precoce na maioria dos casos de câncer colorretal esporádico e hereditário, especialmente na
+polipose adenomatosa familiar (PAF). O gene APC é um regulador crucial da via Wnt/β-catenina,
+responsável pelo controle da proliferação celular. Quando APC está inativado, há um acúmulo
+anômalo de β-catenina no núcleo celular, ativando a transcrição de genes pró-proliferativos, como
+c-Myc e Cyclin D1, levando à formação de adenomas e, posteriormente, ao carcinoma invasivo.
+A polipose familial do cólon é uma doença genética de herança autossômica dominante, com alta
+penetrância, causada por mutações no gene APC (adenomatous polyposis coli), situado no braço
+longo do cromossomo 5 (5q21-22). Este gene supressor de tumor controla a proliferação celular
+da mucosa do cólon pela via de sinalização WNT/β-catenina. A doença caracteriza-se por grande
+número de pólipos, variando de dezenas a milhares, que recobrem a mucosa do cólon.
+Distratores:
+Mutação nos genes BRCA1 e BRCA2, levando à instabilidade cromossômica.
+Os genes BRCA1 e BRCA2 estão mais relacionados ao câncer de mama e ovário hereditários, e
+não à carcinogênese colorretal.
+Acúmulo de mutações no gene TP53 como evento inicial da tumorigênese.
+A mutação no gene TP53 é um evento tardio na progressão do câncer colorretal, e não o fator
+inicial da tumorigênese.
+Ativação constitutiva da telomerase, induzindo senescência precoce das células epiteliais.
+A ativação da telomerase evita a senescência celular, mas seu papel isolado não inicia a
+tumorigênese colorretal.
+Portanto, a alternativa B é a correta, pois explica o mecanismo molecular mais frequente
+envolvido na carcinogênese do cólon.
+Referências:
+FILHO, Geraldo B. Bogliolo - Patologia. 10. ed. Rio de Janeiro: Guanabara Koogan, 2021. E-book.
+p. 778. ISBN 9788527738378. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527738378/. Acesso em: 27 fev. 2025.
+Pág. 778.
+KUMAR, Vinay; ABBAS, Abul K.; ASTER, Jon C. Robbins & Cotran Patologia: Bases
+Patológicas das Doenças. 10. ed. Rio de Janeiro: GEN Guanabara Koogan, 2023. E-book. p.
+304. ISBN 9788595159174. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595159174/. Acesso em: 27 fev. 2025.
+Pág. 304.
+
+000154.81001c.d3aac7.1f39a5.090338.d39fdc.8f9208.d900d
+
+Pgina 24 de 24
+
+

@@ -1,0 +1,760 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA
+FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina III
+Professor (es):
+
+Período: 202601
+
+Turma:
+
+Data: 09/04/2026
+
+N1 ESPECÍFICA - MEDICINA - MCM III - 2026.1 1ª CHAMADA - 09/ABRIL
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 19240 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+(AFYA REDENÇÃO) Um grupo de pesquisadores deseja realizar uma revisão
+científica e, após aplicação da estratégia PICO, definiu-se a seguinte pergunta de
+investigação: "Entre gestantes com diabetes gestacional, o acompanhamento
+nutricional é mais eficaz do que o cuidado pré-natal habitual na redução de
+complicações maternas?"
+
+acervo.vip
+
+Qual estratégia de busca representa melhor essa pergunta na base de dados?
+Alternativas:
+(alternativa A)
+(gestante* AND "diabetes gestacional") OR ("acompanhamento nutricional" AND
+"pré-natal habitual") AND (complica* materna*).
+(alternativa B)
+(gestante* OR "diabetes gestacional") AND ("acompanhamento nutricional") AND
+("pré-natal habitual") AND (complica* materna*).
+(alternativa C)
+(gestante* AND "diabetes gestacional") AND ("acompanhamento nutricional" OR
+"pré-natal habitual") AND (complica* materna*).
+(alternativa D) (CORRETA)
+(gestante* AND "diabetes gestacional") AND ("acompanhamento nutricional") AND
+("pré-natal habitual") AND (complica* materna*).
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 1 de 16
+
+Resposta comentada:
+P: gestantes com diabetes gestacional.
+I: acompanhamento nutricional.
+C: cuidado pré-natal habitual.
+O: redução de complicações maternas.
+Análise das assertivas:
+(gestante* AND "diabetes gestacional") AND ("acompanhamento nutricional") AND
+("pré-natal habitual") AND (complica* materna*). Esta alternativa está correta
+porque contempla integralmente os quatro componentes da estrutura PICO. O
+operador AND é utilizado entre todos os blocos conceituais, garantindo que os
+estudos recuperados abordem simultaneamente população, intervenção,
+comparação e desfecho. As aspas asseguram a recuperação de expressões
+compostas de forma exata, evitando fragmentação semântica. O truncamento em
+“gestante*” e “complica*” amplia a sensibilidade ao incluir variações morfológicas
+(singular, plural e diferentes terminações). A organização sintática evita
+ambiguidade quanto à precedência dos operadores, garantindo coerência lógica da
+busca.
+(gestante* AND "diabetes gestacional") OR ("acompanhamento nutricional" AND
+"pré-natal habitual") AND (complica* materna*). Esta alternativa está incorreta
+porque utiliza o operador OR entre o bloco da população e os demais componentes.
+Considerando a precedência lógica habitual das bases de dados, o operador AND
+tende a ser processado antes do OR. Assim, a estratégia pode recuperar estudos
+que abordem apenas gestantes com diabetes gestacional, mesmo que não incluam
+intervenção, comparação ou desfecho definidos. Isso amplia indevidamente a busca
+e compromete a especificidade necessária para responder à pergunta estruturada
+em PICO.
+(gestante* OR "diabetes gestacional") AND ("acompanhamento nutricional") AND
+("pré-natal habitual") AND (complica* materna*). Esta alternativa está incorreta
+porque utiliza OR entre os termos que definem a população. Na estrutura PICO, a
+população é composta por gestantes com diabetes gestacional, o que exige
+interseção entre os dois conceitos. O uso de OR permite recuperar estudos que
+abordem apenas gestantes sem diabetes gestacional ou apenas diabetes
+gestacional fora do contexto de gestação. Dessa forma, a estratégia compromete a
+precisão conceitual da população definida.
+(gestante* AND "diabetes gestacional") AND ("acompanhamento nutricional" OR
+"pré-natal habitual") AND (complica* materna*). Esta alternativa está incorreta
+porque utiliza OR entre intervenção e comparação. Na estrutura PICO, a
+comparação pressupõe análise entre duas estratégias distintas. O uso de OR
+permite a recuperação de estudos que abordem apenas uma das condutas, sem
+necessariamente realizar comparação entre elas. Isso reduz a capacidade de
+identificar estudos comparativos e compromete a fidelidade à pergunta de
+investigação.
+
+Referência:
+ESTEITIE, Rania. Fundamentos de pesquisa clínica. Porto Alegre: AMGH, 2015. Ebook, pág. 13. ISBN 9788580555127.
+Feedback:
+-2ª QUESTÃO
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 2 de 16
+
+Enunciado:
+(AFYA MANACAPURU) Durante a disciplina de Métodos Científicos em Medicina, os
+estudantes analisam o seguinte resumo de um artigo científico:
+O objetivo deste estudo foi identificar indicadores de desigualdades sociais
+associados à mortalidade por neoplasias na população adulta brasileira. Utilizou-se
+como método uma revisão de literatura, estabelecendo-se a pergunta norteadora:
+qual o efeito das desigualdades sociais na mortalidade por neoplasias na população
+adulta brasileira? Foram identificados 567 trabalhos, sendo 22 considerados
+elegíveis. Identificou-se uma diversidade de indicadores, como o Índice de
+Desenvolvimento Humano e o Índice de Gini, entre outros, que avaliaram
+primordialmente diferenças de renda, escolarização, desenvolvimento humano e
+vulnerabilidade. Não foi estabelecido um único padrão de associação entre os
+indicadores e as diferentes neoplasias, assim como não se identificou um indicador
+único capaz de explicar o efeito da desigualdade social em todos os níveis de área e
+por óbitos por todos os tipos de neoplasias, mas identificou-se que a mortalidade é
+influenciada pelas desigualdades sociais e que o estudo dos indicadores permite
+definir qual deles melhor explica os óbitos. Não foi identificado um padrão único de
+associação entre os indicadores sociais e os diferentes tipos de neoplasias, sendo
+possível descrever a variedade de indicadores utilizados, os tipos de estudo
+empregados e as estratégias analíticas adotadas.
+COSTA, A. C. O.; RAMOS, D. O.; SOUSA, R. P. Ciência & Saúde Coletiva, v. 29, n. 8, p. e19602022, ago.
+2024. (adaptado)
+
+Com base nas informações apresentadas no resumo, avalie a alternativa que
+relaciona corretamente o tipo de revisão empregado, suas características e
+finalidades.
+Alternativas:
+(alternativa A)
+Revisão narrativa, pois apresenta discussão ampla do tema a partir de estudos
+selecionados sem critérios explícitos, priorizando interpretação subjetiva e
+atualização conceitual da literatura.
+(alternativa B)
+Revisão sistemática, pois responde a uma questão específica, sendo estruturada
+com critérios rigorosos de inclusão, avaliação de risco de viés e síntese quantitativa
+padronizada dos resultados.
+(alternativa C)
+Revisão integrativa, pois reúne e sintetiza resultados quantitativos de estudos
+teóricos e empíricos, incluindo diferentes delineamentos, com etapas definidas de
+seleção, avaliação e interpretação crítica.
+(alternativa D) (CORRETA)
+Revisão de escopo, pois busca mapear a produção científica disponível, identificar a
+variedade de abordagens utilizadas e apontar lacunas do conhecimento por meio
+de síntese descritiva.
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 3 de 16
+
+Resposta comentada:
+Revisão de escopo, pois busca mapear a produção científica disponível, identificar a
+variedade de abordagens utilizadas e apontar lacunas do conhecimento por meio
+de síntese descritiva. Correta. O objetivo do estudo é explorar quais indicadores
+foram utilizados e como se relacionam com o fenômeno investigado, caracterizando
+mapeamento da literatura. A pergunta norteadora é ampla e compatível com a
+estratégia PCC, típica de revisões de escopo, cujo foco é descrever evidências e
+apontar lacunas.
+Revisão integrativa, pois reúne e sintetiza resultados quantitativos de estudos
+teóricos e empíricos, incluindo diferentes delineamentos, com etapas definidas de
+seleção, avaliação e interpretação crítica. Incorreta. A revisão integrativa busca
+integrar e aprofundar o conhecimento sobre um tema, podendo propor definições
+conceituais ou análises interpretativas mais amplas; não se restringe à análise
+quantitativa. No resumo, o foco está no mapeamento de indicadores e na
+identificação de lacunas, sem integração conceitual ou construção teórica
+aprofundada, o que não corresponde à finalidade principal desse tipo de revisão.
+Revisão narrativa, pois apresenta discussão ampla do tema a partir de estudos
+selecionados sem critérios explícitos, priorizando interpretação subjetiva e
+atualização conceitual da literatura. Incorreta. O resumo apresenta número de
+estudos identificados e elegíveis, evidenciando processo estruturado de busca e
+seleção. Mas a revisão narrativa não exige sistematização metodológica nem
+explicitação de critérios, o que a torna incompatível com as características
+descritas.
+Revisão sistemática, pois responde à questão estruturada com critérios rigorosos de
+inclusão, avaliação de risco de viés e síntese quantitativa padronizada dos
+resultados. Incorreta. Embora haja pergunta norteadora e seleção de estudos
+elegíveis, não há descrição de avaliação de risco de viés (avaliação de qualidade). A
+ausência desses elementos metodológicos essenciais inviabiliza a classificação
+como revisão sistemática, que pode ser tanto qualitativa quanto quantitativa (com
+metanálise).
+Referências:
+CAVALCANTE, L.; OLIVEIRA, A. A. S. de. Métodos de revisão bibliográfica nos estudos
+científicos. Psicologia em Revista, v. 26, n. 1, p. 82-100, jan./abr. 2020. Disponível
+em: v26n1a06.pdf. Acesso em: 26 mar. 2026.
+GRUPO ĂNIMA EDUCAÇÃO. Manual REVISÃO BIBLIOGRÁFICA SISTEMÁTICA
+INTEGRATIVA: a pesquisa baseada em evidências. Belo Horizonte: Grupo Ănima
+Educação, 2014. Disponível em:
+http://biblioteca.cofen.gov.br/wpcontent/uploads/2019/06/manual_revisao_bibliografi
+ca-sistematica-integrativa.pdf. Acesso em: 26 mar. 2026.
+Feedback:
+-3ª QUESTÃO
+Enunciado:
+(AFYA PARAÍBA) Um grupo de pesquisadores pretende avaliar duas novas
+abordagens terapêuticas para pacientes com doença arterial coronariana grave: (1)
+um novo medicamento antiagregante plaquetário e (2) uma nova técnica de
+revascularização miocárdica minimamente invasiva. Para garantir um delineamento
+adequado, é necessário escolher o tipo correto de ensaio clínico para cada
+intervenção.
+Com base nesse cenário, assinale a alternativa correta.
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 4 de 16
+
+Alternativas:
+(alternativa A)
+Ensaios clínicos não são recomendados para avaliar intervenções cirúrgicas, sendo
+mais apropriado utilizar estudos observacionais para testar a nova técnica de
+revascularização miocárdica.
+(alternativa B)
+Ambas as abordagens devem ser avaliadas em um ensaio clínico farmacológico,
+pois esse é o delineamento mais rigoroso para qualquer intervenção.
+(alternativa C) (CORRETA)
+O ensaio clínico farmacológico deve ser utilizado para avaliar a eficácia do novo
+medicamento, enquanto um ensaio clínico cirúrgico é mais adequado para testar a
+nova técnica cirúrgica.
+(alternativa D)
+O ensaio clínico observacional é a melhor opção para avaliar as duas abordagens,
+pois permite acompanhar os resultados sem interferência na prática clínica.
+
+Resposta comentada:
+A alternativa correta é: “O ensaio clínico farmacológico deve ser utilizado para
+avaliar a eficácia do novo medicamento, enquanto um ensaio clínico cirúrgico é
+mais adequado para testar a nova técnica cirúrgica.”
+Ensaio clínico farmacológico: projetado para avaliar medicamentos em diferentes
+fases (I a IV), garantindo testes rigorosos de eficácia e segurança antes da
+aprovação para uso clínico. No caso apresentado, o novo antiagregante plaquetário
+deve ser avaliado por esse método.
+Ensaio clínico cirúrgico: utilizado para comparar novas técnicas cirúrgicas com
+procedimentos já estabelecidos, analisando aspectos como taxa de sucesso,
+complicações e tempo de recuperação. Como o estudo propõe testar uma nova
+técnica de revascularização miocárdica, essa abordagem é a mais adequada.
+Ensaios clínicos farmacológicos são voltados para medicamentos, enquanto técnicas
+cirúrgicas exigem ensaios clínicos específicos para esse tipo de intervenção.
+Portanto, medicamentos devem ser testados em ensaios clínicos farmacológicos e
+procedimentos cirúrgicos em ensaios clínicos cirúrgicos. Ainda, embora estudos
+observacionais possam complementar a análise de intervenções cirúrgicas, ensaios
+clínicos randomizados também podem ser conduzidos na cirurgia, comparando
+técnicas distintas.
+Referências:
+Desenhos de Pesquisa em Epidemiologia. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-21196/cfi/189!/4/2@100:0.00. Acesso em: 07 mar. 2025.
+GORDIS, L. Epidemiologia. 5.ª ed. Rio de Janeiro: Thieme Revinter, 2017. E-book, p.
+138. ISBN 9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788567661926/. Acesso
+em: 7 mar. 2025.
+Feedback:
+-4ª QUESTÃO
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 5 de 16
+
+Enunciado:
+(AFYA SALVADOR) Leia o resumo a seguir:
+Em pacientes cirúrgicos críticos, a suplementação parenteral de um aminoácido
+pode ter impacto em mortalidade, infecções e tempo de internação. Métodos: foram
+pesquisadas bases bibliográficas para identificar ensaios clínicos randomizados
+publicados a partir de 1985 que comparassem suplementação parenteral do
+aminoácido versus controle (placebo ou solução isonitrogenada) em adultos no pósoperatório internados em UTI. Estudos por via enteral ou via combinada foram
+excluídos. O desfecho primário foi mortalidade; desfechos secundários incluíram
+infecção e tempo de internação. Os resultados foram combinados por síntese
+estatística usando software específico, com estimativas de risco relativo e intervalos
+de confiança de 95% para desfechos dicotômicos e diferença média para desfechos
+contínuos; foi avaliada heterogeneidade e aplicado modelo de efeitos aleatórios.
+Resultados: sete ensaios foram incluídos. A mortalidade não apresentou redução
+estatisticamente significativa, enquanto infecções reduziram e o tempo de
+internação foi menor no grupo suplementado. Conclusão: A intervenção pode
+reduzir infecções e tempo de internação, mas não apresenta redução significativa
+na mortalidade dos pacientes.
+Com base exclusivamente nas informações do resumo e considerando os diferentes
+tipos de revisão da literatura e delineamentos de pesquisa, assinale a alternativa
+que melhor caracteriza o estudo descrito.
+Alternativas:
+(alternativa A)
+Trata-se de uma revisão integrativa, pois reúne estudos primários sobre uma
+intervenção clínica, sintetiza os achados de forma comparativa e discute seus
+efeitos sobre diferentes desfechos clínicos.
+(alternativa B)
+Trata-se de um ensaio clínico randomizado multicêntrico, pois compara intervenção
+e controle, analisa mortalidade, infecção e tempo de internação e utiliza medidas
+de efeito com intervalos de confiança.
+(alternativa C)
+Trata-se de uma revisão sistemática sem metanálise, pois a presença de
+heterogeneidade entre os estudos impede a combinação quantitativa dos
+resultados e exige interpretação narrativa.
+(alternativa D) (CORRETA)
+Trata-se de uma revisão sistemática com metanálise de ensaios clínicos
+randomizados, pois adota critérios explícitos de elegibilidade e combina
+quantitativamente os resultados dos estudos incluídos.
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 6 de 16
+
+Resposta comentada:
+Correta - Trata-se de uma revisão sistemática com metanálise de ensaios clínicos
+randomizados, pois adota critérios explícitos de elegibilidade e combina
+quantitativamente os resultados dos estudos incluídos. Esta alternativa está correta
+porque o resumo descreve uma busca em bases bibliográficas para identificação de
+estudos, critérios claros de inclusão e exclusão, seleção de ensaios clínicos
+randomizados, além de combinação estatística dos resultados por meio de medidas
+de efeito, intervalos de confiança, avaliação de heterogeneidade e modelo de
+efeitos aleatórios. Esses elementos caracterizam uma revisão sistemática com
+metanálise, e não um estudo primário.
+Incorreta - Trata-se de uma revisão integrativa, pois reúne estudos primários sobre
+uma intervenção clínica, sintetiza os achados de forma comparativa e discute seus
+efeitos sobre diferentes desfechos clínicos. Esta alternativa está incorreta porque,
+embora a revisão integrativa também possa reunir estudos primários e discutir seus
+resultados, o resumo apresenta elementos metodológicos mais específicos de
+revisão sistemática com metanálise, como critérios explícitos de elegibilidade,
+inclusão restrita a ensaios clínicos randomizados e combinação quantitativa dos
+achados. Na revisão integrativa, a síntese tende a ser mais ampla e interpretativa,
+frequentemente incluindo diferentes delineamentos, o que não corresponde ao
+estudo descrito.
+Incorreta - Trata-se de um ensaio clínico randomizado multicêntrico, pois compara
+intervenção e controle, analisa mortalidade, infecção e tempo de internação e
+utiliza medidas de efeito com intervalos de confiança. Esta alternativa está incorreta
+porque confunde um estudo primário com uma síntese de estudos. O resumo não
+descreve recrutamento de participantes, randomização conduzida pelos próprios
+autores ou seguimento de uma única amostra, mas sim busca em bases
+bibliográficas e inclusão de sete ensaios já publicados. Portanto, não se trata de um
+ensaio clínico randomizado, e sim de uma revisão de ensaios clínicos.
+Incorreta - Trata-se de uma revisão sistemática sem metanálise, pois a presença de
+heterogeneidade entre os estudos impede a combinação quantitativa dos
+resultados e exige interpretação narrativa. Esta alternativa está incorreta porque o
+próprio resumo informa que os resultados foram combinados por síntese estatística,
+com uso de medidas de efeito e modelo de efeitos aleatórios. A presença de
+heterogeneidade não impede, por si só, a metanálise; ao contrário, pode justificar a
+adoção de modelos estatísticos específicos, como o de efeitos aleatórios. Assim,
+houve metanálise, e não apenas síntese narrativa.
+Referências:
+GREENHALGH, T.. Como ler artigos científicos. 5. ed. Porto Alegre: ArtMed, 2015. Ebook. ISBN 9788582712238. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788582712238/. Acesso
+em: 27 fev. 2026.
+PIMENTEL, R. F. W. FERNANDES, S. L.. Effects of parenteral glutamine in critically ill
+surgical patients: a systematic review and meta-analysis. Nutr Hosp, 2020, jul
+13;34(3):616-621. DOI: 10.20960/nh.02949. Disponível em:
+https://pubmed.ncbi.nlm.nih.gov/32338020/. Acesso em: 27 fev. 2026.
+Feedback:
+-5ª QUESTÃO
+Enunciado:
+(AFYA PARNAÍBA) Um hospital avalia um novo antibiótico oral para tratamento de
+infecção urinária, comparando-o ao medicamento já utilizado no serviço devido à
+impossibilidade de utilização de placebo. O objetivo do estudo é verificar se o novo
+tratamento não é pior que o tratamento padrão. O grupo experimental mostrou
+resultados clínicos semelhantes ao padrão, mantendo eficácia próxima, dentro de
+uma margem clínica aceitável, porém com a vantagem de menor número de efeitos
+adversos e administração mais simples.
+Considerando o objetivo estabelecido pelos pesquisadores no cenário apresentado,
+como esse ensaio clínico pode ser classificado?
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 7 de 16
+
+Alternativas:
+(alternativa A)
+Ensaio de superioridade, pois compara dois tratamentos com a intenção de mostrar
+maior eficácia do novo medicamento.
+(alternativa B)
+Ensaio exploratório, pois avalia segurança inicial antes da comparação entre as
+intervenções terapêuticas para infecção urinária.
+(alternativa C)
+Ensaio de equivalência, pois pretende demonstrar que o novo tratamento apresenta
+benefício clínico superior ao padrão.
+(alternativa D) (CORRETA)
+Ensaio de não inferioridade, pois busca demonstrar desempenho clínico semelhante
+ao tratamento padrão dentro de limite aceitável.
+
+Resposta comentada:
+Ensaio de não inferioridade, pois busca demonstrar desempenho clínico semelhante
+ao tratamento padrão dentro de limite aceitável. (correta): O foco do estudo é
+verificar se o novo tratamento mantém eficácia próxima ao já existente, aceitando
+pequenas diferenças em troca de vantagens práticas, como melhor tolerabilidade
+ou facilidade de uso. Esse é o raciocínio típico desse tipo de ensaio.
+Ensaio de superioridade, pois compara dois tratamentos com intenção de mostrar
+maior eficácia do novo medicamento. (falsa): Estudos de superioridade procuram
+demonstrar que uma intervenção apresenta desempenho melhor do que a
+comparação, o que não corresponde ao objetivo descrito.
+Ensaio de equivalência, pois pretende demonstrar que o novo tratamento apresenta
+benefício clínico superior ao padrão. (falsa): Ensaios de equivalência procuram
+demonstrar proximidade entre tratamentos em ambas as direções dentro de limites
+definidos, e não a obtenção de benefício adicional.
+Ensaio exploratório, pois avalia segurança inicial antes da comparação entre as
+intervenções terapêuticas para infecção urinária. (falsa): Estudos exploratórios
+geralmente avaliam aspectos iniciais como segurança ou dose, sem comparação
+estruturada voltada ao desempenho clínico entre tratamentos.
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre:
+Artmed, 2021. E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 10
+out. 2025.
+VIEIRA, Sonia; HOSSNE, William S. Metodologia Científica para a Área de Saúde. 3.ª
+ed. Rio de Janeiro: GEN Guanabara Koogan, 2021. E-book. p. 1. ISBN
+9788595158658. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595158658/. Acesso
+em: 10 out. 2025.
+Feedback:
+-6ª QUESTÃO
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 8 de 16
+
+Enunciado:
+(AFYA GARANHUNS) Leia o resumo a seguir, proveniente do ensaio clínico
+desenvolvido por Cunha et al. (2017):
+Introdução: A atividade física deve ser parte fundamental de programas de
+promoção da saúde. No entanto, sua realização pode expor o indivíduo a riscos de
+lesão, o que torna necessária a adoção de medidas preventivas, como o
+aquecimento, com o intuito de minimizar os riscos e/ou contribuir para o melhor
+desempenho funcional. Objetivo: O propósito deste estudo foi analisar o efeito
+agudo de diferentes tempos de aquecimento sobre flexibilidade, equilíbrio e
+desempenho funcional em indivíduos fisicamente ativos. Método: Trinta e dois
+homens saudáveis ​que realizavam exercícios regularmente, pelo menos três vezes
+por semana, foram aleatoriamente incluídos em um de quatro grupos (n = 8): G0
+(sem aquecimento), G5 (aquecimento por cinco min.), G10 (aquecimento por dez
+min.) e G15 (aquecimento por quinze min.). Os indivíduos foram avaliados antes e
+depois da intervenção nas seguintes variáveis: flexibilidade do reto femoral (RF) e
+dos isquiotibiais (IT), equilíbrio corporal com olhos abertos e fechados e
+desempenho funcional por meio dos testes de salto triplo horizontal (STH) e shuttle
+run (SR - corrida de vai e vem). O aquecimento foi realizado em uma esteira
+ergométrica entre 70% e 80% da frequência cardíaca máxima estimada para a
+idade. Resultado: Não houve diferenças significativas na flexibilidade e no equilíbrio
+nas comparações intra e intergrupos (p > 0,05). Contudo, houve melhora
+significativa do desempenho funcional somente no G10 na comparação intragrupo
+para as variáveis STH (de 5,88 ± 0,55 para 6,23 ± 0,66; p=0,0051) e SR (de 4,72 ±
+0,13 para 4,61 ± 0,13; p=0,0194). Conclusão: O aquecimento durante 10 minutos
+parece melhorar o desempenho funcional em indivíduos ativos, podendo também
+ser uma alternativa viável para a prevenção de lesão.
+Fonte: CUNHA, Franklin Gadelha et al. Efeito do aquecimento sobre a flexibilidade e
+o desempenho funcional: Ensaio clínico randomizado. Revista Brasileira de Medicina
+do Esporte, v. 23, p. 385-389, 2017.
+Com base no resumo apresentado, identifique o tipo de desfecho utilizado para os
+indivíduos.
+Alternativas:
+(alternativa A)
+A prevenção de lesão é um desfecho substituto.
+(alternativa B)
+O desempenho funcional é um desfecho substituto.
+(alternativa C) (CORRETA)
+O desempenho funcional é um desfecho clínico.
+(alternativa D)
+A prevenção de lesão é um desfecho clínico.
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 9 de 16
+
+Resposta comentada:
+Resposta correta: O desempenho funcional é um desfecho clínico.
+Desfechos substitutos são parâmetros indiretos que se pressupõe que predizem
+resultados clínicos, mas não são diretamente relacionados ao bem-estar do
+paciente. Neste exemplo, o desempenho funcional foi testado diretamente, sendo
+observados resultados. Já os desfechos clínicos são aqueles que impactam
+diretamente a saúde ou o bem-estar do paciente, como o desempenho funcional
+nos testes de salto triplo horizontal (STH) e shuttle run (SR), avaliados no estudo
+apresentado, que avaliam a capacidade de executar atividades funcionais e físicas
+de forma prática.
+A prevenção de lesão não foi mensurada, apenas sugerida na conclusão. Ou seja,
+prevenção de lesão pode ser, conceitualmente, um desfecho clínico, porque se
+refere a um evento diretamente relevante para a saúde do paciente. Entretanto,
+pelas informações apresentadas no resumo, não é um desfecho clínico “utilizado no
+estudo”. Tanto a flexibilidade quanto o equilíbrio, que podem ser indicativos de
+saúde, foram testados diretamente, tornando-os desfechos clínicos. Contudo, no
+trabalho não foram observadas diferenças estatísticas entre eles; contudo, isso não
+os caracteriza como desfechos substitutos.
+Referências:
+VIEIRA, Sonia; HOSSNE, William S. Metodologia Científica para a Área de Saúde. 3.ª
+ed. Rio de Janeiro: GEN Guanabara Koogan, 2021. E-book. p. 1. ISBN
+9788595158658. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595158658/. Acesso
+em: 20 jan. 2025.
+ALMEIDA FILHO, Naomar de; BARRETO, Mauricio L. Epidemiologia & Saúde:
+fundamentos, métodos, aplicações. 2014, p. 699-699. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-21196/cfi/189!/4/2@100:0.00. Acesso em: 19 jan. 2025.
+GORDIS, Leon. Epidemiologia. 5.ª ed. Rio de Janeiro: Thieme Revinter, 2017. E-book,
+p. 138. ISBN 9788567661926. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788567661926/. Acesso
+em: 19 jan. 2025.
+Feedback:
+-7ª QUESTÃO
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Uma pesquisadora deseja investigar o efeito de um novo
+protocolo de exercícios físicos supervisionados em pacientes com artrite de joelho,
+comparando-o a um outro grupo de pacientes com artrite no joelho, mas que
+recebeu apenas orientações educativas. O foco é a redução da dor e melhoria da
+mobilidade articular, observadas após um período de 12 semanas de
+acompanhamento.
+Considerando os princípios da Medicina Baseada em Evidências, indique qual das
+seguintes formulações representa a estratégia mais apropriada para estruturar a
+questão de pesquisa científica.
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 10 de 16
+
+Alternativas:
+(alternativa A) (CORRETA)
+Em pacientes com osteoartrite de joelho (P), qual o efeito de exercícios físicos
+supervisionados (I) em comparação a orientações educativas (C) sobre a redução
+da dor e melhoria da mobilidade articular (O) em 12 semanas (T).
+(alternativa B)
+Em pacientes com osteoartrite de joelho (P), qual o efeito de 12 semanas de
+exercícios físicos supervisionados (I), em comparação a orientações educativas (C),
+sobre a redução da dor e melhoria da mobilidade articular (O)?
+(alternativa C)
+Em pacientes com osteoartrite de joelho (P), qual o efeito de exercícios físicos
+supervisionados (I) sobre a redução da dor e melhoria da mobilidade articular em
+12 semanas (C) em comparação a orientações educativas (O)?
+(alternativa D)
+Em pacientes com osteoartrite de joelho (P), para a redução da dor e melhoria da
+mobilidade articular (I) em comparação a orientações educativas (C), qual o efeito
+de exercícios físicos supervisionados (O) após 12 semanas (T)?
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 11 de 16
+
+Resposta comentada:
+A alternativa correta é “Em pacientes com osteoartrite de joelho (P), qual o efeito
+de exercícios físicos supervisionados (I) em comparação a orientações educativas
+(C) sobre a redução da dor e melhoria da mobilidade articular (O) em 12 semanas
+(T)?”, pois ela aplica corretamente a estratégia PICOT (População: pacientes com
+osteoartrite de joelho; Intervenção: exercícios físicos supervisionados; Controle:
+orientações educativas; Outcome/desfecho: redução da dor e melhoria da
+mobilidade; Tempo: 12 semanas), incorporando o componente "T" (Tempo), que é
+fundamental na situação descrita, já que o acompanhamento temporal é essencial
+para avaliar a progressão dos efeitos da intervenção, diferenciando-se do PICO.
+Esta é a única alternativa correta, pois apresenta todos os elementos do acrônimo
+PICOT:
+P (paciente) = pacientes com osteoartrite de joelho - população de interesse do
+estudo.
+I (intervenção) = exercícios físicos supervisionados — intervenção que a
+pesquisadora deseja investigar.
+C (controle/comparação) = orientações educativas - intervenção comparativa que
+serve como controle.
+O (outcome) = redução da dor e melhoria da mobilidade articular - desfecho de
+interesse do estudo.
+T (tempo) = em 12 semanas - tempo de duração do estudo
+Nem todo estudo apresenta uma intervenção comparativa ou tratamento
+tradicional para usar como controle; em alguns casos, o "C" pode ser identificado
+como "nenhuma intervenção". Outra observação importante é que os elementos do
+acrônimo PICO não precisam necessariamente se apresentar na ordem exibida
+acima; o importante é que todos estejam representados na pergunta de pesquisa.
+Na Medicina Baseada em Evidências, tudo começa com uma boa pergunta. Se a
+pergunta é vaga, a busca é ruim, a evidência é irrelevante e a decisão clínica falha.
+Ou seja: pergunta bem construída = decisão clínica melhor.
+Incorretas:
+A alternativa “Em pacientes com osteoartrite de joelho (P), qual o efeito de 12
+semanas de exercícios físicos supervisionados (I) em comparação a orientações
+educativas (C) sobre a redução da dor e melhoria da mobilidade articular (O)?” está
+incorreta porque utiliza incorretamente a estrutura PICO, omite o aspecto temporal,
+que é crucial no tema proposto, e o inclui na intervenção (I).
+A alternativa "Em pacientes com osteoartrite de joelho (P), qual o efeito de
+exercícios físicos supervisionados (I) sobre a redução da dor e melhoria da
+mobilidade articular em 12 semanas (C) em comparação a orientações educativas
+(O)?" está incorreta porque troca as letras dos componentes, atribuindo "O" ao
+controle (orientações educativas) e "C" ao outcome (redução da dor e melhoria da
+mobilidade), além de não incluir o tempo (T).
+A alternativa "Em pacientes com osteoartrite de joelho (P), para a redução da dor e
+melhoria da mobilidade articular (I) em comparação a orientações educativas (C),
+qual o efeito de exercícios físicos supervisionados (O) após 12 semanas (T)?” está
+incorreta porque troca as letras dos componentes, atribuindo "O" à intervenção
+(exercícios físicos supervisionados) e "I" ao outcome (redução da dor e melhoria da
+mobilidade).
+Referência:
+ROUQUAYROL, Maria Z.; GURGEL, Marcelo. Rouquayrol - Epidemiologia e saúde. Rio
+de Janeiro: MedBook Editora, 2017. E-book. 9786557830000. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786557830000/. Acesso em: 10
+out. 2025.
+Feedback:
+-8ª QUESTÃO
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 12 de 16
+
+Enunciado:
+(AFYA PORTO VELHO) Pesquisadores avaliaram o impacto de uma intervenção para
+redução da obesidade infantil em municípios do interior de Minas Gerais. O estudo
+incluiu 12 municípios com características sociodemográficas semelhantes. Seis
+municípios foram sorteados para receber um programa composto por capacitação
+de professores, reformulação do cardápio escolar e campanhas educativas voltadas
+às famílias. Os outros seis mantiveram as práticas habituais. Após 18 meses, foram
+comparadas as prevalências de sobrepeso e obesidade entre escolares de 6 a 10
+anos nos municípios de intervenção e controle. A análise considerou os municípios
+como unidades de alocação e avaliação do efeito da intervenção.
+Nesse contexto, analise o delineamento descrito e classifique o tipo de estudo,
+relacionando suas características metodológicas.
+Alternativas:
+(alternativa A)
+Ensaio clínico duplo-cego randomizado, pois os escolares foram acompanhados
+longitudinalmente e comparados entre grupos dos municípios.
+(alternativa B)
+Estudo transversal comparativo, pois a unidade de prevalência foi medida ao final
+do período em todos os grupos estudados.
+(alternativa C)
+Estudo de coorte prospectivo, pois é um seguimento temporal para observação da
+ocorrência de desfechos em participantes.
+(alternativa D) (CORRETA)
+Ensaio comunitário randomizado, pois a intervenção foi alocada ao acaso por
+municípios e foram avaliados desfechos em nível populacional.
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 13 de 16
+
+Resposta comentada:
+Correta:
+Ensaio comunitário randomizado, pois a intervenção foi alocada ao acaso por
+municípios e ele avaliou desfechos em nível populacional. Justificativa: O estudo
+descreve um ensaio comunitário randomizado, pois: a alocação foi aleatória
+(randomizada) no município (e não no indivíduo); e a intervenção foi aplicada em
+nível coletivo (escolas e comunidade); O objetivo foi avaliar o impacto populacional
+da estratégia. Ensaios comunitários são utilizados quando a intervenção atua sobre
+grupos inteiros, influenciando comportamentos e desfechos de saúde em nível
+populacional.
+Incorretas:
+Ensaio clínico duplo-cego randomizado, pois os escolares foram acompanhados
+longitudinalmente e comparados entre grupos. Justificativa: Embora haja
+acompanhamento longitudinal, a randomização e a intervenção não ocorreram no
+nível individual, mas no nível municipal, o que descaracteriza qualquer tipo de
+ensaio clínico.
+Estudo de coorte prospectivo, pois é um seguimento temporal para observação da
+ocorrência de desfechos em participantes. Justificativa: Em estudos de coorte, os
+participantes são observados conforme sua exposição natural, sem intervenção do
+pesquisador.
+Estudo transversal comparativo, pois a unidade de prevalência foi medida ao final
+do período em todos os grupos estudados. Justificativa: Apesar de utilizar
+prevalência como medida, o estudo envolveu intervenção, acompanhamento e
+comparação entre grupos previamente alocados aleatoriamente, não se tratando de
+delineamento transversal observacional, cuja observação ocorre em apenas um
+momento no tempo.
+Referência:
+VIEIRA, Sonia; HOSSNE, William S. Metodologia Científica para a Área de Saúde. 3.ª
+ed. Rio de Janeiro: GEN Guanabara Koogan, 2021.
+Feedback:
+-9ª QUESTÃO
+Enunciado:
+(AFYA ITACOATIARA) Leia o resumo a seguir:
+Objetivo: Avaliar a eficácia e a segurança da vacina BNT162b2 na prevenção de
+COVID-19 sintomática em indivíduos com 16 anos ou mais. Realizou-se um ensaio
+clínico randomizado, duplo-cego, controlado por placebo, envolvendo 43.548
+participantes recrutados em múltiplos países. Os participantes foram randomizados
+na proporção 1:1 para receber duas doses da vacina BNT162b2 ou placebo, com
+intervalo de 21 dias entre as aplicações. O desfecho primário foi a ocorrência de
+COVID-19 sintomática confirmada laboratorialmente a partir de 7 dias após a
+segunda dose. A eficácia da vacina foi estimada pela redução do risco relativo de
+infecção no grupo vacinado em comparação ao grupo placebo. Foram registrados
+eventos adversos locais e sistêmicos, além de eventos adversos graves. A eficácia
+observada foi de 95% (IC 95%, 90,3–97,6). O perfil de segurança foi considerado
+aceitável, com predominância de eventos adversos leves a moderados.
+Com base no resumo apresentado, responda:
+a) Identifique a fase do ensaio clínico descrito (I, II, III ou IV). (0,5 ponto)
+b) Cite três características gerais da fase identificada, justificando sua resposta com
+base no resumo apresentado. (1,0 ponto)
+Alternativas:
+--
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 14 de 16
+
+Resposta comentada:
+Identifique a fase do ensaio clínico descrito (I, II, III ou IV).
+Trata-se de um ensaio clínico de Fase III.
+Cite três características gerais da fase identificada, justificando sua resposta com
+base no resumo apresentado.
+Três características gerais da Fase III:
+1️ - Grande número de participantes.
+Ensaios de Fase III envolvem milhares de participantes para avaliar eficácia e
+segurança em larga escala. No resumo, o estudo incluiu 43.548 participantes, o que
+é compatível com estudos confirmatórios de grande porte, típicos da Fase III.
+2 - Avaliação de eficácia clínica comparativa
+A Fase III tem como objetivo principal confirmar a eficácia do medicamento ou
+vacina em comparação com placebo ou tratamento padrão. No estudo apresentado,
+houve randomização 1:1. O grupo intervenção foi comparado ao placebo. O
+desfecho primário foi a ocorrência de COVID-19 sintomática. Foi calculada eficácia
+de 95%. Dessa forma, esses elementos caracterizam avaliação confirmatória de
+eficácia clínica.
+3 - Desenho randomizado e duplo-cego
+Ensaios clínicos de Fase III utilizam, em geral, desenho metodológico rigoroso para
+confirmar a eficácia e segurança antes da aprovação regulatória. No resumo, o
+estudo foi descrito como randomizado, duplo-cego e controlado por placebo. Essas
+características indicam que a randomização reduz viés de seleção e distribui fatores
+de confusão de forma equilibrada entre os grupos. O fato de ser duplo-cego reduz
+viés de aferição e viés de desempenho, pois nem participantes nem pesquisadores
+sabem quem recebeu a intervenção. O fato de ter controle por placebo permite
+comparação direta da eficácia. Esse nível de rigor metodológico é característico da
+Fase III, cujo objetivo é produzir evidência confirmatória com alta validade interna.
+4 - Avaliação ampliada de segurança
+Na Fase III, além da eficácia, ocorre avaliação mais abrangente de eventos
+adversos, incluindo eventos graves. No resumo, foram registrados eventos adversos
+locais e sistêmicos, foram monitorados eventos adversos graves e foi descrito perfil
+de segurança aceitável. Isso demonstra monitoramento sistemático de segurança
+em larga escala. Além destas, outras características podem existir: estudo
+multicêntrico/internacional; produção de evidência para registro regulatório e
+confirmação de eficácia após estudos preliminares.
+Referências:
+FLETCHER, Grant S. Epidemiologia clínica: elementos essenciais. Porto Alegre:
+Artmed, 2021. E-book. ISBN 9786558820161. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786558820161/. Acesso em: 10
+out. 2025.
+VIEIRA, Sonia; HOSSNE, William S. Metodologia Científica para a Área de Saúde. 3.ª
+ed. Rio de Janeiro: GEN Guanabara Koogan, 2021. E-book. p. 1. ISBN
+9788595158658. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595158658/. Acesso
+em: 22 fev. 2026.
+Feedback:
+-10ª QUESTÃO
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 15 de 16
+
+Enunciado:
+(AFYA PORTO VELHO) Um grupo de pesquisadores pretende investigar o uso de
+aplicativos móveis no acompanhamento de pacientes com diabetes mellitus na
+Atenção Primária à Saúde. Ao realizar buscas preliminares, a equipe identificou
+estudos com diferentes delineamentos (ensaios clínicos, estudos observacionais,
+pesquisas qualitativas e relatos de experiência), abordando múltiplos desfechos,
+como adesão ao tratamento, controle glicêmico, educação em saúde e satisfação
+do usuário. Diante da heterogeneidade metodológica e conceitual encontrada, os
+pesquisadores optam por desenvolver um estudo com o objetivo de mapear os
+tipos de intervenções descritas, caracterizar os desfechos avaliados, identificar
+lacunas do conhecimento e organizar a produção científica existente sobre o tema,
+sem realizar metanálise ou síntese quantitativa de efeito.
+Nesse contexto, analise o cenário apresentado e responda aos itens a seguir.
+a) Qual é o tipo de revisão mais adequada para o tipo de investigação descrita no
+texto? (0,5 ponto)
+b) Qual é a aplicabilidade desse tipo de revisão no contexto apresentado e por que
+utilizá-la ao propósito metodológico do estudo? Explique. (1,0 ponto)
+Alternativas:
+-Resposta comentada:
+a) Revisão de escopo (scoping review). (0,5) No cenário descrito, há
+heterogeneidade de desenhos de estudo e múltiplos desfechos, o que reforça a
+adequação da revisão de escopo como estratégia metodológica.
+b) A revisão de escopo é adequada porque tem como finalidade mapear, identificar
+e categorizar a produção científica disponível sobre determinado tema,
+especialmente quando há diversidade de delineamentos, intervenções e desfechos.
+Nesse contexto, permite organizar o conhecimento existente, descrever tipos de
+estudos e identificar lacunas, sem necessariamente avaliar qualidade metodológica
+ou estimar medidas de efeito combinadas. (0,5)
+A revisão de escopo é indicada quando o objetivo do pesquisador é explorar a
+extensão, variedade e características da literatura disponível sobre um tema amplo
+ou ainda pouco sistematizado. Diferentemente da revisão sistemática, seu foco
+principal não é responder a uma pergunta clínica específica com síntese
+quantitativa, mas mapear evidências, conceitos, métodos e lacunas. (0,5)
+Referência:
+CAVALCANTE, L.; OLIVEIRA, A. A. S. de. Métodos de revisão bibliográfica nos estudos
+científicos. Psicologia em Revista, v. 26, n. 1, p. 82-100, jan./abr. 2020. Disponível
+em: v26n1a06.pdf.
+Feedback:
+--
+
+000192.400014.ddb272.807fb6.2e73f2.287802.90f45c.e11a3
+
+Página 16 de 16
+
+

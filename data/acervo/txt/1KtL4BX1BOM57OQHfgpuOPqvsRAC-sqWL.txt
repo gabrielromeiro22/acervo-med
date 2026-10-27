@@ -1,0 +1,1069 @@
+Treine as provas online! www.acervo.vip
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Métodos Científicos em Medicina I
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 06/11/2025
+
+N1 ESPECÍFICA - MEDICINA - PROUNIFIES - MCM I - 2025.2 - 1ª
+CHAMADA - 06/NOVEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17562 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+145780
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(IESVAP) Um grupo de estudantes de Medicina desenvolve um projeto de extensão em
+uma comunidade com alto índice de doenças evitáveis, com foco na promoção de saúde
+e autocuidado. As ações incluem oficinas educativas mensais, visitas domiciliares e a
+criação de materiais informativos. Com duração prevista de seis meses, o projeto
+enfrenta desafios como baixa adesão inicial e dificuldades de comunicação com
+lideranças locais.
+Diante desse cenário, o grupo pretende implementar estratégias eficazes para monitorar
+a execução das atividades e avaliar os resultados.
+Quais das medidas a seguir representam boas práticas de monitoramento nesse
+contexto?
+I. Definir indicadores quantitativos e qualitativos de avaliação, alinhados aos objetivos do
+projeto.
+II. Realizar registros contínuos das atividades desenvolvidas por meio de relatórios
+periódicos.
+III. Avaliar os resultados apenas na última semana, após a conclusão de todas as ações.
+IV. Conduzir reuniões de devolutiva com a comunidade, promovendo escuta e troca de
+percepções.
+V. Coletar dados de impacto exclusivamente com os membros da equipe do projeto.
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 1 de 24
+
+Treine as provas online! www.acervo.vip
+
+Alternativas:
+(alternativa A)
+As afirmativas I, III e V estão corretas.
+(alternativa B)
+As afirmativas III, IV e V estão corretas.
+(alternativa C)
+As afirmativas II, IV e V estão corretas.
+(alternativa D) (CORRETA)
+As afirmativas I, II e IV estão corretas.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O monitoramento eficaz de um projeto de extensão exige planejamento,
+acompanhamento contínuo e participação ativa dos envolvidos. A definição de
+indicadores (I) é essencial para medir o progresso. Os registros periódicos (II) permitem
+ajustes durante a execução. A devolutiva com a comunidade (IV) valoriza a participação
+social e reforça a pertinência das ações. Avaliar resultados apenas no final (III) impede
+correções em tempo oportuno, e restringir a coleta de impacto à equipe (V) compromete
+a representatividade dos dados.
+Referência:
+GIL, Antonio C. Métodos e Técnicas de Pesquisa Social. 7. ed. Grupo GEN, 2019. E-book.
+ISBN 9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 05 jun.
+2024.
+Feedback:
+--
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 2 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Semanas]
+7
+[Habilidades]
+Definir estratégias de monitoramento de um projeto de
+extensão.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Áreas de Conhecimento]
+Metodologia Científica
+[Subáreas de Conhecimento]
+Conceitos Básicos
+[IES]
+IESVAP
+2ª QUESTÃO
+
+Código da questão:
+
+146369
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(UNIDEP) Durante a elaboração da estratégia de busca para um projeto de iniciação
+científica sobre “atividade física e saúde mental em adolescentes”, um estudante utilizou
+diferentes operadores booleanos em bases como PubMed e BVS. Ele percebeu que
+pequenas alterações nos conectores AND, OR e NOT geravam grandes diferenças no
+número e no tipo de resultados. A seguir, são apresentadas quatro estratégias de busca
+utilizadas por ele:
+1. "physical activity" AND "mental health"
+2. "physical activity" OR "mental health"
+3. "physical activity" NOT "mental health"
+4. "physical activity" AND adolescents
+Com base nessas estratégias e nas funções dos operadores booleanos, assinale a
+alternativa que apresenta a caracterização mais adequada do efeito dos operadores
+utilizados.
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 3 de 24
+
+Treine as provas online! www.acervo.vip
+
+Alternativas:
+(alternativa A)
+O uso de AND em (4) aumenta a sensibilidade da busca, trazendo estudos que
+mencionem qualquer um dos termos.
+(alternativa B)
+O uso de OR em (2) restringe os resultados aos estudos que tratam simultaneamente de
+atividade física e saúde mental.
+(alternativa C) (CORRETA)
+O uso de AND em (1) limita os resultados apenas aos estudos que contenham os dois
+termos simultaneamente.
+(alternativa D)
+O uso de NOT em (3) amplia a busca, incluindo estudos sobre atividade física e saúde
+mental separadamente.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A alternativa correta é: "O uso de AND em (1) limita os resultados apenas aos estudos
+que contenham os dois termos simultaneamente, pois o operador AND tem efeito
+restritivo: ele recupera apenas os registros que contenham os dois termos
+simultaneamente, neste caso, estudos que abordem tanto "physical activity" quanto
+"mental health".
+A alternativa: "O uso de OR em (2) restringe os resultados aos estudos que tratam
+simultaneamente de atividade física e saúde mental" está incorreta porque o operador
+OR tem efeito aditivo, ou seja, aumenta o número de resultados ao buscar qualquer um
+dos termos.
+A alternativa: "O uso de NOT em (3) amplia a busca, incluindo estudos sobre atividade
+física e saúde mental separadamente" também está incorreta, pois o operador NOT exclui
+os resultados que contenham o segundo termo, restringindo a busca — e não ampliando.
+A alternativa que afirma: "O uso de AND em (4) aumenta a sensibilidade da busca,
+trazendo estudos que mencionem qualquer um dos termos" está incorreta, pois o AND,
+na verdade, aumenta a especificidade ao reduzir o total de registros recuperados.
+Referências:
+DE OLIVEIRA CRUZ LATORRACA, C. et al. Busca em bases de dados eletrônicas da área da
+saúde: por onde começar. Diagnóstico & Tratamento , p. 59–63, 2019. Disponível em:
+https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf. Acesso em: 23
+out. 2025.
+LAKATOS, Eva Maria. Fundamentos de metodologia científica. 9. ed. Rio de Janeiro:
+Editora Atlas, 2021. ISBN 978-85-97-02657-3. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597026580/. Acesso em: 23 out.
+2025.
+Feedback:
+-000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 4 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Semanas]
+3
+[Áreas de Conhecimento]
+Básica
+[Subáreas de Conhecimento]
+Conceitos Básicos
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIDEP
+[Habilidades]
+Diferenciar descritores e palavras-chave, compreendendo
+como buscar e selecionar descritores no DECS e MESH para
+melhorar a precisão das buscas;
+
+3ª QUESTÃO
+Código da questão:
+
+128558
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(FASA VIC) Considere o seguinte trecho extraído de um artigo científico:
+"O aumento na produção científica nos últimos anos tem demonstrado a importância da
+padronização das normas de citação e referenciamento para garantir a reprodutibilidade
+e credibilidade dos estudos acadêmicos" (Silva et al., 2021, p. 45).
+Com base no trecho apresentado, assinale a alternativa correta.
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 5 de 24
+
+Treine as provas online! www.acervo.vip
+
+Alternativas:
+(alternativa A)
+O trecho é um exemplo de citação indireta, seguindo as normas Vancouver, que adotam
+numeração no lugar do nome do autor.
+(alternativa B)
+O trecho é um exemplo de citação direta, seguindo as normas Vancouver, pois inclui o
+sobrenome do autor e ano entre parênteses.
+(alternativa C)
+O trecho é um exemplo de citação indireta, pois apresenta a ideia do autor com palavras
+próprias, seguindo as normas da ABNT, que utilizam o sistema autor-data.
+(alternativa D) (CORRETA)
+O trecho é um exemplo de citação direta, seguindo as normas ABNT, pois está entre
+aspas e contém a referência ao autor, ano e página.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+A alternativa "O trecho é um exemplo de citação direta, seguindo as normas Vancouver,
+pois inclui o sobrenome do autor e ano entre parênteses." está errada, pois a norma
+Vancouver utiliza numeração no corpo do texto para indicar as referências, e não o
+sistema autor-data.
+A alternativa "O trecho é um exemplo de citação indireta, pois apresenta a ideia do autor
+com palavras próprias, seguindo as normas da ABNT, que utilizam o sistema autor-data."
+está errada, pois a citação apresentada não é indireta, já que está entre aspas e reproduz
+exatamente o trecho do autor.
+A alternativa "O trecho é um exemplo de citação direta, seguindo as normas ABNT, pois
+está entre aspas e contém a referência ao autor, ano e página." está correta, pois a
+citação direta está formatada conforme as normas da ABNT (NBR 10520:2023),
+apresentando autor, ano e página entre parênteses.
+A alternativa "O trecho é um exemplo de citação indireta, seguindo as normas
+Vancouver, que adotam numeração no lugar do nome do autor." está errada, pois a
+citação não é indireta, e a norma Vancouver utiliza números ao invés do sistema autordata.
+Referência:
+SAMPIERI, R. H.; COLLADO, C. F.; LUCIO, M. D. P. B. Metodologia de Pesquisa . 5. ed. Porto
+Alegre: Penso, 2013. ISBN 9788565848367. Disponível em: Minha Biblioteca. Acesso em:
+26 fev. 2025.
+
+Feedback:
+--
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 6 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Semanas]
+4
+[Subáreas de Conhecimento]
+Conceitos Básicos
+Conceitos Básicos
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Habilidades]
+Contruir referência utilizando as normas da ABNT ou
+Vancouver.
+[Áreas de Conhecimento]
+Metodologia Científica
+[IES]
+FASA VIC
+4ª QUESTÃO
+
+Código da questão:
+
+145961
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(AFYA MANACAPURU) Um grupo de estudantes de medicina deseja desenvolver um
+projeto em uma comunidade ribeirinha da região Norte do Brasil, com foco na saúde da
+mulher. O interesse é compreender os determinantes sociais que dificultam o acesso aos
+serviços de saúde.
+Com base nesse tema, analise as sentenças abaixo.
+I. Descrever o perfil socioeconômico e cultural das mulheres ribeirinhas usuárias
+do Sistema Único de Saúde.
+II. Realizar rodas de conversa com as mulheres ribeirinhas sobre a importância da
+prevenção e do autocuidado em saúde.
+III. Mapear as barreiras de saúde percebidas pelas mulheres ribeirinhas quando
+necessitam acessar os serviços de saúde.
+IV. Desenvolver, junto com as mulheres ribeirinhas, material educativo para a
+prevenção de doenças ginecológicas.
+São sentenças que apresentam somente objetivos de pesquisa apenas:
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 7 de 24
+
+Treine as provas online! www.acervo.vip
+
+Alternativas:
+(alternativa A)
+II e IV.
+(alternativa B) (CORRETA)
+I e III.
+(alternativa C)
+II e III.
+(alternativa D)
+I e II.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Alternativa correta I e III.
+A sentença I corresponde ao objetivo de pesquisa, pois envolve a descrição e análise de
+dados sobre características socioeconômicas e culturais. Esse tipo de objetivo gera
+conhecimento científico, sem intervenção direta na comunidade.
+A sentença II corresponde ao objetivo de extensão, pois implica interação educativa e
+dialógica com a comunidade, levando informações e trocando saberes. O foco aqui não é
+produzir dados de pesquisa, mas promover educação em saúde.
+A sentença III é um objetivo de pesquisa, pois busca investigar e sistematizar informações
+sobre dificuldades de acesso. Esse mapeamento gera evidências que podem
+fundamentar políticas públicas.
+A sentença IV é um objetivo de extensão, pois envolve a produção de instrumentos
+práticos e educativos em parceria com a comunidade. O propósito é aplicável e voltado
+ao cuidado em saúde, não à produção de conhecimento científico.
+Referências:
+BRASIL, 2018. Ministério da Educação. Conselho Nacional de Educação. Resolução 7 de
+18 de dezembro de 2018. Política de extensão universitária do Ministério da Educação.
+Disponível em: http://portal.mec.gov.br/index.php?
+option=com_docman&view=download&alias=104251-rces0078&category_slug=dezembro-2018-pdf&Itemid=30192. Acesso em: 30 jan. 2025.
+GONÇALVES, Nadia Gaiofatto. Indissociabilidade entre Ensino, Pesquisa e Extensão: um
+princípio necessário. Perspectiva, [S. l.], v. 33, n. 3, p. 1229–1256, 2016. DOI:
+10.5007/2175-795X.2015v33n3p1229. Disponível em:
+https://periodicos.ufsc.br/index.php/perspectiva/article/view/2175-795X.2015v33n3p1229.
+Acesso em: 5 jun. 2024.
+
+Feedback:
+--
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 8 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Semanas]
+5
+[Subáreas de Conhecimento]
+Conceitos Básicos
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Habilidades]
+Diferenciar objetivos de pesquisa e extensão.
+[Áreas de Conhecimento]
+Metodologia Científica
+[IES]
+AFYA MANACAPURU
+5ª QUESTÃO
+
+Código da questão:
+
+145179
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(AFYA IPATINGA) Um estudante de Medicina está desenvolvendo a introdução de seu
+projeto de extensão sobre as consequências do uso da inteligência artificial (IA) no
+aprendizado de estudantes. Para elaborar uma revisão bibliográfica no PubMed, ele
+precisa definir uma estratégia de busca de artigos.
+Considerando o cenário, assinale a alternativa que apresenta a melhor abordagem para
+selecionar os termos de busca.
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 9 de 24
+
+Treine as provas online! www.acervo.vip
+
+Alternativas:
+(alternativa A)
+Selecionar palavras e expressões em português como “inteligência artificial” e
+“aprendizado de estudantes” e usá-las como descritores, após tradução para o inglês.
+(alternativa B)
+Criar uma lista de termos sinônimos em português e inglês, como “inteligência artificial”,
+“AI learning”, “aprendizagem mediada por IA”, e usá-los como descritores.
+(alternativa C) (CORRETA)
+Definir palavras-chave como “IA na aprendizagem” e “uso de IA por estudantes” e
+escolher descritores correlatos padronizados no MeSH, como “Artificial Intelligence” e
+“Education”.
+(alternativa D)
+Usar termos como “AI in education”, “inteligência artificial” e “estudantes”, incluindo
+alguns termos em português (DeCS) e outros em inglês (MeSH) como descritores.
+
+Grau de dificuldade:
+
+Médio
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 10 de 24
+
+Treine as provas online! www.acervo.vip
+
+Resposta comentada:
+-Definir palavras-chave como “IA na aprendizagem” e “uso de IA por estudantes” e
+escolher descritores correlatos padronizados no MeSH, como “Artificial Intelligence” e
+“Education”.
+A alternativa correta apresenta o caminho adequado para busca no PubMed: combina
+palavras-chave livres, escolhidas pelo pesquisador para refletir o tema (“IA na
+aprendizagem”, “uso de IA por estudantes”), com descritores padronizados, nesse caso
+do MeSH, como “Artificial Intelligence” e “Education”.
+Essa combinação maximiza a abrangência e a precisão da busca, garantindo que tanto
+artigos indexados com descritores padronizados quanto artigos com termos livres sejam
+recuperados.
+Análise das alternativas incorretas:
+-Selecionar palavras e expressões em português como “inteligência artificial” e
+“aprendizado de estudantes” e usá-las como descritores, após tradução para o inglês.
+Limitar-se a termos em português e usar tradução manual como descritor é impreciso. O
+PubMed indexa majoritariamente com termos MeSH em inglês, e traduções livres podem
+não corresponder ao vocabulário controlado, resultando em perda de artigos relevantes.
+-Usar termos como “AI in education”, “inteligência artificial” e “estudantes”, incluindo
+alguns termos em português (DeCS) e outros em inglês (MeSH) como descritores.
+Misturar termos em português e inglês como descritores, sem seguir o vocabulário
+padronizado, reduz a precisão da busca e gera resultados inconsistentes.
+-Criar uma lista de termos sinônimos em português e inglês, como “inteligência artificial”,
+“AI learning”, “aprendizagem mediada por IA”, e usá-los como descritores.
+Criar termos livres e usá-los como descritores sem verificar correspondência com MeSH
+ou DeCS compromete a recuperação de literatura indexada, resultando em busca
+incompleta.
+Referências:
+DE OLIVEIRA CRUZ LATORRACA, C. et al. Busca em bases de dados eletrônicas da área da
+saúde: por onde começar? Diagnóstico & Tratamento , p. 59–63, 2019. Disponível em:
+https://docs.bvsalud.org/biblioref/2019/09/1015338/rdt_v24n2_59-63.pdf. Acesso em: 8
+ago. 2023.
+LAKATOS, Eva Maria. Fundamentos de metodologia científica. 9. ed. Rio de Janeiro:
+Editora Atlas, 2021. ISBN 978-85-97-02657-3. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597026580/. Acesso em: 24 mai.
+2024.
+PEREIRA, Maurício G. ; GALVÃO, Taís F. ; SILVA, Marcus T. Saúde baseada em evidências.
+1. ed. Grupo GEN, 2016. E-book. ISBN 9788527728843. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788527728843/. Acesso em: 05 jun.
+2024.
+Feedback:
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 11 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Semanas]
+3
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Áreas de Conhecimento]
+Metodologia Científica
+[Subáreas de Conhecimento]
+Conceitos Básicos
+[IES]
+AFYA IPATINGA
+[Habilidades]
+Diferenciar descritores e palavras-chave, compreendendo
+como buscar e selecionar descritores no DECS e MESH para
+melhorar a precisão das buscas;
+6ª QUESTÃO
+
+Código da questão:
+
+145968
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(AFYA MANACAPURU) Um grupo de estudantes de Medicina, sob a orientação de um
+docente, decide desenvolver um projeto em uma comunidade ribeirinha, com foco na
+saúde materna. O projeto envolve três dimensões: durante as aulas, os estudantes
+estudam protocolos clínicos sobre pré-natal; em seguida, aplicam questionários para
+identificar barreiras de acesso das mulheres grávidas ao pré-natal; e, por fim, realizam
+oficinas de educação em saúde com gestantes e parteiras tradicionais da comunidade.
+Considerando o contexto descrito, assinale a alternativa que diferencia corretamente
+ensino, pesquisa e extensão.
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 12 de 24
+
+Treine as provas online! www.acervo.vip
+
+Alternativas:
+(alternativa A)
+O estudo dos protocolos clínicos corresponde à pesquisa, pois organiza informações
+científicas; a aplicação dos questionários corresponde ao ensino, pois exercita o trabalho
+de campo; e as oficinas de educação em saúde correspondem à extensão, pois ampliam
+o acesso da comunidade ao conhecimento científico.
+(alternativa B)
+O estudo dos protocolos clínicos corresponde ao ensino, pois está centrado na formação
+teórica; a aplicação dos questionários corresponde à extensão, pois se limita ao contato
+com a comunidade sem gerar conhecimento científico; e as oficinas de educação em
+saúde estão relacionadas à pesquisa, pois seriam apenas uma forma de observar práticas
+locais.
+(alternativa C)
+O estudo dos protocolos clínicos corresponde à extensão, pois se restringe a aproximar
+teoria da prática sem relação direta com a formação; a aplicação dos questionários
+corresponde ao ensino, pois seriam apenas um exercício de coleta; e as oficinas de
+educação em saúde correspondem à pesquisa, pois se limitam a descrever práticas
+culturais.
+(alternativa D) (CORRETA)
+O estudo dos protocolos clínicos corresponde ao ensino, pois é voltado ao aprendizado
+estruturado dos estudantes; a aplicação dos questionários corresponde à pesquisa, pois
+busca gerar conhecimento científico sobre barreiras de acesso; e as oficinas de educação
+em saúde correspondem à extensão, pois estabelecem um diálogo entre universidade e
+comunidade.
+
+Grau de dificuldade:
+
+Médio
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 13 de 24
+
+Treine as provas online! www.acervo.vip
+
+Resposta comentada:
+O estudo dos protocolos clínicos corresponde ao ensino, pois é voltado ao aprendizado
+estruturado dos estudantes; a aplicação dos questionários corresponde à pesquisa, pois
+busca gerar conhecimento científico sobre barreiras de acesso; e as oficinas de educação
+em saúde correspondem à extensão, pois estabelecem um diálogo entre universidade e
+comunidade. Correta, porque diferencia adequadamente as três dimensões, sendo o
+estudo dos protocolos clínicos do pré-natal, o ensino, pois promove a formação
+acadêmica teórica dos estudantes. A aplicação de questionários para identificar barreiras,
+por seu caráter de investigação sistemática para produzir conhecimento científico, tratase de pesquisa. E as oficinas de educação em saúde correspondem à extensão, incluindo
+ação prática junto à comunidade, estabelecendo troca de saberes e intervenção social.
+Considera-se incorreta qualquer alternativa que não atribua o estudo de protocolos ao
+ensino, a aplicação de questionários à pesquisa e as oficinas com gestantes e parteiras
+à extensão simultaneamente. Dizer que o estudo de protocolos é pesquisa ou extensão
+está errado, pois se trata de atividade formativa teórica e estruturada, típica do ensino.
+Classificar a aplicação de questionários como ensino ou extensão também é inadequado,
+uma vez que seu objetivo central é investigar de modo sistemático e produzir dados
+sobre barreiras de acesso, caracterizando pesquisa. Por fim, afirmar que as oficinas são
+ensino ou pesquisa é equivocado, porque essas ações consistem em intervenção
+educativa e diálogo bidirecional universidade–comunidade, definindo a natureza
+extensionista. Qualquer combinação que acerte apenas uma ou duas dimensões
+permanece incorreta, pois a resposta válida precisa reconhecer, ao mesmo tempo, ensino
+nos protocolos, pesquisa nos questionários e extensão nas oficinas.
+Referências:
+BRASIL, 2018. Ministério da Educação. Conselho Nacional de Educação. Resolução 7 de
+18 de dezembro de 2018. Política de extensão universitária do Ministério da Educação.
+Disponível em: http://portal.mec.gov.br/index.php?
+option=com_docman&view=download&alias=104251-rces0078&category_slug=dezembro-2018-pdf&Itemid=30192. Acesso em: 30 jan. 2025.
+GONÇALVES, Nadia Gaiofatto. Indissociabilidade entre Ensino, Pesquisa e Extensão: um
+princípio necessário. Perspectiva [S. l.], v. 33, n. 3, p. 1229–1256, 2016. DOI:
+10.5007/2175-795X.2015v33n3p1229. Disponível em:
+https://periodicos.ufsc.br/index.php/perspectiva/article/view/2175-795X.2015v33n3p1229.
+Acesso em: 5 jun. 2024.
+Feedback:
+--
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 14 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Habilidades]
+Diferenciar pesquisa, ensino e extensão no Ensino Superior.
+[Semanas]
+2
+[Subáreas de Conhecimento]
+Conceitos Básicos
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Áreas de Conhecimento]
+Metodologia Científica
+[IES]
+AFYA MANACAPURU
+7ª QUESTÃO
+
+Código da questão:
+
+143214
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(FMIT) Um professor de Medicina solicitou a seus alunos que analisassem trechos
+retirados da seção de metodologia de diferentes trabalhos. O objetivo era identificar
+quais dos trechos descrevem metodologias de projetos de pesquisa e quais são
+característicos de metodologias de projetos de extensão universitária.
+A seguir, são apresentados quatro trechos hipotéticos. Analise com atenção.
+I. "Foi aplicado um questionário validado para avaliar os conhecimentos de gestantes
+sobre infecções congênitas. Após a coleta, os dados foram tabulados e analisados
+estatisticamente, utilizando-se testes de associação e regressão."
+II. "Realizamos rodas de conversa com adolescentes em escolas públicas sobre
+prevenção de infecções sexualmente transmissíveis. A atividade foi construída
+coletivamente com os participantes, e os relatos foram utilizados para reformular a ação
+em ciclos sucessivos."
+III. "Os pacientes foram alocados aleatoriamente em dois grupos: um grupo controle, com
+seguimento ambulatorial padrão, e um grupo intervenção, que recebeu adicionalmente
+sessões educativas. A eficácia foi medida com base em desfechos clínicos após 6 meses."
+IV. "Durante três meses, os alunos do curso de Medicina participaram de mutirões em
+comunidades rurais, oferecendo orientações sobre cuidados com a hipertensão e aferindo
+pressão arterial dos moradores. As ações foram registradas em diário de campo."
+Assinale a alternativa que indica corretamente a associação entre metodologias de
+pesquisa e extensão.
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 15 de 24
+
+Treine as provas online! www.acervo.vip
+
+Alternativas:
+(alternativa A)
+I e II referem-se a projetos de extensão; III e IV referem-se a projetos de pesquisa.
+(alternativa B) (CORRETA)
+I e III referem-se a projetos de pesquisa; II e IV referem-se a projetos de extensão.
+(alternativa C)
+I e II referem-se a projetos de pesquisa; III e IV referem-se a projetos de extensão.
+(alternativa D)
+I e III referem-se a projetos de extensão; II e IV referem-se a projetos de pesquisa.
+
+Grau de dificuldade:
+
+Médio
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 16 de 24
+
+Treine as provas online! www.acervo.vip
+
+Resposta comentada:
+Alternativa correta:
+I e III referem-se a projetos de pesquisa; II e IV referem-se a projetos de extensão.
+Justificativa:
+A afirmativa I descreve um estudo observacional com coleta de dados estruturada e
+análise estatística, típico de uma pesquisa científica quantitativa. A afirmativa III descreve
+claramente um ensaio clínico randomizado, com grupo controle e medição de desfechos
+clínicos, o que caracteriza uma metodologia experimental, também de natureza
+científica.
+Já as afirmativas II e IV se referem a atividades de extensão: na II, há ênfase em rodas de
+conversa com participação ativa do público, característica de ações educativas e
+formativas em saúde; na IV, temos mutirões em comunidades rurais, com foco
+assistencial e educativo, voltado ao serviço e ao envolvimento comunitário, sem intenção
+explícita de produzir conhecimento científico generalizável.
+Alternativa incorreta:
+I e III referem-se a projetos de extensão; II e IV referem-se a projetos de pesquisa.
+Justificativa:
+Incorreta, pois inverte completamente as classificações. I e III têm estrutura científica
+clara (análise estatística, grupo controle, desfechos clínicos). Já II e IV são ações
+extensionistas de educação em saúde e atendimento comunitário.
+Alternativa incorreta:
+I e II referem-se a projetos de extensão; III e IV referem-se a projetos de pesquisa.
+Justificativa:
+A afirmativa I está incorretamente classificada como extensão. O uso de instrumento
+validado, análise estatística e foco investigativo caracterizam pesquisa. A afirmativa II,
+sim, é uma ação de extensão, mas a IV também pertence a essa categoria, tornando a
+associação incorreta.
+Alternativa incorreta:
+I e II referem-se a projetos de pesquisa; III e IV referem-se a projetos de extensão.
+Justificativa:
+A afirmativa II não corresponde a um projeto de pesquisa, pois descreve um processo
+formativo em saúde com foco participativo e educativo, típico da extensão. A afirmativa
+III, por sua vez, apresenta claramente uma intervenção com metodologia experimental e
+controle de variáveis, o que caracteriza pesquisa científica.
+Referências:
+GIL, Antonio C. Métodos e Técnicas de Pesquisa Social. 7 ed. Grupo GEN, 2019. E-book.
+ISBN 9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 23 out.
+2025.
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. 1. ed. Grupo
+GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em: 23
+out. 2025.
+Feedback:
+--
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 17 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Semanas]
+7
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Habilidades]
+Identificar metodologia de pesquisa e extensão.
+[Áreas de Conhecimento]
+Metodologia Científica
+[Subáreas de Conhecimento]
+Conceitos Básicos
+[IES]
+FMIT
+
+8ª QUESTÃO
+Código da questão:
+
+146368
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(UNIDEP) João está redigindo seu primeiro projeto de pesquisa e, ao revisar o que
+escreveu, percebeu que incluiu diversas referências bibliográficas diretamente na
+introdução. Sua professora sugeriu que parte desse conteúdo deveria ser deslocada para
+outra seção do texto. João então revisou seu texto para alinhar com a estrutura correta
+de um projeto.
+Considerando esse caso, que atitude de João demonstra melhor compreensão sobre a
+separação entre introdução e referencial teórico?
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 18 de 24
+
+Treine as provas online! www.acervo.vip
+
+Alternativas:
+(alternativa A) (CORRETA)
+Transferir para o referencial teórico os parágrafos com descrição aprofundada de teorias
+e resultados de estudos anteriores.
+(alternativa B)
+Acrescentar mais dados numéricos na introdução para justificar a mudança de seção
+sugerida pela professora.
+(alternativa C)
+Manter na introdução todos os trechos com autores, pois reforçam a justificativa do tema
+e sua atualidade.
+(alternativa D)
+Remover da introdução qualquer citação bibliográfica, concentrando todas no referencial
+teórico.
+
+Grau de dificuldade:
+
+Fácil
+
+Resposta comentada:
+A alternativa correta é: Transferir para o referencial teórico os parágrafos com descrição
+aprofundada de teorias e resultados de estudos anteriores, pois o referencial teórico é o
+espaço apropriado para aprofundar conceitos, teorias e estudos prévios, enquanto a
+introdução deve apenas situar o problema de forma geral e justificar sua importância.
+Manter na introdução todos os trechos com autores, pois reforçam a justificativa do tema
+e sua atualidade: é incorreta, pois exagera o uso de autores na introdução.
+Remover da introdução qualquer citação bibliográfica, concentrando todas no referencial
+teórico: está errada ao excluir totalmente as citações da introdução, o que empobrece a
+argumentação.
+Acrescentar mais dados numéricos na introdução para justificar a mudança de seção
+sugerida pela professora é irrelevante para a distinção entre seções e não responde
+adequadamente à orientação recebida.
+Referência:
+GIL, Antonio C. Como Elaborar Projetos de Pesquisa. 7. ed. Grupo GEN, 2022. E-book.
+ISBN 9786559771653. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786559771653/. Acesso em: 23 out.
+2025.
+Feedback:
+--
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 19 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Semanas]
+6
+[Áreas de Conhecimento]
+Básica
+[Habilidades]
+Compreender aspectos do delineamento do método em
+projetos, tanto de pesquisa quanto de extensão.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Subáreas de Conhecimento]
+Conceitos Básicos
+[IES]
+UNIDEP
+9ª QUESTÃO
+
+Código da questão:
+
+145123
+
+Tipo da questão:
+
+Discursiva
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(AFYA PALMAS) A Prefeitura de Palmas mantém um parque urbano que se tornou um
+ponto de encontro e lazer para a população da terceira idade. O local oferece diversas
+atividades físicas, oficinas de artes plásticas e trabalhos manuais, e rodas de leitura. Esse
+será o local que você, aluno, e seu grupo terão para desenvolver um projeto de extensão,
+propondo atividades que visem à melhoria da qualidade de vida por meio de bem-estar
+físico e mental dos idosos frequentadores.
+a) Com base no contexto apresentado, escreva o objetivo geral e três objetivos
+específicos para o projeto de extensão. (1,5 pontos)
+Alternativas:
+-Grau de dificuldade:
+
+Médio
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 20 de 24
+
+Treine as provas online! www.acervo.vip
+
+Resposta comentada:
+A resposta deve ser redigida com verbos no infinitivo, contemplando um objetivo geral e
+três objetivos específicos.
+Objetivo geral:
+Promover a melhoria da qualidade de vida e do bem-estar físico e mental dos idosos
+frequentadores do parque, por meio da integração de atividades físicas e artísticas,
+contribuindo para o envelhecimento ativo e saudável.
+Não se deve confundir objetivos específicos com ações da metodologia porque:
+Objetivos específicos dizem respeito ao resultado que se deseja alcançar. Eles apontam
+para o que se pretende obter com o projeto ou atividade.
+Exemplo: Promover o desenvolvimento da autonomia dos alunos no estudo individual.
+Ações da metodologia são os meios utilizados para chegar a esse resultado. Elas
+descrevem o que será feito na prática para atingir o objetivo.
+Exemplo: Criar protocolos simples de acompanhamento para pacientes com risco
+cardiovascular, articulados com a equipe multiprofissional.
+Objetivos Específicos (há várias possibilidades, sendo algumas listadas a seguir):
+Estimular a prática de exercícios físicos adaptados à faixa etária, como alongamento,
+caminhada, yoga, pilates e jogos em equipe, como vôlei, futebol, atendendo às
+necessidades e interesses do público-alvo.
+Promover o desenvolvimento da expressão artística, como pintura, desenho e argila,
+incluindo trabalhos manuais, como crochê e bordado, atendendo às necessidades e
+interesses do público-alvo.
+Estimular a interação social e a expressão criativa entre os idosos, por meio de rodas de
+leitura, criando um ambiente de acolhimento e colaboração que ajude a reduzir a
+sensação de isolamento e a fortalecer os laços comunitários.
+Referências:
+GIL, Antonio C. Métodos e Técnicas de Pesquisa Social, 7. ed. Rio de Janeiro: Grupo GEN,
+2019. E-book. ISBN 9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 25 ago.
+2025.
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 6. ed. São Paulo: Atlas, 2017.
+EBook. ISBN 9788597012934. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597012934. Acesso em: 25 ago.
+2025.
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico. 9.
+ed. Atual São Paulo: Atlas, 2021. E-book. ISBN 9788597026559. Disponível em:
+https://integrada.minhabiblioteca.com.br/books/9788597026559. Acesso em: 25 ago.
+2025.
+Feedback:
+--
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 21 de 24
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Habilidades]
+Construir objetivo geral e específicos.
+[Semanas]
+5
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Áreas de Conhecimento]
+Metodologia Científica
+[Subáreas de Conhecimento]
+Conceitos Básicos
+[IES]
+AFYA PALMAS
+10ª QUESTÃO
+
+Código da questão:
+
+145948
+
+Tipo da questão:
+
+Discursiva
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+(UNIPTAN) Durante uma visita institucional à UBS (Unidade Básica de Saúde) do seu
+bairro, sua turma percebeu que muitos idosos atendidos não estavam tomando seus
+medicamentos de forma correta, esquecendo horários ou confundindo os remédios. A
+equipe da UBS mencionou que isso é comum e que faltam ações educativas regulares
+para esse público.
+Sua turma foi desafiada a propor uma intervenção simples de extensão que ajude os
+idosos da UBS a entender e organizar melhor o uso de seus medicamentos.
+a) Considerando os princípios da extensão universitária e o cenário apresentado, elabore
+uma proposta de metodologia para um projeto de extensão que envolva alunos do
+primeiro período na construção de uma intervenção educativa junto aos idosos da UBS.
+(1,5 pontos)
+A resposta deve descrever de forma clara e organizada as etapas da atividade a ser
+desenvolvida, a forma de participação dos alunos na ação, os recursos que serão
+utilizados, o público-alvo direto da intervenção e a forma de monitoramento da atividade.
+Alternativas:
+-Grau de dificuldade:
+
+Difícil
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 22 de 24
+
+Treine as provas online! www.acervo.vip
+
+Resposta comentada:
+Elementos que os alunos podem colocar na metodologia:
+Levantamento de demandas por meio de reunião com UBS, escola ou comunidade.
+Estudo prévio sobre o tema da intervenção com apoio do docente.
+Planejamento da ação em grupos de alunos.
+Criação de materiais educativos (cartazes, folders, vídeos, etc.).
+Execução de oficinas, palestras, rodas de conversa ou atividades lúdicas.
+Linguagem acessível e estratégias de escuta ativa durante a ação.
+Monitoramento contínuo da atividade com registro de participação, dificuldades
+encontradas e ajustes necessários.
+Avaliação da ação com coleta de feedback dos participantes e parceiros.
+Reunião de devolutiva com os envolvidos.
+Elaboração de relatório final com registros (fotos, lista de presença, reflexões).
+Sugestão de correção:
+Critério avaliado
+
+Descrição esperada na resposta
+
+Valo
+r
+
+1. Levantamento da
+demanda
+
+Explica como foi identificada a necessidade na comunidade
+0,3
+(ex.: conversa com profissionais, observação, escuta ativa).
+
+2. Planejamento da
+intervenção
+
+Relata de forma básica como os alunos se organizaram
+antes da ação (ex.: estudo prévio, divisão de tarefas,
+elaboração de material).
+
+0,4
+
+3. Execução da
+atividade
+
+Descreve como ocorreu a ação junto à comunidade ou
+público-alvo (ex.: roda de conversa, oficina, palestra).
+
+0,4
+
+4. Monitoramento e
+avaliação
+
+Indica alguma forma de acompanhar ou avaliar a ação (ex.:
+0,4
+observações, devolutiva, registro da experiência).
+
+Referências:
+GIL, Antonio C. Métodos e Técnicas de Pesquisa Social. 7. ed. Grupo GEN, 2019. E-book.
+ISBN 9788597020991. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788597020991/. Acesso em: 05 jun.
+2024.
+PEREIRA, Maurício G. Artigos Científicos - Como Redigir, Publicar e Avaliar. 1. ed. Grupo
+GEN, 2011. E-book. ISBN 978-85-277-2121-9. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/978-85-277-2121-9/. Acesso em: 05
+jun. 2024.
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 23 de 24
+
+Treine as provas online! www.acervo.vip
+
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+7
+[Subáreas de Conhecimento]
+Conceitos Básicos
+Metodologia Científica
+[Habilidades]
+Compreender aspectos do delineamento do método em
+projetos, tanto de pesquisa quanto de extensão.
+Identificar método de um projeto de extensão.
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[Áreas de Conhecimento]
+Metodologia Científica
+[IES]
+UNIPTAN
+
+000175.62001a.9b8fac.e63b96.985033.cf1421.b27203.f6103
+
+Página 24 de 24
+
+

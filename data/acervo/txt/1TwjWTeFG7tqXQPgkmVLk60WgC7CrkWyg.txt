@@ -1,0 +1,971 @@
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Clínica Integrada I
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+N1 ESPECÍFICA_6 PERIODO_14ABRIL_2025.1_CI I IRREGULAR
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 15591 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+
+www.acervo.top/ci-1 ou www.acervotop.com/ci-1
+
+(UNITPAC) Um homem de 61 anos, com histórico de hipertensão arterial sistêmica controlada e
+diabetes mellitus tipo 2, procura atendimento médico devido a tosse produtiva persistente há 4
+dias, associada a febre baixa (38°C), calafrios, fadiga e dificuldade para respirar ao se deitar.
+Refere também "cansaço excessivo" e "dor no peito". A dor é do tipo pleurítica, que piora com a
+tosse. Não há histórico de dor torácica tipo isquêmica, mas menciona que, nos últimos dias, a
+tosse tem se intensificado, principalmente à noite, com expectoração amarelada. Relata que tem
+sido mais difícil realizar suas atividades diárias, como caminhar até o banheiro. Ao exame físico,
+o paciente está afebril, mas apresenta taquipneia (22 respirações por minuto) e estertores finos
+em base pulmonar direita. A ausculta cardíaca está sem alterações significativas. O restante do
+exame físico não revela sinais de complicações graves.
+Os exames laboratoriais mostraram:
+Ureia: 35 mg/dL.
+Creatinina: 1,1 mg/dL.
+Leucócitos: 11.800/mm³ (predomínio de neutrófilos).
+PCR: 18 mg/dL.
+O exame radiológico do tórax revelou consolidação em lobo médio do pulmão direito, conforme
+imagem a seguir:
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 1 de 25
+
+Fonte: Hacking et al., 2025. Radiopaedia.org. Disponível em: https://doi.org/10.53347/rID-39216.
+Acesso em: 12 mar. 2025.
+Com base no caso apresentado, responda:
+a) Qual é o diagnóstico mais provável? Justifique sua resposta.
+b) Realize a estratificação de risco pelo CURB-65 e indique a modalidade do tratamento
+(Ambulatorial, Hospitalar, Unidade de Terapia Intensiva).
+c) Defina o manejo e esquema terapêutico do paciente.
+Alternativas:
+-Resposta comentada:
+a) O diagnóstico mais provável é pneumonia adquirida na comunidade (PAC), com base nos
+seguintes elementos clínicos e laboratoriais:
+Quadro clínico: tosse produtiva há quatro dias, febre (38°C), fadiga e desconforto
+respiratório. Esses sintomas são compatíveis com PAC, especialmente em idosos.
+Exame físico: presença de estertores crepitantes, sugerindo comprometimento
+pulmonar localizado.
+Radiografia de tórax: consolidação no lobo médio do pulmão direito, achado radiológico
+típico de pneumonia bacteriana.
+Exames laboratoriais: leucocitose (11.800/mm³) e proteína C reativa (PCR) elevada (18
+mg/dL).
+b) O CURB-65 é um escore clínico utilizado para avaliar a gravidade da pneumonia e ajudar na
+decisão sobre a necessidade de hospitalização. O escore leva em consideração cinco critérios:
+1. Confusão mental (C).
+2. Ureia sanguínea > 7 mmol/L (B).
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 2 de 25
+
+3. Taxa de respiração ≥ 30/min (R).
+4. Pressão arterial sistólica < 90 mmHg ou diastólica ≤ 60 mmHg (B).
+5. Idade ≥ 65 anos (65). Cada critério é pontuado com 1 ponto.
+A soma do escore pode ser usada para guiar o tratamento:
+• 0-1 ponto: Pode ser tratado ambulatorialmente.
+• 2 pontos: Tratamento ambulatorial, mas com avaliação cuidadosa.
+• 3-4 pontos: Hospitalização recomendada.
+• 5 pontos: Hospitalização urgente, com possível unidade de terapia intensiva (UTI).
+Avaliação do escore CURB-65 para este paciente:
+Confusão mental: ausente (0 pontos).
+Ureia: 35 mg/dL (≤ 40 mg/dL, 0 pontos).
+Frequência respiratória: 22 irpm (≤ 30 irpm, 0 pontos).
+Pressão arterial sistólica ≥ 90 mmHg e diastólica ≥ 60 mmHg (0 pontos).
+Idade ≥ 65 anos (1 ponto).
+O paciente apresenta 1 ponto no CURB-65, o que indica baixo risco de complicações e permite
+tratamento ambulatorial. Pacientes com CURB-65 de 0 a 1 geralmente podem ser manejados em
+regime domiciliar, desde que tenham suporte adequado e possibilidade de acompanhamento
+clínico.
+Tratamento proposto: modalidade de tratamento ambulatorial.
+c) Antibióticos:
+• Amoxicilina-clavulanato 875mg/125mg a cada 12 horas, para cobertura de patógenos típicos
+como Streptococcus pneumoniae e Haemophilus influenzae.
+• Alternativa: Doxiciclina 100mg a cada 12 horas ou Azitromicina 500mg no primeiro dia, seguida
+de 250mg/dia para cobertura de patógenos atípicos como Mycoplasma pneumoniae e Chlamydia
+pneumoniae.
+Sintomáticos:
+• Antipiréticos/analgésicos (paracetamol ou dipirona) para controle da febre e dor torácica.
+Monitoramento:
+• O paciente deve ser monitorado durante o tratamento ambulatorial, com reavaliação após 48-72
+horas. Se houver piora clínica, sinais de hipoxemia, instabilidade hemodinâmica ou dificuldade
+respiratória progressiva, a hospitalização deve ser reconsiderada.
+Justificativa para escolha terapêutica:
+• O escore CURB-65 de 2 pontos sugere que o paciente pode ser tratado ambulatorialmente, mas
+devido à sua idade avançada e comorbidades (hipertensão e diabetes), um acompanhamento
+cuidadoso e reavaliação após 48-72 horas são essenciais.
+• Amoxicilina-clavulanato é a escolha adequada devido à sua eficácia e cobertura ampla contra os
+principais agentes etiológicos da pneumonia comunitária.
+• A monitorização cuidadosa é fundamental para garantir que o paciente não desenvolva
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 3 de 25
+
+complicações, como insuficiência respiratória ou sepse.
+Referências:
+HACKING, C.; BELL, D.; CAMPOS, A.; et al. Pneumonia. Radiopaedia.org, 2025. Disponível em:
+https://doi.org/10.53347/rID-39216. Acesso em: 12 mar. 2025.
+JAMESON, J. Larry et al. Medicina Interna de Harrison - 2 Volumes - 20. McGraw Hill Brasil,
+2020.
+2ª QUESTÃO
+Enunciado:
+(FASA VIC) Paciente O.A.R, feminina, idade de 08 anos e 05 meses, frequenta creche, sem
+comorbidades prévias. Mora em casa de alvenaria com mãe, pai e 02 irmãos. Nega
+comorbidades prévias. Como histórico familiar, possui mãe sem comorbidades, pai com
+hipertensão arterial sistêmica. Irmão mais velho, hígido, e irmão mais novo, com 04 anos, possui
+diagnóstico de anemia de Fanconi e passou por transplante medular há 03 meses. Comparece à
+Unidade de Pronto Atendimento com quadro de tosse seca e rinorreia há 02 dias. A mãe relata:
+“ - Tem uns quatro dias que ela está dando febre direto, ficou bem molinha e não está comendo.
+No termômetro deu 39,3°C. Está tossindo muito e a garganta parece inflamada, está toda
+pintadinha e inflamada. O catarro começou a ficar amarelo desde ontem. Minha vizinha mandou
+eu dar amoxicilina, mas não melhorou e, para piorar, está com essas pintas no corpo e os
+olhinhos inflamados. Estou preocupada que seja pneumonia ou alergia. Eu esqueci algumas
+vacinas dela e agora estou com medo dela morrer.”
+Ao exame, observa-se paciente prostrada, febril (38,9°C), com taquipneia discreta, sem sinais
+de esforço respiratório e frequência cardíaca de 110 bpm. À inspeção, apresenta fotofobia,
+conjuntiva congesta sem coleções e pupilas isofotorreagentes. Na pele, há lesões
+maculopapulares homogêneas com pele saudável entre si, predominantemente na região
+retroauricular, com linfadenopatia bilateral no arco mandibular. A coloração é rubra, com
+distribuição esparsa pelo tórax e membros superiores. Na inspeção de nariz e orofaringe, as
+mucosas são eucromicas, com secreção amarelada em cavum, tonsilas livres bilateralmente.
+Ausculta pulmonar com murmúrios vesiculares bem distribuídos, sem esforço respiratório, mas
+com tosse frequente.
+Considerando o cenário apresentado acima, analise as assertivas:
+I. Trata-se de um quadro de rubéola; o tratamento é sintomático, com prevenção através de
+vacinação aos 12 meses. Não é necessária imunização ativa ou passiva dos contactantes.
+II. Trata-se de um quadro de exantema súbito, uma vez que surgiu junto com a febre, sendo
+necessário apenas tratamento sintomático e orientações.
+III. Trata-se de um quadro de infecção pelo paramixovírus; deve ser fornecido suporte clínico ao
+paciente, imunização passiva aos contactantes saudáveis e imunização passiva aos
+contactantes imunodeprimidos.
+IV. Trata-se de infecção pelo vírus Epstein-Barr, evidenciada por odinofagia e rash macular após
+o uso de amoxicilina, quadro este patognomônico.
+É correto o que se afirma em:
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 4 de 25
+
+Alternativas:
+(alternativa A) (CORRETA)
+Somente III está correta.
+(alternativa B)
+Somente I e II estão corretas.
+(alternativa C)
+Somente II e III estão corretas.
+(alternativa D)
+Somente IV está correta.
+
+Resposta comentada:
+O quadro é sugestivo de sarampo, causado pelo paramixovírus. As características clínicas
+incluem febre alta, exantema maculopapular iniciado na região retroauricular e sintomas
+respiratórios, o que exclui as demais alternativas.
+A assertiva I é incorreta, pois o tipo de exantema e o quadro febril não correspondem à rubéola.
+A assertiva II é incorreta, pois o exantema súbito surge ao final do quadro febril, e não
+concomitante a ele.
+A assertiva IV é incorreta, pois o quadro de infecção por Epstein-Barr não apresenta exantema
+maculopapular de aspecto específico associado ao uso de amoxicilina.
+Referência
+FAUCI, A. S. et al. Medicina Interna de Harrison. 18. ed. Rio de Janeiro: McGraw Hill, 2013.
+GOLDMAN, Lee; SCHAFER, Andrew I. Goldman-Cecil Medicina. Grupo GEN, 2022.
+3ª QUESTÃO
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 5 de 25
+
+Enunciado:
+(AFYA PARAIBA) Uma paciente de 25 anos de idade, com histórico de ciclos menstruais
+irregulares desde a adolescência, apresenta-se à consulta com queixa de amenorreia secundária
+há seis meses. Além disso, relata aumento de pelos faciais, acne persistente e ganho de peso
+progressivo nos últimos dois anos. Não há história de uso de contraceptivos hormonais
+recentemente. No exame físico, observa-se hirsutismo moderado na face e região lombar, acne
+inflamatória na face e tronco, e obesidade central.
+Considerando o caso acima, analise as afirmativas com relação a hipótese e diagnóstico:
+I. Sindrome dos ovários policisticos(SOP)- critério de Rotterdam, presença de ao menos dois dos
+três critérios diagnósticos: oligo-amenorreia, hiperandrogenismo clínico e/ou laboratorial e
+morfologia ultrassonográfica de policistose ovariana e exclusão de outras doenças que também
+cursam com hiperandrogenismo.
+II. Hiperplasia adrenal congênita (HAC)- oligo-amenorreia, hiperandrogenismo clínico e/ou
+laboratorial, dosagem de TSH, se alterado repetir a dosagem em nova mostra, juntamente com
+T4 livre e dosagem de testosterona total ou livre.
+III. Sindrome dos ovários policisticos(SOP)- oligo-amenorreia, hiperandrogenismo clínico e
+laboratorial. A solicitação de dosagens hormonais de prolactina e FSH são suficientes, havendo
+casos em que a dosagem de Hormônio Tireo Estimulante(Thyroid Stimulating Hormone –TSH)
+poderá também ser útil nesta avaliação.
+Está correto apenas o que se afirma em:
+Alternativas:
+(alternativa A) (CORRETA)
+I.
+(alternativa B)
+I, II, III.
+(alternativa C)
+I e II.
+(alternativa D)
+I e III.
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 6 de 25
+
+Resposta comentada:
+Para fins didáticos elegeremos um dos protocolos acima apresentados para o diagnóstico da
+SOP. O que é mais amplamente utilizado e que abrangerá maior número de pacientes é o critério
+de Rotterdam.(7) Portanto, levaremos em consideração, a presença de ao menos dois dos três
+critérios diagnósticos: oligo-amenorreia, hiperandrogenismo clínico e/ou laboratorial e morfologia
+ultrassonográfica de policistose ovariana. Além disso, a exclusão de outras doenças que também
+cursam com hiperandrogenismo constitui-se no quarto, e obrigatório, critério diagnóstico.
+Deve-se realizar o diagnóstico diferencial com outras causas de anovulação crônica, sendo as
+principais a hiperprolactinemia, as anovulações de origem hipotalâmica e a insuficiência ovariana
+prematura.(44) Para isso, a solicitação de dosagens hormonais de prolactina e FSH são
+suficientes, havendo casos em que a dosagem de Hormônio Tireo Estimulante (Thyroid
+Stimulating Hormone –TSH) poderá também ser útil nesta avaliação.
+Hiperplasia adrenal congênita (HAC) Dosagem de 17-alfa-hidroxiprogesterona (17OHP), dosado
+na fase folicular do ciclo. Em casos suspeitos confirma-se o diagnóstico através do teste da
+cortrosina.
+REFERÊNCIA BIBLIOGRÁFICA :
+Síndrome dos ovários policísticos. 3a ed. -- São Paulo: Federação Brasileira das Associações de
+Ginecologia e Obstetrícia (FEBRASGO), 2023. (Série, Orientações e Recomendações
+FEBRASGO, no.1/Comissão Nacional Especializada em Ginecologia Endócrina). 140p.
+4ª QUESTÃO
+Enunciado:
+(UNIDEP) Bernardo, 1 ano e 7 meses, foi levado para consulta na Unidade Básica de Saúde do
+seu bairro devido à piora de um quadro respiratório prévio. Segundo a mãe, o menino apresentou
+episódio de resfriado comum há aproximadamente 3 semanas, apresentando tosse produtiva e
+coriza hialina, tendo melhora parcial. No entanto, há uma semana, o lactente vem apresentando
+febre (temperatura axilar de 39,1º C), hiporexia e piora da tosse. Ao exame físico: eupneico,
+hiperemia de vestíbulos nasais e faringe, presença de gotejamento pós-nasal. Otoscopia com
+membrana timpânica transparente, brilhante e côncava.
+Em relação ao quadro clínico acima, analise as alternativas e assinale a correta.
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 7 de 25
+
+Alternativas:
+(alternativa A) (CORRETA)
+Trata-se de um caso de rinossinusite aguda bacteriana. Radiografias dos seios da face não estão
+indicadas para o diagnóstico, sendo esse feito de maneira clínica. No tratamento, podemos utilizar
+antibióticos de primeira linha, como penicilinas pertencentes ao grupo betalactâmicos ou
+penicilinas associadas com inibidores da betalactamase.
+(alternativa B)
+O paciente apresenta um quadro típico de otite média aguda, evidenciado pelas alterações em
+sua otoscopia. Como terapêutica, Bernardo pode receber amoxicilina-clavulanato por 10 a 14 dias
+a nível ambulatorial, além de medicações sintomáticas, como dipirona, paracetamol ou ibuprofeno
+em doses reduzidas.
+(alternativa C)
+Bernardo ainda está apresentando uma evolução benigna do seu quadro de resfriado comum. O
+médico deve prescrever somente medicação sintomática, pois provavelmente se trata de quadro
+viral, e solicitar à mãe que retorne com a criança se o quadro piorar (persistência do quadro por
+mais de 30 dias ou rebaixamento do nível de consciência).
+(alternativa D)
+O diagnóstico de Bernardo pelo médico pode ser feito pela combinação da análise da clínica do
+paciente, aliada aos resultados da coleta de uma hemocultura prévia. O tratamento para o quadro
+em questão deve ser feito com as medicações de primeira linha (macrolídeos), como por
+exemplo, amoxicilina ou amoxicilina-clavulanato de potássio.
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 8 de 25
+
+Resposta comentada:
+Resposta comentada:
+Bernardo apresenta inicialmente um quadro típico de resfriado comum. No curso da doença,
+apresenta melhora parcial seguida de rebaixamento do quadro (quadro bifásico), além de
+apresentar sintomas arrastados (≥ 10 dias), cursando com episódios febris. O quadro nos leva a
+pensar em uma complicação bacteriana – a rinossinusite bacteriana. A otoscopia não apresenta
+alterações, o que nos leva à exclusão de um quadro de otite média aguda.
+O diagnóstico de rinossinusite bacteriana aguda é eminentemente clínico, não sendo necessária a
+realização de exames de imagem ou coleta de culturas.
+O tratamento de primeira linha é feito com amoxicilina ou amoxicilina-clavulanato de potássio, que
+são drogas pertencentes à classe de betalactâmicos e penicilinas associadas com inibidores da
+betalactamase, respectivamente.
+De tal forma, a alternativa que fala sobre o uso de macrolídeos está incorreta, visto que o
+tratamento ocorre com betalactâmicos e penicilinas associadas com inibidores da betalactamase.
+Como comentado, a otoscopia não apresenta aliterações, o que nos leva à exclusão de um
+quadro de otite média aguda, tornando essa alternativa incorreta. Além disso, o progresso da
+doença sugere um quadro bacteriano, descartando a opção que considera uma evolução viral.
+Portanto, a afirmação de que Bernardo ainda está apresentando uma evolução benigna do seu
+resfriado comum é incorreta.
+Referências:
+MAGALHÃES, Edio J. C. Otorrinolaringologia pediátrica. (Série Pediatria Soperj). Barueri: Manole,
+2023. E-book. p. 266. ISBN 9788520464946. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520464946/. Acesso em: 25 fev. 2025.
+MARCDANTE, Karen. Nelson Princípios de Pediatria. 7. ed. Rio de Janeiro: GEN Guanabara
+Koogan, 2016. E-book. p. 350. ISBN 9788595155398. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788595155398/. Acesso em: 25 fev. 2025.
+3. PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. Ebook. p.v2-688. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 25 fev. 2025.
+
+5ª QUESTÃO
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 9 de 25
+
+Enunciado:
+(AFYA PARAÍBA) Paciente, 22 anos, comparece à Unidade Básica de Saúde para iniciar um
+método contraceptivo. Relata menstruações regulares e nega gestações prévias. Ao revisar seus
+antecedentes médicos, menciona que tem enxaqueca com aura e que sua mãe teve trombose
+venosa profunda aos 45 anos. Durante a consulta, a paciente expressa interesse pelo uso de
+anticoncepcionais orais combinados. Em relação ao caso, avalie as asserções a seguir e a
+relação proposta entre elas.
+I. O uso de anticoncepcionais combinados contendo estrogênio é contraindicado neste caso.
+Porque
+II. O estrogênio presente nos contraceptivos orais combinados aumenta significativamente o risco
+de eventos tromboembólicos arteriais, como acidente vascular cerebral (AVC), em pacientes com
+enxaqueca com aura.
+A respeito dessas asserções, assinale a opção correta.
+Alternativas:
+(alternativa A)
+A asserção I é uma proposição verdadeira e a II é uma proposição falsa.
+(alternativa B) (CORRETA)
+As asserções I e II são proposições verdadeiras e a II é uma justificativa correta da I.
+(alternativa C)
+As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+(alternativa D)
+A asserção I é uma proposição falsa e a II é uma proposição verdadeira.
+
+Resposta comentada:
+As asserções I e II são proposições verdadeiras e a II é uma justificativa correta da I, pois a
+enxaqueca com aura é uma contraindicação absoluta ao uso de anticoncepcionais combinados
+com estrogênio, conforme a Organização Mundial da Saúde (OMS) e a Federação Brasileira das
+Associações de Ginecologia e Obstetrícia (FEBRASGO).
+Isso ocorre porque o estrogênio pode aumentar o risco de eventos tromboembólicos arteriais,
+incluindo AVC isquêmico, em pacientes com enxaqueca com aura. Nesses casos, métodos
+contraceptivos à base apenas de progestágeno ou métodos não hormonais são mais seguros.
+Referências:
+Organização Mundial da Saúde (OMS). Critérios de elegibilidade para uso de contraceptivos.
+2015.
+Federação Brasileira das Associações de Ginecologia e Obstetrícia (FEBRASGO). Protocolo de
+Contracepção. 2023.
+6ª QUESTÃO
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 10 de 25
+
+Enunciado:
+(AFYA ITACOATIARA)
+Caso clínico 1:
+M. R., 15 anos, do sexo feminino, busca atendimento ginecológico devido à ausência de
+menstruação. Ela relata que nunca menstruou, embora tenha desenvolvido as características
+sexuais secundárias, como aumento das mamas e crescimento pubiano. A paciente também não
+apresenta dor ou alterações significativas no peso. No exame físico, observa-se que a paciente
+está com peso e altura dentro dos parâmetros normais e com características sexuais
+secundárias normais. Durante o exame ginecológico, foi identificada a presença de hematocolpos.
+Caso clínico 2:
+N., 25 anos, do sexo feminino, com histórico de ciclos menstruais regulares até os 20 anos,
+apresenta agora ausência de menstruação há 6 meses. Ela relata ganho de peso significativo nos
+últimos 2 anos (cerca de 12 kg), acne persistente e hirsutismo nas regiões do queixo e abdômen.
+No exame físico, encontra-se obesa, com padrão de distribuição de gordura tipo androide e sinais
+evidentes de hiperandrogenismo. A ultrassonografia transvaginal revela múltiplos cistos
+ovarianos.
+Com base nos dois casos clínicos apresentados, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O diagnóstico do caso 1 é hímen imperfurado, e o tratamento consiste no uso de
+anticoncepcionais orais para regular a menstruação.
+(alternativa B)
+O diagnóstico do caso 1 é amenorreia primária por falência ovariana prematura, e o tratamento
+deve incluir terapia hormonal de reposição.
+(alternativa C) (CORRETA)
+O diagnóstico do caso 2 é síndrome dos ovários policísticos (SOP), e a conduta inicial deve ser o
+uso de anticoncepcionais orais combinados e antiandrógenos.
+(alternativa D)
+O diagnóstico do caso 2 é hiperprolactinemia, e o tratamento inicial deve envolver o uso de
+agonistas dopaminérgicos, como a cabergolina.
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 11 de 25
+
+Resposta comentada:
+No caso 1, trata-se de uma paciente com amenorreia primária e hematocolpos. Ela apresenta
+características sexuais secundárias normais, mas a ausência de menstruação é causada por
+uma obstrução vaginal, o hímen imperfurado. Essa condição impede a saída do sangue
+menstrual, resultando em acúmulo na cavidade vaginal. O tratamento consiste em cirurgia para
+corrigir a obstrução e permitir o fluxo menstrual adequado.
+No caso 2, a paciente apresenta amenorreia secundária, associada a sintomas típicos de
+síndrome dos ovários policísticos (SOP), como ganho de peso, acne e hirsutismo, além de
+múltiplos cistos ovarianos. O SOP é uma desordem hormonal que causa irregularidade menstrual
+e aumento de andrógenos. O tratamento inicial envolve o uso de anticoncepcionais orais
+combinados para regularizar o ciclo menstrual e reduzir os sintomas de hiperandrogenismo.
+
+Referências:
+BRASIL. Ministério da Saúde. Protocolo Clínico e Diretrizes Terapêuticas da Síndrome de
+Ovários Policísticos. Brasília: Ministério da Saúde, 2020. Disponível em:
+https://www.gov.br/conitec/pt-br/midias/protocolos/publicacoes_ms/pcdt_sndrome-ovriospolicsticos_isbn.pdf. Acesso em: 05 abr. 2025.
+FEBRASGO. Federação Brasileira das Associações de Ginecologia e Obstetrícia. Síndrome dos
+ovários policísticos. 3. ed. São Paulo: Federação Brasileira das Associações de Ginecologia e
+Obstetrícia, 2023. Disponível em: https://www.febrasgo.org.br/media/k2/attachments/sindrome.pdf. Acesso em: 05 abr. 2025.
+
+7ª QUESTÃO
+Enunciado:
+(AFYA BRAGANÇA) Um paciente de 52 anos comparece à Unidade Básica de Saúde para
+consulta de rotina. Ele relata sedentarismo e refere aumento de peso nos últimos anos. Seus
+antecedentes incluem hipertensão arterial sistêmica e diabetes mellitus tipo 2, ambos em uso
+irregular de medicação. No exame físico, apresenta IMC de 31 kg/m², circunferência abdominal
+de 106 cm, pressão arterial de 145/92 mmHg. Os exames laboratoriais mostram glicemia de
+jejum de 118 mg/dL, triglicerídeos de 210 mg/dL, HDL-colesterol de 38 mg/dL. Com base nos
+achados do caso descrito, qual a conduta mais adequada para o manejo clínico e farmacológico
+do paciente?
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 12 de 25
+
+Alternativas:
+(alternativa A) (CORRETA)
+Confirmar o diagnóstico de Síndrome Metabólica e iniciar mudanças no estilo de vida (incentivar
+atividade física, dieta hipocalórica etc.), associadas ao uso de Metformina 850 mg 1x/dia,
+Atorvastatina 20 mg à noite, Losartana 50 mg 12/12h.
+(alternativa B)
+Confirmar o diagnóstico de Síndrome Metabólica e prescrever Metformina 500 mg 2x/dia.
+Reavaliar o paciente após um mês e avaliar a necessidade de iniciar atividade física e adicionar
+outros fármacos.
+(alternativa C)
+Prescrever apenas Sinvastatina 10 mg à noite e incentivar atividade física, pois a associação de
+ambos levará à redução do colesterol LDL e da glicemia, sendo suficiente para controlar a
+Síndrome Metabólica.
+(alternativa D)
+Iniciar imediatamente Insulina NPH 10 UI pela manhã e à noite, Hidroclorotiazida 25 mg/dia e
+Rosuvastatina 40 mg/dia, pois a condição do paciente já requer controle farmacológico intensivo e
+imediato.
+
+Resposta comentada:
+A Síndrome Metabólica, condição do paciente do caso proposto, é diagnosticada quando há pelo
+menos três dos seguintes critérios: obesidade central, hipertensão arterial, hiperglicemia,
+hipertrigliceridemia e HDL reduzido. O tratamento inicial envolve mudança no estilo de vida, mas
+frequentemente é necessário tratamento farmacológico, sendo mais adequado para o caso em
+questão o esquema terapêutico descrito abaixo:
+Metformina (850 mg 1x/dia): melhora a sensibilidade à insulina e reduz a glicemia.
+Atorvastatina (20 mg à noite): reduz triglicerídeos e colesterol LDL.
+Losartana (50 mg 12/12h): indicada para controle da hipertensão e proteção
+cardiovascular.
+A abordagem precoce reduz complicações como infarto e AVC. O nível glicêmico do paciente
+não o torna elegível para já iniciar o tratamento com insulina.
+
+Referência:
+LOSCALZO, Joseph; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Medicina Interna de
+Harrison. 21. ed. Porto Alegre: AMGH, 2024. E-book. p. 72. ISBN 9786558040231. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9786558040231/. Acesso em: 09 mar.
+2025.
+8ª QUESTÃO
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 13 de 25
+
+Enunciado:
+(AFYA BRAGANÇA) Um lactente de 10 meses é levado à Unidade Básica de Saúde para
+consulta de rotina. A mãe relata que a criança apresenta baixo ganho de peso e parece menos
+ativa do que outras crianças da mesma idade. Ao revisar a alimentação, a mãe informa que
+introduziu alimentos sólidos tardiamente e que a criança consome leite de vaca integral como
+principal fonte alimentar desde os 4 meses de idade, com baixa ingestão de frutas, legumes e
+proteínas. No exame físico, o lactente apresenta peso e estatura abaixo do percentil 5 para a
+idade, palidez cutâneo-mucosa e atraso na aquisição de marcos motores, como sentar sem
+apoio. Diante do quadro proposto, qual é a conduta mais apropriada para promover o
+desenvolvimento adequado da criança?
+Alternativas:
+(alternativa A) (CORRETA)
+Orientar a substituição do leite de vaca por fórmula infantil adequada para a idade, iniciar
+suplementação de ferro (1mg de ferro elementar/Kg/dia) e corrigir a alimentação com inclusão de
+proteínas, frutas e vegetais.
+(alternativa B)
+Encaminhar a criança para avaliação neurológica, pois o atraso no desenvolvimento indica
+provável paralisia cerebral, sem relação com o padrão alimentar.
+(alternativa C)
+Solicitar exames complementares para investigar doenças metabólicas e iniciar dieta
+hiperproteica, associada à suplementação de vitamina D e folatos, sem necessidade de sulfato
+ferroso.
+(alternativa D)
+Prescrever suplementação de vitamina C e vitamina K para corrigir possíveis déficits nutricionais
+e manter o leite de vaca como principal fonte alimentar, pois é rico em cálcio e essencial para o
+crescimento.
+
+Resposta comentada:
+O consumo precoce de leite de vaca integral está associado a déficit de ferro, aumento do risco
+de anemia ferropriva e pode contribuir para déficit no crescimento e desenvolvimento
+neuropsicomotor. A abordagem indicada para o caso inclui correção da alimentação, introdução
+adequada de sólidos e suplementação de ferro conforme as diretrizes pediátricas.
+Referência:
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6ª ed. Barueri: Manole, 2024. E-book.
+p. Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em:
+09 mar. 2025.
+9ª QUESTÃO
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 14 de 25
+
+Enunciado:
+(FESAR) Uma mãe levou seu lactente a uma Unidade Básica de Saúde (UBS) devido à presença
+de tosse há seis dias, acompanhada de congestão nasal e secreção. No dia da consulta, a
+criança passou a apresentar febre de 38°C e piora do estado geral. No exame físico, estava em
+bom padrão respiratório, apresentava secreção amarelada na parede posterior da orofaringe e
+tinha ausculta pulmonar e cardíaca normais. A mãe relatou que a criança não possui alergias
+conhecidas nem fez uso recente de antibióticos. Com base nesse caso, analise as opções a
+seguir e identifique a alternativa correta.
+Alternativas:
+(alternativa A)
+A tomografia computadorizada dos seios da face é essencial para estabelecer o diagnóstico da
+condição mais provável.
+(alternativa B) (CORRETA)
+O tratamento dessa infecção deve incluir antimicrobianos, sendo possível optar por penicilinas,
+cefalosporinas ou macrolídeos.
+(alternativa C)
+Para confirmar a principal suspeita diagnóstica, é necessário solicitar uma radiografia simples de
+tórax.
+(alternativa D)
+A complicação mais grave associada a esse quadro é a mastoidite bacteriana aguda, que pode
+evoluir para meningite.
+
+Resposta comentada:
+O quadro descrito é sugestivo de rinossinusite bacteriana aguda, caracterizada por sintomas
+respiratórios persistentes por mais de 10 dias, piora após uma melhora inicial ou febre associada
+a secreção nasal purulenta por pelo menos 3 dias consecutivos. Diante dessa suspeita, o
+tratamento indicado é o uso de antibióticos, como amoxicilina (com ou sem clavulanato),
+cefalosporinas ou macrolídeos, dependendo do contexto clínico e possíveis alergias.
+Referências:
+Sociedade Brasileira de Pediatria. Tratado de pediatria. 6ª ed. Barueri: Manole, 2024. E-book.
+p.Capa. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 05 abr.
+2025.
+Tratado de Otorrinolaringologia. Grupo GEN, 2017. E-book. ISBN 9788595154247. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9788595154247/. Acesso em: 05 abr. 2025.
+10ª QUESTÃO
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 15 de 25
+
+Enunciado:
+(UNINOVAFAPI) Paciente de 35 anos comparece à Unidade Básica de Saúde desejando iniciar
+um método contraceptivo. Relata parto vaginal há seis meses devido a pré-eclâmpsia grave; está
+em aleitamento complementar; tem ciclos menstruais regulares e faz uso apenas de medicações
+sintomáticas para gastrite e enxaqueca.
+Asserção: Os contraceptivos orais combinados não são a melhor opção para essa paciente.
+Porque
+Razão: O estrogênio presente nesses contraceptivos pode aumentar o risco cardiovascular em
+mulheres com história de pré-eclâmpsia grave e enxaqueca.
+Sobre essas afirmações, assinale a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+Asserção e razão são verdadeiras e a razão justifica a asserção.
+(alternativa B)
+Asserção e razão são verdadeiras, mas a razão não justifica a asserção.
+(alternativa C)
+A asserção é verdadeira, mas a razão é falsa.
+(alternativa D)
+A asserção é falsa, mas a razão é verdadeira.
+
+Resposta comentada:
+Resposta correta: A asserção e a razão são verdadeiras, e a razão justifica a asserção.
+Mulheres com história de pré-eclâmpsia grave possuem maior risco cardiovascular futuro, e o
+uso de estrogênio pode agravar esse risco. Além disso, a enxaqueca também representa uma
+contraindicação ao uso de contraceptivos combinados. Assim, opções mais seguras para essa
+paciente incluem métodos à base de progestágeno isolado (minipílula, implante, injeção trimestral)
+e dispositivos intrauterinos (DIU de cobre ou hormonal).
+Referências:
+BRASIL. Ministério da Saúde. Assistência em Planejamento Familiar: Manual Técnico. Brasília:
+Ministério da Saúde, 2002. Disponível em:
+https://bvsms.saude.gov.br/bvs/publicacoes/0102assistencia1.pdf. Acesso em: 8 mar. 2025.
+FEBRASGO. Manual de Anticoncepção. Federação Brasileira das Associações de Ginecologia e
+Obstetrícia, 2015. Disponível em: central3.to.gov.br. Acesso em: 8 mar. 2025.
+11ª QUESTÃO
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 16 de 25
+
+Enunciado:
+(AFYA PARAIBA) Paciente, 52 anos, sexo masculino, tabagista há 20 anos e etilista, procurou
+atendimento médico, com história de que vem notando um significativo ganho de peso e
+dificuldade de controlar a pressão arterial, mesmo com uso da medicação. Não pratica atividade
+física e tem uma dieta rica em gorduras saturadas e açucares. Nega outras comorbidades. Faz
+uso de losartana 50mg, duas vezes ao dia.
+Ao exame: frequência cardíaca: 85 bpm, pressão arterial: 145x95 mmHg, peso: 110kg, altura:
+1,70m,IMC: 38,06 Kg/m2, circunferência da cintura: 110 cm.
+Exames laboratoriais:
+Glicemia de jejum: 120 mg/dL
+
+VR(<100 mg/dl)
+
+Hemoglobina glicada(HbA1c):6,5%
+
+VR(4,5 a 5,6%)
+
+Colesterol total: 250 mg/dL
+
+VR(<200 mg/dL)
+
+HDL-colesterol: 32 mg/dL
+
+VR( >40mg/dL)
+
+LDL-colesterol: 170 mg/dL
+
+VR(<130 mg/dL)
+
+Triglicerídeos: 190 mg/dL
+
+VR(<200 mg/dL)
+
+Considerando o caso clínico acima, responda:
+a. Qual a hipótese diagnóstica? Justifique.
+b. Quais seriam as medidas farmacológicas empregadas no caso acima?
+Alternativas:
+--
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 17 de 25
+
+Resposta comentada:
+a. Com base no caso clínico apresentado, a hipótese diagnóstica mais provável é Síndrome
+Metabólica. A Síndrome Metabólica é caracterizada pela presença de múltiplos fatores de risco
+cardiovascular, incluindo obesidade central, hipertensão arterial, dislipidemia (aumento dos
+triglicerídeos, diminuição do HDL-colesterol e aumento do LDL-colesterol), resistência à insulina e
+hiperglicemia. Os critérios diagnósticos para síndrome metabólica incluem obesidade central
+(circunferência da cintura aumentada) e pelo menos dois dos seguintes componentes:
+hiperglicemia, hipertensão arterial, hipertrigliceridemia e baixo HDL-colesterol. No caso
+apresentado, o paciente apresenta obesidade central (IMC elevado e circunferência da cintura
+aumentada) e três dos componentes da síndrome metabólica: hiperglicemia, hipertensão arterial e
+dislipidemia.
+b. As medidas farmacológicas empregadas no caso acima podem incluir:
+Antidiabéticos orais ou insulina para controlar a hiperglicemia e a hemoglobina glicada
+elevada.
+Agentes anti-hipertensivos para controlar a pressão arterial elevada, além ou em
+substituição à losartana, como inibidores da enzima conversora de angiotensina
+(IECA), bloqueadores dos receptores de aldosterona (BRA), bloqueadores dos canais
+de cálcio ou diuréticos.
+Estatinas ou outras drogas hipolipemiantes para reduzir o colesterol total e o LDLcolesterol elevados e aumentar o HDL-colesterol.
+Tratamento da obesidade,por exemplo, orlistat
+Recomendações não farmacológicas, como modificação da dieta para reduzir o
+consumo de gorduras saturadas e açúcares, aumento da atividade física e perda de
+peso.
+É importante ressaltar que o tratamento deve ser individualizado, levando em consideração outros
+fatores de risco cardiovascular, tolerância ao tratamento, comorbidades e preferências do
+paciente. Além disso, a abordagem terapêutica deve incluir não apenas o tratamento
+farmacológico, mas também a adoção de hábitos de vida saudáveis.
+Referência:
+Sociedade Brasileira de Cardiologia; Sociedade Brasileira de Endocrinologia e Metabologia.
+Diretriz Brasileira de Diagnóstico e Tratamento da Síndrome Metabólica. Arquivos Brasileiros de
+Cardiologia, São Paulo, v. 84, n. 1, p. 1-28, jan. 2005. Disponível em:
+http://publicacoes.cardiol.br/consenso/2005/Diretriz_SindromeMetabolica.pdf. Acesso em: 30 de
+maio de 2024.
+
+12ª QUESTÃO
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 18 de 25
+
+Enunciado:
+(ITPAC PORTO NACIONAL) Um homem de 58 anos, com diagnóstico de diabetes mellitus tipo 2
+há 12 anos, procura atendimento devido a parestesia progressiva nos pés, associada à sensação
+de queimação e perda de sensibilidade. Também relata piora da visão e aumento da diurese
+noturna nos últimos meses. Nega episódios prévios de hipoglicemia sintomática.
+Ele faz uso regular de metformina 850 mg 2x ao dia e glibenclamida 5 mg/dia, mas admite
+dificuldades em manter uma alimentação equilibrada e prática regular de exercícios físicos.
+Exame físico:
+IMC: 31,5 kg/m².
+Pressão arterial: 148/90 mmHg.
+Sensibilidade vibratória e tátil nos pés: reduzida (Escore de Comprometimento
+Neuropático: 4).
+Exames laboratoriais:
+Hemoglobina glicada (HbA1c): 8,4%.
+Microalbuminúria: 400 mg/dL (macroalbuminúria).
+Creatinina sérica: 1,6 mg/dL.
+Taxa de Filtração Glomerular Estimada (TFG): 45 mL/min/1,73m².
+Perfil lipídico: LDL-colesterol = 102 mg/dL; HDL-colesterol = 38 mg/dL; Triglicerídeos =
+180 mg/dL.
+Fundo de olho: Retinopatia diabética não proliferativa leve.
+Com base no quadro clínico e nos guidelines da Sociedade Brasileira de Diabetes (SBD)
+2024/2025, qual é a conduta mais adequada para o tratamento desse paciente?
+Alternativas:
+(alternativa A)
+Suspender a glibenclamida, reduzir a dose de metformina para 1 g/dia, iniciar um inibidor de
+SGLT2 (gliflozina), prescrever estatina para controle lipídico e iniciar um IECA ou BRA para
+nefroproteção.
+
+(alternativa B)
+Descontinuar a glibenclamida, reduzir a dose de metformina e iniciar o uso de insulina regular
+conforme glicemia capilar.
+(alternativa C) (CORRETA)
+Suspender a glibenclamida, reduzir a dose de metformina para 1 g/dia, iniciar um inibidor de
+SGLT2 (gliflozina), prescrever estatina para controle lipídico e iniciar um IECA ou BRA para
+nefroproteção.
+
+(alternativa D)
+Manter a metformina e a glibenclamida, pois já são medicamentos eficazes, e focar
+exclusivamente no controle da dieta e da atividade física.
+
+Resposta comentada:
+Manter a metformina e a glibenclamida, pois já são medicamentos eficazes, e focar
+exclusivamente no controle da dieta e da atividade física.
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 19 de 25
+
+Errada – A glibenclamida deve ser suspensa devido ao risco aumentado de hipoglicemia,
+especialmente em pacientes com doença renal crônica (TFG = 45 mL/min/1,73m²). Além disso,
+seu impacto na proteção renal e cardiovascular é limitado. A dose da metformina deve ser
+reduzida para no máximo 1 g/dia conforme a SBD 2024/2025, devido à função renal
+comprometida.
+Suspender a glibenclamida, reduzir a dose de metformina para 1 g/dia, iniciar um inibidor de
+SGLT2 (gliflozina), prescrever estatina para controle lipídico e iniciar um IECA ou BRA para
+nefroproteção.
+Correta – O paciente tem complicações microvasculares avançadas (neuropatia, retinopatia e
+nefropatia com macroalbuminúria) e um risco cardiovascular aumentado. Segundo
+as recomendações da SBD 2024/2025, os inibidores de SGLT2 (empagliflozina, dapagliflozina,
+canagliflozina) são preferidos para reduzir a progressão da nefropatia, diminuir a albuminúria e
+oferecer proteção cardiovascular. Além disso, a estatina deve ser iniciada, pois o paciente tem
+diabetes e proteinúria significativa, o que configura alto risco cardiovascular, independentemente
+dos níveis de LDL. O uso de um inibidor da enzima conversora de angiotensina (IECA) ou
+bloqueador do receptor de angiotensina (BRA) é essencial para reduzir a progressão da nefropatia
+diabética e controlar a pressão arterial.
+Aumentar a dose da metformina para otimizar o controle glicêmico, manter a glibenclamida e
+intensificar o monitoramento da glicemia capilar.
+Errada – A metformina não pode ser aumentada neste paciente devido à redução da função renal,
+sendo necessário reduzir sua dose para no máximo 1 g/dia. A glibenclamida deve ser suspensa,
+pois tem alto risco de hipoglicemia, especialmente em pacientes com disfunção renal. Além
+disso, o monitoramento rigoroso da glicemia não substitui a necessidade de mudança na terapia
+medicamentosa, sendo fundamental a introdução de medicações que reduzam a progressão da
+doença renal e protejam o sistema cardiovascular, como os inibidores de SGLT2, estatinas e
+IECA/BRA.
+Descontinuar a glibenclamida, reduzir a dose de metformina e iniciar o uso de insulina regular
+conforme glicemia capilar.
+Errada – Embora a descontinuação da glibenclamida e a redução da metformina para 1 g/dia
+sejam corretas, o uso de insulina regular conforme glicemia capilar não é a melhor estratégia
+inicial para este paciente. A insulina pode ser considerada caso o controle glicêmico continue
+insatisfatório após o ajuste das medicações orais. No entanto, a prioridade no tratamento deste
+paciente deve ser a introdução de um inibidor de SGLT2, conforme as diretrizes da SBD
+2024/2025, devido ao seu efeito renoprotetor e cardiovascular. Além disso, a estatina e o
+IECA/BRA são essenciais para reduzir o risco cardiovascular e proteger a função renal.
+Referências:
+Sociedade Brasileira de Diabetes. Diretriz da Sociedade Brasileira de Diabetes 2024-2025. São
+Paulo: SBD; 2024. Disponível em: https://diretriz.diabetes.org.br. Acesso em: 05 abr. 2025.
+American Diabetes Association. Standards of Medical Care in Diabetes—2024. Diabetes Care.
+2024;47(Suppl 1):S1–S282. DOI: 10.2337/dc24-S001.
+Kidney Disease: Improving Global Outcomes (KDIGO) Diabetes Work Group. KDIGO 2022
+Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease. Kidney Int.
+2022;102(5):S1-S127. DOI: 10.1016/j.kint.2022.06.006.
+Grundy SM, Stone NJ, Bailey AL, et al. 2018
+AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the
+Management of Blood Cholesterol. J Am Coll Cardiol. 2019; 73(24): e285-e350. DOI:
+10.1016/j.jacc.2018.11.003.
+Bakris GL, Agarwal R, Anker SD, et al. Effect of Finerenone on Chronic Kidney Disease
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 20 de 25
+
+Outcomes in Type 2 Diabetes. N Engl J Med. 2020; 383(23): 2219-2229. DOI:
+10.1056/NEJMoa2025845.
+13ª QUESTÃO
+Enunciado:
+(UNINOVAFAPI) Dois pacientes pré-escolares são atendidos na Unidade de Pronto Atendimento
+com febre e exantema, apresentando quadros clínicos distintos:
+Caso 1: Menino de 5 anos, com febre alta há 48 horas, acompanhada de odinofagia intensa e
+exantema micropapular eritematoso difuso, de textura áspera, predominante no tronco e áreas de
+dobras, poupando a região perioral. Durante o exame físico, observa-se linfonodomegalia cervical,
+língua com aspecto vermelho-vivo com hipertrofia das papilas e amígdalas aumentadas com
+exsudato.
+Caso 2: Menino de 4 anos, com febre diária há 6 dias, acompanhada de fadiga intensa e
+exantema maculopapular, que surgiu após o uso de amoxicilina prescrita para um quadro de
+faringoamigdalite. Apresenta linfonodomegalia cervical bilateral e generalizada,
+hepatoesplenomegalia e petéquias no palato. O hemograma evidencia linfocitose com presença
+de linfócitos atípicos.
+Com base nos achados clínicos e laboratoriais, assinale a alternativa correta sobre o diagnóstico
+diferencial desses casos.
+Alternativas:
+(alternativa A)
+O primeiro caso é exantema súbito, caracterizado por febre alta abrupta e exantema que surge
+com a defervescência. Já o segundo caso é Doença de Kawasaki, pois há febre prolongada,
+linfadenopatia, exantema, amigdalite e hepatoesplenomegalia.
+(alternativa B)
+O primeiro caso é eritema infeccioso, caracterizado por febre alta seguida de exantema que
+poupa a região perioral e adenopatia cervical. Já o segundo caso é citomegalovirose, devido à
+febre prolongada, linfonodomegalia e exantema pós-amoxicilina.
+(alternativa C) (CORRETA)
+O primeiro caso é escarlatina, caracterizada por febre alta, amigdalite, pele em lixa com os sinais
+de Filatov e Pastia e língua em framboesa. Já o segundo caso é mononucleose infecciosa,
+sugerida por febre prolongada, linfonodomegalia generalizada, hepatoesplenomegalia e exantema
+após uso de amoxicilina.
+(alternativa D)
+O primeiro caso é citomegalovirose, caracterizada por febre alta, amigdalite exsudativa, língua em
+framboesa, pele em lixa e os sinais clássicos de Filatov e Pastia. Já o segundo caso é dengue,
+pois há febre prolongada, hepatoesplenomegalia, petéquias no palato, rash cutâneo e hemograma
+com linfocitose.
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 21 de 25
+
+Resposta comentada:
+O primeiro caso é escarlatina e o segundo caso é mononucleose infecciosa.
+O caso 1 trata-se da escarlatina, que tem como agente etiológico o Streptococcus pyogenes do
+grupo A. A escarlatina geralmente inicia com febre, odinofagia e cefaleia; o rash cutâneo surge de
+24 a 48 horas após o início dos sintomas. O exantema, de característica micropapular, inicia-se
+ao redor do pescoço e se espalha para o tronco e extremidades, entremeado com áreas de pele
+saudável e conferindo à mesma uma coloração avermelhada e brilhante, com textura áspera,
+semelhante à lixa. O exantema pode ser mais abundante em áreas de dobras, denominado como
+sinal de Pastia; as bochechas costumam ficar hiperemiadas, contrastando com a palidez ao redor
+da boca e apresentando o sinal de Filatov. Na oroscopia, pode ser notado edema e hiperemia das
+papilas linguais com o aspecto típico de “língua em framboesa”; na avaliação da orofaringe,
+observam-se características semelhantes às de faringite estreptocócica.
+O caso 2 trata-se da mononucleose infecciosa, que é a expressão mais comum na primoinfecção
+pelo vírus Epstein-Barr, e cuja clínica se inicia com febre, cefaleia, mal-estar, lassidão,
+linfonodomegalia por vezes muito proeminente, hepatoesplenomegalia e faringoamigdalite. Chama
+a atenção a intensa leucocitose vista no sangue periférico com a presença marcante de linfócitos
+atípicos. A ocorrência de erupção cutânea não excede os 10 a 15% dos casos e pode ser
+desencadeada pela administração de penicilina ou ampicilina ao paciente.
+Referências:
+Sociedade Brasileira de Pediatria. Tratado de Pediatria. Ed. Barueri: Manole, 2025.
+SPIEKER, Beatriz Rosa; PEDRO, Eduarda Preisler. Doenças exantemáticas na pediatria: uma
+revisão de literatura. Revista Gepesvida, v. 10, n. 25, p. 130-145, 2024. Disponível em:
+https://www.icepsc.com.br/ojs/index.php/gepesvida/article/view/31225. Acesso em: 27 fev. 2025.
+
+14ª QUESTÃO
+Enunciado:
+(FASA VIC) Lactente de 8 meses, previamente saudável, é levado pela mãe à Unidade Básica de
+Saúde (UBS) com quadro de febre (39°C) há 48 horas. O lactente apresenta irritabilidade, tosse
+seca e sinais de desconforto respiratório, como taquipneia (45 irpm). A mãe relata que o bebê
+esteve em contato com crianças que apresentaram sintomas de resfriado e tosse nos últimos
+dias. No exame físico, observam-se estertores finos bilaterais à ausculta pulmonar e sinais de
+hipoxemia leve (oximetria de pulso de 92% em ar ambiente). Não há sinais de desidratação ou
+alteração neurológica.
+Qual é a conduta inicial mais apropriada para este lactente com complicação de Infecção Viral
+Aguda (IVA) e sinais de desconforto respiratório?
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 22 de 25
+
+Alternativas:
+(alternativa A)
+Iniciar antivirais e encaminhar para internação urgente, considerando a possibilidade de infecção
+viral grave, como influenza ou VSR.
+(alternativa B)
+Iniciar broncodilatadores e corticoides orais, com acompanhamento na UBS até melhora dos
+sintomas respiratórios.
+(alternativa C)
+Iniciar antibióticos de amplo espectro intravenosos e encaminhar para internação imediata,
+considerando a possibilidade de pneumonia bacteriana secundária.
+(alternativa D) (CORRETA)
+Manter antitérmicos e hidratação oral, observar sinais de piora respiratória e, se necessário,
+considerar a administração de oxigenoterapia e encaminhamento para unidade de referência.
+
+Resposta comentada:
+Resposta correta: Manter antitérmicos e hidratação oral, observar sinais de piora respiratória e, se
+necessário, considerar a administração de oxigenoterapia e encaminhamento para unidade de
+referência.
+Justificativa: O lactente apresenta quadro clínico compatível com Infecção Viral Respiratória
+Aguda (IVRA), com possível complicação respiratória (hipoxemia leve e sinais de desconforto
+respiratório). A febre, tosse seca e taquipneia são típicos de infecções virais, como o vírus
+sincicial respiratório (VSR), que frequentemente causa bronquiolite em lactentes. A conduta inicial
+deve ser focada no manejo sintomático, com antitérmicos, hidratação adequada e
+acompanhamento clínico. A oxigenoterapia deve ser iniciada se houver sinais de hipoxemia grave
+(abaixo de 92%), e, caso o quadro piore, a internação pode ser necessária. A administração de
+antibióticos não é indicada neste caso, pois não se trata de uma infecção bacteriana.
+Alternativas incorretas:
+Iniciar antibióticos de amplo espectro intravenosos e encaminhar para internação imediata: A
+infecção do lactente parece ser viral, não bacteriana. Portanto, o uso de antibióticos de amplo
+espectro não é indicado nesse cenário, já que a principal hipótese é uma infecção viral respiratória
+aguda, que não requer tratamento antibiótico, a menos que haja complicação bacteriana evidente.
+Iniciar broncodilatadores e corticoides orais: broncodilatadores e corticoides são mais indicados
+para condições como asma ou broncoespasmo, que não são as condições mais prováveis aqui.
+O quadro do lactente sugere uma infecção viral respiratória, e o tratamento adequado é
+sintomático, com observação e possível oxigenoterapia.
+Iniciar antivirais e encaminhar para internação urgente: O uso de antivirais não é indicado para a
+maioria das infecções virais respiratórias em lactentes, exceto em casos específicos, como a
+infecção por influenza. Além disso, o lactente não apresenta sinais de gravidade extremos que
+justifiquem a internação urgente nesse momento.
+Referência:
+Sociedade Brasileira de Pediatria. Tratado de pediatria. 6ª ed. Barueri: Manole, 2024. E-book. p.
+Capa. ISBN 9788520458679.
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 23 de 25
+
+15ª QUESTÃO
+Enunciado:
+(UNITPAC) Um homem transgênero de 24 anos, em terapia hormonal com enantato de
+testosterona 100 mg IM a cada 10 dias há 8 meses, procura atendimento na Unidade Básica de
+Saúde (UBS). Ele relata cólicas intensas e recorrentes na região pélvica, associadas a episódios
+de sangramento vaginal leve e irregular. Ele relata que os sintomas começaram há cerca de 4
+meses e ocorrem em intervalos cíclicos, semelhantes ao período menstrual antes da
+hormonização.
+Ele não tem histórico de dismenorreia severa antes da transição, mas relata que o quadro tem
+impactado negativamente sua qualidade de vida e sua disforia de gênero.
+O exame físico não evidencia sinais de abdome agudo. O exame ginecológico é recusado pelo
+paciente no momento. Uma ultrassonografia transabdominal pélvica é realizada, evidenciando
+endométrio com espessura de 6 mm e ovários de morfologia normal.
+Diante desse quadro, qual é a conduta mais adequada?
+Alternativas:
+(alternativa A) (CORRETA)
+Prescrever um progestágeno contínuo, como acetato de medroxiprogesterona ou dienogeste,
+pois pode auxiliar no bloqueio da menstruação residual sem comprometer a identidade de gênero.
+(alternativa B)
+Indicar histerectomia, pois a única forma definitiva de cessar o sangramento e os sintomas de
+dismenorreia em homens trans é a retirada do útero.
+(alternativa C)
+Prescrever um AINE, como ibuprofeno ou naproxeno, apenas para alívio sintomático, pois a
+testosterona já deveria ser suficiente para inibir a menstruação.
+(alternativa D)
+Aumentar a dose da testosterona e aguardar, pois a atrofia endometrial irá resolver os sintomas
+relatados pelo paciente com o tempo.
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 24 de 25
+
+Resposta comentada:
+A melhor resposta é a segunda alternativa, que propõe o uso de um progestágeno contínuo como
+estratégia terapêutica para cessar os sangramentos residuais e aliviar a dismenorreia.
+Análise das alternativas:
+A primeira alternativa está errada. Embora a testosterona tenha efeito atrofiante sobre o
+endométrio, nem todos os homens trans em terapia hormonal atingem amenorreia completa,
+especialmente no primeiro ano de uso (Vilar, 2020). Apenas aumentar a dose pode elevar os
+riscos de efeitos adversos sem garantir o bloqueio do sangramento.
+A segunda alternativa é a correta. O uso de progestágenos contínuos (ex.: acetato de
+medroxiprogesterona ou dienogeste) pode ajudar a reduzir ou eliminar o sangramento uterino
+residual, sem necessidade de estrogênios (Vilar, 2020). Isso é uma abordagem válida para
+pacientes que não atingiram amenorreia apenas com testosterona e desejam evitar
+procedimentos cirúrgicos invasivos.
+A terceira alternativa é incorreta, pois a histerectomia não é a primeira linha de tratamento para
+dismenorreia em homens trans. Embora seja uma opção para pacientes que desejam cirurgia
+definitiva, o manejo clínico deve ser tentado antes de considerar procedimentos cirúrgicos
+irreversíveis.
+A quarta alternativa é incorreta porque os AINEs (anti-inflamatórios não esteroides) são úteis no
+alívio da dor da dismenorreia, mas não tratam a causa subjacente, que é a persistência da
+atividade endometrial. A testosterona isoladamente pode não ser suficiente para garantir
+amenorreia em todos os casos (Vilar, 2020).
+Referência:
+VILAR, Lucio. Endocrinologia Clínica. 7ª ed. Rio de Janeiro: Guanabara Koogan, 2020. E-book.
+p.
+658.
+ISBN
+9788527737180.
+Disponível
+em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527737180/. Acesso em: 28 fev. 2025.
+
+000155.910011.0806f1.31eb91.4064b2.3c091f.29a1c5.e4f58
+
+Pgina 25 de 25
+
+

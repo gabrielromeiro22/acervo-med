@@ -1,0 +1,1410 @@
+Treine as provas online! www.acervo.vip
+AFYA
+CURSO DE MEDICINA - AFYA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas II e Integradora 2º Período
+Professor (es):
+Período: 202502
+
+Turma:
+
+Data: 25/11/2025
+
+N2 ESPECÍFICA - HAM II - MEDICINA - 2º PERÍODO - 2025.1 - 1ª CHAMADA 25/NOVEMBRO
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 17975 - CADERNO 001
+1ª QUESTÃO
+Código da questão:
+
+151721
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(AFYA ABAETETUBA) Durante uma avaliação otoneurológica, um estudante de medicina
+realiza o teste de Rinne em um paciente com queixa de hipoacusia à direita. Utilizando
+um diapasão de 512 Hz, o estudante o coloca inicialmente na mastoide do paciente até
+que o som deixe de ser ouvido, e então o aproxima da região frontal do meato acústico
+externo do mesmo ouvido. O paciente informa ouvir o som melhor quando o diapasão
+está encostado na mastoide do que quando está próximo ao ouvido.
+Considerando a técnica correta e a interpretação do teste, assinale a alternativa que
+indica o achado mais provável.
+Alternativas:
+(alternativa A)
+Rinne positivo, indicativo de perda auditiva neurossensorial à direita.
+(alternativa B) (CORRETA)
+Rinne negativo, sugestivo de perda auditiva condutiva à direita.
+(alternativa C)
+Rinne positivo normal, indicando audição preservada.
+(alternativa D)
+Rinne negativo bilateral, indicativo de lesão central auditiva.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 1 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+A alternativa correta é a que indica “Rinne negativo, sugestivo de perda auditiva
+condutiva à direita.” No teste de Rinne, comparam-se a condução óssea (CO) e a
+condução aérea (CA) do som. Em condições normais ou em perdas neurossensoriais, o
+som é ouvido melhor pelo ar do que pelo osso (Rinne positivo). Em perdas condutivas, o
+som é ouvido melhor pela condução óssea (Rinne negativo), pois o bloqueio no ouvido
+médio reduz a transmissão aérea. Assim, o achado descrito — percepção sonora mais
+intensa pela mastoide — indica perda condutiva no ouvido direito (ex.: otite média,
+cerume impactado, otosclerose).
+As demais alternativas estão incorretas:
+A alternativa que indica “Rinne positivo normal, indicando audição preservada” é
+incorreta. O paciente relatou ouvir melhor pelo osso, o que caracteriza Rinne negativo,
+não normal.
+A alternativa que indica “Rinne positivo, indicativo de perda auditiva neurossensorial à
+direita” é incorreta. Na perda neurossensorial, o Rinne permanece positivo, mas com
+menor intensidade auditiva, e não há inversão da percepção.
+A alternativa que indica “Rinne negativo bilateral, indicativo de lesão central auditiva” é
+incorreta. Lesões centrais não são detectadas por este teste, que avalia apenas a via
+periférica (condutiva e neurossensorial).
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+CAMPBELL, William W.; BAROHN, Richard J. DeJong - O Exame Neurológico. 8. ed. Rio de
+Janeiro: Guanabara Koogan, 2021.
+CIPRIANO, Joseph J. Manual fotográfico de testes ortopédicos e neurológicos. 5. ed. Porto
+Alegre: ArtMed, 2012.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019. E-book, p. 1. ISBN 9788527734998. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527734998/. Acesso em: 25
+abr. 2025.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017. E-book, p. 301. ISBN 9788527731034. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527731034/. Acesso em: 25
+abr. 2025.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+9
+[Áreas de Conhecimento]
+Semiologia
+[Subáreas de Conhecimento]
+Exame Neurológico
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+[Habilidades]
+Analisar a realização do teste de Rinne.
+2ª QUESTÃO
+
+Código da questão:
+
+151724
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 2 de 27
+
+Treine as provas online! www.acervo.vip
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(AFYA ABAETETUBA) Durante um exame físico neurológico em um paciente de 45 anos, o
+estudante realiza a avaliação da acuidade visual e da campimetria por confrontação. O
+paciente é orientado a ocluir um olho, enquanto o examinador mantém o olho oposto
+fechado e fixa o olhar no do paciente. O examinador movimenta lentamente um dedo em
+diferentes quadrantes do campo visual e o paciente indica o momento em que percebe o
+movimento. Em seguida, o mesmo é repetido para o outro olho.
+Considerando a técnica e os achados esperados, qual das alternativas representa a forma
+correta de realização e interpretação desse exame?
+Alternativas:
+(alternativa A) (CORRETA)
+O exame avalia o campo visual do nervo óptico e deve ser feito com o examinador e o
+paciente frente a frente, comparando simultaneamente os campos visuais.
+(alternativa B)
+O teste avalia a motricidade extrínseca ocular e serve para identificar diplopia ou
+nistagmo do paciente.
+(alternativa C)
+O exame avalia a integridade do nervo oculomotor e deve ser feito com ambos os olhos
+abertos, comparando os movimentos oculares.
+(alternativa D)
+O examinador deve posicionar-se lateralmente ao paciente, movimentando o dedo
+apenas no eixo horizontal.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 3 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+A alternativa correta é a que indica “O exame avalia o campo visual do nervo óptico e
+deve ser feito com o examinador e o paciente frente a frente, comparando
+simultaneamente os campos visuais.”
+A campimetria por confrontação é um método clínico simples para avaliar a integridade
+do nervo óptico (II par craniano) e identificar perdas de campo visual (como
+hemianopsias ou escotomas). O examinador compara o campo visual do paciente com o
+seu próprio, mantendo ambos frente a frente, com um olho de cada fechado, para
+garantir simetria. O teste de acuidade visual complementa o exame, avaliando a
+capacidade de distinguir detalhes com tabelas (Snellen, Jaeger).
+As demais alternativas estão incorretas:
+A alternativa que indica “O examinador deve posicionar-se lateralmente ao paciente,
+movimentando o dedo apenas no eixo horizontal” é incorreta. A posição correta é frontal,
+e o dedo deve ser movido em todos os quadrantes, não apenas no eixo horizontal.
+A alternativa que indica “O exame avalia a integridade do nervo oculomotor e deve ser
+feito com ambos os olhos abertos” é incorreta. O nervo oculomotor (III par) está
+relacionado à motricidade ocular, não à visão. O teste é feito com um olho de cada vez,
+não com ambos abertos.
+A alternativa que indica “O teste avalia a motricidade extrínseca ocular e serve para
+identificar diplopia ou nistagmo do paciente.” é incorreta. Esses achados são observados
+na avaliação dos nervos III, IV e VI, não na campimetria, que avalia o campo visual.
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+CIPRIANO, Joseph J. Manual fotográfico de testes ortopédicos e neurológicos. 5. ed. Porto
+Alegre: ArtMed, 2012.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017.
+PUTZ, Carla. Oftalmologia - Ciências Básicas. 3. ed. Rio de Janeiro: GEN Guanabara
+Koogan, 2017.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+8
+[Áreas de Conhecimento]
+Semiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+[Habilidades]
+Compreender a realização da avaliação da acuidade e
+campimetria visual de confrontação.
+[Subáreas de Conhecimento]
+Sistema neurológico
+3ª QUESTÃO
+
+Código da questão:
+
+151715
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 4 de 27
+
+Treine as provas online! www.acervo.vip
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(AFYA ABAETETUBA) Durante o atendimento em uma Unidade de Pronto Atendimento
+(UPA), chega um homem de 35 anos vítima de queda de moto. Ao exame inicial, o
+paciente abre os olhos apenas ao chamado verbal, emite palavras confusas e é capaz de
+localizar a dor ao estímulo doloroso. Os sinais vitais estão estáveis, sem sinais de fratura
+exposta ou sangramento ativo.
+Considerando os critérios da Escala de Coma de Glasgow (ECG), assinale a alternativa
+que indique a pontuação total e a classificação do nível de consciência deste paciente.
+Alternativas:
+(alternativa A) (CORRETA)
+12 pontos – rebaixamento moderado do nível de consciência.
+(alternativa B)
+15 pontos – nível de consciência normal.
+(alternativa C)
+8 pontos – rebaixamento grave do nível de consciência.
+(alternativa D)
+10 pontos – rebaixamento moderado do nível de consciência.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A alternativa correta é a que indica “12 pontos – rebaixamento moderado do nível de
+consciência.”
+A Escala de Coma de Glasgow (ECG) avalia três parâmetros: abertura ocular (E), resposta
+verbal (V) e resposta motora (M). Neste caso:
+Abertura ocular ao chamado verbal = E3
+Resposta verbal confusa = V4
+Resposta motora localiza dor = M5
+Total: E3 + V4 + M5 = 12 pontos, o que caracteriza comprometimento moderado da
+consciência.
+As demais alternativas estão incorretas:
+A alternativa que indica “10 pontos – rebaixamento moderado do nível de
+consciência” é incorreta. Essa pontuação corresponderia a pacientes com
+respostas mais lentas ou inadequadas (ex.: E2, V3, M5).
+A alternativa que indica “8 pontos – rebaixamento grave do nível de
+consciência” é incorreta. Pacientes com ≤8 pontos são considerados em coma
+grave, geralmente sem resposta verbal coerente ou sem abertura ocular ao
+chamado.
+A alternativa que indica “15 pontos – nível de consciência normal” é incorreta.
+Esse valor só é obtido com abertura ocular espontânea, fala orientada e
+obediência a comandos simples (E4V5M6).
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017.
+Feedback:
+-000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 5 de 27
+
+Treine as provas online! www.acervo.vip
+
+Filtros da questão:
+
+[Semanas]
+4
+[Áreas de Conhecimento]
+Semiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+[Habilidades]
+Compreender a aplicação da Escala de Coma de Glasgow.
+[Subáreas de Conhecimento]
+Sistema neurológico
+4ª QUESTÃO
+
+Código da questão:
+
+150075
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Um paciente de 55 anos se apresenta na Unidade Básica de
+Saúde com queixas de formigamento nos membros inferiores de evolução progressiva,
+que se iniciou há cerca de 6 meses, inicialmente na extremidade dos membros inferiores,
+progredindo posteriormente para joelho e quadríceps, o que leva o médico a suspeitar de
+um comprometimento neurológico. Para investigar a integridade do reflexo patelar, o
+médico decide realizar a manobra apropriada, que é um teste comum para avaliar a
+função do nervo femoral.
+Considerando o cenário apresentado, assinale a manobra que o médico deve realizar
+para testar o reflexo patelar.
+Alternativas:
+(alternativa A)
+Pedir ao paciente para abduzir as pernas contra resistência.
+(alternativa B)
+Observar a dorsiflexão do pé enquanto o paciente está sentado.
+(alternativa C)
+Realizar a flexão dos dedos do pé para avaliar a resposta motora.
+(alternativa D) (CORRETA)
+Golpear a região logo abaixo da rótula com um martelo de reflexos.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 6 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+“Golpear a região logo abaixo da rótula com um martelo de reflexos” é a alternativa
+correta, uma vez que o reflexo patelar é testado ao golpear a área do tendão patelar,
+anatomicamente logo abaixo da rótula.
+Alternativas incorretas:
+“Observar a dorsiflexão do pé enquanto o paciente está sentado” relaciona-se com a
+função do nervo fibular, que inerva a musculatura responsável pela dorsiflexão do pé.
+“Pedir para o paciente abduzir as pernas contra resistência” tem como finalidade avaliar
+a força dos músculos abdutores do quadril e não está relacionado ao reflexo patelar.
+“Realizar a flexão dos dedos do pé para avaliar a resposta motora” essa é uma avaliação
+que testa os músculos intrínsecos do pé, não estando relacionada ao reflexo patelar.
+Referências:
+CIPRIANO, Joseph J. Manual fotográfico de testes ortopédicos e neurológicos. 5. ed. Porto
+Alegre: ArtMed, 2012. E-book. ISBN 9788536327945.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019. E-book. ISBN 9788527734998.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+6
+6
+[Módulos integrados]
+HAM
+[Áreas de Conhecimento]
+Semiologia
+Semiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA CRUZEIRO DO SUL
+[Subáreas de Conhecimento]
+Sistema endócrino
+Sistema neurológico
+[Competências (Objetivos)]
+Entender a aplicação da avaliação da força e tônus
+muscular (avaliar mmss, mmii, tronco e manobras
+deficitárias de força).
+[Habilidades]
+Entender a aplicação da avaliação da força e tônus
+muscular (avaliar mmss, mmii, tronco e manobras
+deficitárias de força).
+
+5ª QUESTÃO
+Código da questão:
+
+149884
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 7 de 27
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(AFYA ITACOATIARA) Um paciente de 35 anos, que trabalha como digitador e joga tênis
+nas horas vagas, procurou a unidade de saúde com queixa de dor no cotovelo esquerdo
+há 2 semanas. Ele relata que a dor piora ao realizar movimentos de extensão do punho
+contra resistência. Ao exame físico, o médico não encontrou edema nem deformidade,
+mas verificou que o paciente apresentou uma dor localizada na região lateral do cotovelo
+durante uma manobra específica: o médico estabilizou o cotovelo do paciente que,
+mantendo o antebraço em pronação e o punho fechado, estendeu o punho contra uma
+resistência imposta pelo médico, conforme Figura 1.
+Figura 1 – Teste realizado pelo médico.
+
+RAYMUNDO, José Luiz P.; MIRANDA, Isabel H. Ortopedia para clínicos: exame e
+diagnóstico. Barueri: Manole, 2021.
+O teste realizado pelo médico foi?
+Alternativas:
+(alternativa A)
+Finkelstein.
+(alternativa B)
+Phalen.
+(alternativa C) (CORRETA)
+Cozen.
+(alternativa D)
+Tinel.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 8 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+O Teste de Cozen é utilizado para diagnosticar a epicondilite lateral do cotovelo e a
+técnica é realizada com o paciente mantendo o cotovelo em ligeira flexão, o antebraço
+em pronação e o punho fechado. O examinador estabiliza o cotovelo e pede para o
+paciente estender o punho contra resistência.
+O Teste de Tinel é utilizado para pesquisa de irritação ou regeneração nervosa periférica.
+É realizado com a percussão sobre o trajeto do nervo que se quer testar.
+O Teste de Phalen é utilizado para diagnóstico da síndrome do túnel do carpo. É realizado
+solicitando-se para o paciente manter o punho em flexão máxima por cerca de 60
+segundos.
+O Teste de Finkelstein é utilizado para diagnóstico da tenossinovite de De Quervain. Ele é
+realizado com o paciente fechando o punho, envolvendo o polegar e realizando o desvio
+o punho em direção ulnar.
+Referências:
+LEITE, Nelson M.; FALOPPA, Flávio. Propedêutica ortopédica e traumatológica. Porto
+Alegre: ArtMed, 2013. E-book. p.109. ISBN 9788565852470. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788565852470/. Acesso em: 19 out.
+2025.
+RAYMUNDO, José Luiz P.; MIRANDA, Isabel H. Ortopedia para clínicos: exame e
+diagnóstico. Barueri: Manole, 2021. E-book. p.62. ISBN 9788520462768. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788520462768/. Acesso em: 19 out.
+2025.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+12
+[Módulos integrados]
+HAM
+[Áreas de Conhecimento]
+Semiologia
+[Subáreas de Conhecimento]
+Sistema Locomotor
+[Competências (Objetivos)]
+Conhecer as manobras do exame físico do cotovelo.
+[Validação de autoria]
+SEM USO DE IA. Este conteúdo foi criado sem o uso de
+ferramentas de Inteligência Artificial (IA).
+[IES]
+AFYA ITACOATIARA
+6ª QUESTÃO
+
+Código da questão:
+
+151722
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 9 de 27
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(AFYA ABAETETUBA) Durante o exame físico de uma paciente de 25 anos, o estudante de
+medicina posiciona-se atrás da paciente, coloca os polegares na nuca e envolve o
+pescoço com os dedos médios e indicadores, logo abaixo da cartilagem cricoide. Ele pede
+que a paciente degluta e observa o movimento ascendente da estrutura palpada,
+percebendo uma glândula móvel, de consistência macia, indolor e sem nódulos
+palpáveis.
+Considerando a técnica empregada e os achados descritos, qual das alternativas
+representa a melhor interpretação?
+Alternativas:
+(alternativa A)
+A técnica está incorreta, pois o examinador deve usar apenas uma das mãos para evitar
+compressão da glândula.
+(alternativa B) (CORRETA)
+A técnica está correta e o achado é compatível com uma tireoide de aspecto dentro da
+normalidade.
+(alternativa C)
+A técnica está correta, mas o achado indica aumento difuso da glândula compatível com
+bócio leve.
+(alternativa D)
+A técnica está incorreta, pois o examinador deve posicionar-se à frente do paciente e
+palpar sem solicitar deglutição.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A alternativa correta é a que indica “A técnica está correta e o achado é compatível com
+uma tireoide de aspecto dentro da normalidade.” A palpação da tireoide deve ser
+realizada com o paciente sentado, o pescoço levemente estendido e o examinador
+posicionado atrás, utilizando os dedos médios e indicadores para palpar os lobos da
+glândula enquanto o paciente deglute. A tireoide normal é móvel, de consistência macia
+ou elástica, indolor e sem nódulos palpáveis. O movimento ascendente à deglutição
+confirma que o volume palpado corresponde à glândula, e não a outra estrutura cervical.
+As demais alternativas estão incorretas:
+A alternativa que indica “A técnica está incorreta, pois o examinador deve posicionar-se à
+frente do paciente e palpar sem solicitar deglutição” é incorreta. A palpação anterior é
+uma variação possível, mas a técnica padrão é feita por trás, com auxílio da deglutição.
+A alternativa que indica “A técnica está incorreta, pois o examinador deve usar apenas
+uma das mãos para evitar compressão da glândula” é incorreta. O uso bimanual é
+essencial para comparar os lobos e avaliar simetria e consistência.
+A alternativa que indica “A técnica está correta, mas o achado indica aumento difuso da
+glândula compatível com bócio leve” é incorreta. O texto descreve uma glândula de
+tamanho e consistência normais, sem aumento visível ou palpável.
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017.
+Feedback:
+--
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 10 de 27
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Áreas de Conhecimento]
+Semiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+[Habilidades]
+Analisar a palpação da tireoide.
+[Semanas]
+14
+[Subáreas de Conhecimento]
+Sistema endócrino
+7ª QUESTÃO
+
+Código da questão:
+
+150035
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+Enunciado:
+(AFYA MANACAPURU) Durante um almoço, você observa um homem adulto sentado à
+mesa do restaurante, colocando a mão na garganta, tossindo e com dificuldade para falar
+e respirar. O indivíduo apresenta cianose leve nos lábios. Avalie a situação e selecione a
+conduta que demonstra o correto reconhecimento do engasgo e sinais de desobstrução
+das vias aéreas. Identifique a ação apropriada para este cenário:
+Alternativas:
+(alternativa A) (CORRETA)
+Estimular a vítima a tossir vigorosamente e observar se consegue expelir o objeto,
+permanecendo ao lado para auxiliar se necessário.
+(alternativa B)
+Ignorar temporariamente para observar se a tosse intensa é suficiente para eliminar o
+corpo estranho, evitando intervenções imediatas que possam piorar o quadro.
+(alternativa C)
+Realizar manobras de Heimlich (compressões abdominais) imediatamente, sem avaliar a
+tosse ou a respiração da vítima.
+(alternativa D)
+Colocar a vítima deitada de costas imediatamente e iniciar compressões torácicas até a
+desobstrução completa.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 11 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+Alternativa: "Estimular a vítima a tossir vigorosamente e observar se consegue expelir o
+objeto, permanecendo ao lado para auxiliar se necessário. Está correta. Justificativa: Esta
+alternativa reflete corretamente o manejo inicial de um engasgo parcial em adultos.
+Segundo DISQUE (2018) e Porto (2019), se a vítima consegue tossir, falar ou respirar
+parcialmente, deve-se incentivá-la a continuar tossindo, permanecendo atento para
+intervir se houver piora. Observa-se a tentativa de desobstrução das vias aéreas de
+forma segura.
+Alternativas incorretas:
+Incorreta. Colocar a vítima deitada de costas imediatamente e iniciar compressões
+torácicas até a desobstrução completa. Justificativa: A posição supina e compressões
+torácicas não são recomendadas em casos de engasgo consciente com tosse eficaz. Essa
+conduta é indicada apenas se houver perda de consciência, conforme DISQUE (2018).
+Colocar a vítima nessa posição prematuramente pode agravar a obstrução.
+Incorreta. Realizar manobras de Heimlich (compressões abdominais) imediatamente, sem
+avaliar a tosse ou a respiração da vítima. Justificativa: As compressões abdominais são
+indicadas apenas quando a vítima apresenta engasgo completo, incapaz de tossir, falar
+ou respirar. Iniciar a manobra sem avaliar a tosse ativa desnecessariamente pode causar
+lesões ou complicar a situação (DISQUE, 2018; Porto, 2017).
+Incorreta. Ignorar temporariamente para observar se a tosse intensa é suficiente para
+eliminar o corpo estranho, evitando intervenções imediatas que possam piorar o quadro.
+Justificativa: Ignorar o engasgo consciente, mesmo que a vítima esteja tossindo, é
+inseguro. A supervisão contínua é essencial para agir rapidamente se houver piora ou
+obstrução completa, conforme recomendado por DISQUE (2018) e Porto (2019).
+Referências:
+DISQUE, Karl. Basic Life Support: Provider Handbook. Nova York: Save a Life Initiative,
+2018.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019. E-book, p. 1. ISBN 9788527734998. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527734998/. Acesso em: 25
+abr. 2025.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017. E-book, p. 301. ISBN 9788527731034. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527731034/. Acesso em: 25
+abr. 2025.
+PEDIATRIA, Sociedade Brasileira de. Tratado de pediatria. 6. ed. Barueri: Manole, 2024. Ebook. p.153. ISBN 9788520458679. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788520458679/. Acesso em: 25
+abr. 2025.
+Feedback:
+--
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 12 de 27
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+3
+[Módulos integrados]
+HAM
+[Áreas de Conhecimento]
+Semiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA MANACAPURU
+[Subáreas de Conhecimento]
+Emergências
+[Competências (Objetivos)]
+Reconhecer uma situação de engasgo em adultos e
+identificar sinais de desobstrução das vias aéreas
+8ª QUESTÃO
+
+Código da questão:
+
+149738
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+Enunciado:
+(AFYA IPATINGA) Durante o atendimento em uma unidade de saúde, um homem de 58
+anos, hipertenso, cai subitamente da cadeira na sala de espera. Você se aproxima,
+verifica que ele não responde e não tem pulso. Outro profissional traz o DEA e uma
+pocket mask. Após posicionar corretamente a pocket mask e iniciar compressões
+torácicas no ciclo 30:2, o DEA indica ritmo chocável.
+Analise o caso e assinale a conduta correta após aplicação do choque.
+Alternativas:
+(alternativa A)
+Verificar o pulso e, se ausente, iniciar compressões torácicas e ventilação com pocket
+mask até a próxima análise do DEA.
+(alternativa B)
+Aguardar análise do DEA após o choque e só reiniciar ciclos de 30 compressões e 2
+ventilações se o ritmo continuar chocável.
+(alternativa C)
+Manter ciclos de 2 minutos de compressões e ventilação contínuas pela pocket mask até
+a chegada do suporte avançado.
+(alternativa D) (CORRETA)
+Retomar imediatamente compressões torácicas e ventilação no ciclo 30:2, enquanto
+aguarda novas orientações do DEA.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 13 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+De acordo com o protocolo de Suporte Básico de Vida da AHA (2020–2025), ao identificar
+uma parada cardiorrespiratória em adulto com ritmo chocável, o socorrista deve aplicar o
+choque assim que indicado pelo DEA e retomar imediatamente as compressões torácicas,
+mantendo o ciclo 30:2 com ventilação assistida (no caso, com pocket mask).
+O DEA deve permanecer conectado, realizando nova análise a cada 2 minutos ou
+conforme suas instruções automáticas.
+As demais alternativas estão incorretas porque:
+erra ao propor compressões contínuas (devem ser 30:2 com pocket mask).
+contraria o protocolo ao sugerir aguardar a nova análise antes de reiniciar
+compressões.
+ventilação contínua não é recomendada com pocket mask, pois exige pausa
+para compressão.
+jamais se deve interromper o ciclo até a chegada do suporte avançado.
+Referências:
+AMERICAN HEART ASSOCIATION. Destaques das Diretrizes de RCP e ACE de 2020 da
+American Heart Association. Dallas: American Heart. Association, 2020.
+SOCIEDADE BRASILEIRA DE CARDIOLOGIA. Atualização da diretriz de ressuscitação
+cardiopulmonar e cuidados cardiovasculares de emergência da Sociedade Brasileira de
+Cardiologia. Arquivos Brasileiros de Cardiologia, v. 113, n. 3, p. 449-663, 2019.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+2
+2
+[Habilidades]
+Descrever como utilizar o DEA e/ou pocket-mask.
+Descrever o correto uso do DEA e/ou pocket-mask no
+adulto.
+Reconhecer uma PCR no adulto.
+Descrever o correto uso do DEA no adulto.
+Identificar o inicio do atendimento da PCR em adultos com
+uso da pocket-mask.
+[Áreas de Conhecimento]
+Semiologia
+Semiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA IPATINGA
+[Subáreas de Conhecimento]
+Emergências
+[Competências (Objetivos)]
+Identificar o início do atendimento da PCR em adultos com
+uso da pocket-mask.
+9ª QUESTÃO
+
+Código da questão:
+
+151718
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 14 de 27
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(AFYA ABAETETUBA) Durante uma aula prática de exame físico neurológico, o professor
+orienta um aluno a avaliar a força e o tônus muscular de um paciente com queixa de
+fraqueza em hemicorpo direito. Ao exame, o aluno observa: resistência aumentada à
+movimentação passiva dos membros, principalmente nos flexores do antebraço e
+extensores da perna, e o paciente consegue mover os segmentos contra a gravidade,
+mas cede parcialmente à resistência aplicada. Nas manobras deficitárias de Barré e
+Mingazzini, há leve queda dos membros direitos após alguns segundos.
+Considerando os achados, assinale a alternativa que indique a interpretação mais
+provável.
+Alternativas:
+(alternativa A) (CORRETA)
+Fraqueza grau 4 (MRC), com hipertonia de origem piramidal (lesão do neurônio motor
+superior).
+(alternativa B)
+Fraqueza grau 2 (MRC), com hipotonia periférica (lesão do neurônio motor inferior).
+(alternativa C)
+Fraqueza grau 3 (MRC), com hipotonia de origem cerebelar.
+(alternativa D)
+Força preservada (grau 5 MRC), com hipertonia extrapiramidal (lesão dos núcleos da
+base).
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 15 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+A alternativa correta é a que indica “Fraqueza grau 4 (MRC), com hipertonia de origem
+piramidal (lesão do neurônio motor superior).” A escala MRC (Medical Research Council)
+classifica a força muscular de 0 a 5. O grau 4 corresponde à capacidade de mover o
+membro contra a gravidade e alguma resistência, mas com redução parcial da força. A
+hipertonia espástica (resistência maior nos flexores de membro superior e extensores de
+membro inferior) é característica de lesão do trato corticoespinal (neurônio motor
+superior). As manobras de Barré e Mingazzini positivas (queda lenta do membro)
+reforçam o diagnóstico de déficit piramidal.
+As demais alternativas estão incorretas:
+A alternativa que indica “Fraqueza grau 3 (MRC), com hipotonia de origem
+cerebelar” é incorreta. No grau 3, o movimento é apenas contra a gravidade,
+sem resistência; além disso, lesões cerebelares causam incoordenação, não
+hipertonia.
+A alternativa que indica “Força preservada (grau 5 MRC), com hipertonia
+extrapiramidal (lesão dos núcleos da base)” é incorreta. O paciente apresenta
+fraqueza leve (grau 4) e hipertonia espástica, não plástica, típica do sistema
+extrapiramidal.
+A alternativa que indica “Fraqueza grau 2 (MRC), com hipotonia periférica (lesão
+do neurônio motor inferior)” é incorreta. No grau 2, o movimento ocorre apenas
+com gravidade eliminada, o que não é o caso; além disso, a hipotonia periférica
+não se associa à espasticidade.
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+CAMPBELL, William W.; BAROHN, Richard J. DeJong. O Exame Neurológico. 8. ed. Rio de
+Janeiro: Guanabara Koogan, 2021.
+CIPRIANO, Joseph J. Manual fotográfico de testes ortopédicos e neurológicos. 5. ed. Porto
+Alegre: ArtMed, 2012.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+PORTO, Celmo C. Semiologia Médica, 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico, 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+6
+[Áreas de Conhecimento]
+Semiologia
+[Subáreas de Conhecimento]
+Exame Neurológico
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+[Habilidades]
+Entender a aplicação da avaliação da força e tônus
+muscular (avaliar mmss, mmii, tronco e manobras
+deficitárias de força).
+10ª QUESTÃO
+
+Código da questão:
+
+151719
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 16 de 27
+
+Treine as provas online! www.acervo.vip
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(AFYA ABAETETUBA) Durante uma atividade prática de propedêutica, um estudante de
+medicina realiza o exame de fundoscopia em um paciente hipertenso. O professor
+observa que o aluno posiciona o oftalmoscópio na mão direita, aproxima-se do olho
+direito do paciente, pede que este olhe para um ponto fixo ao longe e ajusta o foco até
+visualizar o disco óptico. O examinador mantém o braço esquerdo sobre o ombro do
+paciente para estabilidade e regula a intensidade da luz.
+Considerando a técnica adequada de realização da fundoscopia, assinale a alternativa
+que indica corretamente o procedimento.
+Alternativas:
+(alternativa A)
+A aproximação deve ser feita em ângulo lateral de 90°, mantendo o oftalmoscópio
+afastado cerca de 30 cm do paciente.
+(alternativa B)
+O exame deve ser feito sempre com o olho esquerdo do examinador no olho direito do
+paciente, para melhor visualização da mácula.
+(alternativa C) (CORRETA)
+A técnica descrita está correta, pois o examinador usa o mesmo olho e a mesma mão
+correspondentes ao lado examinado, mantendo a estabilidade e o foco no disco óptico.
+(alternativa D)
+A fundoscopia deve ser feita com a sala bem iluminada, para evitar reflexos e facilitar o
+ajuste do foco no momento da realização do procedimento.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 17 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+A alternativa correta é a que indica “A técnica descrita está correta, pois o examinador
+usa o mesmo olho e a mesma mão correspondentes ao lado examinado, mantendo a
+estabilidade e o foco no disco óptico.” A fundoscopia é realizada em ambiente
+escurecido, com o examinador utilizando o olho direito e a mão direita para examinar o
+olho direito do paciente, e o mesmo para o lado esquerdo. O braço oposto serve de apoio
+sobre o ombro do paciente para estabilizar a distância. O exame inicia-se observando o
+reflexo vermelho da retina, seguido pela visualização do disco óptico, vasos e mácula.
+As demais alternativas estão incorretas:
+A alternativa que indica “O exame deve ser feito sempre com o olho esquerdo do
+examinador no olho direito do paciente, para melhor visualização da mácula” é incorreta.
+Essa postura leva à colisão de rostos e dificulta o alinhamento dos eixos visuais.
+A alternativa que indica “A fundoscopia deve ser feita com a sala bem iluminada, para
+evitar reflexos e facilitar o ajuste do foco” é incorreta. O ambiente deve ser escurecido,
+pois a luz intensa contrai a pupila e dificulta a visualização das estruturas internas.
+A alternativa que indica “A aproximação deve ser feita em ângulo lateral de 90°,
+mantendo o oftalmoscópio afastado cerca de 30 cm do paciente” é incorreta. O exame
+deve ser feito próximo ao paciente (cerca de 2–3 cm), com abordagem em ângulo de 15°
+a 20° em relação à linha média.
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+CIPRIANO, Joseph J. Manual fotográfico de testes ortopédicos e neurológicos. 5. ed. Porto
+Alegre: ArtMed, 2012.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017.
+PUTZ, Carla. Oftalmologia - Ciências Básicas. 3. ed. Rio de Janeiro: GEN Guanabara
+Koogan, 2017.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+8
+[Áreas de Conhecimento]
+Semiologia
+[Subáreas de Conhecimento]
+Exame Neurológico
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+[Habilidades]
+Analisar a realização da técnica adequada de fundoscopia.
+11ª QUESTÃO
+
+Código da questão:
+
+149652
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - Integradora
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 18 de 27
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(AFYA IPATINGA) Paciente idoso, do sexo masculino, procura atendimento ambulatorial
+relatando dor na região lombossacra e glútea, mais intensa ao permanecer sentado ou ao
+levantar-se após longos períodos de repouso. Nega trauma recente. Durante o exame
+físico musculoesquelético, é realizado o Teste de Patrick (FABER), que reproduz dor na
+região posterior da bacia.
+Com base nesse achado, qual a interpretação correta do teste positivo realizado neste
+paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Sugere comprometimento da articulação sacroilíaca, compatível com sacroileíte.
+(alternativa B)
+Indica fraqueza dos músculos abdutores do quadril (glúteo médio e mínimo).
+(alternativa C)
+Indica dor intra-articular do quadril, sugestiva de coxartrose.
+(alternativa D)
+Sugere contratura do músculo psoas, comum em lombalgia mecânica.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 19 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+A alternativa que diz: "Sugere comprometimento da articulação sacroilíaca, compatível
+com sacroileíte" está correta, pois dor posterior evocada pelo teste FABER indica
+alteração sacroilíaca.
+O Teste de Patrick (FABER – Flexão, Abdução e Rotação Externa) é realizado com o
+paciente em decúbito dorsal, colocando o membro inferior em flexão, abdução e rotação
+externa, formando um “4” sobre o joelho oposto.
+O examinador estabiliza a pelve e aplica leve pressão sobre o joelho do membro testado.
+Dor na região inguinal: indica acometimento intra-articular do quadril.
+Dor na região sacroilíaca ou glútea: sugere inflamação da articulação sacroilíaca
+(sacroileíte).
+Essa manobra auxilia os estudantes a diferenciar dor de origem no quadril da dor
+sacroilíaca, essencial na avaliação clínica do membro inferior.
+A alternativa que diz: "Indica dor intra-articular do quadril, sugestiva de coxartrose" está
+incorreta, pois essa dor seria anterior (virilha), não posterior.
+A alternativa que diz: "Sugere contratura do músculo psoas, comum em lombalgia
+mecânica" está incorreta, pois o teste FABER não avalia diretamente o psoas; o teste
+específico seria o teste de Thomas.
+A alternativa que diz: "Indica fraqueza dos músculos abdutores do quadril (glúteo médio e
+mínimo)" está incorreta, pois essa situação é avaliada pelo sinal de Trendelenburg, não
+pelo teste de Patrick.
+Referências:
+BASTOS, R. R. O Método Clínico. Juiz de Fora: Bartlebee, 2014.
+CIPRIANO, Joseph J. Manual fotográfico de testes ortopédicos e neurológicos. 5. ed. Porto
+Alegre: ArtMed, 2012. E-book. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788536327945/. Acesso em: 25
+out. 2025.
+LEITE, Nelson M.; FALOPPA, Flávio. Propedêutica ortopédica e traumatológica. Porto
+Alegre: ArtMed, 2013. E-book. p.236. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788565852470/. Acesso em: 25
+out. 2025.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+PORTO, Celmo C. Semiologia Médica. 8. ed. Rio de Janeiro: Guanabara Koogan, 2019. Ebook, p. 1. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527734998/. Acesso em: 25
+out. 2025.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8. ed. Rio de Janeiro: Guanabara
+Koogan, 2017. E-book, p. 301. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788527731034/. Acesso em: 25
+out. 2025.
+Feedback:
+--
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 20 de 27
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+10
+[Módulos integrados]
+HAM
+[Áreas de Conhecimento]
+Ortopedia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA IPATINGA
+[Subáreas de Conhecimento]
+Semiologia
+[Competências (Objetivos)]
+Compreender a avaliação do membro inferior (quadril,
+joelho e tornozelo).
+12ª QUESTÃO
+
+Código da questão:
+
+151720
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(AFYA ABAETETUBA) Durante uma aula prática de propedêutica, o professor solicita a um
+estudante que realize a otoscopia em um paciente que se queixa de diminuição da
+audição e sensação de plenitude no ouvido direito. O aluno posiciona o paciente sentado,
+traciona suavemente o pavilhão auricular para cima e para trás, introduz o otoscópio com
+cuidado e observa uma membrana timpânica de coloração acinzentada e brilhante, com
+o reflexo luminoso preservado. Não há secreções nem abaulamentos.
+Considerando a técnica e os achados descritos, assinale a alternativa que indica a
+interpretação correta do exame.
+Alternativas:
+(alternativa A)
+Otite média aguda com abaulamento da membrana timpânica e hiperemia.
+(alternativa B)
+Perfuração timpânica central, com ausência de reflexo luminoso e secreção no conduto
+auditivo.
+(alternativa C)
+Otite média serosa, com perda do brilho e retração da membrana timpânica.
+(alternativa D) (CORRETA)
+Conduto auditivo normal e membrana timpânica íntegra, com achado compatível com
+normalidade.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 21 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+A alternativa correta é a que indica “Conduto auditivo normal e membrana timpânica
+íntegra, com achado compatível com normalidade.” A otoscopia normal revela conduto
+auditivo externo limpo, membrana timpânica translúcida, acinzentada e brilhante, com
+reflexo luminoso triangular (geralmente anteroinferior). O exame deve ser realizado com
+o paciente sentado, puxando o pavilhão auricular para cima e para trás em adultos (ou
+para baixo e para trás em crianças pequenas) para retificar o conduto.
+As demais alternativas estão incorretas:
+A alternativa que indica “Otite média aguda com abaulamento da membrana timpânica e
+hiperemia” é incorreta. Não há abaulamento, coloração avermelhada nem perda do
+brilho, que são típicos de otite média aguda.
+A alternativa que indica “Otite média serosa, com perda do brilho e retração da
+membrana timpânica” é incorreta. A membrana descrita está brilhante e sem retração, o
+que indica normalidade.
+A alternativa que indica “Perfuração timpânica central, com ausência de reflexo luminoso
+e secreção no conduto auditivo” é incorreta. O exame não mostra solução de
+continuidade nem secreção, o que afasta perfuração timpânica.
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+CAMPBELL, William W.; BAROHN, Richard J. DeJong - O Exame Neurológico. 8. ed. Rio de
+Janeiro: Guanabara Koogan, 2021.
+CIPRIANO, Joseph J. Manual fotográfico de testes ortopédicos e neurológicos. 5. ed. Porto
+Alegre: ArtMed, 2012.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+PORTO, Celmo C. Semiologia Médica. 8ª edição. Rio de Janeiro: Guanabara Koogan, 2019.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+9
+[Áreas de Conhecimento]
+Semiologia
+[Subáreas de Conhecimento]
+Exame Neurológico
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+[Habilidades]
+Interpretar a realização do exame de otocospia.
+13ª QUESTÃO
+
+Código da questão:
+
+149213
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: Integradora
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 22 de 27
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(UNIFIPMOC) Uma criança de 11 anos de idade relata para sua professora visão dupla há
+30 dias, especialmente quando tenta olhar para o colega de sala sentado à sua direita. Ao
+exame neurológico, nota-se que, ao tentar desviar o olhar para a direita, o olho direito
+não ultrapassa a linha média, permanecendo em posição primária, enquanto o olho
+esquerdo move-se normalmente. A criança não apresenta ptose palpebral nem desvio
+ocular em repouso. Reflexos pupilares e movimentos verticais estão preservados.
+Com base nas informações clínicas e no exame neurológico, qual nervo craniano está
+comprometido?
+Alternativas:
+(alternativa A)
+IV par craniano.
+(alternativa B)
+III par craniano.
+(alternativa C)
+II par craniano.
+(alternativa D) (CORRETA)
+VI par craniano.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O nervo abducente (VI par) inerva o músculo reto lateral, responsável pela abdução do
+olho (movimento lateral). A incapacidade de mover o olho para fora, com diplopia
+horizontal ao olhar lateralmente, indica paralisia do VI par.
+Referência:
+PORTO, Celmo C.; PORTO, Arnaldo L. Semiologia Médica. 9. ed. Rio de Janeiro: Guanabara
+Koogan, 2025. E-book. p.1135. ISBN 9788527740692. Disponível em:
+https://app.minhabiblioteca.com.br/reader/books/9788527740692/. Acesso em: 12 out.
+2025.
+Feedback:
+--
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 23 de 27
+
+Treine as provas online! www.acervo.vip
+Filtros da questão:
+
+[Semanas]
+7
+[Módulos integrados]
+HAM
+[Competências (Objetivos)]
+Realizar o exame dos pares cranianos
+Entender o exame físico do sistema neurológico (pares
+cranianos I, V, VII, VIII, IX, X, XI, XII).
+[Áreas de Conhecimento]
+Semiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+UNIFIPMOC
+[Subáreas de Conhecimento]
+Sistema neurológico
+
+14ª QUESTÃO
+Código da questão:
+
+151717
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+Enunciado:
+(AFYA ABAETETUBA) Durante uma aula prática de propedêutica neurológica, o professor
+solicita a um aluno que realize as provas de coordenação em um paciente. O paciente,
+sentado, é instruído a tocar com o dedo indicador o próprio nariz e, em seguida, o dedo
+do examinador, repetindo o movimento várias vezes. Observa-se que o paciente erra a
+direção do movimento, ultrapassa o alvo e apresenta tremor de intenção. Em outro teste,
+o paciente tem dificuldade em realizar movimentos rápidos e alternados das mãos sobre
+as coxas.
+Considerando os achados e as provas descritas, assinale a alternativa que indica a
+estrutura anatômica mais provavelmente comprometida.
+Alternativas:
+(alternativa A)
+Trato corticoespinal, responsável pela força muscular.
+(alternativa B)
+Córtex motor primário do lobo frontal.
+(alternativa C)
+Gânglios da base, responsáveis pelo controle postural e do tônus.
+(alternativa D) (CORRETA)
+Cerebelo, responsável pela coordenação e sinergia motora.
+
+Grau de dificuldade:
+
+Médio
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 24 de 27
+
+Treine as provas online! www.acervo.vip
+Resposta comentada:
+A alternativa correta é a que indica “Cerebelo, responsável pela coordenação e sinergia
+motora.” As provas de coordenação motora (dedo-nariz, calcanhar-joelho e movimentos
+alternados) avaliam a função cerebelar, responsável pela sinergia, precisão e ritmo dos
+movimentos voluntários. Os achados descritos — dismetria (ultrapassar o alvo) e tremor
+de intenção — são característicos de lesão cerebelar, especialmente dos hemisférios
+laterais. A adiadococinesia, dificuldade em realizar movimentos alternados rápidos,
+também reforça o diagnóstico de disfunção do cerebelo.
+As demais alternativas estão incorretas:
+A alternativa que indica “Córtex motor primário do lobo frontal” é incorreta.
+Lesões dessa área causam paresia ou paralisia, mas não afetam a coordenação
+de movimentos finos voluntários.
+A alternativa que indica “Trato corticoespinal, responsável pela força muscular”
+é incorreta. Lesões piramidais produzem hiperreflexia e espasticidade, não
+dismetria nem tremor de intenção.
+A alternativa que indica “Gânglios da base, responsáveis pelo controle postural e
+do tônus” é incorreta. As disfunções dos núcleos da base (como na doença de
+Parkinson) causam bradicinesia e rigidez, mas não os sinais de incoordenação
+descritos.
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+CIPRIANO, J. J. Manual fotográfico de testes ortopédicos e neurológicos. 5. ed. Porto
+Alegre: ArtMed, 2012.
+McGEE, S. Evidence-Based Physical Diagnosis. 5. ed. Elsevier, 2021.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017.
+Feedback:
+-Filtros da questão:
+
+[Semanas]
+5
+[Áreas de Conhecimento]
+Semiologia
+[Habilidades]
+Conhecer as provas de coordenação (dedo-nariz,
+calcanhar-joelho e movimentos alternados).
+Compreender a realização das provas de coordenação
+(dedo-nariz, calcanhar-joelho e movimentos alternados).
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA ABAETETUBA
+[Subáreas de Conhecimento]
+Semiologia
+15ª QUESTÃO
+
+Código da questão:
+
+149156
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 + N2 - N2 - Específica
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 25 de 27
+
+Treine as provas online! www.acervo.vip
+Enunciado:
+(AFYA PARAÍBA) Durante uma consulta de rotina em uma Unidade Básica de Saúde, um
+paciente adulto de 52 anos, portador de diabetes mellitus tipo 2 há 5 anos, apresenta-se
+para acompanhamento. Ele relata que realiza medições de glicemia capilar em casa com
+um glicosímetro, porém os valores registrados variam muito entre as aferições. No
+momento da consulta, a glicemia capilar medida na unidade apresentou valor de 94
+mg/dL.
+Com base no caso descrito, analise os fatores que podem interferir na acurácia da
+aferição da glicemia capilar e identifique a conduta mais adequada para garantir a
+confiabilidade dos resultados obtidos com o glicosímetro.
+Alternativas:
+(alternativa A)
+Quantidade inadequada de sangue na amostra; orientar que a gota de sangue utilizada
+deve cobrir apenas uma pequena porção da fita.
+(alternativa B)
+Variação dos dedos utilizados para a punção, recomendado a aferição no mesmo local
+para aumentar a precisão na leitura.
+(alternativa C) (CORRETA)
+Fitas reagentes expostas ao ar, recomendado o armazenamento adequado e substituição
+periódica.
+(alternativa D)
+Não higienização adequada das mãos, orientar que apenas na presença de sujidade
+visível pode haver interferência significativa nas medidas.
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Resposta correta: A conduta correta consiste em orientar o paciente sobre o uso e
+armazenamento adequados das tiras reagentes, bem como a importância da técnica
+correta de punção e higienização das mãos, pois todos esses fatores interferem
+diretamente na acurácia da medida da glicemia capilar.
+O uso de tiras reagentes abertas há muito tempo ou fora do prazo de validade
+compromete a reatividade química e, portanto, a precisão da leitura. Além disso, as tiras
+devem ser mantidas bem fechadas, em local seco e protegido da luz.
+Respostas Incorretas:
+Repetir a punção no mesmo dedo pode causar calosidade, dor local e até alterar o fluxo
+capilar, prejudicando a coleta da amostra. É indicado alternar os dedos e usar as laterais
+das polpas digitais.
+A higienização das mãos é fundamental para remover resíduos (como glicose de
+alimentos ou sujeira) que podem causar resultados falsamente elevados ou baixos.
+Um único valor normal obtido na consulta não garante que as medições domiciliares
+estejam corretas, pois o erro pode estar na técnica de uso do aparelho ou das tiras.
+Revisar a técnica é essencial para o autocontrole eficaz do diabetes.
+Referências:
+BASTOS, R. R. O Método Clínico. 1. ed. Juiz de Fora: Bartlebee, 2014.
+PORTO, Celmo C. Semiologia Médica. 8.ª edição. Rio de Janeiro: Guanabara Koogan,
+2019.
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8.ª edição. Rio de Janeiro: Guanabara
+Koogan, 2017.
+SOCIEDADE BRASILEIRA DE DIABETES. Diretriz da Sociedade Brasileira de Diabetes –
+Edição 2024. São Paulo: Sociedade Brasileira de Diabetes, 2024.
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 26 de 27
+
+Treine as provas online! www.acervo.vip
+Feedback:
+-Filtros da questão:
+
+[Áreas de Conhecimento]
+Semiologia
+[Validação de autoria]
+USO DE IA - Este conteúdo foi criado usando ferramentas
+de Inteligência Artificial (IA). Profissionais especialistas
+humanos revisaram este conteúdo antes da sua publicação.
+[IES]
+AFYA PARAÍBA
+[Habilidades]
+Analisar o uso e o monitoramento com o glicosímetro para
+glicemia capilar.
+[Semanas]
+15
+[Subáreas de Conhecimento]
+Sistema endócrino
+
+000179.750015.6511e1.c7bf89.be7ac3.fc9765.fcd353.6b8a7
+
+Página 27 de 27
+
+

@@ -1,0 +1,553 @@
+AFYA FACULDADE DE CIÊNCIAS MÉDICAS DA PARAÍBA
+CURSO DE MEDICINA
+
+NOTA FINAL
+
+Aluno:
+Componente Curricular: Integração Ensino-Serviço-Comunidade VI,
+INTEGRAÇÃO ENSINO-SERVIÇO-COMUNIDADE VI e INTEGRAÇÃO
+ENSINO-SERVIÇO-COMUNIDADE VIII
+Professor (es):
+Período: 202501
+
+Turma:
+
+Data:
+
+Reposição N1 IESC 6
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 16503 - CADERNO 001
+1ª QUESTÃO
+Enunciado:
+Você é médica(o) da Atenção Primária à Saúde- APS e atende um paciente de 56 anos, sem
+comorbidades conhecidas, que comparece para reavaliação com os seguintes dados:
+PA na consulta: 148x94 mmHg
+PA em consulta anterior: 144x92 mmHg
+Exames laboratoriais sem alterações (glicemia, função renal, eletrólitos, perfil lipídico)
+IMC: 31 kg/m²
+Relata consumo frequente de alimentos ultraprocessados, baixo nível de atividade
+física e sono irregular.
+Nega tabagismo e etilismo.
+Não apresenta sintomas.
+Com base nesse cenário clínico, responda:
+1. Como deve ser feito o diagnóstico de hipertensão arterial sistêmica (HAS) na APS?
+2. Que estratégias de tratamento não medicamentoso devem ser priorizadas neste caso?
+3. Qual conduta medicamentosa seria indicada nesse momento? Justifique.
+
+Alternativas:
+--
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 1 de 15
+
+Resposta comentada:
+1. Diagnóstico de HAS na APS
+Espera-se que o aluno reconheça que o diagnóstico de HAS deve ser feito com base em duas ou
+mais medidas anormais em ocasiões diferentes, preferencialmente com o uso de técnicas
+adequadas de aferição.
+Também pode citar o uso de MAPA ou MRPA como recursos auxiliares.
+A pressão ≥140x90 mmHg de forma persistente define o diagnóstico de hipertensão (GUSSO;
+LOPES, 2019).
+Incorreto se: o aluno concluir diagnóstico com base em uma única medida ou sem considerar o
+contexto.
+2. Tratamento não medicamentoso
+Deve incluir mudanças no estilo de vida:
+Redução do consumo de sal e alimentos processados
+Aumento da atividade física (mínimo 150 min/semana de exercício aeróbico)
+Controle de peso (o paciente tem IMC elevado)
+Melhora da higiene do sono
+Orientação nutricional, possivelmente com suporte multiprofissional
+Estratégias educativas de autocuidado
+Correto se o aluno propõe ações viáveis e contextualizadas à APS.
+Incorreto se mencionar apenas uma medida isolada ou generalizar sem direcionar ao caso.
+3. Conduta medicamentosa
+Como o paciente apresenta PA ≥140x90 mmHg em duas consultas, sem comorbidades, está no
+estágio 1 da HAS. Nesse cenário, pode-se aguardar até 3 meses com medidas não
+farmacológicas, salvo se PA não normalizar.
+No entanto, devido ao IMC elevado e estilo de vida inadequado, é aceitável iniciar tratamento
+medicamentoso de forma precoce, especialmente se o risco cardiovascular for considerado
+aumentado.
+A hidroclorotiazida ou clortalidona são drogas de escolha inicial. Outros possíveis incluem IECA
+ou BRA, sempre com seguimento e individualização.
+Correto se: reconhece possibilidade de início precoce ou abordagem escalonada, justifica escolha
+medicamentosa conforme evidências.
+Incorreto se: indica múltiplas medicações de imediato ou não justifica a conduta.
+Referência
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e Comunidade:
+princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+
+2ª QUESTÃO
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 2 de 15
+
+Enunciado:
+Em uma Unidade de Saúde da Família, você está realizando o atendimento de um paciente de 62
+anos, com história de poliúria e perda de peso recente. Após a anamnese, foi solicitado teste
+glicêmico capilar que retornou 225 mg/dl. Com base na apresentação clínica e exames
+complementares do paciente, marque a alternativa que apresenta o exame, que o médico precisa
+solicitar, para confirmar o diagnóstico de Diabetes Mellitus.
+Alternativas:
+(alternativa A)
+Insulina em jejum.
+(alternativa B)
+Teste oral de tolerância à glicose (TOTG).
+(alternativa C) (CORRETA)
+Hemoglobina glicada (HbA1c).
+(alternativa D)
+Teste de glicose pós-prandial.
+
+Resposta comentada:
+O paciente tem sintomas clássicos de hiperglicemia (poliúria, perda de peso) e uma glicemia
+capilar de 225 mg/dL, o que já sugere fortemente o diagnóstico de Diabetes Mellitus.
+Segundo o Ministério da Saúde e a ADA (American Diabetes Association):
+Em pacientes sintomáticos, uma glicemia ≥200 mg/dL (capilar ou plasmática, fora do jejum) já é
+suficiente para diagnóstico de diabetes, dispensando confirmação com outros exames.
+Contudo, na prática da APS, especialmente se estivermos diante de um caso ainda sem certeza
+diagnóstica ou sem urgência clínica, é prudente solicitar um exame que avalie o controle
+glicêmico nas últimas semanas para melhor fundamentar a conduta e acompanhar o paciente.
+A hemoglobina glicada (HbA1c) cumpre essa função, pois avalia a média da glicemia nos últimos
+2-3 meses e é um dos critérios diagnósticos de DM, com ponto de corte ≥6,5%.
+Por que não as outras?
+TOTG: é útil em casos duvidosos ou em pacientes com glicemia de jejum alterada
+(entre 100–125 mg/dL), mas não é necessário em pacientes sintomáticos com glicemia
+>200.
+Glicose pós-prandial: não é critério diagnóstico formal.
+Insulina em jejum: não é utilizada para diagnóstico de DM, mas sim para avaliar
+resistência insulínica em contextos específicos.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+3ª QUESTÃO
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 3 de 15
+
+Enunciado:
+Com base na Política Nacional de Atenção Integral à Saúde do Homem (PNAISH) e nos
+principais agravos à saúde masculina, avalie as afirmações a seguir:
+I. A baixa procura dos homens pelos serviços de saúde está relacionada a modelos culturais de
+masculinidade que associam o cuidado com a saúde à fragilidade.
+II. O câncer de próstata é uma neoplasia de alta incidência em homens, mas não representa a
+principal causa de morte masculina, sendo necessário abordar seu rastreamento de forma crítica
+e compartilhada.
+III. A saúde sexual e reprodutiva dos homens deve ser abordada na APS, sobretudo diante do
+aumento dos registros de violência sexual e da invisibilidade dessas demandas.
+IV. O principal foco da atenção à saúde do homem na APS deve ser a prevenção de infecções
+sexualmente transmissíveis, pois agravos como violências e doenças crônicas não são
+prioritários nesse nível de atenção.
+É correto apenas o que se afirma em:
+Alternativas:
+(alternativa A)
+I, II e IV.
+(alternativa B) (CORRETA)
+I, II e III.
+(alternativa C)
+II e IV.
+(alternativa D)
+I e III.
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 4 de 15
+
+Resposta comentada:
+Correta. Modelos tradicionais de masculinidade estimulam comportamentos de risco,
+desvalorizam o autocuidado e reforçam a resistência masculina à busca por serviços de saúde, o
+que contribui para diagnósticos tardios e maior mortalidade evitável (GUSSO; LOPES, 2019).
+Correta. Embora o câncer de próstata seja um dos cânceres mais frequentes em homens, ele
+não é a principal causa de morte nessa população. No Brasil e em outros países, causas
+externas (acidentes, homicídios) e doenças cardiovasculares são mais relevantes na carga global
+de mortalidade. O rastreamento do câncer de próstata deve ser realizado de forma
+individualizada, oportuna e com decisão compartilhada, evitando excessos e medicalização
+(GUSSO; LOPES, 2019).
+Correta. A saúde sexual masculina é tema essencial e frequentemente negligenciado na APS. A
+crescente notificação de violência sexual contra homens, especialmente adolescentes e
+populações vulneráveis, reforça a necessidade de uma abordagem integral, empática e centrada
+na pessoa (GUSSO; LOPES, 2019).
+Incorreta. As doenças crônicas não transmissíveis, como hipertensão e diabetes, e as causas
+externas, como violências e acidentes, são prioritárias na saúde do homem na APS. A prevenção
+de ISTs é importante, mas não deve ser o único foco. A visão integral deve abarcar saúde mental,
+paternidade, uso de substâncias, trabalho e sexualidade (GUSSO; LOPES, 2019).
+Referência
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e Comunidade:
+princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019. Cap. 68 – Saúde do homem.
+
+4ª QUESTÃO
+Enunciado:
+Uma profissional da Atenção Primária à Saúde realiza a avaliação de uma usuária de 38 anos,
+com queixa de cansaço e ganho de peso nos últimos meses. Durante a consulta, calcula o Índice
+de Massa Corporal- IMC da paciente e observa um valor de 33,4 kg/m². Considerando as
+recomendações da Linha de Cuidado do Ministério da Saúde para o sobrepeso e a obesidade na
+APS, assinale a alternativa que apresenta uma conduta compatível com o manejo clínico
+adequado:
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 5 de 15
+
+Alternativas:
+(alternativa A)
+Pacientes com obesidade grau II devem ser direcionados prioritariamente para grupos de
+educação em saúde, sem necessidade de acompanhamento clínico individualizado.
+(alternativa B) (CORRETA)
+O diagnóstico da obesidade se baseia na abordagem clínica e deve considerar vínculo, escuta
+qualificada e incentivo à mudança de comportamento, mesmo sem comorbidades associadas.
+
+(alternativa C)
+A presença de obesidade grau II deve motivar avaliação do risco cardiovascular e, se necessário,
+encaminhamento para atenção especializada, com base nos critérios de complexidade.
+
+(alternativa D)
+O diagnóstico da obesidade se baseia principalmente no IMC, sendo a medida da circunferência
+abdominal útil como complemento para estratificação de risco cardiometabólico.
+
+Resposta comentada:
+Com base apenas na classificação do IMC. A linha de cuidado recomenda avaliar a integralidade
+da condição clínica, incluindo risco cardiovascular e outras comorbidades. Ainda que o IMC seja
+central no diagnóstico, a circunferência abdominal tem papel importante mesmo em pessoas com
+sobrepeso ou obesidade, para avaliação de risco cardiometabólico — e não apenas como
+complemento. O item correto é que considera o vínculo, visto a consonância com a diretriz da
+APS centrada na pessoa, no vínculo e na promoção de práticas saudáveis. O acompanhamento
+clínico individualizado é recomendado em todos os graus de obesidade, podendo ser
+complementado — mas não substituído — por atividades coletivas.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+DUNCAN, Bruce B.; SCHMIDT, Maria Inês; GIUGLIANI, Elsa Regina Justo; et al. Medicina
+Ambulatorial: condutas de atenção primária baseadas em evidências. 5. ed. Porto Alegre: Artmed,
+2022.
+5ª QUESTÃO
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 6 de 15
+
+Enunciado:
+Em relação ao tratamento da pessoa com diabetes mellitus tipo 2 na Atenção Primária à Saúde
+(APS), avalie as afirmações a seguir:
+I. A base do tratamento do diabetes tipo 2 na APS é a mudança do estilo de vida, com foco em
+alimentação saudável, atividade física regular, cessação do tabagismo e educação em saúde.
+II. A metformina é considerada o fármaco de primeira escolha no tratamento do DM2, salvo
+contraindicações, e deve ser iniciada mesmo sem tentativa prévia de mudanças
+comportamentais.
+III. O tratamento deve ser individualizado, considerando idade, comorbidades, risco
+cardiovascular, preferências do paciente e risco de hipoglicemia, em linha com os princípios da
+Medicina Centrada na Pessoa.
+IV. Em casos de descompensação glicêmica grave, com sintomas clássicos e HbA1c > 9%, a
+insulinoterapia deve ser iniciada como primeira escolha, mesmo em cenário de APS.
+É correto apenas o que se afirma em:
+
+Alternativas:
+(alternativa A)
+II, III e IV.
+
+(alternativa B)
+I, II e III.
+(alternativa C) (CORRETA)
+I, III e IV.
+
+(alternativa D)
+I e III.
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 7 de 15
+
+Resposta comentada:
+Assertiva I – Correta. A mudança de estilo de vida é a base da abordagem terapêutica na APS. A
+combinação de alimentação balanceada, prática regular de exercícios físicos, perda de peso,
+redução de estresse e apoio à cessação do tabagismo pode melhorar significativamente o
+controle glicêmico e prevenir complicações (GUSSO; LOPES, 2019).
+Assertiva II – Incorreta. Embora a metformina seja o medicamento de primeira escolha, ela não
+deve ser iniciada automaticamente sem tentativa de abordagem não farmacológica,
+especialmente em casos leves ou recém-diagnosticados. A recomendação é iniciar com
+mudanças de estilo de vida e, se não houver melhora clínica ou laboratorial em 2 a 3 meses,
+iniciar a metformina — salvo em pacientes com HbA1c muito elevada ou sintomas importantes
+(GUSSO; LOPES, 2019).
+Assertiva III – Correta. O princípio da individualização terapêutica é central na prática clínica. A
+escolha do regime de tratamento deve levar em conta o risco cardiovascular, função renal, risco
+de hipoglicemia, perfil socioeconômico, grau de adesão, acesso aos medicamentos e
+preferências do paciente, conforme preconiza a abordagem centrada na pessoa (GUSSO;
+LOPES, 2019).
+Assertiva IV – Correta. Em pacientes com sintomas de hiperglicemia significativa (poliúria,
+polidipsia, perda de peso, HbA1c ≥ 9%) ou descompensação clínica evidente, a insulinoterapia
+pode e deve ser iniciada ainda na APS, conforme critérios clínicos, visando controle mais rápido e
+prevenção de complicações agudas (GUSSO; LOPES, 2019).
+Referência
+GUSSO, Gustavo; LOPES, José Mauro Ceratti. Tratado de Medicina de Família e Comunidade:
+princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019. Cap. 178 – Diabetes mellitus.
+6ª QUESTÃO
+Enunciado:
+Leia abaixo o Registro Orientado por Problemas da Paciente:
+S: Paciente do sexo feminino, 45 anos, comparece à Unidade de Saúde da Família solicitando um
+“check-up”. Refere cansaço ao final do dia e dor nos pés.
+O: Ao exame físico, o médico identifica acantose nigricante em região cervical e pressão arterial
+de 140/100 mmHg. Peso 98 kg e altura 160 cm.
+Com base no caso clínico e nos princípios do registro em saúde orientado por problemas, analise
+as afirmativas abaixo:
+I. No campo "S", devem ser registradas a demanda espontânea da usuária (check-up) e os
+sintomas referidos, como cansaço e dor nos pés.
+II. No campo "O", é adequado registrar os achados do exame físico, como acantose nigricante e
+valores da pressão arterial, sem interpretações diagnósticas.
+III. O campo "A" do SOAP permite o registro de hipótesis diagnósticas, como síndrome
+metabólica, que pode ser codificada no CIAP-2 por meio de códigos como T93 (hipertensão) e
+T82 (obesidade), mesmo na ausência da medida da circunferência abdominal.
+IV. O CIAP-2 é um sistema de classificação utilizado para registro de problemas e condições de
+saúde na APS, sendo compatível com o prontuário eletrônico do e-SUS APS.
+Está correto apenas o que se afirma em:
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 8 de 15
+
+Alternativas:
+(alternativa A)
+II, III e IV.
+(alternativa B)
+I e IV.
+(alternativa C)
+I, II e III.
+(alternativa D) (CORRETA)
+I, II, III e IV.
+
+Resposta comentada:
+A alternativa com todos os itens contemplados está correta porque todas as afirmativas refletem
+adequadamente os princípios do método SOAP e o uso do CIAP-2 na Atenção Primária à Saúde.
+A primeira afirmativa é verdadeira, pois o campo “S” (subjetivo) deve conter a demanda
+espontânea da usuária e os sintomas que ela refere, como cansaço e dor nos pés. A segunda
+também está correta ao afirmar que o campo “O” (objetivo) é reservado aos achados do exame
+físico, como a acantose nigricante e a pressão arterial elevada, sem incluir interpretações
+diagnósticas. A terceira afirmativa está adequada ao reconhecer que o campo “A” (avaliação)
+permite o registro de hipótesis diagnósticas, como síndrome metabólica, e que, mesmo na
+ausência da circunferência abdominal, é possível registrar os problemas identificados, como
+hipertensão (T93) e obesidade (T82), utilizando o CIAP-2. Por fim, a afirmativa IV é verdadeira ao
+indicar corretamente que o CIAP-2 é o sistema de classificação adotado para registro de
+problemas de saúde na APS e é compatível com o prontuário eletrônico do e-SUS APS.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+DUNCAN, Bruce B.; SCHMIDT, Maria Inês; GIUGLIANI, Elsa Regina Justo; et al. Medicina
+Ambulatorial: condutas de atenção primária baseadas em evidências. 5. ed. Porto Alegre: Artmed,
+2022.
+7ª QUESTÃO
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 9 de 15
+
+Enunciado:
+A organização do financiamento da Atenção Primária à Saúde (APS) no Sistema Único de Saúde
+(SUS) passou por alterações significativas com a publicação da Portaria GM/MS nº 3.493, de 10
+de abril de 2024. Essa normativa redefiniu os componentes e critérios de repasse federal,
+consolidando o modelo da Estratégia Saúde da Família e introduzindo mudanças na lógica de
+alocação de recursos.
+Considerando a legislação vigente e as implicações para a gestão municipal da APS, discorra
+sobre:
+a. As características centrais do atual modelo de financiamento da APS, incluindo seus
+componentes e critérios de repasse.
+b. As principais diferenças em relação ao modelo anterior (PAB Fixo e Variável), apontando dois
+impactos na gestão municipal.
+c. Uma análise crítica dos possíveis riscos e benefícios desse modelo para os princípios do SUS,
+como acesso, equidade e qualidade do cuidado.
+Alternativas:
+--
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 10 de 15
+
+Resposta comentada:
+O(a) estudante deve demonstrar conhecimento técnico da legislação atual e anterior, articulado a
+uma análise crítica dos impactos sobre a gestão e os princípios do SUS.
+a. Características centrais do modelo atual:
+O modelo de financiamento da APS foi reorganizado em quatro componentes principais:
+1. Capitação ponderada: repasse com base no número de pessoas cadastradas,
+ponderado por características como vulnerabilidade social e perfil demográfico.
+2. Vínculo e acompanhamento: incentivo condicionado à manutenção do vínculo
+longitudinal e à realização de ações de acompanhamento dos usuários.
+3. Ações estratégicas: recursos adicionais para programas específicos, como Saúde
+Bucal, Consultório na Rua, entre outros.
+4. Incentivo de transição: mecanismo temporário para garantir previsibilidade
+orçamentária durante a adaptação dos municípios ao novo modelo.
+b. Diferenças em relação ao modelo anterior:
+O modelo anterior baseava-se no PAB Fixo, com repasse automático por população IBGE, e no
+PAB Variável, atrelado à adesão a programas como Saúde da Família. Em comparação, o novo
+modelo:
+Exige cadastro nominal e atualizado dos usuários, vinculado a critérios de repasse, o
+que demanda maior capacidade de registro e gestão da informação;
+Pode gerar instabilidade financeira em municípios com dificuldades operacionais para
+atingir os critérios e metas estabelecidos.
+c. Análise crítica:
+Entre os riscos potenciais, destacam-se:
+Penalização de territórios com menor capacidade de cadastro e monitoramento;
+Risco de distorções no cuidado, com foco excessivo em metas quantitativas;
+Possível aumento das desigualdades intermunicipais.
+Entre os benefícios esperados:
+Maior incentivo à resolutividade e acompanhamento qualificado dos usuários;
+Estímulo à organização da informação e uso de dados na gestão;
+Integração de critérios de equidade na ponderação da capitação.
+A análise deve considerar se essas mudanças contribuem para a efetivação dos princípios do
+SUS, como universalidade, equidade e integralidade, à luz de evidências de implementação e do
+contexto local de gestão.
+Referência
+BRASIL. Ministério da Saúde. Portaria GM/MS nº 3.493, de 10 de abril de 2024. Altera a Portaria
+de Consolidação GM/MS nº 6, de 28 de setembro de 2017, para dispor sobre o financiamento
+federal da Atenção Primária à Saúde. Diário Oficial da União, Brasília, DF, 10 abr. 2024.
+
+8ª QUESTÃO
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 11 de 15
+
+Enunciado:
+Durante atendimento em uma Unidade de Saúde da Família, uma pessoa adulta de 58 anos
+comparece a uma consulta de rotina. Relata que, em outras ocasiões, foi informada sobre
+pressão arterial elevada, mas nunca iniciou acompanhamento. No momento, apresenta PA de
+152x94 mmHg em duas medições, com intervalo de cinco minutos, utilizando técnica correta.
+Está assintomática e não refere comorbidades.
+Com base no caso, assinale a alternativa que apresenta condutas adequadas no diagnóstico e
+avaliação inicial da hipertensão arterial sistêmica na Atenção Primária à Saúde:
+Alternativas:
+(alternativa A)
+Iniciar imediatamente o tratamento medicamentoso com base na leitura atual de PA ≥140x90
+mmHg, pois já é possível afirmar o diagnóstico mesmo sem aferições em dias distintos
+(alternativa B)
+A avaliação inicial deve incluir ecocardiograma para verificar alterações como discinesia
+ventricular esquerda, fundamentais para confirmar o diagnóstico e definir a conduta.
+(alternativa C)
+O diagnóstico da HAS é clínico, feito por aferições seriadas da PA; exames laboratoriais são úteis
+para o cuidado, mas não são necessários se a pessoa estiver assintomática.
+(alternativa D) (CORRETA)
+Confirmar o diagnóstico com novas aferições em dias distintos ou por MAPA/MRPA; e, solicitar
+exames laboratoriais e avaliar possíveis lesões de órgão-alvo como parte da conduta inicial.
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 12 de 15
+
+Resposta comentada:
+O gabarito correto é a alternativa que confirmar o diagnóstico com novas aferições em dias
+distintos ou por MAPA/MRPA; e, solicitar exames laboratoriais e avaliar possíveis lesões de
+órgão-alvo como parte da conduta inicial., pois representa a conduta recomendada pelas
+diretrizes nacionais para o manejo da hipertensão arterial sistêmica (HAS) na Atenção Primária à
+Saúde. O diagnóstico da HAS deve ser confirmado com aferições da pressão arterial em dias
+distintos ou por meio de métodos indiretos como a monitorização ambulatorial (MAPA) ou a
+medida residencial da pressão arterial (MRPA). Além disso, a avaliação inicial deve incluir
+exames laboratoriais, mesmo em pacientes assintomáticos, como creatinina, potássio, glicemia,
+perfil lipídico e exame de urina (EAS), com o objetivo de estratificar risco cardiovascular, rastrear
+comorbidades e identificar possíveis lesões de órgão-alvo.
+Está incorreta a ideia de que se deve iniciar tratamento medicamentoso com base em uma única
+leitura elevada de pressão arterial. Essa conduta é restrita a situações de emergência
+hipertensiva ou evidência clínica clara de lesão de órgão-alvo. Iniciar medicação sem confirmação
+adequada pode levar a intervenções desnecessárias.
+Embora seja verdade que o diagnóstico da HAS é eminentemente clínico e feito por meio de
+aferições da PA, não se deve considerar os exames laboratoriais como opcionais. Eles fazem
+parte da avaliação obrigatória na Atenção Primária, mesmo em pacientes sem sintomas, pois são
+fundamentais para orientar o plano terapêutico de forma segura e eficaz.
+Também está incorreta a afirmação de que a avaliação inicial deve incluir ecocardiograma. Esse
+exame pode ser indicado em situações específicas, como na suspeita de comprometimento
+cardíaco, mas não é necessário para confirmar o diagnóstico de HAS. A presença de alterações
+como discinesia do ventrículo esquerdo pode surgir em estágios mais avançados da doença e,
+por isso, sua investigação inicial não é indicada na rotina da APS.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+DUNCAN, Bruce B.; SCHMIDT, Maria Inês; GIUGLIANI, Elsa Regina Justo; et al. Medicina
+Ambulatorial: condutas de atenção primária baseadas em evidências. 5. ed. Porto Alegre: Artmed,
+2022.
+
+9ª QUESTÃO
+Enunciado:
+Agente comunitário de 58 anos, tabagista desde a juventude, comparece à Unidade de Saúde da
+Família com queixa de tosse produtiva matinal persistente e cansaço aos esforços. Relata piora
+dos sintomas no inverno e episódios de infecção respiratória de repetição no último ano. Ao
+exame físico, apresenta tórax em barril, uso discreto da musculatura acessória e sibilos
+dispersos à ausculta pulmonar. Com base na história clínica e nos achados do exame físico,
+marque a alternativa correta que traz o diagnóstico mais provável.
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 13 de 15
+
+Alternativas:
+(alternativa A) (CORRETA)
+Doença pulmonar obstrutiva crônica (DPOC).
+(alternativa B)
+Bronquiectasias.
+(alternativa C)
+Asma brônquica.
+(alternativa D)
+Pneumotórax espontâneo.
+
+Resposta comentada:
+Doença pulmonar obstrutiva crônica (DPOC)
+O quadro descrito é clássico de DPOC: tabagismo crônico, tosse produtiva matinal, dispneia aos
+esforços, exacerbações no inverno e sibilância. O exame físico com tórax em barril e uso de
+musculatura acessória reforça o diagnóstico. É a melhor opção.
+Asma brônquica
+Embora a asma também possa cursar com sibilância, é mais comum em pacientes mais jovens,
+com história pessoal ou familiar de atopia e sintomas variáveis. O histórico de tabagismo intenso
+e a tosse produtiva crônica não são típicos de asma.
+Bronquiectasias
+Apesar das infecções respiratórias recorrentes e da tosse produtiva poderem ocorrer em
+bronquiectasias, o caso não menciona expectoração purulenta abundante, hemoptoicos ou
+ausculta com estertores grossos. Além disso, o histórico e o exame físico favorecem mais
+DPOC.
+Pneumotórax espontâneo
+O pneumotórax espontâneo costuma se manifestar com dor torácica súbita e intensa, de início
+abrupto, associada a dispneia e ausência de murmúrio vesicular em um hemitórax. O paciente do
+caso tem sintomas crônicos e sinais de hiperinsuflação, o que não corresponde a um quadro
+agudo como o pneumotórax.
+Referências
+GUSSO, Gustavo; LOPES, José Mauro Ceratti (Orgs.). Tratado de Medicina de Família e
+Comunidade: princípios, formação e prática. 2. ed. Porto Alegre: Artmed, 2019.
+10ª QUESTÃO
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 14 de 15
+
+Enunciado:
+A evolução nos prontuários deve ter caráter multiprofissional e possibilitar o acompanhamento do
+quadro clínico dos pacientes, o ajuste das medidas terapêuticas, a solicitação de exames
+complementares e o acompanhamento de eventuais mudanças de status do paciente. Sugere-se
+utilizar o método “SOAP”, que permite uma leitura mais rápida e direta das informações. Sobre tal
+forma de registro em prontuário e o caso clínico, analise o registro a seguir:
+“Gabriel, 25 anos, veio ao serviço se queixando de otalgia há 3 dias. À otoscopia, observa-se
+opacidade e abaulamento da membrana timpânica à direita. Trata-se de uma otite média aguda.
+Prescrevo amoxicilina 875mg + clavulanato 125mg VO 12/12h por 7 dias.”
+I. As subjetividades descrevem o que o paciente relata sentir, assim o SOAP deve iniciar com
+"Gabriel, 25 anos, veio ao serviço se queixando de otalgia há 3 dias”.
+II. Se o profissional tem uma boa relação de confiança com Gabriel e considera a sua queixa
+como verdadeira e objetiva, é preferível registrar o relato de otalgia no “O”.
+III. A otite média aguda não pode ser confirmada apenas com a clínica e a otoscopia, portanto o
+registo do item “A” seria melhor descrito como “Provável otite média aguda?”
+IV. A otoscopia é subjetiva e operador-dependente, pois profissionais diferentes poderiam
+descrevê-la de formas distintas. Portanto, deve estar descrito no “S”.
+Está correto apenas o que se afirma apenas em :
+
+Alternativas:
+(alternativa A)
+I e II.
+(alternativa B)
+I, II e III.
+(alternativa C)
+II, III e IV.
+(alternativa D) (CORRETA)
+I.
+
+Resposta comentada:
+Todos os exames físicos devem ser assinalados no objetivo, e todo o relato do paciente deve ser
+assinalado no subjetivo. O diagnóstico de otite média aguda pode ser feito clinicamente com o
+auxílio da otoscopia.
+GUSSO, G, et al. Tratado de medicina de família e comunidade - 2 volumes: princípios, formação
+e prática. Disponível em: Minha Biblioteca, (2nd edição). Grupo A, 2019. (Cap. 48 e 49)
+
+000165.03001e.12c0de.50a84f.e9f26a.8cffad.494c91.dac2f
+
+Pgina 15 de 15
+
+

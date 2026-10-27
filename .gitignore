@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# acervo: PDFs e textos baixados (regeráveis via scripts/acervo)
+# acervo: PDFs baixados e cache do OCR (regeráveis via scripts/acervo)
 data/acervo/pdf
-data/acervo/txt
+scripts/acervo/.ocr

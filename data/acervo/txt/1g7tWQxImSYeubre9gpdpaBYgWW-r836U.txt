@@ -1,0 +1,748 @@
+NOTA FINAL
+
+CURSO DE MEDICINA - AFYA
+Aluno:
+Componente Curricular: Habilidades e Atitudes Médicas V
+Professor (es):
+Período: 202302
+
+Turma:
+
+Data:
+
+N1_ESPECIFICA_HAM 5_17OUTUBRO2023
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 09592 - CADERNO 004
+1ª QUESTÃO
+Código da questão:
+
+92590
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+
+acervo.top / acervotop.com
+
+Enunciado:
+Paciente masculino, 70 anos, hipertenso, tabagista e diabético, deu entrada no pronto-socorro
+com quadro de afasia e hemiparesia à direita, com início há cerca de 3 horas da admissão.
+Sinais vitais do paciente: PA 180 x 105 mmHg, FC 90 bpm, FR 14 ipm, SatO2 95% em ar
+ambiente.
+Diante do quadro apresentado, são feitas as seguintes afirmativas:
+I. A principal suspeita diagnóstica é um quadro de acidente vascular encefálico.
+II. O paciente não poderá ser submetido à trombólise, pois já se passaram mais de 2 horas do
+início dos sintomas.
+III. O quadro é compatível com acidente vascular encefálico hemorrágico.
+IV. O paciente deverá ser submetido à tomografia computadorizada de crânio para avaliar
+elegibilidade à trombólise.
+Assinale a alternativa correta.
+Alternativas:
+(alternativa A) (CORRETA)
+Apenas I e IV estão corretas.
+(alternativa B)
+Apenas II e III estão corretas.
+(alternativa C)
+Apenas I e II estão corretas.
+(alternativa D)
+Apenas I, II e III estão corretas.
+Grau de dificuldade:
+
+Médio
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 1 de 16
+
+Resposta comentada:
+Trata-se de um caso de acidente vascular encefálico (AVE). O diagnóstico do AVE é clínico,
+porém é necessário o exame de imagem, no caso a tomografia de crânio, para a devida
+classificação e diferenciação em isquêmico ou hemorrágico. E só após a sua realização e
+afastamento de quadros hemorrágicos é que o paciente poderá ser submetido à trombólise.
+A janela terapêutica para a realização da trombólise é de 4,5 horas.
+REFERÊNCAIS:
+Sociedade Brasileira de Cardiologia. Treinamento de Emergências Cardiovasculares Avançado.
+Manole: Barueri-SP, 2013.
+American Heart Association/American Stroke Association. Guidelines for the Early
+Management of Patients With Acute Ischemic Stroke. s.l [s.d.].
+Feedback:
+-Filtros da questão:
+
+[IES]
+UNIFIPMOC
+[Semanas]
+05
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Neurologia
+[Habilidades]
+Avaliar adequadamente o risco potencial de queda do paciente
+com AVC isquêmico propondo medidas preventiva.
+2ª QUESTÃO
+
+Código da questão:
+
+88442
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 2 de 16
+
+Enunciado:
+Paciente, sexo masculino, 55 anos, avaliado em ambulatório de atenção secundária de
+Neurologia, com história de internação recente por AVCi (acidente vascular cerebral isquêmico).
+Considere as seguintes proposições:
+I. A anamnese deve ser realizada perguntando-se a funcionalidade do paciente, de forma que a
+presença de AVC Rankin ≥ 4 está associada a um menor risco futuro de quedas.
+II. Pacientes com isquemia em território de artéria cerebral anterior e força grau III em membro
+inferior no período pós-AVC devem estar em programas de reabilitação.
+III. Em pacientes pós-AVC, com força grau II ou III em membro inferior ao exame físico, a
+reabilitação da marcha não deve ser priorizada.
+IV. A reabilitação do paciente pós-AVC promove uma maior funcionalidade, e com isso se reduz
+o risco de lesão por pressão.
+
+São verdadeiras apenas as seguintes proposições:
+Alternativas:
+(alternativa A)
+III e IV.
+(alternativa B) (CORRETA)
+II e IV.
+(alternativa C)
+I e III.
+(alternativa D)
+II e III.
+Grau de dificuldade:
+
+Difícil
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 3 de 16
+
+Resposta comentada:
+I. Pacientes com AVC podem ser classificados em cinco grupos funcionais, de acordo com a
+escala de Rankin modificada. A ocorrência de um AVC incapacitante (Rankin ≥ 4) conduz
+frequentemente a uma clara dependência funcional e a um maior risco de queda.
+II. Assim, todos os pacientes com sequela de AVC devem estar integrados a programas de
+reabilitação com vistas ao fortalecimento do grupo muscular afetado. Na impossibilidade de
+exercícios ativos, a mobilização passiva do membro afetado contribui para reduzir o grau de
+espasticidade e alívio da dor. Na falta de um fisioterapeuta, tais atividades devem ser
+orientadas pelo próprio médico ou outro profissional de saúde.
+III. Assim, todos os pacientes com sequela de AVC devem estar integrados a programas de
+reabilitação com vistas ao fortalecimento do grupo muscular afetado, objetivando a recuperação
+da funcionalidade.
+IV. Serviços de reabilitação oferecidos a pacientes com AVC reduzem a probabilidade de
+desfechos adversos como óbito, hospitalização ou institucionalização, melhorando a
+deambulação independente e a capacidade funcional e reduzindo o risco de quedas e outros
+eventos adversos como lesões por pressão.
+REFERÊNCIAS:
+S., B.L.; G., S.P. Bates – Propedêutica Médica. 12. ed. Grupo GEN: s.l., 2018.
+DUNCAN. Medicina Ambulatorial: Condutas de Atenção Primária Baseadas em Evidências. 4.
+ed. s.l. [s.d].
+
+Feedback:
+-Filtros da questão:
+
+[IES]
+FASA VIC
+[Semanas]
+05
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Neurologia
+Sistema Locomotor
+Sistema Nervoso
+[Habilidades]
+Avaliar adequadamente o risco potencial de queda do paciente
+com AVC isquêmico propondo medidas preventiva.
+
+3ª QUESTÃO
+Código da questão:
+
+89013
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 4 de 16
+
+Enunciado:
+Homem, 57 anos, trazido pela família ao Pronto Atendimento, com relato de crise epiléptica há
+30 minutos. Referem que o paciente apresentou rigidez muscular de braços, pernas e costas,
+acompanhada por movimentos rítmicos e repetitivos dos membros, queda da própria altura,
+mordedura de língua e liberação esfincteriana. Os familiares acrescentam que o paciente não
+tinha problemas clínicos, demência ou doença psiquiátrica. Relatam ainda que não toma
+medicamentos em casa por conta própria, não fuma e nem usa drogas ilícitas, mas bebe, no
+mínimo 3 a 4 drinques todos os dias após o trabalho e nos finais de semana quantias maiores,
+no entanto, nas últimas 24 horas, não ingeriu nada de álcool.
+De acordo com o quadro apresentado, avalie as seguintes assertivas:
+I. Durante o exame físico, o paciente apresentou um subtipo de crise epiléptica focal
+disperceptiva, cuja atividade elétrica anormal se origina e se limita a uma área específica do
+cérebro.
+II. A crise epiléptica apresentada pelo paciente é do tipo tônico-clônica generalizada, cuja
+atividade elétrica anormal envolve ambos os hemisférios cerebrais de forma simultânea.
+III. O paciente apresentou uma crise epiléptica generalizada do tipo ausência, que é
+caracterizada por contrações musculares rápidas e breves em diferentes partes do corpo,
+breve perda de consciência, geralmente com duração de alguns segundos.
+É correto o que se afirma apenas em
+Alternativas:
+(alternativa A)
+I.
+(alternativa B)
+I e III.
+(alternativa C) (CORRETA)
+II.
+(alternativa D)
+III.
+Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+Acerca do tema crise epiléptica, em se tratando de conceitos e tipos, o paciente em questão
+apresentou os seguintes sintomas: rigidez muscular de braços, pernas e costas, acompanhada
+por movimentos rítmicos e repetitivos dos membros, queda da própria altura, mordedura de
+língua e liberação esfincteriana, que caracterizam uma crise tônico-clônico generalizada.
+As crises epilépticas podem ser diferenciadas em dois grandes grupos: generalizadas e focais.
+Nas crises generalizadas, a atividade elétrica anormal envolve ambos os hemisférios cerebrais
+de forma simultânea.
+REFERÊNCIA:
+GREENBERG, David A.; AMINOFF, Michael J.; SIMON, Roger P. Neurologia clínica. Grupo A: s.l.,
+2014.
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 5 de 16
+
+Feedback:
+-Filtros da questão:
+
+[IES]
+UNISL PVH
+[Semanas]
+08
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Neurologia
+[Habilidades]
+Classificar a crise convulsiva.
+4ª QUESTÃO
+
+Código da questão:
+
+89880
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+Paciente, 65 anos, vem à consulta com queixa de dor no ombro direito há 6 anos. Refere que a
+dor vem piorando e que tem limitado o seu trabalho braçal na zona rural. Nega traumas e
+fraturas prévias. Relata que já utilizou algumas medicações anti-inflamatórias, mas com
+melhora temporária da dor, retornando ao uso após alguns dias. Refere piora da dor à noite,
+assim como ao tentar alcançar algum objeto em lugares altos. Foram realizados os testes de
+Jobe e Yokum.
+Com base no caso clínico, são apresentadas as seguintes asserções ligadas pela palavra
+"PORQUE":
+I – Os testes de Jobe e Yokum, quando positivos, caracterizam lesão do manguito rotador.
+PORQUE
+II – O músculo afetado é o subescapular.
+Conclui-se que
+Alternativas:
+(alternativa A) (CORRETA)
+a asserção I é uma proposição verdadeira, e a II é uma proposição falsa.
+(alternativa B)
+as asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.
+(alternativa C)
+a asserção I é uma proposição falsa, e a II é uma proposição verdadeira.
+(alternativa D)
+as asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 6 de 16
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+A assertiva I está correta, pois a positividade dos testes citados configura lesão do manguito
+rotador.
+A assertiva II está incorreta, pois o músculo avaliado e lesionado é o músculo supraespinhal
+(Teste de Jobe e Yokum), não justificando a primeira alternativa.
+O músculo subescapular pode ser avaliado por meio do teste de Gerber, assim como o teste de
+Patte avalia o músculo infraespinhal.
+REFERÊNCIAS:
+CELENO, P. C. Semiologia Médica, 8ª edição. Grupo GEN: s.l., 2019.
+BRASIL, R. F. et al. Investigação de ombro. Rev Bras Ortop. 199328(9). s.l. [s.d.]
+Hoppenfeld, S. Propedêutica ortopédica. Editora Atheneu: São Paulo,1987.
+
+Feedback:
+-Filtros da questão:
+
+[IES]
+UNIFIPGUANAMBI
+[Semanas]
+03
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Sistema Locomotor
+[Habilidades]
+Interpretar adequadamente o exame físico com avaliação da
+amplitude e mobilidade ativa e passiva do ombro, testes de
+impacto (mínimo teste de Neer), avaliação de síndromes de
+impacto (mínimo teste de Jobe), tendinite da cabeça longa do
+bíceps (mínimo teste de Speed), avaliação da amplitude de
+movimento, varo e valgo do cotovelo, palpação dos epicôndilos
+(tenossinovites).
+5ª QUESTÃO
+
+Código da questão:
+
+88087
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 7 de 16
+
+Enunciado:
+Homem, 45 anos, deu entrada na Unidade de Pronto Atendimento com queixas de sintomas
+motores involuntários. Refere ter feito uso recente de bromoprida para o tratamento de
+náuseas e vômitos. O paciente relata que os movimentos surgiram de forma repentina em
+face, língua e membros superiores. Além disso, mencionou uma sensação interna de
+inquietação.
+Com base no caso apresentado marque a alternativa correta.
+Alternativas:
+(alternativa A)
+O paciente apresenta um efeito colateral classificado como síndrome extrapiramidal, e, ao
+exame físico, devem ser encontradas hiporreflexia global e espasticidade.
+(alternativa B) (CORRETA)
+A informação do uso recente de bromoprida e os achados de movimentos involuntários de
+surgimento súbito reforçam a teoria de síndrome extrapiramidal induzida por fármaco.
+(alternativa C)
+O paciente apresenta sintomas de doença de Parkinson, pois movimentos involuntários de
+surgimento súbito são típicos da doença.
+(alternativa D)
+O paciente apresenta síndrome parkinsoniana, e a presença de tremor ao exame físico
+corrobora com a suspeita diagnóstica.
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Os antieméticos, a exemplo da metoclopramida e bromoprida, são classificados como
+procinéticos intestinais de ação antidopaminérgica. Suas ações terapêuticas procinéticas e
+antieméticas se devem, respectivamente, ao bloqueio dos efeitos inibitórios periféricos da
+dopamina sobre as fibras musculares do trato digestório por meio do antagonismo de
+receptores dopaminérgicos do tipo D2 e ao bloqueio desses receptores em regiões centrais
+como a área postrema (TONINI et al., 2004). Como qualquer procinético antidopaminérgico,
+podem causar a síndrome extrapiramidal, embora esses efeitos sejam mais raros com esses
+fármacos do que com outros procinéticos. Os sintomas e sinais neuromusculares das
+síndromes extrapiramidais incluem manifestações agudas, como discinesia, distonia (espasmos
+contínuos e contrações musculares), hipertonia, acinesia e acatisia.
+REFERÊNCIA:
+PORTO, Celmo C.; PORTO, Arnaldo L. Exame Clínico. 8. ed. Grupo GEN: s.l., 2017.
+Feedback:
+--
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 8 de 16
+
+Filtros da questão:
+
+[IES]
+UNIPTAN
+[Semanas]
+08
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Neurologia
+Sistema Nervoso
+[Habilidades]
+Relacionar as manifestações clinicas da reação extra-piramidal a
+bromoprida com o exame físico do paciente.
+6ª QUESTÃO
+
+Código da questão:
+
+89502
+
+Tipo da questão:
+
+Discursiva
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+Homem, 68 anos, hipertenso e com histórico de gota crônica, refere múltiplos episódios de dor
+e inflamação nas articulações dos pés, tornozelos e joelhos. Segundo o relato do paciente,
+inicialmente as dores acometiam apenas a articulação metatarsofalangeana do primeiro artelho
+(podraga), mas com o tempo as crises se tornaram oligo e até poliarticulares e com intervalos
+assintomáticos cada vez mais curtos.
+A) Cite três fatores de risco para o desenvolvimento de gota.
+B) Cite um achado ao exame físico que corrobora com o diagnóstico de gota crônica.
+Alternativas:
+-Grau de dificuldade:
+
+Difícil
+
+Resposta comentada:
+A) Fatores de risco para o desenvolvimento de gota: obesidade, dieta com maior ingestão de
+proteínas, etilismo, fármacos que diminuem a excreção renal de urato (tiazídicos, por exemplo)
+e fármacos que causam hiperuricemia.
+B) A presença de tofos endurecidos indica longa exposição à hiperuricemia, característica da
+gota crônica.
+REFERÊNCIA:
+JAMESON, J L.; FAUCI, Anthony S.; KASPER, Dennis L.; et al. Manual de Medicina de Harrison.
+Grupo A: s.l., 2021. E-book. ISBN 9786558040040.
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 9 de 16
+
+Feedback:
+-Filtros da questão:
+
+[IES]
+UNITPAC
+[Semanas]
+04
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Sistema Locomotor
+[Habilidades]
+Explicar os achados do exame físico com avaliação comparativa
+das extremidades.
+7ª QUESTÃO
+
+Código da questão:
+
+88047
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+No ambulatório, um estudante de Medicina do 5º período observa um paciente com dor na
+região sacroilíaca e decide realizar a manobra de Fabere para avaliar a integridade da
+articulação sacroilíaca. Ele posiciona o paciente em decúbito dorsal e realiza abdução, flexão e
+rotação externa do quadril, posicionando o tornozelo sobre o joelho oposto. O examinador, com
+uma das mãos localizadas sobre o joelho e a outra sobre a crista ilíaca contralateral, exerce
+pressão contra a mesa de exame.
+I – A manobra de Fabere é útil para avaliar problemas na articulação sacroilíaca e no quadril.
+PORQUE
+II – Se a dor for provocada ou exacerbada na região sacroilíaca durante a manobra de Fabere,
+pode ser indicativo de sacroileíte ou outra patologia relacionada à articulação sacroilíaca.
+A análise crítica do aluno deve determinar que
+Alternativas:
+(alternativa A)
+a asserção I é falsa, mas a asserção II é verdadeira.
+(alternativa B) (CORRETA)
+as duas asserções são verdadeiras, e a asserção II é uma justificativa correta da asserção I.
+(alternativa C)
+as duas asserções são verdadeiras, mas a asserção II não é uma justificativa correta da
+asserção I.
+(alternativa D)
+a asserção I é verdadeira, mas a asserção II é falsa.
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 10 de 16
+
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+As duas asserções são verdadeiras, e a asserção II é uma justificativa correta da asserção I.
+A manobra de Fabere é útil para avaliar problemas da articulação sacroilíaca e do quadril. Se a
+dor for provocada ou exacerbada na região sacroilíaca durante a manobra de Fabere, pode ser
+indicativo de sacroileíte ou outra patologia relacionada à articulação sacroilíaca. Nessa manobra,
+posiciona-se o paciente em decúbito dorsal e se realiza abdução, flexão e rotação externa do
+quadril, posicionando-se o tornozelo sobre o joelho oposto. O examinador, com uma das mãos
+localizadas sobre o joelho, e a outra sobre a crista ilíaca contralateral, exerce pressão contra a
+mesa de exame.
+REFERÊNCIAS:
+CELENO, P. C. Semiologia Médica. 8. ed. Grupo GEN, 2019.
+S., B.L.; G., S.P. Bates – Propedêutica Médica. 12. ed. Grupo GEN, 2018.
+Feedback:
+-Filtros da questão:
+
+[IES]
+FASA ITB
+[Semanas]
+01
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Sistema Locomotor
+[Habilidades]
+Conhecer as manobras de Lasegue, Fabere e Schoeber.
+8ª QUESTÃO
+
+Código da questão:
+
+87509
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+No Centro de Atenção Psicossocial (CAPS), um clínico geral recebe um paciente do sexo
+masculino, encaminhado pela Unidade Básica de Saúde (UBS), que demonstra dificuldade em
+distinguir entre o que é real e o que não é. Frequentemente salta de um tópico para outro, sem
+uma conexão lógica entre as ideias e apresenta comportamentos impulsivos e imprevisíveis.
+Durante a entrevista, relata que está ouvindo vozes e acredita que está sendo constantemente
+vigiado e perseguido, mesmo sem evidências concretas para tais crenças.
+Diante do exposto, assinale a alternativa que apresenta dois sintomas apresentados pelo
+paciente.
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 11 de 16
+
+Alternativas:
+(alternativa A) (CORRETA)
+Alucinações auditivas e delírios persecutórios.
+(alternativa B)
+Delirium e alucinações visuais.
+(alternativa C)
+Ilusões visuais e alucinações auditivas.
+(alternativa D)
+Delirium e alucinações auditivas.
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O paciente apresenta alterações de sensopercepção e de juízo e crítica, isto é, apresenta
+alucinações (presença de uma percepção sensorial na ausência de um estímulo real) e delírio
+(crença fixa e falsa realidade).
+REFERÊNCIA:
+MANSUR, Carlos G. Psiquiatria para o Médico Generalista. Grupo A: s.l., 2013.
+Feedback:
+-Filtros da questão:
+
+[IES]
+FMIT
+[Semanas]
+06
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Saúde Mental
+[Habilidades]
+Conhecer os principais itens da entrevista do paciente psicótico –
+com delírios persecutórios e alucinações auditivas provocadas
+pelo “chip chinês” na cabeça.
+9ª QUESTÃO
+
+Código da questão:
+
+92598
+
+Tipo da questão:
+
+Múltipla Escolha
+
+Unidade de avaliação: N1 - Específica
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 12 de 16
+
+Enunciado:
+Homem, pedreiro, 65 anos, procura o médico por apresentar dor no ombro direito. Ao
+examinar o paciente, o médico solicita que fique em pé, e com o membro superior em rotação
+interna e polegar voltado para o chão, realize uma elevação ativa do membro contra a
+resistência produzida pelo examinador. No entanto, a dor é insuportável e o paciente não
+consegue seguir as ordens do médico.
+Qual é o nome dessa manobra?
+Alternativas:
+(alternativa A)
+Teste de Yokum.
+(alternativa B)
+Teste de Speed.
+(alternativa C)
+Teste de Neer.
+(alternativa D) (CORRETA)
+Teste de Jobe.
+Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+Teste de Jobe (ou teste de supraespinhal):
+O paciente está sentado ou em pé.
+O braço afetado é elevado a 90 graus na frente do corpo, com o cotovelo
+estendido e o polegar apontado para baixo.
+O examinador aplica uma força descendente no braço enquanto o paciente
+tenta resistir.
+Dor ou fraqueza durante este teste sugere uma possível lesão no músculo
+supraespinhal.
+REFERÊNCIA:
+SKINNER, Harry B.; MCMAHON, Patrick J. CURRENT Ortopedia: Grupo A, 2015. E-book. ISBN
+9788580554366.
+Feedback:
+--
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 13 de 16
+
+Filtros da questão:
+
+[IES]
+ITPAC PALMAS
+[Semanas]
+03
+[Áreas de Conhecimento]
+Clínica médica
+[Subáreas de Conhecimento]
+Sistema Locomotor
+[Habilidades]
+Interpretar adequadamente o exame físico com avaliação da
+amplitude e mobilidade ativa e passiva do ombro, testes de
+impacto (mínimo teste de Neer), avaliação de síndromes de
+impacto (mínimo teste de Jobe), tendinite da cabeça longa do
+bíceps (mínimo teste de Speed), avaliação da amplitude de
+movimento, varo e valgo do cotovelo, palpação dos epicôndilos
+(tenossinovites).
+
+10ª QUESTÃO
+Código da questão:
+
+92588
+
+Tipo da questão:
+
+Discursiva
+
+Unidade de avaliação: N1 - Específica
+Enunciado:
+Recém-nascido, sexo feminino, com 10 dias de vida, vai ao pediatra devido a uma queixa da
+mãe de choro persistente. Ao exame físico, encontra-se ativo, reativo, corado e hidratado,
+anictérico e com as manobras de Barlow e Ortolani positivas à direita.
+A) Qual é a principal hipótese dignóstica?
+B) Cite cinco fatores de risco para essa doença.
+C) Descreva como são realizadas as manobas de Barlow e Ortolani.
+Alternativas:
+-Grau de dificuldade:
+
+Médio
+
+Resposta comentada:
+O quadro é clásico de uma provável doença do desenvolvimento do quadril.
+Os principais fatores de risco são: sexo feminino, raça branca, primiparidade, mãe jovem,
+apresentação pélvica ao nascimento, história familiar, oligo-hidrâmnio, recém-nascidos com
+maiores peso e altura e recém-nascidos com deformidades nos pés ou na coluna vertebral.
+1 – Manobra de Barlow:
+1. Posicionamento do Paciente: O examinador deve colocar o bebê de costas, com os
+quadris e joelhos flexionados a 90 graus.
+2. Avaliação do Quadril: Com uma mão, o examinador estabiliza a pélvis do bebê
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 14 de 16
+
+segurando o osso púbico e ilíaco. Com a outra mão, ele segura a coxa do bebê, com o
+polegar na parte interna da coxa e os dedos na parte externa.
+3. Manobra Propriamente Dita: Enquanto mantém o quadril em leve flexão, o
+examinador aplica uma pressão posterior (ou seja, empurra suavemente a coxa para
+trás) e um movimento adutivo (aproximando as coxas uma da outra). Durante esse
+movimento, o examinador está tentando deslocar a cabeça do fêmur posteriormente,
+para fora do acetábulo.
+4. Resultado Positivo: Se o quadril é instável ou está deslocado, a cabeça do fêmur se
+deslocará para fora do acetábulo. Isso é sentido pelo examinador como um "clique" ou
+um deslizamento.
+5. Interpretação: Se o quadril do bebê se deslocar com esta manobra, isso é um sinal
+positivo de displasia ou instabilidade do quadril. No entanto, um teste positivo não
+significa necessariamente que o bebê tenha displasia congênita do quadril. Outros
+exames e testes de imagem, como um ultrassom, podem ser necessários para
+confirmar o diagnóstico.
+É importante lembrar que a manobra de Barlow é frequentemente realizada em conjunto com a
+manobra de Ortolani, que é usada para reduzir um quadril deslocado. Ambas as manobras são
+cruciais para o exame inicial de bebês para avaliar a integridade e a função do quadril. Se
+houver suspeita de displasia ou luxação, é essencial encaminhar o paciente para uma avaliação
+ortopédica mais detalhada.
+2 – Manobra de Ortolani:
+1. Posicionamento do Paciente: O bebê deve ser colocado deitado de costas. O
+examinador flexiona os quadris e joelhos do bebê a 90 graus.
+2. Avaliação do Quadril: Usando ambas as mãos, o examinador avalia um quadril de
+cada vez. A mão correspondente ao quadril a ser testado (por exemplo, a mão direita
+para o quadril direito) deve segurar a coxa do bebê, com o polegar na face interna da
+coxa e os outros dedos na face externa, logo acima do joelho. A outra mão apoia a
+pélvis do bebê para estabilizá-la.
+3. Manobra Propriamente Dita: Enquanto mantém o quadril em leve adução (coxas
+próximas uma da outra), o examinador aplica uma força suave para cima (em direção
+anterolateral) na coxa enquanto a move para abdução (afastando a coxa do corpo
+central).
+4. Resultado Positivo: Se o quadril estiver deslocado inicialmente e for reposicionado ou
+reduzido durante a manobra, um "clique" ou sensação de deslizamento pode ser
+sentido. Isso indica que a cabeça do fêmur deslizou de volta para o acetábulo. Esse é
+um sinal positivo de Ortolani.
+5. Interpretação: Um sinal positivo de Ortolani sugere a presença de luxação ou
+displasia do quadril. No entanto, um sinal positivo não é conclusivo por si só. Se a
+manobra de Ortolani for positiva ou se houver qualquer outra suspeita de displasia, são
+necessárias avaliações adicionais, como um ultrassom do quadril, para confirmar o
+diagnóstico.
+A manobra de Ortolani é frequentemente realizada em conjunto com a manobra de Barlow,
+outra técnica de avaliação do quadril em recém-nascidos. Enquanto a manobra de Ortolani
+verifica se um quadril deslocado pode ser reduzido, a manobra de Barlow verifica se um quadril
+estável pode ser deslocado.
+REFERÊNCIA:
+DIOCLÉCIO JÚNIOR, C.; BURNS, Dennis Alexander R.; LOPEZ, Fábio A. Tratado de pediatria.
+v.1. Barueri-SP: Editora Manole, 2021. E-book. ISBN 9786555767476.
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 15 de 16
+
+Feedback:
+-Filtros da questão:
+
+[IES]
+ITPAC PALMAS
+[Semanas]
+04
+[Subáreas de Conhecimento]
+Sistema Locomotor
+[Habilidades]
+Descrever os sinais de Ortolani, Barlow, Galeazzi e Peter.
+[Áreas de Conhecimento]
+Clínica Pediátrica
+
+000095.92001f.a692b3.d89ed4.e64d35.9c7c5d.6eb5ec.bf888
+
+Pgina 16 de 16
+
+

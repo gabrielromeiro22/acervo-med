@@ -1,0 +1,1785 @@
+AFYA NOTA FINAL
+CURSO DE MEDICINA - AFYA
+Aluno:
+Componente Curricular: Estágio em Atenção Ambulatorial e Hospitalar em Clínica Cirúrgica
+Professor (es):
+Período: 202601 Turma:
+Data: 04/03/2026
+Acervo do
+N2 INTERNATO - MEDICINA - CC - 2026.1 - ROT 1 - 04/MARÇO - TEMA B
+RELATÓRIO DE DEVOLUTIVA DE PROVA
+PROVA 18683 - CADERNO 001 •Rique
+1ª QUESTÃO Quer treinar essa prova?
+Acesse:
+Enunciado:
+acervo.top / acervotop.com
+(AFYA GARANHUNS) No pronto-socorro, um paciente apresenta laceração extensa no
+dorso da mão direita, com necessidade de sutura e exploração superficial. A ferida
+envolve principalmente a região do 2º e 3º dedos, e o paciente refere dor importante ao
+manuseio. Opta-se por bloqueio periférico no punho para analgesia/anestesia do
+procedimento, evitando infiltração direta na ferida.
+Considerando a necessidade de cobertura sensitiva do dorso da mão e das regiões
+periungueais do 2° e 3º dedos, qual combinação de nervos deve ser bloqueada no punho
+para adequada analgesia, evitando bloqueios desnecessários?
+Alternativas:
+(alternativa A)
+Bloqueio dos nervos ulnar e mediano no punho.
+(alternativa B) (CORRETA)
+Bloqueio dos nervos radial superficial e mediano no punho.
+(alternativa C)
+Bloqueio dos nervos radial superficial e ulnar no punho.
+(alternativa D)
+Bloqueio dos nervos radial superficial, mediano e ulnar no punho.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 1 de 44
+
+Resposta comentada:
+O ramo superficial do nervo radial é responsável pela sensibilidade do dorso da mão e da
+face dorsal proximal do 2º e 3º dedos. Já a inervação das regiões periungueais desses
+dedos depende do nervo mediano. Assim, o bloqueio combinado do radial superficial e do
+mediano proporciona cobertura sensitiva adequada da área descrita, evitando bloqueio
+desnecessário do território ulnar.
+Explicação das incorretas:
+O nervo ulnar não é responsável pela sensibilidade do dorso lateral da mão nem do 2º e
+3º dedos, exceto pela metade ulnar do 4° e 5º dedos. O bloqueio combinado de ulnar e
+mediano deixaria descoberto o território do ramo superficial do nervo radial, resultando
+em analgesia incompleta da região descrita.
+Embora o nervo radial superficial cubra o dorso da mão e a face dorsal proximal dos
+dedos, o nervo ulnar não participa da inervação sensitiva do 2º e 3º dedos. Além disso,
+essa combinação não garantiria cobertura das regiões periungueais, que dependem do
+nervo mediano.
+O bloqueio simultâneo dos nervos radial superficial, mediano e ulnar proporcionaria
+anestesia mais extensa do que o necessário, incluindo territórios não envolvidos na lesão.
+Isso contraria o princípio de bloqueio seletivo, que visa analgesia adequada com o menor
+comprometimento sensitivo possível.
+Referências:
+Miller's Anesthesia. Capítulos de anestesia regional/periférica e anatomia aplicada dos
+bloqueios.
+Hadzic A. Textbook of Regional Anesthesia and Acute Pain Management. Bloqueios
+periféricos de membro superior (punho/mão) e distribuição sensitiva dos nervos mediano,
+unar e radial.
+Feedback:
+2ª QUESTÃO
+Enunciado:
+(AFYA MONTES CLAROS) Paciente masculino, 42 anos, vítima de explosão industrial, é
+admitido 3 horas após o evento com queimaduras profundas (3° grau) circunferenciais
+em ambos os membros superiores, estimadas em 22% da superfície corporal total.
+Encontra-se sob reposição volêmica conforme fórmula de Parkland, com débito urinário
+adequado.
+Após 6 horas de internação, evolui com dor intensa refratária à analgesia, parestesia
+distal, incapacidade de movimentar os dedos e aumento progressivo da tensão nos
+antebraços. Ao exame, as extremidades apresentam-se frias, com enchimento capilar
+lento. Pulsos radiais estão presentes ao Doppler, porém com amplitude reduzida.
+A pressão compartimental medida no antebraço direito é de 38 mmHg, com pressão
+arterial média de 70 mmHg.
+Considerando a fisiopatologia da queimadura profunda circunferencial e os dados clínicos
+apresentados, assinale a alternativa que indica a conduta mais adequada.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 2 de 44
+
+Alternativas:
+(alternativa A)
+Manter reposição volêmica otimizada e reavaliar pressão compartimental em 2 horas,
+pois a presença de pulso ao Doppler indica perfusão arterial preservada.
+(alternativa B)
+Indicar fasciotomia ampla imediata de todos os compartimentos do antebraço devido à
+pressão compartimental superior a 30 mmHg.
+(alternativa C)
+Suspender temporariamente a reposição volêmica para reduzir o edema e repetir
+avaliação hemodinâmica antes da intervenção cirúrgica.
+(alternativa D) (CORRETA)
+Realizar escarotomia imediata dos membros acometidos, com monitorização clínica
+subsequente, reservando fasciotomia apenas se não houver melhora da perfusão.
+Resposta comentada:
+Alternativa: Manter reposição volêmica otimizada e reavaliar pressão compartimental em
+2 horas, pois a presença de pulso ao Doppler indica perfusão arterial preservada.
+Incorreta.
+A presença de pulso arterial não exclui síndrome compartimental. O comprometimento
+inicial ocorre na microcirculação e no retorno venoso. Além disso, o delta pressão (PAM -
+pressão compartimental) é de 32 mmHg (70 - 38), limítrofe para isquemia crítica (<30
+mmHg sugere alto risco). O quadro clínico já é compatível com síndrome compartimental
+iminente. Aguardar é conduta inadequada.
+Alternativa: Realizar escarotomia imediata dos membros acometidos, com monitorização
+clínica subsequente, reservando fasciotomia apenas se não houver melhora da perfusão.
+Correta.
+Em queimaduras profundas circunferenciais, o mecanismo compressivo primário é a
+escara inelástica associada ao edema pós-ressuscitação.
+A escarotomia é a primeira intervenção indicada, pois remove a restrição externa à
+expansão tecidual.
+A fasciotomia está indicada apenas se, após escarotomia adequada, persistirem sinais de
+síndrome compartimental verdadeira por edema intracompartimental muscular.
+Alternativa: Indicar fasciotomia ampla imediata de todos os compartimentos do
+antebraço devido à pressão compartimental superior a 30 mmHg. Incorreta.
+Embora a pressão compartimental esteja elevada (>30 mmHg), em queimaduras
+circunferenciais, o componente externo é determinante. A fasciotomia primária sem
+escharotomia prévia representa conduta excessiva e aumenta a morbidade.
+Alternativa: Suspender temporariamente a reposição volêmica para reduzir o edema e
+repetir avaliação hemodinâmica antes da intervenção cirúrgica. Incorreta.
+Reduzir a reposição volêmica pode comprometer a perfusão sistêmica e não resolve a
+restrição mecânica causada pela escara. O edema é consequência esperada da
+ressuscitação, mas o problema central é a limitação da expansibilidade cutânea.
+Referências:
+TOWNSEND, Courtney M. et al. Sabiston: tratado de cirurgia: a base biológica da prática
+cirúrgica moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+AMERICAN COLLEGE OF SURGEONS. ATLS®: Advanced Trauma Life Support® Student
+Course Manual. 11. ed. Chicago: American College of Surgeons, 2023.
+Feedback:
+3ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 3 de 44
+
+Enunciado:
+(AFYA ITABUNA) Homem de 46 anos é admitido na emergência após trauma cervical por
+colisão automobilística. Apresenta rebaixamento do nível de consciência, estridor intenso,
+cianose perioral e esforço respiratório progressivo. A oximetria de pulso mostra saturação
+de oxigênio de 82% apesar de oxigênio suplementar. Tentativas de ventilação com bolsa-
+válvula-máscara são ineficazes devido à deformidade facial e edema cervical importante.
+A intubação orotraqueal é tentada sem sucesso, com visualização inadequada das cordas
+vocais. A capnografia não demonstra curva compatível com ventilação eficaz. O paciente
+evolui com piora rápida do padrão respiratório.
+Diante do quadro apresentado, qual é a conduta terapêutica imediata mais adequada
+para o manejo da via aérea desse paciente?
+Alternativas:
+(alternativa A) (CORRETA)
+Realizar cricotireoidostomia de emergência como via aérea cirúrgica definitiva no
+contexto de falha de ventilação e intubação.
+(alternativa B)
+Manter ventilação com bolsa-válvula-máscara e sedação profunda para reduzir esforço
+respiratório, mesmo sem capnografia compatível com ventilação eficaz.
+(alternativa C)
+Repetir tentativas de intubação orotraqueal sucessivas até obter sucesso técnico, apesar
+de ventilação ineficaz e piora clínica progressiva.
+(alternativa D)
+Solicitar avaliação especializada e aguardar condições ideais para traqueostomia eletiva,
+apesar de hipóxia grave e evolução rápida do quadro respiratório.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 4 de 44
+
+Resposta comentada:
+Realizar cricotireoidostomia de emergência como via aérea cirúrgica definitiva no
+contexto de falha de ventilação e intubação.
+Correta. O caso descreve claramente um cenário de "não ventila, não intuba" (CICO -
+can t intubate, can't oxygenate), caracterizado por falha de ventilação com bolsa-válvula-
+máscara, tentativas frustradas de intubação orotraqueal, ausência de capnografia
+compatível com ventilação eficaz e deterioração clínica com hipóxia grave. Segundo o
+algoritmo do ATLS 11ª edição e das diretrizes internacionais de via aérea difícil, a
+conduta imediata nesse contexto é estabelecer via aérea cirúrgica de emergência, sendo
+a cricotireoidostomia o método recomendado por sua rapidez, segurança relativa e
+viabilidade no cenário de urgência. A demora nessa decisão aumenta significativamente
+o risco de parada cardiorrespiratória hipóxica.
+Repetir tentativas de intubação orotraqueal sucessivas até obter sucesso técnico, apesar
+de ventilação ineficaz e piora clínica progressiva.
+Incorreta. Repetidas tentativas de intubação em cenário de ventilação ineficaz e
+deterioração clínica configuram erro crítico no manejo da via aérea difícil, pois aumentam
+o risco de hipóxia prolongada, trauma de via aérea e edema adicional. O ATLS e as
+diretrizes de via aérea difícil enfatizam que, diante de falha de ventilação e intubação,
+deve-se progredir rapidamente no algoritmo para via aérea cirúrgica, e não insistir em
+tentativas repetidas que atrasam a oxigenação adequada.
+Manter ventilação com bolsa-válvula-máscara e sedação profunda para reduzir esforço
+respiratório, mesmo sem capnografia compatível com ventilação eficaz.
+Incorreta. A ventilação com bolsa-válvula-máscara já se mostrou ineficaz devido à
+deformidade facial e edema cervical, e a ausência de capnografia compatível confirma
+falha ventilatória. Sedação profunda nesse contexto pode agravar a obstrução da via
+aérea e precipitar parada respiratória completa. Manter uma estratégia
+comprovadamente ineficaz diante de hipóxia progressiva contraria os princípios básicos
+do manejo emergencial da via aérea.
+Solicitar avaliação especializada e aguardar condições ideais para traqueostomia eletiva,
+apesar de hipóxia grave e evolução rápida do quadro respiratório.
+Incorreta. Aguardar condições ideais ou avaliação especializada não é conduta aceitável
+diante de hipoxia grave e deterioração rápida. A traqueostomia eletiva não é
+procedimento de escolha em emergência imediata, pois é mais demorada e
+tecnicamente complexa. O ATLS recomenda cricotireoidostomia como via aérea cirúrgica
+emergencial no cenário CICO, devendo ser realizada prontamente para restaurar a
+oxigenação.
+Referência:
+AMERICAN COLLEGE OF SURGEONS. Advanced trauma life support (ATLS®): student
+course manual. 11. ed. Chicago: American College of Surgeons, 2023.
+Feedback:
+4ª QUESTÃO
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Um paciente de 68 anos, internado em UTI por sepse de foco
+pulmonar, evolui com necessidade de uso de noradrenalina em dose crescente e
+antibioticoterapia endovenosa prolongada. Apresenta plaquetopenia leve (plaquetas:
+95.000/mm3), INR 1,4, sem sinais de sangramento ativo. Encontra-se em ventilação
+mecânica invasiva. O residente é chamado para realizar a inserção de um acesso venoso
+central.
+De acordo com as melhores evidências científicas atuais e visando à eficácia e à
+segurança do procedimento, qual é a conduta mais apropriada para a obtenção do
+acesso venoso central neste paciente?
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 5 de 44
+
+Alternativas:
+(alternativa A) (CORRETA)
+Escolher a veia jugular interna, preferencialmente à direita, utilizando ultrassonografia
+em tempo real para guiar a punção.
+(alternativa B)
+Optar pela veia subclávia direita, utilizando técnica de referência anatômica, por
+apresentar menor taxa de infecção associada ao cateter.
+(alternativa C)
+Realizar punção da veia femoral, independentemente da técnica guiada, por ser mais
+rápida e apresentar menor risco de complicações mecânicas.
+(alternativa D)
+Postergar o procedimento até a correção do INR e da plaquetopenia, pois o risco de
+sangramento contraindica o acesso venoso central.
+Resposta comentada:
+A alternativa "Escolher a veia jugular interna, preferencialmente à direita, utilizando
+ultrassonografia em tempo real para guiar a punçãoạé a correta, pois a veia jugular
+interna direita guiada por ultrassonografia é atualmente considerada a estratégia mais
+segura e baseada em evidências para obtenção de acesso venoso central em pacientes
+críticos.
+Explicação das incorretas:
+Embora a veia subclávia apresente menor taxa de infecção, o uso apenas de referência
+anatômica aumenta complicações mecânicas. A ultrassonografia é recomendada sempre
+que disponível.
+A via femoral apresenta maior risco infeccioso e trombótico, não sendo a primeira escolha
+quando outras opções são viáveis.
+Plaquetas > 50.000/mm3 e INR < 1,5 não contraindicam acesso venoso central na
+ausência de sangramento ativo.
+Referência:
+SABISTON, David C.; TOWNSEND, Courtney M.; BEAUCHAMP, R. Daniel; EVERS, B. Mark
+Tratado de cirurgia: fundamentos biológicos e clínicos da cirurgia moderna. 21. ed. Rio de
+Janeiro: Elsevier, 2022.
+Feedback:
+5ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 6 de 44
+
+Enunciado:
+(AFYA GARANHUNS) Paciente masculino, 32 anos, vítima de explosão, com queimaduras
+térmicas profundas em tórax anterior e membros superiores, estimadas em 35% da
+superfície corporal queimada (SCQ). Chega à emergência 2 horas após o evento.
+Encontra-se consciente, ansioso e com dor intensa.
+Sinais vitais iniciais:
+FC 132 bpm.
+PA 92/58 mmHg.
+FR 26 irpm.
+SatO≥ 95% em Oz suplementar.
+Lactato sérico: 4,3 mmol/L.
+Condutas iniciais conforme protocolo ATLS: dois acessos venosos calibrosos, início de
+reposição volêmica com Ringer Lactato segundo cálculo baseado na SCQ, analgesia
+titulada IV, aquecimento ativo e sonda vesical para monitorização horária da diurese.
+Após 1 hora de ressuscitação, apresenta:
+FC 126 bpm.
+PA 98/60 mmHg
+Lactato 4,1 mmol/L.
+Diurese de 0,2 mL/kg/h.
+Dor persistente necessitando ajuste analgésico.
+De acordo com as recomendações atuais do ATLS, qual é a conduta mais apropriada
+neste momento?
+Alternativas:
+(alternativa A)
+Manter a infusão inicialmente calculada até completar seis horas de ressuscitação antes
+de reavaliar a diurese.
+(alternativa B)
+Introduzir diurético intravenoso para elevar a diurese e manter a taxa atual de reposição
+volêmica.
+(alternativa C)
+Reduzir a infusão de cristaloide e iniciar vasopressor para estabilizar a pressão arterial
+média.
+(alternativa D) (CORRETA)
+Aumentar progressivamente a infusão de Ringer Lactato até atingir diurese ≥ 0,5
+mL/kg/h, mantendo reavaliação clínica seriada.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 7 de 44
+
+Resposta comentada:
+Segundo o ATLS 11ª edição, a ressuscitação volêmica no grande queimado deve ser
+ajustada dinamicamente com base na diurese, cuja meta no adulto é ≥ 0,5 mL/kg/h. A
+oligúria persistente indica necessidade de aumento gradual da infusão de cristaloide,
+com reavaliação clínica e laboratorial frequente.
+Explicação das incorretas:
+A ressuscitação nas primeiras horas deve ser guiada por metas fisiológicas e
+monitorização horária. Aguardar período fixo sem ajuste diante de oligúria pode manter
+hipoperfusão sistêmica.
+Vasopressores não substituem reposição volêmica adequada na fase inicial do grande
+queimado. Reduzir fluidos neste momento pode agravar a hipoperfusão tecidual.
+Diuréticos não são indicados na fase inicial da ressuscitação do grande queimado, pois a
+oligúria decorre principalmente de hipovolemia relativa e aumento da permeabilidade
+capilar.
+Referências:
+AMERICAN COLLEGE OF SURGEONS. ATLS®: Advanced Trauma Life Support - Student
+Course Manual. 11. ed. Chicago: American College of Surgeons, 2023.
+UpToDate (revisão clínica): "Emergency care of moderate and severe thermal burns in
+adults" e "Escharotomy" (monitorização, metas e conduta em queimaduras
+circunferenciais).
+Feedback:
+6ª QUESTÃO
+Enunciado:
+(AFYA PALMAS) Paciente feminina, 60 kg, será submetida a sutura de laceração
+superficial em membro superior sob anestesia local. Opta-se pelo uso de lidocaína a 2%
+sem vasoconstritor.
+Considerando que a dose máxima recomendada de lidocaína sem vasoconstritor é de 4,5
+mg/kg, qual é o volume máximo aproximado de lidocaína a 2% que pode ser
+administrado com segurança nessa paciente?
+Alternativas:
+(alternativa A)
+27 mL
+(alternativa B)
+35 mL
+(alternativa C) (CORRETA)
+13 mL
+(alternativa D)
+20 mL
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 8 de 44
+
+Resposta comentada:
+A dose máxima recomendada de lidocaína sem vasoconstritor é de 4,5 mg/kg.
+Para uma paciente de 60 kg:
+4,5×60=270 mg
+A lidocaína a 2% contém:
+2% = 20 mg/mL
+Logo:
+270 ÷ 20 = 13,5 mL
+O volume máximo aproximado é 13 mL.
+Explicação das incorretas:
+O volume de 20 mL de lidocaína a 2% corresponderia a 400 mg do anestésico (20 mL x
+20 mg/mL).
+O volume de 27 mL de lidocaína a 2% corresponderia a 540 mg do anestésico (27 mL x
+20 mg/mL).
+O volume de 35 mL de lidocaína a 2% equivaleria a 700 mg do anestésico (35 mL x 20
+mg/mL).
+Esses valores ultrapassam significativamente a dose máxima permitida para uma
+paciente de 60 kg, que é de 270 mg. A administração dessa quantidade aumentaria o
+risco de toxicidade sistêmica por anestésico local, podendo causar manifestações
+neurológicas e cardiovasculares.
+Referência:
+TOWNSEND, C. M. et al. Sabiston textbook of surgery: the biological basis of modern
+surgical practice. 21. ed. Philadelphia: Elsevier, 2022.
+Feedback:
+7ª QUESTÃO
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Um homem de 60 anos, diabético tipo 2 há 12 anos, obeso
+(IMC 33 kg/m') e tabagista, é submetido à colectomia eletiva por neoplasia de cólon. No
+10º dia de pós-operatório, apresenta ferida operatória com deiscência parcial superficial,
+tecido de granulação viável, exsudato moderado, sem sinais sistêmicos de infecção.
+Glicemias capilares mantêm-se elevadas (220-260 mg/dL).
+Considerando os princípios da medicina baseada em evidências e as estratégias
+terapêuticas que comprovadamente promovem a cicatrização, assinale a alternativa
+correta quanto à prescrição do tratamento.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 9 de 44
+
+Alternativas:
+(alternativa A)
+Iniciar antibiótico sistêmico de amplo espectro, sem necessidade de avaliação de sinais
+infecciosos, para assim acelerar o processo cicatricial.
+(alternativa B)
+Aplicar rotineiramente antissépticos tópicos concentrados (ex.: povidona-iodo) para
+estimular a cicatrização do local da ferida operatória.
+(alternativa C)
+Realizar o desbridamento do tecido viável e manter a ferida aberta sem curativo, para
+assim reduzir a umidade no local de interesse.
+(alternativa D) (CORRETA)
+Otimizar controle glicêmico, indicar curativo com ambiente úmido controlado e orientar
+cessação do tabagismo, associando avaliação nutricional.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 10 de 44
+
+Resposta comentada:
+Gabarito:
+Alternativa correta:
+Otimizar controle glicêmico, indicar curativo com ambiente úmido controlado e
+orientar cessação do tabagismo, associando avaliação nutricional.
+Comentário: Correta. É a conduta baseada em evidências para melhorar cicatrização
+em ferida operatória com deiscência superficial e tecido viável, sem sinais
+sistêmicos de infecção. O controle glicêmico reduz disfunção leucocitária e melhora
+síntese de colágeno; curativos de ambiente úmido controlado favorecem migração
+celular e formação de tecido de granulação; cessar tabagismo reduz vasoconstrição e
+hipóxia tecidual; avaliação nutricional corrige déficit proteico-calórico e micronutrientes
+críticos (ex.: zinco).
+Alternativa incorreta:
+Iniciar antibiótico sistêmico de amplo espectro, sem necessidade de avaliação
+de sinais infecciosos, para assim acelerar o processo cicatricial.
+Comentário: Incorreta. Antibiótico não acelera cicatrização na ausência de infecção;
+o uso empírico "para cicatrizar" aumenta risco de resistência, eventos adversos e colite
+por C. difficile. Em ferida com exsudato moderado e granulação viável sem sinais
+sistêmicos, a prioridade é otimizar fatores locais/sistêmicos, e antibiótico só se houver
+critérios clínicos/laboratoriais de infecção ou cultura indicada.
+Alternativa incorreta:
+Realizar o desbridamento do tecido viável e manter a ferida aberta sem
+curativo, para assim reduzir a umidade no local de interesse.
+Comentário: Incorreta. Desbridamento de tecido viável é contraproducente - remove
+matriz útil para granulação e retarda cicatrização. Além disso, "manter aberta sem
+curativo para reduzir umidade" contraria o princípio moderno: ambiente úmido
+controlado melhora epitelização e migração celular. Exposição ao ar aumenta
+desidratação, dor e risco de contaminação.
+Alternativa incorreta:
+Aplicar rotineiramente antissépticos tópicos concentrados (ex.: povidona-iodo)
+para estimular a cicatrização do local da ferida operatória.
+Comentário: Incorreta. Antissépticos concentrados têm potencial citotóxico
+(fibroblastos/queratinócitos), podendo prejudicar granulação e epitelização quando
+usados rotineiramente em feridas limpas/viáveis. Podem ter papel pontual em alta carga
+bacteriana/colonização crítica, com indicação específica e formulação adequada, mas
+não como estratégia padrão "para cicatrizar".
+Referência:
+SABISTON, David C.; TOWNSEND, Courtney M.; BEAUCHAMP, R. Daniel; EVERS, B. Mark.
+Tratado de cirurgia: fundamentos biológicos e clínicos da cirurgia moderna. 21. ed. Rio de
+Janeiro: Elsevier, 2022.
+Feedback:
+gª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 11 de 44
+
+Enunciado:
+(AFYA PALMAS) Lactente de 3 meses é levado à emergência com história de irritabilidade
+súbita, episódios de choro intenso seguidos de períodos de letargia e três episódios de
+vômito nas últimas 6 horas, sendo o último bilioso. Ao exame, apresenta distensão
+abdominal leve e dor à palpação difusa. Está taquicárdico, com perfusão periférica
+limítrofe.
+Radiografia simples de abdome evidencia distensão de alças e escassez de gás distal.
+Ultrassonografia abdominal mostra alças intestinais centrais dilatadas e redução do fluxo
+vascular mesentérico ao Doppler.
+Com base nos achados clínicos e complementares apresentados, qual é o diagnóstico
+mais provável e qual exame complementar confirma definitivamente essa condição?
+Alternativas:
+(alternativa A) (CORRETA)
+Vólvulo de intestino médio secundário à má rotação; estudo contrastado do trânsito
+intestinal alto.
+(alternativa B)
+Intussuscepção ileocólica; enema pneumático guiado por imagem.
+(alternativa C)
+Enterocolite infecciosa aguda; coprocultura e tratamento clínico.
+(alternativa D)
+Má rotação intestinal com obstrução proximal; enema hidrostático guiado por imagem.
+Resposta comentada:
+Correta. Vômito bilioso em lactente jovem associado a padrão radiográfico de obstrução
+alta e redução do fluxo mesentérico ao Doppler sugere vólvulo de intestino médio
+secundário à má rotação intestinal. Trata-se de emergência cirúrgica devido ao risco de
+isquemia intestinal. O exame confirmatório padrão é o estudo contrastado do trânsito
+intestinal alto, que evidencia posicionamento anômalo do duodeno e possível torção do
+mesentério.
+Incorreta. Embora a intussuscepção possa cursar com dor abdominal intermitente e
+vômitos, o quadro descrito apresenta vômito bilioso precoce, sinais de obstrução alta e
+redução do fluxo vascular mesentérico ao Doppler, achados que sugerem
+comprometimento vascular mais grave. O enema pneumático é diagnóstico-terapêutico
+na intussuscepção em pacientes estáveis, mas não confirma nem trata vólvulo.
+Incorreta. Embora a má rotação intestinal seja condição anatômica predisponente, o
+quadro descrito sugere complicação aguda com possível torção vascular. O enema
+hidrostático é um método utilizado na intussuscepção e não confirma nem trata má
+rotação ou vólvulo de intestino médio.
+Incorreta. Enterocolite infecciosa pode causar dor abdominal e vômitos, mas não explica
+adequadamente vômito bilioso associado a redução do fluxo mesentérico e padrão
+radiográfico de obstrução intestinal alta. O quadro clínico sugere condição cirúrgica
+emergencial.
+Referência:
+TOWNSEND, Courtney M. et al. Sabiston - Tratado de Cirurgia. 21. ed. Rio de Janeiro:
+Elsevier, 2022.
+Feedback:
+9ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 12 de 44
+
+Enunciado:
+(AFYA GUANAMBI) Homem, 74 anos, hipertenso, dislipidêmico e ex-tabagista (50 maços-
+ano), em seguimento ambulatorial, apresenta aneurisma de aorta abdominal infrarrenal
+identificado à ultrassonografia, com diâmetro máximo de 5,7 cm, colo proximal de 20
+mm, angulação <60° e artérias ilíacas comuns sem aneurismas. Encontra-se
+assintomático, com taxa de filtração glomerular (TFG) de 58 mL/min/1,73 m2, fração de
+ejeçao de 50%, ITB 0,95 bilateral e tratamento clínico otimizado. Reside em área urbana
+com acesso a centro endovascular. Usa AAS 81 mg/dia, rosuvastatina 20 mg/dia,
+enalapril 20 mg/dia e mantém PA 128/74 mmHg.
+Considerando o quadro clínico e as recomendações científicas atuais, qual é a conduta
+terapêutica mais apropriada para esse paciente?
+Alternativas:
+(alternativa A)
+Suspender AAS e iniciar dose máxima de Varfarina, para reduzir risco de trombose mural
+do aneurisma, reavaliando em 3 meses.
+(alternativa B)
+Indicar reparo aberto imediato com clampeamento suprarrenal para prevenir rotura,
+independentemente da anatomia e comorbidades.
+(alternativa C)
+Manter acompanhamento semestral com ultrassom, pois está assintomático e com bom
+controle clínico das comorbidades.
+(alternativa D) (CORRETA)
+Indicar reparo endovascular (EVAR) eletivo; mantendo terapia médica otimizada e
+acompanhamento regular pós-implante.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 13 de 44
+
+Resposta comentada:
+"Manter acompanhamento semestral com ultrassom, pois está assintomático e com bom
+controle clínico das comorbidades." Incorreta.
+A vigilância é indicada apenas para AAA abaixo do limiar de intervenção (em geral <5,5
+cm em homens). Apesar de assintomático e clinicamente compensado, o paciente
+apresenta AAA de 5,7 cm, tamanho associado a risco elevado de rotura, tornando a
+conduta expectante inadequada e potencialmente perigosa.
+"Indicar reparo endovascular (EVAR) eletivo; mantendo terapia médica otimizada e
+acompanhamento regular pós-implante." Correta.
+Em homens assintomáticos, aneurismas de aorta abdominal (AAA) com diâmetro ≥ 5,5
+cm apresentam risco significativamente aumentado de rotura, sendo indicada correção
+eletiva. O paciente apresenta AAA infrarrenal de 5,7 cm, ultrapassando o limiar
+recomendado pelas diretrizes internacionais (ESVS, SVS, ACC/AHA). A anatomia é
+favorável ao EVAR, com colo proximal ≥15 mm (20 mm no caso), angulação < 60° e
+artérias ilíacas comuns sem aneurismas, além de acesso a centro endovascular. O risco
+cirúrgico é moderado, com função cardíaca limítrofe (FE 50%) e função renal
+discretamente reduzida, cenário em que o EVAR se associa a menor mortalidade e
+morbidade perioperatória quando comparado ao reparo aberto, conforme demonstrado
+em ensaios clínicos randomizados. O manejo deve ser associado à manutenção da
+terapia clínica otimizada (AAS, estatina, controle pressórico, cessação definitiva do
+tabagismo).
+"Suspender AAS e iniciar dose máxima de Varfarina, para reduzir risco de trombose mural
+do aneurisma, reavaliando em 3 meses." Incorreta.
+Não há evidência de que a anticoagulação reduza o crescimento ou risco de rotura do
+AAA. Ao contrário, a anticoagulação plena pode aumentar o risco de sangramento sem
+benefício comprovado. A presença de trombo mural é comum em AAA e não constitui
+indicação de anticoagulação. O AAS, por sua vez, deve ser mantido como parte da
+prevenção cardiovascular secundária, salvo contraindicações.
+"Indicar reparo aberto imediato com clampeamento suprarrenal para prevenir rotura,
+independentemente da anatomia e comorbidades." Incorreta.
+Embora o reparo aberto seja uma opção válida em situações específicas (anatomia
+desfavorável ao EVAR, pacientes jovens com longa expectativa de vida ou
+indisponibilidade de técnica endovascular), não é a melhor escolha neste caso. O
+paciente apresenta anatomia claramente favorável ao EVAR, está assintomático e não há
+urgência que justifique abordagem aberta imediata, especialmente considerando o maior
+risco perioperatório associado ao clampeamento suprarrenal.
+Referências:
+DOHERTY, Gerard M. CURRENT. Cirurgia. Grupo A, 2017. E-book. ISBN 9788580556018.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788580556018/.
+Acesso em: 28 de maio 2024.
+Oliveira, Julio Cesar Peclat de, et al. Livro da Sociedade Brasileira de Angiologia e de
+Cirurgia Vascular. 1. ed. - Rio de Janeiro: Dilivros, 2022.
+Feedback:
+10ª QUESTÃO
+Enunciado:
+(AFYA TERESINA) Paciente de 68 anos, internado em UTI por choque séptico, necessita de
+acesso venoso central para infusão de droga vasoativa. Opta-se por punção da veia
+jugular interna direita guiada por ultrassonografia. Na avaliação prévia, observa-se
+estrutura venosa de calibre preservado, porém com imagem intraluminal ecogênica
+aderida à parede, ausência de colabamento completo à compressão e fluxo reduzido ao
+Doppler.
+Diante dos achados ultrassonográficos descritos, qual é a conduta mais adequada para
+obtenção do acesso venoso central?
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 14 de 44
+
+Alternativas:
+(alternativa A)
+Prosseguir com a punção guiada, priorizando o segmento com maior lúmen visível.
+(alternativa B) (CORRETA)
+Suspender a tentativa de punção nesse vaso e selecionar outro sítio venoso.
+(alternativa C)
+Realizar a punção com técnica mais distal, buscando transfixar a área de alteração.
+(alternativa D)
+Manter a escolha do local e iniciar infusão com cateter de menor calibre.
+Resposta comentada:
+Alternativa: Prosseguir com a punção guiada, priorizando o segmento com maior lúmen
+visível. Incorreta. Alterações estruturais intraluminais associadas à redução da
+compressibilidade sugerem comprometimento da patência do vaso. Prosseguir no mesmo
+sítio aumenta o risco de falha, embolização e complicações infecciosas.
+Alternativa: Realizar a punção com técnica mais distal, buscando transfixar a área de
+alteração. Incorreta. Não é recomendado tentar ultrapassar área com alteração estrutural
+intraluminal. Isso pode deslocar material intravascular e causar eventos adversos.
+Alternativa: Suspender a tentativa de punção nesse vaso e selecionar outro sítio venoso.
+Correta. O uso da ultrassonografia deve incluir avaliação da integridade e patência
+venosa antes da punção. Diante de achados compatíveis com obstrução intraluminal, o
+recomendado é evitar o sítio e escolher outro acesso seguro.
+Alternativa: Manter a escolha do local e iniciar infusão com cateter de menor calibre.
+Incorreta. Reduzir o calibre do cateter não resolve o comprometimento estrutural do vaso
+e não diminui o risco de complicações associadas à punção em vaso não patente.
+Referência:
+TOWNSEND, C. M. et al. Sabiston textbook of surgery: the biological basis of modern
+surgical practice. 21. ed. Philadelphia: Elsevier, 2022
+Feedback:
+11ª QUESTÃO
+Enunciado:
+(AFYA ITABUNA) Homem de 58 anos é admitido na sala de emergência após trauma facial
+por agressão. Apresenta rebaixamento do nível de consciência, estridor inspiratório
+audível, uso de musculatura acessória e dificuldade para falar. A oximetria de pulso
+mostra saturação de oxigênio de 88% em máscara facial com oxigênio suplementar.
+Durante a monitorização, a capnografia evidencia traçado irregular, com diminuição
+progressiva do valor de CO2 expirado. O exame físico revela edema cervical importante e
+hematoma em região submandibular.
+Com base na avaliação clínica e nos achados dos métodos de monitorização
+apresentados, qual é a interpretação diagnóstica mais adequada quanto ao estado da via
+aérea desse paciente?
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 15 de 44
+
+Alternativas:
+(alternativa A)
+Insuficiência respiratória apenas pulmonar, sem evidências de comprometimento da via
+aérea superior ao exame físico e na capnografia.
+(alternativa B) (CORRETA)
+Obstrução iminente de via aérea, sugerida por estridor, esforço respiratório,
+dessaturação e capnografia com queda progressiva do CO2 expirado.
+(alternativa C)
+Hiperventilação por dor, com redução do CO2 expirado, porém sem sinais de obstrução,
+dessaturação ou esforço respiratório significativo.
+(alternativa D)
+Ventilação pulmonar adequada, mesmo com estridor e edema cervical importantes,
+mantendo troca gasosa e capnografia estável.
+Resposta comentada:
+Obstrução iminente de via aérea, sugerida por estridor, esforço respiratório,
+dessaturação e capnografia com queda progressiva do COz expirado.
+Correta. O conjunto clínico caracteriza comprometimento grave e progressivo da via
+aérea superior, evidenciado por estridor inspiratório (sinal clássico de obstrução alta), uso
+de musculatura acessória, rebaixamento do nível de consciência e dessaturação mesmo
+sob oxigênio suplementar. A capnografia com traçado irregular e redução progressiva do
+ETCO2, nesse contexto, não indica hiperventilação, mas sim ventilação ineficaz por
+redução do fluxo expiratório devido à obstrução mecânica. Associando-se ao edema
+cervical e hematoma submandibular, há risco iminente de colapso completo da via aérea,
+conforme descrito nas diretrizes do ATLS e nas recomendações de manejo da via aérea
+difícil.
+Ventilação pulmonar adequada, mesmo com estridor e edema cervical importantes,
+mantendo troca gasosa e capnografia estável.
+Incorreta. A presença de estridor, esforço respiratório aumentado e saturação de
+oxigênio de 88% com suplementação demonstra falência ventilatória iminente,
+incompatível com ventilação adequada. Além disso, a capnografia não está estável,
+apresentando traçado irregular e queda progressiva do ETCOz, o que sugere redução do
+volume corrente e ventilação ineficaz. Dessa forma, não há manutenção adequada da
+troca gasosa, e o quadro clínico indica instabilidade respiratória progressiva.
+Insuficiência respiratória apenas pulmonar, sem evidências de comprometimento da via
+aérea superior ao exame físico e na capnografia.
+Incorreta. O exame físico demonstra sinais inequívocos de comprometimento de via
+aérea superior, como estridor inspiratório, dificuldade para falar e edema cervical
+importante, que não são achados típicos de insuficiência respiratória exclusivamente
+pulmonar. A capnografia alterada reforça ventilação comprometida por mecanismo
+obstrutivo, e não por patologia parenquimatosa isolada. Portanto, o problema primário
+não é pulmonar, mas mecânico e localizado na via aérea superior.
+Hiperventilação por dor, com redução do CO2 expirado, porém sem sinais de obstrução,
+dessaturação ou esforço respiratório significativo.
+Incorreta. Embora a hiperventilação possa reduzir o ETCO2, ela não cursa com estridor,
+edema compressivo de via aérea, uso intenso de musculatura acessória ou dessaturação
+significativa sob oxigênio suplementar. Além disso, a redução progressiva e irregular do
+traçado capnográfico neste cenário sugere limitação de fluxo aéreo, e não aumento de
+ventilação alveolar. Assim, os achados clínicos e de monitorização não são compatíveis
+com hiperventilação simples por dor.
+Referência:
+AMERICAN COLLEGE OF SURGEONS. Advanced trauma life support (ATLS®): student
+course manual. 11, ed. Chicago: American College of Surgeons, 2023.
+Feedback:
+000186.830016.3fb560.e 401t1.69c32a.etyacb./a4eaa.282d9 Página 16 de 44
+
+12ª QUESTÃO
+Enunciado:
+(AFYA GUANAMBI) Homem de 67 anos, hipertenso e ex-tabagista, com história de
+trombose venosa profunda proximal em membro inferior direito, há 10 meses, após
+cirurgia ortopédica. Refere anticoagulação com apixabana por 6 meses, suspensa há 4
+meses. Evoluiu com edema vespertino, dor em peso e sensação de tensão na panturrilha
+direita, com piora ao final do dia e após caminhadas prolongadas. Realizou ultrassom
+duplex venoso recente, evidenciando ausência de trombose aguda, refluxo significativo
+em veia safena magna direita e sequelas pós-trombóticas na veia femoral com
+espessamento parietal e recanalização com fluxo lento. Ausência de sinais ecográficos de
+celulite profunda ou abscesso. No exame: hiperpigmentação ocre e eczema varicoso em
+região maleolar medial, além de úlcera superficial com bordas irregulares, leito granular,
+exsudato seroso moderado e dor leve à palpação. Discreto aumento de temperatura
+local, sem sinais sistêmicos de infecção. Pulsos, pedioso e tibial posterior, palpáveis.
+Considerando o caso clínico acima, qual a melhor conduta para o manejo da complicação
+apresentada?
+Alternativas:
+(alternativa A)
+Anticoagulação plena por tempo indeterminado, para acelerar a cicatrização da úlcera
+venosa pós-trombótica, e analgésicos para tratar a dor.
+(alternativa B)
+Antibioticoterapia sistêmica empírica, por 14 dias, encaminhar para desbridamento
+cirúrgico amplo imediato da úlcera e analgesia.
+(alternativa C) (CORRETA)
+Terapia compressiva com bandagem multicamadas ou meia, curativo úmido para úlcera
+venosa, cuidados com a pele, deambulação e exercícios de panturrilha.
+(alternativa D)
+Curativo seco diário e repouso absoluto com elevação do membro; evitar compressão
+para não piorar o fluxo venoso pós-trombótico.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 17 de 44
+
+Resposta comentada:
+O quadro é compatível com síndrome pós-trombótica com úlcera venosa ativa (CEAP C6),
+evidenciada por edema crônico, hiperpigmentação ocre, eczema varicoso e úlcera
+superficial granulante em região maleolar medial, associada, ao duplex venoso, a refluxo
+significativo em veia safena magna e perfurante patológica, além de sequelas pós-
+trombóticas na veia femoral.
+A terapia compressiva constitui o pilar do tratamento da úlcera venosa. Bandagens
+multicamadas ou meias elásticas (30-40 mmHg) até o joelho melhoram o retorno venoso,
+reduzem o edema e aceleram a cicatrização, sendo seguras na ausência de isquemia
+arterial significativa (pulsos periféricos presentes).
+O manejo local da ferida deve priorizar curativos úmidos, controle do exsudato e proteção
+da pele perilesional. A dermatite/eczema varicoso deve ser tratado com corticoide tópico
+de baixa a média potência associado a emolientes. A deambulação orientada e os
+exercícios de panturrilha são recomendados para otimizar a bomba muscular; elevação
+isolada do membro, sem compressão, é insuficiente. Após controle do processo
+inflamatório e redução do edema, deve-se avaliar intervenção sobre o refluxo venoso
+(ablação térmica ou adesiva da safena e tratamento de perfurantes incompetentes
+guiado por duplex), com o objetivo de reduzir a recorrência da úlcera.
+Justificativa das alternativas incorretas:
+Evitar compressão é conduta inadequada; o repouso absoluto compromete a bomba da
+panturrilha e retarda a cicatrização.
+Não há indicação de reinício de anticoagulação com finalidade de cicatrização da úlcera
+venosa; anticoagulação é reservada a nova TVP/TEV ou outra indicação formal.
+Na ausência de sinais de infecção sistêmica ou celulite franca, antibioticoterapia
+sistêmica e desbridamento cirúrgico amplo não são de primeira linha; o desbridamento
+conservador é reservado a casos com necrose ou fibrina, não descritos no quadro.
+Referência:
+OLIVEIRA, Julio Cesar Peclat de, et al. Livro da Sociedade Brasileira de Angiologia e de
+Cirurgia Vascular. 1. ed. Rio de Janeiro: Dilivros, 2022.
+Feedback:
+13ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Na sala de emergência, um paciente de 34 anos, previamente
+hígido, será submetido à sutura extensa e desbridamento de ferida lacerocontusa em
+antebraço. Opta-se por bloqueio periférico para analgesia, associado a sedação leve com
+midazolam e fentanil, sob monitorização padrão e ambiente com recursos de
+ressuscitação.
+Após o bloqueio, o paciente inicialmente evolui bem. Cerca de 20 minutos depois, passa
+a referir zumbido, gosto metálico e parestesias periorais. Evolui com agitação, taquicardia
+e, em seguida, apresenta crise convulsiva tônico-clônica generalizada, com queda da
+saturação de oxigênio.
+Considerando o quadro clínico e os possíveis diagnósticos diferenciais nesse contexto, a
+conduta mais apropriada é:
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 18 de 44
+
+Alternativas:
+(alternativa A)
+administrar naloxona e iniciar ventilação com bolsa-válvula-máscara, pois o quadro é
+compatível com intoxicação por opioide.
+(alternativa B)
+iniciar dantrolene intravenoso por suspeita de hipertermia maligna associada ao
+anestésico utilizado.
+(alternativa C) (CORRETA)
+interromper procedimento, garantir via aérea, tratar convulsão com benzodiazepínico e
+iniciar tratamento de toxicidade sistêmica por anestésico local.
+(alternativa D)
+administrar flumazenil e observar resposta clínica, considerando possível reação
+paradoxal ao benzodiazepínico.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 19 de 44
+
+Resposta comentada:
+O quadro clínico (zumbido, gosto metálico, parestesias periorais → agitação → convulsão)
+após bloqueio periférico é altamente sugestivo de Toxicidade Sistêmica por Anestésico
+Local (LAST), complicação potencialmente fatal associada à injeção intravascular
+inadvertida ou absorção sistêmica excessiva.
+Estratégia diagnóstica e terapêutica apropriada na emergência:
+Reconhecer precocemente LAST diante de sinais neurológicos e cardiovasculares após
+anestésico local.
+Interromper a administração do anestésico e chamar ajuda.
+ABCDE imediato: garantir via aérea, oxigenação e ventilação (evitar hipóxia/acidose, que
+pioram LAST).
+Tratar convulsão: benzodiazepínico é primeira linha (reduz consumo de Oz e risco de
+acidose).
+Iniciar emulsão lipídica IV conforme protocolo (terapia de "resgate lipídico") e manter
+suporte hemodinâmico.
+Monitorização contínua: ECG, PA, SpOz, capnografia se disponível; observar evolução para
+arritmias/instabilidade.
+Evitar condutas inadequadas: naloxona/flumazenil não tratam LAST; dantrolene é para
+hipertermia maligna; beta-bloqueador pode piorar instabilidade/arrítmias em contexto de
+LAST.
+Essa alternativa é a que melhor integra diagnóstico sindrômico rápido, tratamento
+específico e monitorização de complicações relacionadas à anestesia periférica no cenário
+de emergência.
+Explicação das incorretas:
+Embora tenha sido utilizada sedação com benzodiazepínico, o quadro clínico descrito é
+típico de toxicidade sistêmica por anestésico local (LAST), caracterizada por sintomas
+neurológicos prodrômicos como zumbido, gosto metálico e parestesias periorais, seguidos
+de convulsão. Reação paradoxal ao benzodiazepínico não cursa com essa sequência de
+manifestações. Além disso, o flumazenil não trata convulsões induzidas por anestésico
+local nem previne instabilidade cardiovascular associada à LAST, podendo inclusive
+precipitar novas crises convulsivas.
+Intoxicação por opioide caracteriza-se tipicamente por depressão respiratória
+progressiva, miose e rebaixamento do nível de consciência, sem sintomas neurológicos
+excitatórios prévios. O quadro apresentado é compatível com toxicidade por anestésico
+local, não com efeito opioide. A naloxona não possui ação sobre a fisiopatologia da LAST
+e sua administração atrasaria o tratamento apropriado.
+Hipertermia maligna está associada ao uso de anestésicos inalatórios halogenados ou
+succinilcolina e manifesta-se com rigidez muscular, hipercapnia, hipertermia progressiva
+e instabilidade metabólica. O quadro descrito, com sintomas neurológicos iniciais e
+convulsão após bloqueio periférico, é típico de LAST. O dantrolene não tem papel no
+tratamento da toxicidade por anestésico local e sua administração seria inadequada
+nesse contexto.
+Referências:
+American Society of Regional Anesthesia and Pain Medicine (ASRA). Practice Advisory on
+Local Anesthetic Systemic Toxicity (LAST) — atualizações e algoritmo de tratamento.
+Butterworth JF, Mackey DC, Wasnick JD. Morgan & Mikhail's Clinical Anesthesiology.
+Capítulos sobre anestésicos locais, bloqueios periféricos e LAST.
+Miller RD (ed.). Miller's Anesthesia. Seções de anestesia regional e complicações
+(toxicidade por anestésicos locais).
+Feedback:
+14ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 20 de 44
+
+Enunciado:
+(AFYA MONTES CLAROS) Homem de 29 anos é admitido na sala de emergência após
+ferimento por arma branca em hemitórax esquerdo, região paraesternal, no 4° espaço
+intercostal. Apresenta-se agitado, com PA 86/54 mmHg, FC 128 bpm, FR 30 irpm e
+saturação de Oz 94% em máscara não reinalante. No exame, observa-se murmúrio
+vesicular bilateral presente e simétrico, sem desvio traqueal. Bulhas cardíacas são
+hipofonéticas. Há turgência jugular evidente.
+O FAST estendido (eFAST) não está disponível.
+Considerando o quadro clínico e os princípios atuais do atendimento ao trauma, qual é a
+conduta mais adequada neste momento?
+Alternativas:
+(alternativa A)
+Iniciar expansão volêmica agressiva e observar resposta hemodinâmica antes de decidir
+intervenção invasiva.
+(alternativa B) (CORRETA)
+Indicar toracotomia de emergência para tratamento de provável tamponamento cardíaco
+traumático.
+(alternativa C)
+Realizar drenagem torácica em selo d'água no hemitórax esquerdo antes de qualquer
+outra intervenção.
+(alternativa D)
+Solicitar tomografia computadorizada de tórax com contraste para confirmar lesão
+cardíaca antes de abordagem cirúrgica.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 21 de 44
+
+Resposta comentada:
+Alternativa: Realizar drenagem torácica em selo d'água no hemitórax esquerdo antes de
+qualquer outra intervenção. Incorreta.
+A drenagem torácica está indicada nos casos de pneumotórax hipertensivo ou hemotórax
+maciço. Entretanto, o paciente apresenta murmúrio vesicular bilateral preservado, sem
+assimetria ventilatória ou macicez sugestiva de grande coleção pleural. Assim, não há
+elementos clínicos que justifiquem drenagem torácica como primeira conduta.
+Alternativa: Indicar toracotomia de emergência para tratamento de provável
+tamponamento cardíaco traumático. Correta.
+O paciente apresenta quadro clássico compatível com tamponamento cardíaco
+traumático, caracterizado por:
+• Trauma penetrante em topografia cardíaca.
+• Hipotensão persistente.
+• Taquicardia.
+• Turgência jugular.
+• Bulhas cardíacas hipofonéticas.
+Esse conjunto constitui a tríade de Beck, fortemente sugestiva de tamponamento no
+contexto de trauma penetrante torácico.
+Segundo os princípios do ATLS, em paciente hemodinamicamente instável com suspeita
+clínica de lesão cardíaca penetrante, está indicada toracotomia emergencial imediata,
+sem necessidade de exames adicionais que retardem o tratamento definitivo.
+A intervenção cirúrgica visa a descompressão do pericárdio e controle direto da lesão
+cardíaca.
+Alternativa: Solicitar tomografia computadorizada de tórax com contraste para confirmar
+lesão cardíaca antes de abordagem cirúrgica. Incorreta.
+A tomografia computadorizada de tórax é um exame complementar útil em pacientes
+hemodinamicamente estáveis. No contexto de instabilidade circulatória com suspeita
+clínica forte de tamponamento, a realização de tomografia atrasaria tratamento
+potencialmente salvador e é contraindicada.
+Alternativa: Iniciar expansão volêmica agressiva e observar resposta hemodinâmica
+antes de decidir intervenção invasiva. Incorreta.
+A expansão volêmica isolada pode temporariamente melhorar parâmetros
+hemodinâmicos, mas não corrige o mecanismo fisiopatológico do tamponamento, que é a
+compressão cardíaca por aumento da pressão intrapericárdica. O tratamento definitivo é
+cirúrgico, e o atraso na intervenção aumenta o risco de parada cardiorrespiratória.
+Em trauma torácico penetrante com instabilidade hemodinâmica:
+• Pulmões ventilando bilateralmente.
+• Ausência de sinais de hemotórax maciço.
+• Hipotensão + turgência jugular + bulhas abafadas.
+→ Tamponamento cardíaco até prova em contrário.
+→ Toracotomia imediata.
+O diagnóstico é clínico.
+Exames complementares não devem atrasar a intervenção.
+Referências:
+TOWNSEND, Courtney M. et al. Sabiston: tratado de cirurgia: a base biológica da prática
+cirúrgica moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+AMERICAN COLLEGE OF SURGEONS. ATLS®: Advanced Trauma Life Support® Student
+Course Manual. 11. ed. Chicago: American College of Surgeons, 2023.
+Feedback:
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 22 de 4а
+
+15ª QUESTÃO
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Uma mulher de 27 anos é admitida na sala de trauma após
+acidente motociclístico. No exame primário do ATLS, encontra-se consciente, porém
+muito pálida, com FC 150 bpm, PA 80/50 mmHg, extremidades frias e enchimento capilar
+lento. Durante o "C" do ABCDE, observa-se hematoma em expansão em região inguinal
+direita, associado a sangramento ativo no local. A equipe inicia reposição volêmica e
+compressão manual do ponto sangrante, mas a paciente permanece instável.
+De acordo com as diretrizes do ATLS, qual deve ser a conduta imediata e prioritária
+diante desse quadro?
+Alternativas:
+(alternativa A)
+Aguardar resposta à reposição volêmica antes de decidir por procedimento cirúrgico.
+(alternativa B)
+Solicitar angiotomografia para identificar o vaso lesionado e planejar abordagem
+endovascular.
+(alternativa C) (CORRETA)
+Encaminhar imediatamente para o centro cirúrgico para controle de hemorragia arterial e
+possível reparo vascular.
+(alternativa D)
+Realizar exame secundário e inspeção completa da região para confirmar a presença de
+lesão arterial.
+Resposta comentada:
+A paciente apresenta choque hemorrágico associado a sangramento arterial externo não
+controlado, caracterizado por:
+Hipotensão, taquicardia, extremidades frias, hematoma expansivo, sangramento ativo.
+Pelo ATLS, hemorragias externas graves e não controláveis são indicação imediata de
+(controle cirúrgico da hemorragia damage control / cirurgia vascular emergencial).
+A angiotomografia só é realizada em pacientes estáveis, o que não é o caso.
+O exame secundário não pode prosseguir com instabilidade hemodinâmica.
+Aguardar resposta volêmica é perigoso; a conduta é controle definitivo da hemorragia no
+centro cirúrgico.
+Referência:
+AMERICAN HEART ASSOCIATION. SAVC: Suporte Avançado de Vida Cardiovascular
+nanual do profissional. Texas, USA: Orora Visual, 2021.
+Feedback:
+16ª QUESTAO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 23 de 44
+
+Enunciado:
+(AFYA CRUZEIRO DO SUL) Um homem de 32 anos é trazido ao pronto-socorro após uma
+colisão automobilística de alta energia. Foi encontrado preso às ferragens, com tempo de
+extricação estimado em 25 minutos. Chega imobilizado em prancha rígida e com colar
+cervical. Na admissão, apresenta-se agitado, pálido e diaforético.
+Sinais vitais iniciais:
+PA: 85 x 50 mmHg.
+FC: 132 bpm.
+FR: 30 irpm.
+SpOz: 88% em máscara não reinalante.
+GCS: 12 (03 V4 M5).
+No exame rápido inicial, observa-se murmúrio vesicular diminuído à esquerda, turgência
+jugular, ferimento contuso em hemitórax esquerdo e abdome levemente distendido.
+Considerando os princípios do ATLS, o exame primário, o exame secundário e as
+intervenções indicadas em cada fase, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O FAST abdominal é parte do exame secundário e só deve ser indicado como conduta
+clínica para o agravo após estabilização completa do paciente.
+(alternativa B)
+A tomografia computadorizada de tórax deve ser realizada imediatamente após a
+avaliação inicial, pois permite o diagnóstico definitivo das lesões torácicas antes de
+qualquer intervenção.
+(alternativa C)
+A avaliação neurológica detalhada do paciente, com exame de pares cranianos e
+reflexos, faz parte do exame primário, devendo preceder intervenções invasivas.
+(alternativa D) (CORRETA)
+A suspeita de pneumotórax hipertensivo deve ser considerada no exame primário, e a
+descompressão torácica deve ser realizada imediatamente, antes de exames
+complementares.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 24 de 44
+
+Resposta comentada:
+Alternativa correta: A suspeita de pneumotórax hipertensivo deve ser considerada no
+exame primário, e a descompressão torácica deve ser realizada imediatamente, antes de
+exames complementares.
+No exame primário do ATLS (ABCDE), devem ser identificadas e tratadas imediatamente
+as condições que ameaçam a vida. Achados clínicos descritos — hipotensão, taquicardia,
+hipoxemia, murmúrio vesicular diminuído unilateralmente e turgência jugular — são
+clássicos de pneumotórax hipertensivo.
+Conduta correta:
+• Descompressão torácica imediata (agulha ou toracostomia de alívio), sem
+aguardar exames de imagem.
+Este é um princípio fundamental do ATLS: "Tratar primeiro aquilo que mata primeiro."
+Alternativa "A tomografia computadorizada de tórax deve ser realizada imediatamente
+após a avaliação inicial, pois permite o diagnóstico definitivo das lesões torácicas antes
+de qualquer intervenção." Incorreta: A tomografia computadorizada não precede o
+exame primário nem intervenções salvadoras.
+• Pacientes instáveis não devem ser encaminhados à TC.
+• Intervenções do ABCDE têm prioridade absoluta.
+Alternativa: "A avaliação neurológica detalhada do paciente, com exame de pares
+cranianos e reflexos, faz parte do exame primário, devendo preceder intervenções
+invasivas." Incorreta: A avaliação neurológica no exame primário é rápida e objetiva,
+limitada a:
+• Escala de Coma de Glasgow.
+• Avaliação pupilar.
+Exame neurológico detalhado pertence ao exame secundário, após estabilização.
+Alternativa: "O FAST abdominal é parte do exame secundário e só deve ser indicado
+como conduta clínica para o agravo após estabilização completa do paciente." Incorreta:
+A história AMPLA faz parte do exame secundário e nunca deve atrasar intervenções
+vitais.
+• No exame primário, a prioridade é avaliar e tratar.
+• História clínica detalhada vem após controle das ameaças imediatas à vida.
+Referência:
+AMERICAN COLLEGE OF SURGEONS. Committee on Trauma. Advanced Trauma Life
+Support (ATLS®): student course manual. 11. ed. Chicago: American College of Surgeons,
+2023.
+Feedback:
+17ª QUESTÃO
+Enunciado:
+(AFYA GUANAMBI) Homem de 62 anos, portador de diabetes mellitus tipo 2 há 15 anos
+(HbA1c 9,1%), com insuficiência venosa crônica, obesidade (IMC 33 kg/m?) e tabagista
+ativo, e admitido em serviço de emergência com úlcera crônica na face medial do terço
+distal da perna direita, com evolução de 10 semanas e piora do exsudato nas últimas
+duas semanas
+No exame físico, observa-se ferida medindo 4,0 × 3,0 cm, com bordas irregulares; leito
+composto por 40% de tecido de granulação pálida, 40% de fibrina/necrose amarelada e
+20% de biofilme suspeito; exsudato moderado a intenso, odor discreto e dor referida
+5/10. A pele perilesional apresenta maceração de aproximadamente 1 cm, edema +/4+ e
+eczema asteatósico. Pulsos pediosos são palpáveis, com índice tornozelo-braquial de
+0,95. Glicemias capilares variam entre 180 e 250 mg/dL. Cultura superficial prévia
+evidenciou crescimento polimicrobiano, sem sinais sistêmicos de infecção. O paciente
+realiza curativos diários com gaze e soro fisiológico, utiliza meias elásticas de forma
+irregular e faz uso isolado de metformina.
+Qual é a conduta mais adequada para o manejo dessa úlcera crônica?
+000186.830016.3fb560 .ef9ac6.7a4eaa.282d9 Página 25 de 44
+
+Alternativas:
+(alternativa A)
+Iniciar antibiótico sistêmico empírico, manter curativo simples diário, ajustar medicação
+antidiabética oral e reavaliar em duas semanas.
+(alternativa B) (CORRETA)
+Realizar desbridamento do tecido desvitalizado, instituir terapia compressiva estruturada,
+utilizar curativo para controle do exsudato e otimizar o controle glicêmico com
+reavaliações semanais.
+(alternativa C)
+Manter curativos simples diários sem desbridamento, orientar dieta para diabetes, evitar
+compressão regular e reavaliar após 30 dias.
+(alternativa D)
+Aplicar antibiótico tópico associado a corticoide, manter compressão conforme tolerado,
+reforçar orientações para controle glicêmico domiciliar e realizar acompanhamento
+semanal.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 26 de 44
+
+Resposta comentada:
+Iniciar antibiótico sistêmico empírico, manter curativo simples diário, ajustar medicação
+antidiabética oral e reavaliar em duas semanas.
+Incorreta. Não há sinais clínicos de infecção sistêmica que justifiquem antibiótico
+sistêmico empírico, pois cultura superficial polimicrobiana em úlceras crônicas
+geralmente representa colonização. Além disso, manter curativo simples com gaze não é
+adequado diante de exsudato moderado a intenso, maceração perilesional e presença de
+tecido desvitalizado. Embora o ajuste do tratamento antidiabético seja relevante, ele,
+isoladamente, não corrige as falhas no manejo local da ferida. A reavaliação quinzenal
+também é inadequada para úlcera ativa com risco de piora.
+Realizar desbridamento do tecido desvitalizado, instituir terapia compressiva estruturada,
+utilizar curativo para controle do exsudato e otimizar o controle glicêmico com
+reavaliações semanais.
+Correta. O leito apresenta fibrina/necrose e biofilme suspeito, indicando necessidade de
+desbridamento para remover barreiras à cicatrização e reduzir carga bacteriana local. O
+índice tornozelo-braquial de 0,95 permite terapia compressiva segura, que é o pilar do
+tratamento da úlcera venosa. O controle adequado do exsudato é fundamental para
+evitar maceração e favorecer um ambiente úmido ideal. A otimização do controle
+glicêmico é essencial, pois a hiperglicemia persistente compromete a angiogênese e o
+reparo tecidual. Reavaliações semanais são recomendadas para monitorar a evolução e
+ajustar a conduta conforme a resposta clínica.
+Aplicar antibiótico tópico associado a corticoide, manter compressão conforme tolerado,
+reforçar orientações para controle glicêmico domiciliar e realizar acompanhamento
+semanal.
+Incorreta. O uso de antibiótico tópico rotineiro não é indicado na ausência de infecção
+clínica, e a associação com corticoide pode retardar a cicatrização e mascarar sinais
+inflamatórios importantes. A compressão "conforme tolerado" é insuficiente, pois deve
+ser estruturada e contínua no tratamento da insuficiência venosa. Embora o reforço do
+controle glicêmico seja apropriado, a alternativa não aborda a necessidade de
+desbridamento nem manejo adequado do biofilme e do exsudato, tornando a conduta
+incompleta.
+Manter curativos simples diários sem desbridamento, orientar dieta para diabetes, evitar
+compressão regular e reavaliar após 30 dias.
+Incorreta. A manutenção de curativos simples sem desbridamento perpetua a presença
+de tecido desvitalizado e biofilme, dificultando a cicatrização Orientação dietética isolada
+para diabetes é insuficiente frente à hiperglicemia persistente e não substitui ajuste
+terapêutico estruturado. Evitar compressão regular contraria o tratamento padrão da
+úlcera venosa com ITB adequado. Reavaliar apenas após 30 dias é inadequado diante de
+ferida ativa com exsudato intenso e fatores de risco metabólicos associados.
+Referência:
+MINTER, Rebecca M.; DOHERTY, Gerard M. Current procedimentos: cirurgia. Porto Alegre:
+AMGH, 2012. Disponível em:
+https://integrada.minhabiblioteca.com.br/reader/books/9788580550658/pageid/0. Acesso
+em: 24 de maio 2024.
+Feedback:
+18ª QUESTÃO
+000186.830016.3fb560.e f1.69c32a.ef9ac6.7a4eaa.282d9 Página 27 de 44
+
+Enunciado:
+(AFYA GARANHUNS) Uma mulher de 62 anos chega à emergência com dor e edema em
+membro inferior esquerdo (MIE) há 24 horas, piora à deambulação, sem trauma. Relata
+"varizes antigas" e sensação de peso em membros inferiores há anos. Ao exame: MIE
+com aumento de circunferência, empastamento de panturrilha, dor à palpação do trajeto
+venoso profundo; pele com hiperpigmentação ocre perimaleolar bilateral e
+telangiectasias/varizes. Sinais vitais estáveis.
+Foram solicitados exames complementares:
+Ultrassom Doppler venoso (MIE): veia femoral comum e poplítea com material hipoecoico
+intraluminal, ausência de compressibilidade, fluxo reduzido/ausente ao Doppler color,
+com diminuição da fasicidade respiratória.
+Angiografia por contraste (estudo arterial de MMII, solicitado por engano): artérias
+pérvias, sem estenoses significativas, sem oclusões.
+Com base na análise e comparação dos métodos diagnósticos para trombose venosa
+profunda (TVP), é correto o que se afirma em
+Alternativas:
+(alternativa A)
+a investigação diagnóstica deve ser complementada por angiotomografia de membros
+inferiores, pois o Doppler apresenta limitações na detecção de tromboses proximais.
+(alternativa B)
+as alterações cutâneas crônicas indicam doença venosa de longa data, devendo-se
+considerar trombose residual crônica como hipótese antes de confirmar evento agudo.
+(alternativa C) (CORRETA)
+os achados do ultrassom são compatíveis com TVP aguda, e a angiografia arterial normal
+não exclui comprometimento do sistema venoso profundo.
+(alternativa D)
+os achados ultrassonográficos sugerem insuficiência venosa crônica, e a angiografia
+arterial normal reforça a ausência de obstrução vascular significativa no membro
+acometido.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 28 de 44
+
+Resposta comentada:
+Comentário (explicação)
+O ultrassom Doppler venoso com incompressibilidade e trombo intraluminal é o exame
+de escolha para TVP e, neste caso, é compatível com TVP aguda proximal. A angiografia
+realizada foi arterial, portanto não exclui trombose venosa profunda.
+Os achados descritos no ultrassom (material intraluminal, ausência de compressibilidade
+e redução/ausência de fluxo) são típicos de TVP aguda, não de insuficiência venosa
+crônica. Além disso, angiografia arterial normal apenas confirma patência arterial e não
+informa sobre o sistema venoso.
+Embora exames tomográficos possam ser úteis em situações específicas (suspeita de
+trombose ilíaca/cava ou janela ultrassonográfica inadequada), o Doppler venoso tem alta
+acurácia para trombose proximal (femoral/poplitea) e já fornece diagnóstico neste caso.
+Assim, angiotomografia não é "obrigatória" nem superior como primeira linha aqui.
+Alterações cutâneas crônicas podem coexistir com evento trombótico agudo, mas não
+explicam quadro súbito unilateral com achados ultrassonográficos típicos de TVP aguda.
+A hipótese de trombose residual crônica não é compatível com o início recente dos
+sintomas e com as características do trombo descrito.
+Referências:
+Society for Vascular Surgery / American Venous Forum. Guidelines e recomendações para
+avaliação de doença venosa (inclui papel do ultrassom na doença venosa e refluxo).
+European Society for Vascular Surgery (ESVS). Clinical Practice Guidelines sobre
+tromboembolismo venoso: diagnóstico de TVP com compressão ultrassonográfica e
+Doppler.
+UpToDate. Diagnosis of lower extremity deep vein thrombosis (síntese prática de achados
+de US e limitações de exames arteriais para doença venosa).
+Feedback:
+19ª QUESTÃO
+Enunciado:
+(AFYA GUANAMBI) Homem, 58 anos, obeso (IMC 32 kg/m2) e tabagista, refere dor e
+sensação de peso em ambos os membros inferiores ao final do dia, com piora ao
+ortostatismo prolongado e alivio com elevação dos membros. Relata ainda edema
+maleolar vespertino e prurido cutâneo. No exame físico, observam-se telangiectasias e
+varizes visíveis na face medial das pernas, hiperpigmentação ocre e áreas de
+lipodermatoesclerose no terço distal da perna direita, além de edema depressível
+bilateral (++/4+). Os pulsos pediosos são palpáveis, não há febre e o paciente nega dor
+súbita. Entretanto, refere que há 3 dias, após viagem aérea de aproximadamente 8 horas,
+apresentou dor em panturrilha esquerda associada a discreta tumefação, com
+sensibilidade à palpação, sem dispneia ou dor torácica. O sinal de Homans é negativo.
+Considerando os achados clínicos atuais, qual é a conduta diagnóstica mais apropriada
+neste momento?
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 29 de 44
+
+Alternativas:
+(alternativa A)
+Solicitar dímero-D, pois resultado negativo exclui trombose venosa profunda e confirma
+insuficiência venosa crônica.
+(alternativa B)
+Iniciar empiricamente anticoagulação plena e postergar exames de imagem devido à dor
+em panturrilha pós-viagem.
+(alternativa C) (CORRETA)
+Solicitar ultrassonografia Doppler venosa de membros inferiores para avaliar insuficiência
+venosa crônica e afastar trombose venosa profunda.
+(alternativa D)
+Tratar como celulite e solicitar hemograma e proteína C reativa, pois hiperpigmentação e
+edema sugerem processo infeccioso cutâneo.
+Resposta comentada:
+Alternativa correta: A melhor abordagem diagnóstica, capaz de avaliar ambas as
+condições, é o ultrassom Doppler venoso com compressão de todo o sistema venoso
+profundo, associado ao estudo de refluxo do sistema superficial e das veias perfurantes.
+Trata-se de exame não invasivo, com alta sensibilidade para TVP proximal e que permite
+o mapeamento da insuficiência venosa crônica.
+Justificativa de alternativa incorreta: Iniciar empiricamente anticoagulação plena e
+postergar exames de imagem devido à dor em panturrilha pós-viagem.
+O quadro crônico (sensação de peso em membros inferiores ao final do dia, edema com
+piora ao longo do dia, telangiectasias e varizes, hiperpigmentação ocre e
+lipodermatoesclerose) é típico de insuficiência venosa crônica. Há, entretanto, um evento
+agudo recente com dor e discreto aumento de volume de panturrilha após imobilização
+relativa (viagem aérea prolongada), o que eleva a suspeita de trombose venosa profunda
+(TVP), distal ou proximal. O sinal de Homans, isoladamente, não é confiável para o
+diagnóstico.
+Justificativa de alternativa incorreta: Solicitar dímero-D, pois resultado negativo exclui
+trombose venosa profunda e confirma insuficiência venosa crônica.
+O dímero-D tem utilidade quando a probabilidade clínica de TVP é baixa a intermediária;
+contudo, na presença de doença venosa crônica, pode apresentar elevação inespecífica.
+Além disso, estando disponível o exame de escolha (ultrassom Doppler), este deve ser
+priorizado. Anticoagulação empírica não está indicada na ausência de instabilidade clínica
+ou atraso para realização do exame.
+Justificativa de alternativa incorreta: Tratar como celulite e solicitar hemograma e
+proteína C reativa, pois hiperpigmentação e edema sugerem processo infeccioso cutâneo.
+Celulite infecciosa cursa com dor, calor, rubor, febre e sinais sistêmicos; a
+hiperpigmentação ocre e a lipodermatoesclerose representam manifestações de
+hipertensão venosa crônica, não infecção.
+Referências:
+OLIVEIRA, Julio Cesar Peclat de. et.al. Livro da Sociedade Brasileira de Angiologia e de
+Cirurgia Vascular. 1. ed. Rio de Janeiro: Dilivros, 2022.
+SOCIEDADE BRASILEIRA DE ANGIOLOGIA E DE CIRURGIA VASCULAR (SBACV). Diretriz
+para doenças venosas crônicas dos membros inferiores. São Paulo: SBACV, 2021.
+Feedback:
+20ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 30 de 44
+
+Enunciado:
+(AFYA TERESINA) Paciente politraumatizado, socorrido por populares após colisão
+automobilística, dá entrada na sala de trauma com PA 70x40 mmHg e FC 135 bpm,
+mantendo instabilidade após ressuscitação inicial com hemoderivados. O ultrassom FAST
+é negativo para líquido livre intra-abdominal, e a radiografia evidencia fratura pélvica em
+"livro aberto".
+Segundo o ATLS 11ª edição, qual é a conduta imediata mais adequada?
+Alternativas:
+(alternativa A)
+Encaminhar para tomografia computadorizada de corpo inteiro.
+(alternativa B) (CORRETA)
+Realizar estabilização pélvica externa com cinta pélvica.
+(alternativa C)
+Otimizar reposição com cristaloide e considerar vasopressores.
+(alternativa D)
+Devido à instabilidade, indicar laparotomia exploradora imediata.
+Resposta comentada:
+Paciente hemodinamicamente instável não deve ser transferido para tomografia. O ATLS
+enfatiza que exames diagnósticos não devem atrasar o controle da hemorragia.
+Fratura pélvica instável associada a choque e FAST negativo sugere fortemente
+hemorragia pélvica como fonte principal.
+A conduta imediata é estabilização mecânica externa da pelve com compressão
+circunferencial (cinta pélvica) para reduzir o volume pélvico e promover tamponamento,
+associada à ressuscitação hemostática. Se a instabilidade persistir, deve-se considerar
+embolização angiográfica ou packing pélvico extraperitoneal.
+Laparotomia está indicada quando há suspeita de hemoperitônio significativo. Com FAST
+negativo, a fonte provável é pélvica, não abdominal.
+O uso excessivo de cristaloides em choque hemorrágico devido ao risco de diluição de
+fatores de coagulação e piora da tríade letal.
+Referência:
+AMERICAN COLLEGE OF SURGEONS. ATLS: Advanced Trauma Life Support: Student
+Course Manual. 11. ed. Chicago: American College of Surgeons, 2023.
+Feedback:
+21ª QUESTAO
+Enunciado:
+(AFYA ITABUNA) Adolescente de 16 anos dá entrada na emergência com dor intensa em
+bolsa escrotal esquerda, de início súbito há cerca de 3 horas, associada a náuseas e
+vômitos. Nega febre, disúria ou trauma local. No exame físico, observa-se aumento da
+sensibilidade local, testículo esquerdo elevado em relação ao contralateral, ausência do
+reflexo cremastérico ipsilateral e piora da dor à elevação do escroto.
+A ultrassonografia Doppler escrotal evidencia redução acentuada do fluxo sanguíneo no
+testiculo esquerdo, sem sinais de aumento do epidídimo ou coleção líquida.
+Com base nos achados clínicos e do exame complementar, qual é a interpretação
+diagnóstica mais adequada, considerando a gravidade do quadro e o diagnóstico
+diferencial das causas de dor escrotal aguda?
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 31 de 44
+
+Alternativas:
+(alternativa A)
+Priapismo isquêmico, caracterizado por dor escrotal intensa e alterações ao Doppler
+testicular.
+(alternativa B) (CORRETA)
+Torção testicular aguda: dor súbita, reflexo cremastérico ausente e Doppler com fluxo
+reduzido.
+(alternativa C)
+Dor escrotal secundária à urolitíase, com irradiação referida para a bolsa escrotal.
+(alternativa D)
+Orquiepididimite aguda, sugerida pelo início abrupto da dor e ausência de sintomas
+urinários.
+Resposta comentada:
+Alternativa correta:
+O quadro é compatível com torção testicular aguda, emergência urológica caracterizada
+por dor escrotal súbita, intensa, frequentemente associada a náuseas e vômitos. O
+exame físico demonstra sinais clássicos, como elevação testicular e ausência do reflexo
+cremastérico ipsilateral, considerado o achado clínico mais sensível para torção. A piora
+da dor à elevação do escroto (sinal de Prehn negativo) reforça o diagnóstico. A
+ultrassonografia Doppler evidencia redução acentuada do fluxo sanguíneo testicular,
+confirmando comprometimento vascular. Segundo as diretrizes, a torção testicular deve
+ser prontamente reconhecida, pois a viabilidade testicular depende de intervenção
+cirurgica nas primeiras 6 horas.
+Explicação das incorretas:
+A orquiepididimite aguda geralmente apresenta início mais insidioso, podendo estar
+associada a febre, disúria e leucocitúria. No exame físico, costuma haver dor localizada
+no epidídimo, aumento do volume e, frequentemente, melhora da dor à elevação escrotal
+(sinal de Prehn positivo). No Doppler, observa-se aumento do fluxo sanguíneo devido ao
+processo inflamatório. No caso apresentado, não há sintomas urinários ou febre, e o
+Doppler demonstra redução, e não aumento, do fluxo, afastando essa hipótese.
+O priapismo isquêmico caracteriza-se por ereção peniana dolorosa e prolongada, sem
+relação com dor escrotal isolada. Trata-se de condição peniana, e não testicular. O
+diagnóstico é essencialmente clínico, podendo ser confirmado por gasometria cavernosa,
+e não por Doppler testicular. Portanto, os achados descritos não são compatíveis com
+priapismo.
+A urolitíase pode ocasionar dor irradiada para a região inguinal ou escrotal, porém a dor
+primária é tipicamente lombar ou em flanco, associada a hematúria. Não há alteração no
+exame físico testicular específica nem redução de fluxo ao Doppler escrotal. No caso
+apresentado, os achados físicos e ultrassonográficos apontam claramente para
+comprometimento vascular testicular, o que exclui dor referida por cálculo ureteral.
+Referência:
+TOWNSEND, C. M. et al. Sabiston textbook of surgery: the biological basis of modern
+surgical practice. 21. ed. Philadelphia: Elsevier, 2022.
+Feedback:
+22ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 32 de 44
+
+Enunciado:
+(AFYA ITABUNA) Homem de 27 anos é trazido à emergência após colisão moto-carro.
+Apresenta dor torácica à esquerda e dispneia leve, com saturação de 93% em ar
+ambiente, pressão arterial 120/75 mmHg e frequência cardíaca 108 bpm. A ausculta, há
+diminuição do murmúrio vesicular no hemitórax esquerdo.
+A radiografia de tórax em AP no leito mostra linha pleural visível no ápice esquerdo com
+redução da trama vascular periférica e discreto desvio da traqueia.
+A ultrassonografia eFAST evidencia ausência de deslizamento pleural ("lung sliding") e
+presença do "lung point" no hemitórax esquerdo.
+A tomografia computadorizada de tórax confirma coleção gasosa pleural à esquerda com
+colabamento parcial do pulmão, sem grande desvio mediastinal.
+Com base na correlação entre os achados clínicos e os exames de imagem apresentados,
+qual é a interpretação diagnóstica mais provável?
+Alternativas:
+(alternativa A)
+Atelectasia traumática à esquerda.
+(alternativa B)
+Contusão pulmonar isolada à esquerda.
+(alternativa C)
+Hemotórax traumático à esquerda.
+(alternativa D) (CORRETA)
+Pneumotórax traumático não hipertensivo à esquerda.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 33 de 44
+
+Resposta comentada:
+- Pneumotórax traumático não hipertensivo à esquerda.
+Correta. O diagnóstico é sustentado pela integração dos achados:
+Linha pleural visível no RX com ausência de trama vascular periférica → sugestivo de
+pneumotórax.
+Ausência de lung sliding no eFAST → compatível com perda de contato pleural.
+Presença de lung point → altamente específico para pneumotórax (descrição clássica em
+ultrassonografia pulmonar).
+Tomografia mostrando coleção gasosa pleural → confirmação anatômica.
+Estabilidade hemodinâmica e ausência de grande desvio mediastinal → afastam
+pneumotórax hipertensivo.
+- Hemotórax traumático à esquerda.
+Incorreta. O hemotórax caracteriza-se por coleção líquida pleural, geralmente
+visualizada:
+No RX, como opacificação basal.
+No eFAST, como líquido anecoico.
+Na TC, como densidade compatível com sangue.
+Além disso, o lung point não ocorre em hemotórax, pois ele representa a interface
+dinâmica entre pulmão expandido e ar pleural. Portanto, os achados descritos são
+incompatíveis com hemotórax.
+- Contusão pulmonar isolada à esquerda.
+Incorreta. A contusão pulmonar caracteriza-se por:
+Opacidades alveolares no RX.
+Áreas de consolidação ou vidro fosco na TC.
+Comprometimento parenquimatoso.
+No caso descrito: Não há opacidades pulmonares, não há infiltrado na tomografia, há
+evidência clara de ar pleural. Além disso, contusão não gera lung point.
+- Atelectasia traumática à esquerda.
+Incorreta. A atelectasia pode causar redução do murmúrio vesicular e eventual desvio
+traqueal para o lado acometido. Entretanto, não produz linha pleural típica de
+pneumotórax, não causa lung point e não apresenta coleção gasosa pleural. A presença
+de ar no espaço pleural na tomografia descarta atelectasia como diagnóstico principal.
+Referências:
+AMERICAN COLLEGE OF SURGEONS. ATLS®: Advanced Trauma Life Support - Student
+Course Manual. 10. ed. Chicago: American College of Surgeons, 2018.
+AMERICAN COLLEGE OF SURGEONS. ATLS®: Advanced Trauma Life Support - Student
+Course Manual. 11. ed. Chicago: American College of Surgeons, 2023.
+Feedback:
+23ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 34 de 44
+
+Enunciado:
+(AFYA PALMAS) Lactente de 10 meses é admitido na emergência com história de dor
+abdominal intermitente há 24 horas, episódios de choro inconsolável e vômitos biliosos
+nas últimas 8 horas. Evoluiu com distensão abdominal progressiva, febre (39°C) e
+prostração.
+No exame físico, encontra-se irritado, com frequência cardíaca de 165 bpm, pressão
+arterial de 78/42 mmHg, enchimento capilar de 4 segundos e extremidades frias. O
+abdômen está distendido, com defesa involuntária difusa e dor intensa à palpação, além
+de sinais de irritação peritoneal.
+Ultrassonografia abdominal demonstra imagem compatível com intussuscepção ileocólica
+e líquido livre em cavidade abdominal.
+Gasometria arterial revela pH 7,24, lactato 5,2 mmol/L e bicarbonato 14 mEq/L.
+Diante do quadro apresentado, qual é a conduta mais adequada no manejo imediato
+desse paciente?
+Alternativas:
+(alternativa A)
+Solicitar tomografia abdominal para melhor avaliação da extensão do comprometimento
+intestinal antes de definir conduta.
+(alternativa B)
+Realizar redução por enema pneumático guiado por imagem como primeira medida
+terapêutica.
+(alternativa C) (CORRETA)
+Iniciar ressuscitação volêmica com cristaloide isotônico, antibioticoterapia de amplo
+espectro e encaminhar para abordagem cirúrgica urgente.
+(alternativa D)
+Administrar analgesia e aguardar estabilização clínica antes de decidir entre tratamento
+conservador ou cirúrgico.
+Resposta comentada:
+Correta. O paciente apresenta intussuscepção complicada com sinais de peritonite e
+choque, sugerindo necrose ou perfuração intestinal. O manejo deve incluir estabilização
+hemodinâmica imediata com cristaloide isotônico em bolus, antibioticoterapia de amplo
+espectro e encaminhamento urgente para intervenção cirúrgica. A cirurgia não deve ser
+postergada por exames adicionais.
+Incorreta. A presença de sinais de peritonite e instabilidade hemodinâmica contraindica
+tentativa de redução por enema, devido ao risco elevado de perfuração intestinal e
+agravamento do quadro séptico.
+Incorreta. Em paciente instável com sinais clínicos claros de peritonite, exames adicionais
+de imagem podem atrasar tratamento definitivo e aumentar morbimortalidade.
+Incorreta. A conduta expectante é inadequada em paciente com sinais de abdome agudo
+complicado e instabilidade hemodinâmica.
+Referência:
+TOWNSEND, C. M. et al. Sabiston textbook of surgery: the biological basis of modern
+surgical practice. 21. ed. Philadelphia: Elsevier, 2022.
+Feedback:
+24ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 35 de 44
+
+Enunciado:
+(AFYA ITABUNA) Homem de 42 anos procura a emergência com dor intensa em flanco
+direito, de início súbito, em cólica, irradiada para a região inguinal, associada a náuseas.
+Nega febre, disúria ou episódios semelhantes prévios.
+Ao exame físico, apresenta dor à palpação profunda em flanco direito, sem sinais de
+irritação peritoneal.
+O exame de urina tipo I evidencia hematúria microscópica, sem leucocitúria significativa
+ou bacteriúria.
+A tomografia computadorizada de abdome e pelve sem contraste demonstra discreta
+dilatação pielocalicial direita e aumento do calibre do ureter proximal, sem sinais de
+espessamento parietal significativo ou coleções perirrenais.
+Com base na integração dos achados clínicos, laboratoriais e tomográficos, qual é a
+interpretação diagnóstica mais adequada para o caso apresentado?
+Alternativas:
+(alternativa A)
+Torção testicular direita, definida por dor de início súbito com possível irradiação inguinal,
+sem alterações laboratoriais específicas e sem relação com achados tomográficos
+urinários.
+(alternativa B)
+Orquiepididimite aguda direita, associada a dor escrotal progressiva, alterações
+inflamatórias no exame físico local e achados sugestivos de infecção urinária.
+(alternativa C) (CORRETA)
+Urolitíase ureteral direita não complicada, associada à hematúria microscópica e
+dilatação do sistema coletor a montante, sem evidência de infecção ou obstrução
+complicada.
+(alternativa D)
+Pielonefrite aguda direita, caracterizada por dor em flanco associada a alterações
+urinárias inflamatórias e sinais sistêmicos infecciosos.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 36 de 44
+
+Resposta comentada:
+Alternativa correta:
+O quadro clínico é típico de cólica renal secundária a obstrução ureteral distal. A dor
+súbita, em cólica, irradiada para a região inguinal, associada a náuseas, é classicamente
+descrita na urolitíase. A presença de hematúria microscópica reforça a hipótese de
+cálculo ureteral, uma vez que a irritação da mucosa pelo cálculo frequentemente provoca
+sangramento microscópico. A tomografia computadorizada sem contraste evidencia
+dilatação pielocalicial e aumento do calibre ureteral proximal, achados compatíveis com
+obstrução a montante. A ausência de febre, leucocitúria significativa ou sinais sistêmicos
+infecciosos indica tratar-se de quadro não complicado. Segundo as diretrizes da EAU e da
+AUA, a TC sem contraste é o exame padrão-ouro para avaliação da cólica renal e a
+dilatação do sistema coletor associada à clínica típica sustenta o diagnóstico de urolitíase
+ureteral não complicada.
+Explicação das incorretas:
+A pielonefrite aguda geralmente se manifesta com dor em flanco associada a febre, mal-
+estar sistêmico e alterações inflamatórias urinárias, como leucocitúria significativa e
+bacteriúria. No caso descrito, o paciente nega febre, não apresenta sinais sistêmicos
+infecciosos e o exame de urina não evidencia leucocitúria relevante. Além disso, a
+tomografia não demonstra sinais de inflamação parenquimatosa renal ou coleções
+perirrenais. Dessa forma, os achados clínicos, laboratoriais e tomográficos não sustentam
+o diagnóstico de infecção renal aguda.
+A torção testicular caracteriza-se por dor escrotal súbita e intensa, frequentemente
+associada a alterações no exame físico da bolsa escrotal, como testículo elevado,
+horizontalizado ou ausência do reflexo cremastérico. Embora a dor possa irradiar para a
+região inguinal, o quadro apresentado descreve dor primária em flanco, com achados
+urinários e tomográficos sugestivos de obstrução do trato urinário superior. Não há relato
+de dor escrotal inicial ou alterações locais compatíveis com torção testicular. Portanto, a
+hipótese não é sustentada pelos dados clínicos.
+A orquiepididimite aguda costuma manifestar-se com dor escrotal progressiva, edema
+local, sinais inflamatórios e, frequentemente, alterações urinárias como leucocitúria e
+bacteriúria. Pode estar associada a febre e sintomas urinários baixos. No caso descrito,
+não há dor escrotal primária, alterações inflamatórias locais ou evidência laboratorial de
+infecção urinária. Ademais, os achados tomográficos apontam para dilatação do sistema
+coletor renal, o que direciona o raciocínio para obstrução ureteral e não para patologia
+inflamatória escrotal.
+Referência:
+TOWNSEND, C. M. et al. Sabiston textbook of surgery: the biological basis of modern
+surgical practice. 21. ed. Philadelphia: Elsevier, 2022.
+Feedback:
+25ª QUESTÃO
+Enunciado:
+(AFYA GARANHUNS) Um homem de 28 anos chega ao pronto-socorro após queimadura
+por chama em membro superior direito. Apresenta queimadura circular (circunferencial)
+no antebraço e mão, com bolhas e áreas esbranquiçadas. Cerca de 2 horas após a
+admissão, refere dor intensa desproporcional, parestesias nos dedos e sensação de "mão
+apertada". Ao exame: extremidade fria, tempo de enchimento capilar prolongado e piora
+da dor à extensão passiva dos dedos. Pulsos radiais estão presentes, porém mais fracos
+comparados ao lado contralateral.
+A conduta necessária para prevenir complicações graves e promover a recuperação
+adequada do paciente é:
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 37 de 44
+
+Alternativas:
+(alternativa A)
+elevar o membro acima do nível do coração, manter analgesia adequada, realizar
+curativo compressivo e monitorar periodicamente a perfusão distal.
+(alternativa B)
+analgesia adequada e observação por 6 horas, reconhecendo que a presença de pulsos
+periféricos não exclui síndrome compartimental aguda.
+(alternativa C) (CORRETA)
+retirar adornos/constrições, posicionar o membro ao nível cardíaco, analgesia adequada e
+encaminhar para avaliação cirúrgica urgente para descompressão do membro.
+(alternativa D)
+iniciar antibiótico profilático sistêmico e curativo úmido, com reavaliação no dia seguinte
+para prevenir necrose por síndrome compartimental aguda.
+Resposta comentada:
+Retirar adornos/constrições, posicionar o membro ao nível cardíaco, analgesia adequada
+e encaminhar para avaliação cirúrgica urgente para descompressão do membro. -
+Correta: Intervenções imediatas incluem retirar compressões externas, analgesia, manter
+o membro ao nível do coração (elevação excessiva pode piorar perfusão) e,
+principalmente, chamar avaliação cirúrgica urgente para considerar escarotomia (em
+queimadura circunferencial) e fasciotomia (se compartimental estabelecida), prevenindo
+necrose, perda funcional e outras complicações graves.
+O cenário descreve sinais clássicos de comprometimento perfusional/pressão aumentada
+em queimadura circunferencial, com alto risco de síndrome compartimental e/ou
+necessidade urgente para descompressão do membro, como a escarotomia (quando a
+escara rígida "estrangula" a expansão dos tecidos). Os achados mais importantes são:
+Dor desproporcional e dor à extensão passiva (sinal precoce e muito sugestivo).
+Parestesias (sofrimento neural).
+Extremidade fria e enchimento capilar lento (hipoperfusão).
+Pulsos presentes não excluem síndrome compartimental (podem persistir até fases mais
+tardias).
+Analgesia adequada e observação por 6 horas, reconhecendo que a presença de pulsos
+periféricos não exclui síndrome compartimental aguda. Incorreta: pulsos presentes não
+afastam síndrome compartimental. Além disso, não se deve "observar por 6 horas" sem
+reavaliação clínica rigorosa quando existe dor desproporcional e sinais de
+compartimento. A conduta correta inclui avaliação clínica contínua e possível intervenção
+cirúrgica sem atraso.
+Elevar o membro acima do nível do coração, manter analgesia adequada, realizar
+curativo compressivo e monitorar periodicamente a perfusão distal. - Incorreta: elevar
+acima do nível do coração pode reduzir a perfusão distal em uma área já comprometida.
+A medida correta é posicionar o membro ao nível cardíaco (ou neutro) para não
+comprometer a perfusão, além de analgesia e avaliação cirúrgica.
+Iniciar antibiótico profilático sistêmico e curativo úmido, com reavaliação no dia seguinte
+para prevenir necrose por síndrome compartimental aguda - Incorreta: antibiótico
+profilático e curativo úmido não tratam SCA nem previnem necrose; a conduta adequada
+é avaliação cirúrgica imediata se houver indicação de fasciotomia.
+Referências:
+American Burn Association (ABA). Advanced Burn Life Support (ABLS) Provider Manual -
+princípios de avaliação e manejo inicial de queimaduras e indicações de escarotomia.
+ATLS® (American College of Surgeons). Advanced Trauma Life Support Student Course
+Manual — avaliação inicial, sinais de isquemia em extremidades e urgências associadas.
+Feedback:
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 38 de 44
+
+26ª QUESTÃO
+Enunciado:
+(AFYA TERESINA) Homem de 32 anos, vítima de colisão automobilística de alta energia,
+chega inicialmente hipotenso (PA 85x55 mmHg) e taquicárdico (FC 130 bpm). Após
+ressuscitação inicial com hemoderivados, evolui com PA 110x70 mmHg, FC 95 bpm, sem
+sinais de peritonite. FAST positivo em espaço hepatorrenal.
+Assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+Repetir FAST após estabilização.
+(alternativa B)
+Observação e vigilância em UTI.
+(alternativa C) (CORRETA)
+Tomografia computadorizada com contraste.
+(alternativa D)
+Laparotomia exploradora imediata.
+Resposta comentada:
+Tomografia computadorizada com contraste (correta)
+Paciente respondeu à ressuscitação e encontra-se estável. Nessa condição, a TC é o
+exame padrão para estadiar lesões, identificar sangramento ativo e definir conduta (não-
+operatória, angio ou cirurgia).
+Laparotomia exploradora imediata (incorreta)
+Indicada em instabilidade hemodinâmica persistente ou peritonite. Como houve resposta
+à reposição e estabilização, não é a primeira conduta.
+Repetir FAST após estabilização (incorreta)
+O FAST já foi positivo e não fornece estadiamento nem avalia adequadamente o
+retroperitônio A TC é superior para planejamento terapêutico.
+Observação e vigilância em UTI (incorreta)
+A observação pode fazer parte do tratamento não operatório, mas somente após
+estadiamento por TC. Não se deve omitir investigação adequada inicial.
+Referência:
+AMERICAN COLLEGE OF SURGEONS. ATLS: Advanced Trauma Life Support: Student
+Course Manual. 11. ed. Chicago: American College of Surgeons, 2023.
+Feedback:
+27ª QUESTÃO
+Enunciado:
+(AFYA MONTES CLAROS) Homem de 28 anos é admitido na sala de emergência após
+colisão automobilística de alta energia. Encontra-se consciente, porém agitado. Apresenta
+PA 88/56 mmHg, FC 124 bpm, FR 26 irpm e pele fria. No exame físico, observa-se dor
+abdominal difusa, sem sinais evidentes de peritonite, além de equimose em flanco
+esquerdo. Não há deformidades evidentes em pelve ou membros inferiores.
+Após reposição inicial com cristaloide aquecido, mantém instabilidade hemodinâmica. O
+exame FAST evidencia líquido livre em espaço perihepático e pélvico.
+Considerando os princípios atuais do manejo do trauma abdominal fechado, assinale a
+alternativa correta quanto à conduta mais adequada nesse momento.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 39 de 44
+
+Alternativas:
+(alternativa A) (CORRETA)
+Indicar laparotomia exploradora imediata, considerando instabilidade hemodinâmica
+associada a FAST positivo.
+(alternativa B)
+Solicitar tomografia computadorizada de abdome com contraste para estadiamento das
+lesões antes de qualquer intervenção cirúrgica.
+(alternativa C)
+Manter observação clínica em unidade de terapia intensiva, com reavaliações seriadas e
+repetição do FAST em 6 horas.
+(alternativa D)
+Iniciar protocolo de embolização angiointervencionista hepática de urgência como
+primeira abordagem terapêutica.
+Resposta comentada:
+Respostas comentadas:
+Alternativa: Solicitar tomografia computadorizada de abdome com contraste para
+estadiamento das lesões antes de qualquer intervenção cirúrgica. Incorreta.
+A tomografia computadorizada é o exame padrão para avaliação de trauma abdominal
+fechado em pacientes hemodinamicamente estáveis. Neste caso, o paciente permanece
+instável após reposição volêmica inicial e apresenta FAST positivo, o que contraindica
+retardar o tratamento cirúrgico para realização de tomografia.
+Alternativa: Indicar laparotomia exploradora imediata, considerando instabilidade
+hemodinâmica associada a FAST positivo. Correta.
+Em trauma abdominal fechado com instabilidade hemodinâmica persistente e FAST
+positivo, a conduta indicada é laparotomia exploradora imediata. O achado de líquido
+livre em paciente instável sugere hemoperitônio significativo, e a abordagem cirúrgica
+rápida é essencial para controle de danos e redução da mortalidade.
+Alternativa: Iniciar protocolo de embolização angiointervencionista hepática de urgência
+como primeira abordagem terapêutica. Incorreta.
+A embolização angiointervencionista é indicada principalmente em pacientes
+hemodinamicamente estáveis com sangramento arterial identificado. Em contexto de
+instabilidade refratária, a laparotomia é prioritária, pois permite controle direto de
+múltiplas possíveis fontes hemorrágicas.
+Alternativa: Manter observação clínica em unidade de terapia intensiva, com reavaliações
+seriadas e repetição do FAST em 6 horas. Incorreta.
+A observação clínica é conduta aceitável apenas em pacientes estáveis e sem sinais de
+sangramento ativo significativo. A persistência de hipotensão e taquicardia, associada a
+FAST positivo, caracteriza indicação cirúrgica imediata.
+Referências:
+TOWNSEND, Courtney M. et al. Sabiston: tratado de cirurgia: a base biológica da prática
+cirúrgica moderna. 21. ed. Rio de Janeiro: Elsevier, 2022.
+Capítulo: Trauma abdominal.
+AMERICAN COLLEGE OF SURGEONS. ATLS®: Advanced Trauma Life Support® Student
+Course Manual. 11. ed. Chicago: American College of Surgeons, 2023.
+Feedback:
+28ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 40 de 44
+
+Enunciado:
+(AFYA PALMAS) Paciente masculino, 28 anos, portador de anemia falciforme, procura a
+emergência com ereção peniana dolorosa há 3 horas, sem estímulo sexual. Refere dor
+progressiva e intensa. Nega trauma perineal.
+No exame físico:
+Corpos cavernosos rígidos e dolorosos.
+Glande parcialmente flácida.
+Sem sinais de trauma.
+PA: 120x76 mmHg, FC: 96 bpm.
+Gasometria do sangue cavernoso: pH: 7,12, pOz: 32 mmHg, pCOz: 64 mmHg.
+Com base no quadro clínico e no mecanismo fisiopatológico envolvido, a conduta inicial
+mais adequada neste momento é:
+Alternativas:
+(alternativa A)
+classificar como priapismo isquêmico e iniciar hidratação venosa e transfusão antes de
+qualquer intervenção local.
+(alternativa B)
+classificar como priapismo não isquêmico e manter observação clínica, pois a reversão
+espontânea pode ocorrer.
+(alternativa C) (CORRETA)
+classificar como priapismo isquêmico e realizar aspiração cavernosa associada à injeção
+intracavernosa de agonista alfa-adrenérgico.
+(alternativa D)
+classificar como priapismo não isquêmico e solicitar Doppler peniano para confirmação
+diagnóstica antes de intervir.
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 41 de 44
+
+Resposta comentada:
+Alternativa correta:
+O quadro clínico é compatível com priapismo isquêmico (baixo fluxo), caracterizado por
+ereção dolorosa, corpos cavernosos rígidos, glande parcialmente flácida e ausência de
+trauma. A gasometria cavernosa confirma o diagnóstico ao demonstrar acidose (pH 7,12),
+hipóxia (pO2 32 mmHg) e hipercapnia (pCO2 64 mmHg), padrão típico de sangue venoso
+estagnado. Trata-se de emergência urológica, pois a hipóxia prolongada pode levar à
+necrose tecidual e disfunção erétil permanente. Segundo as diretrizes mais atuais, a
+conduta imediata consiste em aspiração do sangue cavernoso associada à irrigação e
+injeção intracavernosa de agonista alfa-adrenérgico (preferencialmente fenilefrina). Em
+pacientes com anemia falciforme, medidas sistêmicas são adjuvantes, mas não devem
+retardar o tratamento local. Portanto, essa é a conduta mais adequada.
+Explicação das incorretas:
+Embora pacientes com anemia falciforme devam receber hidratação venosa, oxigenação
+e, em alguns casos, transfusão sanguínea como medidas adjuvantes, essas intervenções
+não substituem nem precedem obrigatoriamente o tratamento intracavernoso. As
+diretrizes internacionais são explícitas ao afirmar que o manejo sistêmico não deve
+atrasar a intervenção local no priapismo isquêmico. A prioridade terapêutica é restaurar o
+fluxo sanguíneo cavernoso o mais rapidamente possivel para evitar lesão tecidual
+irreversível. Assim, iniciar hidratação e transfusão antes da aspiração cavernosa configura
+conduta inadequada neste contexto.
+O priapismo não isquêmico (alto fluxo) geralmente está associado a trauma perineal,
+apresenta ereção menos dolorosa e parcialmente rígida, e a gasometria cavernosa
+demonstra sangue arterializado, com pH e pOz próximos do normal. No caso descrito, há
+dor intensa e gasometria compatível com hipóxia e acidose, confirmando priapismo
+isquêmico. Dessa forma, não há indicação de Doppler peniano antes da intervenção, pois
+o diagnóstico já está estabelecido. Aguardar exames complementares em uma condição
+emergencial pode retardar o tratamento e aumentar o risco de complicações.
+A conduta expectante é reservada, em geral, para casos de priapismo não isquêmico,
+que não configuram emergência e podem evoluir com resolução espontânea. No entanto,
+o caso apresentado reúne critérios inequívocos de priapismo isquêmico, condição que
+exige intervenção imediata. A observação clínica isolada expõe o paciente a risco de
+necrose cavernosa e disfunção erétil definitiva, especialmente em um indivíduo com
+anemia falciforme, que já possui predisposição fisiopatológica à vaso-oclusão. Portanto,
+essa alternativa está incorreta.
+Referência:
+TOWNSEND, C. M. et al. Sabiston textbook of surgery: the biological basis of modern
+surgical practice. 21. ed. Philadelphia: Elsevier, 2022.
+Feedback:
+29ª QUESTÃO
+Enunciado:
+(AFYA GUANAMBI) Homem de 72 anos, hipertenso, dislipidêmico e ex-tabagista (40
+maços-ano), em acompanhamento por doença arterial obstrutiva periférica (DAOP),
+apresenta claudicação de panturrilhas aos 150 metros, com índice tornozelo-braquial de
+0,65 à direita e 0,68 à esquerda. Faz uso regular de ácido acetilsalicílico, estatina de alta
+potência e participa de programa de caminhada supervisionada. Procura o pronto
+atendimento devido à dor súbita e intensa no membro inferior direito, há
+aproximadamente três horas, associada a parestesia e sensação de frio. Informa
+diagnóstico prévio de aneurisma de aorta abdominal infrarrenal de 5,5 cm, identificado
+há seis meses, até então assintomático. No exame físico, observa-se palidez, frialdade,
+dor à palpação, ausência de pulsos poplíteo e distais, dificuldade para movimentação
+ativa do tornozelo e sensibilidade diminuída no dorso do pé. Sinais vitais estáveis.
+Considerando o caso acima, qual é a conduta imediata e o plano de cuidados continuados
+mais apropriados para reduzir o risco de complicações vasculares e perda do membro
+nesse paciente?
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 42 de 44
+
+Alternativas:
+(alternativa A)
+Observação por 24-48 h, analgesia simples, aumentar intensidade do exercício e
+seguimento anual do aneurisma com ultrassom.
+(alternativa B) (CORRETA)
+Anticoagulação sistêmica com heparina, analgesia, avaliação vascular urgente para
+revascularização e reparo eletivo do aneurisma por equipe especializada.
+(alternativa C)
+Aquecimento do membro, elevação, massagem, iniciar clopidogrel e suspender AAS;
+adiar qualquer decisão sobre o aneurisma por não ser sintomático.
+(alternativa D)
+Trombolítico sistêmico imediato, seguido de repouso absoluto por 7 dias e observação do
+aneurisma até 6,0 cm, sem intervenção.
+Resposta comentada:
+Justificativa da alternativa correta:
+O quadro é compatível com isquemia aguda de membro, com início há 3 horas e
+presença dos "6 Ps", sugerindo Rutherford Ila-Ilb, situação que exige intervenção
+imediata para preservação da viabilidade tecidual.
+Conduta imediata: iniciar anticoagulação sistêmica com heparina não fracionada (se não
+houver contraindicações), analgesia, proteção térmica e posicionamento do membro em
+posição neutra ou discretamente declive. Realizar avaliação vascular urgente para
+revascularização imediata, preferencialmente por trombectomia/embolectomia ou
+trombólise dirigida por cateter, conforme etiologia, anatomia e gravidade; em Rutherford
+Ilb, a revascularização não deve ser retardada.
+Cuidados continuados: otimizar terapia antitrombótica, manter estatina de alta
+intensidade, controlar rigorosamente fatores de risco e monitorar complicações pós-
+repertusão.
+O aneurisma de aorta abdominal de 5,5 cm em homem tem indicação de reparo eletivo
+(EVAR ou aberto), devendo ser planejado após estabilização do quadro agudo do
+membro. Observação isolada não é conduta adequada.
+Justificativa das alternativas incorretas:
+Conduta expectante ou intensificação de exercício atrasa a revascularização em um
+cenário de IAM e desconsidera o limiar de intervenção de 5,5 cm para AAA em homens.
+Trombólise sistêmica indiscriminada não é recomendada, devido ao maior risco
+hemorrágico; quando indicada, deve ser dirigida por cateter ou associada à abordagem
+cirúrgica, conforme a classificação de Rutherford e a etiologia.
+Medidas exclusivamente conservadoras (como aquecimento local ou massagem) são
+inadequadas diante de isquemia aguda de membro, e o adiamento da decisão
+terapêutica sobre o AAA não está em conformidade com as diretrizes atuais.
+Referências:
+DOHERTY, Gerard M. CURRENT. Cirurgia. Grupo A, 2017. E-book. ISBN 9788580556018.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788580556018/.
+Acesso em: 28 de maio 2024.
+OLIVEIRA, Julio Cesar Peclat de, et al. Livro da Sociedade Brasileira de Angiologia e de
+Cirurgia Vascular. 1. ed. Rio de Janeiro: Dilivros, 2022.
+Feedback:
+30ª QUESTÃO
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 43 de 44
+
+Enunciado:
+(AFYA GUANAMBI) Um homem de 67 anos, tabagista, hipertenso e diabético, apresenta
+dor intensa em membro inferior direito há 8 horas, de início súbito, associada a palidez,
+frialdade e ausência de pulso distal. O Doppler arterial evidencia ausência de fluxo na
+artéria femoral superficial direita, sem fluxo distal detectável. Durante investigação
+complementar, ultrassonografia abdominal identifica dilatação fusiforme da aorta
+abdominal infrarrenal medindo 5,8 cm de diâmetro, com trombo mural e sem sinais de
+extravasamento.
+Com base na interpretação dos exames, assinale a alternativa correta.
+Alternativas:
+(alternativa A)
+O resultado do Doppler arterial demonstra neuropatia isquêmica diabética avançada; o
+aneurisma de aorta abdominal somente é definido quando o diâmetro ultrapassa 7,0 cm.
+(alternativa B) (CORRETA)
+O Doppler indica obstrução arterial aguda por interrupção súbita do fluxo; a aorta
+abdominal com diâmetro ≥ 3,0 cm define aneurisma, com maior risco de ruptura quando
+acima de 5,5 cm.
+(alternativa C)
+O fluxo ausente ao Doppler caracteriza trombose venosa profunda; a dilatação fusiforme
+da aorta abdominal representa variação anatômica sem critério para aneurisma.
+(alternativa D)
+O Doppler sugere doença arterial obstrutiva periférica crônica com formação de
+circulação colateral; a dilatação da aorta abdominal é compatível com ectasia fisiológica
+relacionada à idade.
+Resposta comentada:
+Alternativa correta: Interrupção súbita do fluxo arterial ao Doppler caracteriza obstrução
+arterial aguda. Aneurisma de aorta abdominal é definido por diâmetro ≥ 3,0 cm, com
+aumento significativo do risco de ruptura quando ≥ 5,5 cm.
+Justificativa das incorretas:
+Na DAOP crônica, espera-se redução progressiva do fluxo com presença de colaterais. O
+quadro descrito é súbito, compatível com obstrução arterial aguda. Aorta ≥ 3,0 cm já
+define aneurisma.
+Trombose venosa profunda compromete o sistema venoso e não causa ausência de
+pulso arterial. Dilatação de 5,8 cm configura aneurisma verdadeiro.
+Neuropatia diabética não altera fluxo arterial ao Doppler. O critério diagnóstico de
+aneurisma é ≥ 3,0 cm, não 7,0 cm.
+Referências:
+DOHERTY, Gerard M. CURRENT. Cirurgia. Grupo A, 2017. E-book. ISBN 9788580556018.
+Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788580556018/.
+Acesso em: 28 de maio 2024.
+OLIVEIRA, Julio Cesar Peclat de. et.al. Livro da Sociedade Brasileira de Angiologia e de
+Cirurgia Vascular. 1. ed. Rio de Janeiro: Dilivros, 2022.
+Feedback:
+000186.830016.3fb560.e4d1f1.69c32a.ef9ac6.7a4eaa.282d9 Página 44 de 44
